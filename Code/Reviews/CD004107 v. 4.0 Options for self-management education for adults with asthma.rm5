@@ -1,0 +1,2773 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD004107" GROUP_ID="AIRWAYS" ID="483802031214284031" MERGED_FROM="" MODIFIED="2009-03-30 16:22:44 +0200" MODIFIED_BY="Paolo Rosati" NOTES="&lt;p&gt;Technical Editing by CJC 12/7/2002&lt;/p&gt;&lt;p&gt;Authors and contributions: fine&lt;/p&gt;&lt;p&gt;References: fine but still Im awaiting assessment? Other published versions of this review (include old version here too)&lt;/p&gt;&lt;p&gt;&lt;br&gt;What's new: Please put in the reference of the old version of the review and outline and main changes in results and conclusions from the past version.&lt;/p&gt;&lt;p&gt;Table of included studies:  Fine&lt;/p&gt;&lt;p&gt;Metaview Labels: Fine (I just removed % from the titles of dichotomous outcomes)&lt;/p&gt;&lt;p&gt;SYNOPSIS: Clear but too much detail. Needs a single sentence summary first and then leave out all the methods etc to identify problem and findings please.&lt;/p&gt;&lt;p&gt;ABSTRACT: Fine&lt;/p&gt;&lt;p&gt;METHODS: Fine&lt;/p&gt;&lt;p&gt;RESULTS: &amp;quot;Lung Function:&lt;/p&gt;&lt;p&gt;Three studies reported mean FEV1 allowing us to undertake a meta-analysis which favoured self-management (SMD 0.10 [-0.05-0.25]) but was not significant. There was a high degree of heterogeneity among these studies (Chi Sq 10.56 p&amp;lt;0.05). A meta-analysis of the three studies which reported PEF data, significantly favoured optimal peak flow self-management over medications adjustment via regular medical review (SMD 0.16[0.01-0.31]). These studies were also heterogeneous. (Chi Sq 9.09 p&amp;lt;0.05). A fourth study found no significant difference between the groups in any pulmonary function variable.&amp;quot;&lt;br&gt;&amp;gt;&amp;gt;&amp;gt;This paragraph does not seem to Match Metaview results for SMD or Chi square. Whilst you explain this in the following text it is very confusing not to show the same data in Metaview as you report. Perhaps this could be overcome by reporting the adjusted results in the text at the end of the following paragraph as well as showing the adjusted data in metaview?&amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;DISCUSSION Fine&lt;/p&gt;&lt;p&gt;This reads very well. &lt;br&gt;Chris Cates&lt;br&gt;Returned to author 12/7/2002&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;RESPNOSE TO EDITOR 14/12/02&lt;/p&gt;&lt;p&gt;Thankyou for your comments and suggestions. The following changes have been made:&lt;/p&gt;&lt;p&gt;REFERENCES: We were unable to obtain a copy of the Im paper  therefore it remains unassessed. This is a new review. Some of the comparisons were previously included in the Self-management education and regular practitioner review for adults with asthma. This is already referenced.&lt;/p&gt;&lt;p&gt;WHAT'S NEW: More detail has been added.&lt;/p&gt;&lt;p&gt;SYNOPSIS: This has been abbreviated.&lt;/p&gt;&lt;p&gt;RESULTS: &amp;quot;Lung Function&amp;quot;. The lung function meta analyses have been changed to reflect the results.  Two adjusted meta analyses have been added.&lt;/p&gt;&lt;p&gt;Many thanks&lt;br&gt;Heather Powell&lt;/p&gt;&lt;p&gt;SIGN OFF BY CJC 23/8 (NOW LOOKS FINE)&lt;br&gt;Toby are you able to add the date of the last search under the What's new section and then pass this on to Paul?  Thanks, Chris.&lt;/p&gt;" NOTES_MODIFIED="2009-03-30 16:22:44 +0200" NOTES_MODIFIED_BY="Paolo Rosati" REVIEW_NO="SELF-AST" REVMAN_SUB_VERSION="5.0.18" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="4.0">
+<COVER_SHEET MODIFIED="2009-03-30 16:22:44 +0200" MODIFIED_BY="Paolo Rosati">
+<TITLE>Options for self-management education for adults with asthma</TITLE>
+<CONTACT>
+<PERSON ID="4647" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Peter</FIRST_NAME>
+<MIDDLE_INITIALS>G</MIDDLE_INITIALS>
+<LAST_NAME>Gibson</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>Peter.Gibson@hnehealth.nsw.gov.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Respiratory and Sleep Medicine</DEPARTMENT>
+<ORGANISATION>John Hunter Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2>Locked Bag 1</ADDRESS_2>
+<CITY>Hunter Mail Centre</CITY>
+<ZIP>2310</ZIP>
+<REGION>NSW</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61 2 498555766</PHONE_1>
+<PHONE_2/>
+<FAX_1>+ 61 2 49855850</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2009-03-30 16:22:44 +0200" MODIFIED_BY="Paolo Rosati">
+<PERSON ID="12480" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Heather</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Powell</LAST_NAME>
+<SUFFIX/>
+<POSITION>Research Data Manager</POSITION>
+<EMAIL_1>Heather.Powell@hnehealth.nsw.gov.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Respiratory &amp; Sleep Medicine</DEPARTMENT>
+<ORGANISATION>John Hunter Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2>Locked Bag 1</ADDRESS_2>
+<CITY>Hunter Region Mail Centre</CITY>
+<ZIP>2310</ZIP>
+<REGION>NSW</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>02 49213446</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="4647" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Peter</FIRST_NAME>
+<MIDDLE_INITIALS>G</MIDDLE_INITIALS>
+<LAST_NAME>Gibson</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>Peter.Gibson@hnehealth.nsw.gov.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Respiratory and Sleep Medicine</DEPARTMENT>
+<ORGANISATION>John Hunter Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2>Locked Bag 1</ADDRESS_2>
+<CITY>Hunter Mail Centre</CITY>
+<ZIP>2310</ZIP>
+<REGION>NSW</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61 2 498555766</PHONE_1>
+<PHONE_2/>
+<FAX_1>+ 61 2 49855850</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-08-13 13:00:57 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Minor update: 09/01/03&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 01/07/01&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 13:00:57 +0200" NOTES_MODIFIED_BY="Toby Lasserson">
+<UP_TO_DATE>
+<DATE DAY="12" MONTH="3" YEAR="2002"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="1" MONTH="7" YEAR="2001"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="1998"/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="2003"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2003"/>
+</DATES>
+<WHATS_NEW NOTES="&lt;p&gt;This is a new review that has been conducted to compare differing components of asthma self-management education.  15 trials of two interventions have been included, 6 new trials and 9 trials that were previously included in the Self-management education and regular practitioner review for adults with asthma.  It complements and extends the earlier review that examined asthma self-management education vs control [Gibson 1999]. One primary new comparison, optimal self-management vs modified optimal self-management has been added, and the remaining primary comparisons, Peak flow vs symptom based self-management and optimal self-management vs regular medical review were previously included in the earlier review.&lt;/p&gt;">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="13" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="12" MONTH="3" YEAR="2002"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Hunter Area Health Service</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Cooperative Research Centre for Asthma</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-08-13 12:52:12 +0200" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2008-08-13 12:32:41 +0200" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-08-13 12:32:41 +0200" MODIFIED_BY="Toby J Lasserson">Options for self-management education for adults with asthma</TITLE>
+<SUMMARY_BODY>
+<P>Guidelines for the treatment of asthma recommend that patients be educated about their condition, obtain regular medical review, monitor their condition at home with either peak flow or symptoms and use a written action plan. This is known to improve health outcomes when compared to usual medical care. A number of variations on optimal self-management have now been described. This review examines the efficacy of some of these options. The results showed that self-adjustment of medications according to a written action plan gave a similar improvement in health outcomes to adjustment of medications by a doctor. Either symptom diaries or peak expiratory flow monitoring may be used for monitoring asthma and reducing the intensity of the education appears to dilute the effect.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-08-13 12:32:55 +0200" MODIFIED_BY="Toby J Lasserson">
+<ABS_BACKGROUND>
+<P>Asthma education and self-management are key recommendations of asthma management guidelines because they improve health outcomes. There are several different modalities for the delivery of asthma self-management education. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>We evaluated programmes that: <BR/>(1) Optimised asthma control through inhaled corticosteroid use by regular medical review or optimised asthma control by individualised written action plans;<BR/>(2) Used written self-management plans based on peak expiratory flow self-monitoring compared with symptom self-monitoring;<BR/>(3) Compared different options for the delivery of optimal self-management programmes.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Airways Group trials register and reference lists of articles.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised trials of asthma self-management education interventions in adults over 16 years of age with asthma.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Fifteen trials met the inclusion criteria. Trial quality was assessed and data were extracted independently by two reviewers. Study authors were contacted for confirmation.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2008-08-13 12:32:55 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Six studies compared optimal self-management allowing self-adjustment of medications according to an individualised written action plan to adjustment of medications by a doctor. These two styles of asthma management gave equivalent effects for hospitalisation, emergency room (ER) visits, unscheduled doctor visits and nocturnal asthma. Self-management using a written action plan based on peak expiratory flow (PEF) was found to be equivalent to self-management using a symptoms based written action plan in the six studies which compared these interventions. Three studies compared self-management options. In one, that provided optimal therapy but tested the omission of regular review, the latter was associated with more health centre visits and sickness days. In another, comparing high and low intensity education, the latter was associated with more unscheduled doctor visits. In a third, no difference in health care utilisation or lung function was reported between verbal instruction and written action plans.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Optimal self-management allowing for optimisation of asthma control by adjustment of medications may be conducted by either self-adjustment with the aid of a written action plan or by regular medical review. Individualised written action plans based on PEF are equivalent to action plans based on symptoms. Reducing the intensity of self-management education or level of clinical review may reduce its effectiveness.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-08-13 12:51:52 +0200" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND>
+<P>Asthma education and self-management is a key recommendation of many asthma management guidelines, including Part 1 of the Six-Part Asthma Management Program proposed by the International Consensus Report on diagnosis and Treatment of Asthma (<LINK REF="REF-Anonymous-1992" TYPE="REFERENCE">Anonymous 1992</LINK>). Education is considered to be necessary "to help patients gain the motivation, skills and confidence to control their asthma" (<LINK REF="REF-Anonymous-1996" TYPE="REFERENCE">Anonymous 1996</LINK>). A narrative review of asthma education has emphasised the need for asthma education and suggested successful strategies (<LINK REF="REF-Clark-1993" TYPE="REFERENCE">Clark 1993</LINK>). </P>
+<P>Two Cochrane systematic reviews have previously been conducted examining the effects of education only (<LINK REF="REF-Gibson-1998" TYPE="REFERENCE">Gibson 1998</LINK>) and more complex interventions to develop self-management skills (<LINK REF="REF-Gibson-1999" TYPE="REFERENCE">Gibson 1999</LINK>) on asthma health outcomes. Four main components of asthma education were identified: information, self monitoring of peak flow or symptoms, regular medical review and individualised written action plans. Information, was found to have no significant effect on health outcomes when administered without an action plan, self-monitoring or regular review. In contrast, comparing the review of asthma self-management education to usual care concluded that education programmes which included self monitoring of symptoms or peak expiratory flow, regular medical review and written action plans improved health outcomes for adults with asthma. Self-management education led to reduced hospitalisations, emergency room (ER) visits, unscheduled doctor visits and improved quality of life.</P>
+<P>There are several different modalities available for the delivery of asthma self-management education. In the published studies, there is variation in the mode of delivery and the combination of components for the self-management programmes. Information delivery was interactive or non-interactive; self-monitoring involved either symptoms or peak flow self-monitoring which was sometimes recorded in a diary. In some studies regular review was conducted as a formal part of the intervention, whereas in others subjects were told to see their own doctor. Asthma action plans were written or verbal. This review aims to compare the differing components of self-management interventions in asthma.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>The specific questions addressed are:<BR/>(1) Is optimisation of asthma control through the use of inhaled corticosteroid treatment, by regular medical review, equivalent to optimisation of asthma control by an individualised written self-management plan in improving health outcomes?<BR/>(2) Are there differences in health outcomes for programmes using written self-management plans based on peak expiratory flow self-monitoring and symptom self-monitoring?<BR/>(3) What are the characteristics of optimal self-management programme delivery, which lead to changes in health outcomes?</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-08-13 12:39:42 +0200" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA MODIFIED="2008-08-13 12:33:09 +0200" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>Studies were included if they were randomised controlled trials (RCTs) which compared two interventions of asthma education and self-management on health outcomes in adults with asthma.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Predominantly adults (&gt;16 years old) with asthma (defined by doctor's diagnosis or objective criteria or according to American Thoracic Society guidelines).</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2008-08-13 12:33:09 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>The interventions were categorised according to whether or not they involved a written action plan, regular medical review, self-monitoring of peak expiratory flow or symptoms and/or asthma education. The intervention was considered optimal if all these components were included.</P>
+<SUBSECTION>
+<HEADING LEVEL="6">INTERVENTION CHARACTERISTICS</HEADING>
+<P>Patient Asthma Education: a programme which transfers information about asthma in any of these forms: written, verbal, visual or audio. It may be interactive or non-interactive, structured or unstructured. Minimal education is characterised by the provision of written material alone or the conduct of a short unstructured verbal interaction between a health provider and a patient where the primary goal is to improve patient knowledge and understanding of asthma. Maximal education is considered to be structured with the use of both interactive and non-interactive modes of information transfer. The content of the education must be related to asthma and its management.</P>
+<P>Self-monitoring: characterised by the regular measurement of either peak expiratory flow or symptoms. It is further characterised by the recording (or not) of those measurements in a diary.</P>
+<P>Regular Review: characterised by regular consultation with a doctor during the intervention period for the purpose of reviewing the patients' asthma status and medications. This may occur either as a formal part of the intervention or the patients may be advised to see their own doctor on a regular basis. Interventions are classified as having 'regular review' either inside the programme (if the patients were seen as a part of the program) or outside the programme (if the patients were merely advised to seek regular medical review).</P>
+<P>Written Action Plan: an individualised written plan produced for the purpose of patient self-management of asthma exacerbations. The action plan is characterised by being individualised to the patient's underlying asthma severity and treatment. It is further characterised by being a written plan which informs participants about:<BR/>(1) when and how to modify medications in response to worsening asthma; and<BR/>(2) how to access the medical system in response to worsening asthma.</P>
+</SUBSECTION>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>Any of the following outcomes: asthma admissions, ER visits, doctor visits, days lost from work or school, lung function (FEV1), peak expiratory flow (PEF), use of rescue beta-agonists, courses of oral corticosteroids, symptom scores, quality of life scores.</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-08-13 12:33:25 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Cochrane Airways Group trial register derived from MEDLINE, EMBASE, CINAHL, hand searched respiratory journals and meeting abstracts. We searched the register using the following terms: (Asthma OR wheez*) AND (education* OR self management OR self-management). </P>
+<P>We obtained the articles, and searched their bibliographic lists for additional articles.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-08-13 12:39:42 +0200" MODIFIED_BY="Toby J Lasserson">
+<STUDY_SELECTION MODIFIED="2008-08-13 12:34:05 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Two review authors independently coded studies into three categories based upon the abstract/key word/title:<BR/>(1) RCT, adult, asthma, education<BR/>(2) Possible RCT but cannot determine from abstract<BR/>(3) Exclude: non-RCT or CCT, paediatric age range, doctor education.<BR/>Full text versions of the articles were examined for studies in category (1) &amp; (2) in order to define if the study met the inclusion criteria of a trial of two asthma education and self-management interventions.</P>
+<P>Two investigators independently categorised study eligibility, study quality and intervention type. Agreement was examined and disagreement resolved by consensus.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-08-13 12:34:55 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>We included articles if they were randomised controlled trials of two (or more) self-management asthma education interventions delivered to adults (&gt;16 years) with asthma, and that reported relevant health outcomes: hospitalisations, visits to medical practitioner, visits to emergency room, use of beta-agonists, lung functions, quality of life, symptoms score, symptoms or peak expiratory flow diary.</P>
+<P>We assessed the following health outcomes:</P>
+<OL>
+<LI>Hospital admissions</LI>
+<LI>Emergency room visits</LI>
+<LI>Uscheduled doctor visits</LI>
+<LI>Days lost from work or school</LI>
+<LI>Forced Expiratory Volume in 1 second (FEV1)</LI>
+<LI>Peak Expiratory Flow (PEF)</LI>
+<LI>Use of 'rescue' (or reliever) medications</LI>
+<LI>Quality of life, symptoms scores, symptom/peak flow diary</LI>
+<LI>Economic data cost, days lost from college/work.</LI>
+</OL>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-08-13 12:37:12 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Two reviewers independently assessed the quality of the full text versions of all included papers using the Cochrane system. Study quality was assessed according to the following criteria:</P>
+<P>CONCEALMENT OF ALLOCATION:<BR/>A: ADEQUATE if there was true randomisation, i.e. a central randomisation scheme, randomisation i.e. external person or use of coded containers/ envelopes;<BR/>B: UNCLEAR<BR/>C: INADEQUATE if there was alternate allocation, reference to case record number, date of birth, day of the week, or an open list of random numbers;</P>
+<P>Additional quality variables recorded were:</P>
+<OL>
+<LI>Blinding of interventions</LI>
+<LI>Withdrawals/ dropouts</LI>
+<LI>Blinding of outcome assessment</LI>
+</OL>
+<P>Studies were also assessed using the scale described by <LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>. </P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-08-13 12:35:57 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>We analysed outcomes as continuous and/or dichotomous variables, using standard statistical techniques.</P>
+<OL>
+<LI>For continuous outcomes, the weighted mean difference or standardised mean difference with 95% confidence intervals were calculated as appropriate.</LI>
+<LI>For dichotomous outcomes, the relative risk was calculated with 95% confidence interval. We examined heterogeneity using a Chi-squared test and explored the reasons for heterogeneity where appropriate.</LI>
+</OL>
+<P>Three primary comparisons based on the treatment of the intervention and comparison groups were performed. They were:</P>
+<OL>
+<LI>Optimal Self-Management versus Regular Medical Review. Here we sought to compare two interventions which optimised asthma control through the use of inhaled corticosteroid treatment with dose adjustment, either by active regular medical review or an individualised written self-management plan, where dose adjustment was based on peak expiratory flow or symptoms.</LI>
+<LI>Peak Expiratory Flow Based versus Symptom Based Self-Management. These trials compared individualised written action plans where inhaled corticosteroid dose adjustment was made on peak expiratory flow to action plans where dose adjustment was made on symptoms.</LI>
+<LI>Optimal Self-Management versus Modified Optimal Self-Management. In this comparison various options for delivery of optimal self-management were compared. These options included verbal versus written action plan; intensive education versus reduced education; regular review versus no regular review.</LI>
+</OL>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-08-13 12:51:52 +0200" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-08-13 12:39:58 +0200" MODIFIED_BY="Toby J Lasserson">
+<SEARCH_RESULTS MODIFIED="2008-08-13 12:37:36 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>The results of 15 randomised controlled trials that compared different types of self-management education in asthma, compared to alternative strategies, are reported in this review. The search identified 101 papers describing 87 potentially relevant studies of asthma education in adults. Full text versions of these papers were obtained and independently assessed by two reviewers. Nineteen papers describing 15 randomised controlled trials met the inclusion criteria for this review. Three trials are either awaiting assessment (n = 1) or ongoing (n = 2).</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-08-13 12:38:18 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Twenty-six asthma self-management interventions were described in the 15 studies. Eleven trials compared two interventions. The content of these interventions included:<BR/>(1) asthma education (n = 26, 100%)<BR/>(2) self-monitoring of symptoms and/or peak expiratory flow (n = 26, 100%)<BR/>(3) regular review of treatment and asthma severity by a medical practitioner (n = 25, 96%)<BR/>(4) written action plan (n = 23, 88%).</P>
+<SUBSECTION>
+<HEADING LEVEL="6">CONTROL COMPARISONS</HEADING>
+<P>Seven studies used control comparisons. Three of these were in addition to the two active intervention groups. In one trial (<LINK REF="STD-Cote-2001" TYPE="STUDY">Cote 2001</LINK>) the control group was not randomised and therefore only data from the two active interventions were used in this review. In two trials (<LINK REF="STD-Cote-1997" TYPE="STUDY">Cote 1997</LINK>, <LINK REF="STD-Cowie-1997" TYPE="STUDY">Cowie 1997</LINK>) the control comparisons were examined in the companion review comparing self management to usual care. In the remaining four studies, the management of the control patients included regular medical review. Education about asthma was included in two studies, self-monitoring was performed by control subjects in one study. None of the control groups received a written action plan.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">COMPARISONS</HEADING>
+<P>Three primary comparisons were made:<BR/>(1) Optimal Self-Management versus Regular Medical Review (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>)<BR/>Six studies compared optimal self-management, allowing self-adjustment of medications according to an individualised written action plan, with adjustment of medications by a doctor. Four studies optimised medications in both intervention and comparison groups during the run-in phase prior to commencing the intervention.</P>
+<P>(2) PEF Self-Management versus Symptoms Self-Management (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>)<BR/>Six studies compared peak expiratory flow with symptoms only self-management. These studies allowed for self-adjustment of medications in the event of worsening of asthma according to either symptoms or peak flow.</P>
+<P>(3) Optimal Self-Management versus Modified Optimal Self-Management (<LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>)<BR/>In three studies, self-management which included education, self-monitoring, regular medical review and a written action plan (optimal self-management) was compared to modifications of optimal self-management. These options included: verbal instructions instead of a written action plan (<LINK REF="STD-Baldwin-1997" TYPE="STUDY">Baldwin 1997</LINK>); reduced education (<LINK REF="STD-Cote-2001" TYPE="STUDY">Cote 2001</LINK>); no regular review (<LINK REF="STD-Kauppinen-1998" TYPE="STUDY">Kauppinen 1998</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">SUBJECTS/SETTING</HEADING>
+<P>In the 15 included studies a total number of 2460 participants were randomised. Fourteen studies reported 1824 subjects completed but one study (<LINK REF="STD-Charlton-1990" TYPE="STUDY">Charlton 1990</LINK>) did not state the number participating at the end of the study. The reported dropout rates ranged from 0% - 60.3%.</P>
+<P>Subjects were recruited from a range of settings:<BR/>(1) Hospital (n = 1)<BR/>(2) Emergency Room (n = 2)<BR/>(3) Hospital and Clinic (n = 2)<BR/>(4) Outpatients Clinic (n = 3)<BR/>(5) Outpatients Clinic and General Practice (n = 2)<BR/>(6) General Practice (n = 3)<BR/>(7) Emergency Room and Outpatients Clinic (n = 1)<BR/>(8) Primary Care Setting (n = 1)</P>
+</SUBSECTION>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2008-08-13 12:37:43 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Sixty-nine studies were excluded for the following reasons: the subjects had smoking-related chronic obstructive airway disease and not asthma (2); the methodological criteria were not met (11); background data only reported (2); the intervention did not include education (7) or was assessing inhaler technique only (3); the outcome measured was not appropriate (2); the interventions were not patient education (2); the interventions were compared with usual care (30) or the interventions were information-only education and did not include elements of self-management or behavioural change (10). The information-only trials were reported in a previous review (<LINK REF="REF-Gibson-1998" TYPE="REFERENCE">Gibson 1998</LINK>) and the comparisons of self-management with usual care form the basis of a second review (<LINK REF="REF-Gibson-1999" TYPE="REFERENCE">Gibson 1999</LINK>).</P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-08-13 12:41:08 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>The quality of studies varied with the Jadad score ranging from 3 to 5. Due to the type of intervention no study was double blinded. Only five trials were able to be scored as adequate for the Cochrane system of allocation concealment with the remainder scored as unclear from the data available. No trial was considered inadequate.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-08-13 12:51:52 +0200" MODIFIED_BY="Toby J Lasserson">
+<SUBSECTION>
+<HEADING LEVEL="5">OUTCOMES: COMPARISON 1: OPTIMAL SELF-MANAGEMENT versus REGULAR MEDICAL REVIEW (n = 6 trials)</HEADING>
+<P>In six trials a comparison was made between two forms of adjustment of medication, usually inhaled corticosteroids, to achieve improved asthma control. The usual means was by regular review by a doctor. This was contrasted with self-adjustment by the patient according to written, pre-determined criteria. There was no difference in asthma outcomes between the two forms of asthma management.</P>
+<P>Hospitalisations for asthma were reported in four of the six studies. No difference between groups was reported. ER visits were reported in one study, which stated that there was no difference between treatments (<LINK REF="STD-Sommaragua-1995" TYPE="STUDY">Sommaragua 1995</LINK>). Unscheduled doctor visits were examined in three studies. One study reported a non-significant effect favouring regular review (<LINK REF="STD-Grampian-1994" TYPE="STUDY">Grampian 1994</LINK>), another a non-significant effect favouring peak expiratory flow self-management (<LINK REF="STD-Lahdensuo-1996" TYPE="STUDY">Lahdensuo 1996</LINK>) and the third found no significant difference between the groups (<LINK REF="STD-Klein-2001" TYPE="STUDY">Klein 2001</LINK>). Days off work or school were examined in three studies. Two reported no significant difference between groups while the third reported a significant difference favouring peak flow self-management (<LINK REF="STD-Lahdensuo-1996" TYPE="STUDY">Lahdensuo 1996</LINK>). Three of the six studies measured nocturnal asthma with different symptom scores reporting no difference between the two styles of asthma management and a third study found no significant difference in the mean percentage of symptom free nights between the groups. One study examined disrupted days and reported no significant differences (<LINK REF="STD-Jones-1995" TYPE="STUDY">Jones 1995</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="6">LUNG FUNCTION</HEADING>
+<P>Three studies reported mean FEV1 allowing us to undertake a meta-analysis which favoured self-management, although the pooled result was not statistically significant (SMD 0.10 95% CI -0.05 to 0.25, <LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>). There was a high degree of heterogeneity among these studies (Chi Sq 10.56 p&lt;0.05). A meta-analysis of the three studies which reported PEF data, significantly favoured optimal peak flow self-management over medications adjustment via regular medical review (SMD 0.16, 95% CI 0.01 to 0.31, <LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>). These studies were also heterogeneous. (Chi Sq 9.09 p&lt;0.05). A fourth study found no significant difference between the groups in any pulmonary function variable.</P>
+<P>The source of heterogeneity in the lung function results was explored. Two studies (<LINK REF="STD-Grampian-1994" TYPE="STUDY">Grampian 1994</LINK>, <LINK REF="STD-Jones-1995" TYPE="STUDY">Jones 1995</LINK> ) showed no difference between the groups while the remaining study (<LINK REF="STD-Ayres-1996" TYPE="STUDY">Ayres 1996</LINK>) significantly favoured peak flow self-management for both FEV1 and PEF in the meta-analysis. However in the text of this paper the authors report for lung function: "the differences between groups were also non-significant." The paper states these measurements are mean (standard deviation) for these outcomes while reporting mean (standard error) for other outcomes. It is possible that there is a transcription error and the measurement is actually mean (SE). The 'standard deviations' reported for PEF and FEV1 were 18 and 0.2, which are low in comparison to other data we have collected on peak expiratory flow and FEV1. When the meta-analyses were repeated assuming a transcription error there was no difference between the doctor managed group and peak flow self-managed group for FEV1 (SMD 0.0 [-0.14 to 0.15]) and PEF (SMD 0.06 [-0.09 to 0.21]) and heterogeneity was eliminated. We are awaiting confirmation from the author that the PEF and FEV1 variance represents SE rather than SD. Heterogeneity could not be explained by considering other variables such as asthma severity, duration of intervention or review by GP or specialist. For these meta analyses we have used the adjusted SD assuming there was a transcription error.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">OUTCOMES: COMPARISON 2: PEF SELF-MANAGEMENT versus SYMPTOMS SELF-MANAGEMENT (n = 6 trials)</HEADING>
+<P>Self-management using a written action plan based on PEF was found to be equivalent to self-management using a symptoms based written action plan in the six studies which compared these interventions for the proportion of subjects requiring hospitalisation, and unscheduled visits to the doctor. Emergency room visits were significantly reduced by PEF self-management in one study (<LINK REF="STD-Cowie-1997" TYPE="STUDY">Cowie 1997</LINK>) but were similar to symptoms self-management in four other studies. Symptoms-based self-management reduced the number of subjects requiring a course of oral corticosteroids in one study (<LINK REF="STD-Charlton-1990" TYPE="STUDY">Charlton 1990</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">OUTCOMES: COMPARISON 3: OPTIMAL SELF-MANAGEMENT versus MODIFIED OPTIMAL SELF-MANAGEMENT (n = 3 trials)</HEADING>
+<P>Various options for optimal self-management were compared in three studies. One study (<LINK REF="STD-Kauppinen-1998" TYPE="STUDY">Kauppinen 1998</LINK>) that provided optimal self-management but omitted regular review found that a higher number of health centre visits and 2.5 times more sickness days were reported for the control group (without regular review). A significant improvement in mean percent predicted FEV1 was reported for the group receiving regular medical review. No significant difference was found for those with or without regular review in mean percent predicted PEF or quality of life.</P>
+<P>
+<LINK REF="STD-Cote-2001" TYPE="STUDY">Cote 2001</LINK> reported that when the intensity of asthma education was reduced this led to a significantly increased proportion of subjects requiring unscheduled Dr visits. An improvement in quality of life score was reported for both intensive and reduced education with a significant improvement in symptom score for the intensive education group only.</P>
+<P>Another study compared a verbally instructed action plan with a written action plan. There was no difference in asthma admissions, emergency room visits, home visits or PEF variability between the studies (<LINK REF="STD-Baldwin-1997" TYPE="STUDY">Baldwin 1997</LINK>).</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-08-13 12:41:03 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>This systematic review of 15 RCTs evaluated the differing components of asthma self-management interventions on health outcomes. The categorisation of the interventions in this review was based upon recommendations in current asthma management guidelines. Specifically, they were evaluated as to whether they included peak expiratory flow monitoring, regular medical review, and a written action plan. These are important aspects of asthma management which could be reliably evaluated from the papers For all trials in this review optimal asthma self-management that included information, self-monitoring, regular medical review and a written action plan was compared to variations of optimal self-management.</P>
+<P>It had previously been established that optimal asthma self-management interventions led to reduced health care utilisation, days off work and nocturnal asthma when compared to usual care (<LINK REF="REF-Gibson-1999" TYPE="REFERENCE">Gibson 1999</LINK>). Interventions that did not include a written action plan were found to be less efficacious. In this review we examined different forms of optimal asthma self-management education. Due to the small number of trials in each subgroup analysis and the way in which data were reported there were few studies that could provide data for meta-analyses. In some cases (comparison 3), it was not possible to group studies in any meaningful way for analysis, and these studies are reported individually.</P>
+<P>When we reviewed the six trials that compared two forms of adjustment of medication, either self adjustment with the aid of a written action plan or adjustment by the doctor, we found no significant differences between these two methods in terms of asthma outcomes. This suggests that both approaches can be used in the management of asthma. In clinical practice this is an important observation since it allows health professionals to tailor the intervention they provide to adults with asthma. Depending on the resources and patient preferences, adults with asthma can be offered regular medical review or a self-management programme. It would be useful to conduct an economic analysis of these two intervention types in the future.</P>
+<P>Self monitoring of PEF involves the regular measurement of PEF and recording the best of three measurements in a diary morning and night. Medication is then adjusted according to changes in PEF levels. In contrast, adjustment of medications can be made according to the patient's symptoms such as nocturnal asthma or an increased need for reliever medication. Both PEF and symptom self-monitoring have their limitations. Compliance with PEF monitoring in the long term is poor and some patients are poor perceivers of their symptoms. In reviewing the six trials that compared PEF and symptom self-monitoring no significant differences in health outcomes were found, suggesting that the use of either method is effective. This is a clinically important observation as self-monitoring can be tailored to patient preference, patient characteristics and the resources available.</P>
+<P>In reviewing the three trials that examined various modifications of optimal self-management no difference was found between verbal and written action plans. The inclusion of regular review led to improved asthma morbidity and lung function. Reduction of education intensity appeared to dilute the effect of the intervention. These are important observations, however each of these results come from single trials only and need further investigation.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Optimal self-management allowing for optimisation of asthma control by adjustment of medications may be conducted by either self-adjustment with the aid of a written action plan or by regular medical review.<BR/>Either symptoms diaries or peak expiratory flow measurement can be used for self-monitoring.<BR/>Reducing the intensity of education appears to dilute the effect. This result was from one study and should be confirmed.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>What are the economics of the various optimal interventions?<BR/>How intense should the education be?<BR/>Are verbal action plans as effective as written action plans?</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank the Cochrane Airways Review Group who helped with database searches, obtaining studies and translations (Steve Milan, Toby Lasserson, Anna Bara, Karen Blackhall) and Jenni Coughlan and Amanda Wilson for their contribution. Thanks also to Kirsty Olsen who has copy edited this review.</P>
+<P>We would like to thank the following authors for providing information about their trials:<BR/>Dr JG Ayres<BR/>Dr A Lahdensuo<BR/>Mr M Mullee re Jones<BR/>Dr J Cote<BR/>Dr D Baldwin<BR/>Dr I Charlton<BR/>
+<BR/>We would also like to thank the Cooperative Research Centre for Asthma, Australia for financial support </P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2008-08-13 12:52:12 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Gibson PG - instigator of the review and conceptual direction - inclusion/exclusion, quality assessment, data extraction, analysis and interpretation, writing and editing.<BR/>Powell H - responsible for inclusion/exclusion, quality assessment, data extraction, analysis, interpretation and writing.<BR/>
+</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-08-13 12:59:09 +0200" MODIFIED_BY="Toby J Lasserson">
+<STUDIES MODIFIED="2008-08-13 12:59:03 +0200" MODIFIED_BY="Toby J Lasserson">
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Adams-2001" NAME="Adams 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Adams RJ, Boath K, Homan S, Campbell DA, Ruffin RE</AU>
+<TI>A randomised trial of peak-flow and symptom-based action plans in adults with moderate-to-severe asthma</TI>
+<SO>Respirology</SO>
+<YR>2001</YR>
+<VL>6</VL>
+<PG>297-304</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ayres-1996" NAME="Ayres 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ayres JG, Campbell LM.</AU>
+<TI>A controlled assessment of an asthma self-management plan involving a budesonide dose regimen</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1996</YR>
+<VL>9</VL>
+<PG>886-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Baldwin-1997" NAME="Baldwin 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baldwin DR, Pathak UA, King R, Vase BC, Pantin CFA</AU>
+<TI>Outcome of asthmatics attending asthma clinics utilising self-management plans in general practice</TI>
+<SO>Asthma in General Practice</SO>
+<YR>1997</YR>
+<VL>5</VL>
+<NO>2</NO>
+<PG>31-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Charlton-1990" NAME="Charlton 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Charlton I, Charlton G, Broomfield J, Mullee MA</AU>
+<TI>Evaluation of peak flow and symptoms only self-management plans for control of asthma in general practice</TI>
+<SO>British Medical Journal</SO>
+<YR>1990</YR>
+<VL>301</VL>
+<PG>1355-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cote-1997" NAME="Cote 1997" YEAR="">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Cote J, Cartier A, Robichaud P Boutin H, Malo J, Rouleau M, Fillion A, Lavellee M, Krusky M, Boulet L</AU>
+<TI>Influence on Asthma Morbidity of asthma education programs based on self-management plans following treatment optimization</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1997</YR>
+<VL>155</VL>
+<PG>1509-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cote J, Cartier A, Robichaud P, Boutin H, Malo JI</AU>
+<TI>Influence of asthma education on asthma severity, quality of life and environmental control</TI>
+<SO>Canadian Respiratory Journal</SO>
+<YR>2000</YR>
+<VL>7</VL>
+<NO>5</NO>
+<PG>395-400</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cote-2001" NAME="Cote 2001" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cote J, Bowie DM, Robichaud P, Parent J-G, Battiti L, Boulet L-P</AU>
+<TI>Evaluation of two different educational interventions for adult patients consulting with an acute asthma exacerbation</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>2001</YR>
+<VL>163</VL>
+<PG>1415-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cowie-1997" NAME="Cowie 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cowie RL, Revitt SG, Underwood MF, Field SK</AU>
+<TI>The effect of a peak flow-based action plan in the prevention of exacerbations of asthma</TI>
+<SO>Chest</SO>
+<YR>1997</YR>
+<VL>112</VL>
+<PG>1534-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Grampian-1994" NAME="Grampian 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Grampian Asthma Study of Integrated Care (GRASSIC)</AU>
+<TI>Effectiveness of routine self monitoring of peak flow in patients with asthma</TI>
+<SO>British Medical Journal</SO>
+<YR>1994</YR>
+<VL>308</VL>
+<PG>564-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jones-1995" NAME="Jones 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jones KP, Mullee MA, Middleton M, Chapman E, Holgate ST, the British Thoracic Society Research Committee</AU>
+<TI>Peak flow based asthma self-management: a randomised controlled study in general practice</TI>
+<SO>Thorax</SO>
+<YR>1995</YR>
+<VL>50</VL>
+<PG>851-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kauppinen-1998" NAME="Kauppinen 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kauppinen R, Sintonen H, Vilkka V, Tukianen H</AU>
+<TI>Long-term (3-year) economic evaluation of intensive patient education for self-management during the first year in new asthmatics</TI>
+<SO>Respiratory Medicine</SO>
+<YR>1999</YR>
+<VL>93</VL>
+<PG>283-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kauppinen R, Sintonene H, Tukiainen H</AU>
+<TI>One-year economic evaluation of intensive v conventional patient education and supervision for self-management of new asthmatic patients</TI>
+<SO>Respiratory Medicine</SO>
+<YR>1998</YR>
+<VL>92</VL>
+<PG>300-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kauppinen R, Vilkka V, Sintonen H, Klaukka T, Tukianen H</AU>
+<TI>Long term economic evaluation of intensive patient education during the first treatment year in newly diagnosed asthma</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2001</YR>
+<VL>95</VL>
+<PG>56-63</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Klein-2001" NAME="Klein 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Klein JJ, van der Palen J, Uil SM, Zielhaus GA, Seydel ER, van Herwaarden CLA</AU>
+<TI>Benefit from the inclusion of self-treatment guidelines to a self-management programme for adults with asthma</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2001</YR>
+<VL>17</VL>
+<PG>386-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lahdensuo-1996" NAME="Lahdensuo 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lahdensuo A, Haahtela T, Herrala J, Kava T, Kiviranta K, Kuusisto P et al</AU>
+<TI>Randomised comparison of cost effectiveness of guided self management and traditional treatment of asthma in Finland</TI>
+<SO>British Medical Journal</SO>
+<YR>1998</YR>
+<VL>316</VL>
+<PG>1138-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Lahdensuo A, Haahtela T, Herrala J, Kava T, Kiviranta K, Kuusisto P et al</AU>
+<TI>Randomised comparison of guided self management and traditional treatment of asthma over one year</TI>
+<SO>British Medical Journal</SO>
+<YR>1996</YR>
+<VL>312</VL>
+<PG>748-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lopez_x002d_Vina-2000" NAME="Lopez-Vina 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lopez-Vina A, del Castillo-Arevalo F</AU>
+<TI>Influence of peak expiratory flow monitoring on an asthma self-management education programme</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2000</YR>
+<VL>94</VL>
+<PG>760-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sommaragua-1995" NAME="Sommaragua 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sommaruga M, Spanevello A, Migliori GB, Neri M, Callegari S, Majani G</AU>
+<TI>The effects of a cognitive behavioural intervention in asthmatic patients</TI>
+<SO>Monaldi Archives for Chest Disease</SO>
+<YR>1995</YR>
+<VL>50</VL>
+<PG>398-402</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Turner-1998" NAME="Turner 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Turner MO, Taylor D, Bennett R, Fitzgerald JM</AU>
+<TI>A randomized trial comparing peak expiratory flow and symptom self-management plans for patients with asthma attending a primary care clinic</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1998</YR>
+<VL>157</VL>
+<PG>540-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-08-13 12:58:37 +0200" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Abdulwadud-1997" NAME="Abdulwadud 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Abdulwadud O, Abramson M, Forbes A, James A, Light L, Thien F et al</AU>
+<TI>Attendance at an asthma educational intervention: characterisitics of participants and non-participants</TI>
+<SO>Respiratory Medicine</SO>
+<YR>1997</YR>
+<VL>91</VL>
+<PG>524-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Abdulwadud-1999" NAME="Abdulwadud 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Abdulwadud O, Abramson M, Forbes A, James A, Walters EH</AU>
+<TI>Evaluation of a randomised controlled trial of adult asthma education in a hospital setting</TI>
+<SO>Thorax</SO>
+<YR>1999</YR>
+<VL>54</VL>
+<PG>493-500</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Aiolfi-1995" NAME="Aiolfi 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Aiolfi S, Confalonieri M, Scartabellati A, Patrini G, Ghio L, Mauri F et al</AU>
+<TI>International guidelines and educational experiences in an out-patient clinic for asthma</TI>
+<SO>Monaldi Archives for Chest Disease</SO>
+<YR>1995</YR>
+<VL>50</VL>
+<PG>477-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Allen-1995" NAME="Allen 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Allen RM, Jones MP, Oldenburg</AU>
+<TI>Randomised trial of an asthma self-management programme for adults</TI>
+<SO>Thorax</SO>
+<YR>1995</YR>
+<VL>50</VL>
+<PG>731-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bailey-1990" NAME="Bailey 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bailey WC, Richards JM, Brooks CM, Soong S, Windsor RA et al</AU>
+<TI>A randomised trial to improve self-management practice of adults with asthma</TI>
+<SO>Archives of Internal Medicine</SO>
+<YR>1990</YR>
+<VL>150</VL>
+<PG>1664-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bailey WC, Richards JM, Manzella BA, Windsor RA, Brooks CM, Soong SJ</AU>
+<TI>Promoting self-management in adults with asthma: an overview of the UAB Program</TI>
+<SO>Health Education Quarterly</SO>
+<YR>1987</YR>
+<VL>14</VL>
+<PG>345-55</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Windsor RA, Bailey WC, Richards JM, Manzella B, Soong SJ, Brooks M</AU>
+<TI>Evaluation of the efficacy and cost effectiveness of health education methods to increase medication adherence among adults with asthma</TI>
+<SO>American Journal of Public Health</SO>
+<YR>1990</YR>
+<VL>80</VL>
+<PG>1519-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bailey-1999" NAME="Bailey 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bailey WC, Kohler CL, Richards JM, Windsor RA, Brooks M, Gerald LB et al</AU>
+<TI>Asthma self-management: do patient education programs always have an impact?</TI>
+<SO>Archives of Internal Medicine</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<PG>2422-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Berg-1997" NAME="Berg 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Berg J, Dunbar-Jacob J, Sereika SM</AU>
+<TI>An evaluation of a self-management program for adults with asthma</TI>
+<SO>Clinical Nursing Research</SO>
+<YR>1997</YR>
+<VL>6</VL>
+<NO>3</NO>
+<PG>225-38</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Blixen-2001" NAME="Blixen 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Blixen CE, Hammel JP, Murphy D, Ault V</AU>
+<TI>Feasibility of a nurse-run asthma education program for urban African-Americans: a pilot study</TI>
+<SO>Journal of Asthma</SO>
+<YR>2001</YR>
+<VL>38</VL>
+<NO>1</NO>
+<PG>23-32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bolton-1991" MODIFIED="2008-08-13 12:57:03 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Bolton 1991" YEAR="1991">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Bolton MB, Tilley BC, Kuder J, Reeves T, Schultz LR</AU>
+<TI>The cost and effectiveness of an education program for adults who have asthma</TI>
+<SO>Journal of General Internal Medicine</SO>
+<YR>1991</YR>
+<VL>6</VL>
+<PG>401-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2008-08-13 12:57:03 +0200" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ford ME, Havstad SL, Tilley BC, Bolton MB</AU>
+<TI>Health outcomes among African American and Caucasian adults following a randomized trial of an asthma education program</TI>
+<SO>Ethnicity &amp; Health</SO>
+<YR>1997</YR>
+<VL>2</VL>
+<NO>4</NO>
+<PG>329-39</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Boulet-1995" NAME="Boulet 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Boulet LP, Boutin H, Cote J, Leblanc P, Laviolettte M</AU>
+<TI>Evaluation of an asthma self-management program</TI>
+<SO>Journal of Asthma</SO>
+<YR>1995</YR>
+<VL>32</VL>
+<PG>199-206</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Brewin-1995" NAME="Brewin 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Brewin AM, Hughes JA</AU>
+<TI>Effect of patient education on asthma management</TI>
+<SO>British Journal of Nursing</SO>
+<YR>1995</YR>
+<VL>4</VL>
+<PG>81-101</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cox-1993" NAME="Cox 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cox NJM, Hendricks JC, Binkhorst Ra, Van Herwaarden CLA</AU>
+<TI>A pulmonary rehabilitation program for patients with asthma and mild chronic obstructive pulmonary diseases (COPD)</TI>
+<SO>Lung</SO>
+<YR>1993</YR>
+<VL>171</VL>
+<PG>235-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-de-Oliveira-1999" NAME="de Oliveira 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>de Oliveira MA, Faresin SM, Bruno VF, de Bittencourt AR, Fernandes ALG</AU>
+<TI>Evaluation of an educational programme for socially deprived asthma patients</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1999</YR>
+<VL>14</VL>
+<NO>4</NO>
+<PG>908-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Erickson-1998" NAME="Erickson 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Erickson SR, Ascione FJ, Kirking DM, Johnson CE</AU>
+<TI>Use of a paging system to improve medication self-management in patients with asthma</TI>
+<SO>Journal of the American Pharmaceutical Association</SO>
+<YR>1998</YR>
+<VL>38</VL>
+<PG>767-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gallefoss-1999" MODIFIED="2008-08-13 12:57:08 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Gallefoss 1999" YEAR="1999">
+<REFERENCE MODIFIED="2008-08-13 12:57:08 +0200" MODIFIED_BY="Toby J Lasserson" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Gallefoss F, Bakke PS, Kjaersgaard P</AU>
+<TI>Quality of life assessment after patient education in a randomized controlled study on asthma and chronic obstructive pulmonary disease</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<PG>812-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gallefoss F, Bakke PS</AU>
+<TI>Cost-effectiveness of self-management in asthmatics: a 1yr follow-up randomized, controlled trial</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2001</YR>
+<VL>17</VL>
+<PG>206-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gallefoss F, Bakke PS</AU>
+<TI>How does patient education and self-management among asthmatics and patients with chronic obstructive pulmonary disease affect medication</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>160</VL>
+<PG>2000-2005</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gallefoss F, Bakke PS</AU>
+<TI>Impact of patient education and self-management on morbidity in asthmatics and patients with chronic obstructive pulmonary disease</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2000</YR>
+<VL>94</VL>
+<PG>279-287</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gallefoss F, Bakke PS</AU>
+<TI>Patient satisfaction with health care in asthmatics and patients with COPD before and after patient education</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2000</YR>
+<VL>94</VL>
+<PG>1057-1064</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Garrett-1994" NAME="Garrett 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Garrett J, Fenwick JM, Taylor G, Mitchell E, Stewart J, Rea H</AU>
+<TI>Prospective controlled evaluation of the effect of a community based asthma education centre in a multiracial working class neighbourhood</TI>
+<SO>Thorax</SO>
+<YR>1994</YR>
+<VL>49</VL>
+<PG>976-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-George-1999" MODIFIED="2008-08-13 12:57:17 +0200" MODIFIED_BY="Toby J Lasserson" NAME="George 1999" YEAR="1999">
+<REFERENCE MODIFIED="2008-08-13 12:57:17 +0200" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>George MR, O'Dowd LC, Martin I, Lindell KO, Whitney F, Jones M et al</AU>
+<TI>A comprehensive educational programme improves clinical outcome measures in inner-city patients with asthma</TI>
+<SO>Archives of Internal Medicine</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<PG>1710-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gergen-1995" NAME="Gergen 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gergen PJ, Goldstein RA</AU>
+<TI>Does asthma education equal asthma intervention?</TI>
+<SO>International Archives of Allergy and Immunology</SO>
+<YR>1995</YR>
+<VL>107</VL>
+<PG>166-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ghosh-1998" NAME="Ghosh 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ghosh CS, Ravindran P, Joshi M, Stearns SC</AU>
+<TI>Reductions in hospital use from self management training for chronic asthmatics</TI>
+<SO>Social Science and Medicine</SO>
+<YR>1998</YR>
+<VL>46</VL>
+<NO>8</NO>
+<PG>1087-93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Graft-1991" NAME="Graft 1991" YEAR="1991">
+<REFERENCE NOTES="&lt;p&gt;Graft DF. A randomised trial to improve self-management  practices of adults with asthma: reviewers comments J Asthma 1991;28:228-9.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Graft DF</AU>
+<TI>A randomised trial to improve self-management practices of adults with asthma: reviewers comments</TI>
+<SO>Journal of Asthma</SO>
+<YR>1991</YR>
+<VL>28</VL>
+<PG>228-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Grainger_x002d_Rousseau" NAME="Grainger-Rousseau" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Grainger-Rousseau T-J, McElnay JC</AU>
+<TI>A model for community pharmacist involvement with general practitioners in the management of asthma patients</TI>
+<SO>Journal of Applied Therapeutics</SO>
+<YR>1996</YR>
+<VL>1</VL>
+<PG>145-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Grampian-1994b" NAME="Grampian 1994b" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;Grampian Asthma Study of Integrated Care (GRASSIC) Integrated care for asthma: a clinical, social, and economic evaluation. BMJ 1994; 308:559-64.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Grampian Asthma Study of Integrated Care (GRASSIC) Integrated care for asthma: a clinical, social, and economic evaluation</AU>
+<SO>Britich Medical Journals</SO>
+<YR>1994</YR>
+<VL>308</VL>
+<PG>559-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hausen-1999" NAME="Hausen 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hausen T</AU>
+<TI>Patient education-how can the long-term effect be analyzed and how long does it last? (German)</TI>
+<SO>Pneumologie</SO>
+<YR>1999</YR>
+<VL>53</VL>
+<PG>289-95</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hayward-1996" NAME="Hayward 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;awaiting assessment&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hayward SA, Jordan M, Golden G, Levy M</AU>
+<TI>A randomised controlled evaluation of asthma self management in general practice</TI>
+<SO>Asthma in General practice</SO>
+<YR>1996</YR>
+<VL>4</VL>
+<PG>11-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Heard-1999" NAME="Heard 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Heard AR, Richards IJ, Alpers JH, Pilotto LS, Smith BJ, Black JA</AU>
+<TI>Randomised controlled trial of general practice based asthma clinics</TI>
+<SO>The Medical Journal of Australia</SO>
+<YR>1999</YR>
+<VL>171</VL>
+<PG>68-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Heringa-1987" NAME="Heringa 1987" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Heringa P, Lawson L, Reda D</AU>
+<TI>The effects of a structured education program on knowledge and psychomotor skills of patients using Beclomethasone Dipropionate Aerosol for Steroid Dependent Asthma</TI>
+<SO>Health Education Quarterly</SO>
+<YR>1987</YR>
+<VL>14</VL>
+<PG>309-17</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hilton-1986" MODIFIED="2008-08-13 12:57:22 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Hilton 1986" YEAR="1986">
+<REFERENCE MODIFIED="2008-08-13 12:57:22 +0200" MODIFIED_BY="Toby J Lasserson" NOTES="&lt;p&gt;Hilton S, Sibbald B, Anderson HR, Freeling P.  Controlled evaluation of the effects of patient education on asthma morbidity in genral practice.  The Lancet 1986;1:26-29.&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 12:57:22 +0200" NOTES_MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hilton S, Sibbald B, Anderson HR, Freeling P</AU>
+<TI>Controlled evaluation of the effects of patient education on asthma morbidity in general practice</TI>
+<SO>The Lancet</SO>
+<YR>1986</YR>
+<VL>1</VL>
+<PG>26-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hindi_x002d_Alexander-1986" NAME="Hindi-Alexander 1986" YEAR="1986">
+<REFERENCE NOTES="&lt;p&gt;Hindi-Alexander MC. Asthma education programs: their role in asthma morbidity and mortality. J Allergy Clin Immunol 1986;80:492-4.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hindi-Alexander MC</AU>
+<TI>Asthma education programs: their role in asthma morbidity and mortality</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>1986</YR>
+<VL>80</VL>
+<PG>492-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoskins-1996" NAME="Hoskins 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;Hoskins G, Neville RG, Smith B, Clark RA. Do self-managmeent plans reduce morbidity in patients with asthma? British Journal of General Practice 1996;46:169-71.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoskins G, Neville RG, Smith B, Clark RA</AU>
+<TI>Do self-management plans reduce morbidity in patients with asthma?</TI>
+<SO>British Journal of General Practice</SO>
+<YR>1996</YR>
+<VL>46</VL>
+<PG>169-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Huss-1992" MODIFIED="2008-08-13 12:57:28 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Huss 1992" YEAR="1992">
+<REFERENCE MODIFIED="2008-08-13 12:57:28 +0200" MODIFIED_BY="Toby J Lasserson" NOTES="&lt;p&gt;Huss K, Huss RW, Squire EN, et al.  Computer education for asthmatics: What efffects? J Nurs Care Qual 1992;6:57-66.&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 12:57:28 +0200" NOTES_MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Huss K, Huss RW, Squire EN, et al</AU>
+<TI>Computer education for asthmatics: What effects?</TI>
+<SO>Journal of Nursing Care Quality</SO>
+<YR>1992</YR>
+<VL>6</VL>
+<PG>57-66</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ignacio_x002d_Garcia-1995" NAME="Ignacio-Garcia 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;Ignacio-Garcia JM, Gonzalez-Santos P.  Asthma self-management education program by home monitoring of peak expiratory flow.  Am J Respir &amp;amp; Crit Care Med 1995;151:353-9.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ignacio-Garcia JM, Gonzalez-Santos P</AU>
+<TI>Asthma self-management education program by home monitoring of peak expiratory flow</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1995</YR>
+<VL>151</VL>
+<PG>353-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jackevicius-1999" NAME="Jackevicius 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jackevicius CA, Chapman KR</AU>
+<TI>Inhaler education for hospital-based pharmacists: How much is required?</TI>
+<SO>Canadian Respiratory Journal</SO>
+<YR>1999</YR>
+<VL>6</VL>
+<PG>237-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Janson_x002d_Bjerklie-1988" NAME="Janson-Bjerklie 1988" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Jnason-Bjerklie S, Shnell S.  Effect of peak flow information on patterns of self-care in adult asthma.   Heart &amp;amp; Lung 1988;17:543-9.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Janson-Bjerklie S, Shnell S</AU>
+<TI>Effect of peak flow information on patterns of self-care in adult asthma</TI>
+<SO>Heart &amp; Lung</SO>
+<YR>1988</YR>
+<VL>17</VL>
+<PG>543-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jenkinson-1988" NAME="Jenkinson 1988" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Jenkinson D, Daviison J, Jones S, Hawtin P.  Comaparison of effects of a self management booklet and audio cassette for patients with asthma.  BMJ  1988;297:267-270.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jenkinson D, Davison J, Jones S, Hawtin P</AU>
+<TI>Comparison of effects of a self management booklet and audio cassette for patients with asthma</TI>
+<SO>British Medical Journal</SO>
+<YR>1988</YR>
+<VL>297</VL>
+<PG>267-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jones-1987" NAME="Jones 1987" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jones PK, Jones SL, Katz J</AU>
+<TI>Improving compliance for asthmatic patients visiting the emergency department using a health belief model</TI>
+<SO>Journal of Asthma</SO>
+<YR>1987</YR>
+<VL>24</VL>
+<PG>199-206</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kelso-1995" NAME="Kelso 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kelso TM, Abou-Shala N, Heilker GM, Arheart KL, Portner TS, Self TH</AU>
+<TI>Comprehensive long-term management program for asthma: effect on outcomes in adult African-Americans</TI>
+<SO>American Journal of Medical Science</SO>
+<YR>1996</YR>
+<VL>311</VL>
+<PG>272-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;Kelso TM, Self TH, Rumbak MJ, Stephens MA, Garrett W, Arheart KL.  Educational and Long-Term Therapeutic Intervention in the ED: Effect on Outcomes in Adult Indigent Minority Asthmatics.  American Journal of Emergency Medicine 1995; 13:632-8.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kelso TM, Self TH, Rumbak MJ, Stephens MA, Garrett W, Arheart KL</AU>
+<TI>Educational and Long-Term Therapeutic Intervention in the ED: Effect on Outcomes in Adult Indigent Minority Asthmatics</TI>
+<SO>American Journal of Emergency Medicine</SO>
+<YR>1995</YR>
+<VL>13</VL>
+<PG>632-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Knoell-1998" NAME="Knoell 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Knoell DL, Pierson JF, Marsh CB, Allen JN, Pathak DS</AU>
+<TI>Measurement of outcomes in adults receiving pharmaceutical care in a comprehensive asthma outpatient clinic</TI>
+<SO>Pharmacotherapy</SO>
+<YR>1998</YR>
+<VL>18</VL>
+<NO>6</NO>
+<PG>1365-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kotses-1995" NAME="Kotses 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;Kotses H, Bernstein IL, Bernstien DI et al.  A self-management program for adult asthma.  Part 1: development and evaluation. J Allergy Clin Immunol 1995;95:529-40.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kotses H, Bernstein IL, Bernstien DI et al</AU>
+<TI>A self-management program for adult asthma. Part 1: development and evaluation</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>1995</YR>
+<VL>95</VL>
+<PG>529-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kotses-1996" NAME="Kotses 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kotses H, Stout C, Mcconnaughty K, Winder JA, Creer TL</AU>
+<TI>Evaluation of individualized asthma self-management programes</TI>
+<SO>Journal of Asthma</SO>
+<YR>1996</YR>
+<VL>33</VL>
+<PG>113-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-LeBaron-1985" NAME="LeBaron 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>LeBaron S, Zeltzer LK, Patner P, Kniker WT</AU>
+<TI>A controlled study of education for improving compliance with Cromolyn Sodium (Intal): the importance of Physician-patient communication</TI>
+<SO>Annals of Allergy</SO>
+<YR>1985</YR>
+<VL>55</VL>
+<PG>811-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Legorreta-2000" NAME="Legorreta 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Legorreta AP, Leung K-M, Berkbigler D, Evans R, Liu X</AU>
+<TI>Outcomes of a population-based asthma management program: quality of life, absenteeism, and utilization</TI>
+<SO>Annals of Allergy Asthma &amp; Immunology</SO>
+<YR>2000</YR>
+<VL>85</VL>
+<PG>28-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Levy-2000" NAME="Levy 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Levy ML, Robb M, Allen J, Doherty C, Bland JM, Winter RJD</AU>
+<TI>A randomized controlled evaluation of specialist nurse education following accident and emergency attendance for acute asthma</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2000</YR>
+<VL>94</VL>
+<PG>900-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lirsac-1991" NAME="Lirsac 1991" YEAR="1991">
+<REFERENCE NOTES="&lt;p&gt;Lirsac B, Braunstein G. Randimsed evaluation of two teaching methods using aerosol dosers (French). Revue des Maladies respiratories 1991;8:559-65.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lirsac B, Braunstein G</AU>
+<TI>Randomised evaluation of two teaching methods using aerosol dosers (French)</TI>
+<SO>Revue des Maladies Respiratories</SO>
+<YR>1991</YR>
+<VL>8</VL>
+<PG>559-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Maes-1988" NAME="Maes 1988" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Maes S, Schlosser M.  Changing health behaviour outcomes in asthmatic patients: A pilot intervention study.  Soc Sci Med 1988;26:359-64.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Maes S, Schlosser M</AU>
+<TI>Changing health behaviour outcomes in asthmatic patients: A pilot intervention study</TI>
+<SO>Social Science &amp; Medicine</SO>
+<YR>1988</YR>
+<VL>26</VL>
+<PG>359-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Maiman-1979" NAME="Maiman 1979" YEAR="1979">
+<REFERENCE NOTES="&lt;p&gt;Maiman LA, Richman J, Harris HW.  Results of a program to reduce admissions for adult asthma.  Annals of Internal Med. 1990;112:864-871.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Maiman LA, Green LW, Gibson G, MacKenzie EJ</AU>
+<TI>Education for self-treatment by adult asthmatics</TI>
+<SO>The Journal of the American Medical Association</SO>
+<YR>1979</YR>
+<VL>241</VL>
+<PG>1919-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mayo-1990" NAME="Mayo 1990" YEAR="1990">
+<REFERENCE NOTES="&lt;p&gt;Mayo PH, Richman J, Harris  HW. Results of a program to reduce admissions for adult asthma. Ann Int Med 1990;112:864-71.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mayo PH, Richman J, Harris HW</AU>
+<TI>Results of a program to reduce admissions for adult asthma</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1990</YR>
+<VL>112</VL>
+<PG>864-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Moldofsky-1979" NAME="Moldofsky 1979" YEAR="1979">
+<REFERENCE NOTES="&lt;p&gt;Moldofsky H, Broder I, Davies G, Leznoff A.  Videotape educational program for people with asthma.  Canadian Med Assoc Journal 1979;120:669-72.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Moldofsky H, Broder I, Davies G, Leznoff A</AU>
+<TI>Videotape educational program for people with asthma</TI>
+<SO>Canadian Medical Association Journal</SO>
+<YR>1979</YR>
+<VL>120</VL>
+<PG>669-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Moudgil-2000" MODIFIED="2008-08-13 12:57:41 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Moudgil 2000" YEAR="2000">
+<REFERENCE MODIFIED="2008-08-13 12:57:41 +0200" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Moudgil H, Marshall T, Honeybourne D</AU>
+<TI>Asthma education and quality of life in the community: a randomised controlled study to evaluate the impact on white European and Indian subcontinent ethnic groups from socio-economically deprived areas in Birmingham, UK</TI>
+<SO>Thorax</SO>
+<YR>2000</YR>
+<VL>55</VL>
+<PG>177-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Muhlhauser-1991" NAME="Muhlhauser 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Muhlhauser I, Richter B, Kraut D, Weske G, Worth H, Berger M</AU>
+<TI>Evaluation of a structured treatment and teaching programme of asthma</TI>
+<SO>Journal of Internal Medicine</SO>
+<YR>1991</YR>
+<VL>230</VL>
+<PG>157-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mulloy-1996" NAME="Mulloy 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mulloy E, Donaghy D, Quigley C, McNicholas WT</AU>
+<TI>A one-year prospective audit of an asthma education programme in an out-patient setting</TI>
+<SO>Irish Medical Journal</SO>
+<YR>1996</YR>
+<VL>89</VL>
+<PG>226-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Neri-1996" NAME="Neri 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;Neri M, Migliori GB, Spanevello A, Berra D, Nicolin E, Landoni CV, Ballardini L, Sommaruga M, Zanon P.  Economic analysis of two structured treatment and teaching programs on asthma. Allergy 1996;51:313-9.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Neri M, Migliori GB, Spanevello A, Berra D, Nicolin E, Landoni CV et al</AU>
+<TI>Economic analysis of two structured treatment and teaching programs on asthma</TI>
+<SO>Allergy</SO>
+<YR>1996</YR>
+<VL>51</VL>
+<PG>313-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Osman-1994" NAME="Osman 1994" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;Osman LM, Abdalla MI, Beattie JAG, Ross SJ, Russell IT, Friend JA, Legge JS, Douglas JG. Reducing hospital admission through computer supported education for asthma patients. BMJ 1994; 308:568-71.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Osman LM, Abdalla MI, Beattie JAG, Ross SJ, Russell IT, Friend JA et al</AU>
+<TI>Reducing hospital admission through computer supported education for asthma patients</TI>
+<SO>British Medical Journal</SO>
+<YR>1994</YR>
+<VL>308</VL>
+<PG>568-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Perdomo_x002d_Ponce-1996" NAME="Perdomo-Ponce 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Perdomo-Ponce D, Benarroch L, Gonzalez-Cerrutti R, Barroso R, Carneiro F, Meijomil P</AU>
+<TI>Family education, a model for allergy prevention [Spanish]</TI>
+<SO>Investigacion Clinica</SO>
+<YR>1996</YR>
+<VL>37</VL>
+<PG>221-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Petro-1995" MODIFIED="2008-08-13 12:58:37 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Petro 1995" YEAR="1995">
+<REFERENCE MODIFIED="2008-08-13 12:58:37 +0200" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Petro W, Hollander P, Hamann B, Lauber B, Mzyk C, Prittwitz M</AU>
+<TI>Patient education in pulmonary rehabilitation increases therapeutic effect</TI>
+<TO>Patientenschulung in der pneumologischen Rehabilitation steigert den therapeutischen Erfolg</TO>
+<SO>Atemwegs und Lungerkrankheiten</SO>
+<YR>1995</YR>
+<VL>S49-58</VL>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Premaratne-1999" NAME="Premaratne 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Premaratne UN, Sterne JAC, Marks GB, Webb R, Azima H, Burney PGJ</AU>
+<TI>Clustered randomised trial of an intervention to improve the management of asthma: Greenwich asthma study</TI>
+<SO>British Medical Journal</SO>
+<YR>1999</YR>
+<VL>318</VL>
+<PG>1251-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ringsberg-1990" NAME="Ringsberg 1990" YEAR="1990">
+<REFERENCE NOTES="&lt;p&gt;Ringsberg KC, Wiklund I, Wilhelmsen L.  Education of adult patients at an &amp;quot;asthma school&amp;quot;: effects on quality of life, knowledge and need for nursing.  Eur Respir J 1990;3:33-37.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ringsberg KC, Wiklund I, Wilhelmsen L</AU>
+<TI>Education of adult patients at an "asthma school": effects on quality of life, knowledge and need for nursing</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1990</YR>
+<VL>3</VL>
+<PG>33-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rydman-1999" NAME="Rydman 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rydman RJ, Sonenthal K, Laksminarayana T, Butki N, McDermott MF</AU>
+<TI>Evaluating the outcome of two teaching methods of breath actuated inhaler in an inner city asthma clinic</TI>
+<SO>Journal of Medical Systems</SO>
+<YR>1999</YR>
+<VL>23</VL>
+<PG>349-56</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schott_x002d_Baer-1999" NAME="Schott-Baer 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schott-Baer D, Christensen M</AU>
+<TI>Research for practice. A pilot programme to increase self-care of adult asthma patients</TI>
+<SO>Medsurg Nursing</SO>
+<YR>1999</YR>
+<VL>8</VL>
+<PG>178-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shields-1986" NAME="Shields 1986" YEAR="1986">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shields MC, Vail MJ, Reinhard JD, Szidon JP, White PB</AU>
+<TI>Counseling is better accepted than classes in patient education of adult inner city asthmatics. New Health Care Systems: HMOs &amp; Beyond</TI>
+<YR>1986</YR>
+<VL>June</VL>
+<PG>289-98</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Snyder-1987" NAME="Snyder 1987" YEAR="1987">
+<REFERENCE NOTES="&lt;p&gt;Snyder Se, Winder JA, Creer TL.  Development and evaluation of an adult asthma self-managment program: Wheezers Anonymous. J Asthma 1987;11:39-43.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Snyder Se, Winder JA, Creer TL</AU>
+<TI>Development and evaluation of an adult asthma self-managment program: Wheezers Anonymous</TI>
+<SO>Journal of Asthma</SO>
+<YR>1987</YR>
+<VL>24</VL>
+<PG>153-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sondergaard-1992" NAME="Sondergaard 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sondergaard B, Davidsen F, Kirkeby B, Rasmussen M, Hey H</AU>
+<TI>The economics of an intensive educational programme for asthmatic patients. A prospective controlled trial</TI>
+<SO>Pharmacoeconomics</SO>
+<YR>1992</YR>
+<VL>3</VL>
+<PG>207-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thapar-1994" NAME="Thapar 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thapar A</AU>
+<TI>Educating asthmatic patients in primary care: a pilot study of small group education</TI>
+<SO>Family Practice</SO>
+<YR>1994</YR>
+<VL>11</VL>
+<PG>39-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tougaard-1992" NAME="Tougaard 1992" YEAR="1992">
+<REFERENCE NOTES="&lt;p&gt;Tougaard L, Krone T, Sorknaes, Ellegaard H, and the PASTMA group.  Economic benefits of teaching patients with chronic obstructive pulmonary disease about their asthma.  Lancet 1992;339:1517-20.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tougaard L, Krone T, Sorknaes, Ellegaard H, the PASTMA group</AU>
+<TI>Economic benefits of teaching patients with chronic obstructive pulmonary disease about their asthma</TI>
+<SO>Lancet</SO>
+<YR>1992</YR>
+<VL>339</VL>
+<PG>1517-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Verver-1996" NAME="Verver 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Verver S, Poelman M, Bogels A, Chisholm SL, Dekker FW</AU>
+<TI>Effects of instruction by practice assistance on inhaler technique and respiratory symptoms of patients. A controlled randomized videotaped intervention study</TI>
+<SO>Family Practice</SO>
+<YR>1996</YR>
+<VL>13</VL>
+<PG>35-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-White-1989" NAME="White 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>White PT, Pharoah CA, Anderson HR, Freeling P</AU>
+<TI>Randomised controlled trial of small group education on the outcome of chronic asthma in general practice</TI>
+<SO>Journal of the Royal College of General Practitioners</SO>
+<YR>1989</YR>
+<VL>39</VL>
+<PG>182-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-1993" NAME="Wilson 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nguyen BP, Wilson SR, German DF</AU>
+<TI>Patients' perceptions compared with objective ratings of asthma severity</TI>
+<SO>Annals of Allergy Asthma &amp; Immunology</SO>
+<YR>1996</YR>
+<VL>77</VL>
+<PG>209-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;Wilson SR, Scamagas P, German DF, Hughes GW, Lulla S et al.  A controlled trial of two forms of self-managment education for adults with asthma.  Am J Med 1993;94:564-76.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson SR, Scamagas P, German DF, Hughes GW, Lulla S et al</AU>
+<TI>A controlled trial of two forms of self-managment education for adults with asthma</TI>
+<SO>American Journal of Medicine</SO>
+<YR>1993</YR>
+<VL>94</VL>
+<PG>564-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson-Pessano SR, Scamagas P, Arsham GM, Chardon L, Coss S, German DF, Hughes GW</AU>
+<TI>An evaluation of approaches to asthma self-management education for adults: The AIR/Kaiser-Permanente Study</TI>
+<SO>Health Education Quarterly</SO>
+<YR>1987</YR>
+<VL>14</VL>
+<PG>333-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Yoon-1993" NAME="Yoon 1993" YEAR="1993">
+<REFERENCE NOTES="&lt;p&gt;Yoon R, McKenzie DK, Bauman A, Miles DA.  Controlled trial evaluation of an asthma education program for adults.  Thorax 1993;48:1110-1116.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Yoon R, McKenzie DK, Bauman A, Miles DA</AU>
+<TI>Controlled trial evaluation of an asthma education program for adults</TI>
+<SO>Thorax</SO>
+<YR>1993</YR>
+<VL>48</VL>
+<PG>1110-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zeiger-1991" NAME="Zeiger 1991" YEAR="1991">
+<REFERENCE NOTES="&lt;p&gt;Zeiger RS, Heller S, Mellon MH, Wald J. Falkoff R, Schatz M. Facilitated referral to asthma specialist reduces relapses in asthma emergency room visits.  Journal of Allergy and Clinical Immunology 1991;87:1160-8.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zeiger RS, Heller S, Mellon MH, Wald J, Falkoff R, Schatz M</AU>
+<TI>Facilitated referral to asthma specialist reduces relapses in asthma emergency room visits</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>1991</YR>
+<VL>87</VL>
+<PG>1160-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Im-1993" NAME="Im 1993" YEAR="1993">
+<REFERENCE NOTES="&lt;p&gt;awaiting assessment&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Im J</AU>
+<TI>Evaluation of effectiveness of an asthma clinic managed by an ambulatory care pharmacist</TI>
+<SO>California Journal of Hospital Pharmacy</SO>
+<YR>1993</YR>
+<VL>5</VL>
+<PG>5-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES MODIFIED="2008-08-13 12:59:03 +0200" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Ford-1996" NAME="Ford 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ford ME, Edwards G, Rodrigues JL, Gibson RC, Tilley BC</AU>
+<TI>An empowerment-centered, church-based asthma education program for African American adults</TI>
+<SO>Health and Social Work</SO>
+<YR>1996</YR>
+<VL>21</VL>
+<PG>70-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ploska-1999" MODIFIED="2008-08-13 12:59:03 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Ploska 1999" YEAR="1999">
+<REFERENCE MODIFIED="2008-08-13 12:59:03 +0200" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ploska JF</AU>
+<TI>Asthma education nurses in the hospital (French)</TI>
+<TO>Infirmiere educatrice de l'asthme en secteur hospitalier</TO>
+<SO>Revue de l'Infirmiere</SO>
+<YR>1999</YR>
+<VL>50</VL>
+<PG>35-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</ONGOING_STUDIES>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-08-13 12:59:09 +0200" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2008-08-13 12:59:09 +0200" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Anonymous-1992" MODIFIED="2008-08-13 12:37:35 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Anonymous 1992" NOTES="&lt;p&gt;Anonymous.  International Consensus Report on Diagnosis and Treatment of Asthma. US Department of Health and Human Services; 1992 National Heart, Lung, and Blood Institute Bethesda, Maryland.&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 12:37:35 +0200" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="BOOK">
+<AU>US Department of Health and Human Services</AU>
+<TI>International Consensus Report on Diagnosis and Treatment of Asthma</TI>
+<SO>International Consensus Report on Diagnosis and Treatment of Asthma</SO>
+<YR>1992</YR>
+<PB>National Heart, Lung, and Blood Institute</PB>
+<CY>Bethesda, Maryland</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Anonymous-1996" MODIFIED="2008-08-13 12:37:35 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Anonymous 1996" NOTES="&lt;p&gt;National Asthma Campaign.  Asthma Management Handbook 1996; NAC Ltd, 1996.&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 12:37:35 +0200" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="BOOK">
+<AU>Anonymous</AU>
+<SO>Asthma Management Handbook</SO>
+<YR>1996</YR>
+<PB>National Asthma Campaign Ltd</PB>
+<CY>Australia</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bernard_x002d_Bonnin-1995" MODIFIED="2008-08-13 12:59:09 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Bernard-Bonnin 1995" NOTES="&lt;p&gt;Bernard-Bonnin A et al. Self-management teaching programs and morbididty of pediatric asthma: a meta-analysis. J Allergy and Clin Immunol 1995; 95:23-41.&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 12:59:09 +0200" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Bernard-Bonnin A et al</AU>
+<TI>Self-management teaching programs and morbidity of pediatric asthma: a meta-analysis</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>1995</YR>
+<VL>95</VL>
+<PG>23-41</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Clark-1993" MODIFIED="2008-08-13 12:37:35 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Clark 1993" NOTES="&lt;p&gt;Clark NM, gotsch A, Rosenstoc IR.  Patient , professional and public educationon behavioural aspects of asthma: a review of strategies for change and needed research. J Asthma 1993;30:241-55&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 12:37:35 +0200" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Clark NM, Gotsch A, Rosenstoc IR</AU>
+<TI>Patient , professional and public education on behavioural aspects of asthma: a review of strategies for change and needed research</TI>
+<SO>Journal of Asthma</SO>
+<YR>1993</YR>
+<VL>30</VL>
+<PG>241-55</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gibson-1993a" NAME="Gibson 1993a" NOTES="&lt;p&gt;Gibson PG et al. A prospective audit of asthma management following emergency asthma treatment at a teaching hospital.  Med J Aust 1993;158:775-8.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Gibson PG et al</AU>
+<TI>A prospective audit of asthma management following emergency asthma treatment at a teaching hospital</TI>
+<SO>The Medical Journal of Australia</SO>
+<YR>1993</YR>
+<VL>158</VL>
+<PG>775-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gibson-1993b" NAME="Gibson 1993b" TYPE="JOURNAL_ARTICLE">
+<AU>Gibson PG</AU>
+<TI>Asthma guidelines and evidenced-based medicine</TI>
+<SO>Lancet</SO>
+<YR>1993</YR>
+<VL>342</VL>
+<PG>1305</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gibson-1998" MODIFIED="2008-08-13 12:37:44 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Gibson 1998" TYPE="COCHRANE_REVIEW">
+<AU>Gibson PG, Coughlan J, Wilson AJ, Hensley MJ, Abramson M, Bauman A et al</AU>
+<TI>The effects of limited (information-only) asthma education on health outcomes of adults with asthma (Cochrane review)</TI>
+<SO>The Cochrane Library</SO>
+<YR>1998</YR>
+<NO>1</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gibson-1999" MODIFIED="2008-08-13 12:37:44 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Gibson 1999" TYPE="COCHRANE_REVIEW">
+<AU>Gibson PG, Coughlan J, Wilson AJ, Abramson M, Bauman A, Hensley MJ et al</AU>
+<TI>Self-management education and regular practitioner review for adults with asthma (Cochrane Review)</TI>
+<SO>The Cochrane Library</SO>
+<YR>1999</YR>
+<NO>3</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" MODIFIED="2008-08-13 12:37:36 +0200" MODIFIED_BY="Toby J Lasserson" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore A, Carroll D, Jenkinson C, Reynolds JM, Gavaghan DJ et al</AU>
+<TI>Assessing the quality reports of randomized clinical trials: is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Peat-1994" NAME="Peat 1994" NOTES="&lt;p&gt;Peat JK et al.  Changing prevalence of asthma in Australian Children.  Br Med J 1994;308:1591-6.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Peat JK et al</AU>
+<TI>Changing prevalence of asthma in Australian Children</TI>
+<SO>British Medical Journal</SO>
+<YR>1994</YR>
+<VL>308</VL>
+<PG>1591-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Woolcock-1989" NAME="Woolcock 1989" NOTES="&lt;p&gt;Woolcock A et al. Asthma Managment Plan. Med J Aust 1989; 151:650-3.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Woolcock A et al</AU>
+<TI>Asthma Managment Plan</TI>
+<SO>The Medical Journal of Australia</SO>
+<YR>1989</YR>
+<VL>151</VL>
+<PG>650-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-08-13 12:56:31 +0200" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-08-13 12:56:17 +0200" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:52:23 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Adams-2001">
+<CHAR_METHODS>
+<P>DESIGN: Randomised Trial of Two Interventions<BR/>METHOD OF RANDOMISATION: Random numbers after stratification for age, gender, and number already in each group.<BR/>MEANS OF ALLOCATION CONCEALMENT- not stated.<BR/>OUTCOME ASSESSOR BLINDING - not stated.<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: 380<BR/>Randomised: 172<BR/>Completed: 134 (Intervention 73, Control 61)<BR/>Age: mean: PFM 37.3 yrs , Symptoms 35.5 yrs <BR/>Range: eligible range 16 to 70 yrs<BR/>Sex: PFM: Male / Female - 40%/60%<BR/>Symptoms 38%/62%<BR/>Asthma Diagnosis: ATS <BR/>Recruitment: Inpatients &amp; outpatients<BR/>Diseases Included: <BR/>Major exclusions: Previous life threatening asthma, previous or current action plan, pregnancy, poor perception of bronchoconstriction(histamine challenge), baseline FEV1 &lt;1.5L<BR/>Baseline:<BR/> FEV1: <BR/> PEF: mean(SD) % predicted PFM: 75.8(18), Symptoms 75.6(18)<BR/> Exacerbations:</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: Inpatients &amp; outpatients<BR/>Type: Two optimal self management interventions:<BR/>(1) education in use of written action plans, monthly telephone contact for reinforcement and data collection and ongoing education, self monitoring of PEF. Seen by specialist on entry to study and commenced on inhaled corticosteroids<BR/>(2) same as intervention 1 but symptom self monitoring<BR/>Duration: Initial intervention duration not stated. Monthly telephone call for 12 months. months</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Hospitalisation, ER visits, FEV1, days off work or school, PD20 histamine, severity self-rating.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:52:23 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 5</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:52:40 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Ayres-1996">
+<CHAR_METHODS MODIFIED="2008-08-13 12:52:40 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>DESIGN: Randomised Trial of Two Interventions<BR/>METHOD OF RANDOMISATION: Computer<BR/>MEANS OF ALLOCATION CONCEALMENT- adequate<BR/>OUTCOME ASSESSOR BLINDING - not blinded<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: <BR/>Randomised: 126 <BR/>Completed: 50<BR/>Age: Overall mean: Intervention 44 years Control 47 Range: &gt; 17 <BR/>Sex: Male / Female - 51 / 74<BR/>Asthma Diagnosis: Objective Lung Function<BR/>Recruitment: ?<BR/>Diseases Included: <BR/>Major exclusions: Respiratory Tract Infections<BR/>Baseline:<BR/> FEV1: baseline not measured<BR/> PEF: % potential normal (mean +/- SEM). Intervention 79 +/- 2, Control 72+/- 2.<BR/> Exacerbations: 1 documented exacerbation in previous 6 months which required contact with a doctor or a nurse.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-13 12:38:52 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Setting: GP/ outpatient clinic<BR/>Type: Intervention 1 = Optimal Self Management including one to one education with the doctor, self-monitoring of peak flow, regular medical review within the program and a written action plan allowing self adjustment of medications based on peak flow. Intervention 2 = One to one Education with the doctor, Self-Monitoring of symptoms and Regular Review (i.e. doctor managed).<BR/>Duration: Not specified.<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-08-13 12:38:39 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Office FEV1, FVC, (patients asked not to use terbutaline during the 5 h before each visit), asthma symptoms, activity limitation, morning and evening pre bronchodilator PEF (best of 3), terbutaline and budesonide inhalations, sleep disturbance.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Score = 5</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:53:24 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Baldwin-1997">
+<CHAR_METHODS>
+<P>DESIGN: Randomised Trial of Two Interventions<BR/>METHOD OF RANDOMISATION: random number generation<BR/>MEANS OF ALLOCATION CONCEALMENT- None - assessment made by separate doctor<BR/>OUTCOME ASSESSOR BLINDING - Yes<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: 50<BR/>Randomised: 50 (Verbal intervention 25, written intervention 25)<BR/>Completed: 50<BR/>Age: 17 to 39yrs: verbal 44%, written 60%. 40 to 59yrs: verbal 36%, written 28%. 60 to 70yrs: 20%, written 12% Range:<BR/>Sex: Male / Female - 46% / 27%<BR/>Asthma Diagnosis: Objective lung function <BR/>Recruitment: General Practice <BR/>Diseases Included: <BR/>Major exclusions: illiteracy, pregnancy, history of occupational asthma, chronic lung disease other than asthma, heart disease.<BR/>Baseline: mod-severe asthma<BR/> FEV1: <BR/> PEF: &lt; 75% predicted<BR/> Exacerbations:</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: GP asthma clinic <BR/>Type:<BR/>Intervention 1: Verbal instruction on asthma management, PEF self monitoring and recording twice daily. Information posters in waiting room and handouts received on 'asthma in the family'. 3 monthly consultations where treatment could be adjusted.<BR/>Intervention 2: received the same as intervention 1 but also included a written asthma action plan.<BR/>Duration: Initial assessment then 3 study visits 3 months apart<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Hospitalisation, ER visits, PEF, rescue medication, nocturnal symptoms, lifestyle, medication, morbidity and drug use score.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:53:24 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 4</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Charlton-1990">
+<CHAR_METHODS>
+<P>DESIGN: Randomised Trial of two types of self management plans<BR/>METHOD OF RANDOMISATION: random numbers chart (not clear if open or closed).<BR/>METHOD OF ALLOCATION CONCEALMENT: not stated.<BR/>OUTCOME ASSESSOR BLINDING: not stated.<BR/>WITHDRAWAL/DROPOUTS: unsure.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: 115<BR/>Randomised: Peak Flow 51; Symptoms Only 64 <BR/>Completed: "all 115 patient attended the asthma clinic".<BR/>Age: 46 Children: 19 Peak Flow; 27 Symptoms.<BR/>Sex: Male / Female - N/S<BR/>Asthma Diagnosis: "All patients receiving prophylactic treatment for asthma"<BR/>Recruitment: General Practice <BR/>Diseases Included: N/S <BR/>Major exclusions: "Patients who required maintenance treatment with steroids or nebulised salbutamol during the study were not included in the relevant analyses".<BR/>Baseline:<BR/> FEV1: N/S<BR/> PEF: N/S<BR/> Exacerbations</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: Nurse run asthma clinic in a general practice <BR/>Type: Two optimal self management interventions. One based on peak flow the other on symptoms.<BR/>1. Education, self monitoring of peak flow, regular review and a written action plan enabling self adjustment of medications in the event of worsening asthma on the basis of peak flow readings.<BR/>2. Education, self monitoring of symptoms, regular review and self adjustment of medications in the event of worsening asthma on the basis of symptoms.<BR/>Duration: Initial one to one interview with nurse took 45 minutes plus one follow-up interview which took 15 minutes. All patients reviewed by the nurse every 8 weeks or more often if necessary. If necessary, drug regimens were altered by the nurse after consultation with the GP.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Doctor consultations, courses of oral steroids, short term nebulised salbutamol treatments,</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Score = 3</P>
+<P>Data was provided separately for adults and children. We have only used the data for adults.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:53:41 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Cote-1997">
+<CHAR_METHODS>
+<P>DESIGN: Randomised controlled trial of two interventions <BR/>METHOD OF RANDOMISATION: Randomised - stratified randomisation<BR/>MEANS OF ALLOCATION CONCEALMENT- not stated.<BR/>OUTCOME ASSESSOR BLINDING - not blinded.<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: not specified<BR/>Randomised: 188 (Peak Flow 62, Symptoms Only 52, Control 74)<BR/>Completed: 149 (Peak Flow 50, Symptoms Only 45, Control 54) <BR/>Age: Overall mean: 36 yrs Range: <BR/>Sex: Male / Female -<BR/>Asthma Diagnosis: Doctor's diagnosis and objective lung function <BR/>Recruitment: Hospital admissions or visit to a clinic. <BR/>Diseases Included: <BR/>Major exclusions: current and ex-smokers 40 yr of age or older in whom the best TEV1 after salbutamol was &lt;80% of predicted, patients with significant concurrent diseases, those requiring &gt;7.5 mg prednisone to control asthma symptoms and those who had already taken part in an asthma education program.<BR/>Baseline:<BR/> FEV1: not stated<BR/> PEF: % predicted: Peak Flow 93+/-3; Symptoms 91+/-3; Control 95+/-3. <BR/> Exacerbations not stated</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: tertiary care setting<BR/>Type: Two optimal interventions and an active control.<BR/>1. Education, peak flow self monitoring, regular review and individualised written action plan based on peak flow enabling self adjustment of medications in the event of worsening asthma.<BR/>2. Education, symptoms self monitoring, regular review and a symptoms based written action plan enabling self adjustment of medications in the event of worsening asthma. <BR/>3. Control group: Taught inhaler technique by the educator and about medication use and triggers by their pulmonologist. Their physician may have provided a verbal action plan.<BR/>Duration: A minimum of 1 x one hour one to one counselling sessions for both educated groups</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Knowledge, compliance, hospitalisations, ER visits, oral corticosteroids, days lost from work or school.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:53:41 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 4</P>
+<P>Treatment was optimised for all subjects during baseline.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:53:53 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Cote-2001">
+<CHAR_METHODS>
+<P>DESIGN: Randomised controlled trial of two interventions<BR/>METHOD OF RANDOMISATION: Stratified by treatment centre, randomisation method not stated. Control group not randomised.<BR/>MEANS OF ALLOCATION CONCEALMENT- not stated, control group open<BR/>OUTCOME ASSESSOR BLINDING - <BR/>WITHDRAWAL/DROPOUTS -</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: not stated<BR/>Randomised: 126 (Intervention LE ?, intervention SE ?)<BR/>Completed: 98 ( Intervention LE 30, intervention SE 33, control 35) <BR/>Age: Overall mean: 34.5 yrs Range: &gt;18 yrs<BR/>Sex: Male / Female -<BR/>Asthma Diagnosis: Doctor diagnosis<BR/>Recruitment: ER or outpatient clinic with exacerbation<BR/>Diseases Included: <BR/>Major exclusions: &gt; 40yrs with FEV1 &lt;80% (to avoid COPD), any concurrent illness<BR/>Baseline: Mean duration asthma 10.2 yrs.<BR/> FEV1: <BR/> PEF: % predicted: Intervention LE 89.8%, Intervention SE 89.8% <BR/> Exacerbations: admitted with acute exacerbations</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: 2 university hospitals<BR/>Type: 2 interventions and a non randomised control group.<BR/>Intervention LE: Limited education but including action plan- instructed in use of inhaler, explanation of self action plan by physician. Choice of action plan based on symptoms or PEF. Received standard care with therapy modified according to action plan.<BR/>Intervention SE: Included the LE intervention plus self management education - a structured educational program based on the 'PRECEDE model'- including predisposing factors, enabling factors and reinforcement.<BR/>Control group received usual care. - not used as not randomised<BR/>Duration: SE intervention conducted 2 weeks after randomisation - length of time not stated. Reinforced at 6 months</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Knowledge,ER visits, unscheduled Dr visits, PEF, quality of life<BR/>compliance</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:53:53 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 4</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:54:16 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Cowie-1997">
+<CHAR_METHODS MODIFIED="2008-08-13 12:54:11 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>DESIGN: Randomised controlled trial of two interventions<BR/>METHOD OF RANDOMISATION: Random numbers list<BR/>MEANS OF ALLOCATION CONCEALMENT- Adequate <BR/>OUTCOME ASSESSOR BLINDING - outcome assessors blinded<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: not specified<BR/>Randomised: 151 (one withdrawn: not asthma)<BR/>Completed: 139 (Peak Flow 46, Symptoms Only 45, Control 48) <BR/>Age: Overall mean: 36.4 yrs Standard Deviation: 15.9 yrs <BR/>Sex: Male / Female - (Peak Flow 17/29, Symptoms Only 20/25, Control 19/29)<BR/>Asthma Diagnosis: Doctor's diagnosis and objective lung function <BR/>Recruitment: Urgent emergency room treatment for asthma. <BR/>Diseases Included: Not specified. Included those who already had a peak flow meter.<BR/>Major exclusions: Those who already had a written action plan.<BR/>Baseline:<BR/> FEV1: not stated<BR/> PEF: not stated<BR/> Exacerbations All subjects had required urgent treatment for asthma in the previous 12 months.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: individual nurse led education<BR/>Type: Two optimal interventions and an active control.<BR/>1. Education (as per control), peak flow self monitoring, medication assessment within the program and advised to seek regular review outside the program and individualised written action plan based on peak flow enabling self adjustment of medications in the event of worsening asthma.<BR/>2. Education (as per control), NO symptoms or peak flow self monitoring, medication assessment within the program and advised to seek regular review outside the program and a symptoms based written action plan enabling self adjustment of medications in the event of worsening asthma. <BR/>3. Control group: 45 minutes education by the nurse educator about asthma, triggers, medication use and devices as per the interventions above. Medications assessed and if inadequate, patients physician was notified. Patients advised that their dose of corticosteroid may need to be adjusted from time to time.<BR/>Duration: 45 minutes one to one counselling sessions for all groups</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Hospital admissions, ER visits.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:54:16 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 5</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Grampian-1994">
+<CHAR_METHODS>
+<P>DESIGN: 2x2x2 block randomised trial stratified by physician.<BR/>METHOD OF RANDOMISATION: the word "random" stated ; method not described.<BR/>METHOD OF ALLOCATION CONCEALMENT: not described.<BR/>OUTCOME ASSESSOR BLINDING: not stated.<BR/>WITHDRAWAL/DROPOUTS: dropouts (6%) not accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: 801 consented but 232 already had peak flow meter and could not be randomised for this arm.<BR/>Randomised: 569: Peak flow self monitoring 285, Conventional monitoring 284<BR/>Completed: 458: Peak flow self monitoring 230, Conventional monitoring 228.<BR/>Age: Mean Intervention 51.1 yrs Control 50.5 years Range: &gt;16 years. <BR/>Sex: Male / Female Intervention 48/52% Control 40/60%<BR/>Asthma Diagnosis: Doctor's diagnosis and objective lung function<BR/>Recruitment: Hospital outpatient clinics and general practices in north east Scotland.<BR/>Diseases Included: N/S<BR/>Major exclusions: N/S<BR/>Baseline:<BR/> FEV1: % of predicted: Intervention 77.3%; Control 78.1%<BR/> PEF: Mean: Intervention 344.5; Control 341.6. <BR/> Exacerbations: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: <BR/>Type: education, self monitoring of peak flow, and regular review and written action plan to enable self adjustment of medications in response to worsening asthma based on peak flow. (due to the factorial design, some of the intervention group were randomised to receive enhanced education while the others had conventional education. Similarly, some were randomised to receive integrated care while others had conventional care). <BR/>Control: Some had enhanced education but none had peak flow meters.<BR/>Duration: not stated</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Hospitalisation, unscheduled doctor visits, FEV1 % predicted, use of rescue medication, quality of life, days off work, inhaled steroids, disrupted days, nocturnal asthma.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Score = 3</P>
+<P>Confounding due to factorial design.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Jones-1995">
+<CHAR_METHODS>
+<P>DESIGN: Randomised Controlled Trial. Stratified by centre in blocks of six.<BR/>METHOD OF RANDOMISATION: the word "random" stated ; method not described.<BR/>METHOD OF ALLOCATION CONCEALMENT: not described.<BR/>OUTCOME ASSESSOR BLINDING: not clear - "data rendered anonymous" before analysis.<BR/>WITHDRAWAL/DROPOUTS: not described.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: not stated<BR/>Randomised: 127<BR/>Completed: 72 (Intervention self management 33; planned visits 39) <BR/>Age: self managed : mean 30.4 yrs SD 11.5 yrs planned visits: mean 28.6 SD 7 yrs. <BR/>Sex: Male / Female Self managed 14/19 planned visits 12/26.<BR/>Asthma Diagnosis: Doctor's diagnosis<BR/>Recruitment: General practices<BR/>Diseases Included: Not specified<BR/>Major exclusions: Those on regular oral steroids and those who were regularly conducting home PEF monitoring.<BR/>Baseline:<BR/> FEV1: % predicted: self management 85.1 (SD 20.8), planned visits 80.2 (SD19.9)<BR/> PEF: % predicted: self management 88.2 (SD 15.4), planned visits 86.8 (SD 13.7) <BR/> Exacerbations</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: General Practice <BR/>Type: Optimal self management: education, peak flow self monitoring, regular review and an individualised written action plan based on peak flow enabling self adjustment of medications in the event of worsening asthma.<BR/>Control: regular review and kept a daily diary for morbidity and bronchodilator use for outcomes.<BR/>Duration: 5 study visits (duration not stated) over a 26 week period</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Lung Function - % predicted, Use of rescue medication, quality of life, days off work, wheeze (frequency, severity), nocturnal asthma, oral corticosteroid use, cough, shortness of breath, disrupted days.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Score = 4</P>
+<P>Oral corticosteroids was given for 2 weeks to optimise lung function in both groups during baseline.<BR/>Drop outs were more likely to be younger and male with lower initial FVC values then the completers.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:55:00 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Kauppinen-1998">
+<CHAR_METHODS MODIFIED="2008-08-13 12:54:56 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>DESIGN: Randomised Trial of two Interventions<BR/>METHOD OF RANDOMISATION: Computer<BR/>MEANS OF ALLOCATION CONCEALMENT- Adequate<BR/>OUTCOME ASSESSOR BLINDING - not stated<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-13 12:54:51 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Eligible: not stated<BR/>Randomised: 162 (optimal self management 80, self management 82)<BR/>Completed: 157 (optimal SM 77, SM 80)<BR/>Age: Overall mean: 43.7 Range: 18 - 76<BR/>Sex: Male / Female -60 / 102<BR/>Asthma Diagnosis: ATS criteria<BR/>Recruitment: outpatient clinic<BR/>Diseases Included:<BR/>Major exclusions:<BR/>Baseline: newly diagnosed asthmatics with &gt;15% reversibility<BR/>FEV1: % predicted - optimal SM 86.1%, SM 82.8%<BR/>PEF: % predicted - optimal SM 84.3%, SM 83.4%<BR/>Exacerbations:</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: outpatients clinic<BR/>Type: Intervention 1: Optimal self management including basic asthma education, PEF, principles of treatment, video, self monitoring, written action plan and regular review.<BR/> Intervention 2: Self Management education as for optimal group without the regular review.<BR/>Duration: 2 visits for self management group and further group education every 3 months for 12 months for the optimal SM group totaling 8 hours</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-08-13 12:54:46 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>ER visits, unscheduled Dr visits, FEV1, costs, days off work, quality of life, FVC, PD15 histamine, FEV%, normal airway responsiveness achieved</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:55:00 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 4</P>
+<P>Followed up at 12 months, 3 years and 5 years</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:55:08 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Klein-2001">
+<CHAR_METHODS>
+<P>DESIGN: Randomised trial of two interventions<BR/>METHOD OF RANDOMISATION: random stated method not described<BR/>MEANS OF ALLOCATION CONCEALMENT- Closed envelope technique<BR/>OUTCOME ASSESSOR BLINDING - single blind stated - not defined who was blind <BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-13 12:55:03 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Eligible: 485<BR/>Randomised: 245 ( Intervention optimal SM 123, intervention SM 122)<BR/>Completed: 174 (Intervention optimal SM 84, intervention SM 90)<BR/>Age: Overall mean: 44 Range: eligible range 18 to 65<BR/>Sex: Male / Female - 111 / 134<BR/>Asthma Diagnosis: Objective lung function<BR/>Recruitment: Outpatient clinic<BR/>Diseases Included:<BR/>Major exclusions: serious medical or psychiatric comorbidity<BR/>Baseline: moderate - severe asthma - continuous use of inhaled steroids for 3 month minimum.<BR/>FEV1: reversibility &gt;15% or &gt;9% predicted or 20% fall with histamine challenge<BR/>PEF: mean % predicted: optimal SM 76.0, SM 76.9. Mean PEF optimal SM 381, SM 389<BR/>Exacerbations:</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: outpatients clinic <BR/>Type: Both groups instructed in pathophysiology of asthma, medications, triggers and indicators of exacerbation. written material also provided. Video for inhaler technique. Self monitoring of PEF for 2 weeks for outcome measurement at 4, 8, 12, 18 &amp; 24 months. Regular follow-up with own chest physician.<BR/>Optimal SM group also instructed in self management with a written action plan<BR/>Duration: 3 x 90 minute group sessions</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Unscheduled Dr visits, PEF variability, FEV1, exacerbations, quality of life, hospital days, PC20 histamine, symptom free days, telephone contacts, perceived control of asthma</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:55:08 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 5</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:55:35 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Lahdensuo-1996">
+<CHAR_METHODS MODIFIED="2008-08-13 12:55:25 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>DESIGN: Randomised Controlled Trial<BR/>METHOD OF RANDOMISATION: Randomised - blocks of variable sizes and stratified by centre<BR/>MEANS OF ALLOCATION CONCEALMENT- Adequate.<BR/>OUTCOME ASSESSOR BLINDING - single blind.<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: 122<BR/>Randomised: 122 (Intervention 60, Control 62)<BR/>Completed: 115 (Intervention 56, Control 59)<BR/>Age: Overall mean: 41.7 yrs (SD 14.7)<BR/>Sex: Male / Female Intervention 43/59<BR/>Asthma Diagnosis: Objective lung function<BR/>Recruitment: Out patient clinics in Finland - mild to moderately severe asthma.<BR/>Diseases Included: Smokers<BR/>Major exclusions: Not stated<BR/>Baseline:<BR/> FEV1: % Predicted Intervention 82.4 (SD 15.8), Control 81.7 (16.6)<BR/> PEF: <BR/> Exacerbations: No oral corticosteroids in the last 4 weeks before entry.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-13 12:55:35 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Setting: Outpatient clinics in Finland<BR/>Type: Optimal self management including a written action plan allowing self adjustment of anti-inflammatory medications according to peak flow, self monitoring of peak flow, regular review within the program and education.<BR/>Duration: At the first visit, one to one education was provided which took an extra 1.5hrs longer then the control visit.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Hosptialisations, Unscheduled doctor visits, FEV1, (%predicted - pre bronchodilator), oral corticosteroids, days off work or school, quality of life, courses of antibiotics, costs.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:55:33 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 3</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:55:45 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Lopez_x002d_Vina-2000">
+<CHAR_METHODS MODIFIED="2008-08-13 12:55:40 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>DESIGN: Randomised trial of two interventions<BR/>METHOD OF RANDOMISATION: random stated, method not described.<BR/>MEANS OF ALLOCATION CONCEALMENT- not stated<BR/>OUTCOME ASSESSOR BLINDING - not stated<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: 192<BR/>Randomised: 150<BR/>Completed: 100 (PEF group 56, symptom group 44)<BR/>Age: 17 to 37yrs PEF group 43%, symptom group 41%. 35 to 65 yrs PEF group 57%, symptom group 59%<BR/> Range:<BR/>Sex: Male / Female - 49/51<BR/>Asthma Diagnosis: ATS criteria<BR/>Recruitment: Emergency Dept <BR/>Diseases Included: <BR/>Major exclusions: COPD, emphysema, cystic fibrosis, severe rheumatoid arthritis, neoplasia<BR/>Baseline: mild 8%, moderate 60%, severe 32%<BR/> FEV1: &gt; 20% reversibility or &gt; 20% reversibility after methacholine challenge <BR/> PEF: <BR/> Exacerbations: recruited while visiting ER with an acute exacerbation</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-13 12:55:45 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Setting:<BR/>Type: Two optimal self management interventions. One based on peak flow the other on symptoms.<BR/>All subjects received personal instruction on general asthma concepts, treatment, asthma management, adherence enhancing strategies and regular review.<BR/>PEF group: received informative pamphlets, diary cards for PEF self monitoring and a written self management plan with colour coded card.<BR/>Symptom group: received a self management plan based on symptoms only<BR/>Duration: Commenced 1month after ER visit with follow-up at 15 days, 1 month and every 3 months for total 1 year</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Hospitalisation, ER visits, FEV1, days off work, nocturnal asthma, exacerbations, FVC, days with symptoms, inhaler technique, adherence</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Score = 4</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Sommaragua-1995">
+<CHAR_METHODS>
+<P>DESIGN: <BR/>METHOD OF RANDOMISATION: Randomised - stated. Method not described.<BR/>MEANS OF ALLOCATION CONCEALMENT- not stated.<BR/>OUTCOME ASSESSOR BLINDING - not stated.<BR/>WITHDRAWAL/DROPOUTS - all subjects accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: not stated<BR/>Randomised: 40 (Intervention 20, Control 20)<BR/>Completed: 36 (Intervention 20, Control 16)<BR/>Age: Overall mean: 48 Range: +/-16 yrs <BR/>Sex: Male / Female : 21/19<BR/>Asthma Diagnosis: Dr diagnosis implied: International Guidelines<BR/>Recruitment: Hospital inpatients at a Respiratory Medical Centre<BR/>Diseases Included: Not stated<BR/>Major exclusions: Not stated<BR/>Baseline:<BR/> FEV1: 76+/- 18% predicted before and 94+/- 5% predicted after salbutamol.<BR/> PEF: not stated<BR/> Exacerbations: not stated.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: Inpatient education programme <BR/>Type: Education, peak flow medications and symptoms self monitoring, medical review every 2 months with the same physician, written action plan allowing the patient to alter medications in response to worsening asthma. (plus a psychological intervention).<BR/>Duration: 2 lessons during admissions of unknown duration and quarterly lessons during the ensuring year.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Hospitalisation, ER visits, Days off work, Asthma Attacks, Resp. Illness Opinion Survey, Health Locus of Control, STA1 x 2 (anxiety, AD (Depression) APF (psychophysiological disorders), Asthma Symptom Checklist. - Only reported the psychological outcomes.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Score = 3</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-13 12:56:17 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Turner-1998">
+<CHAR_METHODS>
+<P>DESIGN: Randomised Trial of two types of self management plans<BR/>METHOD OF RANDOMISATION: random numbers chart (not clear if open or closed) after stratification for severity of airways responsiveness (ie &lt;2mg/ml or &gt;19 mg/ml for PC20 methacholine)<BR/>METHOD OF ALLOCATION CONCEALMENT: not stated.<BR/>OUTCOME ASSESSOR BLINDING: not stated.<BR/>WITHDRAWAL/DROPOUTS: all accounted for.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Eligible: 150 screened<BR/>Randomised: 117 <BR/>Completed: 92 (Peak Flow 44; Symptoms 48)<BR/>Age: Mean 34.1 years (SD 9.95)<BR/>Sex: Male% / Female% 47/53<BR/>Asthma Diagnosis: according to ATS guidelines<BR/>Recruitment: Primary care setting<BR/>Diseases Included: N/S<BR/>Major exclusions: Significant co-morbid conditions that would impact on quality of life measures, current use of, or inability to use a peak flow meter, or inability to communicate in English.<BR/>Baseline:<BR/> FEV1:mean (SD): peak flow group 2.84 l/min (0.86); symptoms group 2.86 (0.86)<BR/> PEF: N/S<BR/> Exacerbations: number who had attended Emergency Department in past six months was 8 and 3 for the peak flow and symptoms groups respectively.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: Nurse run asthma clinic <BR/>Type: Two optimal self management interventions. One based on peak flow the other on symptoms.<BR/>1. Education, self monitoring of peak flow, regular review and a written action plan enabling self adjustment of medications in the event of worsening asthma on the basis of peak flow readings.<BR/>2. Education, self monitoring of symptoms, regular review and self adjustment of medications in the event of worsening asthma on the basis of symptoms.<BR/>Duration: 6 x 30 minute one to one interviews with a registered nurse. All patients reviewed by the nurse every month. Patients had to attend 5 or more visits to be included in the final analysis.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>PEF, FEV1, Quality of Life, Symptom Scores.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-13 12:56:17 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad Score: 5</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Abdulwadud-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Abdulwadud-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Baseline data only</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Aiolfi-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Allen-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bailey-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bailey-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Berg-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Blixen-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bolton-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Boulet-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Methodological problems</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Brewin-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management vs usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cox-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an education intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-de-Oliveira-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Erickson-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Sample size too small, not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gallefoss-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Garrett-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-George-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gergen-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ghosh-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Graft-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Grainger_x002d_Rousseau">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not randomised. Children included. Mean age unknown</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Grampian-1994b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not education intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hausen-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hayward-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Heard-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Heringa-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Inappropriate outcomes</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hilton-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hindi_x002d_Alexander-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hoskins-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Methodological problems</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Huss-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ignacio_x002d_Garcia-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Jackevicius-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Inhaler technique</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Janson_x002d_Bjerklie-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an education intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Jenkinson-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Jones-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Inappropriate outcomes</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kelso-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Knoell-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kotses-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kotses-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-LeBaron-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an education intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Legorreta-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Levy-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lirsac-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an education intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Maes-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an education intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Maiman-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mayo-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Moldofsky-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Moudgil-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Muhlhauser-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mulloy-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Neri-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Osman-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Perdomo_x002d_Ponce-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-RCT. Focus on allergic diseases and therapeutic compliance</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Petro-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not predominantly asthma</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Premaratne-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Nurse education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ringsberg-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rydman-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Inhaler technique</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schott_x002d_Baer-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shields-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Snyder-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sondergaard-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Thapar-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Information only education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tougaard-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not predominantly asthma</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Verver-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Inhaler technique</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-White-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not patient education</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Yoon-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Zeiger-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Self management versus usual care</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Im-1993">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES MODIFIED="2008-08-13 12:56:31 +0200" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<ONGOING_CHAR MODIFIED="2008-08-13 12:56:26 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Ford-1996">
+<CHAR_STUDY_NAME MODIFIED="2008-08-13 12:56:26 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>An empowerment-centered, church-based asthma education program for African American adults</P>
+</CHAR_STUDY_NAME>
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS>
+<P>African-American adults with asthma</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>General physiology of asthma, , identification of stressors, problem solving, medications, PEF monitoring</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>knowledge, ED visits, PEFV and inhaler technique, quality of life, perceived illness</P>
+</CHAR_OUTCOMES>
+<CHAR_STARTING_DATE>
+<P>1996</P>
+</CHAR_STARTING_DATE>
+<CHAR_CONTACT_INFORMATION/>
+<CHAR_NOTES/>
+</ONGOING_CHAR>
+<ONGOING_CHAR MODIFIED="2008-08-13 12:56:31 +0200" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Ploska-1999">
+<CHAR_STUDY_NAME>
+<P>An education based hospital nursing programme in the treatment of asthma</P>
+</CHAR_STUDY_NAME>
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS>
+<P>Moderate asthmatics<BR/>No. of participants: 80<BR/>Age group: 18-75<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES MODIFIED="2008-08-13 12:56:31 +0200" MODIFIED_BY="Toby J Lasserson">
+<P>Respiratory function tests, use of corticosteroid/bronchodilator treatments, quality of life</P>
+</CHAR_OUTCOMES>
+<CHAR_STARTING_DATE>
+<P>Unknown</P>
+</CHAR_STARTING_DATE>
+<CHAR_CONTACT_INFORMATION/>
+<CHAR_NOTES/>
+</ONGOING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-08-13 12:56:15 +0200" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-08-13 12:56:15 +0200" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:52:27 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Adams-2001">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:52:46 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Ayres-1996">
+<DESCRIPTION>
+<P>Sequentially numbered, sealed , opaque envelopes</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:53:16 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Baldwin-1997">
+<DESCRIPTION>
+<P>Investigators unaware as to order of treatment group assignment </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:53:33 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Charlton-1990">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:53:45 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Cote-1997">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:53:51 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Cote-2001">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:54:04 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Cowie-1997">
+<DESCRIPTION>
+<P>Sequentially administered identical opaque closed envelope technique</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:54:26 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Grampian-1994">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:54:33 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Jones-1995">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:54:44 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Kauppinen-1998">
+<DESCRIPTION>
+<P>Appointments made by nurse on duty according to study plan after randomisation.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:55:16 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Klein-2001">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:55:30 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Lahdensuo-1996">
+<DESCRIPTION>
+<P>Sealed number envelopes</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:55:58 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Lopez_x002d_Vina-2000">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:56:10 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Sommaragua-1995">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-13 12:56:15 +0200" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Turner-1998">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-08-13 12:56:53 +0200" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2008-08-13 12:37:58 +0200" MODIFIED_BY="Toby J Lasserson" NO="1">
+<TITLE>Intervention Characteristics</TITLE>
+<TABLE COLS="3" ROWS="9">
+<TR>
+<TH>
+<P/>
+</TH>
+<TH>
+<P>Optimal vs RR</P>
+</TH>
+<TH>
+<P>PEF vs Symp</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>n = 6</P>
+</TD>
+<TD>
+<P>n = 6</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>Intervention</P>
+</TD>
+<TD>
+<P>Intervention</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>1 2</P>
+</TD>
+<TD>
+<P>1 2</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Education</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Self Monitoring: PEF</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes No</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Self Monitoring: Symptoms</P>
+</TD>
+<TD>
+<P>No No</P>
+</TD>
+<TD>
+<P>No Yes</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Regular Review</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Written Action Plan</P>
+</TD>
+<TD>
+<P>Yes No</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2008-08-13 12:56:53 +0200" MODIFIED_BY="Toby J Lasserson" NO="2">
+<TITLE>Characteristics of Modified Interventions</TITLE>
+<TABLE COLS="4" ROWS="10">
+<TR>
+<TH>
+<P/>
+</TH>
+<TH>
+<P>Baldwin 1997</P>
+</TH>
+<TH>
+<P>Cote 2001</P>
+</TH>
+<TH>
+<P>Kauppinen 1998</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>Intervention</P>
+</TD>
+<TD>
+<P>Intervention</P>
+</TD>
+<TD>
+<P>Intervention</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>1 2</P>
+</TD>
+<TD>
+<P>1 2</P>
+</TD>
+<TD>
+<P>1 2</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Education</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes No</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Reduced Education</P>
+</TD>
+<TD>
+<P>No No</P>
+</TD>
+<TD>
+<P>No Yes</P>
+</TD>
+<TD>
+<P>No No</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Self Monitoring: PEF</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Self Monitoring: Symptoms</P>
+</TD>
+<TD>
+<P>No No</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>No No</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Regular Review</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes No</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Written Action Plan</P>
+</TD>
+<TD>
+<P>Yes No</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+<TD>
+<P>Yes Yes</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Verbal Action Plan</P>
+</TD>
+<TD>
+<P>No Yes</P>
+</TD>
+<TD>
+<P>No No</P>
+</TD>
+<TD>
+<P>No No</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Peak Flow Self Management vs Regular Doctor Review</NAME>
+<CONT_OUTCOME CHI2="10.558073079614548" CI_END="0.24577921119642976" CI_START="-0.05055572728032759" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.09761174195805108" ESTIMABLE="YES" I2="81.05714949196947" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="0.005097349986814215" P_Q="1.0" P_Z="0.19663044557543963" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="344" TOTAL_2="363" UNITS="" WEIGHT="100.0" Z="1.2912112199081984">
+<NAME>FEV1 (mean)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Dr Managed</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Dr Managed</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Peak Flow</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.9929078762030958" CI_START="0.27357571397733244" EFFECT_SIZE="0.6332417950902142" ESTIMABLE="YES" MEAN_1="2.3" MEAN_2="2.2" ORDER="100" SD_1="0.2" SD_2="0.1" SE="0.18350647458314637" STUDY_ID="STD-Ayres-1996" TOTAL_1="61" TOTAL_2="64" WEIGHT="16.97097369122568"/>
+<CONT_DATA CI_END="0.1448325433570635" CI_START="-0.2024069832644003" EFFECT_SIZE="-0.02878721995366839" ESTIMABLE="YES" MEAN_1="74.6" MEAN_2="75.4" ORDER="101" SD_1="27.8" SD_2="27.7" SE="0.08858313962920872" STUDY_ID="STD-Grampian-1994" TOTAL_1="250" TOTAL_2="260" WEIGHT="72.82951307917429"/>
+<CONT_DATA CI_END="0.5728685285548807" CI_START="-0.35501429605110313" EFFECT_SIZE="0.10892711625188879" ESTIMABLE="YES" MEAN_1="83.2" MEAN_2="81.2" ORDER="102" SD_1="18.0" SD_2="18.3" SE="0.23670915178161567" STUDY_ID="STD-Jones-1995" TOTAL_1="33" TOTAL_2="39" WEIGHT="10.199513229600027"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="9.094940914813051" CI_END="0.3075709177491589" CI_START="0.011093435250432077" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.15933217649979547" ESTIMABLE="YES" I2="78.00975268852407" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.010593985365680014" P_Q="1.0" P_Z="0.03514899237290518" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="344" TOTAL_2="363" UNITS="" WEIGHT="100.0" Z="2.1066377445330566">
+<NAME>Peak Expiratory Flow (mean)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Dr Managed</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Dr Managed</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Peak Flow</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.0230973648007624" CI_START="0.30208932902136926" EFFECT_SIZE="0.6625933469110659" ESTIMABLE="YES" MEAN_1="405.0" MEAN_2="393.0" ORDER="103" SD_1="18.0" SD_2="18.0" SE="0.18393400120272937" STUDY_ID="STD-Ayres-1996" TOTAL_1="61" TOTAL_2="64" WEIGHT="16.90842744953924"/>
+<CONT_DATA CI_END="0.22148893122715305" CI_START="-0.12578253738385983" EFFECT_SIZE="0.047853196921646614" ESTIMABLE="YES" MEAN_1="351.0" MEAN_2="345.0" ORDER="104" SD_1="120.0" SD_2="130.0" SE="0.08859128824566316" STUDY_ID="STD-Grampian-1994" TOTAL_1="250" TOTAL_2="260" WEIGHT="72.88618534608064"/>
+<CONT_DATA CI_END="0.5857283832801853" CI_START="-0.34233357422880023" EFFECT_SIZE="0.12169740452569251" ESTIMABLE="YES" MEAN_1="89.8" MEAN_2="87.7" ORDER="105" SD_1="17.5" SD_2="16.7" SE="0.23675484979046035" STUDY_ID="STD-Jones-1995" TOTAL_1="33" TOTAL_2="39" WEIGHT="10.205387204380127"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.5172621195775926" CI_END="0.1520387165808655" CI_START="-0.14302598922526719" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.0045063636777991755" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.03" NO="3" P_CHI2="0.7721078443810532" P_Q="1.0" P_Z="0.9522616107566131" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="344" TOTAL_2="363" UNITS="" WEIGHT="100.00000000000001" Z="0.05986693993505931">
+<NAME>FEV1 adjusted (mean)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Dr managed</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Dr Managed</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Peak Flow</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.4316074920741231" CI_START="-0.27010750308797005" EFFECT_SIZE="0.08074999449307649" ESTIMABLE="YES" MEAN_1="2.3" MEAN_2="2.2" ORDER="106" SD_1="1.56" SD_2="0.8" SE="0.17901221672875917" STUDY_ID="STD-Ayres-1996" TOTAL_1="61" TOTAL_2="64" WEIGHT="17.68125202173683"/>
+<CONT_DATA CI_END="0.1448325433570635" CI_START="-0.2024069832644003" EFFECT_SIZE="-0.02878721995366839" ESTIMABLE="YES" MEAN_1="74.6" MEAN_2="75.4" ORDER="107" SD_1="27.8" SD_2="27.7" SE="0.08858313962920872" STUDY_ID="STD-Grampian-1994" TOTAL_1="250" TOTAL_2="260" WEIGHT="72.20648728612885"/>
+<CONT_DATA CI_END="0.5728685285548807" CI_START="-0.35501429605110313" EFFECT_SIZE="0.10892711625188879" ESTIMABLE="YES" MEAN_1="83.2" MEAN_2="81.2" ORDER="108" SD_1="18.0" SD_2="18.3" SE="0.23670915178161567" STUDY_ID="STD-Jones-1995" TOTAL_1="33" TOTAL_2="39" WEIGHT="10.112260692134331"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.10386616594908615" CI_END="0.20921851084381632" CI_START="-0.08587323109197666" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.061672639875919824" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="0.9493923982471615" P_Q="1.0" P_Z="0.41264690071690624" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="344" TOTAL_2="363" UNITS="" WEIGHT="100.0" Z="0.8192445657433022">
+<NAME>Peak Expiratory Flow adjusted (mean)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Dr Managed</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Dr Managed</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Peak Flow</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.4346520303010231" CI_START="-0.2670855327144825" EFFECT_SIZE="0.0837832487932703" ESTIMABLE="YES" MEAN_1="405.0" MEAN_2="393.0" ORDER="109" SD_1="140.6" SD_2="144.0" SE="0.17901797394001162" STUDY_ID="STD-Ayres-1996" TOTAL_1="61" TOTAL_2="64" WEIGHT="17.683354911691"/>
+<CONT_DATA CI_END="0.22148893122715305" CI_START="-0.12578253738385983" EFFECT_SIZE="0.047853196921646614" ESTIMABLE="YES" MEAN_1="351.0" MEAN_2="345.0" ORDER="110" SD_1="120.0" SD_2="130.0" SE="0.08859128824566316" STUDY_ID="STD-Grampian-1994" TOTAL_1="250" TOTAL_2="260" WEIGHT="72.20643522338486"/>
+<CONT_DATA CI_END="0.5857283832801853" CI_START="-0.34233357422880023" EFFECT_SIZE="0.12169740452569251" ESTIMABLE="YES" MEAN_1="89.8" MEAN_2="87.7" ORDER="111" SD_1="17.5" SD_2="16.7" SE="0.23675484979046035" STUDY_ID="STD-Jones-1995" TOTAL_1="33" TOTAL_2="39" WEIGHT="10.110209864924148"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Peak Flow Self Management vs Symptoms Self Management</NAME>
+<DICH_OUTCOME CHI2="1.332722141959459" CI_END="3.11529484664983" CI_START="0.4421830180768937" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.1736824432064303" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="6" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="0.49349915668160493" LOG_CI_START="-0.3543979404029761" LOG_EFFECT_SIZE="0.06955060813931441" METHOD="MH" NO="1" P_CHI2="0.7213780799602941" P_Q="0.0" P_Z="0.7478007212034548" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="213" TOTAL_2="199" WEIGHT="100.0" Z="0.3215406386568073">
+<NAME>Hospitalisation (subjects)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptoms</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Peak Flow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Symptoms</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.7870838352956575" CI_START="0.2593106714559196" EFFECT_SIZE="1.1141552511415524" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="3" LOG_CI_END="0.6800710332658377" LOG_CI_START="-0.5861796102686156" LOG_EFFECT_SIZE="0.046945711498611056" ORDER="112" O_E="0.0" SE="0.743801896053913" STUDY_ID="STD-Adams-2001" TOTAL_1="73" TOTAL_2="61" VAR="0.5532412605733961" WEIGHT="45.06889343554017"/>
+<DICH_DATA CI_END="91.50083569359843" CI_START="0.2222748159273771" EFFECT_SIZE="4.509803921568627" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="1.9614250605742185" LOG_CI_START="-0.6531097407349055" LOG_EFFECT_SIZE="0.6541576599196565" ORDER="113" O_E="0.0" SE="1.5357906844449742" STUDY_ID="STD-Cote-1997" TOTAL_1="50" TOTAL_2="45" VAR="2.3586530264279624" WEIGHT="7.249466123863897"/>
+<DICH_DATA CI_END="6.648688139857462" CI_START="0.14393731647383476" EFFECT_SIZE="0.9782608695652174" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="2" LOG_CI_END="0.8227359626227094" LOG_CI_START="-0.8418265984351703" LOG_EFFECT_SIZE="-0.009545317906230389" ORDER="114" O_E="0.0" SE="0.9777722880829642" STUDY_ID="STD-Cowie-1997" TOTAL_1="46" TOTAL_2="45" VAR="0.9560386473429952" WEIGHT="27.879437918276842"/>
+<DICH_DATA CI_END="8.683868799605548" CI_START="0.01517090084189635" EFFECT_SIZE="0.362962962962963" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.9387132532856332" LOG_CI_START="-1.818988630218618" LOG_EFFECT_SIZE="-0.4401376884664924" ORDER="115" O_E="0.0" SE="1.6198877372148783" STUDY_ID="STD-Turner-1998" TOTAL_1="44" TOTAL_2="48" VAR="2.6240362811791385" WEIGHT="19.802202522319092"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.046952559568226235" CI_END="0.04502713162779458" CI_START="-0.13005865563744406" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.042515762004824736" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.8284536995643521" P_Q="1.0" P_Z="0.34116345971844064" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="123" TOTAL_2="106" UNITS="" WEIGHT="100.00000000000001" Z="0.951868950716105">
+<NAME>Hospitalisations (mean)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptoms</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Peak Flow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Symptoms</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.11310740306767184" CI_START="-0.17310740306767183" EFFECT_SIZE="-0.03" ESTIMABLE="YES" MEAN_1="0.07" MEAN_2="0.1" ORDER="116" SD_1="0.3" SD_2="0.5" SE="0.07301532283066667" STUDY_ID="STD-Adams-2001" TOTAL_1="73" TOTAL_2="61" WEIGHT="37.421189975876324"/>
+<CONT_DATA CI_END="0.060664225115313906" CI_START="-0.1606642251153139" EFFECT_SIZE="-0.049999999999999996" ESTIMABLE="YES" MEAN_1="0.04" MEAN_2="0.09" ORDER="117" SD_1="0.28" SD_2="0.27" SE="0.056462376853972415" STUDY_ID="STD-Cote-1997" TOTAL_1="50" TOTAL_2="45" WEIGHT="62.57881002412369"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="8.042301202571487" CI_END="1.347916658913235" CI_START="0.6080427632423021" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9053126365548727" ESTIMABLE="YES" EVENTS_1="38" EVENTS_2="39" I2="50.2629919068311" I2_Q="0.0" ID="CMP-002.03" LOG_CI_END="0.129663040794982" LOG_CI_START="-0.21606587601168575" LOG_EFFECT_SIZE="-0.04320141760835186" METHOD="MH" NO="3" P_CHI2="0.09004093582719674" P_Q="0.0" P_Z="0.6242581936017682" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="5" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="269" TOTAL_2="243" WEIGHT="99.99999999999999" Z="0.4898243593595244">
+<NAME>ER Visits (subjects)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptoms</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Peak Flow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Symptoms</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.7861454952787688" CI_START="0.19945321715046666" EFFECT_SIZE="0.5968688845401174" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="7" LOG_CI_END="0.25191683261696013" LOG_CI_START="-0.7001589541928139" LOG_EFFECT_SIZE="-0.22412106078792687" ORDER="118" O_E="0.0" SE="0.5592540300232138" STUDY_ID="STD-Adams-2001" TOTAL_1="73" TOTAL_2="61" VAR="0.3127650700972057" WEIGHT="18.69038719759915"/>
+<DICH_DATA CI_END="2.245409872632054" CI_START="0.6915883942666224" EFFECT_SIZE="1.2461538461538462" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="13" LOG_CI_END="0.35129562782264645" LOG_CI_START="-0.16015230335105815" LOG_EFFECT_SIZE="0.09557166223579418" ORDER="119" O_E="0.0" SE="0.3004270464795243" STUDY_ID="STD-Cote-1997" TOTAL_1="50" TOTAL_2="45" VAR="0.09025641025641025" WEIGHT="33.53450870142931"/>
+<DICH_DATA CI_END="0.8897431623378851" CI_START="0.13719195420187408" EFFECT_SIZE="0.34937888198757766" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="14" LOG_CI_END="-0.05073534085750912" LOG_CI_START="-0.86267135763939" LOG_EFFECT_SIZE="-0.4567033492484496" ORDER="120" O_E="0.0" SE="0.47693523540577987" STUDY_ID="STD-Cowie-1997" TOTAL_1="46" TOTAL_2="45" VAR="0.22746721877156664" WEIGHT="34.68539716573872"/>
+<DICH_DATA CI_END="104.2528324553801" CI_START="0.29294327535951836" EFFECT_SIZE="5.526315789473684" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" LOG_CI_END="2.0180878631952535" LOG_CI_START="-0.5332164669610353" LOG_EFFECT_SIZE="0.7424356981171091" ORDER="121" O_E="0.0" SE="1.498648792693919" STUDY_ID="STD-Lopez_x002d_Vina-2000" TOTAL_1="56" TOTAL_2="44" VAR="2.2459482038429406" WEIGHT="1.3694522218570115"/>
+<DICH_DATA CI_END="4.4626409359657275" CI_START="0.5226864578488213" EFFECT_SIZE="1.5272727272727273" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="5" LOG_CI_END="0.6495919449176049" LOG_CI_START="-0.2817587517823292" LOG_EFFECT_SIZE="0.18391659656763784" ORDER="122" O_E="0.0" SE="0.5470800095018432" STUDY_ID="STD-Turner-1998" TOTAL_1="44" TOTAL_2="48" VAR="0.29929653679653684" WEIGHT="11.720254713375796"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.018939628473375117" CI_END="0.09434588470238105" CI_START="-0.1697864232778452" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.037720269287732075" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.04" NO="4" P_CHI2="0.8905397098200297" P_Q="1.0" P_Z="0.5756172284093628" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="123" TOTAL_2="106" UNITS="" WEIGHT="100.0" Z="0.5597980031783302">
+<NAME>ER Visits (mean)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptoms</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Peak Flow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Symptoms</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.0959985048956818" CI_START="-0.1759985048956818" EFFECT_SIZE="-0.039999999999999994" ESTIMABLE="YES" MEAN_1="0.11" MEAN_2="0.15" ORDER="123" SD_1="0.4" SD_2="0.4" SE="0.06938826731941028" STUDY_ID="STD-Adams-2001" TOTAL_1="73" TOTAL_2="61" WEIGHT="94.30067321933019"/>
+<CONT_DATA CI_END="0.553196917154545" CI_START="-0.553196917154545" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="0.7" MEAN_2="0.7" ORDER="124" SD_1="1.41" SD_2="1.34" SE="0.2822485114614818" STUDY_ID="STD-Cote-1997" TOTAL_1="50" TOTAL_2="45" WEIGHT="5.69932678066981"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.4183986904723618" CI_END="1.104413239161205" CI_START="0.7798908736648839" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.928074245939675" ESTIMABLE="YES" EVENTS_1="55" EVENTS_2="66" I2="0.0" I2_Q="0.0" ID="CMP-002.05" LOG_CI_END="0.04313160410648122" LOG_CI_START="-0.10796616177201976" LOG_EFFECT_SIZE="-0.03241727883276928" METHOD="MH" NO="5" P_CHI2="0.5177371670147528" P_Q="0.0" P_Z="0.4003472869330652" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="76" TOTAL_2="85" WEIGHT="99.99999999999999" Z="0.8410011705945521">
+<NAME>Dr Visits (subjects)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptoms</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Peak Flow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.45229977345357" CI_START="0.6960677957523026" EFFECT_SIZE="1.0054347826086956" ESTIMABLE="YES" EVENTS_1="20" EVENTS_2="23" LOG_CI_END="0.1620562696143068" LOG_CI_START="-0.15734845882735216" LOG_EFFECT_SIZE="0.0023539053934772992" ORDER="125" O_E="0.0" SE="0.18761991856553556" STUDY_ID="STD-Charlton-1990" TOTAL_1="32" TOTAL_2="37" VAR="0.03520123384253819" WEIGHT="34.15313225058004"/>
+<DICH_DATA CI_END="1.061158564744261" CI_START="0.7430123212544165" EFFECT_SIZE="0.8879492600422833" ESTIMABLE="YES" EVENTS_1="35" EVENTS_2="43" LOG_CI_END="0.025780283663996605" LOG_CI_START="-0.12900398434381885" LOG_EFFECT_SIZE="-0.05161185033991113" ORDER="126" O_E="0.0" SE="0.09092104522227447" STUDY_ID="STD-Turner-1998" TOTAL_1="44" TOTAL_2="48" VAR="0.008266636464310879" WEIGHT="65.84686774941994"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="1.317621070073098" CI_END="4.356232951308423" CI_START="-0.44423740673898604" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="1.9559977722847182" ESTIMABLE="YES" I2="24.105645946863707" I2_Q="0.0" ID="CMP-002.06" NO="6" P_CHI2="0.25101957506834427" P_Q="1.0" P_Z="0.11021838845301439" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="123" TOTAL_2="106" UNITS="" WEIGHT="100.0" Z="1.5972123152856952">
+<NAME>Days off Work (mean)</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptoms</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Peak Flow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Symptoms</GRAPH_LABEL_2>
+<CONT_DATA CI_END="5.415685053233729" CI_START="-0.01568505323372893" EFFECT_SIZE="2.7" ESTIMABLE="YES" MEAN_1="5.0" MEAN_2="2.3" ORDER="127" SD_1="11.0" SD_2="4.0" SE="1.3855790589289936" STUDY_ID="STD-Adams-2001" TOTAL_1="73" TOTAL_2="61" WEIGHT="78.11758153778582"/>
+<CONT_DATA CI_END="4.431048706866736" CI_START="-5.831048706866735" EFFECT_SIZE="-0.6999999999999997" ESTIMABLE="YES" MEAN_1="2.2" MEAN_2="2.9" ORDER="128" SD_1="12.73" SD_2="12.75" SE="2.617930098379252" STUDY_ID="STD-Cote-1997" TOTAL_1="50" TOTAL_2="45" WEIGHT="21.88241846221418"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="2.4997035254057156" CI_END="2.8689748302641602" CI_START="0.8207309526875438" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.5344889851932104" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="13" I2="59.995255843882745" I2_Q="0.0" ID="CMP-002.07" LOG_CI_END="0.45772673816397136" LOG_CI_START="-0.08579918747609161" LOG_EFFECT_SIZE="0.18596377534393987" METHOD="MH" NO="7" P_CHI2="0.1138680127132895" P_Q="0.0" P_Z="0.17986291209624702" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="71" TOTAL_2="81" WEIGHT="100.0" Z="1.3411772462334741">
+<NAME>Oral Corticosteroid Courses</NAME>
+<GROUP_LABEL_1>Peak Flow</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptoms</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Peak Flow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Symptoms</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.879047941240977" CI_START="1.0559804806845536" EFFECT_SIZE="2.2698412698412698" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="7" LOG_CI_END="0.6883350854855231" LOG_CI_START="0.023655890537437066" LOG_EFFECT_SIZE="0.35599548801148007" ORDER="129" O_E="0.0" SE="0.39043584932758474" STUDY_ID="STD-Charlton-1990" TOTAL_1="27" TOTAL_2="33" VAR="0.15244015244015244" WEIGHT="52.329360780065"/>
+<DICH_DATA CI_END="2.407862616391479" CI_START="0.2196660292136518" EFFECT_SIZE="0.7272727272727273" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.3816317040786519" LOG_CI_START="-0.6582371004112149" LOG_EFFECT_SIZE="-0.13830269816628143" ORDER="130" O_E="0.0" SE="0.6108240831909467" STUDY_ID="STD-Turner-1998" TOTAL_1="44" TOTAL_2="48" VAR="0.3731060606060606" WEIGHT="47.67063921993499"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

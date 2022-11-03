@@ -1,0 +1,3575 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD000386.pub2" GROUP_ID="INFECTN" ID="362200010721240849" MERGED_FROM="" MODIFIED="2008-11-12 11:38:00 +0100" MODIFIED_BY="Reive Robb" REVIEW_NO="HMCI" REVMAN_SUB_VERSION="5.0.16" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="9.0">
+<COVER_SHEET MODIFIED="2008-11-10 15:28:11 +0000" MODIFIED_BY="[Empty name]">
+<TITLE>Chloroquine or amodiaquine combined with sulfadoxine-pyrimethamine for treating uncomplicated malaria</TITLE>
+<CONTACT>
+<PERSON ID="11751" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Heather</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>McIntosh</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>hmmci@tiscali.co.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Community Health Sciences General Practice</DEPARTMENT>
+<ORGANISATION>University of Edinburgh</ORGANISATION>
+<ADDRESS_1>20 West Richmond Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Edinburgh</CITY>
+<ZIP>EH8 9DX</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 131 650 9234</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2008-11-10 15:27:56 +0000" MODIFIED_BY="Harriet MacLehose">
+<PERSON ID="11751" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Heather</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>McIntosh</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>hmmci@tiscali.co.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Community Health Sciences General Practice</DEPARTMENT>
+<ORGANISATION>University of Edinburgh</ORGANISATION>
+<ADDRESS_1>20 West Richmond Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Edinburgh</CITY>
+<ZIP>EH8 9DX</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 131 650 9234</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="EA9AD87C82E26AA200334BFE6C8017E2" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Katharine</FIRST_NAME>
+<MIDDLE_INITIALS>L</MIDDLE_INITIALS>
+<LAST_NAME>Jones</LAST_NAME>
+<SUFFIX/>
+<POSITION>Clinical Research Fellow</POSITION>
+<EMAIL_1>kats@liv.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>International Health Group</DEPARTMENT>
+<ORGANISATION>Liverpool School of Tropical Medicine</ORGANISATION>
+<ADDRESS_1>Pembroke Place</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Liverpool</CITY>
+<ZIP>L3 5QA</ZIP>
+<REGION>Merseyside</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 151 7053392</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 151 7053364</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-08-15 10:38:07 +0100" MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="4" MONTH="8" YEAR="2005"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="20" MONTH="4" YEAR="2005"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="1997"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="1997"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2005"/>
+</DATES>
+<WHATS_NEW MODIFIED="2008-11-10 15:28:11 +0000" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2008-11-10 15:28:11 +0000" MODIFIED_BY="[Empty name]">
+<DATE DAY="14" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format with minor editing. Reference to another review on this topic (Myint 2005), which was in press when last version of this review published, has been removed as we were unable to trace this publication.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2008-08-14 16:32:35 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="14" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>As monotherapy is no longer recommended by the World Health Organization for malaria treatment (<LINK REF="REF-WHO-2006" TYPE="REFERENCE">WHO 2006</LINK>), the authors do not intend to update this review.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2008-08-15 10:44:43 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2008-08-15 10:38:33 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="31" MONTH="8" YEAR="2005"/>
+<DESCRIPTION>
+<P>The original version summarized the evidence from five trials conducted between 1980 and 1995 that compared chloroquine (CQ) or amodiaquine (AQ) in combination with sulfadoxine-pyrimethamine (SP) to CQ, AQ, or SP alone (<LINK REF="REF-McIntosh-1997" TYPE="REFERENCE">McIntosh 1997</LINK>). The author added two more trials (<LINK REF="REF-McIntosh-2001" TYPE="REFERENCE">McIntosh 2001</LINK>) in a subsequent review update. Several more trials have since been published giving the author reason to update the review again. However, it was necessary this time to change some aspects of the review to ensure its relevance to current malaria control efforts in the light of increasing drug resistance.<BR/>
+<BR/>CQ or AQ alone are no longer comparators in the review; the focus of the review question now is whether CQ or AQ plus SP combination therapy is better than SP alone.<BR/>
+<BR/>The World Health Organization standardized protocol for monitoring drug efficacy has been modified over time (<LINK REF="REF-WHO-1965" TYPE="REFERENCE">WHO 1965</LINK>; <LINK REF="REF-WHO-1967" TYPE="REFERENCE">WHO 1967</LINK>; <LINK REF="REF-WHO-1973" TYPE="REFERENCE">WHO 1973</LINK>; <LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK>; <LINK REF="REF-WHO-2002" TYPE="REFERENCE">WHO 2002</LINK>; <LINK REF="REF-RBM-2003" TYPE="REFERENCE">RBM 2003</LINK>) and this is reflected in the outcome measures reported in clinical trials. To summarize the findings from trials conducted at different times we chose the primary outcome measures of total failure and clinical failure (<LINK REF="REF-RBM-2003" TYPE="REFERENCE">RBM 2003</LINK>), which could be estimated from trials that used different classification systems for treatment response. Follow up to day 28 is preferred because of the longer elimination half life of SP and the risk of underestimating treatment failure at shorter assessment times (<LINK REF="REF-Stepniewska-2004" TYPE="REFERENCE">Stepniewska 2004</LINK>). Time to fever clearance and time to parasite clearance are no longer included as outcome measures. Reliable synthesis of these data is problematic without individual patient data with which to perform intention-to-treat time to event analysis.<BR/>
+<BR/>Quasi-randomized controlled trials are no longer eligible for inclusion in line with current Cochrane Infectious Diseases Group guidance.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-08-15 10:44:43 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="27" MONTH="8" YEAR="2001"/>
+<DESCRIPTION>
+<P>Two new trials added and title changed from 'Treating uncomplicated malaria with chloroquine or amodiaquine combined with sulfadoxine-pyrimethamine'.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Liverpool School of Tropical Medicine</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Department for International Development</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-11-10 15:34:37 +0000" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-07-22 10:17:51 +0100" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-07-22 10:17:51 +0100" MODIFIED_BY="[Empty name]">Chloroquine or amodiaquine combined with sulfadoxine-pyrimethamine for treating uncomplicated malaria</TITLE>
+<SUMMARY_BODY>
+<P>Using amodiaquine and sulfadoxine-pyrimethamine together to treat uncomplicated malaria instead of sulfadoxine-pyrimethamine alone may reduce treatment failure; adding chloroquine to sulfadoxine-pyrimethamine may not be beneficial</P>
+<P>Chloroquine, amodiaquine, and sulfadoxine-pyrimethamine are relatively inexpensive drugs to treat malaria. Treatment failure is a problem when these drugs are used alone because malaria parasites have become resistant to them. Based on evidence from randomized controlled trials, a combination of amodiaquine plus sulfadoxine-pyrimethamine may reduce treatment failure in some locations. It appears less likely that chloroquine plus sulfadoxine-pyrimethamine will have a treatment benefit over sulfadoxine-pyrimethamine alone. </P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-08-14 16:30:26 +0100" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND>
+<P>Chloroquine (CQ), amodiaquine (AQ), and sulfadoxine-pyrimethamine (SP) are inexpensive drugs, but treatment failure is a problem. Combination therapy may reduce treatment failure. CQ or AQ plus SP are affordable options of combination treatment, but there is debate about their effectiveness.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the combination of CQ or AQ plus SP compared with SP alone for first-line treatment of uncomplicated falciparum malaria.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Infectious Diseases Group Specialized Register (April 2005), CENTRAL (<I>The Cochrane Library </I>Issue 2, 2005), MEDLINE (1966 to April 2005), EMBASE (1974 to April 2005), LILACS (1982 to April 2005), Science Citation Index (1981 to April 2005), African Index Medicus (1993 to 1998), and reference lists. We also contacted researchers at relevant organizations and a pharmaceutical company.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomized controlled trials in adults or children with uncomplicated <I>Plasmodium falciparum</I> malaria were eligible for inclusion. The main outcomes of interest were total and clinical failure at day 28 follow up and serious adverse events.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2008-07-22 10:07:45 +0100" MODIFIED_BY="[Empty name]">
+<P>Two people independently applied the inclusion criteria. One author extracted data and another checked them independently. We used risk ratio (RR) and 95% confidence intervals (CI).</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Twelve trials (2107 participants) met the inclusion criteria. A meta-analysis of five AQ trials (461 participants) showed a statistically significant reduction in total failure at day 28 with the combination therapy (RR 0.64, 95% CI 0.46 to 0.91), and meta-analysis of three trials (384 participants) showed a significant reduction in clinical failure at day 28 (RR 0.23, 95% CI 0.11 to 0.49). The statistical significance in the total failure analysis was sensitive to losses to follow up. Data from two CQ trials showed no advantage for total failure with combination therapy at day 28. There was no evidence from the included trials of serious adverse events.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2008-08-14 16:30:26 +0100" MODIFIED_BY="[Empty name]">
+<P>The evidence base is not strong enough to support firm conclusions. The available evidence suggests that AQ plus SP can achieve less treatment failure than SP, but this might depend on existing levels of parasite resistance to the individual drugs.</P>
+<P>Addendum, 2008: The World Health Organization (in 2006) recommended that monotherapy should not be used for treating malaria. Therefore the authors do not intend to update this review.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-11-10 15:34:37 +0000" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<P>Chloroquine (CQ) is a cheap and well-tolerated 4-aminoquinoline drug. It is still widely used to treat uncomplicated malaria even in areas where <I>Plasmodium falciparum</I> malaria parasites show significant levels of resistance to it. Amodiaquine (AQ) is similar to CQ but is more potent. It is used less widely and resistance to it is less common, although there is some cross-resistance with CQ. The antifolate drug sulfadoxine-pyrimethamine (SP) is also inexpensive, effective against parasites resistant to CQ and AQ, and the single-dose standard treatment is rarely associated with severe adverse reactions (<LINK REF="REF-WHO-1990" TYPE="REFERENCE">WHO 1990</LINK>; <LINK REF="REF-Sturchler-1993" TYPE="REFERENCE">Sturchler 1993</LINK>). SP has customarily been used to replace failing CQ or AQ as first-line treatment of uncomplicated malaria because it is available and affordable. However, the selective pressure exerted when SP is used alone, and the relatively long time that SP remains in the body, is thought to have contributed to the emergence of malaria parasites resistant to SP (<LINK REF="REF-Watkins-1993" TYPE="REFERENCE">Watkins 1993</LINK>).</P>
+<P>Combination therapy has been advocated for some years for the treatment of uncomplicated malaria, to improve clinical effectiveness and slow down the emergence of drug resistance to individual drugs (<LINK REF="REF-White-1999" TYPE="REFERENCE">White 1999</LINK>). International health agencies recently declared that artemisinin combination therapy must urgently be made widely available, but many countries, particularly in Africa, cannot afford to purchase artemisinin drugs. Although malaria parasite resistance has reduced the effectiveness of the 4-aminoquinolines and SP, for some countries these drugs are currently the only affordable option for combination therapy.</P>
+<P>Some countries faced with increasing treatment failure rates have already implemented a change in first-line treatment policy from CQ or AQ alone to CQ or AQ plus SP, whilst others have opted to replace CQ or AQ alone with SP ( <LINK REF="REF-RBM-2001" TYPE="REFERENCE">RBM 2001</LINK>; <LINK REF="REF-Wongsrichanalai-2002" TYPE="REFERENCE">Wongsrichanalai 2002</LINK>; <LINK REF="REF-EANMAT-2003" TYPE="REFERENCE">EANMAT 2003</LINK>). The combination of CQ or AQ plus SP may still be able to slow down the progress of resistance in areas where resistance to either drug component has not yet reached a high level (<LINK REF="REF-Watkins-2005" TYPE="REFERENCE">Watkins 2005</LINK>). Also, since CQ and AQ have antipyretic and anti-inflammatory properties that SP does not have, combination therapy may relieve clinical symptoms faster than SP alone. However, opinion on the effectiveness of this strategy varies.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To assess the combination of CQ or AQ plus SP compared with SP alone for first-line treatment of uncomplicated falciparum malaria.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES>
+<P>Randomized controlled trials.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Adults and children with uncomplicated <I>P. falciparum</I> malaria, symptomatic or asymptomatic, with <I>P. falciparum</I> parasitaemia.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>CQ or AQ plus SP compared with SP alone.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Primary</HEADING>
+<UL>
+<LI>Total failure by day 28, defined as the presence of symptomatic or asymptomatic <I>P. falciparum</I> parasitaemia at any point during follow up to day 28 (<LINK REF="REF-RBM-2003" TYPE="REFERENCE">RBM 2003</LINK>).</LI>
+<LI>Clinical failure by day 28, defined as the presence of symptomatic <I>P. falciparum </I>parasitaemia at any point during follow up to day 28 (<LINK REF="REF-RBM-2003" TYPE="REFERENCE">RBM 2003</LINK>).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Secondary</HEADING>
+<UL>
+<LI>Total failure by day 14, defined as the presence of symptomatic or asymptomatic <I>P. falciparum</I> parasitaemia at any point during follow up to day 14 (<LINK REF="REF-RBM-2003" TYPE="REFERENCE">RBM 2003</LINK>).</LI>
+<LI>Clinical failure by day 14, defined as the presence of symptomatic <I>P. falciparum</I> parasitaemia at any point during follow up to day 14 (<LINK REF="REF-RBM-2003" TYPE="REFERENCE">RBM 2003</LINK>).</LI>
+<LI>Early treatment failure, as defined by the World Health Organization (<LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK>; <LINK REF="REF-RBM-2001" TYPE="REFERENCE">RBM 2001</LINK>; <LINK REF="REF-WHO-2002" TYPE="REFERENCE">WHO 2002</LINK>; <LINK REF="REF-RBM-2003" TYPE="REFERENCE">RBM 2003</LINK>).</LI>
+<LI>Adverse events during treatment or follow up were classified as fatal, life threatening, requiring hospitalization, or resulting in discontinuation of treatment.</LI>
+</UL>
+</SUBSECTION>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-11-10 15:34:35 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Databases</HEADING>
+<P>We searched the following databases using the search terms and strategy described in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>: Cochrane Infectious Diseases Group Specialized Register (April 2005); Cochrane Central Register of Controlled Trials (CENTRAL), published in <I>The Cochrane Library</I> (Issue 2, 2005); MEDLINE (1966 to April 2005); EMBASE (1974 to April 2005); LILACS (1982 to April 2005); and Science Citation Index (SCI) (1981 to April 2005).</P>
+<P>We searched the African Index Medicus from 1993 to 1998 using the search terms malaria, chloroquine, amodiaquine, sulfadoxine, sulphadoxine, pyrimethamine, and Fansidar. This database is currently unavailable for new searches.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Researchers, organizations, and pharmaceutical companies</HEADING>
+<P>We contacted researchers at the following organizations for unpublished and ongoing trials: Steering Committee on Drugs for Malaria (CHEMAL), World Health Organization; the London School of Hygiene and Tropical Medicine; the Wellcome Trust Research Unit, Nairobi; the World Health Organization in Viet Nam. We also contacted a pharmaceutical company, Hoffmann-La Roche (Switzerland), which manufactures Fansidar (sulfadoxine-pyrimethamine).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Reference lists</HEADING>
+<P>We checked the references listed of all eligible trials identified by the above methods.</P>
+</SUBSECTION>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<STUDY_SELECTION MODIFIED="2008-07-22 10:21:38 +0100" MODIFIED_BY="[Empty name]">
+<P>The first author (HM) screened all items identified by the search strategy and obtained the full reports of potentially relevant trials. The first author and a second person independently applied the inclusion criteria to the full reports. Any disagreement was resolved by discussion. Trial authors were contacted where clarification was needed.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-07-22 10:21:48 +0100" MODIFIED_BY="[Empty name]">
+<P>The first author extracted data using a standard form and the second author (KJ) checked the accuracy of the data extracted. Disagreements were resolved by discussion. Where possible, we extracted data on the number of participants enrolled, randomized to each treatment group, treated, evaluated, excluded, lost to follow up, and withdrawn. We extracted data on the outcome measures as the number of events for each measure of effect reported in each trial. Where necessary, we used the reported data to calculate a best estimate of total failure and clinical failure. Trial investigators were asked to provide missing information where possible.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-11-10 15:34:35 +0000" MODIFIED_BY="[Empty name]">
+<P>The first author assessed the risk of bias in the included trials, and a second person checked the assessment; discrepancies were resolved by discussion. The adequacy of the generation of the random allocation sequence and concealment of the allocation schedule was assessed according to <LINK REF="REF-J_x00fc_ni-2001" TYPE="REFERENCE">Jüni 2001</LINK>. Descriptive data were collected on whether participants, providers, and outcome assessors were blind to the treatment given. We considered the inclusion of all randomized participants to be adequate if at least 80% of the randomized participants completed follow up.</P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<P>We combined total failure, clinical failure, and early treatment failure data separately using meta-analysis in <LINK REF="REF-Review-Manager-4.2" TYPE="REFERENCE">Review Manager 4.2</LINK>. We stratified the trials by the aminoquinoline used (AQ or CQ).</P>
+<P>We presented the results for each outcome in each individual trial in forest plots as a risk ratio (RR) value with a 95% confidence interval (CI). We used a chi-squared test to assess statistical heterogeneity (P &lt; 0.1 was considered statistically significant) and <I>I</I>
+<SUP>2</SUP> was used to assess the proportion of total variation due to heterogeneity (<LINK REF="REF-Higgins-2003" TYPE="REFERENCE">Higgins 2003</LINK>). We used a fixed-effect model to obtain pooled estimates of effect from trials that were sufficiently homogeneous. We examined the robustness of combined effects using the random-effects model in sensitivity analyses.</P>
+<P>We conducted the main analyses using data reported for participants who were evaluable at follow up; see the '<LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>' for the proportion of missing data for each trial. We explored the potential impact of attrition on the meta-analysis by considering the amount of missing data and potential best-case and worst-case scenarios. The latter were based on the intention-to-treat principle using the number of randomized eligible patients as the denominator. If the only data available were per-protocol, we did not use them in the meta-analysis.</P>
+<P>The small number of trials included in the meta-analyses precluded meaningful use of funnel plots or sensitivity analyses based on trial characteristics.</P>
+<P>We used narrative methods to synthesize adverse event outcomes.</P>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-11-10 15:34:37 +0000" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<P>Twelve published trials met the inclusion criteria <I>'</I>
+<LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>') and we excluded 12 studies ('<LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>'). Overall, 2107 adults and children were included of whom 1739 completed follow up. One trial had an AQ plus SP and a CQ plus SP treatment group (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>), so the subtotals quoted in the monotherapy groups of the two comparisons below both include the SP control group (140 participants). None of the trials included pregnant women.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">AQ plus SP versus SP alone</HEADING>
+<P>Of the eight trials that made this comparison, one was conducted in China in 1985 (<LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>), two in Mozambique in 1986 (<LINK REF="STD-Schapira-1988" TYPE="STUDY">Schapira 1988</LINK>; <LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>), four in Uganda between 1999 and 2002 (<LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK>; <LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>; <LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>; <LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>), and one in Cameroon in 2001 (<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>). A total of 1312 participants were enrolled of whom 1109 completed follow up. We obtained data concerning treatment of first episodes of uncomplicated malaria from the <LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK> trial authors because they were not reported in the published paper.</P>
+<P>The recent use of antimalarials was an exclusion criterion in the three older trials, which excluded their use in the previous eight days (<LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>), 14 days (<LINK REF="STD-Schapira-1988" TYPE="STUDY">Schapira 1988</LINK>), and 28 days (<LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>). One of the more recent trials also excluded participants who had taken antimalarials within the previous 14 days (<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>). Baseline data for two trials suggest that self medication (<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>) or antimalarial use in the previous two weeks (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>) was similar between groups. The baseline data for <LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK> suggest that antimalarial use in the previous two weeks was slightly higher in the AQ plus SP group. The remaining included trial, <LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>, did not mention previous use of antimalarials.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">CQ plus SP versus SP alone</HEADING>
+<P>Five trials made this comparison, one conducted in Papua New Guinea in 1980 (<LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>), one in The Gambia in 1995 (<LINK REF="STD-Bojang-1998" TYPE="STUDY">Bojang 1998</LINK>), one in Laos in 2001 (<LINK REF="STD-Schw_x00f6_bel-2003" TYPE="STUDY">Schwöbel 2003</LINK>), and two in Uganda between 2001 and 2002 (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>; <LINK REF="STD-Ndyomugyenyi-2004" TYPE="STUDY">Ndyomugyenyi 2004</LINK>). A total of 942 participants were enrolled of which 770 completed follow up.</P>
+<P>One of the older trials listed the use of antimalarials in the previous seven days as an exclusion criterion (<LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>). Baseline data reported in two of the recent trials suggested that antimalarial and any drug use in the previous week (<LINK REF="STD-Schw_x00f6_bel-2003" TYPE="STUDY">Schwöbel 2003</LINK>) or antimalarial use in the previous two weeks (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>) was similar between groups. One trial specified self-medication during the trial in the exclusion criteria, but the baseline data showed that CQ use within the two weeks prior to the trial was twice as common in the CQ plus SP group as the SP group (<LINK REF="STD-Ndyomugyenyi-2004" TYPE="STUDY">Ndyomugyenyi 2004</LINK>). The remaining included trial did not mention previous the use of antimalarials (<LINK REF="STD-Bojang-1998" TYPE="STUDY">Bojang 1998</LINK>).</P>
+</SUBSECTION>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-11-10 15:34:35 +0000" MODIFIED_BY="[Empty name]">
+<P>See <LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK> for a summary of the assessment of the risk of bias in the trials. Further details are located in the '<LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>'. With few exceptions, the available information does not provide much reassurance of the quality of most of the published data.</P>
+<P>All 12 trials were described as randomized, but only five used adequate methods to generate the sequence. Two trials described adequate allocation concealment (<LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>; <LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>). Two trials reported double blinding (<LINK REF="STD-Bojang-1998" TYPE="STUDY">Bojang 1998</LINK>; <LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>). Only one trial described adequate sequence generation and concealment, together with blinding of the outcome assessors; however treatment outcome for the first episode of uncomplicated malaria was not the primary objective of the study (<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>).</P>
+<P>In seven trials at least 80% of randomized participants were evaluated for the primary outcome, although in one of these there was a moderate imbalance in attrition between the CQ plus SP and the SP alone groups (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>), and in another the number of participants originally assigned to each treatment group was unclear (<LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>). One trial provided no information to assess attrition (<LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>). Attrition over all the trials was about 18%; the proportion cannot be determined precisely because of incomplete and inconsistent reporting.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-11-10 15:34:37 +0000" MODIFIED_BY="[Empty name]">
+<P>Details on how we derived estimates of total failure and clinical failure from the data in each trial report are in <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> and <LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK>, respectively. We did not include one trial, <LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>, in the meta-analysis because the number of participants originally assigned to each treatment was unclear; this was the only trial that reported treatment switching of some participants, from CQ plus SP to SP alone, after randomization.</P>
+<P>The main meta-analyses use a fixed-effect model and data reported for participants who were evaluable at follow up. Too few trials reported adequate allocation concealment or blinding to explore possible associations between those measures of the risk of bias in the trials and the estimate of treatment effect. Some trials had substantial losses to follow up, the impact of which we explored using sensitivity analyses of best-case and worst-case scenarios. In best-case scenarios, we assumed that all participants lost to follow up had a successful outcome. This did not substantially change any of the meta-analysis results. Reinstating participants lost to follow up as failures (worst-case scenario) caused a shift in all point estimates away from favouring combination therapy. This moved the pooled point estimates closer to the line of no effect. This changed the meta-analysis findings for total and clinical failure at day 28 in the AQ trials analysis, and at day 14 in the CQ trials analysis. All the meta-analysis results are described below.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">AQ plus SP versus SP</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Total failure by day 28 (5 trials, 461 participants)</HEADING>
+<P>The largest trial (<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>), which contributed most data to the pooled effect size, showed no difference between combination therapy and SP alone. The pooled effect was statistically significantly in favour of combination therapy (RR 0.64, 95% CI 0.46 to 0.91). The test for statistical heterogeneity had borderline statistical significance, but with so few trials this test is not very meaningful. I<SUP>2</SUP>
+<I>,</I> which does not intrinsically depend on the number of trials, suggests that around half of the variability in the point estimates is due to chance rather than heterogeneity. A meta-analysis using the random-effects model rendered the pooled effect size not statistically significant. When we included the participants who were lost to follow up as failures (worst-case scenario) in the pooled analysis using the fixed-effect model, there was no longer a statistically significant difference between the combination therapy and SP alone. <I>See</I> <LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>
+<I>. </I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Clinical failure by day 28 (3 trials, 384 participants)</HEADING>
+<P>The pooled effect size was statistically significantly in favour of combination therapy (RR 0.23, 95% CI 0.11 to 0.49). The individual trial results look consistent in the forest plot, heterogeneity accounting for less than 30% of the variability, and the pooled result was robust to analysis using a random-effects model (RR 0.26, 95% CI 0.10 to 0.73). When we included participants lost to follow up as failures in the analysis using the fixed-effect model, the difference remained statistically significant but with a smaller margin (RR 0.73, 95% CI 0.55 to 0.97). <I>See </I>
+<LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>
+<I>.</I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Total failure by day 14 (5 trials, 971 participants)</HEADING>
+<P>There were no events in either treatment arm in one of the trials (<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>). In the other four trials the direction of effect was consistently in favour of combination therapy, but heterogeneity is evident in the size of effect between trials. Three of the trials were conducted at the same location in Uganda between 1999 and 2002 (<LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK>; <LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>; <LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>). The SP failure rate is similar in all four trials, but it is not obvious from the trial descriptions why the AQ plus SP failure rate at the Uganda location was much higher between July 2000 and August 2001 (<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>) and March 2001 and January 2002 (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>). This meta-analysis and the analysis of total failure at day 28 have only one trial in common (<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>). <I>See</I> <LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK>
+<I>.</I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Clinical failure by day 14 (5 trials, 961 participants)</HEADING>
+<P>The same trials in the analysis of total failure at day 14 provided data to estimate clinical failure at day 14. The pattern of effect is similar to total failure, in favour of combination therapy with statistically significant inconsistency in effect size between trials. <I>See</I> <LINK REF="CMP-001.04" TYPE="ANALYSIS">Analysis 1.4</LINK>
+<I>. </I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Early treatment failure (5 trials, 1003 participants)</HEADING>
+<P>The meta-analysis showed a statistically significant benefit in favour of combination therapy (RR 0.23, 95% CI 0.09 to 0.57). There was no apparent heterogeneity between the trial results. <I>See </I>
+<LINK REF="CMP-001.05" TYPE="ANALYSIS">Analysis 1.5</LINK>
+<I>.</I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Adverse events</HEADING>
+<P>This review focussed on adverse events that were fatal, life threatening, required hospitalization, or resulted in discontinuation of treatment. See <LINK REF="APP-05" TYPE="APPENDIX">Appendix 5</LINK> for a summary of pertinent information from the trials.</P>
+<P>Three of the eight trials gave some information about how and when adverse events were monitored, but only two described systematic methods of data collection and classification (<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>; <LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>). All but one trial provided baseline data (<LINK REF="APP-05" TYPE="APPENDIX">Appendix 5</LINK>); there was no obvious imbalance between comparator groups in relation to the adverse events reported. In general attrition was similar for the assessment of adverse events and other outcome measures.</P>
+<P>Two of the four trials that included adults specified pregnancy in the exclusion criteria (<LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>; <LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>). Exclusion criteria for other trials included allergy to sulfa drugs (<LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK>; <LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>), allergy to sulphonamides (<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>), allergy to treatment drugs (<LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>), sensitivity to trial drugs (<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>), and history of adverse reaction to trial drugs (<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>).</P>
+<P>There was one reported death, which occurred in the SP group, attributed to the progression of malaria (<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>). Abnormal liver enzymes were reported in one child treated with SP alone, but this was not accompanied by symptoms and resolved without medical intervention within two weeks (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>). No consequences were elucidated with regard to reported breathing problems in <LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK> (AQ plus SP 10/104; SP 17/99) or sinus bradycardia in <LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK> (AQ plus SP 8/48; SP 0/21).</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">CQ plus SP versus SP</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Total failure by day 28 (2 trials, 376 participants)</HEADING>
+<P>
+<LINK REF="STD-Bojang-1998" TYPE="STUDY">Bojang 1998</LINK> found no statistically significant difference between combination therapy and SP alone (RR 0.50, 95% CI 0.21 to 1.18; 291 participants). A sensitivity analysis on the number of participants lost to follow up did not change the finding.</P>
+<P>The second trial, <LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>, concluded that CQ plus SP had no advantage over SP alone in terms of treatment failure based on parasitaemia. The trials were not pooled because <LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK> reported only per-protocol data.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Clinical failure by day 28</HEADING>
+<P>No data available.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Total failure by day 14 (3 trials, 400 participants)</HEADING>
+<P>The pooled risk ratio was 0.59 (95% CI 0.40 to 0.88) in favour of combination therapy, with the individual trial results appearing consistent. The pooled estimate was robust to an analysis using the random-effects model (RR 0.60, 95% CI 0.40 to 0.89), but the statistically significant difference was lost when we included the participants that were lost to follow up as failures. <I>See </I>
+<LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK>
+<I>. </I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Clinical failure by day 14 (3 trials, 400 participants)</HEADING>
+<P>The pooled estimate largely reflects the results of the largest trial (<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>), a borderline statistically significant difference in favour of combination therapy (RR 0.51, 95% CI 0.26 to 0.99). This difference was no longer statistically significant when we included participants that were lost to follow up as failures. <I>See </I>
+<LINK REF="CMP-001.04" TYPE="ANALYSIS">Analysis 1.4</LINK>
+<I>.</I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Early treatment failure (3 trials, 400 participants)</HEADING>
+<P>The pooled analysis showed no statistically significant difference between combination therapy and SP alone. One trial, <LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>, contributed most of the data. A sensitivity analysis on the number of participants lost to follow up did not change the finding. <I>See </I>
+<LINK REF="CMP-001.05" TYPE="ANALYSIS">Analysis 1.5</LINK>
+<I>. </I>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Adverse events</HEADING>
+<P>This review focussed on adverse events that were fatal, life threatening, required hospitalization, or resulted in discontinuation of treatment. See <LINK REF="APP-05" TYPE="APPENDIX">Appendix 5</LINK> for a summary of pertinent information from the trials.</P>
+<P>Two of the four trials gave some information about how and when adverse events were monitored (<LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>; <LINK REF="STD-Ndyomugyenyi-2004" TYPE="STUDY">Ndyomugyenyi 2004</LINK>), but none described systematic methods of data collection and classification. All trials provided baseline data; there was no obvious imbalance between comparator groups in relation to the adverse events reported. In general, attrition was similar for the assessment of adverse events and beneficial effects.</P>
+<P>One of two trials that included adults specified pregnancy in the exclusion criteria (<LINK REF="STD-Schw_x00f6_bel-2003" TYPE="STUDY">Schwöbel 2003</LINK>).</P>
+<P>Two participants in <LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK> were found to have glucose-6-phosphate dehydrogenase deficiency, an inherited condition in which affected individuals develop haemolysis with specific recognized drugs such as sulfadoxine, but there was no evidence of haemolysis in either participant. Technically, vomiting led to the withdrawal of CQ plus SP therapy when seven out of eight children who vomited in <LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK> were switched to the SP group after that drug alone was re-administered, but the reason for this was not explained. None of the other trials reported withdrawal of treatment because of adverse events, but exclusion of participants for non-compliance with treatment or post-enrolment or post-treatment withdrawal of consent was not fully reported.</P>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<P>This review includes outcome data for 1739 participants from 12 randomized controlled trials conducted in disparate malaria endemic areas. The trials span the last two decades, although each was conducted at a time when there was known to be some degree of malaria parasite resistance to CQ or AQ, or both, and in some cases to SP. The most recent data are largely from trials conducted in Africa, particularly Uganda. The findings suggest a beneficial effect of AQ plus SP combination therapy at day 28 compared with SP alone, possibly due to a better clinical cure rate. The evidence available from randomized controlled trials suggests that CQ plus SP combination therapy may not have a treatment benefit over SP alone.</P>
+<P>Synthesizing the data from these trials is problematic for several reasons in addition to the dissimilarities of location and time. A major obstacle to synthesizing data from different trials is the change over time in the standard protocol for the assessment of antimalarial drug efficacy and consequently the outcomes measured in clinical trials. Our approach was to use the data that were reported to calculate a common measure of treatment effect that could be pooled across trials, and users could readily comprehend. This was not straightforward and in some cases we had to settle for best estimates, which might have caused some of the inconsistency between trial results in our analyses.</P>
+<P>Most of the trials are small and few trials could be pooled for the primary outcomes because almost half of them stopped follow up at day 14, which limits the possibility of increasing statistical power through meta-analysis. Stopping follow up at day 14 in the assessment of drug efficacy against <I>P. falciparum</I> malaria is likely to underestimate the treatment failure rate (<LINK REF="REF-Stepniewska-2004" TYPE="REFERENCE">Stepniewska 2004</LINK>).</P>
+<P>Variation in the risk of bias in the trials poses an important threat to the reliability of the findings from meta-analyses because of bias. The methodological quality of most randomized controlled trials in this area is open to question because insufficient information is reported to assess it. Despite longstanding empirical evidence of an association between inadequate allocation concealment and overestimation of treatment effects (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>; <LINK REF="REF-Kunz-2002" TYPE="REFERENCE">Kunz 2002</LINK>), this aspect of the design of randomized controlled trials is hardly ever clearly reported. Several potentially eligible trials reported as randomized turned out not to be when further information was obtained, so this could also be true of trials included in this review for which further information is not available.</P>
+<P>In some of our analyses, notably total failure at day 28 in the comparison of AQ plus SP with SP alone, the number of participants lost to follow up has the potential to change observed differences in treatment effect from statistically significant to non-significant. This introduces uncertainty in the findings from individual trials and consequently from meta-analyses that include those trials.</P>
+<P>The trials included in this review do not show evidence of serious adverse events with AQ plus SP or CQ plus SP drug combinations as used in the treatment of uncomplicated malaria (bearing in mind that half of the trials reported excluding participants at higher risk of sensitivity reactions to trial drugs). In this area, as is true of reports of randomized controlled trials generally, adverse event reporting is inadequate (<LINK REF="REF-Ioannidis-2001" TYPE="REFERENCE">Ioannidis 2001</LINK>; <LINK REF="REF-Loke-2001" TYPE="REFERENCE">Loke 2001</LINK>). The trials in this review did not include pregnant women and so do not provide evidence about the safety of these drugs in pregnancy.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-11-10 15:34:35 +0000" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2008-07-22 10:33:32 +0100" MODIFIED_BY="[Empty name]">
+<P>The evidence base does not support firm conclusions about AQ plus SP or CQ plus SP combination therapy compared with SP alone. The main reasons are the small number of randomized controlled trials that followed participants for 28 days and uncertainty in relation to the risk of bias in the trials.</P>
+<P>The available evidence suggests that AQ plus SP can achieve less treatment failure than SP, a benefit that might depend on the local existing level of parasite resistance to the individual drugs. The available randomized comparisons show no evidence of a significant reduction in treatment failure with CQ plus SP compared with SP alone.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2008-11-10 15:34:35 +0000" MODIFIED_BY="[Empty name]">
+<P>Artemisinin combination therapy is currently recommended by the World Health Organization, but supply is not assured. Chloroquine resistance has reached such high levels in most settings that it is currently not a treatment option. If AQ plus SP is considered to be an option by policy makers, trials will help inform their decisions, although there is likely to be debate as to whether such trials should compare AQ plus SP with artemisinin combination therapies rather than with SP alone.</P>
+<P>Furthermore, there needs to be more consistency and clarity in the reporting of outcome measures of effectiveness in trials of treatment for uncomplicated malaria. This is important to enable synthesis of the many disparate trials that malaria research generates. The effectiveness outcomes reported must be meaningful to users who need to make decisions about changing clinical practice or policy. Clinical trial design should always include systematic monitoring of adverse effects.</P>
+<P>To help decision makers assess the evidence, trial reports should adhere to the CONSORT statement (<LINK REF="REF-Altman-2001" TYPE="REFERENCE">Altman 2001</LINK>; <LINK REF="REF-Ioannidis-2004" TYPE="REFERENCE">Ioannidis 2004</LINK>).</P>
+<P>Addendum, 2008: As monotherapy is no longer recommended by the World Health Organization for malaria treatment (<LINK REF="REF-WHO-2006" TYPE="REFERENCE">WHO 2006</LINK>), the authors do not intend to update this review.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank Prof B Greenwood, Dr P Olliaro, Dr A Schapira, Dr W Watkins, and Dr K Marsh for advice and comments on the original undertaking of this review. Thanks especially to Dr Bojang and colleagues for a pre-publication preview of their trial. Thanks also to M-L Mittelholzer for searching the archives of Hoffmann-La Roche for relevant trials and supplying a list of generic drugs. We are indebted to researchers who responded to our requests for trial information during the updating of this review; our thanks go to Ishag Adam, Jaime Carmona-Fonseca, Grant Dorsey, Michael Engl, Tomas Jelinek, and Babett Schwöbel. Special thanks to Grant Dorsey and Babett Schwöbel for additional data. </P>
+<P>This document is an output from a project funded by the UK Department for International Development (DFID) for the benefit of developing countries. The views expressed are not necessarily those of DFID.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Heather McIntosh is the guarantor for this review. Katharine Jones became a co-author on the 2005 update, contributing independent decisions on study selection and data extraction.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES MODIFIED="2008-11-10 15:34:36 +0000" MODIFIED_BY="[Empty name]">
+<P>Original version (<LINK REF="REF-McIntosh-1997" TYPE="REFERENCE">McIntosh 1997</LINK>): Heather McIntosh (HM) developed the protocol with support from Paul Garner (PG, Co-ordinating Editor) and advisors with topic expertise. HM conducted the original review as lead author with support from PG.</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-11-10 15:13:38 +0000" MODIFIED_BY="[Empty name]">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Basco-2002" NAME="Basco 2002" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Basco LK, Same-Ekobo A, Ngane VF, Ndounga M, Metoh T, Ringwald P, et al</AU>
+<TI>Therapeutic efficacy of sulfadoxine-pyrimethamine, amodiaquine and the sulfadoxine-pyrimethamine-amodiaquine combination against uncomplicated Plasmodium falciparum malaria in young children in Cameroon</TI>
+<SO>Bulletin of the World Health Organization</SO>
+<YR>2002</YR>
+<VL>80</VL>
+<NO>7</NO>
+<PG>538-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bojang-1998" NAME="Bojang 1998" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bojang KA, Schneider G, Frock S, Obaro SK, Jaffar S, Pinder M, et al</AU>
+<TI>A trial of Fansidar plus chloroquine or Fansidar alone for the treatment of uncomplicated malaria in Gambian children</TI>
+<SO>Transactions of the Royal Society of Tropical Medicine and Hygiene</SO>
+<YR>1998</YR>
+<VL>92</VL>
+<NO>1</NO>
+<PG>73-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Darlow-1982" NAME="Darlow 1982" YEAR="1980">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Darlow B, Vrbova H, Gibney S, Jolley D, Stace J, Alpers M</AU>
+<TI>Sulfadoxine-pyrimethamine for the treatment of acute malaria in children in Papua New Guinea. I. Plasmodium falciparum</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>1982</YR>
+<VL>31</VL>
+<NO>1</NO>
+<PG>1-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dinis-1990" NAME="Dinis 1990" YEAR="86-7">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dinis DV, Schapira A</AU>
+<TI>Comparative study of sulfadoxine-pyrimethamine and amodiaquine + sulfadoxine-pyrimethamine for the treatment of malaria caused by chloroquine-resistant Plasmodium falciparum in Maputo, Mozambique</TI>
+<TO>Etude comparative de la sulfadoxine[pyrimethamine et de l'amodiaquine et sulfadoxine-pyrimethamine dans la traitement du paludisme a plasmodium falciparum chloroquino-resistant a Maputo, Mozambique</TO>
+<SO>Bulletin de la Societe de Pathologie Exotique</SO>
+<YR>1990</YR>
+<VL>83</VL>
+<NO>4</NO>
+<PG>521-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Dorsey-2002" NAME="Dorsey 2002" YEAR="00-01">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Dorsey G, Njama D, Kamya MR, Cattamanchi A, Kyabayinze D, Staedke SG, et al</AU>
+<TI>Sulfadoxine/pyrimethamine alone or with amodiaquine or artesunate for treatment of uncomplicated malaria: a longitudinal randomised trial</TI>
+<SO>Lancet</SO>
+<YR>2002</YR>
+<VL>360</VL>
+<NO>9350</NO>
+<PG>2031-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dorsey G, Vlahos J, Kamya MR, Staedke SG, Rosenthal PJ</AU>
+<TI>Prevention of increasing rates of treatment failure by combining sulfadoxine-pyrimethamine with artesunate or amodiaquine for the sequential treatment of malaria</TI>
+<SO>Journal of Infectious Diseases</SO>
+<YR>2003</YR>
+<VL>188</VL>
+<NO>8</NO>
+<PG>1231-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gasasira-2003" NAME="Gasasira 2003" YEAR="01-02">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gasasira AF, Dorsey G, Nzarubara B, Staedke SG, Nassali A, Rosenthal PJ, et al</AU>
+<TI>Comparative efficacy of aminoquinoline-antifolate combinations for the treatment of uncomplicated falciparum malaria in Kampala, Uganda</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2003</YR>
+<VL>68</VL>
+<NO>2</NO>
+<PG>127-32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Huang-1988" NAME="Huang 1988" YEAR="85-6">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Huang Q, Weichuan O, Jiexian Z, Zhu W, Zhang K, Huang J et al</AU>
+<TI>Effectiveness of amodiaquine, sulfadoxine-pyrimethamine, and combinations of these drugs for treating chloroquine-resistant falciparum malaria in Hainan Island, China</TI>
+<SO>Bulletin of the World Health Organization</SO>
+<YR>1988</YR>
+<VL>66</VL>
+<NO>3</NO>
+<PG>353-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Huang QL, Quyang WC, Zhou JX, Wu Z, Huang JK, Pan XJ, et al</AU>
+<TI>Efficacy of amodiaquine, Fansidar and their combination in the treatment of chloroquine-resistant falciparum malaria</TI>
+<SO>Zhongguo Ji Sheng Chong Xue Yu Ji Sheng Chong Bing Za Zhi [Chinese Journal of Parasitology and Parasitic Diseases]</SO>
+<YR>1988</YR>
+<VL>6</VL>
+<NO>4</NO>
+<PG>292-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ndyomugyenyi-2004" NAME="Ndyomugyenyi 2004" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ndyomugyenyi R, Magnussen P, Clarke S</AU>
+<TI>The efficacy of chloroquine, sulfadoxine-pyrimethamine and a combination of both for the treatment of uncomplicated Plasmodium falciparum malaria in an area of low transmission in western Uganda</TI>
+<SO>Tropical Medicine and International Health</SO>
+<YR>2004</YR>
+<VL>9</VL>
+<NO>1</NO>
+<PG>47-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schapira-1988" NAME="Schapira 1988" YEAR="1986">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schapira A, Schwalbach JF</AU>
+<TI>Evaluation of four therapeutic regimens for falciparum malaria in Mozambique, 1986</TI>
+<SO>Bulletin of the World Health Organization</SO>
+<YR>1988</YR>
+<VL>66</VL>
+<NO>2</NO>
+<PG>219-26</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schellenberg-2002" NAME="Schellenberg 2002" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schellenberg D, Kahigwa E, Drakeley C, Malende A, Wigayi J, Msokame C, et al</AU>
+<TI>The safety and efficacy of sulfadoxine-pyrimethamine, amodiaquine, and their combination in the treatment of uncomplicated Plasmodium falciparum malaria</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2002</YR>
+<VL>67</VL>
+<NO>1</NO>
+<PG>17-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schw_x00f6_bel-2003" NAME="Schwöbel 2003" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schwöbel B, Jordan S, Vanisaveth V, Phetsouvanh R, Christophel E, Phompida S, et al</AU>
+<TI>Therapeutic efficacy of chloroquine plus sulphadoxine/pyrimethamine compared with monotherapy with either chloroquine or sulphadoxine/pyrimethamine in uncomplicated Plasmodium falciparum malaria in Laos</TI>
+<SO>Tropical Medicine and International Health</SO>
+<YR>2003</YR>
+<VL>8</VL>
+<NO>1</NO>
+<PG>19-24</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Staedke-2001" NAME="Staedke 2001" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Staedke SG, Kamya MR, Dorsey G, Gasasira A, Ndeezi G, Charlebois ED, et al</AU>
+<TI>Amodiaquine, sulfadoxine/pyrimethamine, and combination therapy for treatment of uncomplicated falciparum malaria in Kampala, Uganda: a randomised trial</TI>
+<SO>Lancet</SO>
+<YR>2001</YR>
+<VL>358</VL>
+<NO>9279</NO>
+<PG>368-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bakyaita-2005" NAME="Bakyaita 2005" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bakyaita N, Dorsey G, Yeka A, Banek K, Staedke SG, Kamya MR, et al</AU>
+<TI>Sulfadoxine-pyrimethamine plus chloroquine or amodiaquine for uncomplicated falciparum malaria: a randomized, multisite trial to guide national policy in Uganda</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2005</YR>
+<VL>72</VL>
+<NO>5</NO>
+<PG>573-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Blair-2003" NAME="Blair 2003" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Blair S, López ML, Pineros JG, Álvarez T, Tobón A, Carmona J</AU>
+<TI>Therapeutic efficacy of three treatment schemes in uncomplicated Plasmodium falciparum malaria, Antioquia, Colombia, 2002</TI>
+<TO>Eficacia terapéutica des tres esquemas de tratamiento de malaria no complicada por Plasmodium falciparum, Antioquia, Colombia, 2002</TO>
+<SO>Biomédica</SO>
+<YR>2003</YR>
+<VL>23</VL>
+<NO>3</NO>
+<PG>318-27</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Checchi-2004" NAME="Checchi 2004" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Checchi F, Piola P, Kosack C, Ardizzoni E, Klarkowski D, Kwezi E, et al</AU>
+<TI>Antimalarial efficacy of sulfadoxine-pyrimethamine, amodiaquine and a combination of chloroquine plus sulfadoxine-pyrimethamine in Bundi Bugyo, western Uganda</TI>
+<SO>Tropical Medicine and International Health</SO>
+<YR>2004</YR>
+<VL>9</VL>
+<NO>4</NO>
+<PG>445-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hugosson-2003" NAME="Hugosson 2003" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hugosson E, Tarimo D, Troye-Blomberg M, Montgomery SM, Premji Z, Bjorkman A</AU>
+<TI>Antipyretic, parasitologic, and immunologic effects of combining sulfadoxine/pyrimethamine with chloroquine or paracetamol for treating uncomplicated Plasmodium falciparum malaria</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2003</YR>
+<VL>69</VL>
+<NO>4</NO>
+<PG>366-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Menard-2005" NAME="Menard 2005" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Menard D, Madji N, Manirakiza A, Djalle D, Koula MR, Talarmin A</AU>
+<TI>Efficacy of chloroquine, amodiaquine, sulfadoxine-pyrimethamine, chloroquine-sulfadoxine-pyrimethamine combination, and amodiaquine-sulfadoxine-pyrimethamine combination in Central African children with noncomplicated malaria</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2005</YR>
+<VL>72</VL>
+<NO>5</NO>
+<PG>581-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ogwang-2003" NAME="Ogwang 2003" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ogwang S, Engl M, Vigl M, Kollaritsch H, Wiedermann G, Wernsdorfer WH</AU>
+<TI>Clinical and parasitological response of Plasmodium falciparum to chloroquine and sulfadoxine/pyrimethamine in rural Uganda</TI>
+<TO>Klinische und parasitologische Wirksamkeit von chloroquin und sulfadoxin/pyrimethamin bei Falciparum-malaria im landlichen Uganda</TO>
+<SO>Wiener Klinische Wochenschrift</SO>
+<YR>2003</YR>
+<VL>115 Suppl 3</VL>
+<PG>45-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pitmang-2005" NAME="Pitmang 2005" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Pitmang SL, Thacher TD, Madaki JK, Egah DZ, Fischer PR</AU>
+<TI>Comparison of sulfadoxine-pyrimethamine with and without chloroquine for uncomplicated malaria in Nigeria</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2005</YR>
+<VL>72</VL>
+<NO>3</NO>
+<PG>263-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Salah-2005" NAME="Salah 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Salah MT, Mohammed MM, Himeidan YE, Malik EM, Elbashir MI, Adam I</AU>
+<TI>A randomized comparison of sulphadoxine-pyrimethamine and combination of sulphadoxine pyrimethamine with chloroquine in the treatment of uncomplicated falciparum malaria in Eastern Sudan</TI>
+<SO>Saudi Medical Journal</SO>
+<YR>2005</YR>
+<VL>26</VL>
+<NO>1</NO>
+<PG>147-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sowunmi-2002" NAME="Sowunmi 2002" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sowunmi A, Fateye BA</AU>
+<TI>Plasmodium falciparum gametocytaemia in Nigerian children: before, during and after treatment with antimalarial drugs</TI>
+<SO>Tropical Medicine and International Health</SO>
+<YR>2003</YR>
+<VL>8</VL>
+<NO>9</NO>
+<PG>783-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Sowunmi A</AU>
+<TI>A randomized comparison of chloroquine, amodiaquine and their combination with pyrimethamine-sulfadoxine in the treatment of acute, uncomplicated, Plasmodium falciparum malaria in children</TI>
+<SO>Annals of Tropical Medicine and Parasitology</SO>
+<YR>2002</YR>
+<VL>96</VL>
+<NO>3</NO>
+<PG>227-38</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Talisuna-2004" NAME="Talisuna 2004" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Talisuna AO, Nalunkuma-Kazibwe A, Bakyaita N, Langi P, Mutabingwa TK, Watkins WW, et al</AU>
+<TI>Efficacy of sulphadoxine-pyrimethamine alone or combined with smodiaquine or chloroquine for the treatment of uncomplicated falciparum malaria in Ugandan children</TI>
+<SO>Tropical Medicine and International Health</SO>
+<YR>2004</YR>
+<VL>9</VL>
+<NO>2</NO>
+<PG>222-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tarimo-2002" NAME="Tarimo 2002" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tarimo DS, Minjas JN, Bygbjerg IC</AU>
+<TI>Sulphadoxine-pyrimethamine monotherapy in Tanzanian children gives rapid parasite clearance but slow fever clearance that is improved by chloroquine in combination therapy</TI>
+<SO>Tropical Medicine and International Health</SO>
+<YR>2002</YR>
+<VL>7</VL>
+<NO>7</NO>
+<PG>592-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tjitra-1999" NAME="Tjitra 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tjitra E, Suprianto S, Anstey NM</AU>
+<TI>Higher gametocyte prevalence following failure of treatment of Plasmodium falciparum malaria with sulfadoxine-pyrimethamine and the combination of chloroquine plus sulfadoxine-pyrimethamine: implications for progression of anti-folate resistance</TI>
+<SO>Transactions of the Royal Society of Tropical Medicine and Hygiene</SO>
+<YR>2002</YR>
+<VL>96</VL>
+<NO>4</NO>
+<PG>434-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Tjitra E, Suprianto S, Dyer M, Currie BJ, Anstey NM</AU>
+<TI>Evaluation of the therapeutic efficacy of chloroquine and sulfadoxine-pyrimethamine in uncomplicated falciparum malaria in eastern Indonesia: High rates of chloroquine treatment failure with poor hematological recovery</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>1999</YR>
+<VL>61 Suppl 3</VL>
+<PG>286-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-11-10 15:13:38 +0000" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2008-11-10 15:13:38 +0000" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Altman-2001" NAME="Altman 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Altman DG, Schulz KF, Moher D, Egger M, Davidoff F, Elbourne D, et al; CONSORT GROUP (Consolidated Standards of Reporting Trials)</AU>
+<TI>The revised CONSORT statement for reporting randomized trials: explanation and elaboration</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2001</YR>
+<VL>134</VL>
+<NO>8</NO>
+<PG>663-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-EANMAT-2003" NAME="EANMAT 2003" TYPE="JOURNAL_ARTICLE">
+<AU>East African Network for Monitoring Antimalarial Treatment (EANMAT)</AU>
+<TI>The efficacy of antimalarial monotherapies, sulphadoxine-pyrimethamine and amodiaquine in East Africa: implications for sub-regional policy</TI>
+<SO>Tropical Medicine and International Health</SO>
+<YR>2003</YR>
+<VL>8</VL>
+<NO>10</NO>
+<PG>860-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2003" NAME="Higgins 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins JP, Thompson SG, Deeks JJ, Altman DG</AU>
+<TI>Measuring inconsistency in meta-analyses</TI>
+<SO>BMJ</SO>
+<YR>2003</YR>
+<VL>327</VL>
+<NO>7414</NO>
+<PG>557-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2005" NAME="Higgins 2005" TYPE="OTHER">
+<AU>Higgins J, Green S, editors</AU>
+<TI>Highly sensitive search strategies for identifying reports of randomized controlled trials in MEDLINE. Cochrane Handbook for Systematic Reviews of Interventions [updated March 2005]; Appendix 5b</TI>
+<SO>http://www.cochrane.org/resources/handbook/hbook.htm</SO>
+<YR>(accessed 18 April 2005)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ioannidis-2001" NAME="Ioannidis 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Ioannidis JP, Lau J</AU>
+<TI>Completeness of safety reporting in randomized trials: an evaluation of 7 medical areas</TI>
+<SO>JAMA</SO>
+<YR>2001</YR>
+<VL>285</VL>
+<NO>4</NO>
+<PG>437-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ioannidis-2004" NAME="Ioannidis 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Ioannidis JP, Evans SJ, Gøtzsche PC, O'Neill RT, Altman DG, Schulz KF, et al; CONSORT Group</AU>
+<TI>Better reporting of harms in randomized trials: an extension of the CONSORT statement</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2004</YR>
+<VL>141</VL>
+<NO>10</NO>
+<PG>781-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-J_x00fc_ni-2001" MODIFIED="2008-08-15 10:47:26 +0100" MODIFIED_BY="[Empty name]" NAME="Jüni 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Jüni P, Altman DG, Egger M</AU>
+<TI>Systematic reviews in health care: Assessing the quality of controlled clinical trials</TI>
+<SO>BMJ</SO>
+<YR>2001</YR>
+<VL>323</VL>
+<NO>7303</NO>
+<PG>42-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kunz-2002" MODIFIED="2008-08-15 11:14:29 +0100" MODIFIED_BY="[Empty name]" NAME="Kunz 2002" TYPE="COCHRANE_REVIEW">
+<AU>Kunz R, Vist G, Oxman AD</AU>
+<TI>Randomisation to protect against selection bias in healthcare trials</TI>
+<SO>Cochrane Database of Methodology Reviews</SO>
+<YR>2002</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2008-07-22 14:22:38 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-07-22 14:22:38 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.MR000012"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Loke-2001" NAME="Loke 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Loke YK, Derry S</AU>
+<TI>Reporting of adverse drug reactions in randomised controlled trials - a systematic survey</TI>
+<SO>BMC Clinical Pharmacology</SO>
+<YR>2001</YR>
+<VL>1</VL>
+<NO>1</NO>
+<PG>3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-RBM-2001" NAME="RBM 2001" TYPE="BOOK">
+<AU>Global Partnership to Roll Back Malaria</AU>
+<SO>Antimalarial drug combination therapy: report of a WHO technical consultation, 4-5 April 2001</SO>
+<YR>2001</YR>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-RBM-2003" NAME="RBM 2003" TYPE="BOOK">
+<AU>Global Partnership to Roll Back Malaria</AU>
+<SO>Assessment and monitoring of antimalarial drug efficacy for the treatment of uncomplicated falciparum malaria</SO>
+<YR>2003</YR>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Review-Manager-4.2" NAME="Review Manager 4.2" TYPE="COMPUTER_PROGRAM">
+<TI>Review Manager (RevMan)</TI>
+<YR>2003</YR>
+<EN>4.2 for Windows</EN>
+<PB>The Nordic Cochrane Centre, The Cochrane Collaboration</PB>
+<CY>Copenhagen</CY>
+<MD>CD-ROM and Internet</MD>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1995" NAME="Schulz 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Chalmers I, Hayes RJ, Altman DG</AU>
+<TI>Empirical evidence of bias. Dimensions of methodological quality associated with estimates of treatment effects in controlled trials</TI>
+<SO>JAMA</SO>
+<YR>1995</YR>
+<VL>273</VL>
+<NO>5</NO>
+<PG>408-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stepniewska-2004" NAME="Stepniewska 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Stepniewska K, Taylor WR, Mayxay M, Price R, Smithuis F, Guthmann JP, et al</AU>
+<TI>In vivo assessment of drug efficacy against Plasmodium falciparum malaria: duration of follow-up</TI>
+<SO>Antimicrobial Agents and Chemotherapy</SO>
+<YR>2004</YR>
+<VL>48</VL>
+<NO>11</NO>
+<PG>4271-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sturchler-1993" NAME="Sturchler 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Sturchler D, Mittelholzer ML, Kerr L</AU>
+<TI>How frequent are notified severe cutaneous adverse reactions to Fansidar?</TI>
+<SO>Drug Safety</SO>
+<YR>1993</YR>
+<VL>8</VL>
+<NO>2</NO>
+<PG>160-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Watkins-1993" NAME="Watkins 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Watkins WM, Mosobo M</AU>
+<TI>Treatment of Plasmodium falciparum malaria with pyrimethamine-sulfadoxine: selective pressure for resistance is a function of long elimination half-life</TI>
+<SO>Transactions of the Royal Society of Tropical Medicine</SO>
+<YR>1993</YR>
+<VL>87</VL>
+<NO>1</NO>
+<PG>75-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Watkins-2005" NAME="Watkins 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Watkins WM, Sibley CH, Hastings IM</AU>
+<TI>The search for effective and sustainable treatments for Plasmodium falciparum malaria in Africa: a model of the selection of resistance by antifolate drugs and their combinations</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2005</YR>
+<VL>72</VL>
+<NO>2</NO>
+<PG>163-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-White-1999" NAME="White 1999" TYPE="JOURNAL_ARTICLE">
+<AU>White N</AU>
+<TI>Antimalarial drug resistance and combination chemotherapy</TI>
+<SO>Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences</SO>
+<YR>1999</YR>
+<VL>354</VL>
+<NO>1384</NO>
+<PG>739-49</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-1965" NAME="WHO 1965" TYPE="BOOK">
+<AU>WHO Scientific Group on Resistance of Malaria Parasites to Drugs</AU>
+<SO>Resistance of malaria parasites to drugs: report of a WHO scientific group [meeting held in Geneva from 13 to 20 October 1964]; World Health Organization Technial Report Series</SO>
+<YR>1965</YR>
+<VL>296</VL>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-1967" NAME="WHO 1967" TYPE="BOOK">
+<AU>WHO Scientific Group on Chemotherapy of Malaria</AU>
+<SO>Chemotherapy of malaria: report of a WHO scienific group [meeting held in Geneva from 25 April to 1 ay 1967]; World Health Organization Technical Report Series</SO>
+<YR>1967</YR>
+<VL>375</VL>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-1973" NAME="WHO 1973" TYPE="BOOK">
+<AU>WHO Scientific Group on the Chemotherapy of Malaria and Resistance to Antimalarials</AU>
+<SO>Chemotherapy of malaria and resistance to antimalarials: report of a WHO scientific group [meeting held in Geneva from 17 to 24 October 1972]; World Health Organization Technical Report Series</SO>
+<YR>1973</YR>
+<VL>529</VL>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-1990" NAME="WHO 1990" TYPE="BOOK">
+<AU>WHO Scientific Group on the Chemotherapy of Malaria</AU>
+<SO>Practical chemotherapy of malaria: report of a WHO scientific group [meeting held in Geneva from 5 to 12 June 1989]; World Health Organization Technical Report Series</SO>
+<YR>1990</YR>
+<VL>805</VL>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-1996" NAME="WHO 1996" TYPE="BOOK">
+<AU>World Health Organization. Division of Control of Tropical Diseases</AU>
+<SO>Assessment of therapeutic efficacy of antimalarial drugs: for uncomplicated falciparum malaria in areas with intense transmission</SO>
+<YR>1996</YR>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-2002" NAME="WHO 2002" TYPE="BOOK">
+<AU>World Health Organization. Cluster on Communicable Diseases</AU>
+<SO>Monitoring antimalarial drug resistance: report of a WHO consultation, Geneva, Switzerland, 3-5 December 2001</SO>
+<YR>2002</YR>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-2006" MODIFIED="2008-08-14 16:32:01 +0100" MODIFIED_BY="[Empty name]" NAME="WHO 2006" TYPE="BOOK">
+<AU>World Health Organization, Roll Back Malaria Dept</AU>
+<SO>Guidelines for the treatment of malaria [WHO/HTM/MAL/2006.1108]</SO>
+<YR>2006</YR>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wongsrichanalai-2002" NAME="Wongsrichanalai 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Wongsrichanalai C, Pickard AL, Wernsdorfer WH, Meshnick SR</AU>
+<TI>Epidemiology of drug-resistant malaria</TI>
+<SO>Lancet Infectious Diseases</SO>
+<YR>2002</YR>
+<VL>2</VL>
+<NO>4</NO>
+<PG>209-18</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2008-08-15 10:19:21 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-McIntosh-1997" MODIFIED="2008-08-15 10:19:21 +0100" MODIFIED_BY="[Empty name]" NAME="McIntosh 1997" TYPE="COCHRANE_REVIEW">
+<AU>McIntosh H</AU>
+<TI>Chloroquine or amodiaquine combined with sulfadoxine-pyrimethamine for treating uncomplicated malaria</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>1997</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2008-08-15 10:19:21 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-15 10:19:19 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000386"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-McIntosh-1998" MODIFIED="2008-08-15 10:18:28 +0100" MODIFIED_BY="[Empty name]" NAME="McIntosh 1998" TYPE="JOURNAL_ARTICLE">
+<AU>McIntosh HM, Greenwood BM</AU>
+<TI>Chloroquine or amodiaquine combined with sulfadoxine-pyrimethamine as a treatment for uncomplicated malaria--a systematic review</TI>
+<SO>Annals of Tropical Medicine and Parasitology</SO>
+<YR>1998</YR>
+<VL>92</VL>
+<NO>3</NO>
+<PG>265-70</PG>
+<IDENTIFIERS MODIFIED="2008-08-15 10:18:28 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="OTHER" VALUE=""/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-McIntosh-2000" MODIFIED="2008-08-15 10:19:10 +0100" MODIFIED_BY="[Empty name]" NAME="McIntosh 2000" TYPE="COCHRANE_REVIEW">
+<AU>McIntosh HM</AU>
+<TI>Chloroquine or amodiaquine combined with sulfadoxine-pyrimethamine for treating uncomplicated malaria</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2000</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2008-08-15 10:19:10 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-15 10:19:10 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000386"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-McIntosh-2001" MODIFIED="2008-08-15 10:18:15 +0100" MODIFIED_BY="[Empty name]" NAME="McIntosh 2001" TYPE="COCHRANE_REVIEW">
+<AU>McIntosh HM</AU>
+<TI>Chloroquine or amodiaquine combined with sulfadoxine-pyrimethamine for treating uncomplicated malaria</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2001</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2008-08-15 10:18:15 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-15 10:18:15 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000386"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Basco-2002">
+<CHAR_METHODS MODIFIED="2008-08-15 09:48:52 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: computer generated; random assignment in blocks</P>
+<P>Allocation concealment: not reported</P>
+<P>Blinding: not reported</P>
+<P>Inclusion of all randomized participants in the analysis: 96% at day 14 (number excluded or lost to follow up before day 14 for amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP) = 3/65 and for SP = 2/64); 91% at day 28 (number lost to follow up at day 28 for AQ plus SP = 3/62 and for SP = 3/62)</P>
+<P>Length of follow up: 28 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:45:23 +0100" MODIFIED_BY="[Empty name]">
+<P>Number enrolled: 129 children aged 3 months to 10 years</P>
+<P>Inclusion criteria: &lt; 10 years; febrile; <I>Plasmodium falciparum</I> &gt; 2000 asexual/&#956;L (thick film); erythrocyte sedimentation rate (ESR) &gt; 15%</P>
+<P>Exclusion criteria: signs of severe/complicated malaria; severe malnutrition; concomitant infectious disease; sulphonamides allergy</P>
+<P>Participants who used other antimalarials during follow up were excluded from analysis<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-14 16:41:51 +0100" MODIFIED_BY="[Empty name]">
+<P>1. AQ plus SP<BR/>AQ: 30 mg/kg over 3 d<BR/>SP: S 25 mg/kg; P 1.25 mg/kg; single dose on day 0</P>
+<P>2. SP alone (dose as above)</P>
+<P>Treatment supervised; paracetamol if temperature &gt; 38.5 °C; amoxicillin if bacterial infection during follow up</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Treatment failure by day 28<BR/>2. Clinical failure by day 28<BR/>3. Total failure by day 14<BR/>4. Clinical failure by day 14<BR/>5. Early treatment failure<BR/>6. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data and </I>
+<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK> <I>for details on method used to derive clinical failure values from reported data</I>
+</P>
+<P>Other reported outcome measures not used in review: (a) Clinical (using <LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK> definition): early treatment failure, late treatment failure, adequate clinical response with positive/negative smear, fever clearance time (h), reported side effects; (b) Parasitological: negative smear at days 2, 3, 7, 14, and 28<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-07-22 10:58:00 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Cameroon</P>
+<P>Date: January to March 2001</P>
+<P>Malaria endemicity: holoendemic (participants included migrants from low transmission areas as well as locals)</P>
+<P>Drug resistance: possible AQ and SP resistance</P>
+<P>Method of determining parasite density: parasitaemia estimated/1000 white blood cells</P>
+<P>Drugs source: not reported</P>
+<P>Other notes: trial also included an AQ treatment group<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bojang-1998">
+<CHAR_METHODS MODIFIED="2008-08-15 09:49:18 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: computer generated</P>
+<P>Allocation concealment: sequentially numbered envelopes</P>
+<P>Blinding: participants and investigators</P>
+<P>Inclusion of all randomized participants in the analysis: 65% of those recruited, and 72% of those treated were evaluated at day 28 (number excluded = 44/44; number lost to follow up at day 28 for chloroquine (CQ) plus sulfadoxine-pyrimethamine (SP) = 61/202 and for SP = 53/203)</P>
+<P>Length of follow up: 28 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:45:40 +0100" MODIFIED_BY="[Empty name]">
+<P>Number available for analysis: 405 children with a mean age of 4 years</P>
+<P>Inclusion criteria: 1 to 10 years; febrile; <I>Plasmodium falciparum</I> &gt; 5000 asexual/&#956;L (thick film)</P>
+<P>Exclusion criteria: severe malaria; coexisting illness<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 09:58:28 +0100" MODIFIED_BY="[Empty name]">
+<P>1. CQ plus SP<BR/>CQ: 30 mg/kg over 3 d<BR/>SP: S 25 mg/kg; P 1.25 mg/kg; single dose on day 1</P>
+<P>2. Placebo over 3 d + SP single dose (dose as above) on day 1</P>
+<P>Treatment supervised; paracetamol if axial temperature &gt; 38.5 °C<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcome used in this review:<BR/>1. Total failure by day 28</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data</I>
+</P>
+<P>Other reported outcome measures not used in review: (a) Clinical: return to clinic with symptoms within 1 week (clinical outcome); (b) Parasitological: parasitaemia at day 7 and day 28<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-14 16:42:25 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: The Gambia</P>
+<P>Date: July to December 1995</P>
+<P>Malaria endemicity: not reported</P>
+<P>Drug resistance: CQ resistance</P>
+<P>Method of determining parasite density: parasitaemia estimated as 1 parasite/high power field = 500/&#956;L in 100 high power fields</P>
+<P>Drugs source: Fansidar, Roche<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-15 09:58:46 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Darlow-1982">
+<CHAR_METHODS MODIFIED="2008-08-15 09:49:42 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: method not specified</P>
+<P>Allocation concealment: not reported</P>
+<P>Blinding: not reported</P>
+<P>Inclusion of all randomized participants in the analysis: 87% of those admitted were evaluated at day 28 (no exclusions reported; number lost to follow up at day 28 was 7/85 (8%); 7 participants switched from chloroquine (CQ) plus sulfadoxine-pyrimethamine (SP) to SP after vomiting treatment)</P>
+<P>Length of follow up: 28 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:45:44 +0100" MODIFIED_BY="[Empty name]">
+<P>Number enrolled: 85 children aged 2 months to 12 years</P>
+<P>Inclusion criteria: paediatric; febrile; <I>Plasmodium falciparum</I> &lt; 50 to 850,000/&#956;L (thick film)</P>
+<P>Exclusion criteria: cerebral symptoms; severe malaria or second diagnosis; antimalarials in previous week (no urine test)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 09:58:38 +0100" MODIFIED_BY="[Empty name]">
+<P>1. CQ plus SP<BR/>CQ: 10 mg/kg single dose<BR/>SP: S 25 to 42 mg/kg; P 1 to 2.1 mg/kg; single dose</P>
+<P>2. SP (dose as above)</P>
+<P>Treatment supervised<BR/>Aspirin or paracetamol if necessary<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-07-22 11:02:20 +0100" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Adverse events</P>
+<P>Unable to derive total or clinical failure from available data</P>
+<P>Other reported outcome measures not used in review: (a) Clinical: fever clearance time (h), adverse events; (b) Parasitological: parasitaemia at days 0 to 7, 14, 21, and 28, sens, RI, RII, RIII<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-15 09:58:46 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Papua New Guinea</P>
+<P>Date: June to Oct 1980</P>
+<P>Malaria endemicity: "highly malarious" with stable transmission</P>
+<P>Drug resistance: not reported</P>
+<P>Method of determining parasite density: parasitaemia estimated/200 white blood cells or as percentage infected red blood cells</P>
+<P>Drugs source: Fansidar, Roche<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Dinis-1990">
+<CHAR_METHODS MODIFIED="2008-07-22 11:02:53 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: method not specified</P>
+<P>Allocation concealment: sealed envelopes</P>
+<P>Blinding: microscopists</P>
+<P>Inclusion of all randomized participants in the final analysis: only numbers evaluated (at day 28) were reported (no exclusions or loss to follow up reported)</P>
+<P>Length of follow up: 28 d</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:45:49 +0100" MODIFIED_BY="[Empty name]">
+<P>Number available for analysis: 59 adults + children with mean age of 28 years</P>
+<P>Inclusion criteria: &gt; 10 years; febrile; <I>Plasmodium falciparum</I> &gt; 400 asexual/&#956;L (thick film)</P>
+<P>Exclusion criteria: complicated malaria; pregnancy; allergy to treatment drugs; antimalarials in previous 8 days (no urine test)<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 09:50:09 +0100" MODIFIED_BY="[Empty name]">
+<P>1. Amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP)<BR/>AQ: 25 mg/kg over 3 d<BR/>SP: S 25mg/kg; P 1.25 mg/kg; single dose on day 3</P>
+<P>2. SP (dose as above) + placebo on days 2 and 3</P>
+<P>Supervision not specified<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Total failure by day 28<BR/>2. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data</I>
+</P>
+<P>Other reported outcome measures not used in review: (a) Clinical: fever clearance by day 7, adverse events; (b) Parasitological: parasitaemia at days 0 to 9, 14, 21, and 28, cure by day 7, sens, RI, RII, RIII</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-15 09:58:58 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Mozambique</P>
+<P>Date: May 1986 to June 1987</P>
+<P>Malaria endemicity: endemic area with perennial transmission</P>
+<P>Drug resistance: chloroquine resistance</P>
+<P>Method of determining parasite density: not reported</P>
+<P>Drugs source: AQ Pharmachemic, Belgium; Fansidar, Roche<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Dorsey-2002">
+<CHAR_METHODS MODIFIED="2008-08-15 09:51:06 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: community-based convenience sampling to recruit healthy children; all children in households enrolled and randomized to treatment for future episodes of uncomplicated malaria; block randomization; computer-generated list, stratified by age</P>
+<P>Allocation concealment: treatment allocation investigator not involved in enrolment</P>
+<P>Blinding: participants</P>
+<P>Inclusion of all randomized participants in the final analysis: 99% of those treated for first episodes of uncomplicated malaria were evaluated at day 14 (number excluded or lost to follow up at day 14 for amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP) = 0/59 and for SP = 1/57); 94% at day 28 (number excluded or lost to follow up at day 28 for AQ plus SP = 4/59 and for SP = 3/57); participants randomized while healthy</P>
+<P>Length of follow up: 14 and 28 d</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:45:53 +0100" MODIFIED_BY="[Empty name]">
+<P>Number available for analysis: 116 children aged 6 to 59 months treated for first episodes of uncomplicated malaria</P>
+<P>Inclusion criteria: <I>Plasmodium falciparum</I> &#8805; 500/&#956;L; febrile; healthy; no malaria treatment in past 2 weeks or fever in past 48 h; haemoglobin &#8805; 5 g/dL</P>
+<P>Exclusion criteria: history of adverse reaction to study drugs; sickle cell disease; complicated malaria<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 10:57:24 +0100" MODIFIED_BY="[Empty name]">
+<P>1. AQ plus SP<BR/>AQ: 25 mg/kg over 3 d<BR/>SP: S 25 mg/kg; P 1.25 mg/kg; single dose on day 0</P>
+<P>2. Placebo over 3 d + SP (dose as above)</P>
+<P>Treatment supervised; all participants supplied with paracetamol for 3 d to treat febrile symptoms<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Total failure by day 14<BR/>2. Clinical failure by day 14<BR/>3. Clinical failure by day 28 (data from investigator)<BR/>4. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data and </I>
+<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK> <I>for details on method used to derive clinical failure values from reported data</I>
+</P>
+<P>Other outcome measures not used in review:<BR/>(a) Clinical (using modified <LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK> definitions): early treatment failure, late treatment failure (modified to include parasitaemia and history of fever in past 48 h on days 4 to 14), adequate clinical response, adverse events were recorded; Unpublished data also obtained from investigator for day 28 outcomes; (b) Parasitological: sens, RI, RII, RIII<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Location: Uganda (same location as <LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK> and <LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>)</P>
+<P>Date: July 2000 to August 2001</P>
+<P>Malaria endemicity: mesoendemic</P>
+<P>Drug resistance: very high chloroquine resistance</P>
+<P>Method of determining parasite density: parasitaemia estimated/200 white blood cells</P>
+<P>Drugs source: Fansidar, Roche</P>
+<P>Other notes: trial also included an artesunate plus SP treatment group</P>
+<P>316 healthy children enrolled; 211 randomized to AQ/SP or SP</P>
+<P>Treatment outcome for the first episode of uncomplicated <I>P. falciparum</I> was not trial's primary objective; these data supplied by trial author on request<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Gasasira-2003">
+<CHAR_METHODS MODIFIED="2008-08-15 09:51:55 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: computer-generated list</P>
+<P>Allocation concealment: not reported</P>
+<P>Blinding: outcome assessors</P>
+<P>Inclusion of all randomized participants in the analysis: 83% of those randomized, and 96% of those treated were evaluated at day 14 (number excluded after enrolment, but before randomization, for amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP) = 29/172, for chloroquine (CQ) plus SP = 12/170, and for SP = 24/171; number lost or excluded during follow up for AQ plus SP = 7/143, for CQ plus SP = 6/158, and for SP = 7/147); post-randomization (pre-treatment) losses to follow up higher in SP group (18%) than CQ plus SP group (10%)</P>
+<P>Length of follow up: 14 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:46:03 +0100" MODIFIED_BY="[Empty name]">
+<P>Number randomized: 513; Number enrolled: 448 children and adults aged 6 months to 50 years</P>
+<P>Inclusion criteria: &gt; 6 months; febrile or fever in past 48 h; <I>Plasmodium falciparum</I> &#8805; 2000 asexual/&#956;L (thick film)</P>
+<P>Exclusion criteria: danger signs or symptoms severe malaria; concomitant febrile illness; sulpha drugs allergy</P>
+<P>Participants who used other antimalarials outside the trial excluded from analysis<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 09:59:41 +0100" MODIFIED_BY="[Empty name]">
+<P>1. AQ plus SP<BR/>AQ: 25 mg/kg over 3 d<BR/>SP: S 25 mg/kg; P 1.25 mg/kg); single dose (day not reported)</P>
+<P>2. CQ plus SP<BR/>CQ: 25 mg/kg over 3 d<BR/>SP: dose as above</P>
+<P>3. Placebo over 3 days + SP (dose as above)</P>
+<P>Treatment supervised; all participants given paracetamol for 3 d<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Day 14 total failure<BR/>2. Day 14 clinical failure<BR/>3. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data and </I>
+<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK> <I>for details on method used to derive clinical failure values from reported data</I>
+</P>
+<P>Other outcome measures not used in review:<BR/>(a) Clinical (using modified <LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK> definitions): early treatment failure, late treatment failure (modified to include rising parasitaemia and history of fever in past 48 h on days 4 to 14), adequate clinical response, fever on days 0 to 3 (graph), adverse events with causal relationship determined by clinician &#8211; mild, moderate, severe; (b) Parasitological: sens at day 14, RI at day 14, RII at day 14, RIII at day 14, positive/negative smear day 3<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Location: Uganda (same location as <LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK> and <LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>)</P>
+<P>Date: March 2001 to January 2002</P>
+<P>Malaria endemicity: mesoendemic</P>
+<P>Drug resistance: CQ resistance</P>
+<P>Method of determining parasite density: parasitaemia estimated/200 white blood cells</P>
+<P>Drugs source: Fansidar, Roche</P>
+<P>Other notes: placebo not identical to study drugs<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Huang-1988">
+<CHAR_METHODS MODIFIED="2008-08-15 09:52:25 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: centralized</P>
+<P>Allocation concealment: drugs serially coded by the World Health Organization</P>
+<P>Blinding: double</P>
+<P>Inclusion of all randomized participants in the final analysis: 96% of those admitted were evaluated at day 28 (no exclusions reported; number lost to follow up at day 28 for amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP) = 2/48 and for SP = 1/21)</P>
+<P>Length of follow up: 28 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:46:10 +0100" MODIFIED_BY="[Empty name]">
+<P>Number available for analysis: 69 adults and children</P>
+<P>Inclusion criteria: &gt; 12 years; febrile; <I>Plasmodium falciparum </I>&gt; 500 asexual/&#956;L (thick film)</P>
+<P>Exclusion criteria: severe symptoms; renal insufficiency; mixed infections; pregnancy; antimalarials in previous 28 d (urine tested for aminoquinolines and sulphonamides)<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 10:00:30 +0100" MODIFIED_BY="[Empty name]">
+<P>1. AQ plus SP<BR/>AQ: 1800 mg over 3 d<BR/>SP: S 1500 mg; P 75 mg; single dose on day 1</P>
+<P>2. SP (dose as above) plus placebo over 3 d</P>
+<P>Treatment supervised<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Total failure by day 28<BR/>2. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data</I>
+</P>
+<P>Other outcome measures not used in review: (a) Clinical: fever clearance time (h); (b) Parasitological: parasitaemia days 0 to 7, 14, 21, 28, parasite clearance time (h), cure day 7, adverse events<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-15 10:00:44 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: China</P>
+<P>Date: 1985 to 1986</P>
+<P>Malaria endemicity: endemic area</P>
+<P>Drug resistance: chloroquine resistance</P>
+<P>Method of determining parasite density: parasitaemia estimated on thick film</P>
+<P>Drugs source: Fansidar, Roche</P>
+<P>Other notes: trial also included an AQ and AQ plus S treatment groups<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Ndyomugyenyi-2004">
+<CHAR_METHODS MODIFIED="2008-08-15 09:54:11 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: random numbers list</P>
+<P>Allocation concealment: not reported</P>
+<P>Blinding: not reported</P>
+<P>Inclusion of all randomized participants in the final analysis: 65% of those randomized were evaluated at day 14 (number that withdrew consent for chloroquine (CQ) plus sulfadoxine-pyrimethamine (SP) = 11/47 and for SP = 10/41; number lost to follow up for chloroquine (CQ) plus SP = 7/36 and for SP = 3/30)</P>
+<P>Length of follow up: 14 d</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:46:14 +0100" MODIFIED_BY="[Empty name]">
+<P>Number enrolled: 88 children and adults aged 1 to 46 years</P>
+<P>Inclusion criteria: &gt; 6 months; febrile or fever in past 24 h; <I>Plasmodium falciparum</I> on thick film</P>
+<P>Exclusion criteria: signs of complicated malaria; other febrile illness; haemoglobin &lt; 8 g/dL; self-medication</P>
+<P>Patients who self-medicated during follow up were excluded from the analysis<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 10:57:36 +0100" MODIFIED_BY="[Empty name]">
+<P>1. CQ plus SP<BR/>CQ: 25 mg/kg over 3 d<BR/>SP: S 500 mg; P 25 mg; single dose (day not reported)</P>
+<P>2. SP (dose as above)</P>
+<P>First dose observed<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Day 14 total failure<BR/>2. Day 14 clinical failure<BR/>3. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data and </I>
+<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK> <I>for details on method used to derive clinical failure values from reported data</I>
+</P>
+<P>Other outcome measures not used in review: (a) Clinical (using <LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK> definitions): early treatment failure, late treatment failure, adequate clinical response, adverse events; (b) Parasitological: sens, RI, RII, RIII<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-15 09:54:20 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Uganda</P>
+<P>Date: October 2001</P>
+<P>Malaria endemicity: transmission low and unstable</P>
+<P>Drug resistance: not reported</P>
+<P>Method of determining parasite density: parasitaemia estimated/200 white blood cells</P>
+<P>Drugs source: not reported</P>
+<P>Other notes: trial also included a CQ treatment group<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Schapira-1988">
+<CHAR_METHODS MODIFIED="2008-08-15 09:54:41 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: method not specified</P>
+<P>Allocation concealment: sequentially numbered sealed envelopes</P>
+<P>Blinding: microscopists</P>
+<P>Inclusion of all randomized participants in the final analysis: 47% evaluated at day 28 (number excluded after randomization for amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP) = 22/50 and for SP = 15/50; number lost to follow up at day 28 for AQ plus SP = 6/28 and for SP = 10/35)</P>
+<P>Length of follow up: 28 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:46:20 +0100" MODIFIED_BY="[Empty name]">
+<P>Number enrolled: 100 school children with mean age of 10 years, asymptomatic or mild symptomatic;</P>
+<P>Inclusion criteria: <I>Plasmodium falciparum</I> &gt; 800 asexual/&#956;L (thick film)</P>
+<P>Exclusion criteria: severe symptoms; antimalarials in previous 14 d (no urine test)</P>
+<P>Non-compliance with treatment was a reason for exclusion from the analysis<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 10:01:02 +0100" MODIFIED_BY="[Empty name]">
+<P>1. AQ plus SP<BR/>AQ: 25 mg/kg over 3 d<BR/>SP: S 25 to 30 mg/kg; P 1.25 to 1.5 mg/kg; single dose on day 3</P>
+<P>2. SP (dose as above)</P>
+<P>Treatment supervised<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Day 28 total failure</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data</I>
+</P>
+<P>Other outcome measures not used in review:<BR/>(a) Parasitological: parasitaemia days 0 to 9, 14, 21, and 28, parasite clearance time (d), cure day 7, recrudescence, sens, RI, RII, RIII<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-15 09:54:51 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Mozambique</P>
+<P>Date: May to September 1986</P>
+<P>Malaria endemicity: endemic area, perennial transmission</P>
+<P>Drug resistance: chloroquine (CQ) and AQ resistance</P>
+<P>Method of determining parasite density: parasitaemia estimated/500 or /2000 white blood cells</P>
+<P>Drugs source: CQ Avloclor, ICI; AQ Pharmachemic; Fansidar, Roche</P>
+<P>Other notes: trial also included an AQ treatment group and a CQ treatment group<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Schellenberg-2002">
+<CHAR_METHODS MODIFIED="2008-08-15 09:55:08 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: computer-generated list</P>
+<P>Allocation concealment: sequential envelopes</P>
+<P>Blinding: open label</P>
+<P>Inclusion of all randomized participants in the analysis: 70% at day 14, 62% at day 28 (number excluded before treatment for amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP) = 2/121 and for SP = 3/120; number lost to follow up at day 28 for AQ plus SP = 41/119 and for SP = 38/117)</P>
+<P>Length of follow up: 28 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:46:25 +0100" MODIFIED_BY="[Empty name]">
+<P>Number enrolled: 241 children aged 2 to 2.4 years</P>
+<P>Inclusion criteria: 6 months to 5 years; febrile or fever in past 24 h; <I>Plasmodium falciparum</I> asexual &gt; 2000/&#956;L (thick film)</P>
+<P>Exclusion criteria: signs severe/complicated malaria; chronic underlying disease; sensitivity to AQ or SP<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 09:55:13 +0100" MODIFIED_BY="[Empty name]">
+<P>1. AQ plus SP<BR/>AQ: 25 mg/kg over 3 d<BR/>SP: S 25 mg/kg; P 1.25 mg/kg; single dose (day not reported)</P>
+<P>2. SP (dose as above)</P>
+<P>Treatment supervised; 250 mg paracetamol 30 min prior to trial drug<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Day 28 total failure<BR/>2. Day 28 clinical failure<BR/>3. Day 14 total failure<BR/>4. Day 14 clinical failure<BR/>5. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data and </I>
+<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK> <I>for details on method used to derive clinical failure values from reported data.</I>
+</P>
+<P>Other outcome measures not used in review: (a) Clinical (using <LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK> definitions): early treatment failure, late treatment failure, adequate treatment response, fever clearance time, safety - number and timing of deaths, admissions, and outpatient attendances, adverse drug effects - symptoms, abnormal haematology or biochemistry during follow up; (b) Parasitological: sens, RI, RII<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-15 09:55:20 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Tanzania</P>
+<P>Date: May to August 1999</P>
+<P>Malaria endemicity:holoendemic</P>
+<P>Drug resistance: high chloroquine resistance (65%)</P>
+<P>Method of determining parasite density: parasitaemia estimated/200 white blood cells</P>
+<P>Drugs source: Shelys Pharmaceutical, Tanzania</P>
+<P>Other notes: trial also included an AQ treatment group<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Schw_x00f6_bel-2003">
+<CHAR_METHODS MODIFIED="2008-08-15 09:55:37 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: randomly sorted sealed envelopes distributed to 5 study sites</P>
+<P>Allocation concealment: participants who met the inclusion criteria were assigned an envelope which was then opened</P>
+<P>Blinding: not reported</P>
+<P>Inclusion of all randomized participants in the analysis: 88% of those enrolled were evaluated at day 14 (number excluded for chloroquine (CQ) plus sulfadoxine-pyrimethamine (SP) = 2/29 and for SP = 0/30; number lost to follow up for CQ plus SP = 3/27 and for SP = 2/30)</P>
+<P>Length of follow up: 14 d<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:46:29 +0100" MODIFIED_BY="[Empty name]">
+<P>Number enrolled: 59 adults and children with mean age of 16 years</P>
+<P>Inclusion criteria: 1 year or older; fever or history of fever; <I>Plasmodium falciparum</I> 1000 to 100,000 asexual/&#956;L (thick film)</P>
+<P>Exclusion criteria: signs of severe malaria or danger signs; other febrile illness; pregnancy</P>
+<P>Participants treated by a third party during trial were excluded from the analysis<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 10:01:24 +0100" MODIFIED_BY="[Empty name]">
+<P>1. CQ plus SP<BR/>CQ: 25 mg/kg over 3 d<BR/>SP: S not reported; P 1.25 mg/kg; single dose (day not reported)</P>
+<P>2. SP (dose as above)</P>
+<P>Supervision not reported; all febrile participants given paracetamol<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:10 +0000" MODIFIED_BY="[Empty name]">
+<P>
+<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK> <I>for details on method used to derive clinical failure values from reported data.</I>
+</P>
+<P>Other outcome measures not used in review: (a) Clinical (using <LINK REF="REF-RBM-2001" TYPE="REFERENCE">RBM 2001</LINK> draft of 2003 definitions): early treatment failure, late treatment failure, adequate clinical and parasitological response; (b) Parasitological: late parasitological failure<BR/>
+</P>
+<P>Notes</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-08-15 09:55:49 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Laos</P>
+<P>Date: August to October 2001</P>
+<P>Malaria endemicity: perennial transmission</P>
+<P>Drug resistance: not reported</P>
+<P>Method of determining parasite density: parasitaemia estimated/200 white blood cells</P>
+<P>Drugs source: SP from Pharmamed</P>
+<P>Other notes: trial also included a CQ and a mefloquine treatment group<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Staedke-2001">
+<CHAR_METHODS MODIFIED="2008-08-15 09:56:46 +0100" MODIFIED_BY="[Empty name]">
+<P>Generation of allocation sequence: computer-generated sequence</P>
+<P>Allocation concealment: not reported</P>
+<P>Blinding: microscopists</P>
+<P>Inclusion of all randomized participants in the analysis: 60% of those randomized overall, but 90% of those then enrolled in relevant treatment groups evaluated at day 14 - randomization preceded enrolment (number excluded for amodiaquine (AQ) plus sulfadoxine-pyrimethamine (SP) = 7/149 and for SP = 8/149; number lost to follow up for AQ plus SP = 4/142 and for SP = 10/141)</P>
+<P>Length of follow up: 14 d</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 09:46:33 +0100" MODIFIED_BY="[Empty name]">
+<P>Number enrolled: 298 adults and children, median age 4 years (range 6 months to 50 years)</P>
+<P>Inclusion criteria: symptomatic; <I>Plasmodium falciparum</I> 2000 to &gt; 1,000,000 asexual/&#956;L (thick film)</P>
+<P>Exclusion criteria: severe symptoms; &lt; 5 kg; other febrile illness; sulfa drugs allergy; other antimalarials during follow up</P>
+<P>Participants who used additional antimalarials during follow up were excluded from the analysis<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 09:56:52 +0100" MODIFIED_BY="[Empty name]">
+<P>1. AQ plus SP<BR/>AQ: 25 mg/kg over 3 d<BR/>SP: S 25 mg/kg; P 1.25 mg/kg; single dose (day not reported)</P>
+<P>2. SP plus placebo</P>
+<P>Treatment supervised<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Outcomes used in this review:<BR/>1. Day 14 total failure<BR/>2. Day 14 clinical failure<BR/>3. Adverse events</P>
+<P>
+<I>See</I> <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK> <I>for details on method used to derive total failure values from reported data and </I>
+<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK> <I>for details on method used to derive clinical failure values from reported data.</I>
+</P>
+<P>Other outcome measures not used in review: (a) Clinical (using <LINK REF="REF-WHO-1996" TYPE="REFERENCE">WHO 1996</LINK> definitions): early treatment failure, late treatment failure (modified to include rising parasitaemia and history of fever in past 48 h on days 4 to 14), adequate clinical response, fever days 0 to 3 (graph), patients monitored for potential adverse drug events; (b) Parasitological: sens, RI, RII, RIII, parasitaemia days 0, 3, 7, and 14<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Location: Uganda (same location as <LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK> and <LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>)</P>
+<P>Date: September 1999 to July 2000</P>
+<P>Malaria endemicity: mesoendemic, seasonal transmission</P>
+<P>Drug resistance: high chloroquine resistance, SP resistance increasing</P>
+<P>Method of determining parasite density: parasitaemia estimated/200 white blood cells</P>
+<P>Drugs source: Fansidar Roche, AQ Camoquine Parke-Davis</P>
+<P>Other notes: trial also included an AQ treatment group<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>RI: parasite clearance within 7 d followed by recrudescence (<LINK REF="REF-WHO-1973" TYPE="REFERENCE">WHO 1973</LINK>); RII: temporary marked reduction in parasitaemia (<LINK REF="REF-WHO-1973" TYPE="REFERENCE">WHO 1973</LINK>); RIII: no marked reduction in parasitaemia (<LINK REF="REF-WHO-1973" TYPE="REFERENCE">WHO 1973</LINK>); Sens: parasite clearance within 7 d of starting treatment and sustained to end of follow up (<LINK REF="REF-WHO-1973" TYPE="REFERENCE">WHO 1973</LINK>).</P>
+<P>Notes: high power field (microscope x 100 objective); holoendemic: constant high transmission; hyperendemic: intense but seasonal transmission; mesoendemic: varying intensity of transmission depending on local circumstances.<BR/>
+</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Bakyaita-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Randomized controlled trial comparing CQ plus SP with AQ plus SP; no SP-only group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Blair-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Trial evaluated 4 monotherapies (CQ, AQ, mefloquine, and SP) and 4 combination therapies (AQ plus SP, CQ plus SP, mefloquine plus SP, and artesunate-SP); outcome data only for day 21 (not day 28 or 14); ballot with names of treatment decided the order of evaluation of treatment as CQ plus SP, AQ plus SP, and MQ plus SP suggests sequential rather than random allocation of treatments; published paper only reports evaluation of CQ, SP, and CQ plus SP</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Checchi-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: SP, AQ, and CQ plus SP tested sequentially</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Hugosson-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 15:34:11 +0000" MODIFIED_BY="[Empty name]">
+<P>allocation: participants given serial numbers before screening, enrolled participants consecutively assigned to treatment groups in the order CQ, SP, CQ plus SP, and SP plus paracetamol; participants overlap with excluded study <LINK REF="STD-Tarimo-2002" TYPE="STUDY">Tarimo 2002</LINK>
+</P>
+<P>Menard 20</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Menard-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: participants assigned alternately; also no direct comparison between CQ or AQ plus SP and SP alone; 2 separate studies conducted: CQ versus AQ versus SP between February and April 2002, and CQ plus SP versus AQ plus SP between December 2003 and March 2004</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ogwang-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: first child allocated to CQ group, second child allocated to SP group, and third child allocated to CQ plus SP group; sequence then repeated</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Pitmang-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: participants assigned alternately to SP or chloroquine plus SP</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Salah-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: participants assigned alternately to SP or chloroquine plus SP</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sowunmi-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The 2003 paper reported several randomized comparisons conducted between 1996 and 2001, but these were not all part of a single trial. It duplicates the data in the 2002 paper, which is a report of the trial that included AQ plus SP and CQ plus SP. There was no SP-only comparator group in that trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Talisuna-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: treatments given in the order CQ plus SP, AQ plus SP, SP to the first 250 participants, then 2 participants given CQ plus SP, 1 AQ plus SP or SP</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tarimo-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: first treatment allocated by spin of a coin, then participants allocated sequentially to treatment in the order CQ, SP, CQ plus SP, and SP plus paracetamol</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tjitra-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-random allocation: allocation to treatment determined by day of the week on which patients attended the health centre</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES>
+<P>AQ: amodiaquine; CQ: chloroquine; SP: sulfadoxine-pyrimethamine</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-07-22 11:29:09 +0100" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-07-22 11:29:09 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-11-10 15:35:11 +0000" MODIFIED_BY="[Empty name]"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Chloroquine (CQ) or amodiaquine (AQ) combined with sulfadoxine-pyrimethamine (SP) versus SP alone</NAME>
+<DICH_OUTCOME CHI2="7.81539041509027" CI_END="0.906557830942609" CI_START="0.4578256711422475" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.6442402093788931" ESTIMABLE="YES" EVENTS_1="35" EVENTS_2="56" I2="48.818935618665456" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.04260448626438545" LOG_CI_START="-0.3392998592743017" LOG_EFFECT_SIZE="-0.19095217276934356" METHOD="MH" NO="1" P_CHI2="0.09857979266962513" P_Q="0.0" P_Z="0.011640710555897653" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="5" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="241" TOTAL_2="220" WEIGHT="100.00000000000001" Z="2.5228528345474053">
+<NAME>Total failure by day 28</NAME>
+<GROUP_LABEL_1>Combination</GROUP_LABEL_1>
+<GROUP_LABEL_2>SP</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours combination</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours SP</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="7.81539041509027" CI_END="0.906557830942609" CI_START="0.4578256711422475" DF="4.0" EFFECT_SIZE="0.6442402093788931" ESTIMABLE="YES" EVENTS_1="35" EVENTS_2="56" I2="48.818935618665456" ID="CMP-001.01.01" LOG_CI_END="-0.04260448626438545" LOG_CI_START="-0.3392998592743017" LOG_EFFECT_SIZE="-0.19095217276934356" NO="1" P_CHI2="0.09857979266962513" P_Z="0.011640710555897653" STUDIES="5" TAU2="0.0" TOTAL_1="241" TOTAL_2="220" WEIGHT="100.00000000000001" Z="2.5228528345474053">
+<NAME>AQ plus SP</NAME>
+<DICH_DATA CI_END="0.8840623415802632" CI_START="0.003133357199155823" EFFECT_SIZE="0.05263157894736842" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="9" LOG_CI_END="-0.053517108686399" LOG_CI_START="-2.5039900932192594" LOG_EFFECT_SIZE="-1.278753600952829" ORDER="1" O_E="0.0" SE="1.4394199611515062" STUDY_ID="STD-Basco-2002" TOTAL_1="59" TOTAL_2="59" VAR="2.0719298245614035" WEIGHT="16.608638661547364"/>
+<DICH_DATA CI_END="2.9613975200084925" CI_START="0.17749221320293823" EFFECT_SIZE="0.725" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="4" LOG_CI_END="0.4714967083546803" LOG_CI_START="-0.750820695212693" LOG_EFFECT_SIZE="-0.13966199342900631" ORDER="2" O_E="0.0" SE="0.7179952934242051" STUDY_ID="STD-Dinis-1990" TOTAL_1="30" TOTAL_2="29" VAR="0.5155172413793103" WEIGHT="7.111638320733928"/>
+<DICH_DATA CI_END="3.50697744708583" CI_START="0.006325099927881889" EFFECT_SIZE="0.14893617021276595" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.5449329729993615" LOG_CI_START="-2.198932608842283" LOG_EFFECT_SIZE="-0.8269998179214606" ORDER="3" O_E="0.0" SE="1.6117602251274654" STUDY_ID="STD-Huang-1988" TOTAL_1="46" TOTAL_2="20" VAR="2.597771023302938" WEIGHT="3.6251053425358797"/>
+<DICH_DATA CI_END="2.2094576106920583" CI_START="0.007140363662034983" EFFECT_SIZE="0.12560386473429952" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="4" LOG_CI_END="0.3442856738688368" LOG_CI_START="-2.1462796688410366" LOG_EFFECT_SIZE="-0.9009969974860998" ORDER="4" O_E="0.0" SE="1.4629704108050574" STUDY_ID="STD-Schapira-1988" TOTAL_1="22" TOTAL_2="25" VAR="2.1402824228911186" WEIGHT="7.385581531558118"/>
+<DICH_DATA CI_END="1.2529814077955623" CI_START="0.6071109551959474" EFFECT_SIZE="0.8721804511278195" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="38" LOG_CI_END="0.09794462681881116" LOG_CI_START="-0.21673193029914586" LOG_EFFECT_SIZE="-0.059393651740167336" ORDER="5" O_E="0.0" SE="0.18484256732516752" STUDY_ID="STD-Schellenberg-2002" TOTAL_1="84" TOTAL_2="87" VAR="0.03416677469535909" WEIGHT="65.26903614362473"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="2.799561918317809" CI_END="0.4899419669260755" CI_START="0.1072438985767353" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.2292232244112848" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="32" I2="28.560251269536025" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.3098553586171478" LOG_CI_START="-0.9696274067407401" LOG_EFFECT_SIZE="-0.639741382678944" METHOD="MH" NO="2" P_CHI2="0.24665126708336693" P_Q="0.0" P_Z="1.4416040280396082E-4" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="192" TOTAL_2="192" WEIGHT="100.0" Z="3.8009190387395875">
+<NAME>Clinical failure by day 28</NAME>
+<GROUP_LABEL_1>Combination</GROUP_LABEL_1>
+<GROUP_LABEL_2>SP</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours combination</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours SP</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="2.799561918317809" CI_END="0.4899419669260755" CI_START="0.1072438985767353" DF="2.0" EFFECT_SIZE="0.2292232244112848" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="32" I2="28.560251269536025" ID="CMP-001.02.01" LOG_CI_END="-0.3098553586171478" LOG_CI_START="-0.9696274067407401" LOG_EFFECT_SIZE="-0.639741382678944" NO="1" P_CHI2="0.24665126708336693" P_Z="1.4416040280396082E-4" STUDIES="3" TAU2="0.0" TOTAL_1="192" TOTAL_2="192" WEIGHT="100.0" Z="3.8009190387395875">
+<NAME>AQ plus SP</NAME>
+<DICH_DATA CI_END="0.9964229643984764" CI_START="0.003472629331205363" EFFECT_SIZE="0.058823529411764705" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="8" LOG_CI_END="-0.0015562719056926653" LOG_CI_START="-2.4593415708508553" LOG_EFFECT_SIZE="-1.2304489213782739" ORDER="6" O_E="0.0" SE="1.4437152508338327" STUDY_ID="STD-Basco-2002" TOTAL_1="59" TOTAL_2="59" VAR="2.0843137254901962" WEIGHT="26.039700292063973"/>
+<DICH_DATA CI_END="0.5679230722985531" CI_START="0.07522902077567181" EFFECT_SIZE="0.20669856459330144" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="19" LOG_CI_END="-0.24571048742077536" LOG_CI_START="-1.1236145911715083" LOG_EFFECT_SIZE="-0.6846625392961418" ORDER="7" O_E="0.0" SE="0.5156852162385807" STUDY_ID="STD-Dorsey-2002" TOTAL_1="55" TOTAL_2="54" VAR="0.2659312422470317" WEIGHT="58.74039245592412"/>
+<DICH_DATA CI_END="2.456310721370869" CI_START="0.15034333303821645" EFFECT_SIZE="0.6076923076923076" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="5" LOG_CI_END="0.39028330385399435" LOG_CI_START="-0.8229158258867851" LOG_EFFECT_SIZE="-0.2163162610163954" ORDER="8" O_E="0.0" SE="0.7126391742422804" STUDY_ID="STD-Schellenberg-2002" TOTAL_1="78" TOTAL_2="79" VAR="0.5078545926647193" WEIGHT="15.219907252011913"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="21.9592673944818" CI_END="0.5300734074732714" CI_START="0.3232431773999059" CI_STUDY="95" CI_TOTAL="95" DF="6.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.4139355173053591" ESTIMABLE="YES" EVENTS_1="74" EVENTS_2="175" I2="72.67668409781396" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-0.2756639827520793" LOG_CI_START="-0.4904706328786361" LOG_EFFECT_SIZE="-0.38306730781535775" METHOD="MH" NO="3" P_CHI2="0.0012316267642520362" P_Q="0.0" P_Z="2.7399587622060597E-12" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="7" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="692" TOTAL_2="679" WEIGHT="200.0" Z="6.990455151462725">
+<NAME>Total failure by day 14</NAME>
+<GROUP_LABEL_1>Combination</GROUP_LABEL_1>
+<GROUP_LABEL_2>SP</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours combination</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours SP</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="21.948538343813038" CI_END="0.46573512803965283" CI_START="0.2451190268415257" DF="3.0" EFFECT_SIZE="0.3378765179040903" ESTIMABLE="YES" EVENTS_1="42" EVENTS_2="124" I2="86.3316638538454" ID="CMP-001.03.01" LOG_CI_END="-0.33186100420076936" LOG_CI_START="-0.6106229762568339" LOG_EFFECT_SIZE="-0.47124199022880175" NO="1" P_CHI2="6.685962207531038E-5" P_Z="3.435854595153398E-11" STUDIES="5" TAU2="0.0" TOTAL_1="487" TOTAL_2="484" WEIGHT="100.0" Z="6.6265661850438455">
+<NAME>AQ plus SP</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="9" O_E="0.0" SE="0.0" STUDY_ID="STD-Basco-2002" TOTAL_1="62" TOTAL_2="62" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.49269749906822696" CI_START="0.02857009595126314" EFFECT_SIZE="0.11864406779661017" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="16" LOG_CI_END="-0.3074196421976407" LOG_CI_START="-1.544088301058134" LOG_EFFECT_SIZE="-0.9257539716278873" ORDER="10" O_E="0.0" SE="0.7264252918232433" STUDY_ID="STD-Dorsey-2002" TOTAL_1="59" TOTAL_2="56" VAR="0.5276937046004843" WEIGHT="13.220796415123953"/>
+<DICH_DATA CI_END="0.17997307296204085" CI_START="0.003502700537976104" EFFECT_SIZE="0.025107604017216643" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="41" LOG_CI_END="-0.7447924678899528" LOG_CI_START="-2.4555969909334774" LOG_EFFECT_SIZE="-1.600194729411715" ORDER="11" O_E="0.0" SE="1.0049350454547354" STUDY_ID="STD-Gasasira-2003" TOTAL_1="136" TOTAL_2="140" VAR="1.0098944455831114" WEIGHT="32.53847140304165"/>
+<DICH_DATA CI_END="1.1669616523710737" CI_START="0.48329196483706605" EFFECT_SIZE="0.7509881422924901" ESTIMABLE="YES" EVENTS_1="24" EVENTS_2="33" LOG_CI_END="0.06705658489089655" LOG_CI_START="-0.3157904253368744" LOG_EFFECT_SIZE="-0.12436692022298895" ORDER="12" O_E="0.0" SE="0.22488622893105745" STUDY_ID="STD-Schellenberg-2002" TOTAL_1="92" TOTAL_2="95" VAR="0.050573815962831975" WEIGHT="26.14830995862626"/>
+<DICH_DATA CI_END="0.7320780150907343" CI_START="0.23958064936953105" EFFECT_SIZE="0.4187979539641944" ESTIMABLE="YES" EVENTS_1="15" EVENTS_2="34" LOG_CI_END="-0.1354426351738117" LOG_CI_START="-0.6205482622902805" LOG_EFFECT_SIZE="-0.3779954487320461" ORDER="13" O_E="0.0" SE="0.2849534466797959" STUDY_ID="STD-Staedke-2001" TOTAL_1="138" TOTAL_2="131" VAR="0.08119846677469526" WEIGHT="28.092422223208143"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.900640159075405" CI_END="0.8803728668840041" CI_START="0.40065963162176016" DF="2.0" EFFECT_SIZE="0.5939106570314578" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="51" I2="0.0" ID="CMP-001.03.02" LOG_CI_END="-0.05533335088032066" LOG_CI_START="-0.3972244126136888" LOG_EFFECT_SIZE="-0.22627888174700472" NO="2" P_CHI2="0.6374241206924733" P_Z="0.00947604092523033" STUDIES="3" TAU2="0.0" TOTAL_1="205" TOTAL_2="195" WEIGHT="100.0" Z="2.5943846349045527">
+<NAME>CQ plus SP</NAME>
+<DICH_DATA CI_END="0.901872555892967" CI_START="0.3782707029305487" EFFECT_SIZE="0.5840821566110398" ESTIMABLE="YES" EVENTS_1="26" EVENTS_2="41" LOG_CI_END="-0.04485482851448703" LOG_CI_START="-0.4221972935164171" LOG_EFFECT_SIZE="-0.23352606101545204" ORDER="14" O_E="0.0" SE="0.22165283181746018" STUDY_ID="STD-Gasasira-2003" TOTAL_1="152" TOTAL_2="140" VAR="0.049129977852699284" WEIGHT="81.33734059344454"/>
+<DICH_DATA CI_END="1.7612889920131998" CI_START="0.07874462051521103" EFFECT_SIZE="0.3724137931034483" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="5" LOG_CI_END="0.24583062078240878" LOG_CI_START="-1.1037791056064217" LOG_EFFECT_SIZE="-0.4289742424120064" ORDER="15" O_E="0.0" SE="0.792767433956689" STUDY_ID="STD-Ndyomugyenyi-2004" TOTAL_1="29" TOTAL_2="27" VAR="0.6284802043422733" WEIGHT="9.867913879763552"/>
+<DICH_DATA CI_END="3.087676088225483" CI_START="0.28212516022422124" EFFECT_SIZE="0.9333333333333333" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="5" LOG_CI_END="0.4896317345151643" LOG_CI_START="-0.5495581812700507" LOG_EFFECT_SIZE="-0.02996322337744321" ORDER="16" O_E="0.0" SE="0.610425300605281" STUDY_ID="STD-Schw_x00f6_bel-2003" TOTAL_1="24" TOTAL_2="28" VAR="0.3726190476190476" WEIGHT="8.794745526791917"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="9.844069450174143" CI_END="0.4268219508336863" CI_START="0.16416843170133372" CI_STUDY="95" CI_TOTAL="95" DF="5.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.2647086894759408" ESTIMABLE="YES" EVENTS_1="20" EVENTS_2="74" I2="49.20799751253737" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="-0.3697532535380984" LOG_CI_START="-0.7847103506026072" LOG_EFFECT_SIZE="-0.5772318020703529" METHOD="MH" NO="4" P_CHI2="0.0797761054891657" P_Q="0.0" P_Z="4.956331705311134E-8" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="7" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="688" TOTAL_2="673" WEIGHT="200.0" Z="5.452869951098417">
+<NAME>Clinical failure by day 14</NAME>
+<GROUP_LABEL_1>Combination</GROUP_LABEL_1>
+<GROUP_LABEL_2>SP</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours combination</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours SP</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="7.048314932941537" CI_END="0.32518318630108506" CI_START="0.07760394663259794" DF="3.0" EFFECT_SIZE="0.15885684950774887" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="52" I2="57.436635159717774" ID="CMP-001.04.01" LOG_CI_END="-0.48787191783022804" LOG_CI_START="-1.1101161916648146" LOG_EFFECT_SIZE="-0.7989940547475212" NO="1" P_CHI2="0.0703737420924635" P_Z="4.818771824366654E-7" STUDIES="5" TAU2="0.0" TOTAL_1="483" TOTAL_2="478" WEIGHT="100.0" Z="5.033391666318689">
+<NAME>AQ plus SP</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="17" O_E="0.0" SE="0.0" STUDY_ID="STD-Basco-2002" TOTAL_1="62" TOTAL_2="62" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.5399260464460873" CI_START="0.009873043430601473" EFFECT_SIZE="0.07301173402868318" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="13" LOG_CI_END="-0.26766572132490696" LOG_CI_START="-2.0055489525606545" LOG_EFFECT_SIZE="-1.1366073369427805" ORDER="18" O_E="0.0" SE="1.0208412126886146" STUDY_ID="STD-Dorsey-2002" TOTAL_1="59" TOTAL_2="56" VAR="1.0421167815235612" WEIGHT="25.244466414723572"/>
+<DICH_DATA CI_END="0.391235956618159" CI_START="0.0014642708541537058" EFFECT_SIZE="0.023934815820743506" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="21" LOG_CI_END="-0.40756123812971334" LOG_CI_START="-2.8343785820315133" LOG_EFFECT_SIZE="-1.6209699100806134" ORDER="19" O_E="0.0" SE="1.425524520747512" STUDY_ID="STD-Gasasira-2003" TOTAL_1="136" TOTAL_2="140" VAR="2.032120159252424" WEIGHT="40.103557820459756"/>
+<DICH_DATA CI_END="2.4624941002198795" CI_START="0.14953469563733957" EFFECT_SIZE="0.6068181818181818" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="5" LOG_CI_END="0.3913751986640574" LOG_CI_START="-0.8252580289072817" LOG_EFFECT_SIZE="-0.21694141512161222" ORDER="20" O_E="0.0" SE="0.7146563803070096" STUDY_ID="STD-Schellenberg-2002" TOTAL_1="88" TOTAL_2="89" VAR="0.5107337419135172" WEIGHT="9.409099953483842"/>
+<DICH_DATA CI_END="0.8729653451257039" CI_START="0.09772837850382386" EFFECT_SIZE="0.29208472686733555" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="13" LOG_CI_END="-0.059002996522848135" LOG_CI_START="-1.0099793069258451" LOG_EFFECT_SIZE="-0.5344911517243467" ORDER="21" O_E="0.0" SE="0.5586081921393771" STUDY_ID="STD-Staedke-2001" TOTAL_1="138" TOTAL_2="131" VAR="0.3120431123252232" WEIGHT="25.242875811332816"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.38086345272966204" CI_END="0.9941848610521126" CI_START="0.26179979088565203" DF="1.0" EFFECT_SIZE="0.510173880873104" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="22" I2="0.0" ID="CMP-001.04.02" LOG_CI_END="-0.0025328543649814667" LOG_CI_START="-0.5820307046807698" LOG_EFFECT_SIZE="-0.29228177952287565" NO="2" P_CHI2="0.5371418162128848" P_Z="0.048030654928746544" STUDIES="3" TAU2="0.0" TOTAL_1="205" TOTAL_2="195" WEIGHT="100.00000000000001" Z="1.9770971053298674">
+<NAME>CQ plus SP</NAME>
+<DICH_DATA CI_END="0.9642059521090163" CI_START="0.2414047816787884" EFFECT_SIZE="0.4824561403508772" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="21" LOG_CI_END="-0.015830191915319605" LOG_CI_START="-0.6172541317691378" LOG_EFFECT_SIZE="-0.3165421618422287" ORDER="22" O_E="0.0" SE="0.3532793993666491" STUDY_ID="STD-Gasasira-2003" TOTAL_1="152" TOTAL_2="140" VAR="0.12480633401686034" WEIGHT="95.94894561598225"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="23" O_E="0.0" SE="0.0" STUDY_ID="STD-Ndyomugyenyi-2004" TOTAL_1="29" TOTAL_2="27" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="17.668936688703905" CI_START="0.07703412690257114" EFFECT_SIZE="1.1666666666666667" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.2472104145818428" LOG_CI_START="-1.1133168353206162" LOG_EFFECT_SIZE="0.06694678963061322" ORDER="24" O_E="0.0" SE="1.3865853913910413" STUDY_ID="STD-Schw_x00f6_bel-2003" TOTAL_1="24" TOTAL_2="28" VAR="1.9226190476190474" WEIGHT="4.051054384017759"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="3.6730799763951323" CI_END="0.5998602201298378" CI_START="0.14323495156471294" CI_STUDY="95" CI_TOTAL="95" DF="5.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.29312275513152397" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="31" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="-0.22194993744732" LOG_CI_START="-0.8439509944614845" LOG_EFFECT_SIZE="-0.5329504659544022" METHOD="MH" NO="5" P_CHI2="0.5973753307288976" P_Q="0.0" P_Z="7.830434265382301E-4" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="7" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="711" TOTAL_2="692" WEIGHT="200.0" Z="3.358720076228686">
+<NAME>Early treatment failure</NAME>
+<GROUP_LABEL_1>Combination</GROUP_LABEL_1>
+<GROUP_LABEL_2>SP</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours combnation</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours SP</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="2.6419030972831075" CI_END="0.5723507166806434" CI_START="0.09081234101298978" DF="3.0" EFFECT_SIZE="0.22798357059716318" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="23" I2="0.0" ID="CMP-001.05.01" LOG_CI_END="-0.2423377690337023" LOG_CI_START="-1.0418551286854096" LOG_EFFECT_SIZE="-0.642096448859556" NO="1" P_CHI2="0.45019075749099013" P_Z="0.0016432756825075785" STUDIES="5" TAU2="0.0" TOTAL_1="506" TOTAL_2="497" WEIGHT="100.00000000000001" Z="3.148114044488108">
+<NAME>AQ plus SP</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="25" O_E="0.0" SE="0.0" STUDY_ID="STD-Basco-2002" TOTAL_1="62" TOTAL_2="62" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.0672022161173609" CI_START="0.017227776633359372" EFFECT_SIZE="0.13559322033898305" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="7" LOG_CI_END="0.028246718415185314" LOG_CI_START="-1.7637707677155865" LOG_EFFECT_SIZE="-0.8677620246502007" ORDER="26" O_E="0.0" SE="1.0526399419828354" STUDY_ID="STD-Dorsey-2002" TOTAL_1="59" TOTAL_2="56" VAR="1.1080508474576272" WEIGHT="30.24603021093933"/>
+<DICH_DATA CI_END="1.189778468926078" CI_START="0.0039568398011199804" EFFECT_SIZE="0.06861313868613139" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="7" LOG_CI_END="0.07546610535949357" LOG_CI_START="-2.40265153247291" LOG_EFFECT_SIZE="-1.1635927135567081" ORDER="27" O_E="0.0" SE="1.4556585673428988" STUDY_ID="STD-Gasasira-2003" TOTAL_1="136" TOTAL_2="140" VAR="2.1189418646787805" WEIGHT="31.12814242862472"/>
+<DICH_DATA CI_END="2.383102031344949" CI_START="0.14300835705996723" EFFECT_SIZE="0.5837837837837838" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="5" LOG_CI_END="0.37714263684980825" LOG_CI_START="-0.8446385826819364" LOG_EFFECT_SIZE="-0.23374797291606406" ORDER="28" O_E="0.0" SE="0.717680336267523" STUDY_ID="STD-Schellenberg-2002" TOTAL_1="111" TOTAL_2="108" VAR="0.515065065065065" WEIGHT="21.343470521003493"/>
+<DICH_DATA CI_END="2.0956713520455508" CI_START="0.026874553607427333" EFFECT_SIZE="0.23731884057971014" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="4" LOG_CI_END="0.32132317660169746" LOG_CI_START="-1.5706587407485668" LOG_EFFECT_SIZE="-0.6246677820734347" ORDER="29" O_E="0.0" SE="1.1113595437130803" STUDY_ID="STD-Staedke-2001" TOTAL_1="138" TOTAL_2="131" VAR="1.2351200354021463" WEIGHT="17.282356839432467"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.49273161288304956" CI_END="1.5544948045168339" CI_START="0.1491552336667614" DF="1.0" EFFECT_SIZE="0.4815195071868584" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="8" I2="0.0" ID="CMP-001.05.02" LOG_CI_END="0.1915892748684737" LOG_CI_START="-0.8263615031955382" LOG_EFFECT_SIZE="-0.3173861141635322" NO="2" P_CHI2="0.48271136626482347" P_Z="0.2216352710120678" STUDIES="3" TAU2="0.0" TOTAL_1="205" TOTAL_2="195" WEIGHT="100.0" Z="1.2221914189931957">
+<NAME>CQ plus SP</NAME>
+<DICH_DATA CI_END="1.496813497306499" CI_START="0.10409925805427792" EFFECT_SIZE="0.39473684210526316" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="7" LOG_CI_END="0.17516769069939872" LOG_CI_START="-0.9825523658216565" LOG_EFFECT_SIZE="-0.40369233756112893" ORDER="30" O_E="0.0" SE="0.6800504920071729" STUDY_ID="STD-Gasasira-2003" TOTAL_1="152" TOTAL_2="140" VAR="0.462468671679198" WEIGHT="88.75770020533881"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="31" O_E="0.0" SE="0.0" STUDY_ID="STD-Ndyomugyenyi-2004" TOTAL_1="29" TOTAL_2="27" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="17.668936688703905" CI_START="0.07703412690257114" EFFECT_SIZE="1.1666666666666667" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.2472104145818428" LOG_CI_START="-1.1133168353206162" LOG_EFFECT_SIZE="0.06694678963061322" ORDER="32" O_E="0.0" SE="1.3865853913910413" STUDY_ID="STD-Schw_x00f6_bel-2003" TOTAL_1="24" TOTAL_2="28" VAR="1.9226190476190474" WEIGHT="11.242299794661191"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2008-11-10 15:35:50 +0000" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2008-11-10 15:35:50 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2008-11-10 15:29:13 +0000" MODIFIED_BY="[Empty name]">Search methods: detailed search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2008-11-10 15:35:50 +0000" MODIFIED_BY="[Empty name]">
+<TABLE COLS="7" ROWS="14">
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Search set</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>CIDG SR<SUP>a</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>CENTRAL</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>MEDLINE<SUP>b</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>EMBASE<SUP>b</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>LILACS<SUP>b</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>SCI</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1<BR/>
+<BR/>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>chloroquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>malaria</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>malaria</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>malaria</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>malaria</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>malaria</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>amodiaquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>chloroquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>chloroquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>chloroquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>chloroquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>chloroquine</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulfadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>amodiaquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>amodiaquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>amodiaquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>amodiaquine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>amodiaquine</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulphadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulfadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulfadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulfadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulfadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulfadoxine</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>fansidar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulphadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulphadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>pyrimethamine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulphadoxine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>sulphadoxine</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>pyrimethamine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>pyrimethamine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4 and 5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>pyrimethamine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>pyrimethamine</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4 or 5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4 or 5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>fansidar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4 or 5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4 or 5</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>6 and 7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>6 and 7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>6 or 7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>6 and 7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>6 and 7</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>9</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>fansidar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>fansidar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2 or 3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>fansidar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>fansidar</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8 or 9</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8 or 9</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8 and 9</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8 or 9</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8 and 9</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>11</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2 or 3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2 or 3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 and 10</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2 or 3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2 or 3</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>12</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10 and 11</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10 and 11</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10 and 11</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10 and 11</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>13</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 and 12</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 and 12</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 and 12</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 and 12</P>
+</TD>
+</TR>
+</TABLE>
+<P>
+<SUP>a</SUP>Cochrane Infectious Diseases Group Specialized Register.<BR/>
+<SUP>b</SUP>Search terms used in combination with the search strategy for retrieving trials developed by The Cochrane Collaboration (<LINK REF="REF-Higgins-2005" TYPE="REFERENCE">Higgins 2005</LINK>); upper case: MeSH or EMTREE heading; lower case: free text term.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2008-11-10 15:29:45 +0000" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2008-11-10 15:29:29 +0000" MODIFIED_BY="[Empty name]">Assessment of the risk of bias in the trials<SUP>a</SUP>
+</TITLE>
+<APPENDIX_BODY MODIFIED="2008-11-10 15:29:45 +0000" MODIFIED_BY="[Empty name]">
+<TABLE COLS="5" ROWS="13">
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Trial</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Generation of allocation sequence</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Allocation concealment</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Blinding</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Inclusion of randomized participants in final analysis<SUP>b</SUP>
+</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Bojang-1998" TYPE="STUDY">Bojang 1998</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Double (participants and investigators)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Inadequate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Appears adequate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Single (microscopist)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Single (participants)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Single (outcome assessors)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Inadequate (differential loss to follow up)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Double</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Ndyomugyenyi-2004" TYPE="STUDY">Ndyomugyenyi 2004</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Inadequate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schapira-1988" TYPE="STUDY">Schapira 1988</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Single (microscopist)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Inadequate</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>
+<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>
+</P>
+</TD>
+<TD>
+<P>Unclear</P>
+</TD>
+<TD>
+<P>Unclear</P>
+</TD>
+<TD>
+<P>None</P>
+</TD>
+<TD>
+<P>Inadequate</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>
+<LINK REF="STD-Schw_x00f6_bel-2003" TYPE="STUDY">Schwöbel 2003</LINK>
+</P>
+</TD>
+<TD>
+<P>Unclear</P>
+</TD>
+<TD>
+<P>Unclear </P>
+</TD>
+<TD>
+<P>Not reported </P>
+</TD>
+<TD>
+<P>Adequate </P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate </P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Unclear </P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Single (microscopist) </P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adequate </P>
+</TD>
+</TR>
+</TABLE>
+<P>
+<SUP>a</SUP>See '<LINK TAG="QUALITY_ASSESSMENT" TYPE="SECTION">Assessment of risk of bias in included studies</LINK>' for the assessment methods and the '<LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>' for the methods used in each trial.<BR/>
+<SUP>b</SUP>For primary outcomes.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-03" MODIFIED="2008-11-10 15:30:10 +0000" MODIFIED_BY="[Empty name]" NO="3">
+<TITLE MODIFIED="2008-11-10 15:29:52 +0000" MODIFIED_BY="[Empty name]">Total failure: method used to derive total failure values from reported data</TITLE>
+<APPENDIX_BODY MODIFIED="2008-11-10 15:30:10 +0000" MODIFIED_BY="[Empty name]">
+<TABLE COLS="6" ROWS="28">
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Trial</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Comparison</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>No. randomized/enrolled</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Day</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Total failure</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Data to derive total failure</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="4" VALIGN="TOP">
+<P>
+<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>65 randomized<BR/>
+<BR/>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/59</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>59/59 had ACR with negative smear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>64 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>9/59</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>50/59 had ACR with negative smear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>65 randomized</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/62</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>62/62 had ACR with negative smear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>64 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/62</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>62/62 had ACR with negative smear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Bojang-1998" TYPE="STUDY">Bojang 1998</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>202 randomized and enrolled</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>7/141<BR/>
+<BR/>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>5% of participants followed up at day 28 were parasitaemic</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>203 randomized and enrolled</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>15/150</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10% of participants followed up at day 28 were parasitaemic</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>At least 50% of participants were not included in the analysis because of dropout before day 21</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3/30</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>27/30 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>At least 50% of participants were not included in the analysis because of dropout before day 21</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4/29</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>25/29 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>59 treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2/59</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Data from investigator</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>57 treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>16/56</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Data from investigator</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>
+<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>172 randomized; 143 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1/136</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>135/136 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>170 randomized; 158 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>26/152</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>126/152 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>171 randomized; 147 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>41/140</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>99/140 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>48 randomized</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/46</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>46/46 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>21 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1/20</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>19/20 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Ndyomugyenyi-2004" TYPE="STUDY">Ndyomugyenyi 2004</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>47 randomized</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2/29</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>27/29 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>41 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>5/27</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>22/27 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schapira-1988" TYPE="STUDY">Schapira 1988</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>50 randomized; 28 treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/22</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>22/22 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>50 randomized; 35 treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4/25</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>21/25 had parasitological success</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="4" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>121 randomized; 119 treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>32/84</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Trial author reports that none of the participants with ETF fulfilled criteria for R1-3 resistance and were excluded from the analysis of parasitological efficacy; we therefore added the 3 ETFs to the numerator and denominator for parasitological failures to obtain total failure</P>
+<P>52/81 had parasitological success = 29/81 failure + 3 ETF<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>120 randomized; 117 treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>38/87</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>49/82 had parasitological success = 33/82 failure + 5 ETF</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>121 randomized; 119 treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>24/92</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>68/89 had parasitological success = 21/89 failure + 3 ETF</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>120 randomized; 117 treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>33/95</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>62/90 had parasitological success = 28/90 failure + 5 ETF</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schw_x00f6_bel-2003" TYPE="STUDY">Schwöbel 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>29 randomized</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4/24</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>20/24 had ACPR</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>30 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>5/28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>23/28 had ACPR</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>220 randomized; 149 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>15/138</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>LPF was not available from the paper, but we were able to derive it from available data as:<BR/>LPF = ACR-S<BR/>So TF = (ACR-S) + ETF + LTF<BR/>= (134-123) + 1 + 3 = 15<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>232 randomized; 149 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>34/131</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>ACR-S + ETF + LTF = 118-97 (21) + 4 + 9 = 34</P>
+</TD>
+</TR>
+</TABLE>
+<P>ACPR: adequate clinical and parasitological response; ACR: adequate clinical response; ACR-S: adequate clinical response minus parasitological success; AQ: amodiaquine; CQ: chloroquine; ETF: early treatment failure; LPF: late parasitological failure; LTF: late treatment failure; SP: sulfadoxine-pyrimethamine.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-04" MODIFIED="2008-11-10 15:30:31 +0000" MODIFIED_BY="[Empty name]" NO="4">
+<TITLE MODIFIED="2008-11-10 15:30:17 +0000" MODIFIED_BY="[Empty name]">Clinical failure: method used to derive clinical failure values from reported data</TITLE>
+<APPENDIX_BODY MODIFIED="2008-11-10 15:30:31 +0000" MODIFIED_BY="[Empty name]">
+<TABLE COLS="6" ROWS="20">
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Trial</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Comparison</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>No. randomized/enrolled</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Day</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Clinical failure</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Data to derive clinical failure</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="4" VALIGN="TOP">
+<P>
+<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>65 randomized</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/59</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>No participants with ETF or ACR with positive smear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>64 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8/59</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>No participants with ETF, 9 participants with ACR with positive smear, including 1 with LPF</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>65 randomized</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/62</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>No participants with ETF or ACR with positive smear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>64 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/62</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>No participants with ETF or ACR with positive smear</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="4" VALIGN="TOP">
+<P>
+<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>59 treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4/55</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Data from investigator</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>57 treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>19/54</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Data from investigator</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>59 treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1/59</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Data from investigator</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>57 treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>13/56</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Data from investigator</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>
+<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>172 randomized; 143 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/136</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>All 136 participants had ACR</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>170 randomized; 158 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>11/152</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>141/152 participants had ACR</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>171 randomized; 147 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>21/140</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>119/140 participants had ACR</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Ndyomugyenyi-2004" TYPE="STUDY">Ndyomugyenyi 2004</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>47 randomized</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/29</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>All 29 participants had ACR</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>41 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0/27</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>All 27 participants had ACR</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP, SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>121 randomized; 119 treated<BR/>
+<BR/>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>28, 14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Reported cumulative clinical failure rate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>120 randomized; 117 treated</P>
+</TD>
+<TD>
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Reported cumulative clinical failure rate</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schw_x00f6_bel-2003" TYPE="STUDY">Schwöbel 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>29 randomized<BR/>
+<BR/>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1/24</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Trial author reports that all LTFs were LPFs, therefore clinical failure = ETF</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>30 randomized</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1/28</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Trial author reports that all LTFs were LPFs, therefore clinical failure = ETF<BR/>
+<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>220 randomized; 149 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4/138</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Clinical failure = ETF + LTF</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>232 randomized; 149 enrolled/treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>13/131</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Clinical failure = ETF + LTF</P>
+</TD>
+</TR>
+</TABLE>
+<P>ACR: adequate clinical response; AQ: amodiaquine; CQ: chloroquine; ETF: early treatment failure; LCF: late clinical failure; LPF: late parasitological failure; LTF: late treatment failure; S: parasitological success; SP: sulfadoxine-pyrimethamine.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-05" MODIFIED="2008-11-10 15:31:12 +0000" MODIFIED_BY="[Empty name]" NO="5">
+<TITLE MODIFIED="2008-11-10 15:30:40 +0000" MODIFIED_BY="[Empty name]">Adverse events<SUP>a</SUP>
+</TITLE>
+<APPENDIX_BODY MODIFIED="2008-11-10 15:31:12 +0000" MODIFIED_BY="[Empty name]">
+<TABLE COLS="7" ROWS="13">
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Trial</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Comparison</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Exclusion criteria</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Baseline</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Data collection</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Attrition</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Findings</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Basco-2002" TYPE="STUDY">Basco 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Signs of severe/complicated malaria, severe malnutrition, concomitant infectious disease, sulphonamides allergy</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those followed up to day 14 (range): age; sex; fever duration; self-medication; temperature; P. falciparum density; packed cell volume; P &gt; 0.05; and look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Side effects data for those followed up to day 14</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>None of the events reported were identified as fatal, life threatening, required hospitalization, or resulted in treatment discontinuation</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Bojang-1998" TYPE="STUDY">Bojang 1998</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Severe malaria, coexisting illness.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those treated (range, sd): age; sex; temperature; respiratory rate; P. falciparum density; packed cell volume; look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Number assessed for adverse events not explicit</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Darlow-1982" TYPE="STUDY">Darlow 1982</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Cerebral symptoms, severe malaria or second diagnosis, antimalarials in previous week</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>No baseline data shown. Reported no difference in age or initial parasite count between groups</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Side effects were noted together with clinical course while patients were hospitalized at start of trial</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Number assessed for adverse events not explicit</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2 participants in the SP group were found to have glucose-6-phosphate dehydrogenase deficiency but neither developed haemolysis</P>
+<P>7 patients who vomited following CQ plus SP were given only SP the second time (no explanation given)<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Dinis-1990" TYPE="STUDY">Dinis 1990</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Complicated malaria, pregnancy, allergy to study drugs, antimalarials in previous 8 days</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data probably for those evaluated (sem): age; P. falciparum density; sulfadoxine mg/kg; histograms of % with symptoms on day 0; look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adverse effects data probably for those evaluated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>There were no major adverse events (A. Schapira, personal communication)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Dorsey-2002" TYPE="STUDY">Dorsey 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Complicated malaria, sickle cell disease, history of adverse reaction to study drugs.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data averaged over every episode treated during the 1-year study and with full follow up (range, CI, sd): temperature; P. falciparum density; haemoglobin; look similar. No data for only first episode uncomplicated P. falciparum</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>No data for only first episode uncomplicated P. falciparum as included in this review</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Reported that there were no severe adverse reactions</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Gasasira-2003" TYPE="STUDY">Gasasira 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP; CQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Danger signs or symptoms of severe malaria, concomitant febrile illness, sulpha drugs allergy.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those with complete follow up (CI): age; sex; temperature; haemoglobin; P. falciparum density; antimalarials in previous 2 weeks; CQ urine test; look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>History taking on follow up days and any day patients felt unwell, including assessment of adverse events; if an adverse event was suspected a separate adverse event form was completed Clinicians assessed causal relationship; if 'unlikely', excluded from analysis Adverse events graded mild, moderate, severe using WHO Toxicity Grading Scale &amp; National Institute Allergy Infectious Diseases, Division Microbial Infectious Diseases paediatric toxicity tables</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adverse events data for those with complete follow up. &lt; 1% were excluded for post-enrolment withdrawal of consent</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 severe event in SP group: d14 elevated serum alanine aminotransferase (ALT) 500 IU/L (normal 0 to 32) and other liver enzymes, in 3-year old child; asymptomatic, resolved within 2 weeks without treatment</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Huang-1988" TYPE="STUDY">Huang 1988</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Severe symptoms, renal insufficiency, pregnancy, antimalarials in previous 28 days</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>No baseline data shown</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Adverse reactions data for those treated</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Incomplete reporting of adverse event severity by treatment received</P>
+<P>Report says most adverse reactions were mild and didn't require special treatment</P>
+<P>Sinus bradycardia AQ plus SP 8/48, SP 0/21<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Ndyomugyenyi-2004" TYPE="STUDY">Ndyomugyenyi 2004</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Signs of complicated malaria, other febrile illness, haemoglobin &lt; 8 g/dL</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those who did and did not complete follow up (range, sd): age; symptoms duration; haemoglobin; P. falciparum density; antimalarials and CQ in previous 2 weeks; look similar except CQ in previous 2 weeks twice as common in CQ plus SP group as SP group (P = 0.007)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Symptoms that could be assumed to be treatment side effects were asked for on follow up days</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Number assessed for adverse events not explicit. 21/88 were excluded for post-treatment withdrawal of consent</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Reported that there were no major adverse events in either group</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schapira-1988" TYPE="STUDY">Schapira 1988</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Severe symptoms, antimalarials in previous 14 d</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those evaluated (sd): age; P. falciparum density; treatment dose/weight; look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not applicable</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schellenberg-2002" TYPE="STUDY">Schellenberg 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Signs of severe/complicated malaria, chronic underlying disease, sensitivity to study drugs</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those treated (range, CI): age; sex; temperature; weight; packed cell volume; P. falciparum density; symptoms; look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Standard form to facilitate detection of adverse events at all contact points; symptom report form based on NIH common toxicity criteria completed on follow up days</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Safety data for those who were evaluable; 13/361were withdrawn after randomization for unspecified reasons</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Reported that there were no drug-related severe adverse reactions</P>
+<P>1 death in SP group was clinically assessed as progression of malaria.</P>
+<P>Breathing problems: AQ plus SP 10/104, SP17/99<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Schw_x00f6_bel-2003" TYPE="STUDY">Schwöbel 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>CQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Signs of severe malaria/danger signs, other febrile illness, pregnancy</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those evaluated (% only): age; sex; P. falciparum density; antimalarials and any drug use in previous week; look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not applicable; 5/119 were excluded for post-enrolment withdrawal of consent</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Staedke-2001" TYPE="STUDY">Staedke 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>AQ plus SP versus SP</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Severe symptoms, &lt; 5 kg, other febrile illness, sulfa drugs allergy</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Baseline data for those evaluated (% only): age; sex; temperature; symptoms duration; packed cell volume; P. falciparum density; antimalarials/CQ in past 2 weeks; SP in past 4 weeks; CQ urine test; palpable spleen; recent antimalarials looks a bit higher in AQ plus SP group; otherwise look similar</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Patients monitored for potential adverse drug events (no further details)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Number assessed for adverse events not explicit; 1/298 were excluded for post-enrolment non-compliance</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Reported that no severe adverse events were recorded during the stud</P>
+</TD>
+</TR>
+</TABLE>
+<P>AQ: amodiaquine; CI: confidence interval; CQ: chloroquine; <I>P. falciparum</I>: <I>Plasmodium falciparum</I>; sd: standard deviation; sem: standard error of the mean; SP: sulfadoxine-pyrimethamine.<BR/>
+<SUP>a</SUP>The terms adverse reactions, side effects, and safety appear in the table as used by the trial authors. These terms were not always used consistently within the same report and are unlikely to fit any one system of defining harms</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

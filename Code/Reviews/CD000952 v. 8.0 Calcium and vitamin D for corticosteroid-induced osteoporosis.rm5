@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD000952" GROUP_ID="MUSKEL" ID="213399082413034363" MERGED_FROM="" MODIFIED="2010-05-25 15:29:46 -0400" MODIFIED_BY="Michelle Foote" REVIEW_NO="C096-R" REVMAN_SUB_VERSION="5.0.24" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="8.0">
+<COVER_SHEET MODIFIED="2010-05-25 15:29:46 -0400" MODIFIED_BY="Michelle Foote">
+<TITLE>Calcium and vitamin D for corticosteroid-induced osteoporosis</TITLE>
+<CONTACT>
+<PERSON ID="5318" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Joanne</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Homik</LAST_NAME>
+<SUFFIX/>
+<POSITION>Assistant Clinical Professor of Medicine</POSITION>
+<EMAIL_1>joanne.homik@ualberta.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Deparment of Medicine</DEPARTMENT>
+<ORGANISATION>University of Alberta</ORGANISATION>
+<ADDRESS_1>562 Heritage Medical Research Centre</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Edmonton</CITY>
+<ZIP>T6G 2S2</ZIP>
+<REGION>Alberta</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 780 407 8070</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 780 407 6055</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2010-05-25 15:29:46 -0400" MODIFIED_BY="Michelle Foote">
+<PERSON ID="5318" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Joanne</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Homik</LAST_NAME>
+<SUFFIX/>
+<POSITION>Assistant Clinical Professor of Medicine</POSITION>
+<EMAIL_1>joanne.homik@ualberta.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Deparment of Medicine</DEPARTMENT>
+<ORGANISATION>University of Alberta</ORGANISATION>
+<ADDRESS_1>562 Heritage Medical Research Centre</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Edmonton</CITY>
+<ZIP>T6G 2S2</ZIP>
+<REGION>Alberta</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 780 407 8070</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 780 407 6055</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="15002" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Maria</FIRST_NAME>
+<MIDDLE_INITIALS>E</MIDDLE_INITIALS>
+<LAST_NAME>Suarez-Almazor</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>msalmazor@mdanderson.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>General Internal Medicine, Ambulatory Treatment and Emergency Care</DEPARTMENT>
+<ORGANISATION>The University of Texas, M.D. Anderson Cancer Center</ORGANISATION>
+<ADDRESS_1>1515 Holcombe Blvd</ADDRESS_1>
+<ADDRESS_2>Unit 1465</ADDRESS_2>
+<CITY>Houston</CITY>
+<ZIP>77030</ZIP>
+<REGION>Texas</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>1 713 745 4516</PHONE_1>
+<PHONE_2/>
+<FAX_1>1 713 563 4491</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5440" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Beverley</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Shea</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>bevshea@uottawa.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Institute of Population Health</DEPARTMENT>
+<ORGANISATION>University of Ottawa</ORGANISATION>
+<ADDRESS_1>1 Stewart St.</ADDRESS_1>
+<ADDRESS_2>Room 312</ADDRESS_2>
+<CITY>Ottawa</CITY>
+<ZIP>K1N 6N5</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 613 562 5800 ext: 8571</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14918" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Ann</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Cranney</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>ancranney@ohri.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Division of Rheumatology</DEPARTMENT>
+<ORGANISATION>Ottawa Hospital</ORGANISATION>
+<ADDRESS_1>1053 Carling Ave</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Ottawa</CITY>
+<ZIP>K1Y 4E9</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>613-798-5555 ext: 16804</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12662" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>George</FIRST_NAME>
+<MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+<LAST_NAME>Wells</LAST_NAME>
+<SUFFIX>PhD, MSc</SUFFIX>
+<POSITION>Director</POSITION>
+<EMAIL_1>gawells@ottawaheart.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Cardiovascular Research Reference Centre</DEPARTMENT>
+<ORGANISATION>University of Ottawa Heart Institute</ORGANISATION>
+<ADDRESS_1>Room H1-1</ADDRESS_1>
+<ADDRESS_2>40 Ruskin Street</ADDRESS_2>
+<CITY>Ottawa</CITY>
+<ZIP>K1Y 4W7</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 613 798 5555 x18640</PHONE_1>
+<PHONE_2>+1 613 798 5555 x18642</PHONE_2>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5474" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Peter</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Tugwell</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director</POSITION>
+<EMAIL_1>elacasse@uottawa.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Global Health, Institute of Population Health, Department of Medicine</DEPARTMENT>
+<ORGANISATION>Ottawa Hospital</ORGANISATION>
+<ADDRESS_1>1 Stewart Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Ottawa</CITY>
+<ZIP>K1N 6N5</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>613-562-5800 ext: 1945</PHONE_1>
+<PHONE_2/>
+<FAX_1>613-562-5659</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-09-19 14:57:00 -0400" MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="30" MONTH="11" YEAR="1997"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="30" MONTH="11" YEAR="1997"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="30" MONTH="12" YEAR="2000"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR=""/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="1998"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="1998"/>
+</DATES>
+<WHATS_NEW MODIFIED="2008-09-19 14:54:50 -0400" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2008-09-19 14:54:50 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="19" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format. C096-R</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2008-09-19 14:54:56 -0400" MODIFIED_BY="[Empty name]"/>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-10-03 10:37:42 -0400" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-10-03 10:37:42 -0400" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-10-03 10:31:34 -0400" MODIFIED_BY="[Empty name]">Calcium and vitamin D for treating osteoporosis caused by the use of steroids</TITLE>
+<SUMMARY_BODY MODIFIED="2008-10-03 10:37:42 -0400" MODIFIED_BY="[Empty name]">
+<P>Corticosteroids are widely used to treat inflammation. Bone loss (osteoporosis) is a serious side effect of this therapy. We reviewed a total of 5 trials which included 742 patients. We found that after two years of treatment, the bone mineral density of the lumbar spine and forearm of patients taking calcium and vitamin D therapy improved more than patients who had no treatment. There was no difference in the number of fractures or laboratory measures of bone density between the two groups. We found that calcium and vitamin D is effective at preventing and treating corticosteroid-induced bone loss at the lumbar spine and forearm. The treatment appears to be safe. </P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Osteoporosis and subsequent fracture are a major cause of morbidity and mortality. It is defined by low bone mass, and has many etiologies with different patterns of bone loss. Corticosteroid therapy is a contributor to the development of osteoporosis. Steroids cause bone loss by a variety of complex mechanisms. It has been suggested that patients initiating steroids should receive preventative therapy (calcium, Vitamin D, estrogens or bisphosphonates). </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the effects of calcium and vitamin D compared to calcium alone or placebo in the prevention of bone loss in patients taking systemic corticosteroids.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Musculoskeletal trials register, Cochrane Controlled Trials Register, EMBASE and MEDLINE up to 1996. We also conducted a hand search of abstracts from various scientific meetings and reference lists of selected trials.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomized trials comparing calcium and vitamin D to calcium alone or placebo in patients taking systemic corticosteroids.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Data was abstracted from trials by two investigators. Methodological quality was assessed in a similar manner. Analysis was performed using fixed effects models.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Five trials were included, with 274 patients. The analysis was performed at two years after starting calcium and vitamin D. There was a significant weighted mean difference (WMD) between treatment and control groups in lumbar (WMD 2.6 (95% CI 0.7, 4.5), and radial bone mineral density (WMD 2.5 (95%CI 0.6, 4.4). The other outcome measures (femoral neck bone mass, fracture incidence, biochemical markers of bone resorption) were not significantly different.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>This meta-analysis demonstrated a clinically and statistically significant prevention of bone loss at the lumbar spine and forearm with vitamin D and calcium in corticosteroid treated patients. Because of low toxicity and cost all patients being started on corticosteroids should receive prophylactic therapy with calcium and vitamin D.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P>Osteoporosis and subsequent fracture are a major cause of morbidity and mortality. It is a disease state defined by low bone mass, and has many etiologies with different patterns of bone loss. Involutional or senile osteoporosis causes loss of both cortical and trabecular bone, whereas post-menopausal and steroid-induced osteoporosis affect trabecular bone the most. Because of this differential effect, vertebral collapse is the most common fracture in postmenopausal women and patients on steroids. </P>
+<P>Patients with inflammatory disorders are uniquely at risk for osteoporosis due to their underlying diseases, as well as, the frequent administration of corticosteroids. Steroids are most commonly used to treat asthma and other inflammatory lung disorders, connective tissue disease, inflammatory bowel disease, and transplant recipients.</P>
+<P>Corticosteroid therapy is a contributor to the development of osteoporosis in these populations. Steroids cause bone loss by a variety of mechanisms. They act to decrease absorption of calcium from the intestine, and increase urinary calcium loss. This leads to the development of secondary hyperparathyroidism, which results in bone resorption. Steroids may also directly inhibit osteoblasts from laying down new bone. Male rheumatoid arthritis patients on steroids have been shown to have lower testosterone levels, presumably on the basis of suppressed hypothalmic-pituitary-testicular axis. </P>
+<P>It has been suggested that patients initiating steroids should receive preventative therapy (calcium, Vitamin D, estrogens or bisphosphonates). It is not yet common practice for patients to receive osteoporosis prophylaxis at the time they begin steroid therapy. In a recent study of hospitalized patients, only 5.6% were started on a prophylactic agent as well as steroid.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To determine the efficacy of vitamin D and calcium in the prevention and treatment of steroid induced osteoporosis.</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Initially all randomized controlled trials (RCTs) and controlled clinical trials (CCTs) were selected for further assessment.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Men or women over the age of 18, with any underlying disease that requires therapy with systemic corticosteroids. Participants must be taking corticosteroids throughout the duration of the trial, and have not received prior therapy with vitamin D, calcitonin, or bisphosphonates in the preceding six months.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>RCTs and CCTs that use Vitamin D (cholecalciferol), di-hydroxy vitamin D (calcitriol), with calcium as compared to calcium alone or placebo in the treatment of corticosteroid-induced osteoporosis will be assessed.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>The primary outcome measure is percent change from baseline in bone mineral density at 12 months at the lumbar spine, distal radius, and femoral neck. Secondary outcome measures will include 24 hr hydroxyproline excretion, fracture incidence and drop-outs due to side effects.</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>MEDLINE and EMBASE were used to identify all clinical trials relating to the treatment of osteoporosis. We used the MEDLINE search strategy developed by <LINK REF="REF-Dickersin-1994" TYPE="REFERENCE">Dickersin 1994</LINK> and adopted and modified for the Cochrane Musculoskeletal Group (CMSG) (see review group for details). We searched the years 1966 -1996. Keywords added to the search included: bone diseases, osteoporosis, anti-inflammatory agents;steroidal, corticosteroid. </P>
+<P>Similar strategies were developed for searching EMBASE from 1988 - 1996.</P>
+<P>All foreign language journals were included in the search.</P>
+<P>An electronic search in Current Contents was performed for the last 6 months of 1997.</P>
+<P>The Cochrane Controlled Trials Register (CCTR) was also searched. </P>
+<P>The lists of references were manually searched to add any citations missed by the electronic searches. Abstracts from the following scientific meetings were manually checked: American Society for Bone and Mineral Research, American College of Rheumatology, and the Canadian Rheumatology Association.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>Selecting trials for inclusion in systematic review. After fulfilling the initial criteria, the following criteria must also be met:</P>
+<P>Randomized allocation of patients into treatment groups. We searched for the words random and randomized in the methods of allocation of the trial.</P>
+<P>Blinding of the study participants and investigators to the study group allocation. </P>
+<P>An adequate description of the intervention medications in terms of dosage schedule and administration had to be reported, as well as documentation of withdrawals and dropouts.</P>
+<P>Assessment of methodological quality:</P>
+<P>Methodological quality of the trials was assessed by two observers (AC, JH) using the criteria of <LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>.</P>
+<P>Methods used to collect data from included trials:</P>
+<P>Data was extracted from the trials by two independent and blinded observers (AC, JH). Agreement between the two was assessed using the kappa statistic.</P>
+<P>Data was extracted for the following time points and outcomes:<BR/>Time Points:<BR/>Twelve months</P>
+<P>Outcomes:<BR/>Efficacy<BR/>Percent change from baseline in bone mineral density<BR/>Biochemical markers of bone resorption (if present)<BR/>Fracture incidence (if present)<BR/>Toxicity<BR/>Number of withdrawals due to side-effects</P>
+<P>Methods to synthesize data:</P>
+<P>For continuous variables such as bone density, biochemical markers, and fracture incidence, we calculated weighted mean differences (WMDs). Dichotomous results including dropouts were summarized as Peto odds ratios (<LINK REF="REF-Petitti-1994" TYPE="REFERENCE">Petitti 1994</LINK>). Fractures were reported as number of patients with fractures in each group, allowing the data to be pooled as odds ratios. Heterogeneity among trials was estimated using the chi square statistic.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>There were five trials that met the inclusion criteria. They were all double blind, placebo controlled trials. All were randomized, except for Adachi (<LINK REF="STD-Adachi-1996" TYPE="STUDY">Adachi 1996</LINK>) which allocated patients by a minimization method. It is not clear whether the minimization included randomization as well.</P>
+<P>Three of the trials enrolled younger patients (<LINK REF="STD-Buckley-1996" TYPE="STUDY">Buckley 1996</LINK>, Dylan 1984; <LINK REF="STD-Sambrook-1993" TYPE="STUDY">Sambrook 1993</LINK>), and two trials enrolled an older age sample (<LINK REF="STD-Adachi-1996" TYPE="STUDY">Adachi 1996</LINK>, <LINK REF="STD-Di-Munno-1989" TYPE="STUDY">Di Munno 1989</LINK>).</P>
+<P>There was a wide range of mean prednisone dosages used (5.6 - 18.9). This may be a source of heterogeneity as a higher daily dose of prednisone is generally felt to cause a higher rate of bone loss.</P>
+<P>The treatments given also differed, as two trials used cholecalciferol (<LINK REF="STD-Adachi-1996" TYPE="STUDY">Adachi 1996</LINK>, <LINK REF="STD-Buckley-1996" TYPE="STUDY">Buckley 1996</LINK>) and the rest used the more active vitamin D metabolite. </P>
+<P>Outcome measures included some type of bone density measurement at one of the three sites in all trials. Most used DEXA densitometry for spine and hip measurements and single photon absorptiometry for forearm measurements.</P>
+<P>Urinary hydroxyproline excretion could only be compared in two studies. Since one study reported amount excreted in 24 hrs, while two reported urinary hydroxyproline as a ratio to creatinine excretion.</P>
+<P>Withdrawals for side-effects were clearly reported in one trial (<LINK REF="STD-Buckley-1996" TYPE="STUDY">Buckley 1996</LINK>). One other trial reported the total number of dropouts for the whole group, and the remaining trials appeared to have no dropouts due to side-effects.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>Using Jadad's method of assessing methodological quality, the studies were given a score out of 5. One study had a score of 2 (<LINK REF="STD-Adachi-1996" TYPE="STUDY">Adachi 1996</LINK>), mainly because it was not randomized. There was one study with a score of 3 (<LINK REF="STD-Di-Munno-1989" TYPE="STUDY">Di Munno 1989</LINK>), two with a score of 4 (Dylan 1984; <LINK REF="STD-Sambrook-1993" TYPE="STUDY">Sambrook 1993</LINK>), and one study with a score of 5 (<LINK REF="STD-Buckley-1996" TYPE="STUDY">Buckley 1996</LINK>).</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>Results were varied for changes in BMD at the three sites reported between treatment and control groups.</P>
+<P>Results at the lumbar spine were similar for the three studies reporting this outcome (<LINK REF="STD-Adachi-1996" TYPE="STUDY">Adachi 1996</LINK>, <LINK REF="STD-Buckley-1996" TYPE="STUDY">Buckley 1996</LINK>, <LINK REF="STD-Sambrook-1993" TYPE="STUDY">Sambrook 1993</LINK>). All reported a positive mean difference in BMD, in the 2.4-3.1 range. That is, the treatment group experienced more bone accrual (or less bone loss) than the controls. All three studies failed to reach statistical significance. When combined, however the result was statistically significant, with a weighted mean difference (WMD) of 2.6 (95% CI 0.7, 4.5). There was no heterogeneity evident between these three trials.</P>
+<P>At the radius, only the <LINK REF="STD-Sambrook-1993" TYPE="STUDY">Sambrook 1993</LINK> study reported a significant positive mean difference in BMD between the two groups. The Di Munno paper reported only a minor difference between groups, with a wide confidence interval. Dylan's paper had results similar to Sambrook's, but just failed to reach statistical significance. When all three trials were combined, the weighted mean difference was significant using a fixed effects model (WMD 2.5 (95%CI 0.6,4.4)). The chi-squared test for heterogeneity was not significant.</P>
+<P>At the femoral neck, only two trials reported results. Both reported slightly positive mean differences, with wide confidence intervals. The summary WMD was likewise slightly positive and not statistically significant (0.4 (95% CI -1.1, 1.8)).</P>
+<P>Dropouts due to adverse effects, could not be summarized numerically because of lack of data. Thus the summary odds ratio is calculated from the one trial reporting dropouts, and was not statistically significant (OR= 1.9 (95% CI 0.5, 6.4)).</P>
+<P>Results for 24-hr hydroxyproline excretion were combined from two trials. The <LINK REF="STD-Sambrook-1993" TYPE="STUDY">Sambrook 1993</LINK> paper reported a significant mean difference between treatment and control groups, with the treatment group lowering their hydroxyproline excretion more than the controls. The <LINK REF="STD-Adachi-1996" TYPE="STUDY">Adachi 1996</LINK> paper reported a non significant difference between groups, with a trend towards the controls lowering their excretion more than the treated group. The summary WMD was not significant (-3.8 (95% CI -8.6, .9).</P>
+<P>Only two studies reported the incidence of new, non-traumatic fractures (Dylan 84, <LINK REF="STD-Sambrook-1993" TYPE="STUDY">Sambrook 1993</LINK>). The summary odds ratio was 0.6 (95% CI 0.1, 2.4). The results were not statistically significant but the magnitude of the effect suggests protection against new fractures in the treatment group.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>The results of this meta-analysis suggest that treatment with calcium and vitamin D in patients on corticosteroids is more effective at retarding lumbar and forearm bone loss than placebo or calcium alone. The same statement cannot be made regarding BMD at the femoral neck. It is generally believed that corticosteroids exert most of their bone resorbing effects at trabecular sites. As the lumbar spine and distal radius are both composed primarily of trabecular bone, it is not surprising that treatment would have a greater chance of success here than at a primarily cortical site such as the femur.</P>
+<P>Interpreting the clinical significance of this change is a different matter. The weighted mean difference reports the difference in BMD between the two groups, but does not indicate how much change in BMD each group has experienced. For example, in the Dylan paper both the treatment and control groups showed an increase in radial BMD with the treatment group experiencing a larger difference. In the Sambrook study the treatment group experienced an increase in radial bone mass, while the controls experienced a loss; at the lumbar spine, both treatment and control groups lost bone, with the treatment group losing less. This meta-analysis reports the overall change between treatment and placebo, but inferences about absolute bone loss cannot be made. The magnitude of this difference at both the lumbar spine and distal radius was in the order of 2.5% at one year. In order to achieve a one standard deviation change in bone mass, the BMD must change by approximately 10%. Thus the difference between groups is probably clinically significant especially in cases where steroid treatment continues for more than one year. </P>
+<P>The most important measure of treatment success in this clinical situation is fracture prevention. Only two studies reported the incidence of new, non-traumatic fractures. The resulting odds ratio for risk of new fracture was not significant but suggested protection in the treatment group. Adequate evaluation of fractures would require longer term follow-up.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>It is generally accepted that treatment with corticosteroids results in bone loss, especially at trabecular bone sites. Although the efficacy of calcium and vitamin D appears to be modest, the data suggests that physicians who start patients on corticosteroids should consider prophylaxis with this relatively innocuous combination of drugs. The side-effects that were reported included mainly constipation (calcium) and hypercalcemia (calcitriol). There is no evidence to suggest that calcitriol is any more efficacious than cholecalciferol, but this comparison was not formally assessed in this analysis.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Long term follow-up of patients entering osteoporosis prevention trials is needed to gain more knowledge regarding fracture prevention with calcium and vitamin D.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS/>
+<CONFLICT_OF_INTEREST>
+<P>None known<BR/> </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS/>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Adachi-1996" NAME="Adachi 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Adachi JD, Bensen WB, Bianchi F, Cividino A, Pillersdorf S, Sebaldt RJ, Tugwell P, Gordon M, Steele M, et al</AU>
+<TI>Vitamin D and calcium in the prevention of corticosteroid induced osteoporosis: A 3 year followup</TI>
+<SO>J Rheumatol</SO>
+<YR>1996</YR>
+<VL>23</VL>
+<NO>6</NO>
+<PG>(pp99 5-1000)</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Buckley-1996" NAME="Buckley 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Buckley LM, Leib ES, Cartularo KS, Vacek PM, Cooper SM</AU>
+<TI>Calcium and Vitamin D3 supplementation prevents bone loss in the spine secondary to low-dose corticosteroids in patients with rheumatoid arthritis. A randomized, double-blind, placebo-controlled trial</TI>
+<SO>Ann Intern Med</SO>
+<YR>1996</YR>
+<VL>126</VL>
+<PG>961-68</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Di-Munno-1989" NAME="Di Munno 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Di Munno O, Beghe F, Favini P, Di Giuseppe P, Pontrandolfo A, Occhipinti G, Pasero G</AU>
+<TI>Prevention of glucocorticoid-induced osteopenia: effect of oral 25-hydroxyvitamin D and calcium</TI>
+<SO>Clin Rheumatol</SO>
+<YR>1989</YR>
+<VL>8</VL>
+<NO>2</NO>
+<PG>202-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dykman-1984" NAME="Dykman 1984" YEAR="1984">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dykman TR, Haralson KM, Gluck OS, Murphy WA, Teitelbaum SL, Hahn TJ, Hahn BH</AU>
+<TI>Effect of oral 1,25-dihydroxyvitamin D and calcium on glucocorticoid-induced osteopenia in patients with rheumatic diseases</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1984</YR>
+<VL>27</VL>
+<NO>12</NO>
+<PG>1336-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sambrook-1993" NAME="Sambrook 1993" YEAR="1993">
+<REFERENCE NOTES="&lt;p&gt;Sambrook P, Birmingham J, Kelly P, Kempler S, Nguyen T, Pocock N, Eisman J. Prevention of corticosteroid osteoporosis. A comparison of calcium, calcitriol, and calcitonin. N Engl J Med 1993;328(24)1747-52.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sambrook P, Birmingham J, Kelly P, Kempler S, Nguyen T, Pocock N, Eisman J</AU>
+<TI>Prevention of corticosteroid osteoporosis. A comparison of calcium, calcitriol, and calcitonin</TI>
+<SO>N Engl J Med</SO>
+<YR>1993</YR>
+<VL>328</VL>
+<NO>24</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Braun-1983" NAME="Braun 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Braun JJ, Birkenhager-Frenkel DH, Rietveld AH, Juttmann JR, Visser TJ, Birkenhager JC</AU>
+<TI>Influence of 1 alph-(OH)D3 administration on bone and bone mineral metabolism in patients on chronic glucocorticoid treatment; a double blind controlled study</TI>
+<SO>Clin En docrinol</SO>
+<YR>1983</YR>
+<VL>19</VL>
+<NO>2</NO>
+<PG>265-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hahn-1979" NAME="Hahn 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hahn TJ, Halstead LR, Teitelbaum SL, Hahn BH</AU>
+<TI>Altered mineral metabolosm in glucocorticoid-induced osteopenia</TI>
+<SO>J Clin Invest</SO>
+<YR>1979</YR>
+<VL>64</VL>
+<PG>655-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vogelsang-1995" NAME="Vogelsang 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;Vogelsang H, Ferenci P, Resch H, Kiss A, Gangl A. Prevention of bone mineral loss in patients with Crohn's disease by long-term oral vitamin D supplementation.European Journal of Gastroenterology &amp;amp; Hepatology 1995;7:609-14.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vogelsang H, Ferenci P, Resch H, Kiss A, Gangl A</AU>
+<TI>Prevention of bone mineral loss in patients with Crohn's disease by long-term oral vitamin D supplementation</TI>
+<SO>European Journal of Gastroenterology &amp; Hepatology</SO>
+<YR>1995</YR>
+<VL>7</VL>
+<PG>609-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Dickersin-1994" NAME="Dickersin 1994" NOTES="&lt;p&gt;Dickersin K., Scherer R., Lefebvre C. Identifying relevant studies for systematic reviews. BMJ 1994; 309:1286-91.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Dickersin K</AU>
+<TI>, Scherer R., Lefebvre C. Identifying relevant studies for systematic reviews</TI>
+<SO>BMJ</SO>
+<YR>1994</YR>
+<VL>309</VL>
+<PG>1286-91</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" NAME="Jadad 1996" NOTES="&lt;p&gt;Jadad A, Moore A, Carrol D, et al. Assessing the quality of reports of randomized trilas: is blinding necessary? Control Clin Trial 1996;17:1-12.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad A, Moore A, Carrol D, et al</AU>
+<TI>Assessing the quality of reports of randomized trials: is blinding necessary?</TI>
+<SO>Control Clin Trial</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Petitti-1994" NAME="Petitti 1994" NOTES="&lt;p&gt;Petitti D. Meta-analysis, decision analysis, and cost-effectiveness analysis: methods for quantitative synthesis in medicine. Oxford University Press, New York 1994:90-114.&lt;br&gt;&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Petitti D</AU>
+<TI>Meta-analysis, decision analysis, and cost-effectiveness analysis: methods for quantitative synthesis in medicine</TI>
+<PG>90-114</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Adachi-1996">
+<CHAR_METHODS>
+<P>Double blind, placebo controlled trial, allocation by minimization algorithm.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>62 subjects with polymyalgia rheumatica, temporal arteritis, asthma, vasculitis, or systemic lupus erythematosis. Mean age 65.5 years, mean prednisone dose 18.9 mg/day.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Vitamin D 50,000 IU weekly, and calcium 1,000 mg/day, or placebo vitamin D and placebo calcium.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Bone mineral density of the lumbar spine by dual photon absorptiometry and DEXA (lunar), 24 hr hydroxy proline excretion, serum PTH, and nephrogenous cAMP.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>BMD machines switched mid-study. Patients measured the same day on both machines to determine a conversion factor for BMD measurements.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Buckley-1996">
+<CHAR_METHODS>
+<P>Randomized, double-blind, placebo-controlled trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>66 patients with rheumatoid arthritis, mean age 53 yrs, mean prednisone dose 5.6 mg/day.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Vitamin D 500 IU/day and calcium 1,000 mg/day or placebo vitamin D and placebo calcium.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Bone mineral density of lumbar spine, femoral neck, ward's triangle, and trochanter measured by DEXA (lunar).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Patients on chronic steroids</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Di-Munno-1989">
+<CHAR_METHODS>
+<P>Double blind, randomized, placebo controlled trial</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>24 patients with polymyalgia rheumatica. Mean age 67.9 years, mean prednisone dose 7.4 mg/day.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>25-OH vitamin D, 35mcg/day for 25/30 days, and 500 mg/day calcium or vitamin D placebo and 500 mg/day calcium.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Bone mineral content of distal radius by dual photon absorptiometry, 24 hr urine hydroxyproline excretion, 24 hr excretion of calcium and phosphate.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Timepoints 0,3,6,9 months.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Dykman-1984">
+<CHAR_METHODS>
+<P>Double blind, randomized, placebo controlled trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>30 patients with rheumatoid arthritis, systemic lupus erythematosis, scleroderma. all patients on chronic steroids. Mean age 49 years, and mean prednisone dose 11.8 mg/day.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1,25-OH vitamin D, 0.25 mcg/day, 500 mg/day calcium, and 400 IU/day vitamin D or 500 mg/day calcium and 400 IU/day vitamin D</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Bone mineral density at distal radius by single photon absorptiometry, intestinal calcium absorption, serum PTH and 25-OH vitamin D, and 1,25-OH vitamin D, transiliac bone biopsies, and thoraco-lumbar xrays for fractures.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Outcomes measured at 0,3,6,9,12,15,18 months.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Sambrook-1993">
+<CHAR_METHODS>
+<P>Randomized, double-blind, placebo controlled trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>92 patients with rheumatic, immunologic, or respiratory diseases. Mean age 51, mean prednisone dose 13.5 mg/day.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1,25 OH vitamin D 0.5 - 1.0 mcg/day, and calcium 1,000 mg/day or placebo vitamin D, and calcium 1,000 mg/day.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Bone mineral density at the lumbar spine and femoral neck, as measured by DEXA (lunar), and BMD at the distal radius as measured by single photon absorptiometry, xrays of spine for fracture incidence, serum PTH and osteocalcin, 24 hr urinary calcium and hydroxyproline excretion.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Braun-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Bone biopsy data only</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hahn-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients not randomized</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Vogelsang-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Only a fraction of the study subjects were on corticosteroids, and sub-group analyses were not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-Adachi-1996">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Buckley-1996">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Di-Munno-1989">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Dykman-1984">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Sambrook-1993">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Calcium and Vitamin D vs Calcium or Placebo</NAME>
+<CONT_OUTCOME CHI2="0.09053225351867226" CI_END="4.526324371525939" CI_START="0.7364407527767207" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="MD" EFFECT_SIZE="2.63138256215133" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="0.9557431006969919" P_Q="1.0" P_Z="0.006495205732752957" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="76" TOTAL_2="76" UNITS="" WEIGHT="100.0" Z="2.7216746318270575">
+<NAME>Bone mineral density, lumbar spine at one year</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_DATA CI_END="7.829795794534722" CI_START="-1.629795794534723" EFFECT_SIZE="3.0999999999999996" ESTIMABLE="YES" MEAN_1="-4.9" MEAN_2="-8.0" ORDER="13760" SD_1="3.9" SD_2="7.3" SE="2.413205462877251" STUDY_ID="STD-Adachi-1996" TOTAL_1="11" TOTAL_2="12" WEIGHT="16.051180349031558"/>
+<CONT_DATA CI_END="4.843429817372961" CI_START="-0.04342981737296148" EFFECT_SIZE="2.4" ESTIMABLE="YES" MEAN_1="0.7" MEAN_2="-1.7" ORDER="13761" SD_1="3.28" SD_2="6.5" SE="1.2466707738746343" STUDY_ID="STD-Buckley-1996" TOTAL_1="31" TOTAL_2="35" WEIGHT="60.143959709346554"/>
+<CONT_DATA CI_END="6.783855493202118" CI_START="-0.983855493202118" EFFECT_SIZE="2.9" ESTIMABLE="YES" MEAN_1="-1.4" MEAN_2="-4.3" ORDER="13762" SD_1="2.94" SD_2="10.32" SE="1.9815953373824593" STUDY_ID="STD-Sambrook-1993" TOTAL_1="34" TOTAL_2="29" WEIGHT="23.804859941621885"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="4.3844387644339395" CI_END="4.362696916813868" CI_START="0.6162745101071685" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="MD" EFFECT_SIZE="2.4894857134605184" ESTIMABLE="YES" I2="54.384127423017766" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.11166872666907557" P_Q="1.0" P_Z="0.009193337523474416" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="59" TOTAL_2="51" UNITS="" WEIGHT="100.0" Z="2.604779605030591">
+<NAME>Bone mineral density, distal radius at one year</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_DATA CI_END="3.188964335190429" CI_START="-2.4689643351904293" EFFECT_SIZE="0.36" ESTIMABLE="YES" MEAN_1="0.16" MEAN_2="-0.2" ORDER="13763" SD_1="3.0" SD_2="4.0" SE="1.4433756729740643" STUDY_ID="STD-Di-Munno-1989" TOTAL_1="12" TOTAL_2="12" WEIGHT="43.84484594403499"/>
+<CONT_DATA CI_END="13.421689672413814" CI_START="-0.42168967241381416" EFFECT_SIZE="6.5" ESTIMABLE="YES" MEAN_1="9.5" MEAN_2="3.0" ORDER="13764" SD_1="9.0" SD_2="7.9" SE="3.5315392155219274" STUDY_ID="STD-Dykman-1984" TOTAL_1="13" TOTAL_2="10" WEIGHT="7.324015330937855"/>
+<CONT_DATA CI_END="6.480638930923877" CI_START="1.1193610690761218" EFFECT_SIZE="3.8" ESTIMABLE="YES" MEAN_1="0.8" MEAN_2="-3.0" ORDER="13765" SD_1="1.68" SD_2="7.2" SE="1.3676980557134804" STUDY_ID="STD-Sambrook-1993" TOTAL_1="34" TOTAL_2="29" WEIGHT="48.83113872502716"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0397450940020514" CI_END="1.8256818375769936" CI_START="-1.0897885195870967" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="0.3679466589949485" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.03" NO="3" P_CHI2="0.8419798988134657" P_Q="1.0" P_Z="0.6208019232888354" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="65" TOTAL_2="64" UNITS="" WEIGHT="99.99999999999999" Z="0.49471413632441946">
+<NAME>Bone mineral density, femoral neck at one year</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_DATA CI_END="2.1160517362516895" CI_START="-1.2160517362516898" EFFECT_SIZE="0.44999999999999996" ESTIMABLE="YES" MEAN_1="0.3" MEAN_2="-0.15" ORDER="13766" SD_1="3.1" SD_2="3.8" SE="0.8500420157682964" STUDY_ID="STD-Buckley-1996" TOTAL_1="31" TOTAL_2="35" WEIGHT="76.55618828427099"/>
+<CONT_DATA CI_END="3.110679476733646" CI_START="-2.910679476733646" EFFECT_SIZE="0.10000000000000009" ESTIMABLE="YES" MEAN_1="-2.8" MEAN_2="-2.9" ORDER="13767" SD_1="5.88" SD_2="6.24" SE="1.5360891835163817" STUDY_ID="STD-Sambrook-1993" TOTAL_1="34" TOTAL_2="29" WEIGHT="23.443811715728994"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="6.438222759196078" CI_START="0.5464841198853663" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.8757362549636885" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="0.8087659989752549" LOG_CI_START="-0.2624224535612321" LOG_EFFECT_SIZE="0.2731717727070114" METHOD="PETO" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.3174798691055791" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="61" TOTAL_2="63" WEIGHT="100.0" Z="0.9996501266063956">
+<NAME>Drop outs due to adverse effects</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<DICH_DATA CI_END="6.438222759196078" CI_START="0.5464841198853663" EFFECT_SIZE="1.8757362549636885" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" LOG_CI_END="0.8087659989752549" LOG_CI_START="-0.2624224535612321" LOG_EFFECT_SIZE="0.2731717727070114" ORDER="13768" O_E="1.588709677419355" SE="0.6292213994882896" STUDY_ID="STD-Buckley-1996" TOTAL_1="61" TOTAL_2="63" VAR="2.5257655262556784" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="6.954082475415387" CI_END="0.9712471641179596" CI_START="-8.549593034480788" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="-3.7891729351814143" ESTIMABLE="YES" I2="85.61995772216856" I2_Q="0.0" ID="CMP-001.05" NO="5" P_CHI2="0.008362892641617159" P_Q="1.0" P_Z="0.11874066471166524" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="45" TOTAL_2="41" UNITS="" WEIGHT="100.0" Z="1.5600813224955778">
+<NAME>Urinary hydroxyyproline to creatinine ratio</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_DATA CI_END="8.267186857622569" CI_START="-4.467186857622568" EFFECT_SIZE="1.9" ESTIMABLE="YES" MEAN_1="-2.0" MEAN_2="-3.9" ORDER="13769" SD_1="8.2" SD_2="7.3" SE="3.248624417512835" STUDY_ID="STD-Adachi-1996" TOTAL_1="11" TOTAL_2="12" WEIGHT="55.89788422339989"/>
+<CONT_DATA CI_END="-3.8317099856130357" CI_START="-18.168290014386965" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="-39.0" MEAN_2="-28.0" ORDER="13770" SD_1="15.0" SD_2="14.0" SE="3.6573580284788503" STUDY_ID="STD-Sambrook-1993" TOTAL_1="34" TOTAL_2="29" WEIGHT="44.10211577660011"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.12747041517728142" CI_END="2.436384465596501" CI_START="0.12477407036875893" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.5513597797769518" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="5" I2="0.0" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="0.38674582177371664" LOG_CI_START="-0.9038756571678885" LOG_EFFECT_SIZE="-0.25856491769708606" METHOD="PETO" NO="6" P_CHI2="0.7210694286252612" P_Q="1.0" P_Z="0.43226371167356203" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="47" TOTAL_2="39" WEIGHT="100.0" Z="0.7853238685713541">
+<NAME>Risk of new non-tramatic fracture</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<DICH_DATA CI_END="2.6851375909880826" CI_START="0.08071322407064048" EFFECT_SIZE="0.46553851832251314" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="4" LOG_CI_END="0.42896654458897626" LOG_CI_START="-1.0930553045542233" LOG_EFFECT_SIZE="-0.33204437998262354" ORDER="13771" O_E="-0.9565217391304346" SE="0.8940431683163776" STUDY_ID="STD-Dykman-1984" TOTAL_1="13" TOTAL_2="10" VAR="1.2510740677092282" WEIGHT="71.9044888181969"/>
+<DICH_DATA CI_END="14.026139561836956" CI_START="0.05152786380165095" EFFECT_SIZE="0.8501394056302076" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.146938155868491" LOG_CI_START="-1.2879578617769554" LOG_EFFECT_SIZE="-0.0705098529542322" ORDER="13772" O_E="-0.0793650793650793" SE="1.4302699736946096" STUDY_ID="STD-Sambrook-1993" TOTAL_1="34" TOTAL_2="29" VAR="0.4888368728614505" WEIGHT="28.095511181803097"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK>
+<FEEDBACK_ITEM ID="FBK-01" NO="1">
+<TITLE>Pooling drugs with different modes of action</TITLE>
+<DATE_SUBMITTED>
+<DATE DAY="" MONTH="" YEAR=""/>
+</DATE_SUBMITTED>
+<FEEDBACK_SUMMARY>
+<P>The combination of studies with both native vitamin D and its active metabolites lack physiological or pharmacological justification. They probably have a different mode of action and are certainly associated with a different risk benefit ration. Overall the review is helpful.</P>
+<P>Conflict of interest: I have received paid honoraria for lecturing and acting in an advisory capacity to a few different pharmaceutical companies with products in this field. These include: Shire Pharmaceuticals Roche Proctor and Gamble.</P>
+<P>I certify that I have no affiliations with or involvement in any organization or entity with a direct financial interest in the subject matter of the review or my criticisms (e.g. employment, consultancies, stock ownership, honoraria, expert testimony). </P>
+<P>Authorship statement: I certify that I am the author of these statements and that I take responsibility for them.</P>
+</FEEDBACK_SUMMARY>
+<FEEDBACK_REPLY>
+<P>Thank you for your comments. It is certainly well accepted that native vitamin D and dihydroxy vitamin D have different pharmacologic activity in humans. It was not our intention to imply that these two substances were the same and perhaps that should be emphasized in the discussion. That being said, we prefer to be as inclusive as possible when doing the meta-analysis in order to make use of as much data as possible.</P>
+<P>Sensitivity analyses are done where heterogeneity is evident. In this review we conducted analyses for 6 different outcomes: BMD at the spine, hip and wrist, drop-outs, fractures and 24hr hydroxyproline excretion. For three of the analyses (drop-outs, fractures and BMD-wrist), the studies combined were either all native or all activated vitamin D. Two of the three remaining analyses that mixed native and activated vitamin D showed results that were very similar (BMD-spine and BMD-hip). In fact, the chi squared test for heterogeneity was non significant. Because of this we felt it was reasonable to combine the studies. </P>
+<P>The last analysis which examined 24hr hydroxy proline excretion did show heterogeneous results, with the activated vitamin D showing more efficacy. I will amend the discussion section of the review to reflect your comments and discuss our justification for combining trials as we did.</P>
+</FEEDBACK_REPLY>
+<FEEDBACK_CONTRIBUTORS>
+<P>Peter Selby<BR/>Joanne Homik<BR/>Paul Dieppe</P>
+</FEEDBACK_CONTRIBUTORS>
+</FEEDBACK_ITEM>
+</FEEDBACK>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

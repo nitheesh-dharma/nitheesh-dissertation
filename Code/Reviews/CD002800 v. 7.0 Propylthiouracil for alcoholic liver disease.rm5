@@ -1,0 +1,2553 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002800.pub2" GROUP_ID="LIVER" ID="909999111713193108" MERGED_FROM="" MODIFIED="2011-05-12 13:37:12 +0200" MODIFIED_BY="Dimitrinka Nikolova" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3 beta&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.1&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2011-05-12 13:29:48 +0200" NOTES_MODIFIED_BY="Dimitrinka Nikolova" REVIEW_NO="04" REVMAN_SUB_VERSION="5.1.1" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2011-05-12 13:29:33 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<TITLE>Propylthiouracil for alcoholic liver disease</TITLE>
+<CONTACT>
+<PERSON ID="EDD1BBCA82E26AA20135ECF1EA9A43F0" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Andrew</FIRST_NAME>
+<MIDDLE_INITIALS>K</MIDDLE_INITIALS>
+<LAST_NAME>Burroughs</LAST_NAME>
+<SUFFIX>FRCP,FMedSci</SUFFIX>
+<POSITION>Professor of Hepatology</POSITION>
+<EMAIL_1>andrew.burroughs@nhs.net</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Sheila Sherlock Liver Centre</DEPARTMENT>
+<ORGANISATION>Royal Free Hampstead NHS Foundation Trust</ORGANISATION>
+<ADDRESS_1>Pond Street</ADDRESS_1>
+<ADDRESS_2>Hampstead</ADDRESS_2>
+<CITY>London</CITY>
+<ZIP>NW3 2QG</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 207 472 6732</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 207 472 6226</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2011-05-12 13:20:58 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<PERSON ID="93921078873697019531100504114820" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Giuseppe</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Fede</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>g_fede@tiscali.it</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Sheila Sherlock Liver Centre</DEPARTMENT>
+<ORGANISATION>Royal Free Hampstead NHS Foundation Trust</ORGANISATION>
+<ADDRESS_1>Pond Street</ADDRESS_1>
+<ADDRESS_2>Hampstead</ADDRESS_2>
+<CITY>London</CITY>
+<ZIP>NW3 2QG</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="24526792419586820059100504161619" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Giacomo</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Germani</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>germani.giacomo@gmail.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Sheila Sherlock Liver Centre</DEPARTMENT>
+<ORGANISATION>Royal Free Hampstead NHS Foundation Trust</ORGANISATION>
+<ADDRESS_1>Pond Street</ADDRESS_1>
+<ADDRESS_2>Hampstead</ADDRESS_2>
+<CITY>London</CITY>
+<ZIP>NW3 2QG</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="6439" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Christian</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Gluud</LAST_NAME>
+<SUFFIX>M.D, Dr. Med. Sci.</SUFFIX>
+<POSITION>Head of Department</POSITION>
+<EMAIL_1>cgluud@ctu.rh.dk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Cochrane Hepato-Biliary Group</DEPARTMENT>
+<ORGANISATION>Copenhagen Trial Unit, Centre for Clinical Intervention Research, Department 3344, Rigshospitalet, Copenhagen University Hospital</ORGANISATION>
+<ADDRESS_1>Blegdamsvej 9</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Copenhagen</CITY>
+<ZIP>DK-2100</ZIP>
+<REGION/>
+<COUNTRY CODE="DK">Denmark</COUNTRY>
+<PHONE_1>+ 45 3545 7175</PHONE_1>
+<PHONE_2/>
+<FAX_1>+ 45 3545 7101</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="EDD1B9F582E26AA20135ECF1AB0B3200" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Kurinchi Selvan</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Gurusamy</LAST_NAME>
+<SUFFIX>MBBS MS MRCS</SUFFIX>
+<POSITION>Clinical Research Fellow</POSITION>
+<EMAIL_1>kurinchi2k@hotmail.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE>+44 (0)7545075003</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Department of Surgery</DEPARTMENT>
+<ORGANISATION>Royal Free Campus, UCL Medical School</ORGANISATION>
+<ADDRESS_1>8th Floor South (Hepatology office)</ADDRESS_1>
+<ADDRESS_2>Royal Free Hospital, Pond Street</ADDRESS_2>
+<CITY>London</CITY>
+<ZIP>NW3 2QG</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 207 794 0500 ext 38498</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 207 830 2688</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="EDD1BBCA82E26AA20135ECF1EA9A43F0" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Andrew</FIRST_NAME>
+<MIDDLE_INITIALS>K</MIDDLE_INITIALS>
+<LAST_NAME>Burroughs</LAST_NAME>
+<SUFFIX>FRCP,FMedSci</SUFFIX>
+<POSITION>Professor of Hepatology</POSITION>
+<EMAIL_1>andrew.burroughs@nhs.net</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Sheila Sherlock Liver Centre</DEPARTMENT>
+<ORGANISATION>Royal Free Hampstead NHS Foundation Trust</ORGANISATION>
+<ADDRESS_1>Pond Street</ADDRESS_1>
+<ADDRESS_2>Hampstead</ADDRESS_2>
+<CITY>London</CITY>
+<ZIP>NW3 2QG</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 207 472 6732</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 207 472 6226</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2011-05-12 10:26:33 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<UP_TO_DATE>
+<DATE DAY="4" MONTH="5" YEAR="2010"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="28" MONTH="4" YEAR="2011"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="12" MONTH="5" YEAR="2013"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2001"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2005"/>
+</DATES>
+<WHATS_NEW MODIFIED="2011-05-12 12:19:33 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_OLD_CONCLUSIONS" MODIFIED="2011-05-12 12:19:22 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<DATE DAY="28" MONTH="1" YEAR="2011"/>
+<DESCRIPTION>
+<P>Conclusions did not change. No new trials were found for inclusion.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<DATE DAY="22" MONTH="1" YEAR="2011"/>
+<DESCRIPTION>
+<P>1. We changed the reporting of Peto odds ratio (OR) to relative risk (RR) as the latter is more easily understood.<BR/>2. We removed the Jadad scoring system for evaluation of trial quality since methodological quality is better evaluated by bias risk domains.<BR/>3. We now use both random-effects and fixed-effect models to analyse our data following the most recent guidelines.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-05-12 12:19:33 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<DATE DAY="21" MONTH="1" YEAR="2011"/>
+<DESCRIPTION>
+<P>New team of authors.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2011-05-12 13:29:33 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-05-12 12:19:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<DATE DAY="23" MONTH="8" YEAR="2005"/>
+<DESCRIPTION>
+<P>Conclusions changed.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>The Copenhagen Trial Unit</NAME>
+<COUNTRY CODE="DK">Denmark</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>The Danish Medical Research Council Grant on Getting Research into Practice (GRIP)</NAME>
+<COUNTRY CODE="DK">Denmark</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>The 1991 Pharmacy Foundation</NAME>
+<COUNTRY CODE="DK">Denmark</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Copenhagen Hospital Corporation' Research Grant on Getting Research into Practice (GRIP)</NAME>
+<COUNTRY CODE="DK">Denmark</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2011-05-12 13:29:48 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<SUMMARY MODIFIED="2011-05-12 13:19:56 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<TITLE MODIFIED="2011-05-12 10:45:20 +0200" MODIFIED_BY="Dimitrinka Nikolova">Propylthiouracil for alcoholic liver disease</TITLE>
+<SUMMARY_BODY MODIFIED="2011-05-12 13:19:56 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>The majority of liver diseases are caused by alcohol in the Western world. Propylthiouracil - an antithyroid drug that is used for patients with raised metabolism - has been suggested as a potential treatment for alcoholic liver disease. Six randomised clinical trials with a total of 710 patients were included in this systematic review. The trials were generally with high risk of bias. We could not demonstrate any significant effect of propylthiouracil on all-cause mortality, liver-related mortality, liver complications, or liver histology of patients with alcoholic liver disease. Although propylthiouracil was not associated with a significant increased risk of non-serious adverse events, there were occasional instances of serious adverse events (leukopenia, generalized bullous eruption). The trials included a small number of patients, and so, the risk of random error (error due to play of chance) is high. There seems to be no evidence for using propylthiouracil for alcoholic liver disease outside randomised clinical trials.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2011-05-11 21:02:03 +0200" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND>
+<P>Randomised clinical trials have addressed the question whether propylthiouracil has any beneficial effects in patients with alcoholic liver disease.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2011-05-11 20:51:30 +0200" MODIFIED_BY="[Empty name]">
+<P>To assess the beneficial and harmful effects of propylthiouracil for patients with alcoholic liver disease.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2011-05-11 11:10:06 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<P>We searched <I>The Cochrane Hepato-Biliary Group Controlled Trials Register </I>(April 2011)<I>, The Cochrane Central Register of Controlled Trials </I>(<I>CENTRAL</I>) in <I>The Cochrane Library</I> (April 2011), <I>MEDLINE </I>(1948 to April 2011), <I>EMBASE</I> (1980 to April 2011), and <I>Science Citation Index Expanded</I> (1900 to April 2011). These electronic searches were combined with full text searches. Manufacturers and researchers in the field were also contacted.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2011-01-21 14:03:50 +0100" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Randomised clinical trials studying patients with alcoholic steatosis, alcoholic fibrosis, alcoholic hepatitis, and/or alcoholic cirrhosis were included irrespective of blinding, publication status, or language. Interventions encompassed propylthiouracil at any dose versus placebo or no intervention.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2011-05-11 21:02:03 +0200" MODIFIED_BY="[Empty name]">
+<P>All analyses were performed according to the intention-to-treat method in RevMan Analyses. The risk of bias of the randomised clinical trials was evaluated by bias risk domains such as generation of allocation sequence, allocation concealment, blinding, incomplete outcome data, selective outcome reporting, academic bias, and source of funding.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2011-05-11 21:01:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Combining the results of six randomised clinical trials with high risk of bias which included 710 patients demonstrated no significant effects of propylthiouracil versus placebo on all-cause mortality (risk ratio (RR) 0.93, 95% confidence interval (CI) 0.66 to 1.30), liver-related mortality (RR 0.90, 95% CI 0.58 to 1.40), or complications of the liver disease. Although propylthiouracil was not associated with a significant increased risk of non-serious adverse events, there were occasional instances of serious adverse events such as leukopenia and generalised bullous eruption.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2011-05-04 12:56:06 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>We could not demonstrate any significant beneficial effect of propylthiouracil on all-cause mortality, liver-related mortality, liver complications, or liver histology of patients with alcoholic liver disease. Propylthiouracil was associated with adverse events. Confidence intervals were wide. Thus, the risk of random errors and systematic errors was high. Accordingly, there is no evidence for using propylthiouracil for alcoholic liver disease outside randomised clinical trials.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2011-05-12 13:29:48 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<BACKGROUND MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Liver fibrosis and liver cirrhosis are common reactions to a number of hepatotoxic substances, hepatotropic viruses, autoimmune liver diseases, metabolic liver diseases, etc. Alcohol and hepatotropic viruses are the cause of the majority of liver fibrosis and cirrhosis in the Western world. For example, the attributable risk for symptomatic liver cirrhosis in Italy explained by alcohol consumption, hepatitis B virus, and hepatitis C virus was 98.1% in men and 67.0% in women (<LINK REF="REF-Corrao-1998a" TYPE="REFERENCE">Corrao 1998a</LINK>).</P>
+<P>Alcohol is a major hepatotoxin (<LINK REF="REF-Morgan-1999" TYPE="REFERENCE">Morgan 1999</LINK>). Alcohol leads to fatty liver (<LINK REF="REF-Rubin-1968" TYPE="REFERENCE">Rubin 1968</LINK>), alcoholic hepatitis, fibrosis, and cirrhosis (<LINK REF="REF-Morgan-1999" TYPE="REFERENCE">Morgan 1999</LINK>). Alcoholic hepatitis is associated with peripheral leukocytosis and marked hepatic portal and parenchymal inflammatory infiltration predominantly by neutrophils (<LINK REF="REF-Hill-1993" TYPE="REFERENCE">Hill 1993</LINK>; <LINK REF="REF-Sheron-1993" TYPE="REFERENCE">Sheron 1993</LINK>). Data from long-term studies in which patients with alcoholic fatty change and alcoholic hepatitis were followed for up to 13 years demonstrates that alcoholic hepatitis is a predictor of a later development of liver fibrosis and cirrhosis (<LINK REF="REF-S_x00f8_rensen-1984" TYPE="REFERENCE">Sørensen 1984</LINK>; <LINK REF="REF-Marbet-1987" TYPE="REFERENCE">Marbet 1987</LINK>). Alcohol-induced necrosis and inflammation may trigger the scarring and the development of fibrosis, and later on of the development of cirrhosis. In fact, about 70% of patients with clinical alcoholic hepatitis also have alcoholic cirrhosis at the time of diagnosis (<LINK REF="REF-Mendenhall-1984" TYPE="REFERENCE">Mendenhall 1984</LINK>). Five-year survival rates in patients with alcoholic cirrhosis who stop drinking are of order of 50% to 75%; whereas survival rates in patients continuing to drink rarely exceed 40% (<LINK REF="REF-Powell-1968" TYPE="REFERENCE">Powell 1968</LINK>). The progression of liver fibrosis and cirrhosis in patients with alcohol problems is enhanced by the presence of hepatitis B and hepatitis C virus markers (<LINK REF="REF-Chang-1994" TYPE="REFERENCE">Chang 1994</LINK>; <LINK REF="REF-Corrao-1998b" TYPE="REFERENCE">Corrao 1998b</LINK>).</P>
+<P>Propylthiouracil (PTU) may reduce alcohol induced hepatocyte damage by acting as an antioxidant (<LINK REF="REF-Hicks-1992" TYPE="REFERENCE">Hicks 1992</LINK>) and suppressing alcohol induced hepatic necrosis (<LINK REF="REF-Israel-1975a" TYPE="REFERENCE">Israel 1975a</LINK>). Studies have found a 'hypermetabolic state', with an increase in hepatic oxygen consumption in rats chronically treated with alcohol (<LINK REF="REF-Israel-1975a" TYPE="REFERENCE">Israel 1975a</LINK>) as well as in alcoholic patients (<LINK REF="REF-Iturriaga-1980" TYPE="REFERENCE">Iturriaga 1980</LINK>). PTU, an antithyroid drug (<LINK REF="REF-Kampmann-1981" TYPE="REFERENCE">Kampmann 1981</LINK>; <LINK REF="REF-Klein-1994" TYPE="REFERENCE">Klein 1994</LINK>), reacts with some of the oxidizing species derived from the respiratory burst in neutrophils (<LINK REF="REF-Imamura-1986" TYPE="REFERENCE">Imamura 1986</LINK>; <LINK REF="REF-Carmichael-1993" TYPE="REFERENCE">Carmichael 1993</LINK>; <LINK REF="REF-Ross-1998" TYPE="REFERENCE">Ross 1998</LINK>). PTU protects rat liver and isolated hepatocytes from ischaemic damage (<LINK REF="REF-Israel-1975b" TYPE="REFERENCE">Israel 1975b</LINK>; <LINK REF="REF-Younes-1987" TYPE="REFERENCE">Younes 1987</LINK>; <LINK REF="REF-Gonzalez_x002d_Reimers1988" TYPE="REFERENCE">Gonzalez-Reimers1988</LINK>). Therefore, PTU could slow the progression of alcoholic liver disease.</P>
+<P>Several randomised clinical trials have addressed the question whether PTU has any efficacy in patients with alcoholic liver disease. The results of these trials have been contradictory (<LINK REF="REF-Orrego-1979a" TYPE="REFERENCE">Orrego 1979a</LINK>; <LINK REF="REF-Hall_x00e9_-1982a" TYPE="REFERENCE">Hallé 1982a</LINK>; <LINK REF="REF-Orrego-1987a" TYPE="REFERENCE">Orrego 1987a</LINK>). Some investigators found beneficial effects of PTU on all-cause mortality, complications, and biochemistry (<LINK REF="REF-Orrego-1979a" TYPE="REFERENCE">Orrego 1979a</LINK>; <LINK REF="REF-Orrego-1987a" TYPE="REFERENCE">Orrego 1987a</LINK>). Others found no significant effect on all-cause mortality (<LINK REF="REF-Hall_x00e9_-1982a" TYPE="REFERENCE">Hallé 1982a</LINK>). Based on a questionnaire survey among European hospital-based specialists in gastroenterology/hepatology, 15% of the specialists considered using PTU for alcoholic hepatitis (<LINK REF="REF-Gluud-1993" TYPE="REFERENCE">Gluud 1993</LINK>). The present systematic review examines the beneficial and harmful effects of PTU for alcoholic liver disease.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To assess the beneficial and harmful effects of PTU versus placebo or no intervention for patients with alcoholic liver disease based on the results of randomised clinical trials.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2011-05-12 13:13:03 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<SELECTION_CRITERIA MODIFIED="2011-05-04 13:20:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<CRIT_STUDIES>
+<P>Only randomised clinical trials were included, irrespective of blinding, publication status, or language. Trials using quasi-randomisation were excluded. </P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Patients with alcoholic steatosis, alcoholic fibrosis, alcoholic hepatitis, and/or alcoholic cirrhosis were included.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Peroral or parenteral administration of PTU at any dose versus placebo or no intervention. Additional interventions were allowed, as long as both intervention groups in the individual trial received the additional intervention.<BR/> </P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2011-05-04 13:20:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<SUBSECTION>
+<HEADING LEVEL="6">
+<I>Primary outcomes</I>
+</HEADING>
+<P>1. Number of patients dying (total and liver-related deaths).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">Secondary outcomes</HEADING>
+<P>1. Development of clinical symptoms and complications (ie, ascites, variceal bleeding, hepatic encephalopathy, hepato-renal syndrome, hepato-cellular carcinoma).<BR/>2. Liver biopsy findings.<BR/>3. Number and type of adverse events (non-serious and serious). Adverse events were defined as any untoward medical occurrence that did not have a causal relationship with the treatment. Serious adverse events were defined according to the ICH guidelines (<LINK REF="REF-ICH_x002d_GCP-1997" TYPE="REFERENCE">ICH-GCP 1997</LINK>) as any event that would increase all-cause mortality; was life-threatening; required in-patient hospitalisation; resulted in a persistent or significant disability; or any important medical event, which may jeopardise the patient or required intervention to prevent it.<BR/>4. Quality-of-life.<BR/>5. Health economics.</P>
+</SUBSECTION>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2011-05-11 12:47:07 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<ELECTRONIC_SEARCHES MODIFIED="2011-05-11 12:47:07 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<P>Relevant randomised clinical trials were identified by searching <I>The Cochrane Hepato-Biliary Group Controlled Trials Register</I> (<LINK REF="REF-Gluud-2011" TYPE="REFERENCE">Gluud 2011</LINK>), <I>The Cochrane Central Register of Controlled Trials </I>(<I>CENTRAL</I>) in <I>The Cochrane Library</I>, <I>MEDLINE</I>, <I>EMBASE</I>, and <I>Science Citation Index Expanded </I>(<LINK REF="REF-Royle-2003" TYPE="REFERENCE">Royle 2003</LINK>).<I> </I>The search strategies applied to the individual electronic databases and the time span of the searches are given in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2011-05-11 11:30:39 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<P>Further trials were identified by reading the reference lists of the identified studies.</P>
+<P>The principal authors of the identified randomised clinical trials were approached and inquired about additional randomised clinical trials they might know. Pharmaceutical companies involved in the production of PTU were contacted in order to obtain unpublished randomised clinical trials.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2011-05-12 13:13:03 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<P>The meta-analyses were conducted according to the published protocol (<LINK REF="REF-Rambaldi-2001a" TYPE="REFERENCE">Rambaldi 2001a</LINK>) as recommended by The Cochrane Collaboration (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>) and <I>The Cochrane Hepato-Biliary Group Module</I> (<LINK REF="REF-Gluud-2011" TYPE="REFERENCE">Gluud 2011</LINK>).</P>
+<P>
+<B>Patient characteristics, diagnosis, and treatments<BR/>
+</B>The following data were recorded from the individual randomised clinical trials: mean (or median) age, sex ratio, alcohol consumption, form of liver disease, etiology of liver disease, duration of liver disease, severity of liver disease at entry, type and dose of PTU intervention, and type of intervention in the control group. The diagnostic work-up before entry was registered, specifically if hepatitis markers were evaluated and the types of alcoholic liver disease excluded were specified. Development of clinical symptoms and complications, liver biochemistry, liver function, liver biopsy findings, alcohol consumption, quality-of-life, health economics (ie, length of hospital stay, cost of medication, and cost of additional follow-up weighted against any gains in health), and adverse events during follow-up were registered.</P>
+<P>
+<B>Selection and data-extraction bias<BR/>
+</B>All randomised clinical trials considered for inclusion were analysed by the contributors, who planned to confer with an 'ombudsman' in case disagreements could not be solved. Such cases did not occur.</P>
+<P>All randomised clinical trials had the pertinent data extracted by the contributors.</P>
+<P>All identified trials were listed and trials excluded from the meta-analysis of the review were identified with the reason for exclusion.</P>
+<P>
+<B>Assessment of risk of bias</B>
+<BR/>The risk of bias in the randomised clinical trials was assessed using generation of allocation sequence, allocation concealment, blinding, incomplete outcome data, selective outcome reporting, baseline imbalance, early stopping, academic bias, source of funding (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>; <LINK REF="REF-Moher-1998" TYPE="REFERENCE">Moher 1998</LINK>; <LINK REF="REF-Kjaergard-2001" TYPE="REFERENCE">Kjaergard 2001</LINK>; <LINK REF="REF-Wood-2008" TYPE="REFERENCE">Wood 2008</LINK>; <LINK REF="REF-Gurusamy-2009" TYPE="REFERENCE">Gurusamy 2009</LINK>; <LINK REF="REF-Gluud-2011" TYPE="REFERENCE">Gluud 2011</LINK>; <LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). Quality components were classified as follows: </P>
+<SUBSECTION>
+<HEADING LEVEL="4">Sequence generation</HEADING>
+<UL>
+<LI>Low risk of bias (the methods used are either adequate (eg, computer generated random numbers, table of random numbers) or unlikely to introduce confounding).</LI>
+<LI>Uncertain risk of bias (there is insufficient information to assess whether the method used is likely to introduce confounding).</LI>
+<LI>High risk of bias (the method used (eg, quasi-randomised studies) is improper and likely to introduce confounding).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Allocation concealment</HEADING>
+<UL>
+<LI>Low risk of bias (the method used (eg, central allocation) is unlikely to induce bias on the final observed effect).</LI>
+<LI>Uncertain risk of bias (there is insufficient information to assess whether the method used is likely to induce bias on the estimate of effect).</LI>
+<LI>High risk of bias (the method used (eg, open random allocation schedule) is likely to induce bias on the final observed effect).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Blinding of participants, personnel, and outcome assessors</HEADING>
+<UL>
+<LI>Low risk of bias (blinding was performed adequately, or the outcome measurement is not likely to be influenced by lack of blinding).</LI>
+<LI>Uncertain risk of bias (there is insufficient information to assess whether the type of blinding used is likely to induce bias on the estimate of effect).</LI>
+<LI>High risk of bias (no blinding or incomplete blinding, and the outcome or the outcome measurement is likely to be influenced by lack of blinding).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Incomplete outcome data</HEADING>
+<UL>
+<LI>Low risk of bias (the underlying reasons for missingness are unlikely to make treatment effects departure from plausible values, or proper methods have been employed to handle missing data).</LI>
+<LI>Uncertain risk of bias (there is insufficient information to assess whether the missing data mechanism in combination with the method used to handle missing data is likely to induce bias on the estimate of effect).</LI>
+<LI>High risk of bias (the crude estimate of effects (eg, complete case estimate) will clearly be biased due to the underlying reasons for missingness, and the methods used to handle missing data are unsatisfactory).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Selective outcome reporting</HEADING>
+<UL>
+<LI>Low risk of bias (the trial protocol is available and all of the trial's pre-specified outcomes that are of interest in the review have been reported or similar; if the trial protocol is not available, all the primary outcomes in this review are reported).</LI>
+<LI>Uncertain risk of bias (there is insufficient information to assess whether the magnitude and direction of the observed effect is related to selective outcome reporting).</LI>
+<LI>High risk of bias (not all of the trial's pre-specified primary outcomes have been reported or similar).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Other bias</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="5">Academic bias</HEADING>
+<UL>
+<LI>Low risk of bias (the author of the trial has not conducted previous trials addressing the same interventions).</LI>
+<LI>Uncertain risk of bias (It is not clear if the author has conducted previous trials addressing the same interventions).</LI>
+<LI>High risk of bias (the author of the trial has conducted previous trials addressing the same interventions).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Source of funding bias</HEADING>
+<UL>
+<LI>Low risk of bias (the trial's source(s) of funding did not come from any parties that might have conflicting interest (eg, drug manufacturer).</LI>
+<LI>Uncertain risk of bias (the source of funding was not clear).</LI>
+<LI>High risk of bias (the trial was funded by a drug manufacturer).</LI>
+</UL>
+<P>We classified trials as trials with low risk of bias if they were judged with low risk of bias in all the above domains. Otherwise, the trials were classified as trials with high risk of bias.<BR/> <B>
+<BR/>Statistical methods<BR/>
+</B>All analyses were performed according to the intention-to-treat method including all randomised patients. Patients without the outcome variable were included in two analyses; one in which patients without the outcome were considered as failures, and one in which patients without the outcome were considered as successes.</P>
+<P>The statistical package Review Manager provided by The Cochrane Collaboration was used (<LINK REF="REF-RevMan-2011" TYPE="REFERENCE">RevMan 2011</LINK>). For all analyses we used both random-effects (<LINK REF="REF-DerSimonian-1986" TYPE="REFERENCE">DerSimonian 1986</LINK>) and fixed-effect (<LINK REF="REF-DeMets-1987" TYPE="REFERENCE">DeMets 1987</LINK>) models. In case of discrepancy between the two models (one showing a significant intervention effect and the other no significant intervention effect) we reported both results. Otherwise, we reported only the results from the fixed-effect model. Discrepancy only occurred when there was heterogeneity (please see below). In case of discrepancy between the two models, we put most weight on the results of the fixed-effect model if the meta-analysis included one or more large trials with adequate methodology. Large trials were defined as trials that included more than half of all included events and participants in the meta-analysis. Otherwise, we put most weight on the random-effects model. The reason for this is that the random-effects model puts more weight on small trials. Small trials are more often than large trials conducted with unclear or inadequate methods (<LINK REF="REF-Kjaergard-2001" TYPE="REFERENCE">Kjaergard 2001</LINK>).</P>
+<P>Dichotomous data were analysed by calculating the relative risks (RR) and continuous outcomes as mean difference (MD) both with 95% confidence intervals.</P>
+<P>We conducted trial sequential analysis in order to estimate how far we had come in our development of the cumulative evidence (<LINK REF="REF-Wetterslev-2008" TYPE="REFERENCE">Wetterslev 2008</LINK>; <LINK REF="REF-Thorlund-2009" TYPE="REFERENCE">Thorlund 2009</LINK>; <LINK REF="REF-Brok-2009" TYPE="REFERENCE">Brok 2009</LINK>). We based our trial sequential analysis on all-cause mortality using an outcome proportion of 15% in the control group; an assumed relative risk reduction of 20%; an alpha of 5%; a beta of 20%; and a heterogeneity correction for the calculation of the required information size (<LINK REF="REF-Wetterslev-2008" TYPE="REFERENCE">Wetterslev 2008</LINK>).</P>
+<P>
+<B>
+<I>Heterogeneity and funnel plot asymmetry<BR/>
+</I>
+</B>Heterogeneity in the results of the trials was initially assessed by the inspection of graphical presentations and by calculating a test of heterogeneity (Chi-square) as well as level of inconsistency (I<SUP>2</SUP>). We anticipated between-trial variation in estimation of morbidity and all-cause mortality for those patients who presented with advanced liver disease (<LINK REF="REF-DerSimonian-1986" TYPE="REFERENCE">DerSimonian 1986</LINK>; <LINK REF="REF-DeMets-1987" TYPE="REFERENCE">DeMets 1987</LINK>). Subgroup analyses were performed in order to assess the impact of these possible sources of heterogeneity on the main results.</P>
+<P>Potential causes for heterogeneity were explored by performing sensitivity analyses. We performed sensitivity analyses with regard to methodological quality of included randomised clinical trials (analysing separately randomised clinical trials with adequate quality components, ie, low risk of bias, and inadequate quality components, high risk of bias, and duration of treatment. We also planned analyses regarding way of administration of PTU as well as preparation and dose of PTU, but all trials used per oral PTU 300 mg per day.</P>
+<P>Due to the risk of chance statistical findings, such findings were interpreted conservatively.</P>
+<P>Potential publication bias (<LINK REF="REF-Vickers-1998" TYPE="REFERENCE">Vickers 1998</LINK>) and other sources of bias were planned to be investigated by funnel plots (<LINK REF="REF-Egger-1997" TYPE="REFERENCE">Egger 1997</LINK>), but due to the few randomised clinical trials identified, we did not perform such analyses.</P>
+</SUBSECTION>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2011-05-12 13:29:48 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<STUDY_DESCRIPTION MODIFIED="2011-05-12 10:44:23 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>
+<B>
+<BR/>Searches</B>
+<BR/>Electronic searches (through April 2011) of <I>The Cochrane Hepato-Biliary Group Controlled Trials Register</I> (n = 17 publications), <I>The Cochrane Central Register of Controlled Trials</I> (<I>CENTRAL</I>) in <I>The Cochrane Library </I>(n = 19 publications), <I>MEDLINE</I> (n = 16 publications), <I>EMBASE</I> (n = 48 publications), and <I>Science Citation Index Expanded</I> (n = 13 publications) identified a total of 113 publications. Out of these publications, three randomised clinical trials described in ten publications were identified (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>; <LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>). By reading bibliographies we identified four further abstracts on three randomised clinical trials (<LINK REF="STD-Serrano_x002d_Cancino-1981" TYPE="STUDY">Serrano-Cancino 1981</LINK>; <LINK REF="STD-Pierrugues-1989" TYPE="STUDY">Pierrugues 1989</LINK>; <LINK REF="STD-Rodriguez-1993" TYPE="STUDY">Rodriguez 1993</LINK>), which were not identified by the electronic searches.<BR/>
+<BR/>
+<B>Included studies</B>
+<BR/>The individual randomised clinical trials are described in the table of 'Characteristics of included randomised clinical trials'. In total, six randomised clinical trials reported the random allocation of patients with alcoholic liver disease (n = 710) to PTU versus placebo in 14 publications. No randomised clinical trials comparing PTU versus no intervention were identified.</P>
+<P>The entry criteria in the randomised clinical trials varied, but the inclusion criteria were generally of good quality making it highly likely that all patients did in fact have alcoholic liver disease.</P>
+<P>The dosage of PTU was 300 mg orally per day in all the trials. The duration of the treatment was within 46 days in five of the trials (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Serrano_x002d_Cancino-1981" TYPE="STUDY">Serrano-Cancino 1981</LINK>; <LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>; <LINK REF="STD-Pierrugues-1989" TYPE="STUDY">Pierrugues 1989</LINK>; <LINK REF="STD-Rodriguez-1993" TYPE="STUDY">Rodriguez 1993</LINK>), and the treatment duration was 24 months in the remaining trial (<LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>) .</P>
+<P>
+<B>Excluded studies</B>
+<BR/>A total of two studies with reasons of exclusion are listed under 'Characteristics of excluded studies'.<BR/>
+</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2011-05-11 20:54:21 +0200" MODIFIED_BY="[Empty name]">
+<P>The method to generate the allocation sequence was considered adequate in three randomised clinical trials (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>; <LINK REF="STD-Rodriguez-1993" TYPE="STUDY">Rodriguez 1993</LINK>).</P>
+<P>The method to conceal the allocation sequence was considered adequate in two randomised clinical trials (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Rodriguez-1993" TYPE="STUDY">Rodriguez 1993</LINK>).</P>
+<P>All randomised clinical trials were described as 'double blind'. In four randomised clinical trials (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>; <LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>; <LINK REF="STD-Rodriguez-1993" TYPE="STUDY">Rodriguez 1993</LINK>) placebo was described as having an identical presentation, making it likely that both investigators and patients were blinded.</P>
+<P>Four randomised clinical trials were considered free of incomplete outcome data (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>; <LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>; <LINK REF="STD-Rodriguez-1993" TYPE="STUDY">Rodriguez 1993</LINK>), and in the other two (<LINK REF="STD-Serrano_x002d_Cancino-1981" TYPE="STUDY">Serrano-Cancino 1981</LINK>; <LINK REF="STD-Pierrugues-1989" TYPE="STUDY">Pierrugues 1989</LINK>) there was not sufficient information regarding this item.  </P>
+<P>All randomised clinical trials were considered free of selective reporting, and academic bias.</P>
+<P>None of the authors declared the source of funding of the included trials.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2011-05-12 13:29:48 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>
+<B>All-cause mortality</B>
+<BR/>Combining the results of the six randomised clinical trials demonstrated no significant effect of PTU versus placebo on all-cause mortality (risk ratio (RR) 0.93, 95% confidence interval (CI) 0.66 to 1.30). In the PTU group, 50/353 (14.2%) patients died versus 54/357 (15.1%) patients in the placebo group (<LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>).</P>
+<P>Sensitivity analysis stratifying the randomised clinical trials according to the risk of bias in the trials (trials at low risk of bias versus high risk of bias for each domain, excluding the report 'free of source of funding' which was unclear in all trials) did not demonstrate differences regarding the intervention efficacy of PTU on all-cause mortality between randomised clinical trials at low risk versus high risk of bias (<LINK REF="CMP-003.01" TYPE="ANALYSIS">Analysis 3.1</LINK>).</P>
+<P>Sensitivity analysis stratifying the randomised clinical trials according to the duration of treatment did not change this estimate significantly. The RR of death of the randomised trials with a short-term treatment (within 46 days) was 1.19 (95% CI 0.78 to 1.81) and the RR of the randomised trial with a treatment duration of 24 months was 0.63 (95% CI 0.35 to 1.13) (<LINK REF="CMP-003.02" TYPE="ANALYSIS">Analysis 3.2</LINK>). Stratifying the randomised clinical trials according to a worst-best case scenario analysis (all patients who dropped-out or were withdrawn were considered dead), or a per-protocol analysis did not change this estimate significantly (<LINK REF="CMP-003.03" TYPE="ANALYSIS">Analysis 3.3</LINK>; <LINK REF="CMP-003.04" TYPE="ANALYSIS">Analysis 3.4</LINK>).</P>
+<P>Trial sequential analysis based on a heterogeneity-corrected information size of 4908 patients shows that with only 706 patients randomised, we are still very early in the development of evidence regarding this intervention (<LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>).</P>
+<P>
+<B>Liver-related mortality</B>
+<BR/>Combining the results of four randomised clinical trials, which provided data on liver mortality, showed no significant effect of PTU versus placebo on this outcome (RR 0.90, 95% CI 0.58 to 1.40) (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>; <LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>; <LINK REF="STD-Rodriguez-1993" TYPE="STUDY">Rodriguez 1993</LINK>). In the PTU group, 33/316 (10.4%) patients died a liver-related death versus 37/320 (11.6%) patients in the placebo group (<LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>).</P>
+<P>
+<B>Liver complications<BR/>
+</B>No significant effect of PTU versus placebo could be demonstrated on hepatic encephalopathy (RR 0.84, 95% CI 0.39 to 1.83) (<LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>) (<LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK>).</P>
+<P>No significant effect of PTU versus placebo could be demonstrated on ascites (RR 2.32, 95% CI 0.22 to 24.40) (<LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>) (<LINK REF="CMP-001.04" TYPE="ANALYSIS">Analysis 1.4</LINK>).</P>
+<P>No significant effect of PTU versus placebo could be demonstrated on variceal bleeding (RR 1.48, 95% CI 0.63 to 3.47) (<LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>) (<LINK REF="CMP-001.05" TYPE="ANALYSIS">Analysis 1.5</LINK>).</P>
+<P>No significant effect of PTU versus placebo could be demonstrated on hepato-renal syndrome (RR 0.84, 95% CI 0.39 to 1.83) (<LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>) (<LINK REF="CMP-001.06" TYPE="ANALYSIS">Analysis 1.6</LINK>).</P>
+<P>
+<B>Liver histology</B>
+<BR/>Due to the paucity of data on liver histology we did not assess this outcome. Only one trial reported as an abstract, provided data on histological changes (which were similar in PTU and placebo group) (<LINK REF="STD-Pierrugues-1989" TYPE="STUDY">Pierrugues 1989</LINK>). In three trials, a liver biopsy was done at the beginning of the trial or at some time after in a subgroup of patients, but no data on liver histology at the end of the follow-up were reported (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>; <LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>). </P>
+<P>
+<B>Adverse events</B>
+<BR/>Combining the results of the five randomised clinical trials demonstrated no significant effect of PTU on serious adverse events (RR 1.67, 95% CI 0.28 to 10.03). In the PTU group 2/100 (2%) patients had serious adverse events (marked leukopenia, generalized bullous eruption) versus 1/110 (0.9%) patients in the placebo group (leukopenia) (<LINK REF="CMP-002.01" TYPE="ANALYSIS">Analysis 2.1</LINK>).</P>
+<P>Combining the results of the same five randomised clinical trials demonstrated no significant effects of PTU on non-serious adverse events (RR 1.41, 95% CI 0.40 to 5.01). In the PTU group 5/100 (5%) patients had non-serious adverse events versus 4/110 (3.6%) patients in the placebo group (<LINK REF="CMP-002.02" TYPE="ANALYSIS">Analysis 2.2</LINK>). The adverse events included rash and hypothyroidism.</P>
+<P>In one trial, 24 adverse events were reported (15 rashes, 8 leukopenia, thrombocytopenia); 15 adverse events occurred in the PTU group and 9 in the placebo group (the differences between groups were not statistically significant), but the number of serious and non-serious adverse events in each group was not specified (<LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>).</P>
+<P>
+<B>Quality-of-life and health economics<BR/>
+</B>None of the randomised clinical trials examined quality-of-life or health economics.</P>
+<P>
+<B>Funnel plot asymmetry<BR/>
+</B>Due to the paucity of randomised clinical trials and observed outcome measures reported in the included trials, we did not try to analyse for funnel plot asymmetry.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2011-05-12 13:21:48 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>We could not demonstrate any significant effects of PTU on all-cause mortality, liver-related mortality, and liver complications when tested against placebo in patients with alcoholic liver disease. However, absence of evidence is not evidence of absence of effect.</P>
+<P>The lack of effect of PTU on all-cause mortality was robust to sensitivity analyses taking the risk of bias in the randomised clinical trials into consideration. The sensitivity analyses contrasting trials of low risk of bias versus trials of high risk of bias as judged by the single domain did not reveal any significant influence on the RR of all-cause mortality. This is in contrast to studies examining the association between intervention effects and risk of bias of randomised clinical trials (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>; <LINK REF="REF-Moher-1998" TYPE="REFERENCE">Moher 1998</LINK>; <LINK REF="REF-Kjaergard-2001" TYPE="REFERENCE">Kjaergard 2001</LINK>; <LINK REF="REF-Wood-2008" TYPE="REFERENCE">Wood 2008</LINK>). However, one should notice that two randomised clinical trials at high risk of bias were only reported as abstracts. First, the brevity of abstracts may make it difficult to report the risk of bias in a trial in sufficient detail. Second, the association between the risk of bias and intervention effects previously reported rests mainly or exclusively on trials reported as full articles (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>; <LINK REF="REF-Moher-1998" TYPE="REFERENCE">Moher 1998</LINK>; <LINK REF="REF-Kjaergard-2001" TYPE="REFERENCE">Kjaergard 2001</LINK>; <LINK REF="REF-Wood-2008" TYPE="REFERENCE">Wood 2008</LINK>).</P>
+<P>Sensitivity analysis taking duration of treatment into consideration showed no significant difference on the RR of all-cause mortality. The worst-best case scenario analysis and the per-protocol analysis did not show any significant effect of PTU on all-cause mortality.</P>
+<P>Our trial sequential analysis demonstrates that we are very early in our development of evidence on PTU for all-cause mortality in alcoholic liver disease with only 706 patients randomised. We are still far from obtaining conclusive evidence on the effect of PTU for patients (<LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>).</P>
+<P>We were unable to detect any significant influence of PTU on liver histology due to the paucity of data. Only one trial (<LINK REF="STD-Pierrugues-1989" TYPE="STUDY">Pierrugues 1989</LINK>), reported as an abstract, provided data on histological changes (which were similar in PTU and placebo group). In three studies (<LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>; <LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>; <LINK REF="STD-Orrego-1987" TYPE="STUDY">Orrego 1987</LINK>), a liver biopsy was done at the beginning of the trial or at some time after in a subgroup of patients, but no data on liver histology at the end of the follow-up were reported.</P>
+<P>Although propylthiouracil was not associated with a significant increased risk of non-serious adverse events, there were occasional instances of serious adverse events: one patient with leukopenia and one patient with generalised bullous eruption, and the latter patient died during the randomised clinical trial. Few patients with PTU induced fulminant hepatitis and a number of adverse events have been reported in the literature during PTU treatment for hyperthyroidism (<LINK REF="REF-Deidiker-1996" TYPE="REFERENCE">Deidiker 1996</LINK>; <LINK REF="REF-Ichiki-1998" TYPE="REFERENCE">Ichiki 1998</LINK>), eg, transient asymptomatic PTU hepatotoxicity occurs in one-third of patients (<LINK REF="REF-Huang-1994" TYPE="REFERENCE">Huang 1994</LINK>) together with acute cases of interstitial nephritis, vasculitis, Stevens-Johnson syndrome, and other adverse events (<LINK REF="REF-Dysseleer-2000" TYPE="REFERENCE">Dysseleer 2000</LINK>; <LINK REF="REF-Morita-2000" TYPE="REFERENCE">Morita 2000</LINK>). Indeed, hypothyroidism was a non-serious adverse event in some patients, and it could have been the reason of some dropouts in the trials (<LINK REF="STD-Hall_x00e9_-1982" TYPE="STUDY">Hallé 1982</LINK>).</P>
+<P>The rationale behind PTU for alcoholic liver disease has been said to be via an effect on hepatic oxygen consumption (eg, <LINK REF="REF-Yuki-1982" TYPE="REFERENCE">Yuki 1982</LINK>; <LINK REF="REF-Carmichael-1993" TYPE="REFERENCE">Carmichael 1993</LINK>). Contrary to observations in normal rats (<LINK REF="REF-Kawasaki-1989" TYPE="REFERENCE">Kawasaki 1989</LINK>), however, PTU 300 mg or 600 mg intravenously were without significant effects on arterial and venous oxygen content in patients with alcoholic cirrhosis with or without alcoholic hepatitis (<LINK REF="STD-Sogni-1997" TYPE="STUDY">Sogni 1997</LINK>). Furthermore, the latter study was unable to demonstrate any effects of PTU on systemic and splanchnic haemodynamics of these patients (<LINK REF="STD-Sogni-1997" TYPE="STUDY">Sogni 1997</LINK>). These findings are contradictory to some extent to the Rojeter et al study (<LINK REF="STD-Rojter-1995" TYPE="STUDY">Rojter 1995</LINK>), which examined haemodynamics measured by the Doppler technique. According to the latter study, PTU administration caused a significant increase in portal blood flow in patients with alcoholic cirrhosis.</P>
+<P>We could not demonstrate any significant effect of PTU on any clinically important outcomes of patients with alcoholic liver disease. Accordingly, there seems to be no evidence for using PTU for alcoholic liver disease. The absence of evidence for an effect of PTU on clinically relevant outcome variables, however, does not exclude the possibility that PTU may possess effects. Ioannidis and Lau recently applied 'recursive cumulative meta-analyses' of randomised clinical trials to evaluate the relative change in the pooled treatment effect over time for 60 medical interventions within pregnancy/perinatal medicine and cardiology (<LINK REF="REF-Ioannidis-2000" TYPE="REFERENCE">Ioannidis 2000</LINK>). With 500 accumulated patients, the pooled relative risk may change by about 0.6 to 1.7 fold in the immediate future. When 2000 patients have been randomised, the pooled relative risk may change by 0.7 to 1.3 fold. With only 710 patients with alcoholic liver disease randomised to PTU versus placebo and the wide confidence intervals of the estimates we cannot rule out a potential efficacy of PTU for alcoholic liver disease. However, if clinicians wish to treat patients with alcoholic liver disease with PTU, they must first conduct new randomised clinical trials. Such randomised clinical trials ought to be large, conducted with adequate methodology, the treatment period ought to be several years, and efficacy and harmful effects ought to be closely monitored by an independent data monitoring and safety committee.</P>
+<P>A number of medical interventions has been used for alcoholic liver disease (<LINK REF="REF-Gluud-1993" TYPE="REFERENCE">Gluud 1993</LINK>), including colchicine (<LINK REF="REF-Rambaldi-2005a" TYPE="REFERENCE">Rambaldi 2005a</LINK>), glucocorticosteroids (<LINK REF="REF-Christensen-1995" TYPE="REFERENCE">Christensen 1995</LINK>; <LINK REF="REF-Gluud-2001" TYPE="REFERENCE">Gluud 2001</LINK>), anabolic-androgenic steroids (<LINK REF="REF-Gluud-1988" TYPE="REFERENCE">Gluud 1988</LINK>; <LINK REF="REF-Rambaldi-2006a" TYPE="REFERENCE">Rambaldi 2006a</LINK>), insulin/glucagon (<LINK REF="REF-Trinchet-1992" TYPE="REFERENCE">Trinchet 1992</LINK>), milk thistle (<LINK REF="REF-Flora-1998" TYPE="REFERENCE">Flora 1998</LINK>, <LINK REF="REF-Rambaldi-2007" TYPE="REFERENCE">Rambaldi 2007</LINK>), parenteral amino acid supplementation (<LINK REF="REF-Mezey-1991" TYPE="REFERENCE">Mezey 1991</LINK>), S-adenosyl-L-methionine (<LINK REF="REF-Mato-1999" TYPE="REFERENCE">Mato 1999</LINK>), and polyenylphosphatidylcholine (<LINK REF="REF-Lieber-2000" TYPE="REFERENCE">Lieber 2000</LINK>; <LINK REF="REF-Lieber-2003" TYPE="REFERENCE">Lieber 2003</LINK>). None of these interventions have been demonstrated effective in systematic reviews of randomised clinical trials. S-adenosyl-L-methionine may be a promising intervention for alcoholic liver disease (<LINK REF="REF-Mato-1999" TYPE="REFERENCE">Mato 1999</LINK>), but more randomised clinical trials are needed before this treatment can be recommended (<LINK REF="REF-Rambaldi-2006b" TYPE="REFERENCE">Rambaldi 2006b</LINK>). Pentoxiphylline has only been assessed in one small trial (<LINK REF="REF-Akriviadis-2000" TYPE="REFERENCE">Akriviadis 2000</LINK>), and liver transplantation has never been assessed in randomised trials. Based on a matched and simulated control study, liver transplantation seems to work for patients with Child-Pugh C class cirrhosis, but not significantly so for Child-Pugh A and B class cirrhosis (<LINK REF="REF-Poynard-1994" TYPE="REFERENCE">Poynard 1994</LINK>; <LINK REF="REF-Poynard-1999" TYPE="REFERENCE">Poynard 1999</LINK>). The results of more randomised clinical trials must be awaited before we may have an efficient medical intervention for alcoholic liver disease.<BR/>
+</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<IMPLICATIONS_PRACTICE MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>This systematic review could not demonstrate any significant beneficial effect of PTU on any clinically meaningful outcomes (all-cause mortality, liver-related mortality, and liver complications) of patients with alcoholic liver disease. PTU is associated with serious adverse events. Accordingly, there is no indication for using PTU for alcoholic liver disease outside randomised clinical trials.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>The absence of evidence for an effect of PTU on clinically relevant outcome variables, however, does not exclude the possibility of an effect. If researchers wish to conduct new randomised clinical trials they ought to be large, conducted with adequate methodology, the treatment period ought to be several years, and efficacy and harmful effects ought to be closely monitored by an independent data monitoring and safety committee. Such trials ought to follow the Consolidated Standards for Reporting Trials (CONSORT) Statement (www.consort-statement.org).</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2011-05-12 13:22:14 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>We acknowledge Andrea Rambaldi who wrote the protocol and the previous version of the review, Robert Sutton, Contact Editor, for helpful comments, and Dimitrinka Nikolova and Sarah Louise Klingenberg for expert assistance with the retrieval of publications.</P>
+<P>Peer Reviewers: Alastair Burt, UK; Saboor A Khan, UK.<BR/>Contact Editor: Robert Sutton, UK.<BR/>
+</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2011-01-24 17:11:20 +0100" MODIFIED_BY="[Empty name]">
+<P>GF identified trials, extracted data, analysed the data, drafted the review. GG performed second data extraction. CG and KG made critical comments. AKB checked and revised all these processes.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<SUBSECTION>
+<HEADING LEVEL="4">Differences between current updated review and previous version</HEADING>
+<P>The methodological quality of the randomised clinical trials and type of outcomes were assessed using recent published recommendations (<LINK REF="REF-Gurusamy-2009" TYPE="REFERENCE">Gurusamy 2009</LINK>; <LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>).</P>
+</SUBSECTION>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>We have contacted Merck Frosst Canada Inc, Kirkland, Quebec (Canada) in order to obtain additional data, published or unpublished.</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2011-05-12 13:15:27 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<STUDIES MODIFIED="2011-05-11 12:08:18 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<INCLUDED_STUDIES MODIFIED="2011-05-11 12:07:22 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<STUDY DATA_SOURCE="PUB" ID="STD-Hall_x00e9_-1982" NAME="Hallé 1982" YEAR="1982">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Hallé P, Paré P, Kaptein E, Kanel G, Redeker AG, Reynolds TB</AU>
+<TI>Double-blind, controlled trial of propylthiouracil in patients with severe acute alcoholic hepatitis</TI>
+<SO>Gastroenterology</SO>
+<YR>1982</YR>
+<VL>82</VL>
+<NO>5</NO>
+<PG>925-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Halle P, Pare P, Kaptein E, Kanel G, Redeker AG, Reynolds TB</AU>
+<TI>Propylthiouracil therapy in severe acute alcoholic hepatitis</TI>
+<SO>Gastroenterology</SO>
+<YR>1980</YR>
+<VL>79</VL>
+<NO>5 II</NO>
+<PG>1024</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="1981011979"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Orrego-1979" MODIFIED="2011-05-11 12:06:42 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Orrego 1979" YEAR="1979">
+<REFERENCE MODIFIED="2011-05-11 12:06:29 +0200" MODIFIED_BY="Sarah L Klingenberg" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Israel Y, Walfish PG, Orrego H, Blake J, Kalant H</AU>
+<TI>Thyroid hormones in alcoholic liver disease. Effect of treatment with 6-n-propylthiouracil</TI>
+<SO>Gastroenterology</SO>
+<YR>1979</YR>
+<VL>76</VL>
+<PG>116-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2011-05-11 12:06:42 +0200" MODIFIED_BY="Sarah L Klingenberg" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Israel Y</AU>
+<TI>Propylthiouracil treatment for alcoholic hepatitis: the case of the missing thirty</TI>
+<SO>Gastroenterology</SO>
+<YR>1982</YR>
+<VL>83</VL>
+<NO>3</NO>
+<PG>945-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Kalant H, Israel Y, Blake J, Medline A, Rankin JC, et al</AU>
+<TI>Effect of short-term therapy with propylthiouracil in patients with alcoholic liver disease</TI>
+<SO>Gastroenterology</SO>
+<YR>1979</YR>
+<VL>76</VL>
+<NO>1</NO>
+<PG>105-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Orrego-1987" MODIFIED="2011-05-11 12:07:22 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Orrego 1987" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Blake JE, Blendis LM, Compton KV, Israel Y</AU>
+<TI>Chronic propylthiouracil treatment increases survival in patients with alcoholic liver disease</TI>
+<SO>Hepatology</SO>
+<YR>1986</YR>
+<VL>6</VL>
+<NO>5</NO>
+<PG>1125</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Blake JE, Blendis LM, Compton KV, Israel Y</AU>
+<TI>Long term treatment of alcoholic liver disease with propylthiouracil</TI>
+<SO>The Lancet</SO>
+<YR>1988</YR>
+<VL>1</VL>
+<NO>8590</NO>
+<PG>892</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2011-05-11 12:07:07 +0200" MODIFIED_BY="Sarah L Klingenberg" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Blake JE, Blendis LM, Compton KV, Israel Y</AU>
+<TI>Long-term treatment of alcoholic liver disease with propylthiouracil</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1987</YR>
+<VL>317</VL>
+<PG>1421-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2011-05-11 12:07:13 +0200" MODIFIED_BY="Sarah L Klingenberg" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Blake JE, Blendis LM, Compton KV, Israel Y</AU>
+<TI>Propylthiouracil for alcoholic liver disease</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1988</YR>
+<VL>318</VL>
+<NO>2</NO>
+<PG>1471-2</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="3285213"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2011-05-11 12:07:22 +0200" MODIFIED_BY="Sarah L Klingenberg" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Blake JE, Blendis LM, Compton KV, Volpe R, Israel Y</AU>
+<TI>Long-term treatment of alcoholic liver disease with propylthiouracil. Part 2: influence of drop-out rates and of continued alcohol consumption in a clinical trial</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1994</YR>
+<VL>20</VL>
+<PG>343-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pierrugues-1989" NAME="Pierrugues 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Pierrugues R, Blanc P, Barneon G, Bories P, Michel H</AU>
+<TI>Short-term therapy with propylthiouracile (PTU) for alcoholic hepatitis (AH). A clinical, biochemical and histological randomized trial about 25 patients</TI>
+<SO>Gastoenterology</SO>
+<YR>1989</YR>
+<VL>96</VL>
+<NO>5</NO>
+<PG>A644</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Pierrugues R, Blanc P, Barneon G, Bories P, Michel H</AU>
+<TI>Short-term therapy with propylthiouracile (PTU) for alcoholic hepatitis (AH). A clinical, biochemical and histological randomized trial about 29 patients</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1989</YR>
+<VL>9</VL>
+<PG>S72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rodriguez-1993" NAME="Rodriguez 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Rodriguez-Rodriguez E, Gonzalez-Reimers E, Santolaria-Fernandez F, Rodriguez-Moreno F, Conde-Martel A, Martinez-Riera A, et al</AU>
+<TI>Propylthiouracil in acute alcoholic hepatitis</TI>
+<SO>II United European Gastroenterology Week</SO>
+<YR>1993</YR>
+<PG>A339</PG>
+<CY>Barcelona</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Serrano_x002d_Cancino-1981" NAME="Serrano-Cancino 1981" YEAR="1981">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Serrano-Cancino H, Botero R, Jeffers L, Mariani A, Cowen G, Ravenhran N, et al</AU>
+<TI>Treatment of severe alcoholic hepatitis with propylthiouracil (PTU)</TI>
+<SO>American Journal of Gastroenterology</SO>
+<YR>1981</YR>
+<VL>76</VL>
+<NO>2</NO>
+<PG>194A</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2011-05-11 12:08:18 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<STUDY DATA_SOURCE="PUB" ID="STD-Rojter-1995" MODIFIED="2011-05-11 12:08:18 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rojter 1995" YEAR="1995">
+<REFERENCE MODIFIED="2011-05-11 12:08:18 +0200" MODIFIED_BY="Sarah L Klingenberg" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Rojter S, Tessler J, Alvarez D, Persico R, Lopez P, Bandi JC, et al</AU>
+<TI>Vasodilatatory effects of propylthiouracil in patients with alcoholic cirrhosis</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1995</YR>
+<VL>22</VL>
+<PG>184-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rojter S, Tessler J, Alvarez D, Persico R, Lopez P, Macias C, et al</AU>
+<TI>Vasodilatatory effects of propylthiouracil (PTU) in patients with alcoholic cirrhosis (AC)</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1992</YR>
+<VL>16</VL>
+<PG>S64-S65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sogni-1997" NAME="Sogni 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sogni P, Hadengue A, Moreau R, Le Moine O, Soupison T, Oberti F, et al</AU>
+<TI>Acute effects of propylthiouracil on hemodynamics and oxygen content in patients with alcoholic cirrhosis</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1997</YR>
+<VL>26</VL>
+<PG>628-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2011-05-12 13:15:27 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<ADDITIONAL_REFERENCES MODIFIED="2011-05-12 13:15:27 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<REFERENCE ID="REF-Akriviadis-2000" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Akriviadis 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Akriviadis E, Botla R, Briggs W, Han S, Reynolds T, Shakil O</AU>
+<TI>Pentoxifylline improves short-term survival in severe acute alcoholic hepatitis: a double-blind, placebo-controlled trial</TI>
+<SO>Gastroenterology</SO>
+<YR>2000</YR>
+<VL>119</VL>
+<PG>1637-48</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brok-2009" MODIFIED="2011-05-11 14:29:56 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Brok 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Brok J, Thorlund K, Wetterslev J, Gluud C</AU>
+<TI>Apparently conclusive meta-analyses may be inconclusive--Trial sequential analysis adjustment of random error risk due to repetitive testing of accumulating data in apparently conclusive neonatal meta-analyses</TI>
+<SO>International Journal of Epidemiology</SO>
+<YR>2009</YR>
+<VL>38</VL>
+<NO>1</NO>
+<PG>287-98</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Carmichael-1993" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Carmichael 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Carmichael FJ, Orrego H, Saldivia V, Israel Y</AU>
+<TI>Effect of propylthiouracil on the ethanol-induced increase in liver oxygen consumption in awake rats</TI>
+<SO>Hepatology</SO>
+<YR>1993</YR>
+<VL>18</VL>
+<PG>415-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-1994" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Chang 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Chang TT, Lin CY, Chow NH, Hsu PI, Yang CC, Lin XZ, et al</AU>
+<TI>Hepatitis B and hepatitis C virus infection among chronic alcoholic patients with liver disease in Taiwan</TI>
+<SO>Journal of the Formosan Medical Association</SO>
+<YR>1994</YR>
+<VL>93</VL>
+<NO>2</NO>
+<PG>128-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Christensen-1995" MODIFIED="2011-05-11 12:13:39 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Christensen 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Christensen E, Gluud C</AU>
+<TI>Glucocorticosteroids are ineffective in alcoholic hepatitis: a meta-analysis adjusting for confounding variables</TI>
+<SO>Gut</SO>
+<YR>1995</YR>
+<VL>37</VL>
+<NO>1</NO>
+<PG>113-8</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 7672658"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Corrao-1998a" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Corrao 1998a" TYPE="JOURNAL_ARTICLE">
+<AU>Corrao G, Zambon A, Torchio P, Arico S, La Vecchia C, Di Iorio F</AU>
+<TI>Attributable risk for symptomatic liver cirrhosis in Italy. Collaborative Groups for the Study of Liver Diseases in Italy</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1998</YR>
+<VL>28</VL>
+<NO>4</NO>
+<PG>608-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Corrao-1998b" MODIFIED="2011-05-11 12:13:59 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Corrao 1998b" TYPE="JOURNAL_ARTICLE">
+<AU>Corrao G, Arico S</AU>
+<TI>Independent and combined action of hepatitis C virus infection and alcohol consumption on the risk of symptomatic liver cirrhosis</TI>
+<SO>Hepatology</SO>
+<YR>1998</YR>
+<VL>27</VL>
+<NO>4</NO>
+<PG>914-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Deidiker-1996" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Deidiker 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Deidiker R, de Mello DE</AU>
+<TI>Propylthiouracil-induced fulminant hepatitis: case report and review of the literature</TI>
+<SO>Pediatric Pathology</SO>
+<YR>1996</YR>
+<VL>16</VL>
+<PG>845-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-DeMets-1987" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="DeMets 1987" TYPE="JOURNAL_ARTICLE">
+<AU>DeMets DL</AU>
+<TI>Methods of combining randomized clinical trials: strengths and limitations</TI>
+<SO>Statistics in Medicine</SO>
+<YR>1987</YR>
+<VL>6</VL>
+<NO>3</NO>
+<PG>341-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-DerSimonian-1986" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="DerSimonian 1986" TYPE="JOURNAL_ARTICLE">
+<AU>DerSimonian R, Laird N</AU>
+<TI>Meta-analysis in clinical trials</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1986</YR>
+<VL>7</VL>
+<NO>3</NO>
+<PG>177-88</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dysseleer-2000" MODIFIED="2011-05-11 12:42:13 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Dysseleer 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Dysseleer A, Buysschaert M, Fonck C, Van Ginder Deuren K, Jadoul M, Tennstedt D</AU>
+<TI>Acute interstitial nephritis and fatal Stevens-Johnson syndrome after propylthiouracil therapy</TI>
+<SO>Thyroid</SO>
+<YR>2000</YR>
+<VL>10</VL>
+<NO>8</NO>
+<PG>713-6</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 11014318"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Egger-1997" MODIFIED="2011-05-11 12:14:36 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Egger 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Egger M, Davey Smith G, Schneider M, Minder C</AU>
+<TI>Bias in meta-analysis detected by a simple graphical test</TI>
+<SO>BMJ (Clinical Research Ed.)</SO>
+<YR>1997</YR>
+<VL>315</VL>
+<PG>629-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Flora-1998" MODIFIED="2011-05-11 12:14:47 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Flora 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Flora K, Hahn M, Rosen H, Benner K</AU>
+<TI>Milk thistle (Silybum marianum) for the therapy of liver disease</TI>
+<SO>The American Journal of Gastroenterology</SO>
+<YR>1998</YR>
+<VL>93</VL>
+<NO>2</NO>
+<PG>139-43</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 9468229"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Gluud-1988" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Gluud 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Gluud C</AU>
+<TI>Testosterone and alcoholic cirrhosis. Epidemiologic, pathophysiologic and therapeutic studies in men</TI>
+<SO>Danish Medical Bullettin</SO>
+<YR>1988</YR>
+<VL>35</VL>
+<NO>6</NO>
+<PG>564-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gluud-1993" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Gluud 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Gluud C, Afroudakis A, Caballeria J, Laskus T, Morgan MY, Rueff B, et al</AU>
+<TI>Diagnosis and treatment of alcoholic liver disease in Europe</TI>
+<SO>Gastroenterology International</SO>
+<YR>1993</YR>
+<VL>6</VL>
+<NO>4</NO>
+<PG>221-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gluud-2001" MODIFIED="2011-05-11 12:15:07 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Gluud 2001" TYPE="BOOK_SECTION">
+<AU>Gluud C</AU>
+<TI>Alcoholic hepatitis: no glucocorticosteroids?</TI>
+<SO>Steatohepatitis (NASH and ASH). FALK Symposium 121</SO>
+<YR>2001</YR>
+<EN>Leuschner U, James O, Dancygier H</EN>
+<PB>Kluwer Academic Publishers</PB>
+<CY>Dordrecht</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gluud-2011" MODIFIED="2011-05-11 12:47:07 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Gluud 2011" TYPE="OTHER">
+<AU>Gluud C, Nikolova D, Klingenberg SL, Alexakis N, Als-Nielsen B, Colli A, et al</AU>
+<TI>Cochrane Hepato-Biliary Group. About The Cochrane Collaboration (Cochrane Review Groups (CRGs))</TI>
+<SO>2011, Issue 5. Art. No.: LIVER</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gonzalez_x002d_Reimers1988" MODIFIED="2011-05-11 12:16:54 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Gonzalez-Reimers1988" TYPE="JOURNAL_ARTICLE">
+<AU>Gonzalez-Reimers CE, Santolaria-Fernandez FJ, Gonzalez-Hernandez T, Batista-Lopez N, Gomez-Sirvent JL, Perez-Delgado MM, et al</AU>
+<TI>Effect of propylthiouracil on liver cell development in the male albino mouse: protective effect against ethanol-induced alterations</TI>
+<SO>Drug and Alcohol Dependence</SO>
+<YR>1988</YR>
+<VL>21</VL>
+<PG>11-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gurusamy-2009" MODIFIED="2011-05-11 12:17:01 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Gurusamy 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Gurusamy KS</AU>
+<TI>Assessment of risk of bias in randomized clinical trials in surgery</TI>
+<SO>British Journal of Surgery</SO>
+<YR>2009</YR>
+<VL>96</VL>
+<PG>342-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hall_x00e9_-1982a" MODIFIED="2011-05-11 12:04:10 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Hallé 1982a" TYPE="JOURNAL_ARTICLE">
+<AU>Hallé P, Paré P, Kaptein E, Kanel G, Redeker AG, Reynolds TB</AU>
+<TI>Double-blind, controlled trial of propylthiouracil in patients with severe acute alcoholic hepatitis</TI>
+<SO>Gastroenterology</SO>
+<YR>1982</YR>
+<VL>82</VL>
+<NO>5</NO>
+<PG>925-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hicks-1992" MODIFIED="2011-05-11 12:17:14 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Hicks 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Hicks M, Wong LS, Day RO</AU>
+<TI>Antioxidant activity of propylthiouracil</TI>
+<SO>Biochemical Pharmacology</SO>
+<YR>1992</YR>
+<VL>43</VL>
+<NO>3</NO>
+<PG>439-44</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="1311579"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2011" MODIFIED="2011-05-11 12:18:08 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Higgins 2011" TYPE="OTHER">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]</TI>
+<SO>The Cochrane Collaboration, 2011. Available from www.cochrane-handbook.org</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hill-1993" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Hill 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Hill DB, Marsano LS, McClain CJ</AU>
+<TI>Increased plasma interleukin-8 concentrations in alcoholic hepatitis</TI>
+<SO>Hepatology</SO>
+<YR>1993</YR>
+<VL>18</VL>
+<NO>3</NO>
+<PG>576-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Huang-1994" MODIFIED="2011-05-11 12:18:49 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Huang 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Huang MJ, Li KL, Wei JS, Wu SS, Fan KD, Liaw YF</AU>
+<TI>Sequential liver and bone biochemical changes in hyperthyroidism: prospective controlled follow-up study</TI>
+<SO>The American Journal of Gastroenterology</SO>
+<YR>1994</YR>
+<VL>89</VL>
+<NO>7</NO>
+<PG>1071-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ICH_x002d_GCP-1997" MODIFIED="2011-05-11 12:47:51 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="ICH-GCP 1997" TYPE="BOOK">
+<AU>International Conference on Harmonisation Expert Working Group</AU>
+<SO>International conference on harmonisation of technical requirements for registration of pharmaceuticals for human use. ICH harmonised tripartite guideline. Guideline for good clinical practice1997 CFR &amp; ICH Guidelines</SO>
+<YR>1997</YR>
+<VL>1</VL>
+<PB>Barnett International/PAREXEL</PB>
+<CY>PA 19063-2043, USA</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ichiki-1998" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Ichiki 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Ichiki Y, Akahoshi M, Yamashita N, Morita C, Maruyama T, Horiuchi T, et al</AU>
+<TI>Propylthiouracil-induced severe hepatitis: a case report and review of the literature</TI>
+<SO>Journal of Gastroenterology</SO>
+<YR>1998</YR>
+<VL>33</VL>
+<PG>747-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Imamura-1986" MODIFIED="2011-05-11 12:22:49 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Imamura 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Imamura M, Aoki N, Saito T, Ohno Y, Maruyama Y, Yamaguchi J, et al</AU>
+<TI>Inhibitory effects of antithyroid drugs on oxygen radical formation in human neutrophils</TI>
+<SO>Acta Endocrinologica</SO>
+<YR>1986</YR>
+<VL>112</VL>
+<PG>210-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ioannidis-2000" MODIFIED="2011-05-11 12:23:00 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Ioannidis 2000" TYPE="OTHER">
+<AU>Ioannidis JPA, Lau J</AU>
+<TI>What certainty can there be on how much treatment work? Empirical insight from recursive cumulative meta-analyses</TI>
+<SO>8th International Cochrane Colloquium, October</SO>
+<YR>2000</YR>
+<PG>21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Israel-1975a" MODIFIED="2011-05-11 12:23:15 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Israel 1975a" TYPE="JOURNAL_ARTICLE">
+<AU>Israel Y, Videla L, Berstein J</AU>
+<TI>Liver hypermetabolic state after chronic ethanol consumption: hormonal interrelationships and pathogenic implications</TI>
+<SO>Federation Proceedings</SO>
+<YR>1975</YR>
+<VL>34</VL>
+<PG>2052-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Israel-1975b" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Israel 1975b" TYPE="JOURNAL_ARTICLE">
+<AU>Israel Y, Kalant H, Orrego H, Khanna JM, Videla L, Philips JM</AU>
+<TI>Experimental alcohol-induced hepatic necrosis: suppression by propylthiouracil</TI>
+<SO>Proceedings of the National Academy of Sciences of the United States of America</SO>
+<YR>1975</YR>
+<VL>72</VL>
+<PG>1137-41</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Iturriaga-1980" MODIFIED="2011-05-11 12:23:27 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Iturriaga 1980" TYPE="JOURNAL_ARTICLE">
+<AU>Iturriaga M, Ugarte G, Israel Y</AU>
+<TI>Hepatic vein oxygenation liver blood flow and the rate of ethanol metabolism in recently abstinent patients</TI>
+<SO>European Journal of Clinical Investigation</SO>
+<YR>1980</YR>
+<VL>10</VL>
+<PG>211-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kampmann-1981" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Kampmann 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Kampmann JP, Hansen JM</AU>
+<TI>Clinical pharmacokinetics of antithyroid drugs</TI>
+<SO>Clinical Pharmacokinetics</SO>
+<YR>1981</YR>
+<VL>6</VL>
+<PG>401-28</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kawasaki-1989" MODIFIED="2011-05-11 12:23:48 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Kawasaki 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Kawasaki T, Carmichael FJ, Giles G, Saldivia V, Israel Y, Orrego H</AU>
+<TI>Effects of propylthiouracil and methimazole on splanchnic hemodynamics in awake and unrestrained rats</TI>
+<SO>Hepatology</SO>
+<YR>1989</YR>
+<VL>10</VL>
+<PG>273-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kjaergard-2001" MODIFIED="2011-05-11 12:23:54 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Kjaergard 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Kjaergard LL,Villumsen J, Gluud C</AU>
+<TI>Reported methodological quality and discrepancies between large and small randomized trials in meta-analyses</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2001</YR>
+<VL>135</VL>
+<PG>982-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Klein-1994" MODIFIED="2011-05-11 12:23:59 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Klein 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Klein I, Becker DV, Levey GS</AU>
+<TI>Treatment of hyperthyroid disease</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1994</YR>
+<VL>121</VL>
+<PG>281-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lieber-2000" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Lieber 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Lieber CS</AU>
+<TI>Alcoholic liver disease: new insights in pathogenesis lead to new treatments</TI>
+<SO>Journal of Hepatology</SO>
+<YR>2000</YR>
+<VL>32</VL>
+<NO>Suppl 1</NO>
+<PG>113-28</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lieber-2003" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Lieber 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Lieber CS, Weiss DG, Groszmann R, Paronetto F, Schenker S; For the Veterans Affairs Cooperative Study 391 Group. II</AU>
+<TI>Veterans Affairs Cooperative Study of polyenylphosphatidylcholine in alcoholic liver disease</TI>
+<SO>Alcohol Clinical and Experimental Research</SO>
+<YR>2003</YR>
+<VL>27</VL>
+<PG>1765-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Marbet-1987" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Marbet 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Marbet UA, Bianchi L, Meury U, Stalder GA</AU>
+<TI>Long-term histological evaluation of the natural history and prognostic factors of alcoholic liver disease</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1987</YR>
+<VL>4</VL>
+<NO>3</NO>
+<PG>364-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mato-1999" MODIFIED="2011-05-11 12:24:23 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Mato 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Mato JM, Cámara J, Fernández de Paz J, Caballeria L, Coll S, Cabballero A, et al</AU>
+<TI>S-Andenosylmethionine in alcoholic cirrhosis: a randomised, placebo-controlled, double-blind, multicenter clinical trial</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1999</YR>
+<VL>30</VL>
+<PG>1081-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mendenhall-1984" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Mendenhall 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Mendenhall CL, Anderson S, Garcia-Pont P, Goldenberg S, Kiernan T, Seeff LB, et al</AU>
+<TI>Short-term and long-term survival in patients with alcoholic hepatitis treated with oxandrolone and prednisolone</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1984</YR>
+<VL>311</VL>
+<NO>23</NO>
+<PG>1464-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mezey-1991" MODIFIED="2011-05-11 12:24:36 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Mezey 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Mezey E, Caballeria J, Mitchell MC, Pares A, Herlong HF, Rodes J</AU>
+<TI>Effect of parenteral amino acid supplementation on short-term and long-term outcomes in severe alcoholic hepatitis: a randomised controlled trial</TI>
+<SO>Hepatology</SO>
+<YR>1991</YR>
+<VL>14</VL>
+<NO>6</NO>
+<PG>1090-6</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 1959859"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Moher-1998" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Moher 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Moher D, Pham B, Jones A, Cook DJ, Jadad AR, Moher M, et al</AU>
+<TI>Does quality of reports of randomised trials affect estimates of intervention efficacy reported in meta-analyses</TI>
+<SO>The Lancet</SO>
+<YR>1998</YR>
+<VL>352</VL>
+<PG>609-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Morgan-1999" MODIFIED="2011-05-12 11:48:14 +0200" MODIFIED_BY="Dimitrinka Nikolova" NAME="Morgan 1999" TYPE="BOOK_SECTION">
+<AU>Morgan MY</AU>
+<TI>Alcoholic liver disease: natural history, diagnosis, clinical features, evaluation, management, prognosis, and prevention</TI>
+<SO>Oxford Textbook of Clinical Hepatology</SO>
+<YR>1999</YR>
+<VL>2</VL>
+<PG>1185-238</PG>
+<EN>Second</EN>
+<ED>Bircher J, Benhamou J-P, McIntyre N, Rizzetto M, Rodés J</ED>
+<PB>Oxford Medical Publications</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Morita-2000" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Morita 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Morita S, Ueda Y, Eguchi K</AU>
+<TI>Anti-thyroid drug-induced ANCA-associated vasculitis: a case report and review of the literature</TI>
+<SO>Endocrine Journal</SO>
+<YR>2000</YR>
+<VL>47</VL>
+<NO>4</NO>
+<PG>467-70</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 11075728"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Orrego-1979a" MODIFIED="2011-05-11 12:05:06 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Orrego 1979a" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Kalant H, Israel Y, Blake J, Medline A, Rankin JC</AU>
+<TI>Effect of short-term therapy with propylthiouracil in patients with alcoholic liver disease</TI>
+<SO>Gastroenterology</SO>
+<YR>1979</YR>
+<VL>76</VL>
+<NO>1</NO>
+<PG>105-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Orrego-1987a" MODIFIED="2011-05-11 12:25:04 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Orrego 1987a" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Blake JE, Blendis LM, Compton KV, Israel Y</AU>
+<TI>Long-term treatment of alcoholic liver disease with propylthiouracil</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1987</YR>
+<VL>317</VL>
+<PG>1421-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Orrego-1987b" NAME="Orrego 1987b" TYPE="JOURNAL_ARTICLE">
+<AU>Orrego H, Blake JE, Blendis LM, Israel Y</AU>
+<TI>Prospective validation of the relationship of the combined clinical and laboratory index, the CCLI, with mortality in alcoholic liver disease</TI>
+<SO>Hepatology</SO>
+<YR>1987</YR>
+<VL>7</VL>
+<NO>5</NO>
+<PG>1083</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Powell-1968" MODIFIED="2011-05-12 11:48:00 +0200" MODIFIED_BY="Dimitrinka Nikolova" NAME="Powell 1968" TYPE="JOURNAL_ARTICLE">
+<AU>Powell WJ Jr, Klatskin G</AU>
+<TI>Duration of survival in patients with Laennec´s cirrhosis. Influence of alcohol withdrawal, and possible effects of recent changes in general management of the disease</TI>
+<SO>American Journal of Medicine</SO>
+<YR>1968</YR>
+<VL>44</VL>
+<NO>3</NO>
+<PG>406-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Poynard-1994" MODIFIED="2011-05-11 12:25:23 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Poynard 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Poynard T, Barthelemy P, Fratte S, Boudjema K, Doffoel M, Vanlemmens C, et al</AU>
+<TI>Evaluation of efficacy of liver transplantation in alcoholic cirrhosis by a case-control study and simulated controls</TI>
+<SO>The Lancet</SO>
+<YR>1994</YR>
+<VL>344</VL>
+<NO>8921</NO>
+<PG>502-7</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 7914613"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Poynard-1999" MODIFIED="2011-05-11 12:27:52 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Poynard 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Poynard T, Naveau S, Doffoel M, Boudjema K, Vanlemmens C, Mantion G, et al</AU>
+<TI>Evaluation of efficacy of liver transplantation in alcoholic cirrhosis using matched and simulated controls: 5-year survival. Multi-centre group</TI>
+<SO>Journal of Hepatology</SO>
+<YR>1999</YR>
+<VL>30</VL>
+<NO>6</NO>
+<PG>1130-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rambaldi-2005a" MODIFIED="2011-05-11 12:33:50 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2005a" TYPE="COCHRANE_REVIEW">
+<AU>Rambaldi A, Gluud C</AU>
+<TI>Colchicine for alcoholic and non-alcoholic liver fibrosis or cirrhosis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2005</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2011-05-11 12:33:44 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<IDENTIFIER MODIFIED="2011-05-11 12:33:44 +0200" MODIFIED_BY="Sarah L Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD002148.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Rambaldi-2006a" MODIFIED="2011-05-12 13:15:15 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2006a" TYPE="COCHRANE_REVIEW">
+<AU>Rambaldi A, Gluud C</AU>
+<TI>Anabolic-androgenic steroids for alcoholic liver disease</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2011-05-11 12:32:09 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<IDENTIFIER MODIFIED="2011-05-11 12:32:09 +0200" MODIFIED_BY="Sarah L Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD003045.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Rambaldi-2006b" MODIFIED="2011-05-12 13:15:27 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2006b" TYPE="COCHRANE_REVIEW">
+<AU>Rambaldi A, Gluud C</AU>
+<TI>S-adenosyl-L-methionine for alcoholic liver diseases</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2011-05-11 12:36:30 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<IDENTIFIER MODIFIED="2011-05-11 12:36:30 +0200" MODIFIED_BY="Sarah L Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD002235.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Rambaldi-2007" MODIFIED="2011-05-11 12:35:17 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2007" TYPE="COCHRANE_REVIEW">
+<AU>Rambaldi A, Jacobs BP, Gluud C</AU>
+<TI>Milk thistle for alcoholic and/or hepatitis B or C virus liver diseases</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2007</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2011-05-11 12:35:07 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<IDENTIFIER MODIFIED="2011-05-11 12:35:07 +0200" MODIFIED_BY="Sarah L Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD003620.pub3"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-RevMan-2011" MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova" NAME="RevMan 2011" TYPE="COMPUTER_PROGRAM">
+<TI>Review Manager (RevMan)</TI>
+<YR>2011</YR>
+<EN>5.1</EN>
+<PB>The Nordic Cochrane Centre, The Cochrane Collaboration</PB>
+<CY>Copenhagen</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ross-1998" MODIFIED="2011-05-11 12:38:31 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Ross 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Ross AD, Dey I, Janes N, Israel Y</AU>
+<TI>Effect of antithyroid drugs on hydroxyl radical formation a alpha-1-proteinase inhibitor inactivation by neutrophils: therapeutic implications</TI>
+<SO>The Journal of Pharmacology and Experimental Therapeutics</SO>
+<YR>1998</YR>
+<VL>285</VL>
+<NO>3</NO>
+<PG>1233-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Royle-2003" MODIFIED="2011-05-11 11:31:19 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Royle 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Royle P, Milne R</AU>
+<TI>Literature searching for randomized controlled trials used in Cochrane reviews: rapid versus exhaustive searches</TI>
+<SO>International Journal of Technology Assessment in Health Care</SO>
+<YR>2003</YR>
+<VL>19</VL>
+<NO>4</NO>
+<PG>591-603</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rubin-1968" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Rubin 1968" TYPE="JOURNAL_ARTICLE">
+<AU>Rubin E, Lieber CS</AU>
+<TI>Alcohol-induced hepatic injury in non alcoholic volunteers</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1968</YR>
+<VL>278</VL>
+<NO>16</NO>
+<PG>869-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1995" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Schulz 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Chalmers I, Haeys RJ, Altman DG</AU>
+<TI>Empirical evidence of bias. Dimensions of methodological quality associated with estimates of treatment effects in controlled trials</TI>
+<SO>Journal of American Medical Association</SO>
+<YR>1995</YR>
+<VL>273</VL>
+<NO>5</NO>
+<PG>408-12</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 7823387"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Sheron-1993" MODIFIED="2011-05-11 12:43:03 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Sheron 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Sheron N, Bird G, Koskinas J, Portmann B, Ceska M, Lindley, et al</AU>
+<TI>Circulating and tissue levels of the neutrophil chemotaxin interleukin-8 are elevated in severe acute alcoholic hepatitis, and tissue levels correlate with neutrophil infiltration</TI>
+<SO>Hepatology</SO>
+<YR>1993</YR>
+<VL>18</VL>
+<NO>1</NO>
+<PG>41-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-S_x00f8_rensen-1984" MODIFIED="2011-05-11 12:38:58 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Sørensen 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Sørensen TIA, Orholm M, Bentsen KD, Høybye G, Eghøje K, Christoffersen P</AU>
+<TI>Prospective evaluation of alcohol abuse and alcoholic liver injury in men as predictors of development of cirrhosis</TI>
+<SO>The Lancet</SO>
+<YR>1984</YR>
+<VL>2</VL>
+<NO>8397</NO>
+<PG>241-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Thorlund-2009" MODIFIED="2011-05-11 14:29:56 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Thorlund 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Thorlund K, Devereaux PJ, Wetterslev J, Guyatt G, Ioannidis JP, Thabane L, et al</AU>
+<TI>Can trial sequential monitoring boundaries reduce spurious inferences from meta-analyses</TI>
+<SO>International Journal of Epidemiology</SO>
+<YR>2009</YR>
+<VL>38</VL>
+<NO>1</NO>
+<PG>276-86</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Trinchet-1992" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Trinchet 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Trinchet JC, Balkau B, Poupon RE, Heintzmann F, Callard P, Gotheil C, et al</AU>
+<TI>Treatment of severe alcoholic hepatitis by infusion of insulin and glucagon: a multicenter sequential trial</TI>
+<SO>Hepatology</SO>
+<YR>1992</YR>
+<VL>15</VL>
+<NO>1</NO>
+<PG>76-81</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PMID: 1277803"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Vickers-1998" MODIFIED="2008-11-12 16:52:02 +0100" MODIFIED_BY="dimitrinka nikolova" NAME="Vickers 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Vickers A, Goyal N, Harland R, Rees R</AU>
+<TI>Do certain countries produce only positive results? A systematic review of controlled trials</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1998</YR>
+<VL>19</VL>
+<NO>2</NO>
+<PG>159-66</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wetterslev-2008" MODIFIED="2011-05-11 14:29:56 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Wetterslev 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Wetterslev J, Thorlund K, Brok J, Gluud C</AU>
+<TI>Trial sequential analysis may establish when firm evidence is reached in cumulative meta-analysis</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>2008</YR>
+<VL>61</VL>
+<NO>1</NO>
+<PG>64-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wood-2008" MODIFIED="2011-05-11 11:40:43 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Wood 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Wood L, Egger M, Gluud LL, Schulz KF, Jüni P, Altman GD, et al</AU>
+<TI>Empirical evidence of bias in treatment effect estimates in controlled trials with different interventions and outcomes: meta-epidemiological study</TI>
+<SO>BMJ (Clinical Research Ed.)</SO>
+<YR>2008</YR>
+<VL>336</VL>
+<PG>601-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Younes-1987" MODIFIED="2011-05-11 12:39:17 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Younes 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Younes M, Strubelt O</AU>
+<TI>Enhancement of hypoxic liver damage by ethanol: involvement of xanthine oxidase and the role of glycolysis</TI>
+<SO>Biochemical Pharmacology</SO>
+<YR>1987</YR>
+<VL>36</VL>
+<PG>2973-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yuki-1982" MODIFIED="2011-05-11 12:39:23 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Yuki 1982" TYPE="JOURNAL_ARTICLE">
+<AU>Yuki T, Israel Y, Thurman RG</AU>
+<TI>The swift increase in alcohol metabolism. Inhibition by propylthiouracil</TI>
+<SO>Biochemical Pharmacology</SO>
+<YR>1982</YR>
+<VL>31</VL>
+<PG>2403-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2011-05-12 13:05:27 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<REFERENCE ID="REF-Rambaldi-2001a" MODIFIED="2011-05-12 13:05:01 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2001a" TYPE="COCHRANE_PROTOCOL">
+<AU>Rambaldi A, Gluud C</AU>
+<TI>Propylthiouracil for alcoholic liver disease</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2001</YR>
+<NO>4</NO>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD002800.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Rambaldi-2001b" MODIFIED="2011-05-12 13:04:49 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2001b" TYPE="JOURNAL_ARTICLE">
+<AU>Rambaldi A, Gluud C</AU>
+<TI>Meta-analysis of propylthiouracil for alcoholic liver disease - a Cochrane Hepato-Biliary Group Review</TI>
+<SO>Liver</SO>
+<YR>2001</YR>
+<VL>21</VL>
+<PG>398-404</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rambaldi-2002" MODIFIED="2011-05-12 12:59:53 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2002" TYPE="COCHRANE_REVIEW">
+<AU>Rambaldi A, Gluud C</AU>
+<TI>Propylthiouracil for alcoholic liver disease</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2011-05-12 12:59:53 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<IDENTIFIER MODIFIED="2011-05-12 12:59:53 +0200" MODIFIED_BY="Sarah L Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD002800.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Rambaldi-2005b" MODIFIED="2011-05-12 13:05:26 +0200" MODIFIED_BY="Sarah L Klingenberg" NAME="Rambaldi 2005b" TYPE="COCHRANE_REVIEW">
+<AU>Rambaldi A, Gluud C</AU>
+<TI>Propylthiouracil for alcoholic liver disease</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2005</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2011-05-11 12:40:36 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<IDENTIFIER MODIFIED="2011-05-11 12:40:36 +0200" MODIFIED_BY="Sarah L Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD002800.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2011-05-12 13:24:49 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2011-05-12 13:24:49 +0200" MODIFIED_BY="Dimitrinka Nikolova" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2011-05-12 10:49:55 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Hall_x00e9_-1982">
+<CHAR_METHODS MODIFIED="2010-12-13 17:26:37 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-05-12 10:49:55 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Sixty-seven patients with severe alcoholic hepatitis. Thirty-one patients (29 males and two females, mean age 40 ± 2 years (y)) received PTU, while 36 patients (32 males and four females, mean age 38.9 ± 1 y) received placebo.</P>
+<P>Inclusion criteria: heavy ethanol ingestion and clinical diagnosis of ALD. All had serum bilirubin &gt; 5 mg/dl and at least one of the following: hepatic tenderness, fever above 100 degrees Fahrenheit, or leukocytosis above 12,000 per mm<SUP>3</SUP>.</P>
+<P>Exclusion criteria: serious bacterial infection, massive gastrointestinal bleeding, preexisting renal failure, and previous or current thyroid disease.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Experimental group: <BR/>PTU 75 mg orally every six hours.</P>
+<P>Control group: <BR/>placebo.</P>
+<P>Duration of the treatment: six weeks.</P>
+<P>Duration of follow-up: eight weeks.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>All-cause mortality.<BR/>Complications.<BR/>Biochemistry.<BR/>Liver histology.<BR/>Adverse events.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Sent letter in 2001. <BR/>Dr. Reynolds answered, but no additional data were obtained.</P>
+<P>Seventy-one patients were randomised, but two patients refused participation and two patients were withdrawn as s-bilirubin was &lt; 5 mg/dl at randomisation.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2011-05-12 11:48:59 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Orrego-1979">
+<CHAR_METHODS MODIFIED="2010-12-13 17:56:12 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-05-12 11:48:59 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>A total of 143 patients (69 in the PTU and 74 in placebo group) were included in the trial.</P>
+<P>Inclusion criteria: excessive drinking, and well-documented history of spree-drinking. The criteria for diagnosing liver disease required one or more of the following clinical findings: hepatomegaly, tender liver, jaundice, ascites, collateral circulation, spider nevi, and splenomegaly. Further, at least two of the following abnormal laboratory tests were required: s-aspartate aminotransferase, s-alanine aminotransferase, s-gamma glutamyltranspeptidase, s-alkaline phosphatase, s-total bilirubin.<BR/>In 79 patients in whom the prothrombin time permitted, liver biopsies were performed at 7.6 ± 0.1 day after admission. All biopsy specimens were classified in: fatty liver, alcoholic hepatitis, and cirrhosis without hepatitis. The three histologically diagnosed groups were analysed separately.</P>
+<P>Exclusion criteria: hypothyroidism; diabetes; other therapies that contraindicated the use of PTU; congestive heart failure.<BR/>The indications for being withdrawn from the study were massive gastrointestinal bleeding, incapacity to ingest drug, leukopenia, or adverse reactions.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Experimental group:<BR/>PTU 300 mg orally every day.</P>
+<P>Control group: <BR/>placebo.</P>
+<P>Maximum period of treatment and of follow-up: 46 days. Patients could be discharged before this period if clinical improvement made further stay in the hospital unnecessary.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2011-05-11 12:41:36 +0200" MODIFIED_BY="Sarah L Klingenberg">
+<P>All-cause mortality.<BR/>Biochemistry.<BR/>Liver histology.<BR/>Adverse events.<BR/>Thyroid function.</P>
+<P>A Composite Clinical and Laboratory Index was developed for assessing efficacy. The scoring system was based on the concept that the severity of the disease was proportional to the number of abnormal clinical and laboratory findings. The index included signs and symptoms (hepatomegaly, splenomegaly, ascites, encephalopathy, bleeding tendency, spider naevi, palmar erythema, collateral circulation, peripheral edema, anorexia, and weakness) and laboratory tests (s-bilirubin, prothrombin time, s-albumin, s-gamma glutamyltranspeptidase, s-glutamic oxalacetic transaminase) and depending on the finding, a score (0 to 27) was added for each patient.</P>
+<P>See also Orrego et al (<LINK REF="REF-Orrego-1987b" TYPE="REFERENCE">Orrego 1987b</LINK>).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Sent letter in 2001. No reply.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2011-05-12 13:24:49 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Orrego-1987">
+<CHAR_METHODS MODIFIED="2010-12-13 17:56:31 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-05-12 13:24:49 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>A total of 360 patients were included in the study, 182 in PTU group (152 males and 30 females, mean age (standard error of the mean (SEM)) 49.2 ± 0.8 y and 178 in the placebo group (139 males and 39 females), mean age (SEM) 49.6 ± 0.8 y.</P>
+<P>Inclusion criteria: a) alcoholism, defined as excessive drinking or spree drinking consisting of repeated prolonged inebriations or a well documented history of &gt; 80 g of ethanol per day; and b) a clinical and laboratory evidence of liver disease. The severity of disease in each patient were determined with use of the clinical and laboratory index.</P>
+<P>Exclusion criteria: hepatoma, presence of the hepatitis B surface antigen, contraindications to PTU therapy, and a history of hypothyroidism.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2011-05-12 10:51:05 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Experimental group:<BR/>PTU 150 mg every 12 h orally every day. Because of the risk of severe hypothyroidism, patients in the PTU group were automatically switched every three months by the pharmacy to the placebo for one month, after which they were again given PTU.</P>
+<P>Control group:<BR/>placebo.</P>
+<P>Additional treatment: 15 mg of riboflavin, a fluorescent compound that was used as a marker of compliance. Most of the urine samples contained the riboflavin marker (93.2 ± 0.8 percent in the placebo group, while 93.1 ± 0.7 percent in the PTU group).</P>
+<P>Maximum period of treatment: 24 months.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2010-12-13 13:45:57 +0100" MODIFIED_BY="[Empty name]">
+<P>All-cause mortality.<BR/>Biochemistry.<BR/>Liver histology.<BR/>Adverse events.<BR/>Alcohol consumption.<BR/>Thyroid function.</P>
+<P>This trial also evaluated efficacy with the Combined Clinical and Laboratory Index similar to that of <LINK REF="STD-Orrego-1979" TYPE="STUDY">Orrego 1979</LINK>, but not identical to it (score range 0 to 25).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Sent letter in 2001. No reply.</P>
+<P>Only 310 compliant patients form the basis of the reports of the trial.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2011-05-12 10:51:18 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Pierrugues-1989">
+<CHAR_METHODS MODIFIED="2010-12-13 17:56:52 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Twenty-nine patients were included in the study (17 males and 12 females, mean age 45.8 years ± 11) with alcoholic hepatitis, 14 in the PTU group and 15 in the placebo group.</P>
+<P>Diagnostic assessment: alcoholic hepatitis with liver biopsy.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2011-05-12 10:51:18 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Experimental group:<BR/>PTU 300 mg/day orally.</P>
+<P>Control group:<BR/>placebo.</P>
+<P>Duration of treatment: 28 days.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>All-cause mortality.<BR/>Biochemistry.<BR/>Liver histology.<BR/>Thyroid function.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2011-05-11 21:06:20 +0200" MODIFIED_BY="[Empty name]">
+<P>Sent letter in 2001. No reply.</P>
+<P>Only published as abstract.</P>
+<P>A composite clinical and laboratory index was used to evaluate the effect of PTU, but details on which index that was used are not given.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2011-05-12 10:51:31 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Rodriguez-1993">
+<CHAR_METHODS MODIFIED="2010-12-13 17:57:15 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-05-12 10:51:31 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>The trial was stopped when 66 patients with acute alcoholic hepatitis were included, 34 in PTU and 32 in placebo group, because a trend was observed to higher all-cause mortality rates in the PTU group (35.3% in the PTU versus 18.8% in the placebo group), despite nearly identical Maddrey's discriminant function (51.78 ± 34.9 in PTU group versus 53.72± 34.9 in the placebo group) and Child Pugh's score (11.06 ± 1.98 in the PTU group versus 10.72± 1.91 in the placebo group) at entry.</P>
+<P>Inclusion criteria: patients were all heavy drinkers presenting with s-bilirubin &gt; 4 mg/dl and fever or hepatic tenderness or more than 12000 leukocytes/mm3 in the absence of acute infection.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2011-01-21 17:02:21 +0100" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Experimental group:<BR/>PTU 300 mg/day orally.</P>
+<P>Control group:<BR/>placebo.</P>
+<P>Duration of treatment: 40 days.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>All-cause mortality.<BR/>Complications<BR/>Biochemistry.<BR/>Liver histology.<BR/>Adverse events.<BR/>Thyroid function.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2011-01-21 17:02:35 +0100" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Sent letter in 2001. Dr. Gonzalez-Reimers answered, providing additional data.</P>
+<P>Only published as abstract.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2011-05-12 11:48:42 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<CHAR_METHODS MODIFIED="2010-12-13 17:57:41 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Forty-one patients were studied with severe alcoholic hepatitis (21 in the PTU and 20 in the placebo group). <BR/>At entry there were no significant difference in the clinical severity (ascites, encephalopathy, s-bilirubin, s-albumin, s-creatinin, white blood cell count) between the placebo and the PTU group.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2011-05-12 11:48:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Experimental group:<BR/>PTU 100 mg every eight hours orally.</P>
+<P>Control group:<BR/>placebo.</P>
+<P>Duration of treatment: 17.0 ± 13.3 days.</P>
+<P>Additional treatment in both groups: standard nutritional and supportive diet.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>All-cause mortality.<BR/>Biochemistry.<BR/>Adverse events.<BR/>Duration of hospital stay.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Sent letter in 2001. No reply.</P>
+<P>Only published as abstract.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>PTU = propylthiouracil.<BR/>y = year(s).<BR/>h = hour(s).<BR/>&gt; = more than, greater than.<BR/>&lt; = less than.</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2011-05-04 15:36:02 +0200" MODIFIED_BY="Dimitrinka Nikolova" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Rojter-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study is observational (case series). In eight patients with alcoholic liver cirrhosis mean arterial pressure and portal blood flow were measured before and after placebo and PTU administration. PTU administration caused a significant increase in portal blood flow in patients with alcoholic cirrhosis.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2011-05-04 15:36:02 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Sogni-1997">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2011-05-04 15:36:02 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>The study is observational (case series). Systemic haemodynamics and splanchnic haemodynamics were not modified after the administration of PTU to 12 patients with alcoholic cirrhosis.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2010-12-13 17:46:34 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:26:13 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Hall_x00e9_-1982">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:36:52 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1979">
+<DESCRIPTION>
+<P>Comment: generation of allocation sequence by computer.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:37:12 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1987">
+<DESCRIPTION>
+<P>Comment: generation of allocation sequence by computer.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:37:59 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Pierrugues-1989">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:39:10 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Rodriguez-1993">
+<DESCRIPTION>
+<P>Comment: generation of allocation sequence by computer.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:46:34 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:26:16 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Hall_x00e9_-1982">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova" RESULT="YES" STUDY_ID="STD-Orrego-1979">
+<DESCRIPTION>
+<P>Comment: allocation concealment involved an independent pharmacist</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:37:17 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orrego-1987">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:38:01 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Pierrugues-1989">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-01-21 17:02:41 +0100" MODIFIED_BY="Dimitrinka Nikolova" RESULT="YES" STUDY_ID="STD-Rodriguez-1993">
+<DESCRIPTION>
+<P>Comment: allocation concealment involved an independent observer.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:46:40 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2010-12-13 17:40:10 +0100" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-12-13 17:26:01 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Hall_x00e9_-1982">
+<DESCRIPTION>
+<P>Comment: double blind with placebo of identical presentation.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-12-13 17:36:31 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1979">
+<DESCRIPTION>
+<P>Comment: double blind with placebo of identical presentation.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-12-13 17:37:35 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orrego-1987">
+<DESCRIPTION>
+<P>Comment: double blind with placebo of identical presentation.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" RESULT="UNKNOWN" STUDY_ID="STD-Pierrugues-1989">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-12-13 17:40:10 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Rodriguez-1993">
+<DESCRIPTION>
+<P>Comment: double blind with placebo of identical presentation.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" RESULT="UNKNOWN" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2010-12-13 17:57:59 +0100" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-12-13 17:52:49 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Hall_x00e9_-1982">
+<DESCRIPTION>
+<P>The post-randomisation drop-outs unlikely to result in a change in the effect estimate.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-12-13 17:53:00 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1979">
+<DESCRIPTION>
+<P>The post-randomisation drop-outs unlikely to result in a change in the effect estimate.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-12-13 17:53:14 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1987">
+<DESCRIPTION>
+<P>The post-randomisation drop-outs unlikely to result in a change in the effect estimate.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-12-13 17:38:03 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Pierrugues-1989">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-12-13 17:53:58 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Rodriguez-1993">
+<DESCRIPTION>
+<P>The post-randomisation drop-outs unlikely to result in a change in the effect estimate.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-12-13 17:57:59 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2010-12-13 17:55:27 +0100" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:54:54 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Hall_x00e9_-1982">
+<DESCRIPTION>
+<P>All the important outcomes were reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:55:01 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1979">
+<DESCRIPTION>
+<P>All the important outcomes were reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:55:09 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1987">
+<DESCRIPTION>
+<P>All the important outcomes were reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:55:15 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Pierrugues-1989">
+<DESCRIPTION>
+<P>All the important outcomes were reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:55:20 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Rodriguez-1993">
+<DESCRIPTION>
+<P>All the important outcomes were reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:55:27 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<DESCRIPTION>
+<P>All the important outcomes were reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2011-01-17 18:49:28 +0100" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-09" LEVEL="STUDY" MODIFIED="2011-01-21 17:02:59 +0100" MODIFIED_BY="Dimitrinka Nikolova" NO="9">
+<NAME>Free of academic bias</NAME>
+<DESCRIPTION/>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:28:45 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Hall_x00e9_-1982">
+<DESCRIPTION>
+<P>Comment: No previous trial of the same comparison by the same authors was identified.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:28:54 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1979">
+<DESCRIPTION>
+<P>Comment: No previous trial of the same comparison by the same authors was identified.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:29:27 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Orrego-1987">
+<DESCRIPTION>
+<P>Comment: No previous trial of the same comparison by the same authors was identified. </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:29:43 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Pierrugues-1989">
+<DESCRIPTION>
+<P>Comment: No previous trial of the same comparison by the same authors was identified.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:29:50 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Rodriguez-1993">
+<DESCRIPTION>
+<P>Comment: No previous trial of the same comparison by the same authors was identified.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:29:59 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<DESCRIPTION>
+<P>Comment: No previous trial of the same comparison by the same authors was identified.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-10" LEVEL="STUDY" MODIFIED="2011-01-21 17:02:59 +0100" MODIFIED_BY="Dimitrinka Nikolova" NO="10">
+<NAME>Free of source of funding</NAME>
+<DESCRIPTION/>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:31:02 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Hall_x00e9_-1982">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:58:19 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orrego-1979">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:37:42 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orrego-1987">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:38:13 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Pierrugues-1989">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:58:09 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Rodriguez-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-12-13 17:54:25 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Serrano_x002d_Cancino-1981">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-11-11 10:23:37 +0100" MODIFIED_BY="[Empty name]"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2011-05-12 13:26:22 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<COMPARISON ID="CMP-001" MODIFIED="2011-05-12 13:25:11 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="1">
+<NAME>Propylthiouracil (PTU) versus placebo</NAME>
+<DICH_OUTCOME CHI2="6.028155263806035" CI_END="1.283558535350557" CI_START="0.6450163659069289" CI_STUDY="95" CI_TOTAL="95" DF="5" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9098990393997768" ESTIMABLE="YES" EVENTS_1="49" EVENTS_2="54" I2="17.05588557048681" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.10841567900673917" LOG_CI_START="-0.19042926593388035" LOG_EFFECT_SIZE="-0.04100679346357061" METHOD="MH" MODIFIED="2011-05-12 13:25:11 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="1" P_CHI2="0.3034889787792008" P_Q="1.0" P_Z="0.5906576867186184" Q="0.0" RANDOM="NO" SCALE="123.55560233226757" SORT_BY="STUDY" STUDIES="6" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="351" TOTAL_2="355" WEIGHT="100.0" Z="0.5378832044560152">
+<NAME>Mortality</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.2431989433075215" CI_START="0.5431151506563461" EFFECT_SIZE="1.327188940092166" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="7" LOG_CI_END="0.5109735898480124" LOG_CI_START="-0.2651080820266097" LOG_EFFECT_SIZE="0.12293275391070134" MODIFIED="2010-12-07 17:16:05 +0100" MODIFIED_BY="[Empty name]" ORDER="1474" O_E="0.0" SE="0.45587421572538633" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.20782130056323606" WEIGHT="11.895306599467173"/>
+<DICH_DATA CI_END="2.4263465556623895" CI_START="0.21068320118066886" EFFECT_SIZE="0.714975845410628" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.38495283134623665" LOG_CI_START="-0.6763700914701575" LOG_EFFECT_SIZE="-0.1457086300619604" ORDER="1475" O_E="0.0" SE="0.6234263384955473" STUDY_ID="STD-Orrego-1979" TOTAL_1="69" TOTAL_2="74" VAR="0.3886603995299647" WEIGHT="10.632980389159886"/>
+<DICH_DATA CI_END="1.132009183499866" CI_START="0.3461044844931667" EFFECT_SIZE="0.625934065934066" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="25" LOG_CI_END="0.05384995010944209" LOG_CI_START="-0.46079277349402925" LOG_EFFECT_SIZE="-0.2034714116922936" ORDER="1476" O_E="0.0" SE="0.30230368336724683" STUDY_ID="STD-Orrego-1987" TOTAL_1="182" TOTAL_2="178" VAR="0.09138751697740463" WEIGHT="46.41940881781321"/>
+<DICH_DATA CI_END="72.6230071114122" CI_START="0.14100214804229522" EFFECT_SIZE="3.2" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8610742278439367" LOG_CI_START="-0.8507742712041246" LOG_EFFECT_SIZE="0.505149978319906" ORDER="1477" O_E="0.0" SE="1.592953232207399" STUDY_ID="STD-Pierrugues-1989" TOTAL_1="14" TOTAL_2="15" VAR="2.5374999999999996" WEIGHT="0.88856720175892"/>
+<DICH_DATA CI_END="4.416563716314591" CI_START="0.8022645709982835" EFFECT_SIZE="1.8823529411764706" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="6" LOG_CI_END="0.645084500242013" LOG_CI_START="-0.09568238635874884" LOG_EFFECT_SIZE="0.27470105694163205" ORDER="1478" O_E="0.0" SE="0.43513013604451445" STUDY_ID="STD-Rodriguez-1993" TOTAL_1="34" TOTAL_2="32" VAR="0.18933823529411764" WEIGHT="11.352119159441232"/>
+<DICH_DATA CI_END="1.5335519919474883" CI_START="0.37853223709485373" EFFECT_SIZE="0.7619047619047619" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="10" LOG_CI_END="0.1856985044353168" LOG_CI_START="-0.42189712859130585" LOG_EFFECT_SIZE="-0.11809931207799451" MODIFIED="2010-11-29 17:37:08 +0100" MODIFIED_BY="[Empty name]" ORDER="1479" O_E="0.0" SE="0.35690468248672835" STUDY_ID="STD-Serrano_x002d_Cancino-1981" TOTAL_1="21" TOTAL_2="20" VAR="0.12738095238095237" WEIGHT="18.811617832359573"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="4.212251005703172" CI_END="1.3975167500024428" CI_START="0.5792715188957409" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RR" EFFECT_SIZE="0.8997453253316487" ESTIMABLE="YES" EVENTS_1="33" EVENTS_2="37" I2="28.779173037453052" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.14535702184650282" LOG_CI_START="-0.2371178239789194" LOG_EFFECT_SIZE="-0.04588040106620829" METHOD="MH" MODIFIED="2010-12-10 11:01:00 +0100" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.23943832927763964" P_Q="1.0" P_Z="0.638196829484371" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="316" TOTAL_2="320" WEIGHT="100.0" Z="0.47022142589249627">
+<NAME>Liver-related mortality</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="2.864877679086183" CI_START="0.32689858297642715" EFFECT_SIZE="0.967741935483871" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="6" LOG_CI_END="0.45710608374425643" LOG_CI_START="-0.48558696197347695" LOG_EFFECT_SIZE="-0.014240439114610228" MODIFIED="2010-12-10 11:00:41 +0100" MODIFIED_BY="[Empty name]" ORDER="1480" O_E="0.0" SE="0.5537425614604317" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.3066308243727599" WEIGHT="15.122046746683512"/>
+<DICH_DATA CI_END="2.4263465556623895" CI_START="0.21068320118066886" EFFECT_SIZE="0.714975845410628" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.38495283134623665" LOG_CI_START="-0.6763700914701575" LOG_EFFECT_SIZE="-0.1457086300619604" MODIFIED="2010-12-07 17:17:24 +0100" MODIFIED_BY="[Empty name]" ORDER="1481" O_E="0.0" SE="0.6234263384955473" STUDY_ID="STD-Orrego-1979" TOTAL_1="69" TOTAL_2="74" VAR="0.3886603995299647" WEIGHT="15.770183196462414"/>
+<DICH_DATA CI_END="1.23860831220196" CI_START="0.3262796229283895" EFFECT_SIZE="0.6357142857142857" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="20" LOG_CI_END="0.09293399019908988" LOG_CI_START="-0.4864100482657404" LOG_EFFECT_SIZE="-0.19673802903332524" MODIFIED="2010-12-10 11:01:00 +0100" MODIFIED_BY="[Empty name]" ORDER="1482" O_E="0.0" SE="0.340309555993483" STUDY_ID="STD-Orrego-1987" TOTAL_1="182" TOTAL_2="178" VAR="0.11581059390048154" WEIGHT="55.07713202779532"/>
+<DICH_DATA CI_END="5.303164385173063" CI_START="0.8084485655630861" EFFECT_SIZE="2.070588235294118" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="5" LOG_CI_END="0.7245350893978525" LOG_CI_START="-0.09234760519813838" LOG_EFFECT_SIZE="0.31609374209985713" MODIFIED="2010-12-07 17:17:40 +0100" MODIFIED_BY="[Empty name]" ORDER="1483" O_E="0.0" SE="0.4798409384402383" STUDY_ID="STD-Rodriguez-1993" TOTAL_1="34" TOTAL_2="32" VAR="0.23024732620320854" WEIGHT="14.03063802905875"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.831045646073217" CI_START="0.3895624124067283" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.844574780058651" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="11" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.26269917094867773" LOG_CI_START="-0.4094229534152115" LOG_EFFECT_SIZE="-0.07336189123326686" METHOD="MH" MODIFIED="2011-05-12 12:09:52 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.668753964858732" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="31" TOTAL_2="36" WEIGHT="100.0" Z="0.4278587460308067">
+<NAME>Hepatic encephalopathy</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.831045646073217" CI_START="0.3895624124067283" EFFECT_SIZE="0.844574780058651" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="11" LOG_CI_END="0.26269917094867773" LOG_CI_START="-0.4094229534152115" LOG_EFFECT_SIZE="-0.07336189123326686" MODIFIED="2010-12-10 11:03:04 +0100" MODIFIED_BY="[Empty name]" ORDER="89" O_E="0.0" SE="0.39480786290952224" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.1558732486151841" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="24.400568351643166" CI_START="0.22107603296521453" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="2.3225806451612905" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="1.3873999422857668" LOG_CI_START="-0.6554583370917753" LOG_EFFECT_SIZE="0.3659708025969958" METHOD="MH" MODIFIED="2011-05-12 12:10:09 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.4825287806100179" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="31" TOTAL_2="36" WEIGHT="100.0" Z="0.7022411683906798">
+<NAME>Ascites</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="24.40056835164318" CI_START="0.22107603296521444" EFFECT_SIZE="2.3225806451612905" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="1" LOG_CI_END="1.387399942285767" LOG_CI_START="-0.6554583370917755" LOG_EFFECT_SIZE="0.3659708025969958" MODIFIED="2010-12-07 17:32:32 +0100" MODIFIED_BY="[Empty name]" ORDER="90" O_E="0.0" SE="1.1999850656179407" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="1.4399641577060933" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.5522697683620594" CI_END="3.4714094557657917" CI_START="0.6342616958248533" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RR" EFFECT_SIZE="1.4838403041825095" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="8" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="0.540505842104712" LOG_CI_START="-0.1977315156153176" LOG_EFFECT_SIZE="0.17138716324469722" METHOD="MH" MODIFIED="2011-05-12 12:10:27 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="5" P_CHI2="0.4573918463705158" P_Q="1.0" P_Z="0.36280156139069286" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="65" TOTAL_2="68" WEIGHT="100.0" Z="0.9100397422572202">
+<NAME>Variceal bleeding</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.235420847284593" CI_START="0.416822193147238" EFFECT_SIZE="1.1612903225806452" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="6" LOG_CI_END="0.5099307795227712" LOG_CI_START="-0.38004916565674196" LOG_EFFECT_SIZE="0.06494080693301461" MODIFIED="2010-12-07 17:27:53 +0100" MODIFIED_BY="[Empty name]" ORDER="87" O_E="0.0" SE="0.5227786252702251" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.27329749103942647" WEIGHT="72.93250950570342"/>
+<DICH_DATA CI_END="11.27769003715932" CI_START="0.49091012092803676" EFFECT_SIZE="2.3529411764705883" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="2" LOG_CI_END="1.0522201540046656" LOG_CI_START="-0.30899801410528865" LOG_EFFECT_SIZE="0.37161106994968846" MODIFIED="2010-12-07 17:28:08 +0100" MODIFIED_BY="[Empty name]" ORDER="88" O_E="0.0" SE="0.7995862900863906" STUDY_ID="STD-Rodriguez-1993" TOTAL_1="34" TOTAL_2="32" VAR="0.6393382352941176" WEIGHT="27.067490494296578"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.831045646073217" CI_START="0.3895624124067283" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.844574780058651" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="11" I2="0.0" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="0.26269917094867773" LOG_CI_START="-0.4094229534152115" LOG_EFFECT_SIZE="-0.07336189123326686" METHOD="MH" MODIFIED="2011-05-12 12:10:44 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="6" P_CHI2="1.0" P_Q="1.0" P_Z="0.668753964858732" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="31" TOTAL_2="36" WEIGHT="100.0" Z="0.4278587460308067">
+<NAME>Hepato-renal syndrome</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.831045646073217" CI_START="0.3895624124067283" EFFECT_SIZE="0.844574780058651" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="11" LOG_CI_END="0.26269917094867773" LOG_CI_START="-0.4094229534152115" LOG_EFFECT_SIZE="-0.07336189123326686" MODIFIED="2010-12-07 17:33:54 +0100" MODIFIED_BY="[Empty name]" ORDER="91" O_E="0.0" SE="0.39480786290952224" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.1558732486151841" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" MODIFIED="2011-05-12 12:11:35 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="2">
+<NAME>Adverse events</NAME>
+<DICH_OUTCOME CHI2="1.3965917811613369" CI_END="10.029061922770586" CI_START="0.27679560718850943" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RR" EFFECT_SIZE="1.6661333333333335" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="1" I2="28.397115500103453" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="1.0012603127993729" LOG_CI_START="-0.5578408065163228" LOG_EFFECT_SIZE="0.22170975314152508" METHOD="MH" MODIFIED="2011-05-12 12:11:11 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="1" P_CHI2="0.23729526455364747" P_Q="1.0" P_Z="0.57723519800457" Q="0.0" RANDOM="NO" SCALE="111.16" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="100" TOTAL_2="110" WEIGHT="100.0" Z="0.5574277714191885">
+<NAME>Serious adverse events</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="9.134070726679138" CI_START="0.016262848338864475" EFFECT_SIZE="0.3854166666666667" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.9606643701007992" LOG_CI_START="-1.7888033880459462" LOG_EFFECT_SIZE="-0.4140695089725734" MODIFIED="2010-12-07 17:37:10 +0100" MODIFIED_BY="[Empty name]" ORDER="92" O_E="0.0" SE="1.6150509712203016" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="2.6083896396396393" WEIGHT="74.24"/>
+<DICH_DATA CI_END="109.64767159700938" CI_START="0.2617381579913048" EFFECT_SIZE="5.357142857142857" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="2.039999413730759" LOG_CI_START="-0.582132958303835" LOG_EFFECT_SIZE="0.728933227713462" MODIFIED="2010-12-07 17:37:29 +0100" MODIFIED_BY="[Empty name]" ORDER="93" O_E="0.0" SE="1.540253535097697" STUDY_ID="STD-Orrego-1979" TOTAL_1="69" TOTAL_2="74" VAR="2.3723809523809525" WEIGHT="25.76"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.9959184488748991" CI_END="5.009167641819222" CI_START="0.39726785316834073" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RR" EFFECT_SIZE="1.410666961130742" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="4" I2="0.0" I2_Q="0.0" ID="CMP-002.02" LOG_CI_END="0.6997655664666581" LOG_CI_START="-0.40091657654154983" LOG_EFFECT_SIZE="0.14942449496255414" METHOD="MH" MODIFIED="2011-05-12 12:11:35 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="2" P_CHI2="0.31830038971614194" P_Q="1.0" P_Z="0.5946188057488982" Q="0.0" RANDOM="NO" SCALE="59.33" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="100" TOTAL_2="110" WEIGHT="100.0" Z="0.5321547740100094">
+<NAME>Non-serious adverse events</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="11.83078448682283" CI_START="0.45596138272031894" EFFECT_SIZE="2.3225806451612905" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="2" LOG_CI_END="1.0730135431911052" LOG_CI_START="-0.34107193799711366" LOG_EFFECT_SIZE="0.3659708025969958" MODIFIED="2010-12-07 17:40:17 +0100" MODIFIED_BY="[Empty name]" ORDER="94" O_E="0.0" SE="0.8306408114859836" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.6899641577060932" WEIGHT="48.95097173144876"/>
+<DICH_DATA CI_END="5.782015874223799" CI_START="0.0497308619926545" EFFECT_SIZE="0.5362318840579711" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" LOG_CI_END="0.7620792796691835" LOG_CI_START="-1.3033740130097042" LOG_EFFECT_SIZE="-0.2706473666702603" MODIFIED="2010-12-07 17:40:26 +0100" MODIFIED_BY="[Empty name]" ORDER="95" O_E="0.0" SE="1.2132574882782705" STUDY_ID="STD-Orrego-1979" TOTAL_1="69" TOTAL_2="74" VAR="1.471993732863298" WEIGHT="51.04902826855123"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" MODIFIED="2011-05-12 13:26:22 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="3">
+<NAME>Sensitivity analyses</NAME>
+<DICH_OUTCOME CHI2="5.789152210823865" CI_END="1.3045336555217983" CI_START="0.6598836463542985" CI_STUDY="95" CI_TOTAL="95" DF="5" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9278148659067856" ESTIMABLE="YES" EVENTS_1="50" EVENTS_2="54" I2="13.631567837314801" I2_Q="28.669061175611315" ID="CMP-003.01" LOG_CI_END="0.1154552878968432" LOG_CI_START="-0.18053263445965828" LOG_EFFECT_SIZE="-0.03253867328140756" METHOD="MH" MODIFIED="2011-05-12 11:47:47 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="1" P_CHI2="0.32727915980155153" P_Q="0.23640321557489863" P_Z="0.6665212846716728" Q="1.4019162182372553" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="6" SUBGROUPS="YES" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="351" TOTAL_2="355" WEIGHT="100.0" Z="0.43092722992569593">
+<NAME>Mortality and quality criteria</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="1.6334980545631197" CI_END="2.6089205375208007" CI_START="0.6655946437257587" DF="1" EFFECT_SIZE="1.3177570093457944" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="12" I2="38.78168405487016" ID="CMP-003.01.01" LOG_CI_END="0.41646085156408286" LOG_CI_START="-0.17679018162374233" LOG_EFFECT_SIZE="0.11983533497017028" MODIFIED="2011-05-12 11:20:03 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="1" P_CHI2="0.20121996212891524" P_Z="0.42846776120462216" STUDIES="2" TAU2="0.0" TOTAL_1="103" TOTAL_2="106" WEIGHT="21.98509954860112" Z="0.7918163727578895">
+<NAME>Trials with low risk of bias</NAME>
+<DICH_DATA CI_END="2.4263465556623895" CI_START="0.21068320118066886" EFFECT_SIZE="0.714975845410628" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.38495283134623665" LOG_CI_START="-0.6763700914701575" LOG_EFFECT_SIZE="-0.1457086300619604" MODIFIED="2010-12-13 18:04:13 +0100" MODIFIED_BY="[Empty name]" ORDER="54" O_E="0.0" SE="0.6234263384955473" STUDY_ID="STD-Orrego-1979" TOTAL_1="69" TOTAL_2="74" VAR="0.3886603995299647" WEIGHT="10.632980389159886"/>
+<DICH_DATA CI_END="4.416563716314591" CI_START="0.8022645709982835" EFFECT_SIZE="1.8823529411764706" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="6" LOG_CI_END="0.645084500242013" LOG_CI_START="-0.09568238635874884" LOG_EFFECT_SIZE="0.27470105694163205" MODIFIED="2010-12-13 18:04:24 +0100" MODIFIED_BY="[Empty name]" ORDER="55" O_E="0.0" SE="0.43513013604451445" STUDY_ID="STD-Rodriguez-1993" TOTAL_1="34" TOTAL_2="32" VAR="0.18933823529411764" WEIGHT="11.352119159441232"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="2.663240846099968" CI_END="1.2152171525366637" CI_START="0.5505222110995895" DF="3" EFFECT_SIZE="0.8179266677280007" ESTIMABLE="YES" EVENTS_1="34" EVENTS_2="42" I2="0.0" ID="CMP-003.01.02" LOG_CI_END="0.0846538908740281" LOG_CI_START="-0.25922515450622297" LOG_EFFECT_SIZE="-0.08728563181609744" MODIFIED="2011-05-12 11:47:47 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="2" P_CHI2="0.44651037262250026" P_Z="0.3197451323899396" STUDIES="4" TAU2="0.0" TOTAL_1="248" TOTAL_2="249" WEIGHT="78.01490045139889" Z="0.9949817938932746">
+<NAME>Trials with high risk of bias</NAME>
+<DICH_DATA CI_END="3.2431989433075215" CI_START="0.5431151506563461" EFFECT_SIZE="1.327188940092166" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="7" LOG_CI_END="0.5109735898480124" LOG_CI_START="-0.2651080820266097" LOG_EFFECT_SIZE="0.12293275391070134" MODIFIED="2010-12-07 19:07:04 +0100" MODIFIED_BY="[Empty name]" ORDER="102" O_E="0.0" SE="0.45587421572538633" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.20782130056323606" WEIGHT="11.895306599467173"/>
+<DICH_DATA CI_END="1.132009183499866" CI_START="0.3461044844931667" EFFECT_SIZE="0.625934065934066" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="25" LOG_CI_END="0.05384995010944209" LOG_CI_START="-0.46079277349402925" LOG_EFFECT_SIZE="-0.2034714116922936" MODIFIED="2010-12-13 17:59:13 +0100" MODIFIED_BY="[Empty name]" ORDER="52" O_E="0.0" SE="0.30230368336724683" STUDY_ID="STD-Orrego-1987" TOTAL_1="182" TOTAL_2="178" VAR="0.09138751697740463" WEIGHT="46.41940881781321"/>
+<DICH_DATA CI_END="72.6230071114122" CI_START="0.14100214804229522" EFFECT_SIZE="3.2" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8610742278439367" LOG_CI_START="-0.8507742712041246" LOG_EFFECT_SIZE="0.505149978319906" MODIFIED="2010-12-07 19:07:25 +0100" MODIFIED_BY="[Empty name]" ORDER="103" O_E="0.0" SE="1.592953232207399" STUDY_ID="STD-Pierrugues-1989" TOTAL_1="14" TOTAL_2="15" VAR="2.5374999999999996" WEIGHT="0.88856720175892"/>
+<DICH_DATA CI_END="1.6588646405515997" CI_START="0.44288958821059843" EFFECT_SIZE="0.8571428571428571" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" LOG_CI_END="0.2198109500630331" LOG_CI_START="-0.35370452932425955" LOG_EFFECT_SIZE="-0.06694678963061322" MODIFIED="2010-12-07 19:07:43 +0100" MODIFIED_BY="[Empty name]" ORDER="104" O_E="0.0" SE="0.33688583153950463" STUDY_ID="STD-Serrano_x002d_Cancino-1981" TOTAL_1="21" TOTAL_2="20" VAR="0.11349206349206349" WEIGHT="18.811617832359573"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="5.789152210823865" CI_END="1.3045336555217983" CI_START="0.6598836463542985" CI_STUDY="95" CI_TOTAL="95" DF="5" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9278148659067856" ESTIMABLE="YES" EVENTS_1="50" EVENTS_2="54" I2="13.631567837314801" I2_Q="66.64774944940606" ID="CMP-003.02" LOG_CI_END="0.1154552878968432" LOG_CI_START="-0.18053263445965828" LOG_EFFECT_SIZE="-0.03253867328140756" METHOD="MH" MODIFIED="2011-05-12 11:10:51 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="2" P_CHI2="0.32727915980155153" P_Q="0.08335221144814342" P_Z="0.6665212846716728" Q="2.9982984161235025" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="6" SUBGROUPS="YES" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="351" TOTAL_2="355" WEIGHT="100.0" Z="0.43092722992569593">
+<NAME>Mortality and duration of treatment</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="3.1689485962055763" CI_END="1.811155608688342" CI_START="0.7810206456085946" DF="4" EFFECT_SIZE="1.189348528731337" ESTIMABLE="YES" EVENTS_1="34" EVENTS_2="29" I2="0.0" ID="CMP-003.02.01" LOG_CI_END="0.2579557651078031" LOG_CI_START="-0.10733748577010137" LOG_EFFECT_SIZE="0.07530913966885086" MODIFIED="2010-12-07 19:15:20 +0100" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.5299609538674479" P_Z="0.41901265540922117" STUDIES="5" TAU2="0.0" TOTAL_1="169" TOTAL_2="177" WEIGHT="53.58059118218678" Z="0.8081353876805092">
+<NAME>Short-term treatment (less than 46 days)</NAME>
+<DICH_DATA CI_END="3.2431989433075215" CI_START="0.5431151506563461" EFFECT_SIZE="1.327188940092166" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="7" LOG_CI_END="0.5109735898480124" LOG_CI_START="-0.2651080820266097" LOG_EFFECT_SIZE="0.12293275391070134" MODIFIED="2010-12-07 19:14:35 +0100" MODIFIED_BY="[Empty name]" ORDER="105" O_E="0.0" SE="0.45587421572538633" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.20782130056323606" WEIGHT="11.895306599467173"/>
+<DICH_DATA CI_END="2.4263465556623895" CI_START="0.21068320118066886" EFFECT_SIZE="0.714975845410628" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.38495283134623665" LOG_CI_START="-0.6763700914701575" LOG_EFFECT_SIZE="-0.1457086300619604" MODIFIED="2010-12-07 19:14:47 +0100" MODIFIED_BY="[Empty name]" ORDER="106" O_E="0.0" SE="0.6234263384955473" STUDY_ID="STD-Orrego-1979" TOTAL_1="69" TOTAL_2="74" VAR="0.3886603995299647" WEIGHT="10.632980389159886"/>
+<DICH_DATA CI_END="72.6230071114122" CI_START="0.14100214804229522" EFFECT_SIZE="3.2" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8610742278439367" LOG_CI_START="-0.8507742712041246" LOG_EFFECT_SIZE="0.505149978319906" MODIFIED="2010-12-07 19:14:59 +0100" MODIFIED_BY="[Empty name]" ORDER="107" O_E="0.0" SE="1.592953232207399" STUDY_ID="STD-Pierrugues-1989" TOTAL_1="14" TOTAL_2="15" VAR="2.5374999999999996" WEIGHT="0.88856720175892"/>
+<DICH_DATA CI_END="4.416563716314591" CI_START="0.8022645709982835" EFFECT_SIZE="1.8823529411764706" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="6" LOG_CI_END="0.645084500242013" LOG_CI_START="-0.09568238635874884" LOG_EFFECT_SIZE="0.27470105694163205" MODIFIED="2010-12-07 19:15:09 +0100" MODIFIED_BY="[Empty name]" ORDER="108" O_E="0.0" SE="0.43513013604451445" STUDY_ID="STD-Rodriguez-1993" TOTAL_1="34" TOTAL_2="32" VAR="0.18933823529411764" WEIGHT="11.352119159441232"/>
+<DICH_DATA CI_END="1.6588646405515997" CI_START="0.44288958821059843" EFFECT_SIZE="0.8571428571428571" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" LOG_CI_END="0.2198109500630331" LOG_CI_START="-0.35370452932425955" LOG_EFFECT_SIZE="-0.06694678963061322" MODIFIED="2010-12-07 19:15:20 +0100" MODIFIED_BY="[Empty name]" ORDER="109" O_E="0.0" SE="0.33688583153950463" STUDY_ID="STD-Serrano_x002d_Cancino-1981" TOTAL_1="21" TOTAL_2="20" VAR="0.11349206349206349" WEIGHT="18.811617832359573"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.132009183499866" CI_START="0.3461044844931667" DF="0" EFFECT_SIZE="0.625934065934066" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="25" I2="0.0" ID="CMP-003.02.02" LOG_CI_END="0.05384995010944209" LOG_CI_START="-0.46079277349402925" LOG_EFFECT_SIZE="-0.2034714116922936" MODIFIED="2010-12-07 19:14:26 +0100" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Z="0.12118953424373075" STUDIES="1" TAU2="0.0" TOTAL_1="182" TOTAL_2="178" WEIGHT="46.41940881781321" Z="1.5497999699989446">
+<NAME>Long-term treatment (more than 46 days)</NAME>
+<DICH_DATA CI_END="1.132009183499866" CI_START="0.3461044844931667" EFFECT_SIZE="0.625934065934066" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="25" LOG_CI_END="0.05384995010944209" LOG_CI_START="-0.46079277349402925" LOG_EFFECT_SIZE="-0.2034714116922936" MODIFIED="2010-12-07 19:14:26 +0100" MODIFIED_BY="[Empty name]" ORDER="110" O_E="0.0" SE="0.30230368336724683" STUDY_ID="STD-Orrego-1987" TOTAL_1="182" TOTAL_2="178" VAR="0.09138751697740463" WEIGHT="46.41940881781321"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="5.648327152052332" CI_END="1.3466504938722994" CI_START="0.7028592327963319" CI_STUDY="95" CI_TOTAL="95" DF="5" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9728852619748568" ESTIMABLE="YES" EVENTS_1="56" EVENTS_2="58" I2="11.478215312240911" I2_Q="0.0" ID="CMP-003.03" LOG_CI_END="0.1292548946997097" LOG_CI_START="-0.15313164587820643" LOG_EFFECT_SIZE="-0.01193837558924839" METHOD="MH" MODIFIED="2011-05-12 11:17:46 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="3" P_CHI2="0.34195534008471273" P_Q="1.0" P_Z="0.8683759825692383" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="6" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="351" TOTAL_2="355" WEIGHT="100.0" Z="0.16572168164213757">
+<NAME>Mortality and worst-best case scenario</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.2431989433075215" CI_START="0.5431151506563461" EFFECT_SIZE="1.327188940092166" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="7" LOG_CI_END="0.5109735898480124" LOG_CI_START="-0.2651080820266097" LOG_EFFECT_SIZE="0.12293275391070134" MODIFIED="2010-12-10 11:12:11 +0100" MODIFIED_BY="[Empty name]" ORDER="85" O_E="0.0" SE="0.45587421572538633" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.20782130056323606" WEIGHT="11.107905646756505"/>
+<DICH_DATA CI_END="2.417653263768279" CI_START="0.47574172490256844" EFFECT_SIZE="1.0724637681159421" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="10" LOG_CI_END="0.3833940151227763" LOG_CI_START="-0.3226287571353345" LOG_EFFECT_SIZE="0.030382628993720916" MODIFIED="2010-12-10 11:08:34 +0100" MODIFIED_BY="[Empty name]" ORDER="86" O_E="0.0" SE="0.4147212712935015" STUDY_ID="STD-Orrego-1979" TOTAL_1="69" TOTAL_2="74" VAR="0.17199373286329808" WEIGHT="16.548563631515364"/>
+<DICH_DATA CI_END="1.132009183499866" CI_START="0.3461044844931667" EFFECT_SIZE="0.625934065934066" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="25" LOG_CI_END="0.05384995010944209" LOG_CI_START="-0.46079277349402925" LOG_EFFECT_SIZE="-0.2034714116922936" MODIFIED="2010-12-10 11:08:43 +0100" MODIFIED_BY="[Empty name]" ORDER="87" O_E="0.0" SE="0.30230368336724683" STUDY_ID="STD-Orrego-1987" TOTAL_1="182" TOTAL_2="178" VAR="0.09138751697740463" WEIGHT="43.34671065557758"/>
+<DICH_DATA CI_END="72.6230071114122" CI_START="0.14100214804229522" EFFECT_SIZE="3.2" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8610742278439367" LOG_CI_START="-0.8507742712041246" LOG_EFFECT_SIZE="0.505149978319906" MODIFIED="2010-12-10 11:08:51 +0100" MODIFIED_BY="[Empty name]" ORDER="88" O_E="0.0" SE="1.592953232207399" STUDY_ID="STD-Pierrugues-1989" TOTAL_1="14" TOTAL_2="15" VAR="2.5374999999999996" WEIGHT="0.8297491582421799"/>
+<DICH_DATA CI_END="4.416563716314591" CI_START="0.8022645709982835" EFFECT_SIZE="1.8823529411764706" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="6" LOG_CI_END="0.645084500242013" LOG_CI_START="-0.09568238635874884" LOG_EFFECT_SIZE="0.27470105694163205" MODIFIED="2010-12-10 11:09:00 +0100" MODIFIED_BY="[Empty name]" ORDER="89" O_E="0.0" SE="0.43513013604451445" STUDY_ID="STD-Rodriguez-1993" TOTAL_1="34" TOTAL_2="32" VAR="0.18933823529411764" WEIGHT="10.600674094391001"/>
+<DICH_DATA CI_END="1.6588646405515997" CI_START="0.44288958821059843" EFFECT_SIZE="0.8571428571428571" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" LOG_CI_END="0.2198109500630331" LOG_CI_START="-0.35370452932425955" LOG_EFFECT_SIZE="-0.06694678963061322" MODIFIED="2010-12-10 11:09:10 +0100" MODIFIED_BY="[Empty name]" ORDER="90" O_E="0.0" SE="0.33688583153950463" STUDY_ID="STD-Serrano_x002d_Cancino-1981" TOTAL_1="21" TOTAL_2="20" VAR="0.11349206349206349" WEIGHT="17.56639681351737"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="7.092514986825845" CI_END="1.2961400144295576" CI_START="0.6319115867019085" CI_STUDY="95" CI_TOTAL="95" DF="5" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9050115430788804" ESTIMABLE="YES" EVENTS_1="44" EVENTS_2="49" I2="29.50314508623013" I2_Q="0.0" ID="CMP-003.04" LOG_CI_END="0.11265191836303623" LOG_CI_START="-0.1993436813592776" LOG_EFFECT_SIZE="-0.04334588149812072" METHOD="MH" MODIFIED="2011-05-12 13:26:22 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="4" P_CHI2="0.21385038197920403" P_Q="1.0" P_Z="0.5860288123233731" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="6" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="320" TOTAL_2="326" WEIGHT="100.0" Z="0.5445997744203547">
+<NAME>Mortality and per-protocol analysis</NAME>
+<GROUP_LABEL_1>PTU</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PTU</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.2431989433075215" CI_START="0.5431151506563461" EFFECT_SIZE="1.327188940092166" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="7" LOG_CI_END="0.5109735898480124" LOG_CI_START="-0.2651080820266097" LOG_EFFECT_SIZE="0.12293275391070134" MODIFIED="2010-12-10 11:10:25 +0100" MODIFIED_BY="[Empty name]" ORDER="91" O_E="0.0" SE="0.45587421572538633" STUDY_ID="STD-Hall_x00e9_-1982" TOTAL_1="31" TOTAL_2="36" VAR="0.20782130056323606" WEIGHT="13.131320516457963"/>
+<DICH_DATA CI_END="2.505279640291997" CI_START="0.21901620728023366" EFFECT_SIZE="0.7407407407407407" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.3988562090286305" LOG_CI_START="-0.6595237460186427" LOG_EFFECT_SIZE="-0.13033376849500614" MODIFIED="2010-12-10 11:10:36 +0100" MODIFIED_BY="[Empty name]" ORDER="92" O_E="0.0" SE="0.6216976246600404" STUDY_ID="STD-Orrego-1979" TOTAL_1="63" TOTAL_2="70" VAR="0.38650793650793647" WEIGHT="11.522948733578684"/>
+<DICH_DATA CI_END="1.0067697235571018" CI_START="0.235826941682881" EFFECT_SIZE="0.4872611464968153" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="20" LOG_CI_END="0.00293014659643561" LOG_CI_START="-0.6274065811076679" LOG_EFFECT_SIZE="-0.3122382172556161" MODIFIED="2010-12-10 11:10:48 +0100" MODIFIED_BY="[Empty name]" ORDER="93" O_E="0.0" SE="0.3702629140705147" STUDY_ID="STD-Orrego-1987" TOTAL_1="157" TOTAL_2="153" VAR="0.13709462553598936" WEIGHT="41.06685313293335"/>
+<DICH_DATA CI_END="72.6230071114122" CI_START="0.14100214804229522" EFFECT_SIZE="3.2" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8610742278439367" LOG_CI_START="-0.8507742712041246" LOG_EFFECT_SIZE="0.505149978319906" MODIFIED="2010-12-10 11:10:57 +0100" MODIFIED_BY="[Empty name]" ORDER="94" O_E="0.0" SE="1.592953232207399" STUDY_ID="STD-Pierrugues-1989" TOTAL_1="14" TOTAL_2="15" VAR="2.5374999999999996" WEIGHT="0.9808961735573253"/>
+<DICH_DATA CI_END="4.416563716314591" CI_START="0.8022645709982835" EFFECT_SIZE="1.8823529411764706" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="6" LOG_CI_END="0.645084500242013" LOG_CI_START="-0.09568238635874884" LOG_EFFECT_SIZE="0.27470105694163205" MODIFIED="2010-12-10 11:11:06 +0100" MODIFIED_BY="[Empty name]" ORDER="95" O_E="0.0" SE="0.43513013604451445" STUDY_ID="STD-Rodriguez-1993" TOTAL_1="34" TOTAL_2="32" VAR="0.18933823529411764" WEIGHT="12.531691720356616"/>
+<DICH_DATA CI_END="1.6588646405515997" CI_START="0.44288958821059843" EFFECT_SIZE="0.8571428571428571" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" LOG_CI_END="0.2198109500630331" LOG_CI_START="-0.35370452932425955" LOG_EFFECT_SIZE="-0.06694678963061322" MODIFIED="2010-12-10 11:11:14 +0100" MODIFIED_BY="[Empty name]" ORDER="96" O_E="0.0" SE="0.33688583153950463" STUDY_ID="STD-Serrano_x002d_Cancino-1981" TOTAL_1="21" TOTAL_2="20" VAR="0.11349206349206349" WEIGHT="20.766289723116056"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<FIGURE FILENAME="PTU vs placebo ALD based on relative risk.jpg" FILE_TYPE="JPG" ID="FIG-01" MODIFIED="2011-05-12 10:25:42 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Trial sequential analysis of all-course mortality of patients with alcoholic liver disease included in randomised clinical trials on propylthiouracil versus placebo. The heterogeneity-corrected required information size of 4908 patients is based on an event proportion of 15% in the control group (Pc); a relative risk reduction (RRR) of 20% (to an event proportion of 13%) in the experimental group; an alpha of 5%; a beta of 20%; and a heterogeneity of 17%. </P>
+</CAPTION>
+<FILE>/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAJKAxUDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAoorP1Gwg1TTLvT7lSba6heCVVOCUZSpGe3BoA0KK8ztfB3hz7T4qmW1tdJayu3jhvrdVha
+1jewhVjuGAFAkdueAfm681S1XRNGm0y40a60jT1uIrjR0kksx+5khe7KIyKf9WxDTggZOJPvMDQB
+6zRXl2uW7a3pOm2mrIlydK1Cygu0mQMJpmu4ogxByMNFvYg9RMtUtS09dP1bxRrtvo2loml6tDfT
+X6v5d2qJBbyyxxqEwd4Lg5kGTI2Qc8gHr1FcJ4702LUbrw0H0nTtRuP7SdEivxiNlNtOzKW2MQPk
+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
+MtnJqWgrZWVy0jSXP2sOLOJY3k3T/KAhO0DglQSctkANt6vpsesaJfaXK7JFeW8lu7JjcqupUkds
+81m6dH4kku4RqkthHbQKwc2jM7XbYwCwZR5QHXaCxzj5sA5ALA8S6CxAGt6aSWiQA3UfJlXdGOvV
+1BK/3hyMinHxDo0do9y2s6eII40leU3SBVRzhGJzgBjwD0J6VxUfhHxPawxWkMWjXMcVvptvvku5
+Yyy2U7SAkeUwJcEA8/KSfvYybM3grVbhbuAjT4oLmHV7VpllZnEd3KssT7dgBZSCpXcABghj0oA6
+K48Rwx6rpsFo9pc2txey2NzLHdAm2lSF5dpUAgnEZBBKlcjg54LrxfoEDaWw1O0mi1K4a2t5orhG
+jLKrMctuxjKheMncyjHNcxqPhTxTqE1yWi0WL7XetdPILmR/LL2P2QgRtDh8El+SA2ACBnIuaP4T
+1XTLm3lc2zBNXXUXDXk07ENZm3kG+RSzEMdwyeRx8uKANyx8U6FeQXEqa3pEnkBpJTb38cixxhiA
+7EEbQRgnPAJIyepuWurWF9LJDZ39tcyxqrukMyuVVhlSQCSARyD37VzemeFdTELDUTZQGe6ujeQ2
+8zyxz28szThSWRfmVmZOmNruepwLOheFZ9K8SX1/J5TxSPcNFKLqZ3xNKJCvlMfLjCkYyoJbCn5c
+EEA7OiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAoorOuoEvYJYJS3lyIUcI5U4IIOGBBBweoIIoA5Pw7Y2umynU5ta1F9
+PtomgS41DVJXW7ZQTLOVdygUBWxgAYDNyNpDNemF55uuxarczeHjZvGbrSb7abVgXEk4CnbIAuBn
+5ihjJCkk42bDwnpGmXNrNbJfM1rkW6z6jcTJECpX5UeQqPlJHA4BqbU/DWl6rcPNe2zyPMkcUuJZ
+FEkaM7KjBWAZcyNlSCDnkEAYAM+58V3sdvd3kOjiWzS5+xW0n2kKZZ/tC2+11K/IpkY/MC3CEkDg
+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
+ppTpHGbZtqLsIEzjzBkth8N8+SWJ3Z+8fU56Ue1OMWtzOpOMrcvmSUUUVRmFFFFABRRRQAUUUUAF
+FFFABRRRQAUUUUAFFFFAHNat4dh1a5mke+vLdbmAWt3FB5e25iBbCMWRiB+8cZUqfmPOQCOloooA
+5/w9/wAhvxZ/2FY//SK1roK5/wAPf8hvxZ/2FY//AEita6CgAooooAKKKKACiiigAooooAzdS0nT
+9WSGPULOG6SGVZ41lUMFdc4YD1GT+daVFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFADa5e5sbT/AIWBpd8YI/tf9nXMfmlfm2iS
+HAz7bm/76PrXT/xCsK7/AORz0r/rxuv/AEOClLYqC1+TOgooopkhRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUVlalqF1YmL7No17qO/O77K8C+XjGM+bInXJxjPQ5xxkA1
+aK4jxTppvbFL37VrFlf3qwWVvbxahJCtu7ucuVicKzqHJYksCIgBnvtX+qXllcmKDw/qN+mN3m2z
+24UH0xJKhzwDwCORznIAAzw9/wAhvxZ/2FY//SK1roK4/wAKzS3V/wCJppbGe1kbVVzBOyF0/wBE
+thyUZl568E8HnniuwoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBh6Vh3f/I5aV/15XX/ocFbv
+asK7/wCRy0r/AK8rr/0OCkyqe/yZv0UUUyQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKAKDwRyvE8kSu0T742ZQSjYK5HocEjI7E+tX6KKAOf8Pf8hvxZ/2FY/8A0ita
+6Cuf8Pf8hvxZ/wBhWP8A9IrWugoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBprBuv+R10n/ry
+uv8A0OCt81g3X/I6aT/15XX/AKHBQyqfxfJm/RRRQSFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFF
+FFABRRRQAUUUUAFFFFABRRWHqMGtyXKtpuoWFvBswUubGSdi2TyGWZABjHGOx554AJbrV9PsbyC0
+vL+2t7i6fbbwyzKjynOMKpILHJHTPUVr1wkMl+vjPUt76jEZLqIQQRWO6CaEIgLPOUIGD5hCh1II
+PBJ539Rg1uS5VtN1Cwt4NmClzYyTsWyeQyzIAMY4x2PPPABH4e/5Dfiz/sKx/wDpFa10Fcl4UW8j
+vfEq300M9yNVXfJBCYkb/RLbGFLMRxgfePI7dB1tABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+Iawbr/kdNJ/68rr/ANDgreNYN1/yOmk/9eV1/wChwUMqn8XyZv0UUUEhRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAHP+Hv+Q34s/7Csf8A6RWtdBXP+Hv+Q34s
+/wCwrH/6RWtdBQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFACGsG6/5HTSf+vK6/wDQ4K3jWDdf
+8jppP/Xldf8AocFDKp/F8mb9FFFBIUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFY+p6Pa6oYvtMt6nlZ2/ZL2e2znHXynXd04znHOMZNAFbU9bfTdRs7CLTL3ULm4jlmRL
+UxDakZjDFjJIg6yrgDP6V0NcT4r8N3mr2sNnZ2mmTRx2xhgvL5pGurJzgedHIQxZgAp5KncoJY9t
+nUNBtNSuRPcTaij7dgFtqVxbrjJPKxuoJ56kZ6DPAoAZ4e/5Dfiz/sKx/wDpFa10Fcf4TsorC/8A
+EtvG87xx6qhDTzvM5zaWx5dyWPXueBx0rsKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAQ1g3X
+/I6aT/15XX/ocFbxrBuv+R00n/ryuv8A0OChlU/i+TN+iiigkKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKAMq71Oz0+WOK8v7a3lmDvGk0qozqg3OQCRkKOSR0HJqxbXNveW0dzazx3EMqhklicMr
+jsQRwR7iuV8YWM19rejgabqt9Akc5njsDEqsm6E7JGldV2tjBX7zAHBADBl0e6vNG8GRyw6Nqc90
+l48ZspREtwwe6Ks52BY84YyZGFI5LYJegDtqK5ceIpUmjXUNB1PTYJJEhFxcNbsgd2Cop8qVmGWY
+AHGMkZIrqKACiiigAooooAKKKKAOf8Pf8hvxZ/2FY/8A0ita6Cuf8Pf8hvxZ/wBhWP8A9IrWugoA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigBDWDdf8jppP/Xldf8AocFbxrBuv+R00n/ryuv/AEOC
+hlU/i+TN+iiigkKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOA8awxy61pD3Om2WoWiw3Rkh1
+IMtpGcxYkdxHIqMAGCllAIZ/mBwCXFrc6D8Po7f7VcQTreQmI6TtdkEl4pSGLzCqlQHEQLfLtHKk
+fKYPiHql5pl9pUqTXH2SRJo7iFbxrOJwXhwzSqrMCg3OQoB2LKcgKwYuxa6h8KFAtbO3t5LmIw29
+rbm5glIu18tAr+X5gkYKCx2ht5bODmgDbk0LmCTWPEWoXdss0TLBefZo4zKJFMWTHEpJ8wJgbsE4
+GDnFdXXE6P4e8J6oGmi8K2enXun3aCRDZxRTQTJslUhoiRggo3DEEHB7iu2oAKKKKACsfUtd0rRf
+K/tbVLGw87PlG7uEi34xnG4jOMjOPUetbFFAHF+KfE0+naJLdaIba5nWxl1ESSZkh8iNC+75WGdx
+2quCOpYZCkHY1LxJomkTrb6prOnWU5TzFiurpImKkkBgGIOMgjPsap+JfCGj+J7aWHUbOEzyReSt
+2sETTxLnJCM6tt6nkDIySMHBGrZW32Oxt7VXLrBGsYYqq7goAzhQFHToAB6ADigDD8J31rqd54mv
+LC7guraTVV2TQSCRGxZ2wOGBwcEEfUV19c/4e/5Dfiz/ALCsf/pFa10FABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAIawbr/kdNJ/68rr/ANDgreNYN1/yOmk/9eV1/wChwUMqn8XyZv0UUUEhRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB5nBN4niu4Tbaf4iaFNZvJLtvOtGW4t/MlEaxieTeijb
+EAFCDaXIySprqPs58X+HvK1SxvtL3Xe5oPN2TL5FxlDvXpu8tWyp6N8rHhq6SigDkF8BaKkglh/t
+ON/tUV2+dTuJFkljdGBdXdlbPlqCSCcAYIIBHX0UUAFFFFABRRRQAUUUUAc/4e/5Dfiz/sKx/wDp
+Fa10Fc/4e/5Dfiz/ALCsf/pFa10FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAIawbr/kdNJ/6
+8rr/ANDgreNYN1/yOmk/9eV1/wChwUMqn8XyZv0UUUEhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAVlalqF1YmL7No17qO/O77K8C+XjGM+bInXJxjPQ5xxnVooA4TxnJMdE
+l1JLy8sJ7a3WeWIXvlNZphiZTHGSszAjGxmKNtIBz97ev9UvLK5MUHh/Ub9MbvNtntwoPpiSVDng
+HgEcjnOQJr3S9N1OSCW/060upLdt8DTwrIY24OVJBwcgcj2rXoA4/wAKzS3V/wCJppbGe1kbVVzB
+OyF0/wBEthyUZl568E8Hnniuwrn/AA9/yG/Fn/YVj/8ASK1roKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAQ1g3X/ACOmk/8AXldf+hwVumsG6/5HXSf+vK6/9DgoZVP4vkzoKKKKCQooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACisrUda0vTZ4Le/1OztJ7g4gjnnV
+GkOQPlBIJ5IHHrWrQBz/AIe/5Dfiz/sKx/8ApFa10Fc/4e/5Dfiz/sKx/wDpFa10FABRRRQAUUUU
+AFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABR
+RRQAUUUUAFFFFABRRRQAUUUUAN7VhXf/ACOWlf8AXldf+hwVu9qwrv8A5HPSv+vK6/8AQ4KTKp7/
+ACZv0UUUyQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKyNTj1aXyjpV9
+ZWuM+Z9qs3n3dMY2yx7cc5znOR0xzr0UAcT4iuLGGGW01XSLvUJ7iw2Xcmn6TNL9pUbv3SlQwXLF
+iAzjbuBzzuG1qMGtyXCtpuoWEEGzBS5sZJ2LZPIZZkAGMcY7HnnjcooA8u8F3XjddY8Ui+0/SZmG
+pYkb7Q8GXEMYBUBX+QxiIjODzySc47H7Z4o/6A+k/wDg0k/+R6b4d/5DXiv/ALCsf/pFa10FIaaX
+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
+AAb3X/xyjULR7/gbRIxmsC7lRvGmmRB18wWN0xTcM48yAZx1x71KfCmnAf6/Vv8Awb3X/wAcrlpP
+AekQfE7StZV715haTOBLdSS/OjIFYs7FukhG3OOBx1ymVCyenmekUUUVRAVSniWVQrpvUMGAYZGQ
+QQee4IBHuKu0UAFFFFABRRRQAUUUUAFUpIUmQJIiuu4MAy5GQwIOD3BAIPqM1dooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKAOf8Pf8hvxZ/wBhWP8A9IrWugrn/D3/ACG/Fn/YVj/9IrWugoAK
+KKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiii
+gAooooAKKKKACiiigAooooAKKKKACiiigBvasK7/AORy0r/ryuv/AEOCt3tWFd/8jlpX/Xldf+hw
+UmVT3+TN+iiimSFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBz+t
++IE0cPJNp99Nbwp5s88MalIY8kFjuYFsYJKoGbGOORnoK5XxPpOqavafZrGHT2zhori5dlks5RkC
+aMBWDMAeBle4JIOBd1DQbTUrkT3E2oo+3YBbalcW64yTysbqCeepGegzwKAGeHv+Q34s/wCwrH/6
+RWtdBXH+E7KKwv8AxLbxvO8ceqoQ087zOc2lseXclj17ngcdK7CgAooooAKKKKACiiigAooooAKK
+KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+AooooAKKKKAGmsG6/wCR10n/AK8rr/0OCt81g3X/ACOmk/8AXldf+hwUMqn8XyZv0UUUEhRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQBlXep2enyxxXl/bW8swd40mlVGdUG5yASMhRySOg5NWLa5
+t7y2jubWeO4hlUMksThlcdiCOCPcVyvjCxmvtb0cDTdVvoEjnM8dgYlVk3QnZI0rqu1sYK/eYA4I
+AYNa8OT2+jeE1m1Qy6bDDPOJW1N4omUmdwGcoFjBYkEFeDuGC2dxAJP+Evi+1Y/svUPsH237B/aG
+2LyfO83ysY8zzMeZ8mdmM85xzXU147DqGnXXiGK7tdR0e783WQI9HtryaV2zPt+0BVnMW4D9+T5W
+BgkkN81exUAFFFFABRRRQAUUUUAc/wCHv+Q34s/7Csf/AKRWtdBXP+Hv+Q34s/7Csf8A6RWtdBQA
+UUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABR
+RRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFF
+FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFACGsG6/5HTSf+vK6/8AQ4K3jWDdf8jppP8A15XX/ocF
+DKp/F8mb9FFFBIUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAcB41hjl1rSHudNstQtFhujJDq
+QZbSM5ixI7iORUYAMFLKAQz/ADA4B2/D2jix8P2llcrazIsjTLHHl4ogZTLGkZbqseVCnA4QEAcA
+c78Q9UvNMvtKlSa4+ySJNHcQreNZxOC8OGaVVZgUG5yFAOxZTkBWDdD4Qnjm8N2c0FrZWsLGTy4r
+IsYQvmMAVLKpYEAHdgBicjIINAHMIdWHiS4uxrJOlyatFbrcmW5BSRJZd0Qi2eVtYOtuW3bd0YY5
+kwB6ZXkEo1FPGhkudONnZHVYvJUW1w8MjmfaXYtMtursvlyB9hJaXC5kU16/QAUUUUAFFFFAHJeM
+vEN7omlXLaWtvJfQ2k16/wBoViiRRIWJIUg5ZtqgZHUnnaQdHUvEmiaROtvqms6dZTlPMWK6ukiY
+qSQGAYg4yCM+xqn4l8IaP4ntpYdRs4TPJF5K3awRNPEuckIzq23qeQMjJIwcEatlbfY7G3tVcusE
+axhiqruCgDOFAUdOgAHoAOKAMPwnfWup3nia8sLuC6tpNVXZNBIJEbFnbA4YHBwQR9RXX1z/AIe/
+5Dfiz/sKx/8ApFa10FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAIawbr/AJHTSf8Aryuv/Q4K
+3jWDdf8AI6aT/wBeV1/6HBQyqfxfJm/RRRQSFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFAHmc
+E3ieK7hNtp/iJoU1m8ku2860Zbi38yURrGJ5N6KNsQAUINpcjJKmr/iTVEvvAk11rGlxWivexwPa
+6qQY4gLxY0kl2kBkGFkIDbSONxBye9qjcwRXICTQpKAyOFdQQGVgynnuGAIPYgEcigDzPQbrwBc3
+DRXC+FP7QtdThhtJ9NgSFrh8xNE8aqWcASMFOGKnYxJ25A9aqjcwRXICTQpKAyOFdQQGVgynnuGA
+IPYgEcir1ABRRRQAUUUUAFFFFAHP+Hv+Q34s/wCwrH/6RWtdBXP+Hv8AkN+LP+wrH/6RWtdBQAUU
+UUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFACGsG6/5HTSf+vK6/9DgreNYN1/yOmk/9eV1/6HBQyqfx
+fJm/RRRQSFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQBwnjV2WeK
+/NzvstOsri4vrKLVZrOZkJQrIoi5kIEcqhWKglsZHNb1/ql5ZXJig8P6jfpjd5ts9uFB9MSSoc8A
+8Ajkc5yBNe6TpmpyQS3unWl1JbtvgaeFXMbZBypIODkDke1a9AHH+FZpbq/8TTS2M9rI2qrmCdkL
+p/olsOSjMvPXgng888V2Fc/4e/5Dfiz/ALCsf/pFa10FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAIawbr/kdNJ/68rr/ANDgreNYN1/yOmk/9eV1/wChwUMqn8XyZv0UUUEhRRRQAUUUUAFFFFAB
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFZmo6vpujxRyanqNpZJI2xGuZljDNjoCx
+AJrToA5/w9/yG/Fn/YVj/wDSK1roK5/w9/yG/Fn/AGFY/wD0ita6CgAooooAKKKKACiiigAooooA
+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAo
+oooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKAENYN1/yOmk/9eV1/wChwVvGsG6/5HTSf+vK6/8AQ4KGVT+L5M36KKKCQooooAKK
+KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAOF1h9Ri8YSSo+owxiyjS0NrY+
+es8m6QsjyFGES/cByVzwd3HG9qMGtyXKtpuoWFvBswUubGSdi2TyGWZABjHGOx5543KKAOS8KLeR
+3viVb6aGe5GqrvkghMSN/oltjClmI4wPvHkdug62uf8AD3/Ib8Wf9hWP/wBIrWugoAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK
+KKACiiigAooooAKKKKACiiigBDWDdf8AI6aT/wBeV1/6HBW8awbr/kdNJ/68rr/0OChlU/i+TN+i
+iigkKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAormNe8TPoktwf
+7F1W7gt7cTy3NuIRGoJYbQXkUsw2klVBPK+orp6AOf8AD3/Ib8Wf9hWP/wBIrWugrn/D3/Ib8Wf9
+hWP/ANIrWugoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoooo
+AKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBDWDdf8jppP8A15XX/ocFbxrBuv8A
+kdNJ/wCvK6/9DgoZVP4vkzfooooJCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAwtX06bUorS3VkMAu4pbgsTlkjO8AY6kuqAg4GC30JqGg2mpXInuJtRR9uwC21K4t1
+xknlY3UE89SM9BngVu0UAcf4TsorC/8AEtvG87xx6qhDTzvM5zaWx5dyWPXueBx0rsK5/wAPf8hv
+xZ/2FY//AEita6CgAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAC
+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKK
+KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAENYN1/wAjppP/AF5XX/ocFbpr
+Cuv+R00n/ryuv/Q4KGVT+L5M36KKKCQooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiuJ8R+INW03UJ4bGOEx29oLrbJayTG4Ys4Kb1YLAAFHzuCDuJxhTna1LxJomkT
+rb6prOnWU5TzFiurpImKkkBgGIOMgjPsaAI/D3/Ib8Wf9hWP/wBIrWugrkPCd9a6neeJrywu4Lq2
+k1Vdk0EgkRsWdsDhgcHBBH1FdfQAUUUUAFFFFABRRRQAUUUUAFFct4r8baR4MhtJdYmkiW6l8qPb
+GX6DJY46AZGe/oDXRQzR3EEc0TBo5FDqw7gjINAE9FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAM7Vg3f8AyOmlf9eV1/6HBW+TiuDv
+fFmjQ/FHTdDluCl6LSVQCh2l5GiZVz6kIx9OnOTikyoNJ69md9RRRTJCiiigAooooAKKKKACiiig
+AooooAKKKKACiiigAooooAKKKKACiiigAooooA5rVvDsOrXM0j315brcwC1u4oPL23MQLYRiyMQP
+3jjKlT8x5yAR0tFFABRRRQAUUUUAFFFFABRRRQAUUUUAcr4ytbS90q0+128cwh1G0kTzFB2t56Lk
+Z9QxH0JrpweK4D4k+KIfDekacZrG7uRc6hAo8hc7dkiyEc9WIUgDuc88V2sE3nQpIEdAyhtrjDDP
+YjsaXUp25UuupdooopkhRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
+UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
+AUUUUAFFFFABRRRQAUUUUAFZbaRp762mrtZwnUUiMC3JXLrGTnaD2Gc/mfU1qUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAVJYIptoljRwjB13LnDDoR6EetW6KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACi
+iigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKK
+KACiiigAooooA//Z
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK MODIFIED="2011-01-17 18:49:28 +0100" MODIFIED_BY="[Empty name]"/>
+<APPENDICES MODIFIED="2011-05-12 10:25:55 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<APPENDIX ID="APP-01" MODIFIED="2011-05-12 10:25:55 +0200" MODIFIED_BY="Dimitrinka Nikolova" NO="1">
+<TITLE MODIFIED="2008-11-11 10:23:15 +0100" MODIFIED_BY="[Empty name]">Search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2011-05-12 10:25:55 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<TABLE COLS="3" ROWS="6">
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Database</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Time of search</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Search strategy</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>The Cochrane Hepato-Biliary Group Controlled Trials Register</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>April 2011</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>propylthiouracil OR PTU</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (Wiley)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Issue 2, April 2011</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#1 MeSH descriptor Propylthiouracil explode all trees in<U>
+<B> </B>
+</U>MeSH products</P>
+<P>#2 propylthiouracil OR PTU in All Fieldsin all products</P>
+<P>#3 (#1OR #2)</P>
+<P>#4 MeSH descriptor Liver Diseases, Alcoholic explode all trees in MeSH products</P>
+<P>#5 alcoholic and (liver disease* or steatosis or fibrosis or hepatitis or cirrhosis) in All Fields in all products</P>
+<P>#6 (#4 OR #5)</P>
+<P>#7 (#3 AND #6)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>MEDLINE (Ovid SP)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1948 to</P>
+<P>April 2011</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#1 exp Propylthiouracil/</P>
+<P>#2 (propylthiouracil or PTU).mp. [mp=protocol supplementary concept, rare disease supplementary concept, title, original title, abstract, name of substance word, subject heading word, unique identifier]</P>
+<P>#3 1 or 2</P>
+<P>#4 exp Liver Diseases, Alcoholic/</P>
+<P>#5 (alcoholic and (liver disease* or steatosis or fibrosis or hepatitis or cirrhosis)).mp. [mp=protocol supplementary concept, rare disease supplementary concept, title, original title, abstract, name of substance word, subject heading word, unique identifier]</P>
+<P>#6 4 or 5</P>
+<P>#7 3 and 6</P>
+<P>#8 (random* or placebo* or blind* or meta-analysis).mp. [mp=protocol supplementary concept, rare disease supplementary concept, title, original title, abstract, name of substance word, subject heading word, unique identifier]</P>
+<P>#9 7 and 8</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>EMBASE (OvidSP)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1980 to April 2011</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#1 exp PROPYLTHIOURACIL/</P>
+<P>#2 (propylthiouracil or PTU).mp. [mp=title, abstract, subject headings, heading word, drug trade name, original title, device manufacturer, drug manufacturer]</P>
+<P>#3 1 or 2</P>
+<P>#4 exp alcohol liver disease/</P>
+<P>#5 (alcoholic and (liver disease* or steatosis or fibrosis or hepatitis or cirrhosis)).mp. [mp=title, abstract, subject headings, heading word, drug trade name, original title, device manufacturer, drug manufacturer]</P>
+<P>#6 4 or 5</P>
+<P>#7 3 and 6</P>
+<P>#8 (random* or blind* or placebo* or meta-analysis).mp. [mp=title, abstract, subject headings, heading word, drug trade name, original title, device manufacturer, drug manufacturer]</P>
+<P>#9 7 and 8</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Science Citation Index Expanded (ISI Web of Knowledge)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1900 to April 2011</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#1 TS=(propylthiouracil or PTU)</P>
+<P>#2 TS=(alcoholic and (liver disease* or steatosis or fibrosis or hepatitis or cirrhosis))</P>
+<P>#3 #2 AND #1</P>
+<P>#4 TS=(random* or placebo* or blind* or meta-analysis)</P>
+<P>#5 #4 AND #3</P>
+</TD>
+</TR>
+</TABLE>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS MODIFIED="2011-01-17 18:49:28 +0100" MODIFIED_BY="[Empty name]"/>
+</COCHRANE_REVIEW>

@@ -1,0 +1,2279 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD006158" GROUP_ID="ENT" ID="251905122214461194" MERGED_FROM="" MODIFIED="2009-05-13 10:52:33 +0200" MODIFIED_BY="Jenny Bellorini" NOTES="&lt;p&gt;Exported from Review Manager 4.3.1&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.7&lt;/p&gt;" NOTES_MODIFIED="2009-05-13 09:41:44 +0100" NOTES_MODIFIED_BY="Jenny Bellorini" REVIEW_NO="PPL" REVMAN_SUB_VERSION="5.0.20" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="3.0">
+<COVER_SHEET MODIFIED="2009-05-13 10:52:33 +0200" MODIFIED_BY="Jenny Bellorini">
+<TITLE>Erythropoietin as an adjuvant treatment with (chemo) radiation therapy for head and neck cancer</TITLE>
+<CONTACT MODIFIED="2009-05-13 10:52:33 +0200" MODIFIED_BY="Jenny Bellorini"><PERSON ID="9506FD8982E26AA20088EE033571EAC6" ROLE="AUTHOR"><FIRST_NAME>Madelon</FIRST_NAME><LAST_NAME>Pijls-Johannesma</LAST_NAME><POSITION>Researcher</POSITION><EMAIL_1>madelon.pijls@maastro.nl</EMAIL_1><URL>http://www.maastro.com</URL><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>+31 88 4455666</PHONE_1><FAX_1>+31 88 4455667</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2009-05-13 10:52:33 +0200" MODIFIED_BY="Jenny Bellorini"><PERSON ID="17061" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Philippe</FIRST_NAME><LAST_NAME>Lambin</LAST_NAME><SUFFIX>MD, Ph.D</SUFFIX><POSITION>Medical Director</POSITION><EMAIL_1>Philippe.Lambin@maastro.nl</EMAIL_1><URL>http.//www.maastro.com</URL><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>0031 88 44 55666</PHONE_1><FAX_1>0031 88 44 55667</FAX_1></ADDRESS></PERSON><PERSON ID="36D2490D82E26AA2004F2C1C32A07EE2" ROLE="AUTHOR"><FIRST_NAME>Bram</FIRST_NAME><MIDDLE_INITIALS>LT</MIDDLE_INITIALS><LAST_NAME>Ramaekers</LAST_NAME><EMAIL_1>bram.ramaekers@maastro.nl</EMAIL_1><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY></ADDRESS></PERSON><PERSON ID="5A3F26A982E26AA2019232D737E6C231" ROLE="AUTHOR"><FIRST_NAME>Ghislaine</FIRST_NAME><MIDDLE_INITIALS>APG</MIDDLE_INITIALS><LAST_NAME>van Mastrigt</LAST_NAME><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY></ADDRESS></PERSON><PERSON ID="DDB7DCCF82E26AA201E74FE9A9B31713" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>P</FIRST_NAME><LAST_NAME>Van den Ende</LAST_NAME><EMAIL_1>piet.vandenende@maastro.nl</EMAIL_1><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>+31 45 5771200</PHONE_1><FAX_1>+31 45 5740277</FAX_1></ADDRESS></PERSON><PERSON ID="E14F965F82E26AA201C78F9855303163" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>J</FIRST_NAME><LAST_NAME>de Jong</LAST_NAME><SUFFIX>MD</SUFFIX><POSITION>Radiation Oncologist</POSITION><EMAIL_1>jos.dejong@maastro.nl</EMAIL_1><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>+31 45 5771200</PHONE_1><PHONE_2>+31 45 5740277</PHONE_2></ADDRESS></PERSON><PERSON ID="17060" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Dirk</FIRST_NAME><MIDDLE_INITIALS>K M</MIDDLE_INITIALS><LAST_NAME>De Ruysscher</LAST_NAME><SUFFIX>MD, Ph.D</SUFFIX><EMAIL_1>dirk.deruysscher@maastro.nl</EMAIL_1><URL>http.//www.maastro.com</URL><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>0031 88 44 55666</PHONE_1><FAX_1>0031 88 44 55667</FAX_1></ADDRESS></PERSON><PERSON ID="9506FD8982E26AA20088EE033571EAC6" ROLE="AUTHOR"><FIRST_NAME>Madelon</FIRST_NAME><LAST_NAME>Pijls-Johannesma</LAST_NAME><POSITION>Researcher</POSITION><EMAIL_1>madelon.pijls@maastro.nl</EMAIL_1><URL>http://www.maastro.com</URL><ADDRESS><DEPARTMENT>Department of Radiation Oncology (MAASTRO Clinic)</DEPARTMENT><ORGANISATION>GROW Research Institute</ORGANISATION><ADDRESS_1>University Medical Center</ADDRESS_1><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>+31 88 4455666</PHONE_1><FAX_1>+31 88 4455667</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2009-05-07 11:16:06 +0100" MODIFIED_BY="Jenny Bellorini">
+<UP_TO_DATE>
+<DATE DAY="24" MONTH="2" YEAR="2009"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="24" MONTH="2" YEAR="2009"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="2006"/>
+<REVIEW_PUBLISHED ISSUE="" YEAR=""/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2006"/>
+</DATES>
+<WHATS_NEW MODIFIED="2009-03-09 10:39:24 +0000" MODIFIED_BY="Jenny Bellorini"/>
+<HISTORY MODIFIED="2009-03-09 10:39:24 +0000" MODIFIED_BY="Jenny Bellorini">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-03-09 10:39:24 +0000" MODIFIED_BY="Jenny Bellorini">
+<DATE DAY="12" MONTH="1" YEAR="2009"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2009-05-13 09:25:46 +0100" MODIFIED_BY="Jenny Bellorini">
+<SUMMARY MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<TITLE MODIFIED="2009-03-09 10:52:58 +0000" MODIFIED_BY="Jenny Bellorini">Erythropoietin as an additional treatment with (chemo) radiation therapy for head and neck cancer</TITLE>
+<SUMMARY_BODY MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Severe anaemia in cancer patients is linked with decreased tumour oxygen supply (hypoxia), which is associated with more rapid tumour progression, poor response to therapy and consequently has a negative impact on prognosis. Erythropoietin (EPO), a hormone which controls red blood cell production, is widely used to correct anaemia. It was therefore thought logical that using erythropoietin to correct anaemia, before or during chemotherapy, radiotherapy (or both), would improve tumour oxygenation and as a result improve prognosis.</P>
+<P>The authors of this review found strong suggestions based on five randomised controlled trials (1397 patients) that for head and neck cancer, radiotherapy plus erythropoietin compared to radiotherapy alone negatively affects patient outcome in terms of overall survival and local-regional progression free survival.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2009-05-08 09:14:03 +0100" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2009-05-07 11:16:29 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Tumour hypoxia increases tumour invasiveness and has a negative impact on response to therapy. Hypoxic tumours are also associated with severely anaemic individuals. It has therefore been hypothesised that correcting anaemia, by increasing haemoglobin levels using erythropoietin, improves tumour oxygenation and consequently the patient's prognosis.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>To assess whether combined treatment with radiotherapy and erythropoietin (RT plus EPO) is better than standard radiotherapy (RT alone) for the treatment of head and neck cancer patients.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2009-05-07 15:43:46 +0100" MODIFIED_BY="[Empty name]">
+<P>We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 24 February 2009.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2009-05-07 11:16:58 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Two independent authors assessed identified studies according to the eligibility criteria: RCTs which delivered radiotherapy combined with or without erythropoietin, in patients of any age with head and neck cancer of any stage or type. In addition, trials administering concomitant iron therapy among one or both arms were also eligible.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2009-05-07 11:17:39 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>For statistical analysis of survival data, we computed a weighted estimate of the typical treatment effect across studies. We used Chi<SUP>2</SUP> heterogeneity tests to test for statistical heterogeneity among trials and performed the statistical analyses using Review Manager 5.0.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2009-05-07 11:19:25 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Five RCTs with a total of 1397 patients were included. Pooled data yielded a significantly worse overall survival (OS) for RT plus EPO as compared to RT alone (Peto odds ratio 0.73; 95% confidence interval (CI) 0.58 to 0.91; P = 0.005, five trials). For local regional tumour control (LRTC) analyses resulted in a small but non-significant difference between the RT alone group and the RT plus EPO group (RR 0.92; 95% CI 0.81 to 1.03; P = 0.15, four trials). In addition, the local regional progression free survival (LRPFS) measured in four studies was significantly different between groups (Peto odds ratio 0.63; 95% CI 0.49 to 0.80; P = 0.0002, four trials), in favour of the RT alone group. Two studies used supplemental iron in the RT plus EPO group and not in the RT alone group. When excluding these studies from the analyses, the statistically (non-) significant differences in OS, LRTC and LRPFS are maintained.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2009-05-08 09:14:03 +0100" MODIFIED_BY="[Empty name]">
+<P>There are strong suggestions that RT plus EPO has a negative influence on outcome as opposed to RT alone. However, the target haemoglobin concentration, which was higher than recommended in four of the five included RCTs, may have had a significant role. Nevertheless, based on these findings EPO should not be administered as an addition to RT outside the experimental setting for patients with head and neck cancer.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2009-05-13 09:25:46 +0100" MODIFIED_BY="Jenny Bellorini">
+<BACKGROUND MODIFIED="2009-05-13 09:04:56 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Tumour hypoxia (reduced oxygen) has been shown to affect the malignant progression of transformed cells and their response to therapy. Experimentally, hypoxia has been shown to promote tumour progression through the selection of tumour cells with diminished apoptotic potential, to stimulate pro-angiogenic gene expression, and to increase metastatic potential (<LINK REF="REF-Brown-1998" TYPE="REFERENCE">Brown 1998</LINK>). Several studies have shown a strong correlation between pretreatment tumour pO2 and tumour control and survival in patients with head and neck cancer (<LINK REF="REF-Brizel-1999" TYPE="REFERENCE">Brizel 1999</LINK>; <LINK REF="REF-Nordsmark-1996" TYPE="REFERENCE">Nordsmark 1996</LINK>). Studies have also indicated that hypoxia increases tumour invasiveness and dissemination in human solid tumours (<LINK REF="REF-Fyles-1998" TYPE="REFERENCE">Fyles 1998</LINK>; <LINK REF="REF-Hockel-1996" TYPE="REFERENCE">Hockel 1996</LINK>).</P>
+<P>It has been shown that individuals who are severely anaemic also have hypoxic tumours (though the reverse is not necessarily true), therefore it was though logical that increasing the haemoglobin concentration would improve the oxygenation of tumours and hence the patient's prognosis. Erythropoietin has been known for decades to be important for the development and the quality of red blood cells. Biotechnological advances have made erythropoietin available for the treatment or prevention of anaemia due to cancer or chemotherapy. For that indication, it is widely used worldwide. In addition to the possible beneficial effects of correcting anaemia for the patient's well-being, it has also been hypothesised that correcting anaemia may result in better oxygenation of the tumour and hence in less resistance to radiotherapy and chemotherapy. Several phase III trials have been performed in patients suffering from head and neck cancer, who were treated with radiotherapy with or without erythropoietin. The results of the first phase III trial reporting on this hypothesis were considered to be negative (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>). As a result several trials have been terminated, including the <LINK REF="REF-Machtay-2004" TYPE="REFERENCE">Machtay 2004</LINK> and <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK> studies. The reasons for the failure of erythropoietin to improve survival is unclear, but may include a haemoglobin level which was too high due to the drug, with an increase in cardio-vascular (thrombotic) events as a result or the stimulation of tumour cells mediated by erythropoietin receptors on cancer cells. The results of a recently published Cochrane Review indicate that research into the side effects of erythropoietin is inconclusive (<LINK REF="REF-Bohlius-2005" TYPE="REFERENCE">Bohlius 2005</LINK>; <LINK REF="REF-Bohlius-2006" TYPE="REFERENCE">Bohlius 2006</LINK>).</P>
+<P>In view of the widespread use of erythropoietin in cancer patients, a systematic review and meta-analyses were performed, taking into account the results of published and non-published randomised controlled trials (RCTs). Since the type of concomitant chemotherapy (whether platinum based or not) may affect outcomes (<LINK REF="REF-Harari-2003" TYPE="REFERENCE">Harari 2003</LINK>), we decided a priori to stratify for this factor (if this was possible using the available data). In addition, we planned subgroup analyses based on the following factors: radiation schedule, tumour type and stage, haemoglobin concentration at study entry, and use of iron supplementation.</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>To evaluate the effects of erythropoietin and radiation therapy (RT plus EPO) in the treatment of head and neck cancer. The specific aim is to review RCTs comparing the use of concomitant erythropoietin and radiotherapy with radiation therapy alone in the treatment of head and neck cancer.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2009-05-13 09:10:35 +0100" MODIFIED_BY="Jenny Bellorini">
+<SELECTION_CRITERIA MODIFIED="2009-05-07 11:23:17 +0100" MODIFIED_BY="Jenny Bellorini">
+<CRIT_STUDIES MODIFIED="2009-05-07 11:22:46 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Randomised controlled trials (RCTs) for which full details were available from investigators.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2009-05-07 11:23:17 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Patients of any age with histologically and cytologically proven head and neck cancer, regardless of the type or stage of disease or previous treatment. We excluded studies when, even after contacting the authors, it was not possible to separate data for patients concomitantly receiving (or not) erythropoietin with radiotherapy.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Epoetin alfa (Eprex, Procit, Ortho Biotec), epoetin beta (NeoRecormon, Roche) or darbepoetin alfa (Nesp, Amgen) with concomitant (chemo) radiotherapy versus (chemo) radiotherapy alone were studied. Concomitant anaemia therapy with, for example, iron supplementation was permitted.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>For a trial to be included, survival rates for at least two years needed to be available.</P>
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>The following clinically relevant outcomes were studied:</P>
+<UL>
+<LI>Overall survival.</LI>
+<LI>Disease free survival.</LI>
+<LI>Local tumour recurrence.</LI>
+<LI>Toxicity of the treatment.</LI>
+</UL>
+</CRIT_OUTCOMES_PRIMARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2009-05-13 09:10:35 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>We conducted systematic searches for randomised controlled trials. There were no language, publication year or publication status restrictions. The date of the last search was 24 February 2009. All studies identified to February 2009 are included in the present meta-analysis.</P>
+<ELECTRONIC_SEARCHES MODIFIED="2009-05-13 09:09:20 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>We searched:</P>
+<UL>
+<LI>the Cochrane Ear, Nose and Throat Disorders Group Trials Register;</LI>
+<LI>the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, 2009 Issue 1);</LI>
+<LI>PubMed;</LI>
+<LI>EMBASE;</LI>
+<LI>CINAHL;</LI>
+<LI>Psycinfo;</LI>
+<LI>Biological Abstracts (BIOSIS);</LI>
+<LI>ISI Web of Science;</LI>
+<LI>LILACS;</LI>
+<LI>KoreaMed;</LI>
+<LI>IndMed;</LI>
+<LI>PakMediNet;</LI>
+<LI>mRCT (the metaRegister of Controlled Trials);</LI>
+<LI>ECOG Trials database;</LI>
+<LI>Centrewatch;</LI>
+<LI>Cancer Research UK website;</LI>
+<LI>NCI PDQ database;</LI>
+<LI>European Organisation for Research and Treatment of Cancer (EORTC)</LI>
+<LI>Google</LI>
+</UL>
+<P>We modelled subject strategies for databases on the search strategy designed for CENTRAL. Where appropriate, we combined subject strategies with adaptations of the highly sensitive search strategy designed by the Cochrane Collaboration for identifying randomised controlled trials and controlled clinical trials (as described in <I>The Cochrane Handbook for Systematic Reviews of Interventions </I>Version 5.0.1, Box 6.4.b. (<LINK REF="REF-Handbook-2008" TYPE="REFERENCE">Handbook 2008</LINK>)).</P>
+<SUBSECTION>
+<HEADING LEVEL="4">CENTRAL search strategy</HEADING>
+<P>#1 ERYTHROPOIETIN explode all trees (MeSH)<BR/>#2 erythropoietin OR erythropoetin OR erythropoiesis OR erythropoietic OR hematopoietin OR hemopoietin OR dynepo* OR epo*<BR/>#3 darbepoetin OR aranesp* OR eprex* OR epomax* OR erantin OR erypo OR espo OR exprex OR globuren* OR hemax* OR krn-5702 OR marogen* OR neorecormon* OR procrit* OR recormon* OR snb-5001 OR tyb NEXT 5220 OR tyb5220 OR rhuepo OR R NEXT huepo OR rhu NEXT epo OR rEpo OR rhepo<BR/>#4 #1 OR #2 OR #3<BR/>#5 HEAD AND NECK NEOPLASMS explode all trees (MeSH)<BR/>#6 OTORHINOLARYNGOLOGIC NEOPLASMS explode all trees (MeSH)<BR/>#7 hnscc<BR/>#8 (head OR neck OR oropharyn* OR pharyn* OR laryn* OR throat) NEAR (cancer* OR carcinom* OR tumor* OR tumour* OR neoplas* OR malignan*)<BR/>#9 head NEAR neck NEAR (surg* OR operat*)<BR/>#10 neck NEAR dissect*<BR/>#11 #5 OR #6 OR #7 OR #8 OR #9 OR #10<BR/>#12 #4 AND #11</P>
+<P>Search strategies for other key databases including PubMed are shown in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.<BR/>
+</P>
+</SUBSECTION>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2009-05-13 09:10:35 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>We scanned reference lists of identified studies for further trials. We searched PubMed, TRIPdatabase, NLH ENT &amp; Audiology Specialist Library and Google to retrieve existing, possibly relevant, systematic reviews in order to search their reference lists for additional trials. One author performed handsearching in the following journals: <I>International Journal of Radiation, Oncology, Biology and Physics</I>; <I>Radiotherapy and Oncology</I>; <I>Journal of Clinical Oncology;</I> <I>Clinical Oncology </I>and<I> Oral Oncology</I>. Abstracts from conference proceedings were sought via the Cochrane Ear, Nose and Throat Disorders Group Trials Register. In addition, we searched conference proceedings from the principal oncology conferences from 1985 onwards for abstracts: ISI Proceedings, ASTRO and ESTRO. We contacted authors and pharmaceutical companies for supplementary information on published studies. Subsequently, we asked colleagues, collaborators and other experts in the field to identify missing and unreported trials.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2009-05-07 11:28:58 +0100" MODIFIED_BY="Jenny Bellorini">
+<STUDY_SELECTION MODIFIED="2009-05-07 11:25:30 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>We assessed identified RCTs to determine whether they met the inclusion criteria. The assessment was done by two authors independently both for the quality of the methods against pre-determined criteria (see below) and for the results of key outcomes, which were identified and tabulated.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Two authors independently extracted the outcome data and methodological quality of the studies. The results of the data extraction were discussed in consensus meetings.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2009-05-07 11:26:04 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>The authors were not blinded to trial authors, institutions or journals. We assessed methodological quality according to the following criteria.</P>
+<UL>
+<LI>Was the randomisation process adequate?</LI>
+<LI>Was there adequate allocation concealment?</LI>
+<LI>Were the analyses performed according to intention-to-treat?</LI>
+<LI>Were the groups similar at baseline for the most important prognostic indicators?</LI>
+<LI>Were eligibility criteria specified?</LI>
+<LI>Were losses to follow up fully accounted for and was the withdrawal/drop-out rate unlikely to cause bias?</LI>
+<LI>Were co-interventions which may have influenced the results controlled for?</LI>
+</UL>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2009-05-07 11:28:58 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>We computed a weighted estimate of the typical treatment effect across studies for primary outcomes. We used the Peto odds ratio as the effect measure for survival data and the Mantel-Haenszel ratio as the effect measure for non-survival data. We used Chi<SUP>2</SUP> tests to assess statistical heterogeneity among trials. In the case of no proven heterogeneity we assumed a fixed-effect model, otherwise we explored random-effects models.</P>
+<P>When sufficient data were available, we performed sensitivity analyses for primary outcomes. Additionally, we planned to identify potential causes of heterogeneity by performing subgroup analyses, which were restricted to primary outcome measures. If allowed by the availability of data, we included the following factors in subgroup analyses:</P>
+<UL>
+<LI>tumour type and stage;</LI>
+<LI>haemoglobin at study entry (&lt; 10 g/dl versus 10 to 12 g/dl versus &gt; 12 g/dl);</LI>
+<LI>use of iron supplementation;</LI>
+<LI>platinum based chemotherapy versus non-platinum based chemotherapy;</LI>
+<LI>radiation schedule;</LI>
+<LI>radiotherapy as primary treatment or for the treatment of tumour recurrences.</LI>
+</UL>
+<P>We performed all statistical analyses using RevMan 5.0 (<LINK REF="REF-RevMan-2008" TYPE="REFERENCE">RevMan 2008</LINK>).</P>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2009-05-13 09:24:01 +0100" MODIFIED_BY="Jenny Bellorini">
+<STUDY_DESCRIPTION MODIFIED="2009-05-13 09:12:45 +0100" MODIFIED_BY="Jenny Bellorini">
+<SEARCH_RESULTS MODIFIED="2009-05-13 09:12:45 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>The search method described above identified 256 studies. Of these studies, 230 were clearly irrelevant or duplicates and consequently excluded. We screened the remaining 26 potentially relevant publications further. On the basis of the full journal paper, or information from authors, we excluded 13 publications of 12 different studies (see '<LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>' and <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK> for a summary of the inclusion and exclusion process for this review).</P>
+<P>Although three of these studies were RCTs (<LINK REF="STD-Lambin-2007" TYPE="STUDY">Lambin 2007</LINK>; <LINK REF="STD-Samper-2005" TYPE="STUDY">Samper 2005</LINK>; <LINK REF="STD-Tsukuda-1993" TYPE="STUDY">Tsukuda 1993</LINK>), they were excluded from the review. In the study performed by Lambin et al, the patients were only enrolled into the RT alone group and not into the erythropoietin group due to a randomisation fault. In the study of Samper et al, patients were randomised to receive either erythropoietin or darbepoetin. In the study by Tsukuda, erythropoietin was administered in both trial arms. Two studies (<LINK REF="STD-Murphy-2005" TYPE="STUDY">Murphy 2005</LINK>; <LINK REF="STD-Scott-2002" TYPE="STUDY">Scott 2002</LINK>) were excluded as the intervention did not include radiotherapy. Seven other studies appeared to be non-randomised controlled studies (<LINK REF="STD-Antonadou-2005" TYPE="STUDY">Antonadou 2005</LINK>; <LINK REF="STD-Glaser-1999" TYPE="STUDY">Glaser 1999</LINK>; <LINK REF="STD-Glaser-2001" TYPE="STUDY">Glaser 2001</LINK>; <LINK REF="STD-Lavey-1993" TYPE="STUDY">Lavey 1993</LINK>; <LINK REF="STD-Martinez-2001" TYPE="STUDY">Martinez 2001</LINK>; <LINK REF="STD-Villar-2001" TYPE="STUDY">Villar 2001</LINK>; <LINK REF="STD-Willey-2007" TYPE="STUDY">Willey 2007</LINK>).</P>
+<P>In total seven studies fulfilled all the inclusion criteria (<LINK REF="STD-Aziz-2001" TYPE="STUDY">Aziz 2001</LINK>; <LINK REF="STD-Elsaid-2001" TYPE="STUDY">Elsaid 2001</LINK>; <LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>), however two of them are still ongoing and no long-term follow-up data are yet available (<LINK REF="STD-Aziz-2001" TYPE="STUDY">Aziz 2001</LINK>; <LINK REF="STD-Elsaid-2001" TYPE="STUDY">Elsaid 2001</LINK> - see details under '<LINK TAG="CHARACTERISTICS_OF_ONGOING_STUDIES" TYPE="SECTION">Characteristics of ongoing studies</LINK>').</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2009-05-07 11:31:29 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>All included studies were multi-centre RCTs (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>) and were partly or fully sponsored by pharmaceutical companies. Two studies were published as abstracts; the remaining three were published as full length journal papers.<BR/>
+</P>
+<SUBSECTION>
+<HEADING LEVEL="4">Tumour type and stage</HEADING>
+<P>The included studies mainly concerned squamous cell carcinomas of the head and neck. In the studies of <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>, <LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK> and <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>, tumour location and stage were reported. In <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK> this was done for the total patient group, whereas <LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK> and <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> reported tumour characteristics separately for the RT plus EPO group and RT alone group (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>). Within these two studies, no statistical significant differences were found between the RT plus EPO group and RT alone group in terms of tumour location and tumour stage (<LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Haemoglobin at study entry</HEADING>
+<P>Haemoglobin concentrations at study entry were reported by <LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>, <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK> and <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>. At baseline, no statistically significant differences were reported in haemoglobin concentration. <LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK> reported a median haemoglobin concentration of 11.7 g/dl (8.5 g/dl to 14.4 g/dl) in the RT alone group and 11.8 g/dl (6.9 g/dl to 14.6 g/dl) in the RT plus EPO group, whereas <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> reported median concentrations of 12.1 g/dl (9.0 g/dl to 13.5 g/dl) in the RT alone group and 12.0 g/dl (9.2 g/dl to 13.5 g/dl) in the RT plus EPO group. Furthermore, <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK> reported mean haemoglobin concentrations of 14.5 g/dl (± 1.4 g/dl) for the RT plus EPO group and 13.6 g/dl (± 1.2 g/dl) for the RT alone group at study entry.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Iron supplementation</HEADING>
+<P>In two studies (<LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>) only patients enrolled in the RT plus EPO group received iron supplementation. In the remaining studies, if administered, both groups received iron supplementation equally (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Chemotherapy</HEADING>
+<P>In the <LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK> study, no chemotherapy was administered and for <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK> and <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK> this was not stated. All patients enrolled in the <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> study received cisplatin and those in the <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK> study 5-fluorouracil and paclitaxel; in both studies this was concurrent with radiotherapy.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Radiation schedule</HEADING>
+<P>In all included studies radiotherapy was administered as primary treatment, see below:</P>
+<UL>
+<LI>
+<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>: total treatment dose (TTD) of 60 Gy for both completely and histological incompletely resected disease or up to a TTD of 70 Gy for macroscopically incompletely resected disease, advanced disease or for radiotherapy only (fraction dose ranged between 1.8 Gy and 2.0 Gy and overall treatment time (OTT) was six weeks).</LI>
+</UL>
+<UL>
+<LI>
+<LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>: TTD between 65 Gy and 75 Gy (twice daily radiation regime with a fraction dose of 1.5 Gy and an OTT of four to five weeks).</LI>
+</UL>
+<UL>
+<LI>
+<LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>: TTD varied from 66 Gy to 72 Gy depending on tumour stage (radiation dose per fraction was 2 Gy with an OTT of seven weeks).</LI>
+</UL>
+<UL>
+<LI>
+<LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>: TTD between 66 Gy and 68 Gy (2 Gy per fraction with an OTT of six weeks).</LI>
+</UL>
+<UL>
+<LI>
+<LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>: the radiation schedule was unclear.</LI>
+</UL>
+<P>Taking into account the radiation schedules reported above, no substantial differences between the RT plus EPO and RT alone group were noted.</P>
+</SUBSECTION>
+</INCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Insufficient information about the study by Hoskin was available to allow the study quality to be determined (<LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>). Details on the randomisation process were reported in the remaining included studies (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>). However, only in two studies (<LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>) was it clear that the persons responsible for enrolling patients could not foresee the patients' group assignment.</P>
+<P>In three studies, the analyses were performed according to the intention-to-treat principle (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>); in the remaining two studies this was unclear (<LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>).</P>
+<P>The EPO plus RT group and RT alone group were similar at baseline for the most important prognostic indicators in two of the included studies (<LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>). <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK> reported baseline characteristics for all patients combined and in the <LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK> study there was an imbalance between the RT plus EPO group and RT alone group (e.g. more relapsed patients and smokers in the RT plus EPO group). Four studies reported the eligibility criteria (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>).</P>
+<P>Losses to follow up were fully accounted for in two trials (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>). In the remaining studies this was unclear (<LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004;</LINK> <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>), which means that the withdrawal/drop-out rate may have caused bias in these studies.</P>
+<P>In the studies by <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> and <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>, iron was supplemented to the RT plus EPO group only. This may have been an influencing co-intervention on the effects of erythropoietin reported in those studies. The three remaining studies supplemented iron equally to both arms (if administered).</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2009-05-13 09:24:01 +0100" MODIFIED_BY="Jenny Bellorini">
+<SUBSECTION>
+<HEADING LEVEL="3">Overall survival</HEADING>
+<P>All included studies in this review reported survival data. However, there was great variability in the follow-up times reported. These ranged from one year in the study of Hoskin (<LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>), to five years in the studies of Henke and Overgaard (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>). The Machtay and Rosen studies reported survival data for, respectively, three and four years (<LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>). All five studies were included in the meta-analyses concerning survival, with a total sample of 1397 patients and a heterogeneity of Chi<SUP>2</SUP> = 6.79 (df = 4, P = 0.15; I<SUP>2</SUP> = 41%) (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>). Two studies (with a combined patient sample of 866) accounted for 68% of the weight in the meta-analysis (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>). The pooled data showed a significantly worse overall survival in the RT plus EPO group compared with RT alone, with a Peto odds ratio of 0.73 (95% confidence interval (CI) 0.58 to 0.91; P = 0.005) (<LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK>; <LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Local regional tumour control</HEADING>
+<P>Local regional tumour control was reported in four of the five studies (n = 1307) which were included in the meta-analyses (<LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>; <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>). Although the heterogeneity (Chi<SUP>2</SUP> = 6.52 (df = 3, P = 0.09; I<SUP>2</SUP> = 54%)) did not reach significance, the I<SUP>2 </SUP>was higher than 50% indicating that there is a certain amount of heterogeneity and therefore a random-effects model was applied. A small but non-significant difference was observed, with a risk ratio (RR) of 0.92 (95% CI 0.81 to 1.03; P = 0.15) (<LINK REF="FIG-03" TYPE="FIGURE">Figure 3</LINK>; <LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Local regional progression free survival</HEADING>
+<P>Four studies (n = 1097) were included in the meta-analysis regarding local regional progression free survival, with a heterogeneity of Chi<SUP>2</SUP> = 5.67 (df = 3, P = 0.13; I<SUP>2</SUP> = 47%) (<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>; <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>; <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>). A significant trend was observed with a Peto odds ratio of 0.63 (95% CI 0.49 to 0.80; P = 0.0002) in favour of the RT alone group (<LINK REF="FIG-04" TYPE="FIGURE">Figure 4</LINK>; <LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Toxicity</HEADING>
+<P>Only two studies (n = 441) reported data suitable for analyses on acute toxicity (<LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>; <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>). This showed a risk ratio of 1.03 (95% CI 0.78 to 1.35; P = 0.86), suggesting that there is no difference in acute toxicity between radiotherapy with erythropoietin and radiotherapy without erythropoietin (<LINK REF="CMP-002.01" TYPE="ANALYSIS">Analysis 2.1</LINK>). Furthermore, data on late toxicity were only available in one study (n = 141) (<LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>), which indicated a non-significant risk ratio of 1.64 (95% CI 0.69 to 3.93; P = 0.26) in favour of the RT alone group (<LINK REF="CMP-002.02" TYPE="ANALYSIS">Analysis 2.2</LINK>).<BR/>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Sensitivity analyses</HEADING>
+<P>Sensitivity analyses were performed for overall survival and local regional progression free survival. When excluding the studies of <LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>, <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>, <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK> or <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> from the analyses for overall survival and local regional progression free survival, the significance of the results remains the same. However, when excluding the <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK> study from the analyses, the ratios for overall survival and local regional progression free survival become non-significant.</P>
+<P>For local regional tumour control the exclusion of the <LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>, <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> or <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK> studies did not affect the non-significance of the results. However, when excluding the <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK> study, the ratio became significant in favour of the RT alone group.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Subgroup analyses</HEADING>
+<P>For the included studies reported above, it was not appropriate to perform subgroup analyses for tumour type and stage, haemoglobin level at study entry, chemotherapy (platinum based or not), radiation schedule or whether it was the primary treatment as reported in the protocol. Either all studies belonged in the same subgroup (radiation schedule, primary treatment) or only one study was available for a specific subgroup (tumour type and stage, chemotherapy, haemoglobin level). Due to the low number of included studies which reported on treatment toxicity the subgroup analyses concerning treatment toxicity could not be performed for acute and late toxicity.</P>
+<P>It was only appropriate to perform subgroup analyses for iron supplementation. If the two studies (<LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> and <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>) which supplemented iron in the erythropoietin group and not in the RT alone group are excluded from the analyses, the (non-) significance concerning overall survival, local regional progression free survival and local regional tumour control still holds (<LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK>; <LINK REF="FIG-03" TYPE="FIGURE">Figure 3</LINK>; <LINK REF="FIG-04" TYPE="FIGURE">Figure 4</LINK>).</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2009-05-13 09:25:46 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>This systematic review analysed overall survival, local regional progression free survival, local regional tumour control and treatment toxicity, with the intention of comparing the effectiveness of concomitant erythropoietin and (chemo) radiotherapy with (chemo) radiation therapy alone in the treatment of head and neck cancer.</P>
+<P>The primary outcomes of this review suggest that the addition of erythropoietin negatively affects overall survival and local regional progression free survival. The analyses concerning local regional tumour control (with a certain amount of statistical heterogeneity), resulted in a non-significant difference. Further, based on the current evidence, no firm judgements can be made concerning the effects of erythropoietin on treatment toxicity.</P>
+<P>As a result of the low number of included studies, it was not appropriate to perform sensitivity analyses or subgroup analyses as proposed in the published protocol. Factors such as platinum based chemotherapy or non-platinum based chemotherapy and haemoglobin concentration at study entry are reported to influence outcomes (<LINK REF="REF-Harari-2003" TYPE="REFERENCE">Harari 2003</LINK>; <LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>), therefore such subgroup analyses may result in a greater insight into the effects of erythropoietin.</P>
+<P>The <LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK> study, which has substantial weight (27.5% to 30.2%) in the analyses concerning overall survival, local regional progression free survival and local regional tumour control, might be biased by the imbalance in baseline characteristics in favour of the RT alone group mentioned previously (more smokers and patients with relapsed cancer were enrolled in the erythropoietin group). In addition, the high percentage of protocol violations in this study may have induced bias. Recently, Henke et al published a sub-analysis of their data, in which a possible biological explanation for their 'unexpected' findings is pointed out (<LINK REF="REF-Henke-2006" TYPE="REFERENCE">Henke 2006</LINK>). They argue that erythropoietin receptors are variably expressed on head and neck cancer cells and that the negative effect of erythropoietin on the prognosis of head and neck cancer patients is restricted to patients who have cancer cells which express erythropoietin receptors. In these tumour cells, erythropoietin would stimulate tumour growth. This argument is supported by their data (<LINK REF="REF-Henke-2006" TYPE="REFERENCE">Henke 2006</LINK>).</P>
+<P>Another influencing factor on the effects of erythropoietin may be the target concentration of haemoglobin sustained in the included studies. The hypothesis pointed out by certain authors is that too high haemoglobin concentrations would increase blood viscosity and therefore increase the risk of thromboembolic events and/or decrease tissue oxygenation (<LINK REF="REF-Bohlius-2006" TYPE="REFERENCE">Bohlius 2006</LINK>). The European Organisation for Research and Treatment of Cancer (EORTC) recommends initiating erythropoietin at a haemoglobin level of 9 to 11 g/dl based on anaemia-related symptoms, with a target concentration between 12 and 13 g/dl (<LINK REF="REF-EORTC-2007" TYPE="REFERENCE">EORTC 2007</LINK>). According to this recommendation, patients enrolled in the RT alone group in the <LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK> and <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK> studies had a favourable haemoglobin concentration compared with the RT plus EPO group (<LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>). Also the <LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK> and <LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK> studies had a higher target concentration than recommended by the EORTC; these were respectively 14.0 to 15.5 g/dl and 14.0 to 15.0 g/dl. The target concentration in the <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK> study was substantially lower; that was to maintain a haemoglobin concentration of 10.0 g/dl. Consistent with the initial hypothesis, the <LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK> study, with a substantially lower haemoglobin concentration, is the only included study showing a (non-significant) risk ratio in favour of the RT plus EPO group (<LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK> and <LINK REF="FIG-04" TYPE="FIGURE">Figure 4</LINK>).</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2009-05-07 11:39:43 +0100" MODIFIED_BY="Jenny Bellorini">
+<IMPLICATIONS_PRACTICE MODIFIED="2009-05-07 11:39:35 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>This review shows moderate evidence to indicate that erythropoietic proteins, as an adjuvant treatment with (chemo) radiotherapy, worsen survival for patients with head and neck cancer. Erythropoietin, with the intention to improve survival, should therefore not be administered outside the experimental setting for patients with head and neck cancer as an addition to (chemo) radiotherapy.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2009-05-07 11:39:43 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Based on the results of this Cochrane Review, there is no evidence that the combined treatment of radiotherapy with erythropoietin yields an advantage compared to standard radiotherapy for the treatment of head and neck cancer patients. There is even a strong suggestion that erythropoietin negatively influences outcome. Publication of long-term follow up of unpublished studies, such as the DAHANCA trial (<LINK REF="STD-Overgaard-2007" TYPE="STUDY">Overgaard 2007</LINK>), and analysis of other endpoints such as acute and late toxicity, are essential to determine the role of (target) haemoglobin concentration and to draw firm conclusions.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2009-03-09 11:55:27 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>We would like to acknowledge all the investigators who agreed to provide us with their data and/or their comments.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2009-05-07 11:39:56 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Philippe Lambin: literature study for background information, selection of studies, data extraction, quality assessment, drafting the review.</P>
+<P>Bram Ramaekers: data analysis, co-drafting review.</P>
+<P>Madelon Pijls-Johannesma: searching, quality assessment, co-drafting review.</P>
+<P>Ghislaine van Mastrigt: searching, data extraction, quality assessment, co-drafting review.</P>
+<P>Jos de Jong: co-drafting review.</P>
+<P>Piet Van den Ende: co-drafting review.</P>
+<P>Dirk de Ruysscher: co-drafting review, data extraction.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2009-05-07 11:40:11 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>There were several discrepancies between the methods published in the protocol and those used in the actual review.</P>
+<P>Firstly, as a consequence of limited data, sensitivity analyses and subgroup analyses could not be performed for all outcomes, nor for all subgroups.</P>
+<P>A second discrepancy was the presentation of the outcomes for overall survival, local regional progression free survival and local regional tumour control. According to the protocol this should have been in terms of two-year and five-year ratios, however due to the marginal availability of data in this review, these two measures were combined into one ratio.</P>
+<P>Thirdly, data to sustain analyses for secondary outcomes as proposed in the published protocol were lacking and therefore these were not performed.</P>
+<P>Finally, for the <LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK> study, only data for one-year follow up were available. According to the protocol this should have been at least two years to be included. However, owing to the scarcity of the included data, this study was included. In addition, trials administering concomitant iron therapy among one or both arms were also eligible.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES MODIFIED="2009-05-08 06:57:28 +0100" MODIFIED_BY="[Empty name]">
+<P>
+<B>Converting g/dl into mmol/l (for haemoglobin): </B>
+<BR/>1 g/dl = 0.62058 mmol/l, therefore g/dl haemoglobin can be converted into mmol/l by multiplying g/dl * 0.62058.</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2009-05-13 09:41:44 +0100" MODIFIED_BY="Jenny Bellorini">
+<STUDIES MODIFIED="2009-05-07 11:47:20 +0100" MODIFIED_BY="Jenny Bellorini">
+<INCLUDED_STUDIES MODIFIED="2009-05-07 11:46:24 +0100" MODIFIED_BY="Jenny Bellorini">
+<STUDY DATA_SOURCE="PUB" ID="STD-Henke-2003" MODIFIED="2009-03-09 13:09:39 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Henke 2003" YEAR="2003">
+<REFERENCE MODIFIED="2009-03-09 12:36:38 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Henke M, Laszig R, Rube C, Schafer U, Haase K, Schilcher B, et al</AU>
+<TI>Erythropoietin to treat head and neck cancer patients with anaemia undergoing radiotherapy: randomised, double-blind, placebo-controlled trial</TI>
+<SO>Lancet</SO>
+<YR>2003</YR>
+<VL>362</VL>
+<NO>9392</NO>
+<PG>1255-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2009-03-09 13:09:39 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="OTHER">
+<AU>Luksenburg H, Weir A, Wager R</AU>
+<TI>Treatment of anemia associated with cancer chemotherapy</TI>
+<SO>FDA briefing document; http://www.fda.gov/OHRMS/DOCKETS/ac/04/briefing/4037B2_04_FDA-Aranesp-Procrit.doc</SO>
+<YR>2004</YR>
+<PG>43-9</PG>
+<IDENTIFIERS MODIFIED="2009-01-15 08:02:05 +0000" MODIFIED_BY="[Empty name]"/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Hoskin-2004" MODIFIED="2009-03-09 12:40:45 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Hoskin 2004" YEAR="2004">
+<REFERENCE MODIFIED="2009-03-09 12:40:41 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="YES" TYPE="CONFERENCE_PROC">
+<AU>Hoskin PJ, Morgan DAL, Robinson M, Slevin N, Hope E</AU>
+<TI>Erythropoetin supplementation for radical radiotherapy in head and neck cancer: interim analysis of a randomised phase III trial</TI>
+<SO>Estro 21 abstract book</SO>
+<YR>2002</YR>
+<PG>S175</PG>
+<CY>Prague</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2009-03-09 12:40:45 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="OTHER">
+<AU>Luksenburg H, Weir A, Wager R</AU>
+<TI>Treatment of anemia associated with cancer chemotherapy</TI>
+<SO>FDA briefing document; http://www.fda.gov/OHRMS/DOCKETS/ac/04/briefing/4037B2_04_FDA-Aranesp-Procrit.doc</SO>
+<YR>2004</YR>
+<PG>59-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Machtay-2007" MODIFIED="2009-05-07 11:46:24 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Machtay 2007" YEAR="2007">
+<REFERENCE MODIFIED="2009-03-09 12:40:55 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="OTHER">
+<AU>Luksenburg H, Weir A, Wager R</AU>
+<TI>Treatment of anemia associated with cancer chemotherapy</TI>
+<SO>FDA briefing document http://www.fda.gov/OHRMS/DOCKETS/ac/04/briefing/4037B2_04_FDA-Aranesp-Procrit.doc</SO>
+<YR>2004</YR>
+<PG>61-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2009-03-09 12:40:35 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Machtay M, Pajak T, Suntharalingam M, Hershock D, Stripp DC, Cmelak A, et al</AU>
+<TI>Definitive radiotherapy ± erythropoietin for squamous cell carcinoma of the head and neck: preliminary report of RTOG 99-03</TI>
+<SO>46th Annual Meeting of the American Society for Therapeutic Radiology and Oncology</SO>
+<YR>2004</YR>
+<PG>S132</PG>
+<CY>Atlanta GA</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2009-03-09 12:38:27 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Machtay M, Pajak TF, Suntharalingam M, Shenouda G, Hershock D, Stripp DC, et al</AU>
+<TI>Radiotherapy with or without erythropoietin for anemic patients with head and neck cancer: a randomized trial of the Radiation Therapy Oncology Group (RTOG 99-03)</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2007</YR>
+<VL>69</VL>
+<NO>4</NO>
+<PG>1008-17</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2009-05-07 11:46:24 +0100" MODIFIED_BY="Jenny Bellorini" PRIMARY="YES" TYPE="OTHER">
+<AU>Machtay M</AU>
+<TI>Phase III randomized study of radiotherapy with or without epoetin alfa in anemic patients with squamous cell carcinoma of the head and heck</TI>
+<TO>Official title: A randomized phase III trial to assess the effect of erythropoietin on local-regional control in anemic patients treated with radiotherapy for carcinoma of the head and neck</TO>
+<SO>Protocol ID: RTOG-9903</SO>
+<YR>2006</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Overgaard-2007" MODIFIED="2009-03-09 12:42:01 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Overgaard 2007" YEAR="2007">
+<REFERENCE MODIFIED="2009-03-09 12:41:23 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Overgaard J, Hoff C, Sand Hansen H, Specht L, Overgaard M, Grau C, et al</AU>
+<TI>Randomized study of the importance of novel erythropoiesis stimulating protein (Aranesp®) for the effect of radiotherapy in patients with primary squamous cell carcinoma of the head and neck (HNSCC) - the Danish Head and Neck Group DAHANCA 10 rand</TI>
+<SO>European Journal of Cancer Supplements</SO>
+<YR>2007</YR>
+<VL>5</VL>
+<NO>6</NO>
+<PG>7</PG>
+<CY>Barcelona</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2009-03-09 12:42:01 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="OTHER">
+<AU>Overgaard J</AU>
+<TI>Examination of a new erythropoiese stimulating protein (Aranesp®) for the effects on radiotherapy to patients with primary squamous cell head and neck carcinoma</TI>
+<TO>Undersøgelse af betydningen af Nyt Erythropoiese-Stimulerende Protein (Aranesp®) for effekten af strålebehandling til patienter med primært planocellulært hoved-hals karcinom</TO>
+<SO>http://www.dahanca.dk/get_media_file.php?mediaid=43</SO>
+<YR>2002</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rosen-2003" MODIFIED="2009-03-09 12:42:22 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Rosen 2003" YEAR="2003">
+<REFERENCE MODIFIED="2009-03-09 12:42:22 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Rosen F, Haraf D, Kies M, Stenson K, Portugal L, List M, et al</AU>
+<TI>Multicenter randomized phase II study of paclitaxel (1-hour infusion), fluorouracil, hydroxyurea, and concomitant twice daily radiation with or without erythropoietin for advanced head and neck cancer</TI>
+<SO>Clinical Cancer Research</SO>
+<YR>2003</YR>
+<VL>9</VL>
+<NO>5</NO>
+<PG>1689-97</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2009-05-07 11:47:20 +0100" MODIFIED_BY="Jenny Bellorini">
+<STUDY DATA_SOURCE="PUB" ID="STD-Antonadou-2005" MODIFIED="2009-03-09 12:43:22 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Antonadou 2005" YEAR="2005">
+<REFERENCE MODIFIED="2009-03-09 12:43:22 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Antonadou D, Varveris P, Kyprianou C, Coliarakis N, Athanasiou H, Papadopoulos V, et al</AU>
+<TI>A multicenter, open study evaluating the impact of darbepoetin alfa on anaemia and quality of life, in cancer patients undergoing radiotherapy</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2005</YR>
+<VL>63</VL>
+<NO>2</NO>
+<PG>S82-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS MODIFIED="2009-01-23 12:33:28 +0000" MODIFIED_BY="[Empty name]"/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Glaser-1999" MODIFIED="2009-03-09 12:43:49 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Glaser 1999" YEAR="1999">
+<REFERENCE MODIFIED="2009-03-09 12:43:49 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Glaser CM, Millesi W, Kornek GV, Lang S, Schüll B, Watzinger F, et al</AU>
+<TI>Impact of hemoglobin (Hgb) level and use of recombinant human erythropoietin (r-HuEPO) on response to neoadjuvant chemoradiation therapy, tumor control, and survival in patients with oral or oropharyngeal squamous cell carcinoma (SCCA)</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>1999</YR>
+<VL>45</VL>
+<NO>3</NO>
+<PG>S149-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Glaser-2001" MODIFIED="2009-03-09 12:44:08 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Glaser 2001" YEAR="2001">
+<REFERENCE MODIFIED="2009-03-09 12:44:08 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Glaser M, Millesi W, Kornek G, Lang S, Schüll B, Watzinger F, et al</AU>
+<TI>Impact of hemoglobin level and use of recombinant erythropoietin on efficacy of preoperative hemoradiation therapy for squamous cell carcinoma of the oral cavity and oropharynx</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2001</YR>
+<VL>50</VL>
+<NO>3</NO>
+<PG>705-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Lambin-2007" MODIFIED="2009-05-07 11:47:20 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Lambin 2007" YEAR="2007">
+<REFERENCE MODIFIED="2009-05-07 11:47:20 +0100" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="UNPUBLISHED">
+<AU>Lambin P, Bernier J, Denham J, Sureda A, Bourhis JH, Kaldau F, et al</AU>
+<TI>A phase III double-blind, randomized, placebo-controlled study of erythropoietin when used as an adjuvant to radiation therapy in patients with head and neck squamous cell carcinoma</TI>
+<TO>EORTC protocol 22996-24002</TO>
+<SO>http://clinicaltrials.gov/ct2/show/NCT00017277</SO>
+<YR>2001</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lavey-1993" MODIFIED="2009-03-09 12:44:31 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Lavey 1993" YEAR="1993">
+<REFERENCE MODIFIED="2009-03-09 12:44:31 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lavey R, Dempsey W</AU>
+<TI>Erythropoietin increases hemoglobin in cancer patients during radiation therapy</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>1993</YR>
+<VL>27</VL>
+<NO>5</NO>
+<PG>1147-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Martinez-2001" MODIFIED="2009-03-09 12:45:10 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Martinez 2001" YEAR="2001">
+<REFERENCE MODIFIED="2009-03-09 12:44:48 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Martinez J, Espineira M, Cabezon M, Villar A, Perez M, Borque C, et al</AU>
+<TI>Hyperfractionated chemoradiotherapy with carbogen breathing, and with or without erythropoietin for head and neck cancer</TI>
+<SO>Radiotherapy and Oncology</SO>
+<YR>2001</YR>
+<VL>58</VL>
+<NO>Suppl 1</NO>
+<PG>S93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2009-03-09 12:45:10 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Martinez J, Villar A, Cabezon M, Serdio J, Fuentes C, Neira M, et al</AU>
+<TI>Hyperfractionated chemoradiation with carbogen breathing, with or without erythropoietin: a stepwise developed treatment schedule for advanced head-and-neck cancer</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2001</YR>
+<VL>50</VL>
+<NO>1</NO>
+<PG>47-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Murphy-2005" MODIFIED="2009-03-09 12:46:16 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Murphy 2005" YEAR="2005">
+<REFERENCE MODIFIED="2009-03-09 12:46:16 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Murphy B, Shaktour B, Raben D, Reid W, Weng E, Burkey B, et al</AU>
+<TI>A phase II multi-institutional trial of chemoradiation (CR) using weekly docetaxel (Doc) and erythropoetin (Epo) for high-risk postoperative head and neck cancer (HRHNC) patients</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>2005</YR>
+<VL>23</VL>
+<NO>Suppl 1</NO>
+<PG>5591</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Samper-2005" MODIFIED="2009-03-09 12:50:29 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Samper 2005" YEAR="2005">
+<REFERENCE MODIFIED="2009-03-09 12:50:29 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Samper P, Vallejo C, Lopez-Carrizosa C, Rodriguez A, Saez J, Delgado J</AU>
+<TI>Comparison of darbepoetin alfa and epoetin alfa for radiotherapy (RT) or chemoradiotherapy (CT/RT)-induced anemia</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2005</YR>
+<VL>63</VL>
+<NO>Suppl 1</NO>
+<PG>S479</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Scott-2002" MODIFIED="2009-03-09 12:49:08 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Scott 2002" YEAR="2002">
+<REFERENCE MODIFIED="2009-03-09 12:49:08 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Scott S, Boeve T, McCulloch T, Fitzpatrick K, Karnell L</AU>
+<TI>The effects of epoetin alfa on transfusion requirements in head and neck cancer patients: a prospective, randomized, placebo-controlled study</TI>
+<SO>Laryngoscope</SO>
+<YR>2002</YR>
+<VL>112</VL>
+<NO>7</NO>
+<PG>1221-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tsukuda-1993" MODIFIED="2009-03-09 12:49:48 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Tsukuda 1993" YEAR="1993">
+<REFERENCE MODIFIED="2009-03-09 12:49:48 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tsukuda M, Mochimatsu I, Nagahara T, Kokatsu T, Sawaki S, Kubota A, et al</AU>
+<TI>Clinical application of recombinant human erythropoietin for treatments in patients with head and neck cancer</TI>
+<SO>Cancer Immunology, Immunotherapy</SO>
+<YR>1993</YR>
+<VL>6</VL>
+<NO>1</NO>
+<PG>52-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Villar-2001" MODIFIED="2009-03-09 12:50:36 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Villar 2001" YEAR="2001">
+<REFERENCE MODIFIED="2009-03-09 12:50:36 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Villar A, Martinez J, Fuentes C, Cabezon M, Perez M, Espiñeira M, et al</AU>
+<TI>The use of erythropoietin instead of transfusions to correct anemia in hyperfractionated chemoradiation of advanced head and neck cancer</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2001</YR>
+<VL>51</VL>
+<NO>3</NO>
+<PG>367</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Willey-2007" MODIFIED="2009-03-09 12:51:06 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Willey 2007" YEAR="2007">
+<REFERENCE MODIFIED="2009-03-09 12:51:06 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Willey C, Murphy B, Netterville J, Burkey B, Shyr Y, Shakhtour B, et al</AU>
+<TI>A phase II multi-institutional trial of chemoradiation using weekly docetaxel and erythropoietin for high-risk postoperative head and neck cancer patients</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2007</YR>
+<VL>67</VL>
+<NO>5</NO>
+<PG>1323-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES MODIFIED="2009-03-09 12:51:42 +0000" MODIFIED_BY="Jenny Bellorini">
+<STUDY DATA_SOURCE="PUB" ID="STD-Aziz-2001" MODIFIED="2009-03-09 12:51:27 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Aziz 2001" YEAR="2001">
+<REFERENCE MODIFIED="2009-03-09 12:51:27 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Aziz K, Hashem T, Mobarek N, Bary N, Ghoneimy I, Haddad S</AU>
+<TI>Does recombinant human erythropoietin improve the outcome of radiation therapy in head and neck cancer patients</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2001</YR>
+<VL>51</VL>
+<NO>3, Suppl 1</NO>
+<PG>367</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Elsaid-2001" MODIFIED="2009-03-09 12:51:42 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Elsaid 2001" YEAR="2001">
+<REFERENCE MODIFIED="2009-03-09 12:51:42 +0000" MODIFIED_BY="Jenny Bellorini" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Elsaid A, Farouk M</AU>
+<TI>Significance of anemia and role of erythropoietin in radiation induced mucositis in head and neck cancer patients</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2001</YR>
+<VL>51</VL>
+<NO>3, Suppl 1</NO>
+<PG>368</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</ONGOING_STUDIES>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2009-05-13 09:41:44 +0100" MODIFIED_BY="Jenny Bellorini">
+<ADDITIONAL_REFERENCES MODIFIED="2009-05-13 09:41:44 +0100" MODIFIED_BY="Jenny Bellorini">
+<REFERENCE ID="REF-Bohlius-2005" MODIFIED="2009-05-13 09:28:35 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Bohlius 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Bohlius JF, Langensiepen S, Engert A, Schwarzer G, Bennett CL</AU>
+<TI>Effectiveness of erythropoietin in the treatment of patients with malignancies: methods and preliminary results of a Cochrane review</TI>
+<SO>Best Practice &amp; Research. Clinical Haematology</SO>
+<YR>2005</YR>
+<VL>18</VL>
+<NO>3</NO>
+<PG>449-54</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bohlius-2006" MODIFIED="2009-05-13 09:28:37 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Bohlius 2006" TYPE="COCHRANE_REVIEW">
+<AU>Bohlius J, Wilson J, Seidenfeld J, Piper M, Schwarzer G, Sandercock J, et al</AU>
+<TI>Erythropoietin or darbepoetin for patients with cancer</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2009-03-09 12:54:42 +0000" MODIFIED_BY="Jenny Bellorini">
+<IDENTIFIER MODIFIED="2009-03-09 12:54:42 +0000" MODIFIED_BY="Jenny Bellorini" TYPE="DOI" VALUE="Art. No.: CD003407. DOI: 10.1002/14651858.CD003407.pub4"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Brizel-1999" MODIFIED="2009-05-13 09:28:39 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Brizel 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Brizel DM, Dodge RK, Clough RW, Dewhirst MW</AU>
+<TI>Oxygenation of head and neck cancer: changes during radiotherapy and impact on treatment outcome</TI>
+<SO>Radiotherapy and Oncology</SO>
+<YR>1999</YR>
+<VL>53</VL>
+<NO>2</NO>
+<PG>113-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brown-1998" MODIFIED="2009-05-13 09:28:41 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Brown 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Brown JM, Giaccia AJ</AU>
+<TI>The unique physiology of solid tumors: opportunities (and problems) for cancer therapy</TI>
+<SO>Cancer Research</SO>
+<YR>1998</YR>
+<VL>58</VL>
+<NO>7</NO>
+<PG>1408-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-EORTC-2007" MODIFIED="2009-03-09 12:57:12 +0000" MODIFIED_BY="Jenny Bellorini" NAME="EORTC 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Bokemeyer C, Aapro M, Courdi A, Foubert J, Link H, Österborg A, et al</AU>
+<TI>EORTC guidelines for the use of erythropoietic proteins in anaemic patients with cancer: 2006 update</TI>
+<SO>European Journal of Cancer</SO>
+<YR>2007</YR>
+<VL>43</VL>
+<PG>258-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fyles-1998" MODIFIED="2009-05-13 09:28:45 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Fyles 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Fyles AW, Milosevic M, Wong R, Kavanagh MC, Pintilie M, Sun A, et al</AU>
+<TI>Oxygenation predicts radiation response and survival in patients with cervix cancer</TI>
+<SO>Radiotherapy and Oncology</SO>
+<YR>1998</YR>
+<VL>48</VL>
+<NO>2</NO>
+<PG>149-56</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Handbook-2008" MODIFIED="2009-05-13 09:41:44 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Handbook 2008" TYPE="OTHER">
+<AU>Higgins JPT, Green S, editors</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions 5.0.0 [updated February 2008]</TI>
+<SO>The Cochrane Collaboration, 2008. Available from www.cochrane-handbook.org</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Harari-2003" MODIFIED="2009-05-13 09:28:48 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Harari 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Harari PM, Mehta MP, Ritter MA, Petereit DG</AU>
+<TI>Clinical promise tempered by reality in the delivery of combined chemoradiation for common solid tumors</TI>
+<SO>Seminars in Radiation Oncology</SO>
+<YR>2003</YR>
+<VL>13</VL>
+<NO>1</NO>
+<PG>3-12</PG>
+<IDENTIFIERS MODIFIED="2009-03-09 12:58:02 +0000" MODIFIED_BY="Jenny Bellorini"/>
+</REFERENCE>
+<REFERENCE ID="REF-Henke-2003" MODIFIED="2009-05-13 09:28:52 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Henke 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Henke M, Laszig R, Rube C, Schafer U, Haase KD, Schilcher B, et al</AU>
+<TI>Erythropoietin to treat head and neck cancer patients with anaemia undergoing radiotherapy: randomised, double-blind, placebo-controlled trial</TI>
+<SO>Lancet</SO>
+<YR>2003</YR>
+<VL>362</VL>
+<NO>9392</NO>
+<PG>1255-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Henke-2006" MODIFIED="2009-05-07 11:47:48 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Henke 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Henke M, Mattern D, Pepe M, Bézay C, Weissenberger C, Werner M, et al</AU>
+<TI>Do erythropoietin receptors on cancer cells explain unexpected clinical findings?</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>2006</YR>
+<VL>24</VL>
+<PG>4708-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hockel-1996" MODIFIED="2009-05-13 09:28:56 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Hockel 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Hockel M, Schlenger K, Aral B, Mitze M, Schaffer U, Vaupel P</AU>
+<TI>Association between tumor hypoxia and malignant progression in advanced cancer of the uterine cervix</TI>
+<SO>Cancer Research</SO>
+<YR>1996</YR>
+<VL>56</VL>
+<NO>19</NO>
+<PG>4509-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Machtay-2004" MODIFIED="2009-03-09 12:59:45 +0000" MODIFIED_BY="Jenny Bellorini" NAME="Machtay 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Machtay M, Pajak T, Suntharalingam M, Hershock D, Stripp DC, Cmelak A, et al</AU>
+<TI>Definitive radiotherapy ± erythropoietin for squamous cell carcinoma of the head and neck: preliminary report of RTOG 99-03</TI>
+<SO>International Journal of Radiation Oncology, Biology, Physics</SO>
+<YR>2004</YR>
+<VL>60</VL>
+<NO>1 (Suppl 1)</NO>
+<PG>s132</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nordsmark-1996" MODIFIED="2009-05-13 09:28:59 +0100" MODIFIED_BY="Jenny Bellorini" NAME="Nordsmark 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Nordsmark M, Overgaard M, Overgaard J</AU>
+<TI>Pretreatment oxygenation predicts radiation response in advanced squamous cell carcinoma of the head and neck</TI>
+<SO>Radiotherapy and Oncology</SO>
+<YR>1996</YR>
+<VL>41</VL>
+<NO>1</NO>
+<PG>31-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-RevMan-2008" MODIFIED="2009-05-13 09:29:03 +0100" MODIFIED_BY="Jenny Bellorini" NAME="RevMan 2008" TYPE="COMPUTER_PROGRAM">
+<TI>Review Manager (RevMan)</TI>
+<YR>2008</YR>
+<EN>5.0 for Windows</EN>
+<PB>The Nordic Cochrane Centre, The Cochrane Collaboration</PB>
+<CY>Copenhagen</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES MODIFIED="2009-05-13 09:41:25 +0100" MODIFIED_BY="Jenny Bellorini"/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2009-05-08 06:47:48 +0100" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2009-05-08 06:47:48 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2009-05-08 06:47:41 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Henke-2003">
+<CHAR_METHODS MODIFIED="2009-05-07 11:40:18 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>2-arm, randomised, multi-centre, double-blind, placebo controlled trial (phase 3)<BR/>Randomisation procedure: adequate<BR/>ITT: yes<BR/>Baseline characteristics similar: no<BR/>Eligibility criteria specified: yes<BR/>Losses to follow up fully accounted for: yes<BR/>Bias due withdrawal/drop-out rate: no<BR/>Co-interventions influenced results: no</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-08 06:47:41 +0100" MODIFIED_BY="[Empty name]">
+<P>SCCHN cancer patients: E = 180; C = 171<BR/>Male: E = 158 (88%); C = 145 (85%)<BR/>Age: E = 58 (35 to 81); C = 57 (36 to 87)<BR/>HB: E = 11.7 (8.5 to 14.4); C = 11.8 (6.9 to 14.6)</P>
+<P>Tumour type:<BR/>Oral cavity: E = 43 (24%); C = 36 (21%)<BR/>Oropharynx: E = 72 (40%); C = 74 (43%)<BR/>Hypopharynx: E = 40 (22%); C = 43 (25%)<BR/>Larynx: E = 41 (23%); C = 39 (23%)</P>
+<P>Current smoker: E = 118 (66%); C = 91 (53%)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>EPO: epoetin beta (300 IU/kg) or placebo, SC, 3 times per week<BR/>Start EPO and placebo: 10 to 14 days before RT<BR/>Stop EPO: women = HB &gt; 14 g/dl; men = HB &gt; 15 g/dl or HB increased more than 20 g/l in 1 week<BR/>Resume EPO: HB lower than target concentration<BR/>Iron: 200 mg iron-III saccharate or 187.5 mg iron-III-gluconate, IV one a week or oral iron (if transferrin was lower than 25%)<BR/>RT: R0-R1: 60 Gy/fraction dose 1.8 to 2.0 Gy, R2 or primary definitive treatment 70 Gy/fraction dose 1.8 to 2.0 Gy, OTT: 6 weeks<BR/>CT: no<BR/>
+<BR/>C: placebo (no EPO)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-03-09 12:05:02 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Overall survival (5 years)<BR/>Progression free survival (4 years)<BR/>Local regional tumour control</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-03-09 12:11:58 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Iron supplementation in both groups<BR/>Name of study: ENHANCE<BR/>Funding source: La Roche</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Hoskin-2004">
+<CHAR_METHODS MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>2-arm, randomised, open-label multi-centre trial (phase 3)<BR/>Randomisation procedure: unknown<BR/>ITT: unknown<BR/>Baseline characteristics similar: unknown<BR/>Eligibility criteria specified: unknown<BR/>Losses to follow up fully accounted for: unknown<BR/>Bias due withdrawal/drop-out rate: unknown<BR/>Co-interventions influenced results: unknown</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-03-09 12:05:49 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>SCCHN cancer patients: E = 255; C = 260<BR/>No baseline data available</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>EPO: epoetin alfa (eprex), (4000 or 10000 IU), SC, 3 times per week, based on whether the entry HB concentration was &gt; 12.5 g/dl or &lt; 15 g/dl during RT<BR/>Start EPO: subjects received EPO immediately after randomisation if RT started within 2 to 4 weeks after randomisation. Subjects received EPO 4 weeks after randomisation if RT started &gt; 4 weeks after randomisation.<BR/>Stop EPO: HB &gt; 15 g/dl<BR/>Iron: not stated<BR/>RT: not stated<BR/>CT: not stated<BR/>
+<BR/>C: no EPO</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-03-09 12:07:16 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Overall survival (1 years)<BR/>Local regional tumour control<BR/>Acute toxicity</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-03-09 12:11:56 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Iron supplementation in both groups<BR/>Name of study: EPO-GBR-7<BR/>Funding source: Johnson &amp; Johnson<BR/>Results interim analysis available</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-07 11:41:14 +0100" MODIFIED_BY="Jenny Bellorini" STUDY_ID="STD-Machtay-2007">
+<CHAR_METHODS MODIFIED="2009-04-16 10:17:01 +0100" MODIFIED_BY="[Empty name]">
+<P>2-arm, randomised, open-label multi-centre trial (phase 3)<BR/>Randomisation procedure: adequate<BR/>ITT: yes<BR/>Baseline characteristics similar: yes<BR/>Eligibility criteria specified: yes<BR/>Losses to follow up fully accounted for: yes<BR/>Bias due withdrawal/drop-out rate: no<BR/>Co-interventions influenced results: yes (CT after start protocol and iron supplementation only in E)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-03-09 12:10:35 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>SCCHN cancer patients: E = 72; C = 69<BR/>Male: E = 53 (74%); C = 51 (74%)<BR/>Age: E = 64 (24 to 90); C = 61 (42 to 86)<BR/>HB: E = 12.0 (9.2 to 13.5); C = 12.1 (9.0 to 13.5)<BR/>Tumour type:<BR/>Oral cavity: E = 6 (8%); C = 6 (9%)<BR/>Oropharynx: E = 34 (47%); C = 31 (45%)<BR/>Hypopharynx: E = 4 (6%); C = 9 (13%)<BR/>Larynx: E = 28 (39%); C = 23 (33%)<BR/>Current smoker: E = 30 (42%); C = 34 (49%)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-07 11:41:08 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>EPO: epoetin alfa (PROCIT/Eprex ) (40,000 IU) SC, 1 x per week, during RT<BR/>Start EPO: 7 to 10 days before RT<BR/>Stop EPO: women: HB &gt; 14 g/dl; men: &gt; 16 g/dl<BR/>Resume EPO: if lower than target concentration<BR/>Iron: tablet 180 mg or ferrous sulfate 300 mg tablet or elixir<BR/>RT: 66 to 72 Gy, fraction dose 2.0 Gy, OTT 7 weeks<BR/>CT: cisplatin (80 mg/m2 every 3 weeks) weekly cisplatin (30 mg/m2/wk) weekly cisplatin plus paclitaxel (20 mg/m2/wk and 30 mg/m2/wk, respectively), or weekly carboplatin and paclitaxel (area under the curve = 1 and 30 mg/m2/wk, respectively)</P>
+<P>C: no EPO</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-03-09 12:11:47 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Overall survival (3 years)<BR/>Progression free survival (5 years)<BR/>Local regional tumour control<BR/>Acute and late toxicity</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-05-07 11:41:14 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Iron supplementation in only in E group<BR/>Name of study: RTOG 99-03<BR/>Funding Source: RTOG, NCI, Ortho Biotech Clinical Affairs<BR/>Study closed after 147 patients entered</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-07 11:41:41 +0100" MODIFIED_BY="Jenny Bellorini" STUDY_ID="STD-Overgaard-2007">
+<CHAR_METHODS MODIFIED="2009-05-07 11:41:21 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>2-arm, randomised, open-label, multi-centre trial (phase 3)<BR/>Randomisation procedure: adequate<BR/>ITT: yes<BR/>Baseline characteristics similar: yes<BR/>Eligibility criteria specified: yes<BR/>Losses to follow up fully accounted for: unknown<BR/>Bias due to withdrawal/drop-out rate: unknown<BR/>Co-interventions influenced results: no</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-03-09 12:13:14 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>SCCHN cancer patients: E = 255; C = 260<BR/>No baseline data available</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-07 11:41:41 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>EPO: darbepo (Aranesp) (150 mg), SC, 1 x per week until completion RT<BR/>Start EPO: 1 week prior RT<BR/>Stop EPO: HB &gt; 15.5 g/dl<BR/>Iron: SE-ferritin &lt; 200 ug/l<BR/>RT: 66 to 68 Gy, 33 to 34, OTT 6 weeks<BR/>CT: unknown<BR/>Other co-interventions: nimorazol (naxogin), hypoxy radiosensitiser</P>
+<P>C: no EPO</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-03-09 12:13:57 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Overall survival (5 years)<BR/>Disease free survival (5 years)<BR/>Local regional tumour control<BR/>Adverse events</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-03-09 12:14:05 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Iron supplementation in both groups<BR/>Name of study: DAHANCA 10<BR/>Funding source: Danish Cancer Society and Amgen<BR/>Results of interim analysis available</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-07 11:42:41 +0100" MODIFIED_BY="Jenny Bellorini" STUDY_ID="STD-Rosen-2003">
+<CHAR_METHODS MODIFIED="2009-05-07 11:41:54 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>RCT (phase 2), 2-arm, multi-centre trial<BR/>Randomisation procedure: adequate<BR/>ITT: unknown<BR/>Baseline characteristics similar: unknown<BR/>Eligibility criteria specified: yes<BR/>Losses to follow up fully accounted for: unknown<BR/>Bias due withdrawal/drop-out rate: yes<BR/>Co-interventions influenced results: yes</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-03-09 12:15:28 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>SCCHN cancer patients: E = 47; C = 43<BR/>No baseline data available</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-07 11:42:41 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>EPO: r-HuEpo (procrit; Ortho Biotech) 40,000 IU 1 x per wk, duration 14 weeks<BR/>RT: 65 to 75 Gy, fraction dose 1.5 Gy, OTT 4 to 5 weeks (twice daily)<BR/>CT: hydroxyurea (500 mg, po, every 12 hours/5.5 d) 5FU (600 mg/iv/m2/day, d 0-5), Paclitaxel (100 mg/m2/d/d1)<BR/>Iron: ferrous sulfate 325 mg 3 x per day<BR/>Other co-interventions: dexamethasone (10 mg/po/12h and 1 hour before paclitaxel, benadryl (25 mg/iv/30 min before paclitaxel)</P>
+<P>C: no EPO</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-03-09 12:16:37 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Overall survival (4 years)<BR/>Progression free survival (4 years)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-01-23 10:26:14 +0000" MODIFIED_BY="[Empty name]">
+<P>Iron supplementation only in E group<BR/>Funding source: Ortho Biotech</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>C: control or placebo group<BR/>CT: chemotherapy<BR/>d: day<BR/>DAHANCA: Danish Head and Neck Cancer Group<BR/>E: EPO group<BR/>EPO: epoetin<BR/>f: fraction<BR/>Gy: Gray<BR/>H&amp;N: head and neck<BR/>HB: haemoglobin concentration (g/dl) in median (range)<BR/>Iron: iron supplementation<BR/>ITT: intention-to-treat<BR/>IV: intravenous<BR/>min: minutes<BR/>NCI: National Cancer Institute<BR/>OTT: overall treatment time<BR/>po: orally<BR/>R0: histologically complete resected<BR/>R1: histologically incomplete resected<BR/>R2: macroscopically incomplete resected<BR/>RT: radiotherapy<BR/>RTOG: Radiation Therapy Oncology Group<BR/>SC: subcutaneous<BR/>SCCHN: squamous cell carcinoma head and neck<BR/>wk: week<BR/>ys: years </P>
+<P>Age in median (range)<BR/>Male, current smoker in number and percentages</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2009-05-07 11:43:40 +0100" MODIFIED_BY="Jenny Bellorini" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Antonadou-2005">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised </P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Glaser-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Glaser-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Lambin-2007">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised (due to randomisation fault only placebo was given)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Lavey-1993">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Martinez-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Murphy-2005">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Randomised</P>
+<P>Participants:<BR/>Head and neck cancer patients</P>
+<P>Interventions:<BR/>No radiotherapy</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-07 11:43:40 +0100" MODIFIED_BY="Jenny Bellorini" STUDY_ID="STD-Samper-2005">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-07 11:43:40 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>Allocation:<BR/>Randomised</P>
+<P>Participants:<BR/>Head and neck cancer patients</P>
+<P>Interventions:<BR/>Erythropoietin versus darbepoetin</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Scott-2002">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Randomised</P>
+<P>Participants:<BR/>Head and neck cancer patients</P>
+<P>Interventions:<BR/>No radiotherapy<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Tsukuda-1993">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Randomised</P>
+<P>Participants:<BR/>Head and neck cancer patients</P>
+<P>Interventions:<BR/>Erythropoietin was administered in both trial arms</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Villar-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" STUDY_ID="STD-Willey-2007">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<P>Allocation:<BR/>Not randomised</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES MODIFIED="2009-05-07 11:44:38 +0100" MODIFIED_BY="Jenny Bellorini" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<ONGOING_CHAR MODIFIED="2009-03-16 11:04:35 +0000" MODIFIED_BY="Jenny Bellorini" STUDY_ID="STD-Aziz-2001">
+<CHAR_STUDY_NAME MODIFIED="2009-03-09 12:25:46 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Unknown</P>
+</CHAR_STUDY_NAME>
+<CHAR_METHODS MODIFIED="2009-03-12 13:25:59 +0000" MODIFIED_BY="[Empty name]">
+<P>&#8212;</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-03-14 15:36:48 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Patients with histologically proven squamous cell carcinoma of the head and neck </P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-03-14 15:36:47 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>EPO: r-HuEpo 300 IU/kg, 3 times per week, duration 3 weeks<BR/>Start EPO: 10 days prior RT<BR/>RT: unknown<BR/>CT: unknown</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-03-09 12:27:29 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Loco regional control<BR/>Toxicity</P>
+</CHAR_OUTCOMES>
+<CHAR_STARTING_DATE MODIFIED="2009-02-02 09:21:39 +0000" MODIFIED_BY="[Empty name]">
+<P>January 1999</P>
+</CHAR_STARTING_DATE>
+<CHAR_CONTACT_INFORMATION MODIFIED="2009-03-09 12:27:54 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Prof. Dr. Khaled Kamal El Din<BR/>Prof. Clinical Oncology<BR/>209 26th of July Street<BR/>023040691 Mob. 0101819199<BR/>Sphinx Square, Mohandeseen<BR/>Giza, Cairo, Egypt</P>
+</CHAR_CONTACT_INFORMATION>
+<CHAR_NOTES MODIFIED="2009-03-16 11:04:35 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>&#8212;</P>
+</CHAR_NOTES>
+</ONGOING_CHAR>
+<ONGOING_CHAR MODIFIED="2009-05-07 11:44:38 +0100" MODIFIED_BY="Jenny Bellorini" STUDY_ID="STD-Elsaid-2001">
+<CHAR_STUDY_NAME MODIFIED="2009-03-09 12:27:57 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Unknown</P>
+</CHAR_STUDY_NAME>
+<CHAR_METHODS MODIFIED="2009-03-12 13:25:46 +0000" MODIFIED_BY="[Empty name]">
+<P>&#8212;</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-03-14 15:36:47 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Patients with previously untreated head and neck squamous cell carcinoma. Furthermore, patients were categorised into 2 groups: anaemic (Hb &lt;12.0 g/100mL) and non-anaemic (Hb &#8805; 12.0 g/100mL). The anaemic group was randomised.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-07 11:44:38 +0100" MODIFIED_BY="Jenny Bellorini">
+<P>EPO: r-HuEpo, 10000 IU, 3 times per week, duration 3 weeks, during<BR/>RT: 1.8 Gy/37 to 38d<BR/>CT: unknown</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-03-09 12:28:30 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Toxicity</P>
+</CHAR_OUTCOMES>
+<CHAR_STARTING_DATE MODIFIED="2009-03-09 12:28:32 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>Unknown</P>
+</CHAR_STARTING_DATE>
+<CHAR_CONTACT_INFORMATION MODIFIED="2009-03-16 11:04:38 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>&#8212;</P>
+</CHAR_CONTACT_INFORMATION>
+<CHAR_NOTES MODIFIED="2009-03-16 11:04:38 +0000" MODIFIED_BY="Jenny Bellorini">
+<P>&#8212;</P>
+</CHAR_NOTES>
+</ONGOING_CHAR>
+<FOOTNOTES>
+<P>CT: chemotherapy<BR/>d = days<BR/>EPO: epoetin<BR/>RT: radiotherapy<BR/>
+</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Henke-2003">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" RESULT="UNKNOWN" STUDY_ID="STD-Hoskin-2004">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Machtay-2007">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Overgaard-2007">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Rosen-2003">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2009-05-13 09:28:12 +0100" MODIFIED_BY="Jenny Bellorini">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2009-05-07 11:45:01 +0100" MODIFIED_BY="Jenny Bellorini" NO="1">
+<TITLE MODIFIED="2009-03-13 16:04:55 +0000" MODIFIED_BY="[Empty name]">Tumour characteristics in included studies</TITLE>
+<TABLE COLS="7" ROWS="15">
+<TR>
+<TH COLSPAN="7">
+<P>Tumour characteristics</P>
+</TH>
+</TR>
+<TR>
+<TD COLSPAN="2" ROWSPAN="2">
+<P/>
+</TD>
+<TD>
+<P>
+<LINK REF="STD-Rosen-2003" TYPE="STUDY">Rosen 2003</LINK>
+</P>
+</TD>
+<TD COLSPAN="2">
+<P>
+<LINK REF="REF-Henke-2003" TYPE="REFERENCE">Henke 2003</LINK>
+</P>
+</TD>
+<TD COLSPAN="2">
+<P>
+<LINK REF="STD-Machtay-2007" TYPE="STUDY">Machtay 2007</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Total</P>
+</TD>
+<TD>
+<P>RT plus EPO</P>
+</TD>
+<TD>
+<P>RT alone</P>
+</TD>
+<TD>
+<P>RT plus EPO</P>
+</TD>
+<TD>
+<P>RT alone</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P>Tumour location</P>
+</TD>
+<TD>
+<P>(n = 90)</P>
+</TD>
+<TD>
+<P>(n = 180)</P>
+</TD>
+<TD>
+<P>(n = 171)</P>
+</TD>
+<TD>
+<P>(n = 72)</P>
+</TD>
+<TD>
+<P>(n = 69)</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P>Oral cavity</P>
+</TD>
+<TD>
+<P>16%</P>
+</TD>
+<TD>
+<P>19%</P>
+</TD>
+<TD>
+<P>22%</P>
+</TD>
+<TD>
+<P>8%</P>
+</TD>
+<TD>
+<P>9%</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P>Oropharynx</P>
+</TD>
+<TD>
+<P>43%</P>
+</TD>
+<TD>
+<P>39%</P>
+</TD>
+<TD>
+<P>37%</P>
+</TD>
+<TD>
+<P>47%</P>
+</TD>
+<TD>
+<P>45%</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P>Hypopharynx</P>
+</TD>
+<TD>
+<P>12%</P>
+</TD>
+<TD>
+<P>22%</P>
+</TD>
+<TD>
+<P>20%</P>
+</TD>
+<TD>
+<P>6%</P>
+</TD>
+<TD>
+<P>13%</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P>Larynx</P>
+</TD>
+<TD>
+<P>21%</P>
+</TD>
+<TD>
+<P>20%</P>
+</TD>
+<TD>
+<P>21%</P>
+</TD>
+<TD>
+<P>39%</P>
+</TD>
+<TD>
+<P>33%</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P>Nasopharynx</P>
+</TD>
+<TD>
+<P>2%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2">
+<P>Other/unknown</P>
+</TD>
+<TD>
+<P>6%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="7">
+<P>AJCC stage</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>I</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>1%</P>
+</TD>
+<TD>
+<P>1%</P>
+</TD>
+<TD>
+<P>17%</P>
+</TD>
+<TD>
+<P>19%</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>II</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>0%</P>
+</TD>
+<TD>
+<P>3%</P>
+</TD>
+<TD>
+<P>21%</P>
+</TD>
+<TD>
+<P>16%</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>II</P>
+</TD>
+<TD>
+<P>4%</P>
+</TD>
+<TD>
+<P>27%</P>
+</TD>
+<TD>
+<P>21%</P>
+</TD>
+<TD>
+<P>20%</P>
+</TD>
+<TD>
+<P>16%</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>IV</P>
+</TD>
+<TD>
+<P>96%</P>
+</TD>
+<TD>
+<P>72%</P>
+</TD>
+<TD>
+<P>75%</P>
+</TD>
+<TD>
+<P>44%</P>
+</TD>
+<TD>
+<P>50%</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2009-05-13 09:28:12 +0100" MODIFIED_BY="Jenny Bellorini" NO="2">
+<TITLE MODIFIED="2009-03-13 20:44:26 +0000" MODIFIED_BY="Jenny Bellorini">Haemoglobin concentration (g/dl)</TITLE>
+<TABLE COLS="5" ROWS="5">
+<TR>
+<TD ROWSPAN="2">
+<P/>
+</TD>
+<TD COLSPAN="2">
+<P>
+<LINK REF="STD-Hoskin-2004" TYPE="STUDY">Hoskin 2004</LINK>
+</P>
+</TD>
+<TD COLSPAN="2">
+<P>
+<LINK REF="STD-Henke-2003" TYPE="STUDY">Henke 2003</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TH>
+<P>RT alone</P>
+</TH>
+<TH>
+<P>RT plus EPO</P>
+</TH>
+<TH>
+<P>RT alone</P>
+</TH>
+<TH>
+<P>RT plus EPO</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Completion of RT</P>
+</TD>
+<TD>
+<P>13.3</P>
+</TD>
+<TD>
+<P>14.5</P>
+</TD>
+<TD>
+<P>&#8212;</P>
+</TD>
+<TD>
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>4 weeks after RT</P>
+</TD>
+<TD>
+<P>&#8212;</P>
+</TD>
+<TD>
+<P>&#8212;</P>
+</TD>
+<TD>
+<P>12.4</P>
+</TD>
+<TD>
+<P>14.8</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>9 weeks after RT</P>
+</TD>
+<TD>
+<P>&#8212;</P>
+</TD>
+<TD>
+<P>&#8212;</P>
+</TD>
+<TD>
+<P>12.9</P>
+</TD>
+<TD>
+<P>15.4</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain">
+<COMPARISON ID="CMP-001" MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" NO="1">
+<NAME>EPO plus RT versus RT alone</NAME>
+<DICH_OUTCOME CHI2="7.857741796959913" CI_END="0.8146553079493694" CI_START="0.5868010676223947" CI_STUDY="95" CI_TOTAL="95" DF="7.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.6914048050519613" ESTIMABLE="YES" EVENTS_1="645" EVENTS_2="740" I2="10.915881675976747" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.0890261084633448" LOG_CI_START="-0.23150910467522223" LOG_EFFECT_SIZE="-0.16026760656928352" METHOD="PETO" MODIFIED="2009-04-24 14:42:30 +0100" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.3453052902907292" P_Q="0.4995835023514259" P_Z="1.0374831160707055E-5" Q="0.45582113868610996" RANDOM="NO" SCALE="10.06" SORT_BY="STUDY" STUDIES="5" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="1291" TOTAL_2="1272" WEIGHT="200.0" Z="4.409210153008358">
+<NAME>Overall survival</NAME>
+<GROUP_LABEL_1>RT + EPO</GROUP_LABEL_1>
+<GROUP_LABEL_2>RT</GROUP_LABEL_2>
+<GRAPH_LABEL_1>RT</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>RT + EPO</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="6.785984420479382" CI_END="0.9075723763787441" CI_START="0.5833156423276888" DF="4.0" EFFECT_SIZE="0.7275995902185721" ESTIMABLE="YES" EVENTS_1="355" EVENTS_2="398" I2="41.054978140998614" ID="CMP-001.01.01" LOG_CI_END="-0.04211873113092248" LOG_CI_START="-0.2340963772721752" LOG_EFFECT_SIZE="-0.13810755420154885" MODIFIED="2009-01-27 09:48:56 +0000" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.1476396465155574" P_Z="0.004802777947120558" STUDIES="5" TAU2="0.0" TOTAL_1="705" TOTAL_2="692" WEIGHT="100.0" Z="2.819972404795345">
+<NAME>Overall survival</NAME>
+<DICH_DATA CI_END="1.0794233425916273" CI_START="0.46462142501402287" EFFECT_SIZE="0.7081830353999745" ESTIMABLE="YES" EVENTS_1="71" EVENTS_2="82" LOG_CI_END="0.033191805473797215" LOG_CI_START="-0.3329007675215196" LOG_EFFECT_SIZE="-0.14985448102386123" ORDER="21" O_E="-7.461538461538467" SE="0.215044589564912" STUDY_ID="STD-Henke-2003" TOTAL_1="180" TOTAL_2="171" VAR="21.624344885883342" WEIGHT="27.4991638179643"/>
+<DICH_DATA CI_END="1.3335820410911663" CI_START="0.40046073605632027" EFFECT_SIZE="0.7307853623102056" ESTIMABLE="YES" EVENTS_1="122" EVENTS_2="127" LOG_CI_END="0.1250197383589984" LOG_CI_START="-0.3974400587308152" LOG_EFFECT_SIZE="-0.13621016018590837" ORDER="23" O_E="-3.3299999999999983" SE="0.3068954710282621" STUDY_ID="STD-Hoskin-2004" TOTAL_1="151" TOTAL_2="149" VAR="10.617421070234114" WEIGHT="13.501921231624257"/>
+<DICH_DATA CI_END="1.7680788262413984" CI_START="0.47340296337313065" EFFECT_SIZE="0.9148845587394973" ESTIMABLE="YES" EVENTS_1="37" EVENTS_2="37" LOG_CI_END="0.2475016232554109" LOG_CI_START="-0.3247690278336991" LOG_EFFECT_SIZE="-0.03863370228914406" ORDER="20" O_E="-0.7872340425531945" SE="0.33615461323515267" STUDY_ID="STD-Machtay-2007" TOTAL_1="72" TOTAL_2="69" VAR="8.849563474099464" WEIGHT="11.253778876353389"/>
+<DICH_DATA CI_END="0.8332048924949564" CI_START="0.41613802375963893" EFFECT_SIZE="0.588836341736576" ESTIMABLE="YES" EVENTS_1="97" EVENTS_2="133" LOG_CI_END="-0.07924818858348034" LOG_CI_START="-0.3807625996251604" LOG_EFFECT_SIZE="-0.23000539410432033" MODIFIED="2009-01-27 09:48:56 +0000" MODIFIED_BY="[Empty name]" ORDER="22" O_E="-16.883495145631073" SE="0.17711105756628856" STUDY_ID="STD-Overgaard-2007" TOTAL_1="255" TOTAL_2="260" VAR="31.879290507692428" WEIGHT="40.54013366406302"/>
+<DICH_DATA CI_END="4.192588351625686" CI_START="0.8077411193075873" EFFECT_SIZE="1.8402516153879838" ESTIMABLE="YES" EVENTS_1="28" EVENTS_2="19" LOG_CI_END="0.6224822233876527" LOG_CI_START="-0.09272780812543714" LOG_EFFECT_SIZE="0.2648772076311078" ORDER="19" O_E="3.4555555555555557" SE="0.42011791285754296" STUDY_ID="STD-Rosen-2003" TOTAL_1="47" TOTAL_2="43" VAR="5.665752531557776" WEIGHT="7.205002409995031"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.6159362377944207" CI_END="0.8295748873370234" CI_START="0.5084592852269273" DF="2.0" EFFECT_SIZE="0.6494652063487248" ESTIMABLE="YES" EVENTS_1="290" EVENTS_2="342" I2="0.0" ID="CMP-001.01.02" LOG_CI_END="-0.08114440326321877" LOG_CI_START="-0.29374381739061284" LOG_EFFECT_SIZE="-0.1874441103269158" MODIFIED="2009-01-16 15:03:58 +0000" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.7349387881346745" P_Z="5.480273261533886E-4" STUDIES="3" TAU2="0.0" TOTAL_1="586" TOTAL_2="580" WEIGHT="100.00000000000001" Z="3.4561121145401015">
+<NAME>Without studies supplementing iron to intervention group only</NAME>
+<DICH_DATA CI_END="1.0794233425916273" CI_START="0.46462142501402287" EFFECT_SIZE="0.7081830353999745" ESTIMABLE="YES" EVENTS_1="71" EVENTS_2="82" LOG_CI_END="0.033191805473797215" LOG_CI_START="-0.3329007675215196" LOG_EFFECT_SIZE="-0.14985448102386123" ORDER="31" O_E="-7.461538461538467" SE="0.215044589564912" STUDY_ID="STD-Henke-2003" TOTAL_1="180" TOTAL_2="171" VAR="21.624344885883342" WEIGHT="33.724249222387954"/>
+<DICH_DATA CI_END="1.3335820410911663" CI_START="0.40046073605632027" EFFECT_SIZE="0.7307853623102056" ESTIMABLE="YES" EVENTS_1="122" EVENTS_2="127" LOG_CI_END="0.1250197383589984" LOG_CI_START="-0.3974400587308152" LOG_EFFECT_SIZE="-0.13621016018590837" ORDER="30" O_E="-3.3299999999999983" SE="0.3068954710282621" STUDY_ID="STD-Hoskin-2004" TOTAL_1="151" TOTAL_2="149" VAR="10.617421070234114" WEIGHT="16.55840008847424"/>
+<DICH_DATA CI_END="0.8332048924949564" CI_START="0.41613802375963893" EFFECT_SIZE="0.588836341736576" ESTIMABLE="YES" EVENTS_1="97" EVENTS_2="133" LOG_CI_END="-0.07924818858348034" LOG_CI_START="-0.3807625996251604" LOG_EFFECT_SIZE="-0.23000539410432033" ORDER="29" O_E="-16.883495145631073" SE="0.17711105756628856" STUDY_ID="STD-Overgaard-2007" TOTAL_1="255" TOTAL_2="260" VAR="31.879290507692428" WEIGHT="49.71735068913781"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="13.027833526731339" CI_END="0.9941387620244124" CI_START="0.8409172741616506" CI_STUDY="95" CI_TOTAL="95" DF="6.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.914324044253462" ESTIMABLE="YES" EVENTS_1="783" EVENTS_2="858" I2="53.94475998109112" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.002552992488496678" LOG_CI_START="-0.07524672613102791" LOG_EFFECT_SIZE="-0.038899859309762294" METHOD="MH" MODIFIED="2009-04-24 07:44:25 +0100" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.04259609965529332" P_Q="0.0" P_Z="0.035937733391635245" Q="0.0" RANDOM="YES" SCALE="10.06" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0067016632264304855" TOTALS="SUB" TOTAL_1="1244" TOTAL_2="1229" WEIGHT="200.0" Z="2.097631238085199">
+<NAME>Local regional tumour control</NAME>
+<GROUP_LABEL_1>RT + EPO</GROUP_LABEL_1>
+<GROUP_LABEL_2>RT</GROUP_LABEL_2>
+<GRAPH_LABEL_1>RT</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>RT + EPO</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="6.516136247586607" CI_END="1.0312630722938543" CI_START="0.8132196151180833" DF="3.0" EFFECT_SIZE="0.9157747314357938" ESTIMABLE="YES" EVENTS_1="412" EVENTS_2="450" I2="53.96044701933426" ID="CMP-001.02.01" LOG_CI_END="0.013369466711052354" LOG_CI_START="-0.08979215458539193" LOG_EFFECT_SIZE="-0.03821134393716979" MODIFIED="2009-04-24 07:42:16 +0100" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.08902845804569104" P_Z="0.14651496985060308" STUDIES="4" TAU2="0.007668173429270283" TOTAL_1="658" TOTAL_2="649" WEIGHT="99.99999999999999" Z="1.4519519367093752">
+<NAME>Local regional tumour control</NAME>
+<DICH_DATA CI_END="1.035438896637894" CI_START="0.7744595768452707" EFFECT_SIZE="0.8954918032786885" ESTIMABLE="YES" EVENTS_1="115" EVENTS_2="122" LOG_CI_END="0.015124475382083776" LOG_CI_START="-0.11100124544666135" LOG_EFFECT_SIZE="-0.0479383850322888" MODIFIED="2009-04-24 06:51:02 +0100" MODIFIED_BY="[Empty name]" ORDER="6" O_E="0.0" SE="0.07408687274719206" STUDY_ID="STD-Henke-2003" TOTAL_1="180" TOTAL_2="171" VAR="0.0054888647134586285" WEIGHT="27.9897365247746"/>
+<DICH_DATA CI_END="1.1946841474443777" CI_START="0.9089811410650634" EFFECT_SIZE="1.0420870211054032" ESTIMABLE="YES" EVENTS_1="113" EVENTS_2="107" LOG_CI_END="0.07725310097167251" LOG_CI_START="-0.04144512713704322" LOG_EFFECT_SIZE="0.017903986917314665" MODIFIED="2009-04-24 07:42:16 +0100" MODIFIED_BY="[Empty name]" ORDER="9" O_E="0.0" SE="0.06972392675676489" STUDY_ID="STD-Hoskin-2004" TOTAL_1="151" TOTAL_2="149" VAR="0.004861425962382715" WEIGHT="29.508521430891108"/>
+<DICH_DATA CI_END="1.2327659882809783" CI_START="0.7099400510595311" EFFECT_SIZE="0.935515873015873" ESTIMABLE="YES" EVENTS_1="41" EVENTS_2="42" LOG_CI_END="0.09088064379467917" LOG_CI_START="-0.14877832253903545" LOG_EFFECT_SIZE="-0.028948839372178112" MODIFIED="2009-04-24 06:51:10 +0100" MODIFIED_BY="[Empty name]" ORDER="7" O_E="0.0" SE="0.1407768631554402" STUDY_ID="STD-Machtay-2007" TOTAL_1="72" TOTAL_2="69" VAR="0.019818125199885538" WEIGHT="12.866228781705196"/>
+<DICH_DATA CI_END="0.9331727763299822" CI_START="0.7110011243600414" EFFECT_SIZE="0.8145470478694271" ESTIMABLE="YES" EVENTS_1="143" EVENTS_2="179" LOG_CI_END="-0.030037939469072707" LOG_CI_START="-0.1481297124868644" LOG_EFFECT_SIZE="-0.08908382597796856" MODIFIED="2009-04-24 07:27:38 +0100" MODIFIED_BY="[Empty name]" ORDER="8" O_E="0.0" SE="0.06936769203435499" STUDY_ID="STD-Overgaard-2007" TOTAL_1="255" TOTAL_2="260" VAR="0.004811876698173116" WEIGHT="29.63551326262909"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="6.512411119814657" CI_END="1.0552108620109746" CI_START="0.7895018938832551" DF="2.0" EFFECT_SIZE="0.9127381738504458" ESTIMABLE="YES" EVENTS_1="371" EVENTS_2="408" I2="69.28940812850709" ID="CMP-001.02.02" LOG_CI_END="0.023339253053044746" LOG_CI_START="-0.10264682385447033" LOG_EFFECT_SIZE="-0.03965378540071281" MODIFIED="2009-04-24 07:44:25 +0100" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.038534405822408524" P_Z="0.21728231245851037" STUDIES="3" TAU2="0.011381797778800242" TOTAL_1="586" TOTAL_2="580" WEIGHT="100.0" Z="1.2337869889087931">
+<NAME>Without studies supplementing iron to intervention group only</NAME>
+<DICH_DATA CI_END="1.035438896637894" CI_START="0.7744595768452707" EFFECT_SIZE="0.8954918032786885" ESTIMABLE="YES" EVENTS_1="115" EVENTS_2="122" LOG_CI_END="0.015124475382083776" LOG_CI_START="-0.11100124544666135" LOG_EFFECT_SIZE="-0.0479383850322888" MODIFIED="2009-04-24 06:51:19 +0100" MODIFIED_BY="[Empty name]" ORDER="32" O_E="0.0" SE="0.07408687274719206" STUDY_ID="STD-Henke-2003" TOTAL_1="180" TOTAL_2="171" VAR="0.0054888647134586285" WEIGHT="32.12271904845295"/>
+<DICH_DATA CI_END="1.1946841474443777" CI_START="0.9089811410650634" EFFECT_SIZE="1.0420870211054032" ESTIMABLE="YES" EVENTS_1="113" EVENTS_2="107" LOG_CI_END="0.07725310097167251" LOG_CI_START="-0.04144512713704322" LOG_EFFECT_SIZE="0.017903986917314665" MODIFIED="2009-04-24 07:44:25 +0100" MODIFIED_BY="[Empty name]" ORDER="33" O_E="0.0" SE="0.06972392675676489" STUDY_ID="STD-Hoskin-2004" TOTAL_1="151" TOTAL_2="149" VAR="0.004861425962382715" WEIGHT="33.86576871206905"/>
+<DICH_DATA CI_END="0.9331727763299822" CI_START="0.7110011243600414" EFFECT_SIZE="0.8145470478694271" ESTIMABLE="YES" EVENTS_1="143" EVENTS_2="179" LOG_CI_END="-0.030037939469072707" LOG_CI_START="-0.1481297124868644" LOG_EFFECT_SIZE="-0.08908382597796856" MODIFIED="2009-04-24 07:27:35 +0100" MODIFIED_BY="[Empty name]" ORDER="34" O_E="0.0" SE="0.06936769203435499" STUDY_ID="STD-Overgaard-2007" TOTAL_1="255" TOTAL_2="260" VAR="0.004811876698173116" WEIGHT="34.011512239477995"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="6.430476985786219" CI_END="0.7059290508410783" CI_START="0.49049581071866444" CI_STUDY="95" CI_TOTAL="95" DF="5.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.5884345690917147" ESTIMABLE="YES" EVENTS_1="422" EVENTS_2="541" I2="22.245270280075854" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-0.15123894537394686" LOG_CI_START="-0.3093646975389496" LOG_EFFECT_SIZE="-0.23030182145644826" METHOD="PETO" MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" NO="3" P_CHI2="0.2665549633175661" P_Q="0.444223686376395" P_Z="1.1352950217288051E-8" Q="0.5853483396717749" RANDOM="NO" SCALE="10.06" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="989" TOTAL_2="974" WEIGHT="200.0" Z="5.709168423845324">
+<NAME>Local regional progression free survival</NAME>
+<GROUP_LABEL_1>RT + EPO</GROUP_LABEL_1>
+<GROUP_LABEL_2>RT</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours RT</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours RT + EPO</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="5.665068021060471" CI_END="0.7988697947753238" CI_START="0.4914309050673603" DF="3.0" EFFECT_SIZE="0.626569474421962" ESTIMABLE="YES" EVENTS_1="242" EVENTS_2="299" I2="47.04388387134643" ID="CMP-001.03.01" LOG_CI_END="-0.09752399918235655" LOG_CI_START="-0.3085375351205474" LOG_EFFECT_SIZE="-0.20303076715145202" MODIFIED="2009-01-27 09:49:12 +0000" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.12909252477750688" P_Z="1.6218154316378685E-4" STUDIES="4" TAU2="0.0" TOTAL_1="554" TOTAL_2="543" WEIGHT="100.0" Z="3.7716347399338837">
+<NAME>Local regional progression free survival</NAME>
+<DICH_DATA CI_END="0.9109694807024551" CI_START="0.3760292519199089" EFFECT_SIZE="0.5852787133925272" ESTIMABLE="YES" EVENTS_1="50" EVENTS_2="68" LOG_CI_END="-0.040496172516065035" LOG_CI_START="-0.42477836929239626" LOG_EFFECT_SIZE="-0.23263727090423064" MODIFIED="2009-01-14 14:38:43 +0000" MODIFIED_BY="[Empty name]" ORDER="10" O_E="-10.512820512820511" SE="0.22572926461396975" STUDY_ID="STD-Henke-2003" TOTAL_1="180" TOTAL_2="171" VAR="19.62565981027519" WEIGHT="30.15227605291738"/>
+<DICH_DATA CI_END="1.690325962532478" CI_START="0.4515004220586308" EFFECT_SIZE="0.8736033914197421" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="33" LOG_CI_END="0.2279704620566955" LOG_CI_START="-0.3453418393756167" LOG_EFFECT_SIZE="-0.05868568865946061" MODIFIED="2009-01-15 13:55:25 +0000" MODIFIED_BY="[Empty name]" ORDER="12" O_E="-1.191489361702125" SE="0.336766483803002" STUDY_ID="STD-Machtay-2007" TOTAL_1="72" TOTAL_2="69" VAR="8.817435167819957" WEIGHT="13.546843358591836"/>
+<DICH_DATA CI_END="0.735644033640006" CI_START="0.36464201374842775" EFFECT_SIZE="0.5179254017988574" ESTIMABLE="YES" EVENTS_1="130" EVENTS_2="174" LOG_CI_END="-0.13333228297594074" LOG_CI_START="-0.4381332937504284" LOG_EFFECT_SIZE="-0.2857327883631846" MODIFIED="2009-01-27 09:49:12 +0000" MODIFIED_BY="[Empty name]" ORDER="13" O_E="-20.524271844660205" SE="0.1790416225182709" STUDY_ID="STD-Overgaard-2007" TOTAL_1="255" TOTAL_2="260" VAR="31.19550282723758" WEIGHT="47.92783641159235"/>
+<DICH_DATA CI_END="3.2214997822677587" CI_START="0.600926321692477" EFFECT_SIZE="1.3913604904880974" ESTIMABLE="YES" EVENTS_1="30" EVENTS_2="24" LOG_CI_END="0.5080581063296057" LOG_CI_START="-0.22117877266268762" LOG_EFFECT_SIZE="0.143439666833459" MODIFIED="2009-01-15 13:55:25 +0000" MODIFIED_BY="[Empty name]" ORDER="11" O_E="1.8000000000000007" SE="0.42835735250084195" STUDY_ID="STD-Rosen-2003" TOTAL_1="47" TOTAL_2="43" VAR="5.449887640449439" WEIGHT="8.373044176898418"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.18006062505397313" CI_END="0.7147805885109477" CI_START="0.41244835228991406" DF="1.0" EFFECT_SIZE="0.5429641571781285" ESTIMABLE="YES" EVENTS_1="180" EVENTS_2="242" I2="0.0" ID="CMP-001.03.02" LOG_CI_END="-0.14582725025851967" LOG_CI_START="-0.3846304270408971" LOG_EFFECT_SIZE="-0.2652288386497084" MODIFIED="2009-01-16 15:07:14 +0000" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.671321151222685" P_Z="1.3385744757007668E-5" STUDIES="2" TAU2="0.0" TOTAL_1="435" TOTAL_2="431" WEIGHT="100.0" Z="4.353702311829341">
+<NAME>Without studies supplementing iron to intervention group only</NAME>
+<DICH_DATA CI_END="0.9109694807024551" CI_START="0.3760292519199089" EFFECT_SIZE="0.5852787133925272" ESTIMABLE="YES" EVENTS_1="50" EVENTS_2="68" LOG_CI_END="-0.040496172516065035" LOG_CI_START="-0.42477836929239626" LOG_EFFECT_SIZE="-0.23263727090423064" ORDER="35" O_E="-10.512820512820511" SE="0.22572926461396975" STUDY_ID="STD-Henke-2003" TOTAL_1="180" TOTAL_2="171" VAR="19.62565981027519" WEIGHT="38.61710120694651"/>
+<DICH_DATA CI_END="0.735644033640006" CI_START="0.36464201374842775" EFFECT_SIZE="0.5179254017988574" ESTIMABLE="YES" EVENTS_1="130" EVENTS_2="174" LOG_CI_END="-0.13333228297594074" LOG_CI_START="-0.4381332937504284" LOG_EFFECT_SIZE="-0.2857327883631846" ORDER="36" O_E="-20.524271844660205" SE="0.1790416225182709" STUDY_ID="STD-Overgaard-2007" TOTAL_1="255" TOTAL_2="260" VAR="31.19550282723758" WEIGHT="61.38289879305349"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" MODIFIED="2009-04-29 13:45:23 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>RT plus EPO versus RT alone</NAME>
+<DICH_OUTCOME CHI2="1.3626604726200908" CI_END="1.3509647542745764" CI_START="0.7791530497772186" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0259670113773478" ESTIMABLE="YES" EVENTS_1="47" EVENTS_2="44" I2="26.614147831174407" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="0.13064401873059078" LOG_CI_START="-0.1083772250680998" LOG_EFFECT_SIZE="0.0111333968312455" METHOD="MH" MODIFIED="2009-01-16 10:30:50 +0000" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.24307710518297787" P_Q="0.0" P_Z="0.8551222765564872" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="223" TOTAL_2="218" WEIGHT="99.99999999999999" Z="0.1825867564576123">
+<NAME>Acute toxicity</NAME>
+<GROUP_LABEL_1>RT + EPO</GROUP_LABEL_1>
+<GROUP_LABEL_2>RT</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.2577009071197889" CI_START="0.7302235154469083" EFFECT_SIZE="0.9583333333333334" ESTIMABLE="YES" EVENTS_1="42" EVENTS_2="42" LOG_CI_END="0.0995773741527557" LOG_CI_START="-0.136544185540782" LOG_EFFECT_SIZE="-0.018483405694013126" MODIFIED="2009-01-16 10:30:42 +0000" MODIFIED_BY="[Empty name]" ORDER="15" O_E="0.0" SE="0.138698972984555" STUDY_ID="STD-Hoskin-2004" TOTAL_1="72" TOTAL_2="69" VAR="0.01923740510697032" WEIGHT="95.51665540092357"/>
+<DICH_DATA CI_END="12.51699808547905" CI_START="0.4861815498950178" EFFECT_SIZE="2.466887417218543" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="2" LOG_CI_END="1.0975001858047513" LOG_CI_START="-0.31320152622246683" LOG_EFFECT_SIZE="0.39214932979114225" MODIFIED="2009-01-16 10:30:50 +0000" MODIFIED_BY="[Empty name]" ORDER="14" O_E="0.0" SE="0.8286531687308842" STUDY_ID="STD-Machtay-2007" TOTAL_1="151" TOTAL_2="149" VAR="0.6866660740477354" WEIGHT="4.4833445990764185"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="3.928056155209625" CI_START="0.6871031077947256" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.6428571428571428" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="7" I2="0.0" I2_Q="0.0" ID="CMP-002.02" LOG_CI_END="0.5941776878021181" LOG_CI_START="-0.1629780871234085" LOG_EFFECT_SIZE="0.21559980033935483" METHOD="MH" MODIFIED="2009-01-22 12:18:03 +0000" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Q="0.0" P_Z="0.26433745036796963" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="72" TOTAL_2="69" WEIGHT="100.0" Z="1.1161979020254467">
+<NAME>Late toxicity</NAME>
+<GROUP_LABEL_1>RT + EPO</GROUP_LABEL_1>
+<GROUP_LABEL_2>RT</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.928056155209625" CI_START="0.6871031077947256" EFFECT_SIZE="1.6428571428571428" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="7" LOG_CI_END="0.5941776878021181" LOG_CI_START="-0.1629780871234085" LOG_EFFECT_SIZE="0.21559980033935483" MODIFIED="2009-01-16 10:31:21 +0000" MODIFIED_BY="[Empty name]" ORDER="16" O_E="0.0" SE="0.4447570501727869" STUDY_ID="STD-Machtay-2007" TOTAL_1="72" TOTAL_2="69" VAR="0.19780883367839885" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2009-05-08 08:34:29 +0100" MODIFIED_BY="[Empty name]">
+<FIGURE FILENAME="flowchart zoekopdracht EPO.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2009-05-08 08:34:29 +0100" MODIFIED_BY="[Empty name]" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Search flow chart</P>
+</CAPTION>
+<FILE>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
+gIkOrP8Hkn9++uI5+QkAAAAASUVORK5CYII=
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Forest plot.png" FILE_TYPE="PNG" ID="FIG-02" MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" NO="2" REF_ID="CMP-001.01" SETTINGS="SHOW_WEIGHT_COLUMN:YES;SHOW_EFFECT_SIZE_COLUMN:YES;SHOW_RAW_DATA_COLUMNS:YES;" SHORT_VERSION_FIGURE="YES" TYPE="FOREST_PLOT">
+<CAPTION>
+<P>Forest plot of comparison: EPO plus RT versus RT alone, outcome: overall survival (proportion alive at end of study period).</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAqoAAAGQCAMAAABRUrIOAAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD////AwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID/gAAAAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///80TKWtAAAiM0lEQVR42u1dy84kyVnN7q7RZ5AtY7fGePDYsMIbL9jyDsEGkHgY
+JFas8QN4gQRLNBKLeABWnhULS4gFK2M8HnvkxvYgjEPT8lBVGZlx++KWGZGXqnPU/VdWZtwy8sQX
+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
+edYYaQAAAABJRU5ErkJggg==
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Forest plot.png" FILE_TYPE="PNG" ID="FIG-03" MODIFIED="2009-05-01 12:25:14 +0100" MODIFIED_BY="Ian J Chamberlain" NO="3" REF_ID="CMP-001.02" SETTINGS="SHOW_WEIGHT_COLUMN:YES;SHOW_EFFECT_SIZE_COLUMN:YES;SHOW_RAW_DATA_COLUMNS:YES;" SHORT_VERSION_FIGURE="YES" TYPE="FOREST_PLOT">
+<CAPTION>
+<P>Forest plot of comparison: EPO plus RT versus RT alone, outcome: local regional tumour control.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAArcAAAGACAMAAACA1LrNAAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD////AwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID/gAAAAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///80TKWtAAAhU0lEQVR42u1dy+8suVX2vTQ6AYkEcWcUJWQmEntWIxY88h94ESn8
+m5FYeI8QiB27bJEIIRoY5kbDZJE54oqhu+vh17HLrnI9+/t076+7q1zHj/p86tj1lesNKQA4Hd6i
+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
+QtlkwvlShK8AAAAASUVORK5CYII=
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Forest plot.png" FILE_TYPE="PNG" ID="FIG-04" MODIFIED="2009-05-01 12:25:16 +0100" MODIFIED_BY="Ian J Chamberlain" NO="4" REF_ID="CMP-001.03" SETTINGS="SHOW_WEIGHT_COLUMN:YES;SHOW_EFFECT_SIZE_COLUMN:YES;SHOW_RAW_DATA_COLUMNS:YES;" SHORT_VERSION_FIGURE="YES" TYPE="FOREST_PLOT">
+<CAPTION>
+<P>Forest plot of comparison: EPO plus RT versus RT alone, outcome: local regional progression free survival.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAqoAAAFwCAMAAABHFqmMAAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD////AwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID/gAAAAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///80TKWtAAAgI0lEQVR42u1dTc8luVV2d9/RmRGKMqInPR+MiFDEbJgV/AS2jrII
+K/b5EYgNv4U1SCy8RGJFVsmGJQvIiMkkw3RHQwKirWkx3HvLVf46dtlVdt2qe59H3e+tW2Uffz0+
+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
+gg==
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2009-05-13 09:39:42 +0100" MODIFIED_BY="Jenny Bellorini">
+<APPENDIX ID="APP-01" MODIFIED="2009-05-13 09:39:42 +0100" MODIFIED_BY="Jenny Bellorini" NO="1">
+<TITLE MODIFIED="2009-05-07 15:59:28 +0100" MODIFIED_BY="[Empty name]">Search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2009-05-13 09:39:42 +0100" MODIFIED_BY="Jenny Bellorini">
+<TABLE COLS="3" ROWS="4">
+<TR>
+<TH>
+<P>PubMed</P>
+</TH>
+<TH>
+<P>EMBASE (Ovid)</P>
+</TH>
+<TH>
+<P>CINAHL (EBSCO)</P>
+</TH>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>#1 "Erythropoietin"[Mesh]<BR/>#2 (erythropoietin [tiab] OR erythropoetin [tiab] OR erythropoiesis [tiab] OR erythropoietic [tiab] OR hematopoietin [tiab] OR hemopoietin [tiab] OR dynepo* [tiab] OR EPO* [tiab] OR darbepoetin [tiab] OR arenesp* [tiab] OR eprex* [tiab] OR erantin [tiab] OR erypo [tiab] OR espo [tiab] OR exprex* [tiab] OR globuren* [tiab] OR hemax* [tiab] OR krn-5702 [tiab] OR marogen* [tiab] OR neorecormon* [tiab] OR procrit* [tiab] OR recormon* [tiab] OR snb-5001 [tiab] OR "tyb 5220" [tiab] OR tyb5220 [tiab] OR rhuepo [tiab] OR "R huepo" [tiab] OR rEpo [tiab] OR rhepo [tiab])<BR/>#3 #1 OR #2<BR/>#4 "Head and Neck Neoplasms"[Mesh]<BR/>#5 "Otorhinolaryngologic Neoplasms"[Mesh]<BR/>#6 (cancer* [tiab] OR carcinom* [tiab] OR neoplas* [tiab] OR tumor* [tiab] OR tumour* [tiab] OR malignan* [tiab]) AND (head [tiab] OR neck [tiab] OR oropharyn* [tiab] OR pharyn* [tiab] OR laryn* [tiab] OR throat [tiab]))<BR/>#7 neck [tiab] AND dissect* [tiab]<BR/>#8 (head [tiab] AND neck [tiab] AND (surg* [tiab] OR operat* [tiab])<BR/>#9 hnscc<BR/>#10 #4 OR #5 OR #6 OR #7 OR #8 OR #9<BR/>#11 #3 AND #10</P>
+</TD>
+<TD VALIGN="TOP">
+<P>1 Erythropoietin/<BR/>2 Recombinant Erythropoietin/<BR/>3 (erythropoietin or erythropoetin or erythropoiesis or erythropoietic or hematopoietin or hemopoietin or dynepo* or epo* or darbepoetin or arenesp* or eprex* or erantin or erypo or espo or exprex* or globuren* or hemax* or krn-5702 or marogen* or neorecormon* or procrit* or recormon* or snb-5001 or "tyb 5220" or tyb5220 or rhuepo or "R huepo" or rEpo or rhepo).tw.<BR/>4 1 or 3 or 2<BR/>5 exp "Head and Neck Tumor"/<BR/>6 ((cancer* or neoplas* or tumor* or tumour* or malignan* or carcinom*) and (head or neck or oropharyn* or pharyn* or laryn* or throat)).tw.<BR/>7 ((neck and dissect*) or hnscc).tw.<BR/>8 (head and neck and (surg* or operat*)).tw.<BR/>9 8 or 6 or 7 or 5<BR/>10 4 and 9</P>
+</TD>
+<TD VALIGN="TOP">
+<P>S1 (MH "Erythropoietin")<BR/>S2 (erythropoietin OR erythropoetin OR erythropoiesis OR erythropoietic OR epoetin OR epo* OR darbepoetin)<BR/>S3 S1 or S2<BR/>S4 (MH "Head and Neck Neoplasms+")<BR/>S5 (MH "Otorhinolaryngologic Neoplasms+")<BR/>S6 TX head OR neck OR laryn* OR throat OR pharyn* OR oropharyn*<BR/>S7 TX cancer* OR tumour* OR tumor* OR neoplas* OR malignan* OR carcinom* OR resect* OR operat*<BR/>S8 S6 and S7<BR/>s9 hnscc<BR/>s10 s4 or s5 or s8 or s9<BR/>s11 s3 and s10</P>
+</TD>
+</TR>
+<TR>
+<TH>
+<P>Web of Science</P>
+</TH>
+<TH>
+<P>BIOSIS Previews/ CAB Abstracts (Ovid)</P>
+</TH>
+<TH>
+<P>mRCT</P>
+</TH>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>#1 TS=(erythropoietin or erythropoetin or erythropoiesis or erythropoietic or hematopoietin or hemopoietin or dynepo* or epo* or darbepoetin or arenesp* or eprex* or erantin or erypo or espo or exprex* or globuren* or hemax* or krn-5702 or marogen* or neorecormon* or procrit* or recormon* or snb-5001 or "tyb 5220" or tyb5220 or rhuepo or "R huepo" or rEpo or rhepo)<BR/>#2 TS=((cancer* or neoplas* or tumor* or tumour* or malignan* or carcinom*) and (head or neck or oropharyn* or pharyn* or laryn* or throat))<BR/>#3 TS=((neck and dissect*) or hnscc)<BR/>#4 TS=(head and neck and (surg* or operat*))<BR/>#5 #4 OR #3 OR #2<BR/>#6 #5 AND #1</P>
+<P>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+</P>
+</TD>
+<TD VALIGN="TOP">
+<P>1 Erythropoietin/<BR/>2 erythropoietin or erythropoetin or erythropoiesis or erythropoietic or hematopoietin or hemopoietin or dynepo* or epo* or darbepoetin or arenesp* or eprex* or erantin or erypo or espo or exprex* or globuren* or hemax* or krn-5702 or marogen* or neorecormon* or procrit* or recormon* or snb-5001 or "tyb 5220" or tyb5220 or rhuepo or "R huepo" or rEpo or rhepo).tw.<BR/>3 ((cancer* or neoplas* or tumor* or tumour* or malignan* or carcinom*) and (head or neck or oropharyn* or pharyn* or laryn* or throat)).tw.<BR/>4 ((neck and dissect*) or hnscc).tw.<BR/>5 (head and neck and (surg* or operat*)).tw.<BR/>6 ((1 OR 2) and (3 OR 4 OR 5)</P>
+</TD>
+<TD VALIGN="TOP">
+<P>(erythropoietin OR erythropoetin OR erythropoiesis OR erythropoietic OR epo% OR darbepoetin) AND head AND neck<BR/>
+<BR/>(erythropoietin OR erythropoetin OR erythropoiesis OR erythropoietic OR epo% OR darbepoetin) AND (throat OR laryn% OR pharyn% OR oropharyn%) AND (cancer% OR carcinom% OR neoplas% OR malignan% OR tumour% OR tumor%)<BR/>
+</P>
+</TD>
+</TR>
+</TABLE>
+<P/>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

@@ -1,0 +1,2398 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002999" GROUP_ID="AIRWAYS" ID="851500090414115344" MERGED_FROM="" MODIFIED="2016-10-10 14:18:41 +0100" MODIFIED_BY="Jessica Thomas" NOTES="&lt;p&gt;Exported from Review Manager 4.2.1&lt;br&gt;11/10/2002 Technical Editing by CJC&lt;/p&gt;&lt;p&gt;Authors and contributions: contributions are currently all in the future tense. Please change this to past tense!&lt;/p&gt;&lt;p&gt;References: fine (I notice the brackets are put in to the references so they do not need to be added in the text!)&lt;/p&gt;&lt;p&gt;Table of included studies: very thorough&lt;/p&gt;&lt;p&gt;Metaview Labels: none. It seems to me that data from these studies could be entered into Metaview to check the Risk Differences and Relative Risks even if it is decided not to pool results.  How were the confidence intervals and point estimates calculated for each study (are they taken from the individual papers?). If a decision was taken not to put the data into Metaview why was this made?&lt;/p&gt;&lt;p&gt;SYNOPSIS:&lt;/p&gt;&lt;p&gt;ABSTRACT&lt;/p&gt;&lt;p&gt;METHODS&lt;/p&gt;&lt;p&gt;RESULTS&lt;/p&gt;&lt;p&gt;DISCUSSION&lt;/p&gt;&lt;p&gt;I am not able to check any of the stats as only the results have been presented in the tables.  I would like to see the dichotomous data from each study entered into Metaview (even if none of it is pooled) as this is a safety check on the calculated results!  I am also very interested in the differences in Lung function as well as smoking cessation rates and it appears that no data has been entered on this topic.&lt;/p&gt;&lt;p&gt;&lt;br&gt;22/10/2002&lt;br&gt;Authors and Contributions are now fine now.&lt;/p&gt;&lt;p&gt;Metaview labels:  I have switched off the totals as all the outcomes are for single studies, and reversed the graph labels in Metaview as well as changing the scales to show the results more clearly.&lt;/p&gt;&lt;p&gt;THE RESULTS IN THE TEXT DO NOT QUITE MATCH THE METAVIEW RESULTS SO I GUESS YOU USED ANOTHER PACKAGE?  I HAVE TAKEN OUT THE DASH IN THE CONFIDENCE INTERVALS AS THIS IS VERY CONFUSING (LOOKS AS IF THE SECOND RESULT IS NEGATIVE) AND REPLACED IT WITH &amp;quot;TO&amp;quot;.  ALSO RD HAS BEEN CHANGED TO 0.2 RATHER THAN 20% TO MATCH METAVIEW AND THE CONFIDENCE INTERVALS.&lt;/p&gt;&lt;p&gt;I remain a bit confused about the Antonisen results as there are 4 outcomes stated and I cannot tell which intervention each one refers to. Also how do the 5 year cessation rates come out higher than the one year results (bit unusual it seems to me)?&lt;/p&gt;&lt;p&gt;I see that lung function is now mentioned in the results and discussion section, thankyou.&lt;/p&gt;&lt;p&gt;Could you add a note to the text explaining where the results in the tables came from (which stats package)?&lt;/p&gt;&lt;p&gt;&lt;br&gt;PLEASE USE THE VERSION OF THE REVIEW SENT BACK AS THE NOTES SECTION WAS EMPTY WHEN THIS CAME BACK TO ME (CJC)&lt;/p&gt;" NOTES_MODIFIED="2016-10-10 14:17:42 +0100" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="#SMO-COP" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2016-10-10 14:18:40 +0100" MODIFIED_BY="Jessica Thomas">
+<TITLE>Smoking cessation for chronic obstructive pulmonary disease</TITLE>
+<CONTACT MODIFIED="2016-10-10 14:18:40 +0100" MODIFIED_BY="Jessica Thomas"><PERSON ID="12516" ROLE="AUTHOR"><FIRST_NAME>Regina</FIRST_NAME><MIDDLE_INITIALS>M</MIDDLE_INITIALS><LAST_NAME>van der Meer</LAST_NAME><POSITION>Researcher</POSITION><EMAIL_1>regina.vandermeer@ggdhaaglanden.nl</EMAIL_1><EMAIL_2>r.m.vandermeer@amc.uva.nl</EMAIL_2><URL>www.stivoro.nl</URL><ADDRESS><DEPARTMENT>Epidemiology</DEPARTMENT><ORGANISATION>Public Health Service of Haaglanden</ORGANISATION><CITY>The Hague</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>0031.(0)6.13457043</PHONE_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2016-10-10 14:18:40 +0100" MODIFIED_BY="Jessica Thomas"><PERSON ID="12516" ROLE="AUTHOR"><FIRST_NAME>Regina</FIRST_NAME><MIDDLE_INITIALS>M</MIDDLE_INITIALS><LAST_NAME>van der Meer</LAST_NAME><POSITION>Researcher</POSITION><EMAIL_1>regina.vandermeer@ggdhaaglanden.nl</EMAIL_1><EMAIL_2>r.m.vandermeer@amc.uva.nl</EMAIL_2><URL>www.stivoro.nl</URL><ADDRESS><DEPARTMENT>Epidemiology</DEPARTMENT><ORGANISATION>Public Health Service of Haaglanden</ORGANISATION><CITY>The Hague</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>0031.(0)6.13457043</PHONE_1></ADDRESS></PERSON><PERSON ID="E18128DA82E26AA201DAB7D8063E41D4" ROLE="AUTHOR"><FIRST_NAME>Edwin</FIRST_NAME><LAST_NAME>Wagena</LAST_NAME><EMAIL_1>E.J.Wagena@medspace.com</EMAIL_1><ADDRESS><ORGANISATION>Pulmonary Rehabilitation Centre Hornerheide</ORGANISATION><ADDRESS_1>Hornerheide 1</ADDRESS_1><ADDRESS_2>P.O. Box 4080</ADDRESS_2><CITY>AB Haelen</CITY><ZIP>6080</ZIP><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>+31475587469</PHONE_1><FAX_1>+31475587592</FAX_1></ADDRESS></PERSON><PERSON ID="12468" ROLE="AUTHOR"><FIRST_NAME>Raymond</FIRST_NAME><MIDDLE_INITIALS>WJG</MIDDLE_INITIALS><LAST_NAME>Ostelo</LAST_NAME><SUFFIX>PhD</SUFFIX><POSITION>Professor of Evidence Based Physiotherapy</POSITION><EMAIL_1>r.ostelo@vu.nl</EMAIL_1><ADDRESS><DEPARTMENT>Department of Health Sciences, EMGO+ Institute for Health and Care Research</DEPARTMENT><ORGANISATION>VU University Amsterdam</ORGANISATION><ADDRESS_1>PO Box 7057</ADDRESS_1><CITY>Amsterdam</CITY><ZIP>1007 MB</ZIP><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>+31 20 444 8149</PHONE_1><FAX_1>+31 20 444 8181</FAX_1></ADDRESS></PERSON><PERSON ID="12435" ROLE="AUTHOR"><FIRST_NAME>Annelies</FIRST_NAME><MIDDLE_INITIALS>JE</MIDDLE_INITIALS><LAST_NAME>Jacobs</LAST_NAME><POSITION>Researcher</POSITION><EMAIL_1>J.Jacobs@iq.umcn.nl</EMAIL_1><ADDRESS><DEPARTMENT>Centre for Quality of Care Research</DEPARTMENT><ORGANISATION>University of Nijmegen and Maastricht</ORGANISATION><ADDRESS_2>P.O. Box 9101</ADDRESS_2><CITY>Nijmegen</CITY><ZIP>6500 HB</ZIP><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>0031.24.3615310</PHONE_1><FAX_1>0031.24.3540166</FAX_1></ADDRESS></PERSON><PERSON ID="19981" ROLE="AUTHOR"><FIRST_NAME>Onno</FIRST_NAME><MIDDLE_INITIALS>CP</MIDDLE_INITIALS><LAST_NAME>van Schayck</LAST_NAME><POSITION>Professor</POSITION><EMAIL_1>onno.vanschayck@maastrichtuniversity.nl</EMAIL_1><ADDRESS><DEPARTMENT>Department of Family Medicine</DEPARTMENT><ORGANISATION>CAPHRI School for Public Health and Primary Care, Maastricht University Medical Centre</ORGANISATION><CITY>Maastricht</CITY><COUNTRY CODE="NL">Netherlands</COUNTRY><PHONE_1>+31 43 388 23 14</PHONE_1><PHONE_2>+31 43 361 93 44</PHONE_2></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-08-29 12:56:27 +0100" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;New studies sought but none found: 10/1/03&lt;/p&gt;" NOTES_MODIFIED="2008-08-29 12:56:27 +0100" NOTES_MODIFIED_BY="Toby Lasserson">
+<UP_TO_DATE>
+<DATE DAY="1" MONTH="10" YEAR="2003"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="1" MONTH="10" YEAR="2003"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="15" MONTH="5" YEAR="2003"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2001"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2003"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2003"/>
+</DATES>
+<WHATS_NEW MODIFIED="2016-10-10 14:17:42 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2016-10-10 14:17:42 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="10" MONTH="10" YEAR="2016"/>
+<DESCRIPTION>
+<P>This review has now been superseded by another review of the same name: http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD010744.pub2/abstract</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2016-10-10 14:17:02 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2016-10-10 14:17:02 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="12" MONTH="11" YEAR="2012"/>
+<DESCRIPTION>
+<P>This review is no longer being updated because the methods are out of date and the author team has changed. A new protocol and review of the same title will be written.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-11-12 16:40:49 +0000" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="29" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="4" MONTH="9" YEAR="2000"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Research Institute ExTra</NAME>
+<COUNTRY CODE="NL">Netherlands</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Dutch Astma Foundation and Zorgonderzoek Nederland (ZON)</NAME>
+<COUNTRY CODE="NL">Netherlands</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Garfield Weston Foundation</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-08-29 13:03:23 +0100" MODIFIED_BY="Toby J  Lasserson">
+<SUMMARY MODIFIED="2008-08-29 13:03:09 +0100" MODIFIED_BY="Toby J  Lasserson">
+<TITLE MODIFIED="2008-08-29 13:03:09 +0100" MODIFIED_BY="Toby J  Lasserson">Psychosocial interventions to help people with chronic bronchitis and emphysema to quit smoking.</TITLE>
+<SUMMARY_BODY>
+<P>Smoking cessation is the most important treatment for smokers with chronic bronchitis and emphysema. Smoking cessation interventions can be divided into psychosocial interventions (e.g. counselling, self-help materials, and behavioral therapy) and pharmacotherapy (e.g. nicotine replacement therapy, bupropion). Although a lot of research has been done on the effectiveness of interventions for "healthy" smokers, the effectiveness of smoking cessation interventions for smokers with chronic bronchitis and emphysema has so far gained far less attention. However, there is some evidence that combining psychosocial intervention with pharmacotherapy could be effective for this group of smokers trying to quit smoking. More research is needed to determine what kinds of interventions are most effective for which kind of patient.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Smoking cessation is the most important treatment for smokers with chronic obstructive pulmonary disease (COPD), but little is known about the effectiveness of different smoking cessation interventions for this particular group of patients. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine the effectiveness of smoking cessation interventions in people with COPD.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>Electronic searches were undertaken on MEDLINE (from 1966 to March 2002), EMBASE (from 1989 to March 2002) and Psyclit (from 1971 to March 2002), and CENTRAL (Issue 1, 2002). Searches were current as of October 2003. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised controlled trials in which smoking cessation was assessed in participants with confirmed COPD.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two authors extracted the data and performed the methodological quality assessment independently for each study, with disagreements resolved by consensus. High-quality was defined, based on pre-set criteria according to the DelphiList.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Five studies were included in this systematic review, two of which were of high-quality. The high-quality studies show the effectiveness of psychosocial interventions combined with pharmacological intervention compared to no treatment: psychosocial interventions combined with nicotine replacement therapy (NRT) and a bronchodilator versus no treatment at a 5 year follow-up (RD = 0.16, 95% CI 0.14 to 0.18), (RR = 4.0, 95% CI 3.25 to 4.93), psychosocial interventions combined with NRT and placebo versus no treatment at a 5 year follow-up (RD = 0.17, 95% CI 0.14 to 0.19), (RR = 4.19, 95% CI 3.41 to 5.15). Furthermore the results show the effectiveness of various combinations of psychosocial and pharmacological interventions at a 6 months follow-up (RD = 0.07, 95% CI 0.0 to 0.13), (RR = 1.74, 95% CI 1.01 to 3.0). Unfortunately, none of the included studies compared psychosocial interventions with no treatment. Therefore we found no evidence with regard to the effectiveness of these interventions. An update search in October 2003 did not identify any new studies for inclusion in the review. </P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Based on this systematic review, the authors found evidence that a combination of psychosocial interventions and pharmacological interventions is superior to no treatment or to psychosocial interventions alone. Furthermore we conclude that there is no clear or convincing evidence for the effectiveness of any psychosocial intervention for patients with COPD due to lack of a sufficient number of high-quality studies. </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-08-29 13:03:23 +0100" MODIFIED_BY="Toby J  Lasserson">
+<BACKGROUND>
+<P>Chronic obstructive pulmonary disease (COPD) is a disease state characterised by airflow limitation that is not fully reversible (<LINK REF="REF-Pauwels-2001a" TYPE="REFERENCE">Pauwels 2001a</LINK>). The airflow limitation is usually both progressive and associated with an abnormal inflammatory response of the lungs to noxious particles or gases (<LINK REF="REF-Pauwels-2001a" TYPE="REFERENCE">Pauwels 2001a</LINK>). The diagnosis can be confirmed by spirometry.</P>
+<P>Prevalence and morbidity data greatly underestimate the total burden of COPD because the disease is usually not diagnosed until it is clinically apparent and moderately advanced (<LINK REF="REF-Pauwels-2001a" TYPE="REFERENCE">Pauwels 2001a</LINK>). Precise figures on prevalence are therefore surprisingly scanty, but it was estimated that in 1995 16.4 million people in the United States had COPD (<LINK REF="REF-ALA-1999" TYPE="REFERENCE">ALA 1999</LINK>). The estimated prevalence increased from 33.9 per 1000 patients in 1982 to 55.5 per 1000 patients in 1995 (<LINK REF="REF-ALA-1999" TYPE="REFERENCE">ALA 1999</LINK>). COPD is now the fourth leading cause of death in the United States, and it is the only common cause of death that is increasing in incidence (<LINK REF="REF-Barnes-2000" TYPE="REFERENCE">Barnes 2000</LINK>). There has been an increase in the prevalence of and mortality from COPD, even in industrialized countries (<LINK REF="REF-ATS-1995" TYPE="REFERENCE">ATS 1995</LINK>). The World Health Organization (WHO) predicts that by 2020 COPD will have risen from its current ranking as the 12th most prevalent disease worldwide to the 5th, and from the 6th most common cause of death to the 3rd (<LINK REF="REF-Lopez-1998" TYPE="REFERENCE">Lopez 1998</LINK>). </P>
+<P>Cigarette smoking is by far the most important risk factor for COPD and the most significant way in which tobacco use contributes to the risk of COPD (<LINK REF="REF-Pauwels-2001a" TYPE="REFERENCE">Pauwels 2001a</LINK>; <LINK REF="REF-Pauwels-2001b" TYPE="REFERENCE">Pauwels 2001b</LINK>; <LINK REF="REF-Doll-1994" TYPE="REFERENCE">Doll 1994</LINK>). The forced expiratory volume in 1 second (FEV1) declines with normal aging (in non-smokers) at about 30 ml/year and this increases to an average of 45 ml/year in smokers (<LINK REF="REF-Fletcher-1976" TYPE="REFERENCE">Fletcher 1976</LINK>). Also, an increasing exposure to tobacco smoke will lead to a higher risk of developing COPD (<LINK REF="REF-Burrows-1979" TYPE="REFERENCE">Burrows 1979</LINK>). The only other risk factor of comparable importance for the individual is homozygous alpha-antitrypsin (AAT) deficiency, but that heritable condition accounts for less than 1% of COPD cases (<LINK REF="REF-ATS-1995" TYPE="REFERENCE">ATS 1995</LINK>). Smokers have higher death rates as a result of chronic bronchitis and emphysema (<LINK REF="REF-ATS-1995" TYPE="REFERENCE">ATS 1995</LINK>). Furthermore, they have a higher prevalence of respiratory symptoms and lung function abnormalities, a greater COPD mortality rate than non-smokers, and a greater annual rate of decline in FEV1. These differences between cigarette smokers and non-smokers increase in direct proportion to the quantity of smoking (<LINK REF="REF-Pauwels-2001a" TYPE="REFERENCE">Pauwels 2001a</LINK>; <LINK REF="REF-Pauwels-2001b" TYPE="REFERENCE">Pauwels 2001b</LINK>; <LINK REF="REF-ATS-1995" TYPE="REFERENCE">ATS 1995</LINK>). </P>
+<P>Smoking cessation is the single most effective and cost-effective way to reduce the risk of developing COPD. Furthermore, smoking cessation is the single most important way of affecting outcome in patients at all stages of COPD (<LINK REF="REF-Pauwels-2001a" TYPE="REFERENCE">Pauwels 2001a</LINK>; <LINK REF="REF-Doll-1994" TYPE="REFERENCE">Doll 1994</LINK>; <LINK REF="REF-Traver-1979" TYPE="REFERENCE">Traver 1979</LINK>; <LINK REF="REF-Fletcher-1976" TYPE="REFERENCE">Fletcher 1976</LINK>). Smoking cessation is the only evidence-based treatment (as confirmed in the Lung Health Study (<LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>)), which has been proven to slow down the development of the disease by preventing further deterioration of the lung function. Following smoking cessation, the annual decline in FEV1 is usually reduced, sometimes to the level of non-smokers. Smoking cessation interventions can be divided into psychosocial interventions and pharmacological interventions. Although smoking cessation is seen as the most important preventive measure in patients with COPD, little is known about the effectiveness of different smoking cessation interventions directed at such patients. </P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>The overall objectives of this review are to evaluate the effectiveness of any psychosocial or pharmacological smoking cessation intervention or combinations of both for patients with COPD. We also want to determine what kind of psychosocial interventions are most effective. The last objective is to determine which pharmacological intervention is most effective.</P>
+<P>Comparisons investigated:<BR/>1. Psychosocial intervention versus no intervention;<BR/>2. Comparison among various psychosocial interventions;<BR/>3. Psychosocial and pharmacological interventions versus no intervention;<BR/>4. Comparison among the various combinations of psychosocial and pharmacological interventions.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-08-29 13:03:23 +0100" MODIFIED_BY="Toby J  Lasserson">
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Randomised controlled trials with a minimum follow-up of six months and an inclusion criterion of clinical diagnosis of COPD, according to the ATS, BTS or GOLD criteria or confirmed by the treating physician. We chose a minimum follow-up of six months because this, together with the 12 months follow-up, is the "gold standard" for studies. </P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Participants with a diagnosis of COPD, according to the ATS, BTS or GOLD criteria or confirmed by the treating physician, who were smokers at the time of investigation, were included.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Randomised controlled trials, in which the effectiveness of any psychosocial or pharmacological intervention or combinations of both was assessed as an aid to smoking cessation in patients with COPD, were included. </P>
+<P>Psychosocial interventions refer to intervention strategies that are designed to increase tobacco abstinence rates due to psychological or social support mechanisms. These interventions comprise such treatment strategies as counselling, self-help materials, and behavioural treatment (<LINK REF="REF-US-DHHS-2000" TYPE="REFERENCE">US DHHS 2000</LINK>). Pharmacological interventions comprise nicotine replacement therapy (NRT) or non-nicotine pharmacotherapy. Currently, the following NRT delivery systems are available: nicotine chewing gum, nicotine inhaler, nicotine microtab, nicotine patch, and nicotine nasal spray. Bupropion and nortriptyline are the most used non-nicotine pharmacotherapy. Pharmacological intervention is often combined with a psychosocial intervention.</P>
+<P>Psychosocial interventions were evaluated by the following characteristics: formats of psychosocial intervention, types of counselling and behavioural therapy as part of the psychosocial intervention, and intensity of person-to-person clinical contact.<BR/>The format of psychosocial intervention was categorized into (1) no contact, (2) self-help / self-administered (e.g., pamphlet, audiotape, videotape, mailed information, computer program), (3) individual counselling/contact, (4) group counselling/contact, (5) proactive telephone counselling/contact, and (6) number of types of formats (<LINK REF="REF-US-DHHS-2000" TYPE="REFERENCE">US DHHS 2000</LINK>).<BR/>The type of counselling and behavioural therapy was categorized into (1) no person-to-person intervention or minimal counselling, (2) general: problem solving / coping skills / relapse prevention / stress management approach, (3) negative effect / depression intervention, (4) extra-treatment social support intervention, (5) intra-treatment social support intervention, (6) contingency contracting / instrumental contingencies, (7) rapid smoking, (8) other aversive smoking techniques, (9) cigarette fading / smoking reduction pre-quit, and (10) acupuncture (<LINK REF="REF-US-DHHS-2000" TYPE="REFERENCE">US DHHS 2000</LINK>).<BR/>The intensity of person-to-person clinical contact was categorized into (1) no person-to-person intervention, (2) minimal counselling (longest session &lt; 3 minutes in duration), (3) low intensity counselling (longest session &gt; 3 minutes and &lt; 10 minutes in duration), (4) higher intensity counselling (longest session &gt; 10 minutes), (5) total amount of contact time (the number of sessions multiplied by the session length), (6) number of person-to-person treatment sessions (<LINK REF="REF-US-DHHS-2000" TYPE="REFERENCE">US DHHS 2000</LINK>).</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>Randomised controlled trials that were considered were included if they used at least one of the following outcome measures:<BR/>1. Continuous abstinence measured at least 6 months after the start of the intervention. An outcome of continuous abstinence is the percentage of former smokers who have not smoked at all since time of intervention (<LINK REF="REF-Velicer-1992" TYPE="REFERENCE">Velicer 1992</LINK>). <BR/>2. Point prevalence of smoking cessation, measured at least 6 months after the start of the intervention. Point prevalence is the percentage of former smokers who were not smoking at a particular point in time (<LINK REF="REF-Velicer-1992" TYPE="REFERENCE">Velicer 1992</LINK>). When it was not clear whether the given quit rate was point prevalence or continuous abstinence we defined the quit rate as point prevalence. Both validated abstinence based on biochemical markers and abstinence based on self-report via telephone and postal questionnaires were included. Continuous abstinence was used as the primary outcome measure. Point prevalence abstinence rates were considered as secondary outcome measures. In studies that used biochemically validated cessation rates, only those subjects meeting the criteria for biochemically confirmed abstinence were regarded as having stopped smoking. <BR/>3. Lung function measured by forced expiratory volume in 1 second (FEV1).</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-08-29 12:57:42 +0100" MODIFIED_BY="Toby J  Lasserson">
+<P>All relevant trials meeting our inclusion criteria were identified by:</P>
+<OL>
+<LI>A computer aided search of MEDLINE (from 1966 to March 2002), EMBASE (from 1989 to March 2002) and Psyclit (from 1971 to March 2002) databases using the search strategy recommended by the Airways Group;</LI>
+<LI>Screening references given in relevant reviews and identified randomised controlled trials (i.e. reference tracking);</LI>
+<LI>Screening of the Cochrane controlled trials register, Issue 1, 2002;</LI>
+</OL>
+<P>Unpublished studies or abstracts were included if sufficient detail was available. Authors were contacted for further data if necessary.</P>
+<P>The following Medical Subject Headings, MeSH subheadings and free text words were used in the literature search:<BR/>copd*, lung-diseases-obstructive*, emphysem*, bronchit*, tobacco, nicotine, smoking, smoking-cessation, tobacco-use-disorder, tobacco-smokeless, anti-smoking, quit*, stop*, cessat*, ceas*, abstin*, abstain*, control*, smok*, giv*, tobacco*.</P>
+<P>The terms were connected and the results were limited to studies reporting only on human subjects and randomised controlled trials. We had no limitations on language.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-08-29 13:03:23 +0100" MODIFIED_BY="Toby J  Lasserson">
+<SUBSECTION>
+<HEADING LEVEL="5">STUDY SELECTION</HEADING>
+<P>Two reviewers (RVDM and EJW) independently selected the studies to be included in the systematic review, by applying selection criteria to the studies that were retrieved by the literature search. Consensus was used to resolve disagreements concerning selection and inclusion of studies and a third reviewer (RO) was consulted if disagreements persisted.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">METHODOLOGICAL QUALITY ASSESSMENT</HEADING>
+<P>To assess the methodological quality of selected studies, the Delphi List (<LINK REF="REF-Verhagen-1998" TYPE="REFERENCE">Verhagen 1998</LINK>) was used (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>), consisting of internal validity, descriptive and statistical criteria. Two reviewers (RVDM and EJW) independently assessed the methodological quality of included studies. The items of the Delphi-list were scored as "yes", "no" or "unclear". A total score was computed by counting the numbers of "yes" scores on the items, and high quality was defined as fulfilling five (56%) or more of the validity items.</P>
+<P>We decided not to blind studies for authors, the institution or the journal because the reviewers who performed the quality assessment were familiar with the literature. A consensus method was used to resolve disagreements and a third reviewer (RO) was consulted if disagreements persisted. If the article did not contain enough information regarding the methodological criteria (i.e., if one or more criteria were scored "unclear"), the reviewers contacted the authors for additional information.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">DATA EXTRACTION</HEADING>
+<P>Two reviewers (RVDM and EJW) independently extracted data from the studies using a standardized form. A consensus method was used to resolve disagreements and a third reviewer (RO) was consulted if disagreements persisted. The data-extraction form was pre-tested using two RCTs on smoking cessation but not in patients with COPD.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">DATA ANALYSIS</HEADING>
+<P>Studies were heterogeneous with regard to the following areas: 1. Study population (early signs of COPD versus patients with COPD stage II FVE1/FVC &lt; 70% and FEV1 35 - 49%) 2. Format of treatment (individual counselling versus telephone counselling combined with individual counselling and bupropion). 3. Reference treatments (no treatment versus individual counselling combined with self help material). 4. Motivation to quit (different stages of motivation versus motivated). 5. Quality criteria (low quality versus high quality). 6. Outcomes (point prevalence at six months versus continuous abstinence at 12 months). 7. Outcome measurement (no biochemical validation versus biochemical validation). Therefore no meta-analysis was performed. Risk differences, relative risks, and 95% CI were calculated for every study.</P>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-08-29 12:58:58 +0100" MODIFIED_BY="Toby J  Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-08-29 12:58:20 +0100" MODIFIED_BY="Toby J  Lasserson">
+<P>Three hundred and eighteen publications were identified in MEDLINE, EMBASE and Psyclit. The first selection was based on titles, keywords, and abstracts, and resulted in both reviewers including 12 studies. Another 17 studies were included through reference tracking. The final selection was based on the full papers (29 studies) and resulted in exclusion of 24 studies and inclusion of five studies (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>; <LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>; <LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>; <LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>; <LINK REF="STD-Pederson-1991" TYPE="STUDY">Pederson 1991</LINK>). The table characteristics of excluded studies summarizes the excluded studies and the reason for exclusion. The table characteristics of included studies summarizes the characteristics of the included studies. Two of these studies were reported in two publications (<LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>; Kallan 1997) and 11 publications (<LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>; Anthonisen 1997; Buist 1993 &amp; 1997; Connett 1993a &amp; 1993b; Kanner 1996 &amp; 1999; Murray 1998 &amp; 2000; O'Hara 1998).</P>
+<P>An update search in October 2003 did not identify any studies for inclusion in the review.</P>
+<P>This review includes five studies, the characteristics of which are summarized in table: characteristics of included studies. Two studies compared different psychosocial interventions (<LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>; <LINK REF="STD-Pederson-1991" TYPE="STUDY">Pederson 1991</LINK>). One study compared psychosocial and pharmacological intervention with no intervention (<LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>). Two studies compared various combinations of psychosocial and pharmacological interventions (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>; <LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>).</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>
+<LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK> shows the final results of the quality assessment. After consensus, six (13%) of the 45 quality assessments (five studies, nine criteria) were scored "unclear". Three authors responded to a request and provided additional information on their studies. As a result, three "unclear" scores were changed into negative. </P>
+<P>According to the Delphi-list only two studies (40%) had five or more "yes" scores, which was our preset threshold for high quality (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>; <LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>). The items regarding eligibility criteria (item 3) and point estimates and measures of variability (item 7) were met by 100% of the studies. The item regarding the most important prognostic indicators (item 2) were met by 80% of the studies (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>; <LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>; <LINK REF="STD-Pederson-1991" TYPE="STUDY">Pederson 1991</LINK>; <LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>). The item regarding method of randomisation (item 1a) were met by 60% of the studies (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>; <LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>; <LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>). The patient, the care provider, and the outcome assessor were blinded in only one study (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>). </P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-08-29 12:58:58 +0100" MODIFIED_BY="Toby J  Lasserson">
+<P>
+<LINK REF="TBL-03" TYPE="TABLE">Table 3</LINK> summarizes the Risk Differences and the abstinence rates as described in the studies. <LINK REF="TBL-04" TYPE="TABLE">Table 4</LINK> summarizes the Relative Risks and the abstinence rates as described in the studies. We also performed intention-to-treat analysis for the studies, but the results hardly changed.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">1. Psychosocial intervention versus no intervention.</HEADING>
+<P>No studies were found for the comparison of psychosocial intervention with no intervention.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2. Comparison among different psychosocial interventions</HEADING>
+<P>Two studies were identified that compared different psychosocial interventions (<LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>; <LINK REF="STD-Pederson-1991" TYPE="STUDY">Pederson 1991</LINK>). One of these studies compared individual counselling in combination with self-help in the experimental group with individual counselling in combination with self-help in the control group (<LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>). The difference between the two treatment arms was that in the experimental group the lung disease was designated 'smokers lung' in information material and when the medical staff talked to the patients about their illness whereas in the control group the lung disease was called chronic bronchitis or emphysema. Intensity of person-to-person clinical contact, total amount of contact time, number of sessions, and type of counselling and behavioural therapy were not described. The point prevalence at month 12 was 40% (n=8) in the experimental group, versus 20% (n=5) in the control group. The risk difference (RD) was 0.2 (95% CI -0.07 to 0.47) and the relative risk (RR) was 2.0 (95% CI 0.77 to 5.17) The other study (<LINK REF="STD-Pederson-1991" TYPE="STUDY">Pederson 1991</LINK>) compared individual counselling (higher intensity, average amount of time about 100 minutes, 3 - 8 sessions, and type not clear) and the use of a self-help cessation manual in the experimental group, with individual counselling (Intensity of person-to-person clinical contact, total amount of contact time, and type of counselling and behavioural therapy were not stated, 1 session) in the control group. The continuous abstinence at six months after admission was 33% (n=10) in the experimental group, versus 21% (n=6) in the control group (RD = 0.12, 95% CI -0.11 to 0.35), (RR = 1.56, 95% CI 0.65 to 3.72).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">3. Psychosocial and pharmacological interventions versus no intervention.</HEADING>
+<P>One study compared two experimental interventions (experimental group 1 and experimental group 2) with the control group (group 3) (<LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>). The participants in the experimental group 1 received individual counselling in combination with group counselling, pharmacotherapy (NRT) and a bronchodilator. The participants in the experimental group 2 also received individual counselling in combination with group counselling, pharmacotherapy (NRT) but a placebo instead of a bronchodilator. Receiving a bronchodilator or a placebo was the only difference between experimental group 1 and 2. The participants in the control group (group 3) received no intervention.</P>
+<P>The intensity of person-to-person clinical contact and total amount of contact time were not stated in both experimental groups. The individual counselling comprised one session and the group counselling comprised 12 sessions over 10 weeks. There was also a maintenance programme.</P>
+<P>The sustained abstinence at 1 year (intention-to-treat) was 34.7% (n=680) in the experimental group 1, versus 9.0% (n=177) in the control group (group 3) (RD = 0.26, 95% CI 0.23 to 0.28), (RR = 3.85, 95% CI 3.30 to 4.48). The sustained abstinence at 1 year (intention-to-treat) was 34.4% (n=674) in the experimental group 2, versus 9.0% (n=177) in the control group (group 3) (RD = 0.25, 95% CI 0.23 to 0.28), (RR = 3.81, 95% CI 3.27 to 4.44).</P>
+<P>The sustained abstinence at 5 years (intention-to-treat) was 21% (n=408) in the experimental group 1, versus 5% (n=102) in the control group (group 3) (RD = 0.16, 95% CI 0.14 to 0.18), (RR = 4.0, 95% CI 3.25 to 4.93).<BR/>The sustained abstinence at 5 years (intention-to-treat) was 21.8% (n=427) in the experimental group 2, versus 5.2% (n=102) in the control group (group 3) (RD = 0.17, 95% CI 0.14 to 0.19), (RR = 4.19, 95% CI 3.41 to 5.15).</P>
+<P>The estimated mean changes in post bronchodilator FEV1 during the first year of follow-up were: a 38.8 mL increase (SE, 4.3 mL) in experimental group 1; a 11.2 mL increase (SE, 4.3) in experimental group 2; and a 34.4 mL decrease (SE, 4.3 mL) in the control group (group 3). These estimated changes all differed significantly (p&lt;. 005 for each comparison).<BR/>Average decreases from baseline to the fifth year of follow-up were the following: experimental group 1, 184 mL; experimental group 2, 209 mL; and the control group (group 3), 267 mL (no standard deviations presented). All pair wise comparisons between groups were significant (p&lt;. 002).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">4. Comparison among various combinations of psychosocial and pharmacological interventions.</HEADING>
+<P>Two studies were identified that compared various combinations of psychosocial and pharmacological interventions (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>; <LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>). One study compared proactive telephone counselling combined with individual counselling and pharmacotherapy (bupropion) in the experimental group, with the same proactive telephone counselling combined with individual counselling and placebo in the control group (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>). The intensity of person-to-person clinical contact, total amount of contact time, and type of counselling and behavioural therapy were not described. There was 1 telephone counselling session 3 days after the target quit date and 9 individual counselling sessions in weeks 1 to 7, week 10, and week 12. The continuous abstinence during weeks 4 - 26 (intention-to-treat) was 15.7% (n=32) in the experimental group, versus 9.0% (n=18) in the control group (RD = 0.7, 95% CI 0.0 to 0.13), (RR = 1.74, 95% CI 1.01 to 3.0).</P>
+<P>The second study included a comparison among different combinations of individual counselling combined with self-help and pharmacotherapy (<LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>). All groups received the same pharmacotherapy (NRT) and self-help, but received different kinds of individual counselling. All groups received higher intensity counselling from the physician (total amount of time was 30 minutes, 1 session and type of counselling and behavioural therapy was not described). All groups also received 1 or 2 daily home visits for 85 days by a technician for measuring CO and self-report of smoking behaviour. Lottery tickets reinforced the experimental group for reduced CO. The first control group was not informed about their CO-values and received lottery tickets equal to pair-mates earnings. Neither was the second control group informed about their CO-values and they received lottery tickets when they reported not having smoked since the last home-visit. Point prevalence at six months was 13.9% (n=5) for all groups in total. However, due to lack of clear presentation of the data it was not possible to calculate risk differences and relative risks.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-08-29 13:01:38 +0100" MODIFIED_BY="Toby J  Lasserson">
+<P>This systematic review is the first one, as far as we know, which evaluates the effectiveness of any psychosocial or pharmacological smoking cessation intervention or combinations of both for patients with COPD. Therefore, it is not possible to compare our results with other systematic reviews, because their focus was not on patients with COPD. The majority of these reviews assessed the effectiveness of smoking cessation interventions in the general, non COPD, population. Lancaster (2000) and the US Department of Health and Human Services (2000) found evidence for the effectiveness of psychosocial interventions in the general population: according to Lancaster et al., advice from doctors, structured interventions from nurses, and individual and group counselling are effective interventions. Furthermore, generic self-help materials are no better than brief advice but more effective than doing nothing. The U.S. Department of Health and Human Services reports that treatments involving person-to-person contact through individual, group, or proactive telephone counselling are consistently effective in smoking cessation. Whether this holds true, if patients with COPD are included, is a question to be answered by future research.<BR/>We found a few studies aimed at a mixed population including patients with COPD. However, no separate clear analysis of the results regarding this sub-population was reported. To gain insight in the effectiveness of smoking cessation interventions it would be worthwhile to report sub-analysis for separate patient categories whenever possible.</P>
+<P>Although the number of included studies was very low, there were still some methodological obstacles:</P>
+<P>Firstly, in general, the quality of the included studies was not satisfactory. However, some of the internal validity criteria of the Delphi-list are very difficult to achieve for studies in this specific field, especially the items with regard to blinding. One of the studies (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>) scored nine out of nine items. The remaining four studies (<LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>; <LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>; <LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>; <LINK REF="STD-Pederson-1991" TYPE="STUDY">Pederson 1991</LINK>) scored five or less out of nine. The reason for this is that Tashkin et al. compared psychosocial intervention in combination with pharmacotherapy with the same psychosocial intervention in combination with placebo. The focus in the other studies was on psychosocial interventions. It is far easier to provide blinding of patients and care-providers for pharmacotherapy than for psychosocial interventions. Although we are aware that the criteria with regard to blinding of patients and care-providers are difficult to achieve for psychosocial interventions they might still have introduced a bias. Therefore, they were not deleted from the quality assessment. However, in most studies blinding of outcome assessment is possible. In order to minimize bias as much as possible, it is of paramount importance to blind the outcome assessment. Redefining criteria to make them more suitable for psychosocial interventions should also be considered. More specifically, if blinding of patients is not feasible, this criterion could be scored positive, if treatment credibility is adequately evaluated and treatment was equally credible and acceptable to patients (<LINK REF="REF-Van-Tulder-2001" TYPE="REFERENCE">Van Tulder 2001</LINK>).</P>
+<P>Secondly, in performing this review we observed much heterogeneity in the studies making it difficult to compare the results of individual studies. This especially concerns the type of included patients, the outcome measurements, and the timing of measurements.<BR/>First of all, we included studies that selected patients with a diagnosis of COPD, according to the ATS, BTS or GOLD criteria or where COPD was confirmed by the treating physician. Nevertheless, in some of the studies the stage of severity of COPD remained unclear. In order to determine what kind of patients benefit most from which kind of treatment, more detailed descriptions of the diagnosis (in - exclusion criteria) are called for.</P>
+<P>Moreover, the outcome measurements used in the studies also hampered the comparison of the studies. Some studies use point prevalence as the outcome measure while other studies use continuous abstinence; and some use both. Unfortunately, sometimes it was not at all clear what kind of outcome measure had been used. For example, in one study the self-reported smoking habits were obtained by telephone interviews one year after discharge (<LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>). From their description of how the outcome assessment was performed, it could not be determined whether point prevalence's or continuous abstinence was used.</P>
+<P>Furthermore, the timing of measurement used in the studies differed considerably. Some studies measure the point prevalence at 6 months (<LINK REF="STD-Tashkin-2001" TYPE="STUDY">Tashkin 2001</LINK>; <LINK REF="STD-Crowley-1995" TYPE="STUDY">Crowley 1995</LINK>), others measure the point prevalence at 1 year (<LINK REF="STD-Brandt-1997" TYPE="STUDY">Brandt 1997</LINK>). Moreover, sometimes the timing is unclear. There are also differences between the studies at baseline. Some studies count the start-point as the beginning of the intervention. Tashkin et al. defined point prevalence at 6 months as 6 months after start of the intervention, while for Crowley et al. the exact start- point was not clear. The heterogeneity with regard to the outcome measurement and the timing of measurement also concerns previous reviews of smoking cessation interventions in the general healthy population. Obviously, it is still not clear what kind of outcome measurement and timing of measurement is most valid. According to Velicer et al. the use of a combination of outcome measurements (point prevalence abstinence, continuous abstinence, and prolonged abstinence) is often most appropriate in studies assessing the effects of a smoking cessation intervention. The major advantage of point prevalence is that it permits inclusion of a wide range of former smokers reflecting the dynamic nature of smoking cessation. A major advantage of prolonged and continuous abstinence rates is better assessment of the long-term health effects of cessation and the maintenance effect of the intervention. In the guideline of the U.S. Department of Health and Human Services (<LINK REF="REF-US-DHHS-2000" TYPE="REFERENCE">US DHHS 2000</LINK>) the point prevalence abstinence, rather than continuous abstinence was used as the chief outcome variable. One of the reasons for preferring point prevalence above continuous abstinence data is that the latter underestimates the percentage of individuals who are abstinent at particular follow up time points. They might, therefore, suggest that the likelihood of cessation is lower than it actuality is. Moreover, most relapses occur early in a quit attempt, and then persist. A point prevalence measure taken at 5 months would certainly capture the majority of those relapse events. To make comparisons of studies more worthwhile, consensus about the outcome measurement would be helpful. Therefore, we recommend the use of both continuous abstinence and point prevalence abstinence, with continuous abstinence as the primary outcome measure.</P>
+<P>For the timing of measurement, two time points are particularly important: the baseline and the long-term follow-up. The baseline can be measured at the start of the intervention, at the quit-date or after the intervention. As long as the timing of the baseline assessment is accurately described, we have no particular preference for the way in which it is measured. The 'gold standard' for the long-term follow-up is 6 or 12 months (<LINK REF="REF-Hatsukami-1999" TYPE="REFERENCE">Hatsukami 1999</LINK>). We recommend the use of both, because that allows an easier comparison of studies.</P>
+<P>Furthermore the lung function was taken in account as a secondary outcome measurement because one of the primary aims for smoking cessation in patients with COPD is to slow the rate of decline in FEV1. But only one study of the included ones measured the differences in lung function (<LINK REF="STD-Anthonisen-1994" TYPE="STUDY">Anthonisen 1994</LINK>). The results of this study show that the smaller declines in both smoking intervention groups, as compared to the control group, occurred mainly during the first year. For future research it would be interesting to take the lung function as a secondary outcome measurement.</P>
+<P>Another difficulty in performing this review was the unclear description in most of the studies (e.g. intensity of person-to-person clinical contact, total amount of contact time within person-to-person clinical contact, and types of counselling and behavioural therapies were missing) The U.S. Department of Health and Human Services (2000) describes smoking cessation interventions for the general population, for example, in the following characteristics: formats of psychosocial intervention, types of counselling and behavioural therapy, and intensity of person-to-person clinical contact. We think that this kind of description gives detailed information of the intervention. We recommend that interventions for smoking cessation for patients with COPD be described in the same terms and is necessary for making detailed recommendations for implementation in daily practice.</P>
+<P>International guidelines for COPD (BTS, ATS, GOLD) recommend smoking cessation interventions for smokers with COPD that are similar to the interventions for healthy smokers. The reason for this is that there is not much evidence with regard to smoking cessation interventions that are specifically developed for smokers with COPD. But the question remains whether smokers with COPD are comparable to healthy smokers concerning determinants of smoking and determinants of smoking cessation interventions. If such is the case, interventions need to be tailored to their specific characteristics. Studies analysing the determinants of smokers with COPD, or assessing differences with those of the general healthy population are scarce (<LINK REF="REF-Jimenez_x002d_Ruiz-2001" TYPE="REFERENCE">Jimenez-Ruiz 2001</LINK>). Some authors indicate that smokers with COPD have a greater degree of physical nicotine dependence (<LINK REF="REF-Sach-1981" TYPE="REFERENCE">Sach 1981</LINK>; <LINK REF="REF-Sachs-1984" TYPE="REFERENCE">Sachs 1984</LINK>). Jimenez-Ruiz (2001) shows that smokers with COPD have higher tobacco consumption, higher dependence on nicotine, and higher concentrations of CO in exhaled air, which suggests a different pattern of cigarette smoking. Cases of COPD among smokers predominate in men and in individuals with lower educational levels. Walters and Coleman (2002) describe a difference in attitudes and motivation to stop smoking in patients either or not attributing their respiratory symptoms to smoking. So did Clark (1999). Furthermore, patients with COPD have repeatedly been characterised as a population of chronically ill patients with a higher than normal prevalence of psychiatric disorders such as depression (<LINK REF="REF-Dudley-1980" TYPE="REFERENCE">Dudley 1980</LINK>; <LINK REF="REF-Isoaho-1995" TYPE="REFERENCE">Isoaho 1995</LINK>). It is known that for smokers with depression or a history of depression it is far more difficult to quit smoking. Both are associated with failure to quit smoking and relapse.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Based on two studies the authors found evidence that a combination of psychosocial interventions and pharmacological interventions is superior to no treatment or to psychosocial interventions alone. Furthermore we conclude that there is no absolute or convincing evidence for the effectiveness of any psychosocial intervention for patients with COPD due to lack of a sufficient number of high-quality studies. </P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>In future research, it should be assessed whether the needs of patients with COPD are truly different than the needs of healthy smokers.<BR/>If so future randomised controlled trials should investigate if tailoring interventions to those needs improves quit rates in patients with COPD.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank Steve Milan, Toby Lasserson, and Karen Blackhall for her help with the search strategy. We also would like to thank John White for his editorial input, Chris Cates for checking over statistical questions, and Paul Jones. Furthermore, we would like to thank Nick Anthonisen, Linda Pederson, Thomas Crowley who responded to our enquiries. Finally, we would like to thank Marc Willemsen, Marcus Huibers, Geert Schattenberg and Clive Lawrence for their input.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>Annelies Jacobs is coordinator of a project, which is partly financed by GlaxoSmithKline. Her involvement does not seem to be a source of conflict of interest because scientific autonomy is guaranteed.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>RM van der Meer (RVDM) and EJ Wagena (EJW) identified and selected all studies. Both reviewers also assessed the methodological quality of studies and performed the data extraction. RM van der Meer, EJ Wagena and RWJG Ostelo (RO) conducted the data analysis. RWJG Ostelo served as 'third reviewer' and was consulted in case of persisting disagreements with regard to the quality assessment and/or data extraction. JE Jacobs and CP van Schayck were involved in final decisions regarding in- and exclusion of studies, and with regard to judgements about results and conclusions. All authors were involved in writing the review protocol and the final review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2016-10-10 14:18:41 +0100" MODIFIED_BY="Jessica Thomas">
+<STUDIES MODIFIED="2008-08-29 13:02:55 +0100" MODIFIED_BY="Toby J  Lasserson">
+<INCLUDED_STUDIES MODIFIED="2008-08-29 13:02:55 +0100" MODIFIED_BY="Toby J  Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Anthonisen-1994" MODIFIED="2008-08-29 13:02:55 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Anthonisen 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Anthonisen NR, Connett JE, Kiley JP, Altose MD, Bailey WC, Buist AS, et al</AU>
+<TI>Effects of smoking intervention and the use of an inhaled anticholinergic bronchodilator on the rate of decline of FEV1. The Lung Health Study</TI>
+<SO>JAMA</SO>
+<YR>1994</YR>
+<VL>272</VL>
+<NO>19</NO>
+<PG>1497-1505</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417889"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Anthonisen</AU>
+<TI>Epidemiology and the Lung Health Study</TI>
+<SO>European Respiratory Review</SO>
+<YR>1997</YR>
+<VL>7</VL>
+<NO>45</NO>
+<PG>202-5</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417890"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Buist AS, Connett JE, Miller RD, Kanner RE, Owens GR, Voelker HT</AU>
+<TI>Chronic Obstructive Pulmonary Disease Early Intervention (Lung Health Study). Baseline Characteristics of Randomized Participants</TI>
+<SO>Chest</SO>
+<YR>1993</YR>
+<VL>103</VL>
+<NO>6</NO>
+<PG>1863-72</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417891"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Buist AS</AU>
+<TI>The US Lung Health Study</TI>
+<SO>Respirology</SO>
+<YR>1997</YR>
+<VL>2</VL>
+<PG>303-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417892"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Connett JE, Bjornson-Benson WM, Daniels K</AU>
+<TI>Recruitment of participants in the Lung Health Study, II Assesment of recruiting strategies</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1993a</YR>
+<VL>14</VL>
+<PG>38S-51S</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417893"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Connett JE, Kusek JW, Bailey WC, O'Hara P, Wu M</AU>
+<TI>Design of the Lung Health Study: a randomized clinical trial of early intervention for chronic obstructive pulmonary disease</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1993b</YR>
+<VL>14</VL>
+<NO>(2 Suppl)</NO>
+<PG>3S-19S</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417894"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kanner RE, Connett JE, Williams DE, Buist AS, for the Lung Health Study Resarch Group</AU>
+<TI>Effects of randomized assignment to a smoking cessation intervention and changes in smoking habits on respiratory symptoms in smokers with early chronic obstructive pulmonary disease: The Lung Health Study</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>1999</YR>
+<VL>106</VL>
+<PG>410-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417895"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kanner RE, Connett JE</AU>
+<TI>Early intervention in chronic obstructive pulmonary disease: A review of the Lung Health Study results</TI>
+<SO>Medical Clinics of North America</SO>
+<YR>1996</YR>
+<VL>80</VL>
+<NO>3</NO>
+<PG>523-47</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417896"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Murray RP, Anthonisen NR, Connett JE et al</AU>
+<TI>Effects of multiple attempts to quit smoking and relapses to smoking on pulmonary function</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>1998</YR>
+<VL>54</VL>
+<NO>12</NO>
+<PG>1317-26</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417897"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2008-08-29 13:02:55 +0100" MODIFIED_BY="Toby J  Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Murray RP, Gerald LB, Lindgren PG, Connett JE, Rand CS, Anthonisen NR</AU>
+<TI>Characteristics of participants who stop smoking and sustain abstinence for 1 and 5 years in the Lung Health Study</TI>
+<SO>Preventive Medicine</SO>
+<YR>2000</YR>
+<VL>30</VL>
+<NO>5</NO>
+<PG>392-400</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417898"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>O'Hara P, Connett JE, Lee WW, Nides M, Murray R, Wise R</AU>
+<TI>Early and late weight gain following smoking cessation in the Lung Health Study</TI>
+<SO>American Journal of Epidemiology</SO>
+<YR>1998</YR>
+<VL>148</VL>
+<NO>9</NO>
+<PG>821-30</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417899"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417888"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Brandt-1997" NAME="Brandt 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Brandt CJ, Ellegaard H, Joensen M, Kallan FV, Sorknaes AD, Tougaard L</AU>
+<TI>Effect of diagnosis of "smokers's lung"</TI>
+<SO>The Lancet</SO>
+<YR>1997</YR>
+<VL>349</VL>
+<NO>January 25</NO>
+<PG>253</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417901"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kallan FV, Brandt CJ, Ellegaard H, Baltzer Joensen MB, Sorknoes AD, et al</AU>
+<TI>The diagnosis of 'smokers lung' encourages smoking cessation</TI>
+<TO>Diagnosen 'rygerlunger' fremmer rygeophor</TO>
+<SO>Ugeskrift for Laeger</SO>
+<YR>1997</YR>
+<VL>159</VL>
+<NO>44</NO>
+<PG>6528-30</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417902"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417900"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Crowley-1995" NAME="Crowley 1995" YEAR="1995">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Crowley TJ, Macdonald MJ, Walter MI</AU>
+<TI>Behavioral anti-smoking trial in chronic obstructive pulmonary disease patients</TI>
+<SO>Psychopharmacology</SO>
+<YR>1995</YR>
+<VL>119</VL>
+<PG>193-204</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417904"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417903"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pederson-1991" MODIFIED="2008-08-29 13:02:48 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Pederson 1991" YEAR="1991">
+<REFERENCE MODIFIED="2008-08-29 13:02:48 +0100" MODIFIED_BY="Toby J  Lasserson" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Pederson LL, Wanklin JM, Lefcoe NM</AU>
+<TI>The effects of counselling on smoking cessation among patients hospitalized with chronic obstructive pulmonary disease: a randomized clinical trial</TI>
+<SO>The International Journal of the Addictions</SO>
+<YR>1991</YR>
+<VL>20</VL>
+<NO>1</NO>
+<PG>107-19</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417906"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417905"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tashkin-2001" NAME="Tashkin 2001" YEAR="2001">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Tashkin DP, Kanner R, Bailey W, Buist S, Anderson P, Nides MA, et al</AU>
+<TI>Smoking cessation in patients with chronic obstructive pulmonary disease: a double-blind, placebo-controlled, randomised trial</TI>
+<SO>The Lancet</SO>
+<YR>2001</YR>
+<VL>357</VL>
+<NO>May 19</NO>
+<PG>1571-5</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417908"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417907"/></IDENTIFIERS>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-08-29 13:02:27 +0100" MODIFIED_BY="Toby J  Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Ames-1985" NAME="Ames 1985" YEAR="1985">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Ames RG, Hall DS</AU>
+<TI>Smoking cessation among coal miners as predicted by baseline respiratory function and symptoms: a 5 year prospective study</TI>
+<SO>Preventive Medicine</SO>
+<YR>1985</YR>
+<VL>14</VL>
+<PG>181-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417910"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417909"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-BTS-1983" NAME="BTS 1983" YEAR="1983">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Subcommittee of the Research Committee of the British Thoracic Society</AU>
+<TI>Comparison of four methods of smoking withdrawal in patients with smoking related diseases</TI>
+<SO>British Medical Journal</SO>
+<YR>1983</YR>
+<VL>286</VL>
+<PG>595-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417912"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Subcommittee of the Research Committee of the British Thoracic Society</AU>
+<TI>Smoking withdrawal in hospital patients: factors associated with outcome</TI>
+<SO>Thorax</SO>
+<YR>1984</YR>
+<VL>39</VL>
+<PG>651-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417913"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417911"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-BTS-1990a" NAME="BTS 1990a" YEAR="1990">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Research Committee of the British Thoracic Society</AU>
+<TI>Smoking cessation in patients: two further studies by the British Thoracic Society</TI>
+<SO>Thorax</SO>
+<YR>1990</YR>
+<VL>45</VL>
+<PG>835-40</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417915"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417914"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-BTS-1990b" NAME="BTS 1990b" YEAR="1990">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Research Committee of the British Thoracic Society</AU>
+<TI>Smoking cessation in patients: two further studies by the British Thoracic Society</TI>
+<SO>Thorax</SO>
+<YR>1990</YR>
+<VL>45</VL>
+<PG>835-40</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417917"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417916"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Buist-1976" NAME="Buist 1976" YEAR="1976">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Buist AS, Sexton GJ, Nagy JM, Ross BB</AU>
+<TI>The effect of smoking cessation and modification on lung function</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1976</YR>
+<VL>114</VL>
+<PG>115-22</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417919"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417918"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Camilli-1987" NAME="Camilli 1987" YEAR="1987">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Camilli AE, Burrows B, Knudson RJ, Lyle SK, Lebowitz MD</AU>
+<TI>Longitudinal changes in forced expiratory volume in one second in adults</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1987</YR>
+<VL>135</VL>
+<PG>794-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417921"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417920"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cheng-1997" NAME="Cheng 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Cheng XS, Li JZ, Zhang ZX, et al</AU>
+<TI>The preliminary results of prevention and treatment in the population of patients with COPD and Cor Pulmonale</TI>
+<TO>Chung-Hua Liu Hsing ping Hsueh Tsa Chih</TO>
+<SO>Chinese Journal of Epidemiology</SO>
+<YR>1997</YR>
+<VL>18</VL>
+<NO>5</NO>
+<PG>282-5</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417923"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417922"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Daughton-1980" NAME="Daughton 1980" YEAR="1980">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Daughton DM, Fix AJ, Kass I, Patil KD</AU>
+<TI>Smoking cessation among patients with chronic obstructive pulmonary disease (COPD)</TI>
+<SO>Addictive Behaviors</SO>
+<YR>1980</YR>
+<VL>5</VL>
+<PG>125-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417925"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417924"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Davis-1984" NAME="Davis 1984" YEAR="1984">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Davis AL, Faust R, Ordentlich M</AU>
+<TI>Self-help smoking cessation and maintenance programs: a comparative study with 12-month follow-up by the American Lung Association</TI>
+<SO>American Journal of Public Health</SO>
+<YR>1984</YR>
+<VL>74</VL>
+<NO>11</NO>
+<PG>1212-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417927"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417926"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Glover-1997" NAME="Glover 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Glover ED, Glover PN, Abrons HL, Franzon M</AU>
+<TI>Smoking cessation among COPD and chronic bronchitis patients using nicotine nasal spray</TI>
+<SO>American Journal of Health Behavior</SO>
+<YR>1997</YR>
+<VL>21</VL>
+<NO>4</NO>
+<PG>310-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417929"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417928"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gourlay-1996" NAME="Gourlay 1996" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Gourlay SG, Benowitz NL</AU>
+<TI>The benefits of stopping smoking and the role of nicotine replacement therapy in older patients</TI>
+<SO>Drugs &amp; Aging</SO>
+<YR>1996</YR>
+<VL>9</VL>
+<NO>1</NO>
+<PG>8-23</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417931"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417930"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hall-1983" NAME="Hall 1983" YEAR="1983">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Hall SM, Bachman J, Henderson JB, Barstow R, Jones RT</AU>
+<TI>Smoking cessation in patients with cardiopulmonary disease: an initial study</TI>
+<SO>Addictive Behaviors</SO>
+<YR>1983</YR>
+<VL>8</VL>
+<PG>33-42</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417933"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417932"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hall-1984" NAME="Hall 1984" YEAR="1984">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Hall RG, Sachs DPL, Hall SM, Benowitz NL</AU>
+<TI>Two-year efficacy and safety of rapid smoking therapy in patients with cardiac and pulmonary disease</TI>
+<SO>Journal of Consulting and Clinical Psychology</SO>
+<YR>1984</YR>
+<VL>52</VL>
+<NO>4</NO>
+<PG>574-81</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417935"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417934"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Humerfelt-1998" NAME="Humerfelt 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Humerfelt S, Eide GE, Kvale G, Aaro LE, Gulsvik A</AU>
+<TI>Effectiveness of postal smoking cessation advice: a randomized controlled trial in young men with reduced FEV1 and asbestos exposure</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1998</YR>
+<VL>11</VL>
+<PG>284-90</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417937"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417936"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lewis-1998" NAME="Lewis 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Lewis SF, Piasecki TM, Fiore MC, Anderson JE, Baker TB</AU>
+<TI>Transdermal nicotine replacement for hospitalized patients: a randomized clinical trial</TI>
+<SO>Preventive Medicine</SO>
+<YR>1998</YR>
+<VL>27</VL>
+<PG>296-303</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417939"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417938"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Li-1984" MODIFIED="2008-08-29 13:02:27 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Li 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-08-29 13:02:27 +0100" MODIFIED_BY="Toby J  Lasserson" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Li VC, Kim YJ, Ewart CK, Terry PB, Cuthie JC, Wood J, et al</AU>
+<TI>Effects of physician counselling on the smoking behavior of asbestos-exposed workers</TI>
+<SO>Preventive Medicine</SO>
+<YR>1984</YR>
+<VL>13</VL>
+<PG>462-76</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417941"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417940"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Loss-1979" NAME="Loss 1979" YEAR="1979">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Loss RW, Hall WJ, Speers DM</AU>
+<TI>Evaluation of early airway disease in smokers: cost effectiveness of pulmonary function testing</TI>
+<SO>The American Journal of the Medical Sciences</SO>
+<YR>1979</YR>
+<VL>278</VL>
+<NO>1</NO>
+<PG>27-37</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417943"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417942"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Paoletti-1993" NAME="Paoletti 1993" YEAR="1993">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Paoletti P, Tonnesen P, Rodriguez-Roisin R</AU>
+<TI>CEASE (Collaborative European Anti-smoking Evaluation): a challenging multicentre trial organized by the European Respiratory Society</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1993</YR>
+<VL>6</VL>
+<PG>719-21</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417945"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417944"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rose-1978" NAME="Rose 1978" YEAR="1978">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Rose G, Hamilton PJS</AU>
+<TI>A randomised controlled trial of the effect on middle-aged men of advice to stop smoking</TI>
+<SO>Journal of Epidemiology and Community Health</SO>
+<YR>1978</YR>
+<VL>32</VL>
+<PG>275-81</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417947"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417946"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sachs-1988" NAME="Sachs 1988" YEAR="1988">
+<REFERENCE PRIMARY="YES" TYPE="BOOK_SECTION">
+<AU>Sachs DPL, Benowitz NL, Silver KJ</AU>
+<TI>Effective use of nicotine polacrilex (nicorette) in patients with chronic obstructive pulmonary disease</TI>
+<SO>Smoking and health</SO>
+<YR>1987</YR>
+<PG>793-795</PG>
+<ED>Aoki M, et al</ED>
+<PB>Elsevier Science Publishers</PB>
+<CY>Amsterdam</CY>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417949"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417948"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sirota-1985" NAME="Sirota 1985" YEAR="1985">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Sirota AD, Curran JP, Habif V</AU>
+<TI>Smoking cessation in chronically ill medical patients</TI>
+<SO>Journal of Clinical Psychology</SO>
+<YR>1985</YR>
+<VL>41</VL>
+<NO>4</NO>
+<PG>575-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417951"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417950"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Soulier-1999" NAME="Soulier 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Soulier-Parmeggiani L, Griscom S, Bongard O, Avvanzino R, Bounameaux H</AU>
+<TI>One-year results of a smoking-cessation programme</TI>
+<SO>Schweizerische Medizinische Wochenschrift</SO>
+<YR>1999</YR>
+<VL>129</VL>
+<PG>395-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417953"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417952"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tonnesen-1988" NAME="Tonnesen 1988" YEAR="1988">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Tonnesen P, Fryd V, Hansen M, Helsted J, Gunnersen AB, Forchammer H, et al</AU>
+<TI>Effect of nicotine chewing gum in combination with group counseling on the cessation of smoking</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>1988</YR>
+<VL>318</VL>
+<NO>1</NO>
+<PG>15-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417955"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417954"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tonnesen-1996" NAME="Tonnesen 1996" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Tonnesen P, Mikkelsen K, Markholst C, Ibsen A, Bendixen M, Pedersen L, et al</AU>
+<TI>Nurse-conducted smoking cessation with minimal intervention in a lung clinic: a randomized controlled study</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1996</YR>
+<VL>9</VL>
+<PG>2351-5</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3417957"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3417956"/></IDENTIFIERS>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-ALA-1999" NAME="ALA 1999" TYPE="OTHER">
+<AU>American Lung Association</AU>
+<TI>Trends in chronic bronchitis and emphysema: morbidity and mortality</TI>
+<YR>1999</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ATS-1995" NAME="ATS 1995" TYPE="JOURNAL_ARTICLE">
+<AU>American Thoracic Society</AU>
+<TI>Standards for the diagnosis and care of patients with chronic obstructive pulmonary disease</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1995</YR>
+<VL>152</VL>
+<PG>S77-S121</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Barnes-2000" NAME="Barnes 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Barnes PJ</AU>
+<TI>Medical progress: chronic obstructive pulmonary disease</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2000</YR>
+<VL>343</VL>
+<NO>4</NO>
+<PG>269-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Burrows-1979" NAME="Burrows 1979" TYPE="JOURNAL_ARTICLE">
+<AU>Burrows B, Knudson RJ, Cline MG, Lebowitz MD</AU>
+<TI>Quantitative relationships between cigarette smoking and ventilatory function</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1979</YR>
+<VL>115</VL>
+<PG>195-205</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Clark-1999" NAME="Clark 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Clark MA, Hogan JW, Kviz FJ, Prohaska TR</AU>
+<TI>Age and the role of symptomatology in readiness to quit smoking</TI>
+<SO>Addictive Behaviors</SO>
+<YR>1999</YR>
+<VL>24</VL>
+<NO>1</NO>
+<PG>1-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Doll-1994" NAME="Doll 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Doll R, Peto R, Wheatley K, Gray R, Sutherland I</AU>
+<TI>Mortality in relation to smoking: 40 years observations on male British doctors</TI>
+<SO>BMJ</SO>
+<YR>1994</YR>
+<VL>309</VL>
+<PG>901-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dudley-1980" NAME="Dudley 1980" TYPE="JOURNAL_ARTICLE">
+<AU>Dudley DL, Glaser EM, Jorgenson BN, et al</AU>
+<TI>Psychosocial concomitants to rehabilitation in chronic obstructive pulmonary disease. Part I. Psychosocial and psychological considerations</TI>
+<SO>Chest</SO>
+<YR>1980</YR>
+<VL>77</VL>
+<PG>413-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fletcher-1976" NAME="Fletcher 1976" TYPE="BOOK">
+<AU>Fletcher CM, Peto R, Tinker CM, Speizer FE</AU>
+<SO>The natural history of chronic bronchitis and emphysema</SO>
+<YR>1976</YR>
+<PB>Oxford University Press</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hatsukami-1999" NAME="Hatsukami 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Hatsukami DK, Mooney ME</AU>
+<TI>Pharmacological and behavioral strategies for smoking cessation</TI>
+<SO>Journal of Clinical Psychology in Medical Settings</SO>
+<YR>1999</YR>
+<VL>6</VL>
+<NO>1</NO>
+<PG>11-38</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Isoaho-1995" NAME="Isoaho 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Isoaho R, Keistinen T, Laippala P, et al</AU>
+<TI>Chronic obstructive pulmonary disease and symptoms related to depression in elderly persons</TI>
+<SO>Psychological Reports</SO>
+<YR>1995</YR>
+<VL>76</VL>
+<NO>287-97</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jimenez_x002d_Ruiz-2001" NAME="Jimenez-Ruiz 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Jimenez-Ruiz CA, Masa F, Miravitlles M, Gabriel R, Viejo JL, Villasante C, et al</AU>
+<TI>Smoking Characteristics. Differences in attitudes and dependence between healthy smokers and smokers with COPD</TI>
+<SO>Chest</SO>
+<YR>2001</YR>
+<VL>119</VL>
+<NO>5</NO>
+<PG>1365-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lancaster-2000" NAME="Lancaster 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Lancaster T, Stead L, Silagy C, Sowden A</AU>
+<TI>Effectiveness of interventions to help people stop smoking: findings from the Cochrane Library</TI>
+<SO>BMJ</SO>
+<YR>2000</YR>
+<VL>321</VL>
+<PG>355-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lopez-1998" NAME="Lopez 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Lopez AD, Murray CC</AU>
+<TI>The global burden of disease, 1990-2020</TI>
+<SO>Nature Medicine</SO>
+<YR>1998</YR>
+<VL>4</VL>
+<PG>1241-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pauwels-2001a" NAME="Pauwels 2001a" TYPE="JOURNAL_ARTICLE">
+<AU>Pauwels RA, Buist AS, Calverley PM, Jenkins CR, Hurd SS</AU>
+<TI>Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease. NHLBI / WHO Global Initiative for Chronic Obstructive Lung Disease (GOLD) Workshop summary</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2001a</YR>
+<VL>163</VL>
+<NO>5</NO>
+<PG>1256-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pauwels-2001b" NAME="Pauwels 2001b" TYPE="JOURNAL_ARTICLE">
+<AU>Pauwels RA, Buist AS, Ma P, Jenkins CR, Hurd SS</AU>
+<TI>Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease: National Heart, Lung, and Blood Institute and World Health Organization Global Initiative for Chronic Obstructive Lung Disease (GOLD): executive summary</TI>
+<SO>Respiratory Care</SO>
+<YR>2001b</YR>
+<VL>46</VL>
+<NO>8</NO>
+<PG>798-825</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sach-1981" NAME="Sach 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Sach K, Hall R, Sachs B</AU>
+<TI>Success of rapid smoking therapy in smokers with pulmonary and coronary heart diseases</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1981</YR>
+<VL>123</VL>
+<PG>111-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sachs-1984" NAME="Sachs 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Sachs D</AU>
+<TI>Treatment of cigarette dependence: what American pulmonary physicians do</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1984</YR>
+<VL>129</VL>
+<NO>1010-3</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Traver-1979" NAME="Traver 1979" TYPE="JOURNAL_ARTICLE">
+<AU>Traver GA, Cline MG, Burrows B</AU>
+<TI>Predictors of mortality in chronic obstructive pulmonary disease. A 15-year follow-up study</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1979</YR>
+<VL>119</VL>
+<NO>6</NO>
+<PG>895-902</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-US-DHHS-2000" NAME="US DHHS 2000" TYPE="JOURNAL_ARTICLE">
+<AU>U.S. Department of Health and Human Services</AU>
+<TI>Treating Tobacco Use and Dependence. Clinical Practice Guideline. Public Health Service</TI>
+<YR>June 2000</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Van-Tulder-2001" NAME="Van Tulder 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Tulder MW van, Ostelo RW, Vlaeyen JW, Linton SJ, Morley SJ, Assendelft WJ</AU>
+<TI>Behavioral treatment for chronic low back pain: A systematic review within the framework of the Cochrane Back Review Group</TI>
+<SO>Spine</SO>
+<YR>2001</YR>
+<VL>26</VL>
+<PG>270-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Velicer-1992" NAME="Velicer 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Velicer WF, Prochaska JO, Rossi JS, Snow MG</AU>
+<TI>Assessing Outcome in Smoking Cessation Studies</TI>
+<SO>Psychological Bulletin</SO>
+<YR>1992</YR>
+<VL>111</VL>
+<NO>1</NO>
+<PG>23-41</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Verhagen-1998" NAME="Verhagen 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Verhagen AP, De Vet HCW, De Bie RA, Kessels AGH, Boers M, Bouter LM, Knipschild PG</AU>
+<TI>The Delphi list: a criteria list for quality assessment of randomized clinical trials for conducting systematic reviews developed by Delphi consensus</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>1998</YR>
+<VL>51</VL>
+<NO>12</NO>
+<PG>1235-41</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Walters-2002" NAME="Walters 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Walters N, Coleman T</AU>
+<TI>Comparison of the smoking behaviour and attitudes of smokers who attribute respiratory symptoms to smoking with those who do not</TI>
+<SO>British Journal of General Practice</SO>
+<YR>2002</YR>
+<VL>52</VL>
+<NO>475</NO>
+<PG>132-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-08-29 13:02:10 +0100" MODIFIED_BY="Toby J  Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-08-29 13:02:10 +0100" MODIFIED_BY="Toby J  Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-08-29 13:01:45 +0100" MODIFIED_BY="Toby J  Lasserson" STUDY_ID="STD-Anthonisen-1994">
+<CHAR_METHODS>
+<P>Setting: 10 clinical centers, USA and Canada.<BR/>Recruitment: Methods of recruitment were classified in 5 strategies: worksites, public sites, mail/phone, media and other. Study participants were essentially healthy individuals recruited from the general population.<BR/>Randomisation: Computer generated schedules, separately for each clinic. Blocks of random. ??????<BR/>Blinding: No.<BR/>Drop-outs: Reasons described poorly.<BR/>Intention-to-treat: Yes.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-29 13:01:45 +0100" MODIFIED_BY="Toby J  Lasserson">
+<P>Participants: current smokers with spirometric signs of early COPD (FEV1/FVC &lt; 70% and 55% &lt; FEV1 &lt; 90%), 31 cig/day.<BR/>Age: M:48.5 (R 35-60).<BR/>Male: 62.9%.<BR/>Physician confirmed: 7.2% asthma, 29.9% bronchitis, 3.1% emphysema.<BR/>Motivation: Motivated to quit smoking.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Experimental 1 (n=1961): Psychosocial and pharmacotherapy.<BR/>Format: Individual counselling and group counselling.<BR/>Intensity: ?<BR/>Time: ?<BR/>Nsession: 1x physician before quit date and 12 x groups sessions over 10 weeks.<BR/>Type: ? (principles of cognitive and social learning theory?).<BR/>Pharmacotherapy: NRT (gum, supplied to participants who believed that it might help with their nicotine dependence, dose and duration not stated). <BR/>Bronchodilator: ipratropium bromide 3 times daily (two puffs per time).</P>
+<P>2. Experimental 2 (=1962)<BR/>Same intervention as experimental 1, but instead of ipratropium they receive placebo.</P>
+<P>Follow-up on intervention for experimental group 1 and 2: <BR/>a. Participants who quit entered a maintenance program, total not stated. (preventing relapse by teaching coping skills for problems such as stress and weight gain.<BR/>b. Participants who relapsed were individually treated. </P>
+<P>3. Control (n=1964): No intervention.<BR/>Format: No contact.<BR/>Type: No person-to-person intervention.<BR/>Therapists: Physician and health educator.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Abstinence: Sustained abstinence at 1 and 5 year follow-up.<BR/>Validation: Expired air CO and salivary cotinine.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Sustained quit rates denote individuals who had stopped smoking at the time of the initial cessation program and maintained this status at subsequent annual visits (1-5), also validated by cotinine or CO measurements; participants who did not attend a given annual visit were counted as smokers at that visit.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Brandt-1997">
+<CHAR_METHODS>
+<P>Setting: General medical ward (Hospital), Denmark.<BR/>Recruitment: The patients with COPD were recruited from the medical department, without regard for their opinion about smoking cessation.<BR/>Randomisation: Method not stated.<BR/>Blinding: No.<BR/>Drop-outs: Reasons were not completely described.<BR/>Intention-to-treat: No.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Participants: Smoking patients with COPD admitted to a general medical ward.<BR/>Criteria for COPD are described as "intermittent or chronic dyspnoea, coughing, changing grades of bronchio-obstruction and/or secretion-problems.<BR/>Age: M 66 (r:38-88).<BR/>Male: 52%.<BR/>Motivation: Unknown.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Experimental (n=25): Psychosocial.<BR/>Format: Individual counselling and Self-help (The lung disease was designated 'smoker's lung' in information material and when the medical staff talked to the patients about their illness).<BR/>Intensity: ?<BR/>Time: ?<BR/>Nsession: ?<BR/>Type: ?<BR/>Pharmacotherapy: No.</P>
+<P>2. Control (n=31): Psychosocial.<BR/>Format: : Individual counselling and Self-help (Illness called chronic bronchitis or emphysema).<BR/>Intensity:?<BR/>Time: ?<BR/>Nsession: ?<BR/>Type: ?<BR/>Pharmacotherapy: No.<BR/>Therapists: medical staff</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Abstinence: Point prevalence at month 12.<BR/>Validation: Expired air CO.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>A larger sample size was originally planned for this study but after 2 years the recruitment had been stopped because patients began spontaneously to call their illness smoker's lung and a true control group could not be obtained.<BR/>Self-reports of smoking habits were obtained by telephone interviews at 1 year after discharge: Point prevalence or continuous abstinence?</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-29 13:02:01 +0100" MODIFIED_BY="Toby J  Lasserson" STUDY_ID="STD-Crowley-1995">
+<CHAR_METHODS MODIFIED="2008-08-29 13:02:01 +0100" MODIFIED_BY="Toby J  Lasserson">
+<P>Setting: Home' visits, USA.<BR/>Recruitment: Screening of patients presenting to a general medical clinic and screening of all known COPD-patients in an outpatient pulmonary clinic.<BR/>Randomisation: Block randomisation, pre-stratification on sex and FEV1.<BR/>Blinding: No.<BR/>Drop-outs: Reasons not completely described.<BR/>Intention-to-treat: No.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Participants: Quite-ill current smoking COPD patients (FEV1/FVC &lt; 70%).<BR/>Age: M: 61.4. <BR/>Male: 75.7%.<BR/>Motivation: Different stages of motivation.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Experimental (n=18): Psychosocial and pharmacotherapy.<BR/>Format: Individual contact.<BR/>Intensity: 10 minutes (low-intensity).<BR/>Time: ?<BR/>Nsession: 1 or 2 daily home visits on days 1-85.<BR/>Type: Contingency contracting ? (contingent reinforcement (lottery tickets) for reduced breath CO.2. </P>
+<P>2. Control 1 (n=15): Psychosocial and pharmacotherapy.<BR/>Format: Individual contact.<BR/>Intensity: 10 minutes (low-intensity).<BR/>Time: ?<BR/>Nsession: 1 or 2 daily home visits on days 1-85.<BR/>Type: ? (non-contingent payment (lottery tickets) equal to pair-mates earnings. These participants were not informed about their CO-values.</P>
+<P>3. Control 2 (n=16): Psychosocial and pharmacotherapy.<BR/>Format: Individual contact.<BR/>Intensity: 10 minutes (low-intensity).<BR/>Time: ?<BR/>Nsession: 1 or 2 daily home visits on days 1-85.<BR/>Type: Contingency contracting? (Contingent reinforcement (lottery tickets) of self-report of no smoking since previous home visit. These participants were not informed of their CO-values).</P>
+<P>All groups received <BR/>Format: Individually counselling &amp; self-help.<BR/>Intensity: Higher intensity counselling.<BR/>Time: 30 minutes.<BR/>Nsession: 1.<BR/>Type: ?<BR/>Pharmacotherapy: NRT (gum, 2 mg / piece, up to 30 pieces/day, days 11-75).</P>
+<P>Therapists: Physician for counselling and technician for home' visits.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Abstinence: Point prevalence at 6 months.<BR/>Validation: Expired air CO.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Point prevalence of abstinence at month 6 was defined as no smoking on the day of follow-up and CO &lt; 10.<BR/>Point prevalence of abstinence at month 6 was assessed only for the participants who completed the 6-month follow-up and was not specified for the three groups.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Pederson-1991">
+<CHAR_METHODS>
+<P>Setting: Chest unit of a 600-bed teaching hospital, Canada.<BR/>Recruitment: Cigarette smoking patients with previously diagnosed COPD admitted to a Chest Unit.<BR/>Randomisation: Method not stated<BR/>Blinding: No.<BR/>Drop-outs: Reasons were stated.<BR/>Intention-to-treat: No.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Participants: Current smokers with COPD admitted to a hospital (Chest Unit). 43% had chronic bronchitis and 57% emphysema according to ACCP-ATS criteria. <BR/>Age: M: 53.4 (SD 13.7).<BR/>Male: 68.9%.<BR/>Motivation: Unknown.<BR/>93% &gt; 10 cig/day.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Experimental (n=37): Psychosocial. Format: Individual counselling (advice to quit smoking by their physician prior to admission follow-up intervention by trained assistant) and self-help (cessation manual).<BR/>Intensity: Higher intensity counselling (15-20 minutes).<BR/>Time: (3 - 8) * (15 - 20 minutes). <BR/>Nsession: 3 - 8.<BR/>Type: ? (Support and encouragement).<BR/>Pharmacotherapy: No.</P>
+<P>2. Control (n=37): Psychosocial.<BR/>Format: Individual counselling (advice to quit smoking by their physician prior to admission).<BR/>Intensity: ?<BR/>Time: ?<BR/>Nsession: 1.<BR/>Type: ?<BR/>Pharmacotherapy: No.</P>
+<P>Therapists: Physician and trained assistant.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Abstinence: Continuous abstinence at 6 months after admission.<BR/>Validation: COHb analysis from blood samples drawn at 6 months.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>COHb analysis from blood samples drawn from a random sample of 20 participants from those who could be examined.<BR/>Smoking was not permitted in the chest unit.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Tashkin-2001">
+<CHAR_METHODS>
+<P>Setting: 11 clinical centres, USA.<BR/>Recruitment: Print and radio advertisements.<BR/>Randomisation: Block randomisation (code provided by Glaxo Wellcome), using block sizes of 4, stratified by centre.<BR/>Blinding: Patient and provider.<BR/>Drop-outs: Reasons were stated.<BR/>Intention-to-treat: Intention-to-treat analysis with data of patients who took at least one dose of study medication.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Participants: COPD patients stage I (FVE1/FVC &lt; 70% and FEV1 &gt; 50%) or II (FVE1/FVC &lt; 70% and FEV1 35 -49%) (ATS-criteria), and had smoked 15 cigarettes or more per day for the previous year, and had not stopped smoking for more than 3 months during that year.<BR/>Age: M 53.9 (SD 9.3).<BR/>Male: 55%.<BR/>Motivation: Motivated to quit smoking.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Experimental (n=206) Psychosocial and pharmacotherapy.<BR/>Pharmacotherapy: Bupropion SR 150 mg once daily for days 1-3, 150 mg twice daily on days 4-84.</P>
+<P>2. Control (n=205): Psychosocial and placebo.<BR/>Pharmacotherapy: Placebo.</P>
+<P>Both groups received <BR/>Format: Proactive telephone counselling and individual counselling.<BR/>Intensity: ? (brief individual counselling).<BR/>Time: ?<BR/>Nsession: 10: 1 telephone counselling 3 days after the target date and 9 individual counselling, at weeks 1-7, 10, 12.<BR/>Type: ?</P>
+<P>Therapists: Trained counsellor (generally a nurse or other health professional).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Abstinence: Continuous abstinence during weeks 4 -26 and Point prevalence of abstinence at week 26.<BR/>Validation: Expired air CO.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Continuous abstinence for weeks 4 - 26 was defined by participants being continuously abstinent during weeks 4-12, having a diary cigarette count of zero during weeks 13-26, and having exhaled CO values of 10 ppm or less at week 26. Point prevalence of abstinence at week 26 was defined as smoking abstinence during the previous 7 days.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>"M" = mean, "SD" = standard deviation, and "r" = range.<BR/>"Format" denotes formats of psychosocial intervention, and "Type" denotes types of counselling and behavioural therapies as part of psychosocial intervention<BR/>"Intensity" denotes intensity of person-to-person clinical contact, and "Time" denotes total amount of contact time within person-to-person clinical contact, and "n sessions" denotes number of person-to-person treatment sessions.<BR/>
+</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Ames-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion, no randomisation and no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-BTS-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-BTS-1990a">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-BTS-1990b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Buist-1976">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion, no randomisation, no control and no smoking cessation trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Camilli-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion, no randomisation, no control group and no smoking cessation trial<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cheng-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No smoking cessation trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Daughton-1980">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No randomisation, no control group and no smoking cessation trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Davis-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Glover-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No randomisation and no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gourlay-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion, no randomisation, no control group and no smoking cessation trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hall-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hall-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion, no randomisation, no control group and no smoking cessation trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Humerfelt-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lewis-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Li-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Loss-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion, no randomisation, no control group and no smoking cessation trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Paoletti-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No smoking cessation trial ( a study protocol)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rose-1978">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sachs-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No randomisation and no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sirota-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion, no randomisation, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Soulier-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion, no randomisation, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tonnesen-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tonnesen-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD was no inclusion criterion<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-08-29 12:59:55 +0100" MODIFIED_BY="Toby J  Lasserson">
+<ADDITIONAL_TABLE ID="TBL-01" NO="1">
+<TITLE>The Delphi list (Verhagen 1998)</TITLE>
+<TABLE COLS="2" ROWS="11">
+<TR>
+<TH>
+<P>Items</P>
+</TH>
+<TH>
+<P>Answer-option</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>1. Treatment allocation</P>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>a. Was a method of randomisation performed?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>b. Was the treatment allocation concealed?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>2. Were the groups similar at baseline regarding the most important prognostic indicators?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>3. Were the eligibility criteria specified?</P>
+</TD>
+<TD>
+<P>Yes /<BR/>No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>4. Was the outcome assessor blinded?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>5. Was the care provider blinded?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>6. Was the patient blinded?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>7. Were point estimates and measures of variability presented for the primary outcome measures?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>8. Did the analysis include an intention-to-treat analysis?</P>
+</TD>
+<TD>
+<P>Yes / No / Don't know</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2008-08-29 12:59:30 +0100" MODIFIED_BY="Toby J  Lasserson" NO="2">
+<TITLE>Quality Assesment Delphi-list</TITLE>
+<TABLE COLS="10" ROWS="6">
+<TR>
+<TH>
+<P>Reference</P>
+</TH>
+<TH>
+<P>1a / 1b</P>
+</TH>
+<TH>
+<P>2</P>
+</TH>
+<TH>
+<P>3</P>
+</TH>
+<TH>
+<P>4</P>
+</TH>
+<TH>
+<P>5</P>
+</TH>
+<TH>
+<P>6</P>
+</TH>
+<TH>
+<P>7</P>
+</TH>
+<TH>
+<P>8</P>
+</TH>
+<TH>
+<P>Total</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Anthonisen (1994)</P>
+</TD>
+<TD>
+<P>+ / -</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>5</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Brandt (1997)</P>
+</TD>
+<TD>
+<P>? / ?</P>
+</TD>
+<TD>
+<P>?</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>?</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Crowley (1995)</P>
+</TD>
+<TD>
+<P>+ / -</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Pederson (1991)</P>
+</TD>
+<TD>
+<P>? / ?</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>-</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Tashkin (2001)</P>
+</TD>
+<TD>
+<P>+ / +</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>+</P>
+</TD>
+<TD>
+<P>9</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES>
+<P>"+" denotes yes, "-" denotes no and "?" denotes don't know</P>
+</FOOTNOTES>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-03" NO="3">
+<TITLE>Abstinence rates as described in articles and risk differences (RD)</TITLE>
+<TABLE COLS="10" ROWS="13">
+<TR>
+<TH>
+<P>Study</P>
+</TH>
+<TH>
+<P>Intervention n(%) 6m</P>
+</TH>
+<TH>
+<P>Control n(%) 6m</P>
+</TH>
+<TH>
+<P>RD (95% CI) 6m</P>
+</TH>
+<TH>
+<P>Intervention n(%) 1y</P>
+</TH>
+<TH>
+<P>Control n(%) 1 y</P>
+</TH>
+<TH>
+<P>RD (95% CI) 1y</P>
+</TH>
+<TH>
+<P>Intervention n(%) 5y</P>
+</TH>
+<TH>
+<P>Control n(%) 5y</P>
+</TH>
+<TH>
+<P>RD (95% CI) 5y</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Anthonisen (1994)9</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>680 (34.7)d e</P>
+</TD>
+<TD>
+<P>177 (9.0)d e</P>
+</TD>
+<TD>
+<P>0.26 (0.23 to 0.28)</P>
+</TD>
+<TD>
+<P>408 (20.8)d e</P>
+</TD>
+<TD>
+<P>102 (5.2)d e</P>
+</TD>
+<TD>
+<P>0.16 (0.14 to 0.18)</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>674 (34.4)d f</P>
+</TD>
+<TD>
+<P>177 (9.0)d f</P>
+</TD>
+<TD>
+<P>0.25 (0.23 to 0.28)</P>
+</TD>
+<TD>
+<P>427 (21.8)d e</P>
+</TD>
+<TD>
+<P>102 (5.2)d e</P>
+</TD>
+<TD>
+<P>0.17 (0.14 to 0.19)</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Brandt (1997)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>8 (40.0)b</P>
+</TD>
+<TD>
+<P>5 (20.0)b</P>
+</TD>
+<TD>
+<P>0.20 (- 0.07 to 0.47)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Crowley (1995)</P>
+</TD>
+<TD>
+<P>5 (13.9)b c</P>
+</TD>
+<TD>
+<P>5 (13.9)b c</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Pederson (1991)</P>
+</TD>
+<TD>
+<P>10 (33.3)a</P>
+</TD>
+<TD>
+<P>6 (21.4)a</P>
+</TD>
+<TD>
+<P>0.12 (-0.11 to 0.35)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Tashkin (2001)9</P>
+</TD>
+<TD>
+<P>32 (15.7)a</P>
+</TD>
+<TD>
+<P>18 (9.0)a</P>
+</TD>
+<TD>
+<P>0.07 (0.00 to 0.13)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>"a" denotes continuous abstinence, and "b" denotes point prevalence, and "c" denotes the intervention and two control groups in total, and "d" denotes sustained abstinence, and "e" denotes smoking cessation intervention and bronchodilator versus control group, and "f" denotes smoking cessations and placebo versus control group, and "g" denotes intention to treat analysis, and "6m" denotes 6 months follow-up, "1y" denotes for 1 year follow-up, and "5y" denotes for 5 years follow-up</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-04" MODIFIED="2008-08-29 12:59:55 +0100" MODIFIED_BY="Toby J  Lasserson" NO="4">
+<TITLE>Abstinence rates as described in articles and relative risks (RR)</TITLE>
+<TABLE COLS="10" ROWS="11">
+<TR>
+<TH>
+<P>Study</P>
+</TH>
+<TH>
+<P>Intervention n(%) 6m</P>
+</TH>
+<TH>
+<P>Control n(%) 6m</P>
+</TH>
+<TH>
+<P>RR (95% CI)</P>
+</TH>
+<TH>
+<P>Intervention n(%) 1y</P>
+</TH>
+<TH>
+<P>Control n(%) 1y</P>
+</TH>
+<TH>
+<P>RR (95% CI)</P>
+</TH>
+<TH>
+<P>Intervention n(%) 5y</P>
+</TH>
+<TH>
+<P>Control n(%) 5y</P>
+</TH>
+<TH>
+<P>RR (95% CI)</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Anthonisen (1994)9</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>680 (34.7)d e</P>
+</TD>
+<TD>
+<P>177 (9.0)d e</P>
+</TD>
+<TD>
+<P>3.85 (3.30 to 4.48)</P>
+</TD>
+<TD>
+<P>408 (20.8)d e</P>
+</TD>
+<TD>
+<P>102 (5.2)d e</P>
+</TD>
+<TD>
+<P>4.0 (3.25 to 4.93)</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>674 (34.4)d f</P>
+</TD>
+<TD>
+<P>177 (9.0)d f</P>
+</TD>
+<TD>
+<P>3.81 (3.27 to 4.44)</P>
+</TD>
+<TD>
+<P>427 (21.8)d f</P>
+</TD>
+<TD>
+<P>102 (5.2)d f</P>
+</TD>
+<TD>
+<P>4.19 (3.41 to 5.15)</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Brandt (1997)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>8 (40.0)b</P>
+</TD>
+<TD>
+<P>5 (20.0)b</P>
+</TD>
+<TD>
+<P>2.0 (0.77 to 5.17)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Crowley (1995)</P>
+</TD>
+<TD>
+<P>5 (13.9)b c</P>
+</TD>
+<TD>
+<P>5 (13.9)b c</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Pederson (1991)</P>
+</TD>
+<TD>
+<P>10 (33.3)a</P>
+</TD>
+<TD>
+<P>6 (21.4)a</P>
+</TD>
+<TD>
+<P>1.56 (0.65 to 3.72)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Tashkin (2001)9</P>
+</TD>
+<TD>
+<P>32 (15.7)a</P>
+</TD>
+<TD>
+<P>18 (9.0)a</P>
+</TD>
+<TD>
+<P>1.74 (1.01 to 3.0)</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES>
+<P>"a" denotes continuous abstinence, and "b" denotes point prevalence, and "c" denotes the intervention and two control groups in total, and "d" denotes sustained abstinence, and "e" denotes smoking cessation intervention and bronchodilator versus control group , and "f" denotes smoking cessation and placebo versus control group, and "g" denotes intention to treat analysis, and "6m" denotes 6 months follow-up, "1y" denotes for 1 year follow-up, and "5y" denotes for 5 years follow-up.</P>
+</FOOTNOTES>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Psychosocial intervention vs no intervention</NAME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Comparison among various psychosocial interventions</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="8" EVENTS_2="5" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="20" TOTAL_2="25" WEIGHT="0.0" Z="0.0">
+<NAME>12 months (point prevalence)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.4658624499638336" CI_START="-0.06586244996383356" EFFECT_SIZE="0.2" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="5" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="45766" O_E="0.0" SE="0.13564659966250536" STUDY_ID="STD-Brandt-1997" TOTAL_1="20" TOTAL_2="25" VAR="0.0184" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="10" EVENTS_2="6" I2="0.0" I2_Q="0.0" ID="CMP-002.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="30" TOTAL_2="28" WEIGHT="0.0" Z="0.0">
+<NAME>6 months (point prevalence)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.34610356280513954" CI_START="-0.10800832470990146" EFFECT_SIZE="0.11904761904761904" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="6" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="45767" O_E="0.0" SE="0.11584699797981432" STUDY_ID="STD-Pederson-1991" TOTAL_1="30" TOTAL_2="28" VAR="0.013420526940935104" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Psychosocial and pharmacological interventions vs no intervention</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="408" EVENTS_2="102" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1961" TOTAL_2="1964" WEIGHT="0.0" Z="0.0">
+<NAME>5 years (sustained abstinence): experimental 1 vs control</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.1765936568218653" CI_START="0.1356509168452961" EFFECT_SIZE="0.1561222868335807" ESTIMABLE="YES" EVENTS_1="408" EVENTS_2="102" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="45768" O_E="0.0" SE="0.0104447684497063" STUDY_ID="STD-Anthonisen-1994" TOTAL_1="1961" TOTAL_2="1964" VAR="1.0909318796798014E-4" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="427" EVENTS_2="102" I2="0.0" I2_Q="0.0" ID="CMP-003.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1962" TOTAL_2="1964" WEIGHT="0.0" Z="0.0">
+<NAME>5 years (sustained abstinence): experimental 2 vs control</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.18642902250796384" CI_START="0.14497145624205432" EFFECT_SIZE="0.16570023937500908" ESTIMABLE="YES" EVENTS_1="427" EVENTS_2="102" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="45769" O_E="0.0" SE="0.010576104100106308" STUDY_ID="STD-Anthonisen-1994" TOTAL_1="1962" TOTAL_2="1964" VAR="1.1185397793628546E-4" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="680" EVENTS_2="177" I2="0.0" I2_Q="0.0" ID="CMP-003.03" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1961" TOTAL_2="1964" WEIGHT="0.0" Z="0.0">
+<NAME>1 year (sustained abstinence) experimental 1 vs control</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.2812185062923434" CI_START="0.2320608069139574" EFFECT_SIZE="0.2566396566031504" ESTIMABLE="YES" EVENTS_1="680" EVENTS_2="177" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="45770" O_E="0.0" SE="0.012540459867154623" STUDY_ID="STD-Anthonisen-1994" TOTAL_1="1961" TOTAL_2="1964" VAR="1.5726313367971572E-4" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="674" EVENTS_2="177" I2="0.0" I2_Q="0.0" ID="CMP-003.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1962" TOTAL_2="1964" WEIGHT="0.0" Z="0.0">
+<NAME>1 year (sustained abstinence) experimental 2 vs control</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.27793911828161927" CI_START="0.2288705090366125" EFFECT_SIZE="0.2534048136591159" ESTIMABLE="YES" EVENTS_1="674" EVENTS_2="177" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="45771" O_E="0.0" SE="0.012517732374689977" STUDY_ID="STD-Anthonisen-1994" TOTAL_1="1962" TOTAL_2="1964" VAR="1.5669362380436156E-4" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-004" NO="4">
+<NAME>Comparison among various combinations of psychosocial and pharmacological interventions</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="32" EVENTS_2="18" I2="0.0" I2_Q="0.0" ID="CMP-004.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="204" TOTAL_2="200" WEIGHT="0.0" Z="0.0">
+<NAME>6 months (continuous abstinence)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.1306088303781129" CI_START="0.0031166598179655225" EFFECT_SIZE="0.06686274509803922" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="18" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="45772" O_E="0.0" SE="0.032524110536160195" STUDY_ID="STD-Tashkin-2001" TOTAL_1="204" TOTAL_2="200" VAR="0.0010578177661683666" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-004.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="0" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="0" TOTAL_2="0" WEIGHT="0.0" Z="0.0">
+<NAME>6 months (point prevalence)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

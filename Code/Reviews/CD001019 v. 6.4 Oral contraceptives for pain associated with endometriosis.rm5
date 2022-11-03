@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD001019.pub2" GROUP_ID="MENSTR" ID="861899090715591829" MERGED_FROM="" MODIFIED="2008-11-10 01:54:53 +0100" MODIFIED_BY="Jane Clarke" NOTES="&lt;p&gt;Exported from Review Manager 4.3.1&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.2&lt;br&gt;Short title (no longer in use): Endometriosis:oral contraceptive pill:pain&lt;/p&gt;&lt;p&gt;1/1/1998&lt;/p&gt;&lt;p&gt;6/9/06 re-drafting protocol - no change to background; substantive changes to methods section. need to re-assess methodology.&lt;/p&gt;&lt;p&gt;19/09/06; LJD first full draft of protocol sent via email to JC and CF for consideration.&lt;/p&gt;" NOTES_MODIFIED="2008-11-10 13:52:52 +1300" NOTES_MODIFIED_BY="jane clarke" REVIEW_NO="141" REVMAN_SUB_VERSION="5.0.16" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="6.4">
+<COVER_SHEET MODIFIED="2008-11-10 13:52:52 +1300" MODIFIED_BY="jane clarke">
+<TITLE MODIFIED="2008-11-10 13:52:52 +1300" MODIFIED_BY="jane clarke">Oral contraceptives for pain associated with endometriosis</TITLE>
+<CONTACT>
+<PERSON ID="15874" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Lucy-Jane</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Davis</LAST_NAME>
+<SUFFIX/>
+<POSITION>Dr</POSITION>
+<EMAIL_1>ljd_456@yahoo.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE>+44 7979 816004</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Peninsula Foundation Deanery</DEPARTMENT>
+<ORGANISATION>Derriford Hospital</ORGANISATION>
+<ADDRESS_1>36 Elm Road</ADDRESS_1>
+<ADDRESS_2>Mannamead</ADDRESS_2>
+<CITY>Plymouth</CITY>
+<ZIP/>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1865 208109</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 1865 227002</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2008-11-10 13:52:41 +1300" MODIFIED_BY="Jane Clarke">
+<PERSON ID="15874" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Lucy-Jane</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Davis</LAST_NAME>
+<SUFFIX/>
+<POSITION>Dr</POSITION>
+<EMAIL_1>ljd_456@yahoo.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE>+44 7979 816004</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Peninsula Foundation Deanery</DEPARTMENT>
+<ORGANISATION>Derriford Hospital</ORGANISATION>
+<ADDRESS_1>36 Elm Road</ADDRESS_1>
+<ADDRESS_2>Mannamead</ADDRESS_2>
+<CITY>Plymouth</CITY>
+<ZIP/>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1865 208109</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 1865 227002</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="7730" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Stephen</FIRST_NAME>
+<MIDDLE_INITIALS>S</MIDDLE_INITIALS>
+<LAST_NAME>Kennedy</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Fellow/Honorary Consultant</POSITION>
+<EMAIL_1>stephen.kennedy@obstetrics-gynaecology.oxford.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Nuffield Department of Obstetrics and Gynaecology</DEPARTMENT>
+<ORGANISATION>University of Oxford</ORGANISATION>
+<ADDRESS_1>John Radcliffe Hospital</ADDRESS_1>
+<ADDRESS_2>Headington</ADDRESS_2>
+<CITY>Oxford</CITY>
+<ZIP>OX3 9DU</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1865 221 013</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 1865 69 141</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14599" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Jane</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Moore</LAST_NAME>
+<SUFFIX/>
+<POSITION>Consultant</POSITION>
+<EMAIL_1>jane.moore@obs-gyn.ox.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Nuffield Dept of Obstetrics &amp; Gynaecology</DEPARTMENT>
+<ORGANISATION>John Radcliffe Hospital</ORGANISATION>
+<ADDRESS_1>level 3, Women's Centre</ADDRESS_1>
+<ADDRESS_2>Headington</ADDRESS_2>
+<CITY>Oxford</CITY>
+<ZIP>OX3 7RG</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="8013" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Andrew</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Prentice</LAST_NAME>
+<SUFFIX/>
+<POSITION>University Lecturer</POSITION>
+<EMAIL_1>ap128@cam.ac.uk</EMAIL_1>
+<EMAIL_2>ap128@mole.bio.cam.ac.uk</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Obstetrics and Gynaecology</DEPARTMENT>
+<ORGANISATION>Rosie Maternity Hospital</ORGANISATION>
+<ADDRESS_1>Robinson Way</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Cambridge</CITY>
+<ZIP>CB2 2SW</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1223 336876</PHONE_1>
+<PHONE_2>+44 1223 336881</PHONE_2>
+<FAX_1>+44 1223 215327</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-11-07 13:28:15 +1300" MODIFIED_BY="Jane Clarke" NOTES="&lt;p&gt;Minor update: 9/15/06&lt;/p&gt;&lt;p&gt;New studies sought but none found: 9/20/06&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 6/20/03&lt;/p&gt;&lt;p&gt;Conclusions changed: 9/20/06&lt;/p&gt;&lt;p&gt;Reformatted: 9/7/99&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 13:28:15 +1300" NOTES_MODIFIED_BY="Jane Clarke">
+<UP_TO_DATE>
+<DATE DAY="17" MONTH="5" YEAR="2007"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="20" MONTH="9" YEAR="2006"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="23" MONTH="10" YEAR="2009"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="1998"/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="1998"/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2007"/>
+</DATES>
+<WHATS_NEW MODIFIED="2008-11-10 13:06:05 +1300" MODIFIED_BY="jane clarke" NOTES="&lt;p&gt;September 2006&lt;br&gt;Due to significant changes in methodology employed by the Cochrane Menstrual and Subfertility Group (MDSG) a full revision of the protocol of this review has been made, as of September 2006. Permission was sought and has been granted from the original authors for this revision to be performed. &lt;br&gt;The search string has been updated to meet the current criteria and substantial changes have been made to the review methodology, as outlined in the revised protocol.&lt;br&gt;No new trials were found as a consequence of the search. One trial was considered but is currently excluded; the authors have been contacted and we are awaiting clarification regarding the doses used in the study (Parazzini 2002).&lt;br&gt;The full review has been revised to meet the current MDSG methodology as outlined in the protocol. The new analyses did not change the overall results of the review.&lt;br&gt;2003&lt;br&gt;An updated search was performed on the 20th June 2003 and the two trials identified were excluded.&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2008-11-10 13:06:05 +1300" NOTES_MODIFIED_BY="jane clarke">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2008-11-10 13:06:05 +1300" MODIFIED_BY="jane clarke">
+<DATE DAY="10" MONTH="11" YEAR="2008"/>
+<DESCRIPTION>
+<P>Title changed from Modern combined Oral contraceptives for pain associated with endometriosis </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="7" MONTH="11" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="17" MONTH="5" YEAR="2007"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>AP University of Cambridge, UK</NAME>
+<COUNTRY CODE="NONE">Not specified</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>JM and SK University of Oxford, UK</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>LJD Peninsula Medical School Foundation Bursary</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>LJD National Birthday Trust Fund, Wellbeing of Women</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-11-10 13:02:00 +1300" MODIFIED_BY="jane clarke">
+<SUMMARY>
+<TITLE>Modern combined oral contraceptives for treatment of pain associated with endometriosis</TITLE>
+<SUMMARY_BODY>
+<P>Endometriosis is a common women's healthcare condition which is defined as the growth of endometrium (lining of the uterus) at sites outside the uterus, such as the ovaries. Endometriosis is commonly found in women with painful periods, pain with sexual intercourse, pelvic pain and infertility. Hormonal treatments, including the oral contraceptive pill (OCP) and gonadotrophin releasing hormone (GnRH) analogues are used to relieve the pain symptoms associated with endometriosis. There is some evidence to suggest that such treatments may also treat the actual deposits of endometriosis. However, many of the hormonal treatments have side effects which limit their acceptability and duration of use. Surgery may also be used to remove the deposits. </P>
+<P>This review searched for studies which compared an OCP with other treatments. One small study (57 women) was found which compared an OCP to goserelin (a GnRH analogue) in two separate treatment groups. The study showed that the two treatments relieved endometriosis-associated pain equally well. The goserelin treatment stopped women from having periods. Clearly, therefore, these women did not report having pain with their periods during treatment. Goserelin can also only be safely taken for six months. <BR/>More women in the goserelin group had side effects of hot flushes, insomnia and vaginal dryness, whereas more women in the OCP group suffered headaches and weight gain. After six months follow up there were no differences between the groups. The methodology of the study was not rated highly by the review authors.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Endometriosis is a common gynaecological condition which affects many women of reproductive age worldwide and is a major cause of pain and infertility. The modern oral contraceptive pill is widely used to treat pain occurring as a result of endometriosis, although the evidence for its efficacy is limited. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the effects of the oral contraceptive pill (OCP) in comparison to other treatments for painful symptoms of endometriosis in women of reproductive age. </P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Menstrual Disorders and Subfertility Group Specialised Register of controlled trials; Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2006); MEDLINE (January 1966 to September 2006); EMBASE (1980 to September 2006); National Research Register; and reference lists of articles.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All truly randomised controlled trials of the use of oral contraceptive pills in the treatment of women of reproductive age with symptoms ascribed to the diagnosis of endometriosis and made visually at surgical procedure were included. </P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Study quality assessment and data extraction were carried out independently by two review authors. One of the assessors was an expert in the content matter. We contacted study authors for additional information. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Only one study met the inclusion criteria, in which a total of 57 women were allocated to two groups to compare an OCP to a GnRH analogue. Methods of randomisation and allocation concealment were unclear and the study was acknowledged by its authors to be underpowered. Women in the GnRH analogue group became amenorrhoeic during the treatment period of six months, whilst women in the OCP group reported a decrease in dysmenorrhoea. No evidence of a significant difference between the two groups was observed in terms of dysmenorrhoea at six months follow up after stopping treatment (OR 0.48; 95% CI 0.08 to 2.90). Some evidence for a decrease in dyspareunia was found at the end of treatment in women in the GnRH analogue group, although no evidence of a significant difference in dyspareunia was observed at the end of the six months follow up (OR 4.87; 95% CI 0.96 to 24.65). </P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>The limited data we found available suggests that this is no evidence of a difference in outcomes between the oral contraceptive pill (OCP) studied and GnRH analogue was as effective as a GnRH analogue in treating for endometriosis-associated painful symptoms of endometriosis. However, the lack of studies with larger sample sizes, or focusing on other comparable treatments is concerning and further research is needed to fully evaluate fully the role of OCPs oral contraceptive pills in managing symptoms associated with endometriosis. </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-11-10 13:02:00 +1300" MODIFIED_BY="jane clarke">
+<BACKGROUND>
+<P>Endometriosis is a common gynaecological condition which affects many women of reproductive age worldwide and is a major cause of pain and infertility (<LINK REF="REF-Jacobson-2002" TYPE="REFERENCE">Jacobson 2002</LINK>). Symptomatic endometriosis most frequently causes pelvic pain. The pain may occur at the same as menstrual bleeding (dysmenorrhoea), during or after sexual intercourse (dyspareunia and post-coital pain) or be present as other pelvic pain occurring in a cyclical or non-cyclical pattern (<LINK REF="REF-Fauconnier-2005" TYPE="REFERENCE">Fauconnier 2005</LINK>). More rarely, endometriotic lesions may occur outside the pelvic region and these may also cause cyclical pain (<LINK REF="REF-Lancaster-1995" TYPE="REFERENCE">Lancaster 1995</LINK>). The prevalence of symptomatic endometriosis in the general population is hard to estimate. In one study of women with chronic pelvic pain presenting to primary care 4.1% were diagnosed with endometriosis, although there was often delay in making the diagnosis as it was frequently preceded by other incorrect diagnoses (<LINK REF="REF-Zondervan-1999" TYPE="REFERENCE">Zondervan 1999</LINK>). Women who suffer from symptomatic endometriosis report significant reduction in their quality of life, with impact on many aspects of life (<LINK REF="REF-Jones-2004" TYPE="REFERENCE">Jones 2004</LINK>). Endometriosis can also be found in asymptomatic women; for example, during a routine surgical procedure such as sterilisation.</P>
+<P>Endometriosis is defined histologically as the presence of endometrial glands or stroma in sites other than the uterine cavity, most commonly the ovaries and peritoneum. The main pathological processes associated with endometriosis are peritoneal inflammation and fibrosis and the formation of adhesions and ovarian cysts. The aetiology of endometriosis remains unclear although there is now considerable evidence that it is a complex genetic trait (<LINK REF="REF-Barlow-2005" TYPE="REFERENCE">Barlow 2005</LINK>). Retrograde menstrual flow has long been accepted to be central to the development of endometriosis. This is unlikely to be an exclusive mechanism as retrograde menstrual flow is not limited to women who develop endometriosis (<LINK REF="REF-Farquhar-2006" TYPE="REFERENCE">Farquhar 2006</LINK>). It seems likely that in affected women a genetic or immunologically linked susceptibility combines with retrograde menstruation to create endometriotic lesions (<LINK REF="REF-Crosignani-2006" TYPE="REFERENCE">Crosignani 2006</LINK>). </P>
+<P>Definitive diagnosis is made by surgical inspection of the peritoneal cavity (<LINK REF="REF-Kennedy-2006" TYPE="REFERENCE">Kennedy 2006</LINK>).Treatment options include surgical removal of the abnormal tissue; hormonal treatment; or a combination of both (<LINK REF="REF-Yap-2004" TYPE="REFERENCE">Yap 2004</LINK>). The aim of treatment has been to remove or decrease the activity of the deposits of ectopic endometrium that are thought to be responsible for the symptoms of endometriosis. This can be achieved surgically by destroying or removing the implants. Medical therapies aim to induce atrophy within the hormonally-dependent ectopic endometrium. Unfortunately endometriosis tends to recur, both following surgery and when medication is stopped. </P>
+<P>The clinical observation of apparent symptom resolution during pregnancy gave rise to the concept of treating patients with a pseudopregnancy regime (<LINK REF="REF-Kistner-1959" TYPE="REFERENCE">Kistner 1959</LINK>). Combinations of high-dose oestrogens and progestogens were first used then progestogens alone (<LINK REF="REF-Kistner-1958" TYPE="REFERENCE">Kistner 1958</LINK>). High doses of oestrogen and progestogen are now only very rarely prescribed and modern low-dose combined oral contraceptive pills (OCPs) are used in clinical practice without much high level evidence of their effectiveness. The OCP has been observed to reduce menstrual flow and decidualisation of endometriotic implants with decreased cell proliferation and increased apoptosis (<LINK REF="REF-Meresman-2002" TYPE="REFERENCE">Meresman 2002</LINK>). For some time there has also been epidemiological evidence that the current use of the OCP is associated with a reduced incidence of endometriosis (<LINK REF="REF-Vessey-1993" TYPE="REFERENCE">Vessey 1993</LINK>). Moreover, the OCP has the great advantage over other hormonal treatments in that it can be taken indefinitely and is generally more acceptable to women than alternative hormonal treatments, which improves compliance. </P>
+<P>Current guidelines suggest that empirical treatment, without first performing a diagnostic laparoscopy, with an OCP can be given to treat pain symptoms suggestive of endometriosis(<LINK REF="REF-Kennedy-2005" TYPE="REFERENCE">Kennedy 2005</LINK>). This review evaluated the evidence for the OCP in women who suffer pain in association with endometriosis. </P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To determine the effectiveness, safety and cost-effectiveness of oral contraceptive preparations in the treatment of painful symptoms ascribed to the diagnosis of endometriosis. </P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-11-10 12:58:02 +1300" MODIFIED_BY="jane clarke">
+<SELECTION_CRITERIA MODIFIED="2008-11-10 12:58:02 +1300" MODIFIED_BY="jane clarke">
+<CRIT_STUDIES>
+<P>All truly randomised controlled comparisons of the use of OCPs in the treatment of symptomatic endometriosis were included. Trials with no treatment rather than a placebo arm were included and were analysed separately. Quasi-randomised controlled trials were not included. Crossover studies were only included if pre-crossover data were available. </P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>This review considered studies that included women of reproductive age who complained of symptoms ascribed to the diagnosis of endometriosis. The diagnosis must have been established during a surgical procedure performed prior to the start of treatment. Studies in both primary and secondary healthcare settings were considered. </P>
+<P>Trials where women had asymptomatic disease or infertility alone were not considered. Trials of intervention lasting less than three months were not considered. </P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2008-11-10 12:58:02 +1300" MODIFIED_BY="jane clarke">
+<P>We aimed to consider the following comparisons.</P>
+<P>1. Combined OCP versus placebo.</P>
+<P>2. Combined OCP versus no treatment.</P>
+<P>3. Combined OCP versus other medical therapies (danazol, gonadotrophin releasing hormone analogues, progestogens, anti progestogens, levonorgestrel releasing intrauterine systems).</P>
+<P>4. Combined OCP versus conservative surgical treatment.</P>
+<P>Only those treatments intended to relieve symptoms were considered. Modern OCPs (defined as an ethinyl estradiol dose less than or equal to 35 mcg) taken conventionally, continuously or in a tricycle regimen versus any other medical therapy, no treatment or placebo were considered irrespective of dosage, route of administration or duration of treatment. Studies comparing the OCP with medical therapy included the use of levonorgestrel releasing intrauterine systems. Studies comparing the OCP with surgical excision or laser ablation of endometriotic implants or those that claimed to interrupt neural pathways (presacral neurectomy or laparoscopic uterosacral nerve ablation) were also considered.</P>
+<P>Studies involving surgical removal of pelvic organs were not considered. Studies of alternative or complementary therapies were also excluded. Studies exploring the use of hormonal treatment as an adjunct to surgery or other medical treatment for endometriosis were not considered.</P>
+<P>All studies were included whether the duration of symptoms were specified or not.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>
+<B>
+<I>
+<BR/>Primary outcome measures</I>
+</B>
+</P>
+<P>Pain symptoms of endometriosis and dysmenorrhea: recurrence, frequency and severity (pain scores, days lost off work, use of pain killers) </P>
+<P>
+<B>
+<I>Secondary outcome measures </I>
+</B>
+</P>
+<UL>
+<LI>Cyclical pain not associated with menstruation: recurrence, frequency and severity (pain scores, days lost off work, use of pain killers) </LI>
+<LI>Lower abdominal or pelvic pain of a non-cyclical nature: recurrence, frequency and severity (pain scores, days lost off work, use of pain killers) </LI>
+<LI>Dyspareunia (pain during sexual intercourse): recurrence, frequency and severity (pain scores, days lost off work, use of pain killers) </LI>
+<LI>Post-coital pain (pain following sexual intercourse): recurrence, frequency and severity (pain scores, days lost off work, use of pain killers) </LI>
+<LI>Dyschezia (pain on defecation): recurrence, frequency and severity (pain scores, days lost off work, use of pain killers) </LI>
+<LI>Any other pain symptom ascribed to endometriosis </LI>
+<LI>Patient satisfaction </LI>
+<LI>Withdrawal from treatment group: rates </LI>
+<LI>Side effects occurring during therapy (including pregnancy) </LI>
+<LI>Side effects persisting after treatment </LI>
+<LI>Economic evaluations </LI>
+</UL>
+<P>
+<BR/>Measures of subjective symptomatic relief (of any or all symptoms) were assessed using quantitative measures (such as visual analogue scales) or qualitative measures (such as the terms cured, better, same or worse). Outcome measures for each pain symptom were considered at the end of treatment and, when possible, three, six, nine, twelve and eighteen months later. Symptom recurrence could occur both during treatment and after the end of treatment. </P>
+<P>Objective evaluation of resolution of endometriotic implants at second-look laparoscopy was also assessed, where possible, using standard scoring systems such as the revised American Society of Reproductive Medicine classification system (<LINK REF="REF-ASRM-1997" TYPE="REFERENCE">ASRM 1997</LINK>). </P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-11-10 12:57:44 +1300" MODIFIED_BY="jane clarke">
+<P>All publications which described (or might describe) randomised controlled trials (RCTs) of any OCP in the treatment of symptomatic endometriosis were obtained using the following search strategy.</P>
+<P>(1) The Menstrual Disorders and Subfertility Group Specialised Register of controlled trials was searched for any trials with oral contraceptive pill (OCP) 'AND' endometriosis in the title, abstract or keywords sections. See the Review Group Module on The Cochrane Library for more details on the Specialised Register.</P>
+<P>(2) The Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library 2004, Issue 3, 2006 was also searched in all fields using the following words:<BR/>oral contraceptive pill (OCP), endometriosis.</P>
+<P>(3) MEDLINE (1966 to present) and EMBASE (1980 to present) were searched with a standard Menstrual Disorders and Subfertility Group filter for identifying randomised controlled trials combined with the following subject headings (MeSH terms) and keywords see <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+<P>(4) The National Research Register (NRR) (a register of ongoing and recently completed research projects funded by or of interest to the United Kingdom's National Health Service as well as entries from the Medical Research Council Clinical Trials Register and details on reviews in progress collected by the NHS Centre for Reviews and Dissemination) was searched for any trials with oral contraceptive pill (OCP) and endometriosis as keywords.</P>
+<P>(5) The citation lists of relevant publications, review articles, abstracts of scientific meetings and included studies were also handsearched.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>Titles and abstracts of studies identified as a result of the search strategy were independently scanned for inclusion by two review authors (LJD and CF). Trials which appeared relevant were selected and formally assessed for inclusion or exclusion on the basis of relevance and quality by the two independent review authors. If uncertainty arose as to the suitability of the trial for inclusion, or there was a discrepancy in the assessments of the two review authors, then a third review author (AP) assessed the study. If necessary, further information was sought from the principal investigator. A table was produced at this point listing the trials excluded on the basis of quality. </P>
+<P>Trial quality was assessed using a form designed for this review. We collected information on the following characteristics. <BR/>(1) Method of randomisation: <BR/>(a) randomised allocation - method of randomisation clearly stated and correct; <BR/>(b) randomised allocation - method of randomisation not stated or unclear .<BR/>(2) Allocation concealment: <BR/>(a) randomisation sequence adequately concealed; <BR/>(b) allocation concealment unclear; <BR/>(c) allocation concealment inadequate. <BR/>(3) Blinding: <BR/>(a) presence or absence of blinding of participants; <BR/>(b) presence or absence of blinding of outcome assessors. <BR/>(4) Power calculation reported. <BR/>(5) Intention-to-treat analysis stated or implied. <BR/>(6) Publication as full paper or abstract only. </P>
+<P>A table showing the assessment of the quality of trials was developed as part of the review. </P>
+<P>Sensitivity analysis was performed to investigate the validity of trials using allocation concealment. </P>
+<P>
+<B>Data extraction</B>
+</P>
+<P>Data were extracted by the same two review author assessors (LJD and AP). One of the assessors is an expert in the content matter (AP). </P>
+<P>Information collected for each trial included: location of study; methods of the study; details about participants; nature of the interventions; and information pertinent to the outcomes specified in this review. Missing data were collected from the authors, where possible. </P>
+<P>
+<B>Analysis<BR/>
+</B>
+<BR/>Statistical analysis was performed in accordance with the guidelines for statistical analysis developed by the Menstrual Disorders and Subfertility Group. Heterogeneity between the results of different studies was examined by inspecting the scatter in the data points and the overlap in their confidence intervals. It was assessed more formally by checking the results of the chi-squared tests and the I-squared value. It was planned a priori to look at the possible contribution of differences in trial design, medical treatment used, timing of treatment, dosage and duration of treatment to any heterogeneity identified. Sensitivity analyses, based on these criteria, were performed to investigate the robustness of the data. </P>
+<P>Where possible, the outcomes were pooled statistically. For dichotomous data (for example, proportion of patients with a specific adverse side effect) results for each study were expressed as an odds ratio (OR) with 95% confidence interval (CI) and combined for meta-analysis with RevMan software using the Peto-modified Mantel-Haenszel method. </P>
+<P>Continuous differences between groups in the meta-analysis (for example, multidimensional pain scores) were shown as weighted mean differences (WMD) and 95% confidence intervals (CI). A fixed-effect approach was used unless there was significant heterogeneity as determined by the Chi-squared test or the I-squared test, in which case results were investigated using a random-effects statistical model. Sources of heterogeneity were investigated as stated above. </P>
+<P>Where neither continuous nor dichotomous data that was suitable for the calculation of weighted mean difference or relative risk was extracted from a trial, any available data were reported descriptively in the additional data tables. It was expected that the data for outcomes of pain would be skewed rather than normally distributed. Any skewing is described in the results section.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-11-10 13:02:00 +1300" MODIFIED_BY="jane clarke">
+<STUDY_DESCRIPTION MODIFIED="2008-11-10 12:58:16 +1300" MODIFIED_BY="jane clarke">
+<P>The original search strategy of this review (1996) identified four studies. One was excluded because the dose of cyproterone acetate, used in combination with ethinyl estradiol (35 mcg), was more than ten times that used in the equivalent contraceptive preparation (<LINK REF="STD-Fedele-1989" TYPE="STUDY">Fedele 1989</LINK>). The results were, therefore, unlikely to be applicable to modern low-dose contraceptive preparations and the dosage of the progestogen used (cyproterone acetate) was such that this treatment could be considered as progestogenic therapy. The role of progestogens in endometriosis is a subject of another review. Another study was excluded because the dose of oestrogen was 0.05 mg of ethinyl estradiol, which did not meet inclusion criteria (<LINK REF="STD-Shturkalev-1970" TYPE="STUDY">Shturkalev 1970</LINK>). Another trial used medical treatment as an adjunct to surgery so it also could not be included (<LINK REF="STD-Vercellini-2002" TYPE="STUDY">Vercellini 2002</LINK>). Medical treatments as an adjunct to surgery are the subject of another review (<LINK REF="REF-Yap-2004" TYPE="REFERENCE">Yap 2004</LINK>).</P>
+<P>Updated searches performed in 2006 found 552 titles, which were scanned for inclusion and exclusion criteria, but did not identify any new studies suitable for inclusion.</P>
+<P>Only one study was, therefore, suitable for inclusion in this review (<LINK REF="STD-Vercellini-1993" TYPE="STUDY">Vercellini 1993</LINK>).</P>
+<P>
+<B>Description of participants </B>
+</P>
+<P>Fifty-seven patients with a laparoscopically confirmed diagnosis of endometriosis were included in the study. Patients who had received any hormonal therapy within the last three months were excluded, as were patients with contraindications to the OCP. No surgery other than biopsy had been performed in the three months prior to recruitment.</P>
+<P>There was no evidence of significant differences in height, weight, age, parity or AFSEXPLAIN (now known as ASRM) scores between the two treatment groups. In total, 57 women were randomised to the two groups (goserelin, n = 29; OCP, n = 28).</P>
+<P>
+<B>Description of interventions </B>
+</P>
+<P>The interventions were treatment for six months with either the low-dose OCP (0.02 mg ethinyl estradiol with 0.15 mg desogestrel daily taken cyclically) or a monthly subcutaneous injection of goserelin 3.6 mg. The dose of ethinyl estradiol in the contraceptive group was increased to 0.03 mg if breakthrough bleeding occurred.</P>
+<P>
+<B>Description of outcomes </B>
+</P>
+<P>Pain was assessed using both linear analogue and verbal rating scales for each of the three symptoms: dysmenorrhoea, dyspareunia and non-menstrual pain. Scores were then categorised into 'absent', 'mild', 'moderate' or 'severe' pain. To be included, women had to have at least one moderate or severe symptom on each pain scale.</P>
+<P>Pain was reassessed at the end of treatment and after six month follow up. The numbers of women at trial entry, at the end of treatment and at the end of follow up who had either no pain or any pain (mild, moderate or severe) were calculated from the data presented. For each symptom group and for each assessment method (that is, linear analogue or verbal rating scale) the denominator was the number of women originally complaining of that symptom. The numerator was the number of women with that symptom who did not become pain free by the end of treatment or at follow up.</P>
+<P>The prevalence of side effects during treatment was noted for each group.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-11-10 13:02:00 +1300" MODIFIED_BY="jane clarke">
+<P>
+<B>see</B>
+<LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>; <LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK>
+</P>
+<P/>
+<P>
+<B>Randomisation<BR/>
+</B>Randomisation was by means of a 'randomisation list' and so was rated B (unclear) according to the Review Group methodology.</P>
+<P>
+<B>Allocation concealment </B>
+<BR/>Allocation methods were not described in this study and so concealment was rated B (unclear).<BR/>
+<B>
+<BR/>Blinding </B>
+<BR/>Goserelin, a GnRH analogue, was used as the control in this trial. No attempt was made to blind the assessors or the patients because amenorrhoea was obviously induced in the control group.</P>
+<P>
+<B>Power calculation </B>
+<BR/>A power calculation for the study was given. Based on a 35% recurrence rate of moderate to severe pelvic pain at the end of follow up in women taking goserelin the study would have had an 80% chance of detecting double the recurrence rate in the OCP group at the 5% level.</P>
+<P>
+<B>Intention to treat </B>
+<BR/>Analysis of the data by intention to treat was not performed and efficacy analysis was only carried out on data which were actually collected. The study can be viewed as an 'available case analysis'.</P>
+<P>
+<B>Loss to follow up </B>
+<BR/>Seven women were not included in the follow up data. During the first review, the study authors were approached for additional data about the excluded patients but no additional data has since been made available.</P>
+<P>
+<B>Funding </B>
+<BR/>The funding source for the study was unclear.</P>
+<P>Further details on the quality of the study can be found in the 'Quality of included studies' table.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-11-10 12:58:17 +1300" MODIFIED_BY="jane clarke">
+<P>
+<B>Dysmenorrhoea </B>
+<BR/>The women in the OCP group reported a reduction in dysmenorrhoea during treatment. However, as the women in the goserelin group became amenorrhoeic during treatment no comparisons of dysmenorrhoea during treatment could be made. At the end of the six month follow-up period, there was no evidence of a significant difference between the groups with regard to reduction in recurrence of dysmenorrhoea following treatment (OR 0.48; 95% CI, 0.08 to 2.90).</P>
+<P>
+<B>Cyclical pain not associated with menstruation </B>
+<BR/>No data were presented.<BR/>
+<B>
+<BR/>Lower abdominal pain or pelvic pain of a non-cyclical nature </B>
+<BR/>The study reported on non-menstrual pain, which we interpreted as falling into this outcome bracket. No evidence of a significant difference in non-menstrual pain (OR 0.93; CI 0.25 to 3.53) between the groups was observed.</P>
+<P>
+<B>Dyspareunia </B>
+<BR/>At the end of treatment a significant reduction in deep dyspareunia was observed in both groups. However, no evidence of a significant difference between the two treatment groups was observed at the end of treatment for dyspareunia overall? (OR 4.87; 95% CI 0.96 to 24.65). In the OCP group one woman developed dyspareunia de novo during the study period. No women reported that the pain had resolved completely (described as 0% improvement in the analysis). A persistent significant reduction in deep dyspareunia, from baseline through to the end of follow up, was reported in the goserelin group (OR 6.69; CI 0.13 - 338.79) using a linear analogue scale but this was not reflected in verbal ratings in either the dichotomised or continuous analyses of data.</P>
+<P>
+<B>Post-coital pain </B>
+<BR/>No data were presented.</P>
+<P>
+<B>Dyschezia </B>
+<BR/>No data were presented.</P>
+<P>
+<B>Any other symptom ascribed to endometriosis </B>
+<BR/>No data were presented.</P>
+<P>
+<B>Patient satisfaction </B>
+<BR/>No data were presented.</P>
+<P>
+<B>Withdrawal from treatment group: rates </B>
+<BR/>Seven women in total withdrew from the study: because of pregnancy (n = 1), lost to follow up (n = 1) and use of additional hormonal therapy after the end of treatment (n = 1) in the goserelin group; and lost to follow up (n = 1), additional hormonal therapy (n = 2) and side effects (n = 1) in the OCP group.</P>
+<P>
+<B>Side effects occurring during therapy </B>
+<BR/>Six women in the OCP group experienced intermenstrual bleeding and were given a higher dose of ethinyl estradiol (from 0.02 mg to 0.03 mg). One of the women in this group experienced severe headaches and subsequently withdrew from the study (see above). Hot flushes, insomnia and vaginal dryness were significantly more common in the goserelin group. Headache and weight gain tended to be more common in the OCP group.</P>
+<P>
+<B>Side effects persisting after therapy </B>
+<BR/>No data were presented.<BR/>
+<B>
+<BR/>Economic evaluation </B>
+<BR/>No data were presented.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>There continues to be surprisingly little literature about the treatment of endometriosis with OCPs despite their apparent widespread use in clinical practice. Only one study has been identified using our search strategy. We have, therefore, been unable to comment on most of the comparisons identified for our objectives. </P>
+<P>In the study included in this review the power calculation became invalid as a result of a higher than expected recurrence rate of pain in the goserelin group (77% recurrence rather than the 35% that was used in the power calculation), rendering the study underpowered. Hence the study may have failed to detect a difference in efficacy between the OCP and goserelin. </P>
+<P>In this analysis we have used complete resolution of pain as the desired outcome rather than improvement from moderate or severe pain to mild or absent pain. It could be argued that women will accept a mild degree of menstrual pain. We, therefore, re analysed the data using the presence of moderate or severe pain as the denominator. The statistical significance of the results was unchanged, apart from a statistically significant difference in the linear analogue score for dyspareunia at the end of treatment only which was not mirrored in the verbal rating scale. The full results can be seen in the analysis tables. </P>
+<P>Although goserelin is more effective at relieving dysmenorrhoea and possibly dyspareunia during treatment, the study suggests that symptom relief with the OCP is at least as good as goserelin six months after treatment has ended. Since significantly more side effects occur with goserelin, the OCP might be preferable overall. </P>
+<P>Endometriosis is a recurring disease and medical therapy should be viewed as symptom control rather than a cure. At present the use of GnRH analogues is limited to six months because of associated bone loss. The duration of other medical treatments is also limited to six months in the first instance because of unwanted metabolic effects. The OCP has the great advantage that it can be taken indefinitely. Although serious side effects, such as thrombo-embolic episodes, may occur with treatment the risk is not cumulative.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>In the treatment of non-menstrual pain, this study showed no significant difference between goserelin and the oral contraceptive pill (OCP) in pain scores at the end of treatment. Six months after treatment, symptoms had recurred in all patients. </P>
+<P>No comparison of dysmenorrhoea during treatment could be made as goserelin induces amenorrhoea. However, six months after treatment no women in either group had experienced complete resolution of dysmenorrhoea. </P>
+<P>There was no significant difference between the OCP and goserelin in the treatment of dyspareunia, either at the end of treatment or after six months follow up. </P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Endometriosis is a common disease and the treatments currently available have unpleasant side effects of one kind or another. For all hormonal treatments other than the OCP the duration of therapy is limited, at least theoretically. It is well known that symptoms frequently recur when medication is stopped. If the OCP could be shown to be at least as effective as the existing well recognised therapies, it would offer a wider choice of treatment options, including long-term symptom control. </P>
+<P>There continues to be a need for larger studies of OCP use for pain in endometriosis, accompanied by measures of patient satisfaction. However, the tendencies to treat endometriosis associated symptoms in the absence of a surgical diagnosis and surgically confirmed disease at the initial laparoscopy may make such studies difficult to perform. Studies which compare the OCP with other hormonal contraceptives, such as the levonorgestrel-releasing intrauterine system, would be welcomed.<BR/>
+<B>
+<BR/>
+</B>
+<B>
+<I>Implications for patients <BR/>
+</I>
+</B>
+<BR/>There is little evidence available about the use of the oral contraceptive pill (OCP) in the treatment of endometriosis. The one small study identified here suggests that goserelin (one of the family of drugs called GnRH analogues) and the OCP (taken in the usual way) are equally effective at treating non-menstrual pain, but goserelin is more effective at treating period pain (mainly because it stops women having periods). </P>
+<P>Goserelin would certainly seem to have worse side effects (hot flushes, vaginal dryness and insomnia) and it can only be taken for six months at a time. Although there are some women who cannot take the OCP (such as those with a history of thrombosis) it may offer an acceptable long-term alternative treatment for pain symptoms in endometriosis. </P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>Thank you to the editorial base in Auckland </P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known<BR/> </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Lucy-Jane Davis prepared the update by revising the methodology and the search string.</P>
+<P>Kennedy SS, Moore J, Prentice A all contributed to the drafts.</P>
+<P>
+<BR/>
+</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-11-10 13:05:39 +1300" MODIFIED_BY="jane clarke">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vercellini-1993" NAME="Vercellini 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vercellini P, Trespidi L, Colombo A, Vendola N, Marchini M, Crosignani PG</AU>
+<TI>A gonadotrophin-releasing hormone agonist versus a low-dose oral contraceptive for pelvic pain associated with endometriosis</TI>
+<SO>Fertility and Sterility</SO>
+<YR>1993</YR>
+<VL>60(1)</VL>
+<PG>75-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fedele-1989" NAME="Fedele 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fedele L, Arcaini L, Bianchi S, Baglioni A, Vercillini P</AU>
+<TI>Comparison of cyproterone acetate and danazol in the treatment of pelvic pain associated with endometriosis</TI>
+<SO>Obstetrics and Gynecology</SO>
+<YR>1989</YR>
+<VL>73(6)</VL>
+<PG>1000-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shturkalev-1970" NAME="Shturkalev 1970" YEAR="1970">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shturkalev I, Katsulov A</AU>
+<TI>Results of clinical trials of ovostat as a contraceptive and therapeutic agent</TI>
+<SO>Akusherstvo i Ginekologiia</SO>
+<YR>1970</YR>
+<VL>9(5)</VL>
+<PG>383-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vercellini-2002" NAME="Vercellini 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vercellini P, De Giorgi O, Mosconi P, Stellato G, Vicentini S, Crosignani PG</AU>
+<TI>Cyproterone acetate versus a continuous monophasic oral contraceptive in the treatment of recurrent pelvic pain after conservative surgery for symptomatic endometriosis</TI>
+<SO>Fertility and Sterility</SO>
+<YR>2002</YR>
+<VL>77</VL>
+<NO>1</NO>
+<PG>52-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-11-10 13:05:39 +1300" MODIFIED_BY="jane clarke">
+<ADDITIONAL_REFERENCES MODIFIED="2008-11-10 13:05:39 +1300" MODIFIED_BY="jane clarke">
+<REFERENCE ID="REF-ASRM-1997" NAME="ASRM 1997" TYPE="JOURNAL_ARTICLE">
+<AU>American Society of Reproductive Medicine</AU>
+<TI>Revised American Society of Reproductive Medicine Classification of Endometriosis: 1996</TI>
+<SO>Fertility and Sterility</SO>
+<YR>1997</YR>
+<VL>67</VL>
+<NO>5</NO>
+<PG>817-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Barlow-2005" NAME="Barlow 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Barlow DH, Kennedy S</AU>
+<TI>Endometriosis: New Genetic Approaches and Therapy</TI>
+<SO>Annual Review of Medicine</SO>
+<YR>2005</YR>
+<VL>56</VL>
+<PG>345-56</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Crosignani-2006" NAME="Crosignani 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Crosignani P, Olive D, Bergqvist A, Luciano A</AU>
+<TI>Advances in the management of endometriosis: an update for clinicians</TI>
+<SO>Human Reproduction Update</SO>
+<YR>2006</YR>
+<VL>12</VL>
+<NO>2</NO>
+<PG>179-89</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Farquhar-2006" NAME="Farquhar 2006" TYPE="UNPUBLISHED">
+<AU>Farquhar C</AU>
+<TI>Endometriosis</TI>
+<SO>British Medical Journal</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fauconnier-2005" NAME="Fauconnier 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Fauconnier A, Chapron C</AU>
+<TI>Endometriosis and pelvic pain: epidemiological evidence of the relationship and its implications</TI>
+<SO>Human Reproduction Update</SO>
+<YR>2005</YR>
+<VL>11</VL>
+<NO>5</NO>
+<PG>595-606</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jacobson-2002" MODIFIED="2008-11-10 13:05:39 +1300" MODIFIED_BY="jane clarke" NAME="Jacobson 2002" TYPE="COCHRANE_REVIEW">
+<AU>Jacobson TZ, Barlow DH, Koninkx PR, Olive D, Farquhar C</AU>
+<TI>Laparoscopic surgery for subfertility associated with endometriosis.</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>4</NO>
+<PB>John Wiley &amp; Sons</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS MODIFIED="2008-11-10 13:05:39 +1300" MODIFIED_BY="jane clarke">
+<IDENTIFIER MODIFIED="2008-11-10 13:05:39 +1300" MODIFIED_BY="jane clarke" TYPE="DOI" VALUE=" 10.1002/14651858.CD001300"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Jones-2004" NAME="Jones 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Jones G, Jenkinson C, Kennedy S</AU>
+<TI>The impact of endometriosis upon quality of life: a qualitative analysis</TI>
+<SO>Journal of Psychosomatic Obstetrics and Gynaecology</SO>
+<YR>2004</YR>
+<VL>25</VL>
+<PG>123-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kennedy-2005" NAME="Kennedy 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Kennedy S, Bergqvist A, Chapron C, D'Hooghe T, Dunselman G, Greb R, Hummelshoj L, Prentice A, Saridogan E on behalf of the ESHRE Special interest group for Endometriosis and Endometrium Guideline Development Group</AU>
+<TI>ESRHE guideline for the diagnosis and treatment of endometriosis</TI>
+<SO>Human Reproduction</SO>
+<YR>2005</YR>
+<VL>20</VL>
+<NO>10</NO>
+<PG>2698-704</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kennedy-2006" NAME="Kennedy 2006" TYPE="OTHER">
+<AU>Kennedy 2000 on behalf of the Guidelines and Audit committee of the Royal College of Obstetricians and Gynaecologist</AU>
+<TI>The Investigation and Management of Endometriosis 24</TI>
+<SO>Royal College of Obstetricians and Gynaecologists: Green Top Guidelines</SO>
+<YR>2006</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kistner-1958" NAME="Kistner 1958" TYPE="JOURNAL_ARTICLE">
+<AU>Kistner RW</AU>
+<TI>The use of newer progestins in the treatment of endometriosis</TI>
+<SO>American Journal of Obstetrics and Gynecology</SO>
+<YR>1958</YR>
+<VL>75</VL>
+<PG>264-78</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kistner-1959" NAME="Kistner 1959" TYPE="JOURNAL_ARTICLE">
+<AU>Kistner RW</AU>
+<TI>Treatment of endometriosis by inducing pseudo-pregnancy with ovarian hormones</TI>
+<SO>Fertility and Sterility</SO>
+<YR>1959</YR>
+<VL>10</VL>
+<PG>539-54</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lancaster-1995" NAME="Lancaster 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Lancaster JM, Prentice A, Smith SK</AU>
+<TI>Successful medical treatment of sub-diagphragmatic endometriosis</TI>
+<SO>Journal of Obstetrics and Gynaecology</SO>
+<YR>1995</YR>
+<VL>15</VL>
+<PG>206-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Meresman-2002" NAME="Meresman 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Meresman GF, Auge L, Baranoa RI, Lombardi E, Tesone M, Sueldo C</AU>
+<TI>Oral contraceptives suppress cell proliferation and enhance apoptosis of ectopic endometrial tissue from patients with endometriosis</TI>
+<SO>Fertility and Sterility</SO>
+<YR>2002</YR>
+<VL>77</VL>
+<NO>6</NO>
+<PG>1141-47</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Vessey-1993" NAME="Vessey 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Vessey MP, Villard-Mackintosh L, Painter R</AU>
+<TI>Epidemiology of endometriosis in women attending family planning clinics</TI>
+<SO>British Medical Journal</SO>
+<YR>1993</YR>
+<VL>306</VL>
+<PG>182-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yap-2004" MODIFIED="2008-11-10 13:04:51 +1300" MODIFIED_BY="jane clarke" NAME="Yap 2004" TYPE="COCHRANE_REVIEW">
+<AU>Yap C, Furness S, Farquhar C</AU>
+<TI>Pre and post operative medical therapy for endometriosis surgery</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>3</NO>
+<PB>John Wiley &amp; Sons</PB>
+<CY>Auckland</CY>
+<IDENTIFIERS MODIFIED="2008-11-10 13:04:51 +1300" MODIFIED_BY="jane clarke">
+<IDENTIFIER MODIFIED="2008-11-10 13:04:51 +1300" MODIFIED_BY="jane clarke" TYPE="DOI" VALUE=" 10.1002/14651858.CD003678.pub2."/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Zondervan-1999" NAME="Zondervan 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Zondervan KT, Yudkin PL, Vessy MP, Dawes MG, Barlow DH, Kennedy SH</AU>
+<TI>Patterns of diagnosis and referral in women consulting for chronic pelvic pain in UK primary care</TI>
+<SO>British Journal of Obstetrics and Gynaecology</SO>
+<YR>1999</YR>
+<VL>106</VL>
+<PG>1156-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-11-10 13:00:57 +1300" MODIFIED_BY="jane clarke">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-11-10 13:00:57 +1300" MODIFIED_BY="jane clarke" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-11-10 13:00:57 +1300" MODIFIED_BY="jane clarke" STUDY_ID="STD-Vercellini-1993">
+<CHAR_METHODS>
+<P>Randomisation method was unclear<BR/>Allocation concealment was unclear<BR/>No blinding of study participants, investigators or assessors<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>57 women with laparoscopically diagnosed endometriosis and at least one moderate or severe pain symptom as judged by both a verbal rating scale and a visual analogue scale</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 12:58:19 +1300" MODIFIED_BY="jane clarke">
+<P>goserelin 3.6 mg subcutaneous depot formulation monthly for 6 months<BR/>or<BR/>cyclic low dose monophasic contraceptive pill, containing 0.02 mg ethinyl estradiol and 0.15 mg desogestrel (dose increased to 0.03 mg ethinyl estradiol if spotting occurred)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Change in pain scores (visual analogue and verbal rating scales) after 6 months treatment and after 6 months follow up<BR/>Occurrence of side effects<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 13:00:57 +1300" MODIFIED_BY="jane clarke">
+<P>Power calculation completed</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-11-10 12:58:20 +1300" MODIFIED_BY="jane clarke" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Fedele-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Dose of cyproterone acetate used was 27 mg. Dose in modern contraceptive (Dianette) is 2 mg. Therefore, therapeutic effect of trial medication unlikely to be extendable to modern low-dose contraceptives.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 12:58:20 +1300" MODIFIED_BY="jane clarke" STUDY_ID="STD-Shturkalev-1970">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 12:58:20 +1300" MODIFIED_BY="jane clarke">
+<P>Trial published in Bulgarian. English abstract stated that the included oral contraceptive was Ovostat, which contained 0.05 mg ethinyl estradiol - therefore, does not meet inclusion criteria of a 'modern' oral contraceptive.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Vercellini-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Medical treatment was used as an adjunct to surgery, a criterion for exclusion.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-11-10 13:00:31 +1300" MODIFIED_BY="jane clarke">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2008-11-10 13:00:04 +1300" MODIFIED_BY="jane clarke" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Vercellini-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Vercellini-1993">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2008-11-10 13:00:19 +1300" MODIFIED_BY="jane clarke" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-10 13:00:19 +1300" MODIFIED_BY="jane clarke" RESULT="NO" STUDY_ID="STD-Vercellini-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2008-11-10 13:00:31 +1300" MODIFIED_BY="jane clarke" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-10 13:00:31 +1300" MODIFIED_BY="jane clarke" RESULT="YES" STUDY_ID="STD-Vercellini-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2008-11-10 13:00:04 +1300" MODIFIED_BY="jane clarke" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Vercellini-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2008-11-10 13:00:04 +1300" MODIFIED_BY="jane clarke" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Vercellini-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-11-10 13:01:06 +1300" MODIFIED_BY="jane clarke"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>OCP versus goserelin; reduction of pain to mild or zero</NAME>
+<DICH_OUTCOME CHI2="8.91610900595466" CI_END="4.908718374519895" CI_START="0.9791102397586104" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="OR" EFFECT_SIZE="2.1922993464816045" ESTIMABLE="YES" EVENTS_1="49" EVENTS_2="38" I2="66.3530358590677" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.6909681162513309" LOG_CI_START="-0.009168407457844183" LOG_EFFECT_SIZE="0.34089985439674336" METHOD="MH" NO="1" P_CHI2="0.030427335585085036" P_Q="0.0" P_Z="0.056309599236605216" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="90" TOTAL_2="88" WEIGHT="400.0" Z="1.9086318577206645">
+<NAME>Dysmenorrhoea</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="383.9653060190234" CI_START="1.0896516513169998" DF="0.0" EFFECT_SIZE="20.454545454545453" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="0" I2="0.0" ID="CMP-001.01.01" LOG_CI_END="2.5842919845623324" LOG_CI_START="0.03728768134394234" LOG_EFFECT_SIZE="1.3107898329531373" NO="1" P_CHI2="1.0" P_Z="0.04365889487558318" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="22" WEIGHT="99.99999999999999" Z="2.01735101950406">
+<NAME>Dysmenorrhoea (Linear Analogue scale) end of treatment</NAME>
+<DICH_DATA CI_END="383.9653060190234" CI_START="1.0896516513169998" EFFECT_SIZE="20.454545454545453" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="0" LOG_CI_END="2.5842919845623324" LOG_CI_START="0.03728768134394234" LOG_EFFECT_SIZE="1.3107898329531373" ORDER="93134" O_E="0.0" SE="1.4961229355851204" STUDY_ID="STD-Vercellini-1993" TOTAL_1="23" TOTAL_2="22" VAR="2.238383838383838" WEIGHT="99.99999999999999"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="2.9018604975231472" CI_START="0.07775184237580676" DF="0.0" EFFECT_SIZE="0.475" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="20" I2="0.0" ID="CMP-001.01.02" LOG_CI_END="0.46267653056479263" LOG_CI_START="-1.1092893113150597" LOG_EFFECT_SIZE="-0.3233063903751334" NO="2" P_CHI2="1.0" P_Z="0.42012061453434013" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="22" WEIGHT="100.0" Z="0.8062120234739057">
+<NAME>Dysmenorrhoea (Linear Analogue scale) end of 6 month follow up</NAME>
+<DICH_DATA CI_END="2.9018604975231472" CI_START="0.07775184237580676" EFFECT_SIZE="0.475" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="20" LOG_CI_END="0.46267653056479263" LOG_CI_START="-1.1092893113150597" LOG_EFFECT_SIZE="-0.3233063903751334" ORDER="93135" O_E="0.0" SE="0.9233805168766387" STUDY_ID="STD-Vercellini-1993" TOTAL_1="23" TOTAL_2="22" VAR="0.8526315789473684" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="337.260930513155" CI_START="0.9317895134457309" DF="0.0" EFFECT_SIZE="17.727272727272727" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="0" I2="0.0" ID="CMP-001.01.03" LOG_CI_END="2.527966033909906" LOG_CI_START="-0.030682181501320495" LOG_EFFECT_SIZE="1.248641926204293" NO="3" P_CHI2="1.0" P_Z="0.0557534376261193" STUDIES="1" TAU2="0.0" TOTAL_1="22" TOTAL_2="22" WEIGHT="100.0" Z="1.9129579363091964">
+<NAME>Dysmenorrhoea (Verbal rating) end of treatment</NAME>
+<DICH_DATA CI_END="337.260930513155" CI_START="0.9317895134457309" EFFECT_SIZE="17.727272727272727" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="0" LOG_CI_END="2.527966033909906" LOG_CI_START="-0.030682181501320495" LOG_EFFECT_SIZE="1.248641926204293" ORDER="93136" O_E="0.0" SE="1.5029626272454877" STUDY_ID="STD-Vercellini-1993" TOTAL_1="22" TOTAL_2="22" VAR="2.2588966588966586" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="3.2940712728899615" CI_START="0.17330049966709812" DF="0.0" EFFECT_SIZE="0.7555555555555555" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="18" I2="0.0" ID="CMP-001.01.04" LOG_CI_END="0.5177329916424641" LOG_CI_START="-0.7612001851086412" LOG_EFFECT_SIZE="-0.12173359673308856" NO="4" P_CHI2="1.0" P_Z="0.7090641487264164" STUDIES="1" TAU2="0.0" TOTAL_1="22" TOTAL_2="22" WEIGHT="100.0" Z="0.37311326290163066">
+<NAME>Dysmenorrhoea (Verbal rating) end of 6 month follow up</NAME>
+<DICH_DATA CI_END="3.2940712728899615" CI_START="0.17330049966709812" EFFECT_SIZE="0.7555555555555555" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="18" LOG_CI_END="0.5177329916424641" LOG_CI_START="-0.7612001851086412" LOG_EFFECT_SIZE="-0.12173359673308856" ORDER="93137" O_E="0.0" SE="0.7512516788449263" STUDY_ID="STD-Vercellini-1993" TOTAL_1="22" TOTAL_2="22" VAR="0.5643790849673203" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.5682960594689317" CI_END="3.0965178227972316" CI_START="0.49415336420480116" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="OR" EFFECT_SIZE="1.2369942196531796" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="19" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.4908735840453201" LOG_CI_START="-0.30613824360452907" LOG_EFFECT_SIZE="0.09236767022039555" METHOD="MH" NO="2" P_CHI2="0.6665996893630919" P_Q="0.0" P_Z="0.6496200140271418" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="40" TOTAL_2="50" WEIGHT="400.0" Z="0.45429013895985293">
+<NAME>Non menstrual pain</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="9.261556911735473" CI_START="0.2203534833268324" DF="0.0" EFFECT_SIZE="1.4285714285714286" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="3" I2="0.0" ID="CMP-001.02.01" LOG_CI_END="0.9666839997855672" LOG_CI_START="-0.6568800798140809" LOG_EFFECT_SIZE="0.15490195998574316" NO="1" P_CHI2="1.0" P_Z="0.7084081847255692" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="13" WEIGHT="100.0" Z="0.37399480134050017">
+<NAME>Non menstrual pain (Linear Analogue scale) end of treatment</NAME>
+<DICH_DATA CI_END="9.261556911735473" CI_START="0.2203534833268324" EFFECT_SIZE="1.4285714285714286" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="3" LOG_CI_END="0.9666839997855672" LOG_CI_START="-0.6568800798140809" LOG_EFFECT_SIZE="0.15490195998574316" ORDER="93138" O_E="0.0" SE="0.9536895771286428" STUDY_ID="STD-Vercellini-1993" TOTAL_1="10" TOTAL_2="13" VAR="0.9095238095238095" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="3.036188674037962" CI_START="0.10754621905977615" DF="0.0" EFFECT_SIZE="0.5714285714285714" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="7" I2="0.0" ID="CMP-001.02.02" LOG_CI_END="0.48232875587547264" LOG_CI_START="-0.9684048532480615" LOG_EFFECT_SIZE="-0.24303804868629447" NO="2" P_CHI2="1.0" P_Z="0.5113761067551807" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="13" WEIGHT="100.0" Z="0.6566964731530767">
+<NAME>Non menstrual pain (Linear Analogue scale) end of six month follow up</NAME>
+<DICH_DATA CI_END="3.0361886740379607" CI_START="0.10754621905977615" EFFECT_SIZE="0.5714285714285714" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="7" LOG_CI_END="0.4823287558754724" LOG_CI_START="-0.9684048532480615" LOG_EFFECT_SIZE="-0.24303804868629447" ORDER="93139" O_E="0.0" SE="0.8521681032463466" STUDY_ID="STD-Vercellini-1993" TOTAL_1="10" TOTAL_2="13" VAR="0.7261904761904762" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="10.940004019207304" CI_START="0.1428244447860099" DF="0.0" EFFECT_SIZE="1.25" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="2" I2="0.0" ID="CMP-001.02.03" LOG_CI_END="1.0390174815512725" LOG_CI_START="-0.8451974555351596" LOG_EFFECT_SIZE="0.09691001300805642" NO="3" P_CHI2="1.0" P_Z="0.8402200929837279" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="12" WEIGHT="100.0" Z="0.20161196209473198">
+<NAME>Non menstrual pain (verbal rating) end of treatment</NAME>
+<DICH_DATA CI_END="10.940004019207304" CI_START="0.1428244447860099" EFFECT_SIZE="1.25" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="2" LOG_CI_END="1.0390174815512725" LOG_CI_START="-0.8451974555351596" LOG_EFFECT_SIZE="0.09691001300805642" ORDER="93140" O_E="0.0" SE="1.1067971810589328" STUDY_ID="STD-Vercellini-1993" TOTAL_1="10" TOTAL_2="12" VAR="1.225" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="19.64905834703785" CI_START="0.41545325795997157" DF="0.0" EFFECT_SIZE="2.857142857142857" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="7" I2="0.0" ID="CMP-001.02.04" LOG_CI_END="1.2933417422694884" LOG_CI_START="-0.38147783097003973" LOG_EFFECT_SIZE="0.45593195564972433" NO="4" P_CHI2="1.0" P_Z="0.2859211824646948" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="12" WEIGHT="100.0" Z="1.0671122152530175">
+<NAME>Non menstrual pain (verbal rating) end of six month follow up</NAME>
+<DICH_DATA CI_END="19.64905834703785" CI_START="0.4154532579599717" EFFECT_SIZE="2.857142857142857" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="7" LOG_CI_END="1.2933417422694884" LOG_CI_START="-0.3814778309700396" LOG_EFFECT_SIZE="0.45593195564972433" ORDER="93141" O_E="0.0" SE="0.9837973078114937" STUDY_ID="STD-Vercellini-1993" TOTAL_1="10" TOTAL_2="12" VAR="0.9678571428571427" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="3.949895811073454" CI_END="5.322389717229995" CI_START="0.9816995457772055" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="OR" EFFECT_SIZE="2.285823170731707" ESTIMABLE="YES" EVENTS_1="34" EVENTS_2="31" I2="24.048629546390565" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.7261066713889575" LOG_CI_START="-0.008021409949186192" LOG_EFFECT_SIZE="0.3590426307198856" METHOD="MH" NO="3" P_CHI2="0.26692562033878475" P_Q="0.0" P_Z="0.05522102347263967" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="48" TOTAL_2="60" WEIGHT="400.0" Z="1.917133108006959">
+<NAME>Dyspareunia</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="68.07244330125576" CI_START="1.619598102452218" DF="0.0" EFFECT_SIZE="10.5" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="2" I2="0.0" ID="CMP-001.03.01" LOG_CI_END="1.8329713388697624" LOG_CI_START="0.20940725927011394" LOG_EFFECT_SIZE="1.021189299069938" NO="1" P_CHI2="1.0" P_Z="0.01368007099604794" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="17" WEIGHT="100.0" Z="2.4655562077578432">
+<NAME>Dyspareunia (Linear Analogue scale) end of treatment</NAME>
+<DICH_DATA CI_END="68.07244330125576" CI_START="1.619598102452218" EFFECT_SIZE="10.5" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="2" LOG_CI_END="1.8329713388697624" LOG_CI_START="0.20940725927011394" LOG_EFFECT_SIZE="1.021189299069938" ORDER="93142" O_E="0.0" SE="0.9536895771286428" STUDY_ID="STD-Vercellini-1993" TOTAL_1="12" TOTAL_2="17" VAR="0.9095238095238095" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="10.663419097076975" CI_START="0.41356341337168834" DF="0.0" EFFECT_SIZE="2.1" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" I2="0.0" ID="CMP-001.03.02" LOG_CI_END="1.0278964783220088" LOG_CI_START="-0.38345788885417026" LOG_EFFECT_SIZE="0.3222192947339193" NO="2" P_CHI2="1.0" P_Z="0.3708195709365252" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="17" WEIGHT="100.0" Z="0.8949392547896424">
+<NAME>Dyspareunia (Linear Analogue scale) end of six month follow up</NAME>
+<DICH_DATA CI_END="10.663419097076975" CI_START="0.4135634133716882" EFFECT_SIZE="2.1" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" LOG_CI_END="1.0278964783220088" LOG_CI_START="-0.38345788885417037" LOG_EFFECT_SIZE="0.3222192947339193" ORDER="93143" O_E="0.0" SE="0.8290365415960791" STUDY_ID="STD-Vercellini-1993" TOTAL_1="12" TOTAL_2="17" VAR="0.6873015873015873" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="4.776966176455427" CI_START="0.1654027739791127" DF="0.0" EFFECT_SIZE="0.8888888888888888" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="9" I2="0.0" ID="CMP-001.03.03" LOG_CI_END="0.6791521662507454" LOG_CI_START="-0.781457211145508" LOG_EFFECT_SIZE="-0.05115252244738131" NO="3" P_CHI2="1.0" P_Z="0.8908085325003671" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="13" WEIGHT="100.0" Z="0.13728119683028023">
+<NAME>Dyspareunia (verbal rating) end of treatment</NAME>
+<DICH_DATA CI_END="4.776966176455427" CI_START="0.1654027739791127" EFFECT_SIZE="0.8888888888888888" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="9" LOG_CI_END="0.6791521662507454" LOG_CI_START="-0.781457211145508" LOG_EFFECT_SIZE="-0.05115252244738131" ORDER="93144" O_E="0.0" SE="0.8579691784155834" STUDY_ID="STD-Vercellini-1993" TOTAL_1="12" TOTAL_2="13" VAR="0.7361111111111112" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="1.1928340300720946E-32" CI_END="10.999253275213881" CI_START="0.2045593408663689" DF="0.0" EFFECT_SIZE="1.5000000000000002" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="10" I2="100.0" ID="CMP-001.03.04" LOG_CI_END="1.0413632024798651" LOG_CI_START="-0.6891806843685024" LOG_EFFECT_SIZE="0.1760912590556813" NO="4" P_CHI2="0.0" P_Z="0.6899877139692805" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="13" WEIGHT="100.0" Z="0.3988717401094018">
+<NAME>Dyspareunia (verbal rating) end of six month follow up</NAME>
+<DICH_DATA CI_END="10.999253275213881" CI_START="0.20455934086636887" EFFECT_SIZE="1.5" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="10" LOG_CI_END="1.0413632024798651" LOG_CI_START="-0.6891806843685024" LOG_EFFECT_SIZE="0.17609125905568124" ORDER="93145" O_E="0.0" SE="1.016530045465127" STUDY_ID="STD-Vercellini-1993" TOTAL_1="12" TOTAL_2="13" VAR="1.0333333333333332" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>OCP versus Goserelin; severity of pain</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="96" TOTAL_2="104" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-002.01.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (Linear Analogue scale) end of treatment</NAME>
+<CONT_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" MEAN_1="3.7" MEAN_2="0.0" ORDER="93146" SD_1="2.1" SD_2="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-002.01.02" NO="2" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (Linear Analogue scale) end of 6 month follow up</NAME>
+<CONT_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" MEAN_1="7.4" MEAN_2="7.5" ORDER="93147" SD_1="1.7" SD_2="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-002.01.03" NO="3" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (verbal rating) end of treatment</NAME>
+<CONT_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" MEAN_1="2.4" MEAN_2="0.0" ORDER="93148" SD_1="1.7" SD_2="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-002.01.04" NO="4" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (verbal rating) end of 6 month follow up</NAME>
+<CONT_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" MEAN_1="4.7" MEAN_2="4.8" ORDER="93149" SD_1="1.4" SD_2="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.6860921519162745" CI_END="0.7806589323409833" CI_START="-0.49058756691789374" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.1450356827115448" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.7096055972757862" P_Q="0.7096055972757862" P_Z="0.6547147642044255" Q="0.6860921519162745" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="96" TOTAL_2="104" UNITS="" WEIGHT="300.0" Z="0.447222021462446">
+<NAME>Non menstrual pain</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-002.02.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0" Z="0.0">
+<NAME>Non menstrual pain (Linear Analogue scale) end of treatment</NAME>
+<CONT_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" MEAN_1="1.9" MEAN_2="2.1" ORDER="93150" SD_1="2.5" SD_2="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.252979924785594" CI_START="-1.8529799247855936" DF="0.0" EFFECT_SIZE="-0.2999999999999998" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.02" NO="2" P_CHI2="1.0" P_Z="0.7049700994924242" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.3786199589432519">
+<NAME>Non menstrual pain (Linear Analogue scale) end of 6 month follow up</NAME>
+<CONT_DATA CI_END="1.252979924785594" CI_START="-1.8529799247855936" EFFECT_SIZE="-0.2999999999999998" ESTIMABLE="YES" MEAN_1="3.6" MEAN_2="3.9" ORDER="93151" SD_1="2.6" SD_2="3.0" SE="0.7923512559594468" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.3096781047662922" CI_START="-0.5096781047662919" DF="0.0" EFFECT_SIZE="0.40000000000000013" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.03" NO="3" P_CHI2="1.0" P_Z="0.388782466352692" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.8618274856878498">
+<NAME>Non menstrual pain (verbal rating) end of treatment</NAME>
+<CONT_DATA CI_END="1.3096781047662922" CI_START="-0.5096781047662919" EFFECT_SIZE="0.40000000000000013" ESTIMABLE="YES" MEAN_1="1.6" MEAN_2="1.2" ORDER="93152" SD_1="1.9" SD_2="1.3" SE="0.46413001052147734" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.083335090908679" CI_START="-1.083335090908679" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.04" NO="4" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.0">
+<NAME>Non menstrual pain (verbal rating) end of 6 month follow up</NAME>
+<CONT_DATA CI_END="1.083335090908679" CI_START="-1.083335090908679" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="2.6" MEAN_2="2.6" ORDER="93153" SD_1="2.0" SD_2="1.9" SE="0.5527321417403013" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="4.0568077857339055" CI_END="0.5611311362775765" CI_START="-0.16401534771808138" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.19855789427974754" ESTIMABLE="YES" I2="26.050230662893522" I2_Q="26.050230662893522" ID="CMP-002.03" NO="3" P_CHI2="0.2553949856912362" P_Q="0.2553949856912362" P_Z="0.28311618841910546" Q="4.0568077857339055" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="84" TOTAL_2="88" UNITS="" WEIGHT="400.0" Z="1.0733454004770355">
+<NAME>Dysparenunia</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="3.4216461768798485" CI_START="0.17835382312015136" DF="0.0" EFFECT_SIZE="1.7999999999999998" ESTIMABLE="YES" I2="0.0" ID="CMP-002.03.01" NO="1" P_CHI2="1.0" P_Z="0.02959064107136315" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.0" Z="2.1755270801181004">
+<NAME>Dysparenunia (Linear Analogue Scale)</NAME>
+<CONT_DATA CI_END="3.4216461768798485" CI_START="0.17835382312015136" EFFECT_SIZE="1.7999999999999998" ESTIMABLE="YES" MEAN_1="3.9" MEAN_2="2.1" ORDER="93154" SD_1="2.9" SD_2="2.5" SE="0.8273857018145162" STUDY_ID="STD-Vercellini-1993" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="2.1044180449072463" CI_START="-1.3044180449072473" DF="0.0" EFFECT_SIZE="0.39999999999999947" ESTIMABLE="YES" I2="0.0" ID="CMP-002.03.02" NO="2" P_CHI2="1.0" P_Z="0.6455358917118614" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="99.99999999999999" Z="0.45997259660477524">
+<NAME>Dyspareunia (Linear Analogue scale) end of six month follow up</NAME>
+<CONT_DATA CI_END="2.1044180449072463" CI_START="-1.3044180449072473" EFFECT_SIZE="0.39999999999999947" ESTIMABLE="YES" MEAN_1="5.6" MEAN_2="5.2" ORDER="93155" SD_1="2.7" SD_2="3.0" SE="0.8696170227368863" STUDY_ID="STD-Vercellini-1993" TOTAL_1="21" TOTAL_2="22" WEIGHT="99.99999999999999"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="2.7998100513118407E-33" CI_END="0.614048444921814" CI_START="-0.41404844492181425" DF="0.0" EFFECT_SIZE="0.09999999999999985" ESTIMABLE="YES" I2="100.0" ID="CMP-002.03.03" NO="3" P_CHI2="0.0" P_Z="0.7029954827192783" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.0" Z="0.3812800143453714">
+<NAME>Dyspareunia (verbal rating) end of treatment</NAME>
+<CONT_DATA CI_END="0.614048444921814" CI_START="-0.41404844492181425" EFFECT_SIZE="0.09999999999999987" ESTIMABLE="YES" MEAN_1="1.2" MEAN_2="1.1" ORDER="93156" SD_1="0.7" SD_2="1.0" SE="0.2622744341103013" STUDY_ID="STD-Vercellini-1993" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.6681393483024157" CI_START="-0.46813934830241555" DF="0.0" EFFECT_SIZE="0.10000000000000009" ESTIMABLE="YES" I2="0.0" ID="CMP-002.03.04" NO="4" P_CHI2="1.0" P_Z="0.7301098225250737" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.00000000000001" Z="0.34497944745358217">
+<NAME>Dyspareunia (verbal rating) end of six month follow up</NAME>
+<CONT_DATA CI_END="0.6681393483024157" CI_START="-0.46813934830241555" EFFECT_SIZE="0.10000000000000009" ESTIMABLE="YES" MEAN_1="1.6" MEAN_2="1.5" ORDER="93157" SD_1="0.9" SD_2="1.0" SE="0.28987234091229547" STUDY_ID="STD-Vercellini-1993" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.00000000000001"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Side effects</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="1" EVENTS_2="24" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Hot flushes</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.07078346943269292" CI_START="8.411203710935079E-4" EFFECT_SIZE="0.007716049382716049" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="24" LOG_CI_END="-1.1500681543497238" LOG_CI_START="-3.0751418487194258" LOG_EFFECT_SIZE="-2.1126050015345745" ORDER="93158" O_E="0.0" SE="1.130797817341236" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="1.2787037037037037" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="7" I2="0.0" I2_Q="0.0" ID="CMP-003.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Insomnia</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.9715576205056738" CI_START="0.002851177371293025" EFFECT_SIZE="0.05263157894736842" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="7" LOG_CI_END="-0.012531437446512124" LOG_CI_START="-2.544975764459146" LOG_EFFECT_SIZE="-1.278753600952829" ORDER="93159" O_E="0.0" SE="1.4875703334888146" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="2.2128654970760233" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="7" EVENTS_2="6" I2="0.0" I2_Q="0.0" ID="CMP-003.03" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Spotting</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.41794459408676" CI_START="0.36956462776107246" EFFECT_SIZE="1.2777777777777777" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="6" LOG_CI_END="0.6452202650362605" LOG_CI_START="-0.43230960320768697" LOG_EFFECT_SIZE="0.10645533091428679" ORDER="93160" O_E="0.0" SE="0.6329463784653659" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="0.4006211180124223" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="4" EVENTS_2="6" I2="0.0" I2_Q="0.0" ID="CMP-003.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Decreased libido</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="2.560973672720669" CI_START="0.1593843063259791" EFFECT_SIZE="0.6388888888888888" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.4084051138644049" LOG_CI_START="-0.7975544433637938" LOG_EFFECT_SIZE="-0.1945746647496944" ORDER="93161" O_E="0.0" SE="0.7083866135119287" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="0.5018115942028986" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="5" I2="0.0" I2_Q="0.0" ID="CMP-003.05" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="5" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Vaginal dryness</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.4856620664658169" CI_START="0.004110901243120655" EFFECT_SIZE="0.07814992025518341" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="5" LOG_CI_END="0.1719200346200896" LOG_CI_START="-2.386062956224495" LOG_EFFECT_SIZE="-1.1070714608022028" ORDER="93162" O_E="0.0" SE="1.5025718710421274" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="2.2577222276470397" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="5" EVENTS_2="5" I2="0.0" I2_Q="0.0" ID="CMP-003.06" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="6" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Mood changes</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.086629333644811" CI_START="0.26644131190049575" EFFECT_SIZE="1.0434782608695652" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="5" LOG_CI_END="0.6113652480240446" LOG_CI_START="-0.5743984366360184" LOG_EFFECT_SIZE="0.018483405694013133" ORDER="93163" O_E="0.0" SE="0.6965234579942242" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="0.4851449275362319" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="6" EVENTS_2="4" I2="0.0" I2_Q="0.0" ID="CMP-003.07" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="7" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Headache</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.835564036629675" CI_START="0.42505273757103684" EFFECT_SIZE="1.7045454545454546" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="4" LOG_CI_END="0.8347743561956078" LOG_CI_START="-0.3715571823845825" LOG_EFFECT_SIZE="0.23160858690551264" ORDER="93164" O_E="0.0" SE="0.7086051171994259" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="0.5021212121212121" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="1" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-003.08" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="8" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Paresthesiae</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.2871188393464448" CI_START="0.03134449323620293" EFFECT_SIZE="0.32098765432098764" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="3" LOG_CI_END="0.5168154054322269" LOG_CI_START="-1.5038387472478905" LOG_EFFECT_SIZE="-0.4935116709078318" ORDER="93165" O_E="0.0" SE="1.1869422516836734" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="1.4088319088319088" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="5" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-003.09" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="9" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Breast tenderness</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="8.765389170167458" CI_START="0.4049648417464883" EFFECT_SIZE="1.8840579710144927" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.9427712028832306" LOG_CI_START="-0.3925826797440677" LOG_EFFECT_SIZE="0.2750942615695814" ORDER="93166" O_E="0.0" SE="0.7843934807636005" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="0.615273132664437" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="4" EVENTS_2="2" I2="0.0" I2_Q="0.0" ID="CMP-003.10" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="10" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Weight gain</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="13.398562890187968" CI_START="0.37783902956542964" EFFECT_SIZE="2.25" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="2" LOG_CI_END="1.1270582190863283" LOG_CI_START="-0.4226931828636034" LOG_EFFECT_SIZE="0.3521825181113625" ORDER="93167" O_E="0.0" SE="0.9103316448985522" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="0.8287037037037037" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="1" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-003.11" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="11" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Peripheral oedema</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="17.429046637587824" CI_START="0.06170422505309205" EFFECT_SIZE="1.037037037037037" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.2412736320119682" LOG_CI_START="-1.2096850976455047" LOG_EFFECT_SIZE="0.015794267183231882" ORDER="93168" O_E="0.0" SE="1.439705290242181" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="2.072751322751323" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-003.12" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="12" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="28" TOTAL_2="29" WEIGHT="0.0" Z="0.0">
+<NAME>Joint pain</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="8.532097956603826" CI_START="0.013022718641563577" EFFECT_SIZE="0.3333333333333333" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.931055832919948" LOG_CI_START="-1.8852983423592726" LOG_EFFECT_SIZE="-0.4771212547196625" ORDER="93169" O_E="0.0" SE="1.6543403837370223" STUDY_ID="STD-Vercellini-1993" TOTAL_1="28" TOTAL_2="29" VAR="2.736842105263158" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-004" NO="4">
+<NAME>OCP versus Goserelin; reduction in pain to zero</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="21" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-004.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="24" TOTAL_2="25" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (Linear Analogue scale) end of treatment</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6408.364285345846" CI_START="15.315599177148412" EFFECT_SIZE="313.2857142857143" ESTIMABLE="YES" EVENTS_1="21" EVENTS_2="0" LOG_CI_END="3.8067471913749937" LOG_CI_START="1.1851339919515382" LOG_EFFECT_SIZE="2.495940591663266" ORDER="93170" O_E="0.0" SE="1.5399485705359683" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="25" VAR="2.371441599895772" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="24" EVENTS_2="25" I2="0.0" I2_Q="0.0" ID="CMP-004.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="24" TOTAL_2="25" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (Linear Analogue scale) end of six month follow up</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="24" EVENTS_2="25" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="93171" O_E="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="25" VAR="0.0" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="21" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-004.03" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="24" TOTAL_2="25" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (Verbal rating) end of treatment</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6408.364285345846" CI_START="15.315599177148412" EFFECT_SIZE="313.2857142857143" ESTIMABLE="YES" EVENTS_1="21" EVENTS_2="0" LOG_CI_END="3.8067471913749937" LOG_CI_START="1.1851339919515382" LOG_EFFECT_SIZE="2.495940591663266" ORDER="93172" O_E="0.0" SE="1.5399485705359683" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="25" VAR="2.371441599895772" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="24" EVENTS_2="25" I2="0.0" I2_Q="0.0" ID="CMP-004.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="24" TOTAL_2="25" WEIGHT="0.0" Z="0.0">
+<NAME>Dysmenorrhoea (Verbal rating) end of 6 month follow up</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="24" EVENTS_2="25" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="93173" O_E="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="25" VAR="0.0" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="6.618195627076138E-32" CI_END="2.4171225144113513" CI_START="0.3603917906177193" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.9333333333333332" ESTIMABLE="YES" EVENTS_1="68" EVENTS_2="72" I2="0.0" I2_Q="0.0" ID="CMP-004.05" LOG_CI_END="0.3832986636407268" LOG_CI_START="-0.4432251103956133" LOG_EFFECT_SIZE="-0.02996322337744326" METHOD="MH" NO="5" P_CHI2="0.9999999999999998" P_Q="0.0" P_Z="0.8869965753194637" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="80" TOTAL_2="84" WEIGHT="200.0" Z="0.142105624847847">
+<NAME>Non menstrual pain</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="20" EVENTS_2="21" I2="0.0" ID="CMP-004.05.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="20" TOTAL_2="21" WEIGHT="0.0" Z="0.0">
+<NAME>Non menstrual pain (Linear Analogue scale) end of 6 month follow up</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="20" EVENTS_2="21" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="93174" O_E="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="20" TOTAL_2="21" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="3.309097813538069E-32" CI_END="3.5849024469113315" CI_START="0.24299436986399442" DF="0.0" EFFECT_SIZE="0.9333333333333332" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="15" I2="100.0" ID="CMP-004.05.02" LOG_CI_END="0.5544773420555504" LOG_CI_START="-0.614403788810437" LOG_EFFECT_SIZE="-0.02996322337744326" NO="2" P_CHI2="0.0" P_Z="0.9199602030086271" STUDIES="1" TAU2="0.0" TOTAL_1="20" TOTAL_2="21" WEIGHT="100.0" Z="0.10048385097466415">
+<NAME>Non menstrual pain (Linear Analogue scale) end of treatment</NAME>
+<DICH_DATA CI_END="3.5849024469113324" CI_START="0.24299436986399447" EFFECT_SIZE="0.9333333333333333" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="15" LOG_CI_END="0.5544773420555504" LOG_CI_START="-0.6144037888104369" LOG_EFFECT_SIZE="-0.02996322337744321" ORDER="93175" O_E="0.0" SE="0.6866065623255951" STUDY_ID="STD-Vercellini-1993" TOTAL_1="20" TOTAL_2="21" VAR="0.4714285714285714" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="3.309097813538069E-32" CI_END="3.5849024469113315" CI_START="0.24299436986399442" DF="0.0" EFFECT_SIZE="0.9333333333333332" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="15" I2="100.0" ID="CMP-004.05.03" LOG_CI_END="0.5544773420555504" LOG_CI_START="-0.614403788810437" LOG_EFFECT_SIZE="-0.02996322337744326" NO="3" P_CHI2="0.0" P_Z="0.9199602030086271" STUDIES="1" TAU2="0.0" TOTAL_1="20" TOTAL_2="21" WEIGHT="100.0" Z="0.10048385097466415">
+<NAME>Non menstrual pain (verbal rating) end of treatment</NAME>
+<DICH_DATA CI_END="3.5849024469113324" CI_START="0.24299436986399447" EFFECT_SIZE="0.9333333333333333" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="15" LOG_CI_END="0.5544773420555504" LOG_CI_START="-0.6144037888104369" LOG_EFFECT_SIZE="-0.02996322337744321" ORDER="93176" O_E="0.0" SE="0.6866065623255951" STUDY_ID="STD-Vercellini-1993" TOTAL_1="20" TOTAL_2="21" VAR="0.4714285714285714" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="20" EVENTS_2="21" I2="0.0" ID="CMP-004.05.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="4" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="20" TOTAL_2="21" WEIGHT="0.0" Z="0.0">
+<NAME>Non menstrual pain (verbal rating) end of six month follow up</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="20" EVENTS_2="21" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="93177" O_E="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="20" TOTAL_2="21" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.4353331105546438" CI_END="20.047085602670283" CI_START="1.5188410157851373" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="OR" EFFECT_SIZE="5.518001074691027" ESTIMABLE="YES" EVENTS_1="70" EVENTS_2="66" I2="0.0" I2_Q="0.0" ID="CMP-004.06" LOG_CI_END="1.3020512448526294" LOG_CI_START="0.1815123166009159" LOG_EFFECT_SIZE="0.7417817807267725" METHOD="MH" NO="6" P_CHI2="0.9328505866051298" P_Q="0.0" P_Z="0.00946074666273424" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="72" TOTAL_2="80" WEIGHT="400.0" Z="2.594939877511996">
+<NAME>Dyspareunia</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="67.89540499818636" CI_START="0.7818148025551824" DF="0.0" EFFECT_SIZE="7.285714285714286" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="14" I2="0.0" ID="CMP-004.06.01" LOG_CI_END="1.8318403832428185" LOG_CI_START="-0.10689611107545938" LOG_EFFECT_SIZE="0.8624721360836796" NO="1" P_CHI2="1.0" P_Z="0.08118857676600794" STUDIES="1" TAU2="0.0" TOTAL_1="18" TOTAL_2="20" WEIGHT="100.0" Z="1.7438309221983719">
+<NAME>Dyspareunia (Linear Analogue scale) end of treatment</NAME>
+<DICH_DATA CI_END="67.89540499818636" CI_START="0.7818148025551824" EFFECT_SIZE="7.285714285714286" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="14" LOG_CI_END="1.8318403832428185" LOG_CI_START="-0.10689611107545938" LOG_EFFECT_SIZE="0.8624721360836796" ORDER="93178" O_E="0.0" SE="1.13882341366298" STUDY_ID="STD-Vercellini-1993" TOTAL_1="18" TOTAL_2="20" VAR="1.2969187675070029" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="74.37930825908876" CI_START="0.10890921017656122" DF="0.0" EFFECT_SIZE="2.8461538461538463" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="19" I2="0.0" ID="CMP-004.06.02" LOG_CI_END="1.8714521350251367" LOG_CI_START="-0.9629353915048202" LOG_EFFECT_SIZE="0.45425837176015826" NO="2" P_CHI2="1.0" P_Z="0.5298503211380623" STUDIES="1" TAU2="0.0" TOTAL_1="18" TOTAL_2="20" WEIGHT="100.0" Z="0.6282345233262562">
+<NAME>Dyspareunia (Linear Analogue scale) end of six month follow up</NAME>
+<DICH_DATA CI_END="74.37930825908869" CI_START="0.10890921017656127" EFFECT_SIZE="2.8461538461538463" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="19" LOG_CI_END="1.8714521350251363" LOG_CI_START="-0.96293539150482" LOG_EFFECT_SIZE="0.45425837176015826" ORDER="93179" O_E="0.0" SE="1.6649332635282328" STUDY_ID="STD-Vercellini-1993" TOTAL_1="18" TOTAL_2="20" VAR="2.7720027720027716" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="67.89540499818636" CI_START="0.7818148025551824" DF="0.0" EFFECT_SIZE="7.285714285714286" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="14" I2="0.0" ID="CMP-004.06.03" LOG_CI_END="1.8318403832428185" LOG_CI_START="-0.10689611107545938" LOG_EFFECT_SIZE="0.8624721360836796" NO="3" P_CHI2="1.0" P_Z="0.08118857676600794" STUDIES="1" TAU2="0.0" TOTAL_1="18" TOTAL_2="20" WEIGHT="100.0" Z="1.7438309221983719">
+<NAME>Dyspareunia (verbal rating) end of treatment</NAME>
+<DICH_DATA CI_END="67.89540499818636" CI_START="0.7818148025551824" EFFECT_SIZE="7.285714285714286" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="14" LOG_CI_END="1.8318403832428185" LOG_CI_START="-0.10689611107545938" LOG_EFFECT_SIZE="0.8624721360836796" ORDER="93180" O_E="0.0" SE="1.13882341366298" STUDY_ID="STD-Vercellini-1993" TOTAL_1="18" TOTAL_2="20" VAR="1.2969187675070029" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="74.37930825908876" CI_START="0.10890921017656122" DF="0.0" EFFECT_SIZE="2.8461538461538463" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="19" I2="0.0" ID="CMP-004.06.04" LOG_CI_END="1.8714521350251367" LOG_CI_START="-0.9629353915048202" LOG_EFFECT_SIZE="0.45425837176015826" NO="4" P_CHI2="1.0" P_Z="0.5298503211380623" STUDIES="1" TAU2="0.0" TOTAL_1="18" TOTAL_2="20" WEIGHT="100.0" Z="0.6282345233262562">
+<NAME>Dyspareunia (verbal rating) end of six month follow up</NAME>
+<DICH_DATA CI_END="74.37930825908869" CI_START="0.10890921017656127" EFFECT_SIZE="2.8461538461538463" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="19" LOG_CI_END="1.8714521350251363" LOG_CI_START="-0.96293539150482" LOG_EFFECT_SIZE="0.45425837176015826" ORDER="93181" O_E="0.0" SE="1.6649332635282328" STUDY_ID="STD-Vercellini-1993" TOTAL_1="18" TOTAL_2="20" VAR="2.7720027720027716" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-005" NO="5">
+<NAME>OCP versus Goserelin</NAME>
+<CONT_OUTCOME CHI2="3.5941030320008163" CI_END="1.6159875108070918" CI_START="-0.4109670766767274" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.6025102170651823" ESTIMABLE="YES" I2="72.17664627039626" I2_Q="72.17664627039626" ID="CMP-005.01" NO="1" P_CHI2="0.057985082007474764" P_Q="0.057985082007474764" P_Z="0.24394022886061162" Q="3.5941030320008163" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="46" TOTAL_2="48" UNITS="" WEIGHT="200.0" Z="1.1651946551314578">
+<NAME>Pain at end of treatment linear analogue scale</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="7.398934138328043E-32" CI_END="3.3999401453488516" CI_START="0.2000598546511485" DF="0.0" EFFECT_SIZE="1.8" ESTIMABLE="YES" I2="100.0" ID="CMP-005.01.01" NO="1" P_CHI2="0.0" P_Z="0.027451149448198528" STUDIES="1" TAU2="0.0" TOTAL_1="22" TOTAL_2="22" WEIGHT="100.0" Z="2.2050419713687885">
+<NAME>Dyspareunia</NAME>
+<CONT_DATA CI_END="3.399940145348851" CI_START="0.20005985465114828" EFFECT_SIZE="1.7999999999999998" ESTIMABLE="YES" MEAN_1="3.9" MEAN_2="2.1" ORDER="93182" SD_1="2.9" SD_2="2.5" SE="0.8163109924309707" STUDY_ID="STD-Vercellini-1993" TOTAL_1="22" TOTAL_2="22" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.109764190813086" CI_START="-1.5097641908130863" DF="0.0" EFFECT_SIZE="-0.20000000000000018" ESTIMABLE="YES" I2="0.0" ID="CMP-005.01.02" NO="2" P_CHI2="1.0" P_Z="0.7647225867894665" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.29928501607962477">
+<NAME>Non menstrual pain</NAME>
+<CONT_DATA CI_END="1.109764190813086" CI_START="-1.5097641908130863" EFFECT_SIZE="-0.20000000000000018" ESTIMABLE="YES" MEAN_1="1.9" MEAN_2="2.1" ORDER="93183" SD_1="2.5" SD_2="2.2" SE="0.6682593155508667" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.31667333066773345" CI_END="0.6201471768386193" CI_START="-0.2749252656031137" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.17261095561775283" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-005.02" NO="2" P_CHI2="0.5736138639446549" P_Q="0.5736138639446549" P_Z="0.449684204568661" Q="0.31667333066773345" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="45" TOTAL_2="48" UNITS="" WEIGHT="200.0" Z="0.75594162060209">
+<NAME>Pain at end of treatment verbal rating</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="2.7998100513118407E-33" CI_END="0.614048444921814" CI_START="-0.41404844492181425" DF="0.0" EFFECT_SIZE="0.09999999999999985" ESTIMABLE="YES" I2="100.0" ID="CMP-005.02.01" NO="1" P_CHI2="0.0" P_Z="0.7029954827192783" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.0" Z="0.3812800143453714">
+<NAME>Dyspareunia</NAME>
+<CONT_DATA CI_END="0.614048444921814" CI_START="-0.41404844492181425" EFFECT_SIZE="0.09999999999999987" ESTIMABLE="YES" MEAN_1="1.2" MEAN_2="1.1" ORDER="93184" SD_1="0.7" SD_2="1.0" SE="0.2622744341103013" STUDY_ID="STD-Vercellini-1993" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.3096781047662922" CI_START="-0.5096781047662919" DF="0.0" EFFECT_SIZE="0.40000000000000013" ESTIMABLE="YES" I2="0.0" ID="CMP-005.02.02" NO="2" P_CHI2="1.0" P_Z="0.388782466352692" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.8618274856878498">
+<NAME>Non menstrual pain</NAME>
+<CONT_DATA CI_END="1.3096781047662922" CI_START="-0.5096781047662919" EFFECT_SIZE="0.40000000000000013" ESTIMABLE="YES" MEAN_1="1.6" MEAN_2="1.2" ORDER="93185" SD_1="1.9" SD_2="1.3" SE="0.46413001052147734" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.37365702706008685" CI_END="0.7821401745125194" CI_START="-0.8616467324043513" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.039753278945915904" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-005.03" NO="3" P_CHI2="0.8295860372984949" P_Q="0.8295860372984949" P_Z="0.9244741743370135" Q="0.37365702706008685" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="69" TOTAL_2="74" UNITS="" WEIGHT="300.0" Z="0.09479938631158581">
+<NAME>Pain at six month follow up linear Analogue scale</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.0772863999272428" CI_START="-1.2772863999272421" DF="0.0" EFFECT_SIZE="-0.09999999999999964" ESTIMABLE="YES" I2="0.0" ID="CMP-005.03.01" NO="1" P_CHI2="1.0" P_Z="0.8677780458336384" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.1664814937691606">
+<NAME>Dysmenorrhoea</NAME>
+<CONT_DATA CI_END="1.0772863999272428" CI_START="-1.2772863999272421" EFFECT_SIZE="-0.09999999999999964" ESTIMABLE="YES" MEAN_1="7.4" MEAN_2="7.5" ORDER="93186" SD_1="1.7" SD_2="2.5" SE="0.6006673638972589" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="2.1044180449072463" CI_START="-1.3044180449072473" DF="0.0" EFFECT_SIZE="0.39999999999999947" ESTIMABLE="YES" I2="0.0" ID="CMP-005.03.02" NO="2" P_CHI2="1.0" P_Z="0.6455358917118614" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="99.99999999999999" Z="0.45997259660477524">
+<NAME>Dyspareunia</NAME>
+<CONT_DATA CI_END="2.1044180449072463" CI_START="-1.3044180449072473" EFFECT_SIZE="0.39999999999999947" ESTIMABLE="YES" MEAN_1="5.6" MEAN_2="5.2" ORDER="93187" SD_1="2.7" SD_2="3.0" SE="0.8696170227368863" STUDY_ID="STD-Vercellini-1993" TOTAL_1="21" TOTAL_2="22" WEIGHT="99.99999999999999"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.252979924785594" CI_START="-1.8529799247855936" DF="0.0" EFFECT_SIZE="-0.2999999999999998" ESTIMABLE="YES" I2="0.0" ID="CMP-005.03.03" NO="3" P_CHI2="1.0" P_Z="0.7049700994924242" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.3786199589432519">
+<NAME>Non menstrual pain</NAME>
+<CONT_DATA CI_END="1.252979924785594" CI_START="-1.8529799247855936" EFFECT_SIZE="-0.2999999999999998" ESTIMABLE="YES" MEAN_1="3.6" MEAN_2="3.9" ORDER="93188" SD_1="2.6" SD_2="3.0" SE="0.7923512559594468" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.13696690148987387" CI_END="0.5236579204177335" CI_START="-0.4411197864469542" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.041269066985389666" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-005.04" NO="4" P_CHI2="0.7113152414735999" P_Q="0.7113152414735999" P_Z="0.8668367892643256" Q="0.13696690148987387" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="69" TOTAL_2="74" UNITS="" WEIGHT="200.0" Z="0.16767776533683768">
+<NAME>Pain at six month follow up verbal rating</NAME>
+<GROUP_LABEL_1>OCP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Goserelin</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.7901820069223566" CI_START="-0.9901820069223559" DF="0.0" EFFECT_SIZE="-0.09999999999999964" ESTIMABLE="YES" I2="0.0" ID="CMP-005.04.01" NO="1" P_CHI2="1.0" P_Z="0.8257343630607294" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0" Z="0.22017564602504933">
+<NAME>Dysmenorrhoea</NAME>
+<CONT_DATA CI_END="0.7901820069223566" CI_START="-0.9901820069223559" EFFECT_SIZE="-0.09999999999999964" ESTIMABLE="YES" MEAN_1="4.7" MEAN_2="4.8" ORDER="93189" SD_1="1.4" SD_2="1.8" SE="0.4541828390439816" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.6739693787233166" CI_START="-0.47396937872331646" DF="0.0" EFFECT_SIZE="0.10000000000000009" ESTIMABLE="YES" I2="0.0" ID="CMP-005.04.02" NO="2" P_CHI2="1.0" P_Z="0.7327457541500197" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="99.99999999999999" Z="0.3414753569083451">
+<NAME>Dyspareunia</NAME>
+<CONT_DATA CI_END="0.6739693787233166" CI_START="-0.47396937872331646" EFFECT_SIZE="0.10000000000000009" ESTIMABLE="YES" MEAN_1="1.6" MEAN_2="1.5" ORDER="93190" SD_1="0.92" SD_2="1.0" SE="0.29284690088731924" STUDY_ID="STD-Vercellini-1993" TOTAL_1="21" TOTAL_2="22" WEIGHT="99.99999999999999"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-005.04.03" NO="3" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0" Z="0.0">
+<NAME>Non menstrual pain</NAME>
+<CONT_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" MEAN_1="2.6" MEAN_2="1.9" ORDER="93191" SD_1="2.0" SD_2="0.0" SE="0.0" STUDY_ID="STD-Vercellini-1993" TOTAL_1="24" TOTAL_2="26" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2008-11-10 13:01:31 +1300" MODIFIED_BY="jane clarke">
+<FIGURE FILENAME="Risk of bias graph.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2008-11-10 13:01:24 +1300" MODIFIED_BY="jane clarke" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_GRAPH_PLOT">
+<CAPTION>
+<P>Methodological quality graph: review authors' judgements about each methodological quality item presented as percentages across all included studies.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAfMAAADnCAMAAAA94U9AAAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD////AwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID/gAAAAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///80TKWtAAAJB0lEQVR42u2daXLjIBCFNSlXcTn++apcjqpUMrE2dgGyZC18bzyx
+hNjEo5tGpkXXgdbwrxM0QlvQX7RBc4BzOAdwDuAcwDmAcwDn4Hx4NHGXGqKtZ2+P1m64VWh0O+M5
+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
+RQAAAABJRU5ErkJggg==
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Risk of bias summary.png" FILE_TYPE="PNG" ID="FIG-02" MODIFIED="2008-11-10 13:01:31 +1300" MODIFIED_BY="jane clarke" NO="2" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_TABLE_PLOT">
+<CAPTION>
+<P>Methodological quality summary: review authors' judgements about each methodological quality item for each included study.</P>
+</CAPTION>
+<FILE>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
+8zhNC3jVEZ/QajSJhZaiK/wg8pbPxgitD535Tu2mbWotbo3yavEp8c7X0IJW1VlQ5Zanmpk1L6Hy
+6rrWiap5VduSaIW+/ifuhJzyz9/gUWrMi0urEqEV7WdombUanbWgBa12a624tzayDK1wxnJZJm0M
+ImgRQYuIoEUELSJo0TYfEd2nQQ+tWWixzPJ9LUNLMLEMLWixDC1osQwtaAkmlqEFLZahBa2HW37/
+/urdu83l5fri4ujXX7vz89WbNydXV6fv3799oOW/r67ON5uX6/X3R0ffdt3z1erFyckvp6d/vX2o
+5au/rzbnm/XL9dH3R9233er56uTFyekvp2//egstquKW//HH2cXF8UDUh5+BtN9/f7a35d/Ozn44
+Ph6I+vAzkPb62f6Wz347O/7huBszPZD27PUzaNEj35hhahqF6vZn+Jk9LA9T0yhUtz/Dz+xheZia
+ul2mh5+BFj3ajRnmq51c3Xym5q4py8N8tZOrm8/U3DVleZivunmmp+au5tCKPhf2vm+ImPrX0ev8
+8K+b/83HujFDfXU7D/zuu+6zz7qPP77+fPll9+OPdzPDf/65nGl5qK+m8sDRzPDPy7mWh/pqKg8c
+zQwv/7yE1iOgtZ+RLYe0jP4X27/5iDfm3bvNbXg++eT6T/vmm+7rr6+/+PTTWWnhqOXzzWYmV1vS
+wlHLm/NNdx/To2lhiwnhllNK7vz6nQNS5swPW2at2wdQ7kR9b7R2emrhG3N5uR7N/X766doPw9x1
+5/tv3pzMtPxyvb4XWi9O5lpev1yP/P6NxkyfvDiB1r1ngJ2ozCRqp7Xtf2RetG767Hc+r151n3/e
+ffRR9/Tp3X86P1/NtHzTZ5//eb6aa/mmzz4frdXzFbRKJld7oDU/b5xCa4rP0em0hhszOmV98cX1
+5X311XgzY6blqeDvpimYO/pstztmGlqTSdforpWdaG35lbJo3ablw8tON2sN89Wgn38e4cqsdYBo
+za/K5vxKcbRK5X6V1FpTH7VWbrQeUsw8pNZ6eEKYvUN487nR/AfHOoSJ0dre7ivYIXxgQpj9udZ2
+tDzXOgS0mpXVGHMsW40BrRw3xhpCaEEryvJ/K9+Pple+P9nb8jB3TXULh+9fPNnf8jB3jXcL/8sD
+n1w8qdDP0GoOrX56v9ZofXUvy1P7tUbrq3tZntqvNVpfQQtaLLMMLbecZWhBi2VoQYtllqHllrMM
+LWixDK120SLyphKimkZkjiCCFhG0iKBFRNAighYRtIioMFpEVFz/AuSoeOQ0uzqcAAAAAElFTkSu
+QmCC
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2008-11-10 12:57:15 +1300" MODIFIED_BY="jane clarke">
+<APPENDIX ID="APP-01" MODIFIED="2008-11-10 12:57:15 +1300" MODIFIED_BY="jane clarke" NO="1">
+<TITLE MODIFIED="2008-11-10 12:57:12 +1300" MODIFIED_BY="jane clarke">Search string</TITLE>
+<APPENDIX_BODY MODIFIED="2008-11-10 12:57:15 +1300" MODIFIED_BY="jane clarke">
+<P>1. endometrio$.tw.<BR/>2. exp Endometriosis/<BR/>3. 1 or 2<BR/>4. oral contraceptive$.mp. or Oral Contraceptive Agent/<BR/>5. contraceptive pill$.mp.<BR/>6. combined oral contraceptive$.mp.<BR/>7. oral contracept$.mp.<BR/>8. PROGESTERONE/ or ESTRADIOL BENZOATE PLUS PROGESTERONE/ or progesterone.mp.<BR/>9. progestagen.mp. or Gestagen/<BR/>10. ETHINYLESTRADIOL PLUS NORGESTREL/ or norgestrel.mp. or ESTRADIOL VALERATE PLUS NORGESTREL/ or NORGESTREL/<BR/>11. LEVONORGESTREL/ or levonorgestrel.mp.<BR/>12. NORETHISTERONE/ or norethisterone.mp.<BR/>13. DESOGESTREL/ or desogestrel.mp.<BR/>14. GESTODENE/ or gestodene.mp.<BR/>15. NORGESTIMATE/ or norgestimate.mp.<BR/>16. estrogen.mp. or ESTROGEN/<BR/>17. ethinyl estradiol.mp. or Ethinylestradiol/<BR/>18. ESTRADIOL/ or estradiol.mp.<BR/>19. exp Contraceptives, Oral/<BR/>20. OCP.tw.<BR/>21. or/1-17<BR/>22. 3 AND 21</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

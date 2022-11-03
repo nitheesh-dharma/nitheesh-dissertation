@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD001157" GROUP_ID="MUSKEL" ID="732999082413035385" MERGED_FROM="" MODIFIED="2010-05-25 15:12:48 -0400" MODIFIED_BY="Michelle Foote" REVIEW_NO="C023-R" REVMAN_SUB_VERSION="5.0.24" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2010-05-25 15:12:48 -0400" MODIFIED_BY="Michelle Foote">
+<TITLE>Cyclophosphamide for treating rheumatoid arthritis</TITLE>
+<CONTACT>
+<PERSON ID="15002" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Maria</FIRST_NAME>
+<MIDDLE_INITIALS>E</MIDDLE_INITIALS>
+<LAST_NAME>Suarez-Almazor</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>msalmazor@mdanderson.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>General Internal Medicine, Ambulatory Treatment and Emergency Care</DEPARTMENT>
+<ORGANISATION>The University of Texas, M.D. Anderson Cancer Center</ORGANISATION>
+<ADDRESS_1>1515 Holcombe Blvd</ADDRESS_1>
+<ADDRESS_2>Unit 1465</ADDRESS_2>
+<CITY>Houston</CITY>
+<ZIP>77030</ZIP>
+<REGION>Texas</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>1 713 745 4516</PHONE_1>
+<PHONE_2/>
+<FAX_1>1 713 563 4491</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2010-05-25 15:12:48 -0400" MODIFIED_BY="Michelle Foote">
+<PERSON ID="15002" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Maria</FIRST_NAME>
+<MIDDLE_INITIALS>E</MIDDLE_INITIALS>
+<LAST_NAME>Suarez-Almazor</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>msalmazor@mdanderson.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>General Internal Medicine, Ambulatory Treatment and Emergency Care</DEPARTMENT>
+<ORGANISATION>The University of Texas, M.D. Anderson Cancer Center</ORGANISATION>
+<ADDRESS_1>1515 Holcombe Blvd</ADDRESS_1>
+<ADDRESS_2>Unit 1465</ADDRESS_2>
+<CITY>Houston</CITY>
+<ZIP>77030</ZIP>
+<REGION>Texas</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>1 713 745 4516</PHONE_1>
+<PHONE_2/>
+<FAX_1>1 713 563 4491</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="9254" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Elaine</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Belseck</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>ebelseck@cha.ab.ca</EMAIL_1>
+<EMAIL_2>ebelseck@cha.ab.ca</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Pediatrics</DEPARTMENT>
+<ORGANISATION>University of Alberta</ORGANISATION>
+<ADDRESS_1>2C3.67 Walter C Mackenzie</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Alberta</CITY>
+<ZIP>T6G 2R7</ZIP>
+<REGION/>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 780 492 1078</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 780 407 8538</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5440" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Beverley</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Shea</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>bevshea@uottawa.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Institute of Population Health</DEPARTMENT>
+<ORGANISATION>University of Ottawa</ORGANISATION>
+<ADDRESS_1>1 Stewart St.</ADDRESS_1>
+<ADDRESS_2>Room 312</ADDRESS_2>
+<CITY>Ottawa</CITY>
+<ZIP>K1N 6N5</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 613 562 5800 ext: 8571</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5474" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Peter</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Tugwell</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director</POSITION>
+<EMAIL_1>elacasse@uottawa.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Global Health, Institute of Population Health, Department of Medicine</DEPARTMENT>
+<ORGANISATION>Ottawa Hospital</ORGANISATION>
+<ADDRESS_1>1 Stewart Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Ottawa</CITY>
+<ZIP>K1N 6N5</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>613-562-5800 ext: 1945</PHONE_1>
+<PHONE_2/>
+<FAX_1>613-562-5659</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12662" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>George</FIRST_NAME>
+<MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+<LAST_NAME>Wells</LAST_NAME>
+<SUFFIX>PhD, MSc</SUFFIX>
+<POSITION>Director</POSITION>
+<EMAIL_1>gawells@ottawaheart.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Cardiovascular Research Reference Centre</DEPARTMENT>
+<ORGANISATION>University of Ottawa Heart Institute</ORGANISATION>
+<ADDRESS_1>Room H1-1</ADDRESS_1>
+<ADDRESS_2>40 Ruskin Street</ADDRESS_2>
+<CITY>Ottawa</CITY>
+<ZIP>K1Y 4W7</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 613 798 5555 x18640</PHONE_1>
+<PHONE_2>+1 613 798 5555 x18642</PHONE_2>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-09-22 01:37:16 -0400" MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="30" MONTH="8" YEAR="2000"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="30" MONTH="8" YEAR="2000"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="30" MONTH="8" YEAR="2002"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR=""/>
+<REVIEW_PUBLISHED ISSUE="3" YEAR="1998"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2000"/>
+</DATES>
+<WHATS_NEW MODIFIED="2008-09-22 01:37:26 -0400" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2008-09-22 01:37:26 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="22" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format. C023-R</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2008-09-22 01:38:07 -0400" MODIFIED_BY="[Empty name]"/>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>University of Alberta Hospitals Foundation</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>The Arthritis Society</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-09-22 01:44:01 -0400" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-09-22 01:44:01 -0400" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-09-22 01:38:41 -0400" MODIFIED_BY="[Empty name]">Cyclophosphamide for treating rheumatoid arthritis</TITLE>
+<SUMMARY_BODY MODIFIED="2008-09-22 01:44:01 -0400" MODIFIED_BY="[Empty name]">
+<P>This review included 31 patients taking cyclophosphamide and 39 patients taking placebo. Patients taking cyclophosphamide had improved tender and swollen joint scores. Patients receiving placebo were six times more likely to discontinue treatment because of lack of treatment effect than patients receiving cyclophosphamide. Withdrawals from adverse reactions were higher in the cyclophosphamide group. Side effects from cyclophosphamide included hemorrhagic cystitis, nausea, vomiting, leucopenia, thrombocytopenia, alopecia, amenorrhea and herpes zoster infections.</P>
+<P>Cyclophosphamide appears to have a clinically and statistically significant benefit on the disease activity of patients with rheumatoid arthritis. But due to serious side effects, its use should remain limited to patients who have failed treatment with various other therapies.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>The use of immunosuppressive drugs for the treatment of RA has been advocated for decades. Cyclophosphamide is an antineoplastic agent widely used in the treatment of cancer patients. It is an alkylating drug, with a marked cytotoxic effect on mononuclear cells and other leukocytes.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the short-term effects of cyclophosphamide for the treatment of rheumatoid arthritis.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Musculoskeletal Group's Register, the Cochrane Controlled Trials Register (issue 3, 2000), MEDLINE and Embase up to and including August 2000. We also carried out a handsearch of the reference lists of the trials retrieved from the electronic search.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomized controlled trials (RCTs) and controlled clinical trials (CCTs) comparing oral cyclophosphamide against placebo (or an active drug at a dosage considered to be ineffective) in patients with rheumatoid arthritis.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Data abstraction was carried out independently by two reviewers. The same two reviewers using a validated checklist (Jadad 1996) assessed the methodological quality of the RCTs and CCTs. Rheumatoid arthritis outcome measures were extracted from the publications for baseline and end-of-study. The pooled analysis was performed using standardized mean differences (SMDs) for joint counts. Weighted mean differences (WMDs) were used for erythrocyte sedimentation rate (ESR). Toxicity was evaluated with pooled odds ratios for withdrawals. A chi-square test was used to assess heterogeneity among trials. Fixed effects models were used throughout.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>A total of 70 patients were included in the pooled analysis of two trials, 31 receiving cyclophosphamide. A statistically significant benefit was observed for cyclophosphamide when compared to placebo for tender and swollen joint scores: SMDs were -0.57 and -0.59 respectively. The difference in ESR also favoured the active drug but did not reach statistical significance (-12 mm, 95%CI: -26 to 2.5). One trial reported the number of patients developing new or worse erosions: the OR for cyclophosphamide compared to placebo was 0.17 (95% CI: 0.05 to 0.57).</P>
+<P>Patients receiving placebo were six times more likely to discontinue treatment because of lack of efficacy than patients receiving cyclophosphamide. Withdrawals from adverse reactions were higher in the cyclophosphamide group (Odds ratio=2.9), although this difference was not statistically significant. Side effects from cyclophosphamide included hemorrhagic cystitis, nausea, vomiting, leucopenia, thrombocytopenia, alopecia, amenorrhea and herpes zoster infections.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Cyclophosphamide appears to have a clinically and statistically significant benefit on the disease activity of patients with RA, similar to some disease modifying antirheumatic drugs (DMARDs) such as antimalarials or sulfasalazine, but lower than methotrexate. Toxicity however is severe, limiting its use given the low benefit-risk ratio compared to other antirheumatic agents.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P>The use of immunosuppressive drugs for the treatment of RA has been advocated for decades. Cyclophosphamide is an antineoplastic agent widely used in the treatment of cancer patients. It is an alkylating drug, with a marked cytotoxic effect on mononuclear cells and other leukocytes. These effects result in suppression of immune responses thought to be involved in the pathogenesis of RA. The use of cyclophosphamide in patients with severe RA increased during the 1980's. The drug is generally perceived to be efficacious although its use has been limited to patients failing other therapies because of concerns over its toxicity as a cytotoxic agent. It is unclear however if the benefits of the drug in reducing disease activity are superior to those of other less toxic agents.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To evaluate the short-term efficacy and toxicity of cyclophosphamide for the treatment of RA, by conducting a systematic review of randomized controlled trials (RCTs) and controlled clinical trials (CCT) comparing cyclophosphamide and placebo.</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Randomized controlled trials (RCTs) and controlled clinical trials (CCT) , with a minimum duration of the study of 6 months.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Patients with a diagnosis of RA (as stated in the publication)</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Intervention group: cyclophosphamide - minimum dosage &gt; 75 mg/day or &gt;1mg/kg/day, oral administration<BR/>Control group: placebo or active drug at a dosage considered to be ineffective.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>1. Efficacy</P>
+<P>All the outcome measures in OMERACT (Outcome Measures for Rheumatoid Arthritis Clinical Trials 1993) were included for potential analysis, although only some were consistently reported across trials.</P>
+<P>OMERACT measures for efficacy include:<BR/>a) Number of tender joints per patient<BR/>b) Number of swollen joints per patient<BR/>c) Pain<BR/>d) Physician global assessment<BR/>e) Patient global assessment<BR/>f) Functional status<BR/>g) Acute phase reactants<BR/>h) Radiological damage</P>
+<P>2. Withdrawals and dropouts - these were analyzed as:</P>
+<P>a) Total number of withdrawals and dropouts<BR/>b) Number of withdrawals from lack of efficacy<BR/>c) Number of withdrawals due to adverse reactions</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>1. Electronic searches<BR/>We searched the Cochrane Musculoskeletal Group's Register, the Cochrane Controlled Trials Register (issue 3, 2000) and MEDLINE using the strategy developed by Dickersin (<LINK REF="REF-Dickersin-1994" TYPE="REFERENCE">Dickersin 1994</LINK>) up to and including August 2000, EMBASE was searched from 1988 to August 2000, with a strategy similar to the one used for MEDLINE, </P>
+<P>2. Hand searches<BR/>Reference lists of all the trials selected through the electronic search were manually searched to identify additional trials.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>Data extracted from the publications included study characteristics and outcome measures of efficacy and toxicity. Data was extracted by one reviewer and cross checked by a second (EB, MS), using predetermined forms.</P>
+<P>1. Efficacy</P>
+<P>Only two trials could be evaluated for efficacy by meta-analysis of OMERACT outcome measures (<LINK REF="STD-Townes-1976" TYPE="STUDY">Townes 1976</LINK>, <LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK>). Both trials reported three of the OMERACT measures: number of tender joints, number of swollen joints and ESR. </P>
+<P>The two trials reported medians instead of means, and 80% ranges. We used end of trial medians as an estimate of end of trial means. The 80% range was divided by 2 to estimate the baseline standard deviation. </P>
+<P>End-of-trial results were pooled as standardized weighted mean differences (SMD) for joint scores, using the pooled baseline standard deviation. This was necessary because of the potential variation in the outcome measures included in each study (e.g. different number of swollen joints). Trial results were entered in RevMan 3.0 using the same direction to enable the pooling of results where the lowest value was improvement and the highest value was worsening. ESR results were pooled using a weighted mean difference (WMD). Negative values in SMD and WMD indicate a benefit of the active drug over placebo.</P>
+<P>Only one study included radiological assessments (<LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK>). The results were analyzed comparing the number of patients with new or worsened erosions in the placebo and treatment groups.</P>
+<P>2. Withdrawals and dropouts</P>
+<P>Adverse reactions were generally reported as overall results at the end of the trial. We therefore pooled withdrawals and dropouts at the end of the study. Toxicity was analyzed using a pooled odds ratio for total withdrawals from adverse reactions.</P>
+<P>The heterogeneity of the trials for each pooled analysis was estimated using a chi-square test.</P>
+<P>Fixed effects models were used throughout since no statistically significant heterogeneity was observed.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>Six CCTs were originally considered for potential inclusion in the meta-analysis, but only 2 trials were finally included in the meta-analysis (<LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK>, <LINK REF="STD-Townes-1976" TYPE="STUDY">Townes 1976</LINK>). One trial was excluded because it included mostly patients with connective tissue diseases other than RA (<LINK REF="STD-Fries-1970" TYPE="STUDY">Fries 1970</LINK>). Another trial was excluded because the treatment group received lower or borderline dosages than required by our inclusion criteria, and the data reported was incomplete for the analysis (<LINK REF="STD-Smyth-1975" TYPE="STUDY">Smyth 1975</LINK>). Another study also used a low cyclophosphamide dose (<LINK REF="STD-Lidsky--1973" TYPE="STUDY">Lidsky 1973</LINK>). The last trial (<LINK REF="STD-Williams-1980" TYPE="STUDY">Williams 1980</LINK>) included two groups with one receiving 150 mg and the other 75 mg of cyclophosphamide with no control group on placebo.</P>
+<P>Of the included trials, one had a cross-over design, and only the results of the first arm were included in the meta-analysis (<LINK REF="STD-Townes-1976" TYPE="STUDY">Townes 1976</LINK>). The duration of the trial was 8 months for the initial study (<LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK>) and 9 months for the first arm of the second study (<LINK REF="STD-Townes-1976" TYPE="STUDY">Townes 1976</LINK>). </P>
+<P>The control group in the <LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK> trial did not receive a placebo, they were treated with low doses of cyclophosphamide not exceeding 15 mg/day. We considered this dose to be low enough to evaluate this group as a control with no beneficial effects from cyclophosphamide.</P>
+<P>These studies were conducted in patients with severe longstanding RA, who had failed therapy with previous DMARDS.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>The methodological quality of the studies was assessed by two of the investigators (EB, MS) using a quality scale validated and published by <LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>. This scale includes an assessment of randomization, double-blinding procedures and description of withdrawals. The possible range of scores is 0 (worst) to 5 (best). One study had a score of 3 (<LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK>) and the other a score of 4 (<LINK REF="STD-Townes-1976" TYPE="STUDY">Townes 1976</LINK>).</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>A total of 70 patients were included in the pooled analysis, 31 receiving cyclophosphamide. Cyclophosphamide was statistically significantly better than placebo when considering the joint indices. The SMD for the tender joint score was -0.57 (95%CI: -1.05; -0.09), for swollen joints -0.59 (95%CI: -1.08; -0.10). The WMD for ESR between treatment and placebo groups was -11.6 mm and did not reach statistical significance (95% CI -25.7, 2.5).</P>
+<P>Although the results of global assessments were included in the trials, they could not be pooled because the data reported was inadequate for meta-analysis. One trial [CCT 1970] examined radiological scores. The measure reported here is based on the number of patients with new or worse erosions at the end of the study, and is reported as an OR. Statistically significant results favoured cyclophosphamide, (OR=0.17 - 95%CI: 0.05; 0.57). </P>
+<P>No statistically significant differences were observed in the number of withdrawals and dropouts between the placebo and treatment groups (OR=0.79; 95%CI:0.27 - 2.26). Nevertheless, withdrawals due to lack of efficacy were only observed in the placebo groups (3/48 vs 0/40). Patients receiving cyclophosphamide were more likely to withdraw because of toxicity than controls, but the difference was not statistically significant (OR 2.9, 95%CI:0.54 - 10.0). The overall prevalence of cyclophosphamide toxicity (with or without withdrawal) was high. Odds ratios comparing treatment and control groups could not be estimated for most adverse reactions since many occurred only in the treatment groups. By combining the results of both trials (considering both arms of the <LINK REF="STD-Townes-1976" TYPE="STUDY">Townes 1976</LINK> study), approximately 90% of the 43 patients included in this review receiving cyclophosphamide had one or more side effects. These included nausea and/or vomiting (58%), alopecia (26%), dysuria (26%), hemorrhagic cystitis (14%), herpes zoster (5%). Other adverse reactions included leucopenia,<BR/>thrombocytopenia and amenorrhea in premenopausal women.</P>
+<P>No statistically significant heterogeneity among trials was observed for any of the outcome measures.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>Cytotoxic agents were initially used for the treatment of RA in the early 1950's (<LINK REF="REF-Diaz-1951" TYPE="REFERENCE">Diaz 1951</LINK>, <LINK REF="REF-Scherbel-1957" TYPE="REFERENCE">Scherbel 1957</LINK>). Cyclophosphamide, an alkylating agent with cytotoxic and immunosuppressive properties was initially used in patients with RA by Fosdick (<LINK REF="REF-Fosdick-1968" TYPE="REFERENCE">Fosdick 1968</LINK>). Controlled clinical trials in the 1970's suggested that cyclophosphamide was superior to placebo and that it could be used for patients with severe, aggressive disease, non responsive to other agents (<LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK>). </P>
+<P>The purpose of this systematic review was to evaluate the efficacy and toxicity of cyclophosphamide for the treatment of patients with RA, when compared to placebo. We only included in this review placebo-controlled RCTs and CCTs, reporting results after at least 6 months of treatment. The minimum dosage of cyclophosphamide required was 75mg/day or 1 mg/kg/day. This dosage was chosen because the benefit from lower dosages is uncertain (<LINK REF="STD-Lidsky--1973" TYPE="STUDY">Lidsky 1973</LINK>). Only two trials complied with our inclusion criteria. Several others could not be included in the systematic review: two of these evaluated insufficient dosages (<LINK REF="STD-Lidsky--1973" TYPE="STUDY">Lidsky 1973</LINK>, <LINK REF="STD-Smyth-1975" TYPE="STUDY">Smyth 1975</LINK>), one included patients with various connective tissue diseases (<LINK REF="STD-Fries-1970" TYPE="STUDY">Fries 1970</LINK>), and the last study compared two dosages of cyclophosphamide without an additional control group (<LINK REF="STD-Williams-1980" TYPE="STUDY">Williams 1980</LINK>).</P>
+<P>Overall, only 70 patients, 31 on cyclophosphamide, could be included in the pooled analysis of efficacy. Statistically significant results favouring the active treatment were observed for tender and swollen joint scores. The magnitude of the effect was approximately 0.5 to 0.6, which can be considered as moderate. This is comparable to the results found in meta analyses of some other disease modifying agents used for the treatment of RA such as antimalarials or sulfasalazine, but lower than the efficacy observed with methotrexate, when compared to the results of meta-analyses using the same methodology (Cochrane Database of Systematic Reviews, Musculoskeletal Review Group). </P>
+<P>These two trials were published before the publication of OMERACT and the American College of Rheumatology (ACR) core set of measures for RA (<LINK REF="REF-OMERACT-1993" TYPE="REFERENCE">OMERACT 1993</LINK>, <LINK REF="REF-Felson-1993" TYPE="REFERENCE">Felson 1993</LINK>) and the CONSORT approach (<LINK REF="REF-Begg-1996" TYPE="REFERENCE">Begg 1996</LINK>).<BR/> <BR/>Some of the measures recommended by OMERACT and the ACR, such as functional status or pain were not included in the trials. Although global assessments had been measured, data reporting did not allow for meaningful pooling of the results. The available measures, joint counts and ESR, were reported as medians and 80% ranges. We estimated means and standard deviations from these values. Although these procedures may have created some bias, we believe that their impact is small because they were similarly applied to both groups (treatment and control).</P>
+<P>The <LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK> trial [<LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK> 1970] included a radiological evaluation, which showed a marked protective effect from cyclophosphamide, with significantly more patients in the placebo group developing new or worse erosions. These results however, were based on 48 patients and have not been replicated by others.</P>
+<P>Toxicity from cyclophosphamide was frequent and severe. Although only 6 of the 40 patients receiving cyclophosphamide included in the meta-analysis withdrew because of adverse reactions, side effects were severe, including hemorrhagic cystitis, herpes zoster and leucopenia. In one trial [<LINK REF="STD-CCC-1970" TYPE="STUDY">CCC 1970</LINK> 1970], one third of the patients on 150mg of cyclophosphamide experienced hair loss and half of them nausea and vomiting.</P>
+<P>One of the trials [<LINK REF="STD-Townes-1976" TYPE="STUDY">Townes 1976</LINK> 1976] had a cross-over design with two 9-month arms. After cross-over to placebo, many patients experienced an increase in disease severity, evident after 3 months. This suggests that this drug does not induce prolonged remission and has to be maintained over long periods of time. Given the drug's serious toxicity (hemorrhagic cystitis, leucopenia, infections) and its effects on quality of life (nausea, vomiting, hair loss) long term administration is not advisable. Furthermore, the risk of subsequent malignancies also has to be considered. </P>
+<P>The two trials included in this review were conducted in the early 1970's. Since then, very few trials have evaluated the use of cyclophosphamide in RA, and have focused on the comparison of dosages or its use in combination with other antirheumatic drugs (<LINK REF="REF-Walters-1988" TYPE="REFERENCE">Walters 1988</LINK>). Despite the limited evidence of its benefit and its serious toxicity, cyclophosphamide has been extensively used to treat patients with 'refractory' RA unresponsive to other therapies. The available evidence suggests that its effect is not greater than that of other less toxic antirheumatic therapies, although the populations included in these two trials had severe arthritis, perhaps less responsive than those studied in trials of other drugs. Methotrexate nevertheless, appears to have a stronger effect with a safer toxicity profile.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Cyclophosphamide appears to be an effective drug for the treatment of RA, but its use is very limited because of its serious toxicity profile. Given that its efficacy appears to be similar to that of other less toxic antirheumatic drugs, its use should remain limited to patients who have failed treatment with various other therapies.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Although cyclophosphamide appears to be efficacious in the treatment of patients with RA, this evidence is based in few studies of small sample size. Nevertheless, because of its substantial toxicity, it does not appear to deserve further study. Efforts in this area should be directed to explore newer cytotoxic agents, which can perhaps offer similar efficacy with lower toxicity than cyclophosphamide.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS/>
+<CONFLICT_OF_INTEREST>
+<P>None known<BR/> </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS/>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-CCC-1970" NAME="CCC 1970" YEAR="1970">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>CCC</AU>
+<TI>Cooperating Clinics Committee of the American Rheumatism Association. A controlled trial of cyclophosphamide in rheumatoid arthritis</TI>
+<SO>N Engl J Med</SO>
+<YR>1970</YR>
+<VL>283</VL>
+<NO>17</NO>
+<PG>883-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Townes-1976" NAME="Townes 1976" YEAR="1976">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Townes AS, Sowa JM, Shulman LE</AU>
+<TI>Controlled trial of cyclophosphamide in rheumatoid arthritis</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1976</YR>
+<VL>19</VL>
+<NO>3</NO>
+<PG>563-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fries-1970" NAME="Fries 1970" YEAR="1970">
+<REFERENCE NOTES="&lt;p&gt;Fries JF, Sharp GC and , McDevitt HO Holman HR. A controlled trial of cyclophosphamide therapy in connective tissue disease. Arthritis Rheum 1970;3: 316-317.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fries JF, Sharp GC and , McDevitt HO Holman HR</AU>
+<TI>A controlled trial of cyclophosphamide therapy in connective tissue disease</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1970</YR>
+<VL>3</VL>
+<PG>316-317</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lidsky--1973" NAME="Lidsky  1973" YEAR="1973">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lidsky MD, Sharp JT, Billings S</AU>
+<TI>Double-blind study of cyclophosphamide in rheumatoid arthritis</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1973</YR>
+<VL>16</VL>
+<NO>2</NO>
+<PG>148-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Smyth-1975" NAME="Smyth 1975" YEAR="1975">
+<REFERENCE NOTES="&lt;p&gt;Myth CJ, Bartholomew BA, Mills DM, Steigerwald JC, Strong SJ, Recart S. Cyclophosphamide therapy for rheumatoid arthritis. Arch Int Med 1975;135:789-793&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Myth CJ, Bartholomew BA, Mills DM, Steigerwald JC, Strong SJ, Recart S</AU>
+<TI>Cyclophosphamide therapy for rheumatoid arthritis</TI>
+<SO>Arch Int Med</SO>
+<YR>1975</YR>
+<VL>135</VL>
+<PG>789-793</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Williams-1980" NAME="Williams 1980" YEAR="1980">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Williams HJ, Reading JC, Ward JR, O'Brien WM</AU>
+<TI>Comparison of high and low dose cyclophosphamide therapy in rheumatoid arthritis</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1980</YR>
+<VL>23</VL>
+<PG>521-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Begg-1996" NAME="Begg 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Begg C, Cho M, Eastwood S et al</AU>
+<TI>Improving the quality of randomized controlled trials: the CONSORT statement</TI>
+<SO>JAMA</SO>
+<YR>1996</YR>
+<VL>276</VL>
+<PG>637-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Diaz-1951" NAME="Diaz 1951" NOTES="&lt;p&gt;Diaz CJ, Garcia EL, Merchante A et al. Treatment of rheumatoid arthritis with nitrogen mustard: preliminary report. JAMA 1951;147:1418-1419&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Diaz CJ, Garcia EL, Merchante A et al</AU>
+<TI>Treatment of rheumatoid arthritis with nitrogen mustard: preliminary report</TI>
+<SO>JAMA</SO>
+<YR>1951</YR>
+<VL>147</VL>
+<PG>1418-1419</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dickersin-1994" NAME="Dickersin 1994" NOTES="&lt;p&gt;Dickersin K., Scherer R., Lefebvre C. Identifying relevant studies for systematic reviews. BMJ 1994; 309:1286-91.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Dickersin K</AU>
+<TI>, Scherer R., Lefebvre C. Identifying relevant studies for systematic reviews</TI>
+<SO>BMJ</SO>
+<YR>1994</YR>
+<VL>309</VL>
+<PG>1286-91</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Felson-1993" NAME="Felson 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Felson DT, Anderson JJ, Boers M et al</AU>
+<TI>The American College of Rheumatology preliminary core set of disease activity measures for rheumatoid arthritis clinical trials</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1993</YR>
+<VL>36</VL>
+<PG>729-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Felson-1995" NAME="Felson 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Felson DT, Anderson JJ, Boers M et al</AU>
+<TI>American College of Rheumatology preliminary definition of improvement in rheumatoid arthritis</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1995</YR>
+<VL>38</VL>
+<PG>727-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fosdick-1968" NAME="Fosdick 1968" NOTES="&lt;p&gt;Fosdick WM, Parsons JL, Hill DF. Preliminary report: long-term cyclophosphamide therapy in rheumatoid arthritis. Arthritis Rheum 1968;11:151-161&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Fosdick WM, Parsons JL, Hill DF</AU>
+<TI>Preliminary report: long-term cyclophosphamide therapy in rheumatoid arthritis</TI>
+<SO>Arthritis Rheum</SO>
+<YR>1968</YR>
+<VL>11</VL>
+<PG>151-161</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad A, Moore A, Carrol D, et al</AU>
+<TI>Assessing the quality of reports of randomized trials: is blinding necessary?</TI>
+<SO>Control Clin Trial</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kazis-1989" NAME="Kazis 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Kazis LEE, Anderson JJ, Meenan RF</AU>
+<TI>Effect sizes for interpreting changes in health status</TI>
+<SO>Medical Care</SO>
+<YR>1989</YR>
+<VL>27</VL>
+<NO>S3</NO>
+<PG>S178-89</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-OMERACT-1993" NAME="OMERACT 1993" TYPE="JOURNAL_ARTICLE">
+<AU>OMERACT</AU>
+<TI>Conference on Outcome Measures in Rheumatoid Arthritis Clinical Trials</TI>
+<SO>J Rheumatol</SO>
+<YR>1993</YR>
+<VL>20</VL>
+<PG>526-91</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Scherbel-1957" NAME="Scherbel 1957" NOTES="&lt;p&gt;Scherbel AL. Intravenous administration of nitrogen mustard alone and with corticotropinfor rheumatoid arthritis. Cleveland Clin Q 1957;24:71-77&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Scherbel AL</AU>
+<TI>Intravenous administration of nitrogen mustard alone and with corticotropinfor rheumatoid arthritis</TI>
+<SO>Cleveland Clin Q</SO>
+<YR>1957</YR>
+<VL>24</VL>
+<PG>71-77</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Walters-1988" NAME="Walters 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Walters MT, Cawley MI</AU>
+<TI>Combined suppressive drug treatment in severe refractory rheumatoid disease: an analysis of the relative effects of parenteral methylprednisolone, cyclophosphamide, and sodium aurothiomalate</TI>
+<SO>Ann Rheum Dis</SO>
+<YR>1988</YR>
+<VL>47</VL>
+<NO>11</NO>
+<PG>924-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-CCC-1970">
+<CHAR_METHODS>
+<P>Randomized allocation<BR/>Double blind allocation<BR/>Assessment not entirely blind<BR/>Patients on low dose cyclophosphamide included as controls <BR/>Sample size at entry:<BR/>cyclophosphamide - 27<BR/>control - 37<BR/>Sample size analyzed<BR/>cyclophosphamide - 20<BR/>control - 28</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients with definite or classical active RA<BR/>Median age: Tx - 55 yr; Controls - 48 yr<BR/>Median duration of disease - <BR/>Tx - 7 yr; Controls - 6 yr<BR/>(all &gt;=2 yr duration)<BR/>Prevalence of RF - unknown<BR/>No concomittant use of other DMARDS<BR/>Concomitant use of steroids allowed<BR/>Previous use of DMARDS - 100%<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Cyclophosphamide - 50 to 150mg/day<BR/>Control group received cyclophosphamide 5 to 15mg/day<BR/>Treatment duration - 32 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>OMERACT:<BR/>Tender joints<BR/>Swollen joints<BR/>ESR<BR/>Radiological scores<BR/>OTHER:<BR/>Grip strength<BR/>Morning stiffness<BR/>50-foot walk</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Quality score: 2<BR/>No intent to treat analysis<BR/>Differences in medians used instead of differences in means<BR/>Standard deviations estimated from ranges<BR/>Global assessments measured but not reported as means or medians (only counts for higher scores)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Townes-1976">
+<CHAR_METHODS>
+<P>Randomized allocation<BR/>Double blind allocation and assessment<BR/>Cross-over study - only first arm (9 months included in review)<BR/>Sample size at entry:<BR/>cyclophosphamide - 13<BR/>placebo - 11<BR/>Sample size analyzed:<BR/>cyclophosphamide - 11<BR/>placebo - 11</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients with active severe classic RA<BR/>Median age - Tx 52 yr - Placebo 55 yr<BR/>Females - 63%<BR/>Median duration of disease<BR/>Tx 10 yr - Placebo 13 yr (at least 2 yrs)<BR/>Prevalence of RF - 92%<BR/>No concomitant use of other DMARDS<BR/>Concomitant use of steroids allowed if &lt;10mg/d<BR/>Previous use of DMARDS - 100%</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Cyclophosphamide - 2-3.5 mg/kg/day<BR/>(mean 1.85 mg/kg/day) <BR/>Treatment duration - 9 months</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>OMERACT:<BR/>Tender joints<BR/>Swollen joints<BR/>ESR<BR/>OTHER:<BR/>Grip strength<BR/>Morning stiffness<BR/>50-foot walk<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Quality score: 3<BR/>No intent to treat analysis<BR/>Differences in medians used instead of differences in means<BR/>Standard deviations estimated from baseline ranges<BR/>Global assessments measured but not reported as means or medians (only counts for each score)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Fries-1970">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients with connective tissue diseases other than rheumatoid arhritis</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lidsky--1973">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Low dosages of cyclophosphamide (50 to 70 mg/day)<BR/>One-year study including 22 patients randomly assigned to cyclophosphamide or placebo. No statistically significant benefit from cyclophosphamide observed</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Smyth-1975">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No end of trial or baseline data reported, only before and after differences<BR/>Low/borderline dosage of cyclophosphamide (75 mg/day)<BR/>The trial included 29 patients (13 received cyclophosphamide). The results showed a statistically significant difference favouring patients on cyclophosphamide</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Williams-1980">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No placebo-controlled group; 2 treatment groups receiving cyclophosphamide at dosages of 75 mg/day and 150 mg/day respectively</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-CCC-1970">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Townes-1976">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2008-09-22 01:39:37 -0400" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" MODIFIED="2008-09-22 01:39:37 -0400" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Cyclophosphamide vs. placebo - Efficacy</NAME>
+<CONT_OUTCOME CHI2="1.0573807102739792" CI_END="-1.5250808913170868" CI_START="-17.719095983439395" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="-9.62208843737824" ESTIMABLE="YES" I2="5.4266840426010035" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="0.3038137210399253" P_Q="1.0" P_Z="0.01985241786729155" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="31" TOTAL_2="39" UNITS="" WEIGHT="100.0" Z="2.3291255054461084">
+<NAME>Tender joints per patient</NAME>
+<GROUP_LABEL_1>Cyclophosphamide</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_DATA CI_END="-2.3727943384123105" CI_START="-25.627205661587688" EFFECT_SIZE="-14.0" ESTIMABLE="YES" MEAN_1="7.0" MEAN_2="21.0" ORDER="17880" SD_1="18.5" SD_2="22.5" SE="5.932356794972563" STUDY_ID="STD-CCC-1970" TOTAL_1="20" TOTAL_2="28" WEIGHT="48.49515808680281"/>
+<CONT_DATA CI_END="5.7823745894486756" CI_START="-16.782374589448676" EFFECT_SIZE="-5.5" ESTIMABLE="YES" MEAN_1="16.5" MEAN_2="22.0" ORDER="17881" SD_1="13.5" SD_2="13.5" SE="5.7564193416014815" STUDY_ID="STD-Townes-1976" TOTAL_1="11" TOTAL_2="11" WEIGHT="51.50484191319719"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.14181131727980112" CI_END="-1.711219655569554" CI_START="-12.039137174855417" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="-6.875178415212486" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.7064870380768881" P_Q="1.0" P_Z="0.00906873899768486" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="31" TOTAL_2="39" UNITS="" WEIGHT="100.0" Z="2.609451916311468">
+<NAME>Swollen joints per patient</NAME>
+<GROUP_LABEL_1>Cyclophosphamide</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_DATA CI_END="0.8858243837608919" CI_START="-12.885824383760891" EFFECT_SIZE="-6.0" ESTIMABLE="YES" MEAN_1="12.0" MEAN_2="18.0" ORDER="17882" SD_1="12.0" SD_2="12.0" SE="3.5132402626147194" STUDY_ID="STD-CCC-1970" TOTAL_1="20" TOTAL_2="28" WEIGHT="56.24107923937566"/>
+<CONT_DATA CI_END="-0.19362402664495004" CI_START="-15.806375973355049" EFFECT_SIZE="-8.0" ESTIMABLE="YES" MEAN_1="3.0" MEAN_2="11.0" ORDER="17883" SD_1="6.5" SD_2="11.5" SE="3.9829180714190398" STUDY_ID="STD-Townes-1976" TOTAL_1="11" TOTAL_2="11" WEIGHT="43.758920760624335"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.21256143429672825" CI_END="2.512361839529447" CI_START="-25.72289723603638" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="-11.605267698253467" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.03" MODIFIED="2008-09-22 01:39:37 -0400" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="0.6447671571889735" P_Q="1.0" P_Z="0.10714258915384715" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="31" TOTAL_2="39" UNITS="" WEIGHT="100.0" Z="1.611170392214085">
+<NAME>ESR</NAME>
+<GROUP_LABEL_1>Cyclophosphamide</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_DATA CI_END="3.405374062254179" CI_START="-31.40537406225418" EFFECT_SIZE="-14.0" ESTIMABLE="YES" MEAN_1="30.0" MEAN_2="44.0" ORDER="17884" SD_1="26.5" SD_2="35.0" SE="8.88045606936941" STUDY_ID="STD-CCC-1970" TOTAL_1="20" TOTAL_2="28" WEIGHT="65.7895385464781"/>
+<CONT_DATA CI_END="17.136945799151547" CI_START="-31.136945799151547" EFFECT_SIZE="-7.0" ESTIMABLE="YES" MEAN_1="42.0" MEAN_2="49.0" ORDER="17885" SD_1="31.5" SD_2="26.0" SE="12.314994555788115" STUDY_ID="STD-Townes-1976" TOTAL_1="11" TOTAL_2="11" WEIGHT="34.2104614535219"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.5723565286564092" CI_START="0.05145710041649141" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.17161528885593874" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="14" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="-0.24233335898211172" LOG_CI_START="-1.288554689726851" LOG_EFFECT_SIZE="-0.7654440243544813" METHOD="PETO" MODIFIED="2008-09-22 01:39:37 -0400" MODIFIED_BY="[Empty name]" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.004131720540310387" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="28" WEIGHT="100.0" Z="2.8679260799399975">
+<NAME>Radiolological damage - Patients with new/worse erosions</NAME>
+<GROUP_LABEL_1>Cyclophosphamide</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<DICH_DATA CI_END="0.5723565286564092" CI_START="0.05145710041649141" EFFECT_SIZE="0.17161528885593874" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="14" LOG_CI_END="-0.24233335898211172" LOG_CI_START="-1.288554689726851" LOG_EFFECT_SIZE="-0.7654440243544813" ORDER="17886" O_E="-4.666666666666667" SE="0.6145555885585708" STUDY_ID="STD-CCC-1970" TOTAL_1="20" TOTAL_2="28" VAR="2.6477541371158395" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Cyclophosphamide vs. placebo - Withdrawals and dropouts</NAME>
+<DICH_OUTCOME CHI2="2.5978647871520213" CI_END="2.2565032010418844" CI_START="0.27330502825135555" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.7853111938015569" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="11" I2="61.5068495887241" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="0.35343595394029526" LOG_CI_START="-0.5633523781070867" LOG_EFFECT_SIZE="-0.10495821208339574" METHOD="PETO" NO="1" P_CHI2="0.10700783968533589" P_Q="1.0" P_Z="0.6535963784563106" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="40" TOTAL_2="48" WEIGHT="100.0" Z="0.44877167035005544">
+<NAME>Withdrawals and dropouts - Total</NAME>
+<GROUP_LABEL_1>Cyclophosphamide</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<DICH_DATA CI_END="1.7299334675263156" CI_START="0.17812671020221693" EFFECT_SIZE="0.5551102209824426" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="11" LOG_CI_END="0.23802940067687647" LOG_CI_START="-0.7492709529473711" LOG_EFFECT_SIZE="-0.25562077613524736" ORDER="17887" O_E="-1.75" SE="0.5799451149344534" STUDY_ID="STD-CCC-1970" TOTAL_1="27" TOTAL_2="37" VAR="2.9732142857142856" WEIGHT="86.22626404143004"/>
+<DICH_DATA CI_END="118.39960156299047" CI_START="0.40094721364861907" EFFECT_SIZE="6.88999204236026" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="2.073350240906447" LOG_CI_START="-0.3969128002729146" LOG_EFFECT_SIZE="0.838218720316766" ORDER="17888" O_E="0.9166666666666667" SE="1.4510447383880212" STUDY_ID="STD-Townes-1976" TOTAL_1="13" TOTAL_2="11" VAR="0.47493961352656994" WEIGHT="13.773735958569961"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.719669044695865" CI_START="0.0163256756667721" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.16755524186933846" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-002.02" LOG_CI_END="0.23544487371436182" LOG_CI_START="-1.7871288356407344" LOG_EFFECT_SIZE="-0.7758419809631862" METHOD="PETO" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.13267129028386507" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="40" TOTAL_2="48" WEIGHT="100.00000000000001" Z="1.5036508517327762">
+<NAME>Withdrawals due to inefficacy</NAME>
+<GROUP_LABEL_1>Cyclophosphamide</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<DICH_DATA CI_END="1.719669044695865" CI_START="0.0163256756667721" EFFECT_SIZE="0.16755524186933846" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="3" LOG_CI_END="0.23544487371436182" LOG_CI_START="-1.7871288356407344" LOG_EFFECT_SIZE="-0.7758419809631862" ORDER="17889" O_E="-1.265625" SE="1.1880698087765147" STUDY_ID="STD-CCC-1970" TOTAL_1="27" TOTAL_2="37" VAR="0.7084612165178571" WEIGHT="100.00000000000001"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="17890" O_E="0.0" SE="0.0" STUDY_ID="STD-Townes-1976" TOTAL_1="13" TOTAL_2="11" VAR="0.0" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.17953451228407413" CI_END="11.504595565679852" CI_START="0.7109377627538704" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="2.859904095044541" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-002.03" LOG_CI_END="1.0608713560180654" LOG_CI_START="-0.1481684168168355" LOG_EFFECT_SIZE="0.45635146960061496" METHOD="PETO" NO="3" P_CHI2="0.6717735844584958" P_Q="1.0" P_Z="0.13898673160617184" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="40" TOTAL_2="48" WEIGHT="100.00000000000001" Z="1.4795748904304558">
+<NAME>Withdrawals due to adverse reactions</NAME>
+<GROUP_LABEL_1>Cyclophosphamide</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<DICH_DATA CI_END="11.304369436641274" CI_START="0.5761913590343307" EFFECT_SIZE="2.5521520308799177" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="1.0532463421944442" LOG_CI_START="-0.23943325898835066" LOG_EFFECT_SIZE="0.4069065416030468" ORDER="17891" O_E="1.625" SE="0.7593263966019992" STUDY_ID="STD-CCC-1970" TOTAL_1="27" TOTAL_2="37" VAR="1.734375" WEIGHT="87.47810858143609"/>
+<DICH_DATA CI_END="323.6827854306077" CI_START="0.12400216094141783" EFFECT_SIZE="6.335405658119504" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.5101196027349895" LOG_CI_START="-0.9065707464768286" LOG_EFFECT_SIZE="0.8017744281290805" ORDER="17892" O_E="0.45833333333333337" SE="2.006980824017018" STUDY_ID="STD-Townes-1976" TOTAL_1="13" TOTAL_2="11" VAR="0.24826388888888884" WEIGHT="12.521891418563921"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

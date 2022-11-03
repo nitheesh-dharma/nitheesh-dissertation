@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003063.pub3" GROUP_ID="NEONATAL" ID="638101012206162783" MERGED_FROM="" MODIFIED="2008-05-14 20:56:24 +0200" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Exported from Review Manager 4.2.9&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.3&lt;br&gt;CL 2/02 (do not remove)&lt;/p&gt;&lt;p&gt;sent to Stevens Mar 25/04&lt;/p&gt;&lt;p&gt;CL 3/04 update&lt;br&gt;CL 4/07 substantive update&lt;br&gt;CL 1/08 (minor edit Harrington name update to Myers)&lt;/p&gt;" NOTES_MODIFIED="2008-05-14 14:55:10 -0400" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="" REVMAN_SUB_VERSION="5.0.8" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="6.2">
+<COVER_SHEET MODIFIED="2008-05-14 14:55:10 -0400" MODIFIED_BY="[Empty name]">
+<TITLE>Early surfactant administration with brief ventilation vs. selective surfactant and continued mechanical ventilation for preterm infants with or at risk for respiratory distress syndrome</TITLE>
+<CONTACT>
+<PERSON ID="15327" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Timothy</FIRST_NAME>
+<MIDDLE_INITIALS>P.</MIDDLE_INITIALS>
+<LAST_NAME>Stevens</LAST_NAME>
+<SUFFIX/>
+<POSITION>Associate Professor of Pediatrics (Neonatology)</POSITION>
+<EMAIL_1>timothy_stevens@urmc.rochester.edu</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pediatrics</DEPARTMENT>
+<ORGANISATION>University of Rochester</ORGANISATION>
+<ADDRESS_1>Dept of Pediatrics (Neonatology), Box 651</ADDRESS_1>
+<ADDRESS_2>601 Elmwood Ave</ADDRESS_2>
+<CITY>Rochester</CITY>
+<ZIP>14642</ZIP>
+<REGION>NY</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>585 275-2972</PHONE_1>
+<PHONE_2>585 275-6211</PHONE_2>
+<FAX_1>585 461-3614</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2008-05-14 14:48:26 -0400" MODIFIED_BY="Diane Haughton">
+<PERSON ID="15327" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Timothy</FIRST_NAME>
+<MIDDLE_INITIALS>P.</MIDDLE_INITIALS>
+<LAST_NAME>Stevens</LAST_NAME>
+<SUFFIX/>
+<POSITION>Associate Professor of Pediatrics (Neonatology)</POSITION>
+<EMAIL_1>timothy_stevens@urmc.rochester.edu</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pediatrics</DEPARTMENT>
+<ORGANISATION>University of Rochester</ORGANISATION>
+<ADDRESS_1>Dept of Pediatrics (Neonatology), Box 651</ADDRESS_1>
+<ADDRESS_2>601 Elmwood Ave</ADDRESS_2>
+<CITY>Rochester</CITY>
+<ZIP>14642</ZIP>
+<REGION>NY</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>585 275-2972</PHONE_1>
+<PHONE_2>585 275-6211</PHONE_2>
+<FAX_1>585 461-3614</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="15178" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Mats</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Blennow</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>mats.blennow@kbh.ki.se</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Neonatal Unit</DEPARTMENT>
+<ORGANISATION>Huddinge Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY>Huddinge</CITY>
+<ZIP>14186</ZIP>
+<REGION/>
+<COUNTRY CODE="SE">Sweden</COUNTRY>
+<PHONE_1>46 8 58581428</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="0FB60A1982E26AA200CD32E5C949039E" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Eliza</FIRST_NAME>
+<MIDDLE_INITIALS>H</MIDDLE_INITIALS>
+<LAST_NAME>Myers</LAST_NAME>
+<SUFFIX/>
+<POSITION>Resident</POSITION>
+<EMAIL_1>myers.eliza@gmail.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pediatrics</DEPARTMENT>
+<ORGANISATION>Golisano Children's Hospital at Strong</ORGANISATION>
+<ADDRESS_1>Box 777</ADDRESS_1>
+<ADDRESS_2>601 Elmwood Avenue</ADDRESS_2>
+<CITY>Rochester</CITY>
+<ZIP>14642</ZIP>
+<REGION/>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>585-275-4174</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="18509" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Roger</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Soll</LAST_NAME>
+<SUFFIX/>
+<POSITION>Coordinating Editor, Cochrane Neonatal Review Group</POSITION>
+<EMAIL_1>Roger.Soll@vtmednet.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Division of Neonatal-Perinatal Medicine</DEPARTMENT>
+<ORGANISATION>University of Vermont</ORGANISATION>
+<ADDRESS_1>Fletcher Allen Health Care, Smith 552A</ADDRESS_1>
+<ADDRESS_2>111 Colchester Avenue</ADDRESS_2>
+<CITY>Burlington</CITY>
+<ZIP>05401</ZIP>
+<REGION>Vermont</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>802 847 2392</PHONE_1>
+<PHONE_2/>
+<FAX_1>802 847 5225</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-05-08 12:40:12 -0400" MODIFIED_BY="Diane Haughton">
+<UP_TO_DATE>
+<DATE DAY="20" MONTH="6" YEAR="2007"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="20" MONTH="6" YEAR="2007"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="8" MONTH="1" YEAR="2009"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2001"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2002"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2007"/>
+</DATES>
+<WHATS_NEW MODIFIED="2008-05-14 14:55:10 -0400" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;This review updates the existing version of &amp;quot;Early surfactant administration with brief ventilation vs. selective surfactant and continued mechanical ventilation for preterm infants with or at risk for RDS&amp;quot; that was first published in The Cochrane Library, Issue 2, 2002 (Stevens 2002). &lt;br&gt;&lt;br&gt;Since the last update, published and unpublished data have become available from studies identified in the previous version of this review of early surfactant administration with rapid extubation vs. selective surfactant and continued mechanical ventilation. Extensive searches of various databases did not identify additional randomized controlled trials of this therapeutic strategy. &lt;br&gt;&lt;br&gt;This update includes complete data from three studies published in 2004 or after [Dani 2004, Texas Research Group, and Reininger 2005 (previously included as D'Angio 2003)] as well as methodological details and outcome data of the NICHD 2002 trial that was obtained from the investigators [NICHD 2002 (formerly Habermann 2002)]. One study is currently awaiting assessment; the Thomson 2002 trial is published in outline form without sufficient detail to assess the quality of the study and important clinical outcomes (Thomson 2002).&lt;br&gt;&lt;br&gt;Six randomized controlled trials of early surfactant administration with rapid extubation vs. selective surfactant and continued mechanical ventilation have been completed. Review of these six trials suggests that early surfactant replacement therapy with extubation to NCPAP compared with later, selective surfactant replacement and continued mechanical ventilation with extubation from low ventilator support is associated with less need mechanical ventilation, lower incidence of BPD and fewer air leak syndromes. In a subgroup comparison examining treatment threshold, a lower treatment threshold (FIO2 &amp;lt;= 0.45) confers greater advantage in reducing the incidences of airleak syndromes and BPD; moreover a higher treatment threshold (FIO2 at study &amp;gt; 0.45) had an increased incidence of PDA. These data suggest that treatment with surfactant by transient intubation using a low treatment threshold (FIO2 &amp;lt; 0.45) is preferable to later selective surfactant therapy by transient intubation using a higher threshold for study entry (FIO2 &amp;gt; 0.45) or at the time of respiratory failure and initiation of mechanical ventilation. &lt;br&gt;&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2008-05-14 14:55:10 -0400" NOTES_MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="27" MONTH="2" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2008-05-14 14:55:10 -0400" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-05-14 14:55:10 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="20" MONTH="6" YEAR="2007"/>
+<DESCRIPTION>
+<P>This review updates the existing version of "Early surfactant administration with brief ventilation vs. selective surfactant and continued mechanical ventilation for preterm infants with or at risk for RDS" that was first published in The Cochrane Library, Issue 2, 2002 (Stevens 2002).<BR/>
+<BR/>Since the last update, published and unpublished data have become available from studies identified in the previous version of this review of early surfactant administration with rapid extubation vs. selective surfactant and continued mechanical ventilation. Extensive searches of various databases did not identify additional randomized controlled trials of this therapeutic strategy.<BR/>
+<BR/>This update includes complete data from three studies published in 2004 or after [Dani 2004, Texas Research Group, and Reininger 2005 (previously included as D'Angio 2003)] as well as methodological details and outcome data of the NICHD 2002 trial that was obtained from the investigators [NICHD 2002 (formerly Habermann 2002)]. One study is currently awaiting assessment; the Thomson 2002 trial is published in outline form without sufficient detail to assess the quality of the study and important clinical outcomes (Thomson 2002).<BR/>
+<BR/>Six randomized controlled trials of early surfactant administration with rapid extubation vs. selective surfactant and continued mechanical ventilation have been completed. Review of these six trials suggests that early surfactant replacement therapy with extubation to NCPAP compared with later, selective surfactant replacement and continued mechanical ventilation with extubation from low ventilator support is associated with less need mechanical ventilation, lower incidence of BPD and fewer air leak syndromes. In a subgroup comparison examining treatment threshold, a lower treatment threshold (FIO2 &lt;= 0.45) confers greater advantage in reducing the incidences of airleak syndromes and BPD; moreover a higher treatment threshold (FIO2 at study &gt; 0.45) had an increased incidence of PDA. These data suggest that treatment with surfactant by transient intubation using a low treatment threshold (FIO2 &lt; 0.45) is preferable to later selective surfactant therapy by transient intubation using a higher threshold for study entry (FIO2 &gt; 0.45) or at the time of respiratory failure and initiation of mechanical ventilation.<BR/>
+<BR/>
+</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="20" MONTH="6" YEAR="2007"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-05-14 14:48:44 -0400" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-02-27 10:51:38 -0500" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-02-27 10:51:33 -0500" MODIFIED_BY="[Empty name]">Early surfactant administration with brief ventilation vs. selective surfactant and continued mechanical ventilation for preterm infants with or at risk for respiratory distress syndrome</TITLE>
+<SUMMARY_BODY MODIFIED="2008-02-27 10:51:38 -0500" MODIFIED_BY="[Empty name]">
+<P>Respiratory distress syndrome (RDS) is the single most important cause of illness and death in preterm infants. Common treatments for RDS include supplemental oxygen and nasal continuous positive airway pressure (NCPAP). For severe RDS, surfactant administration during mechanical ventilation is used. Although treating RDS with surfactant improves clinical outcomes, mechanical ventilation can cause lung injury in preterm infants with RDS and contribute to the development of chronic lung disease (oxygen requirements at 36 weeks) and bronchopulmonary dysplasia (requirement for supplementary oxygen at 28 days, BPD). An important question is whether giving early surfactant with planned brief mechanical ventilation followed by prompt extubation (to NCPAP) is better than selectively giving surfactant when RDS has worsened causing respiratory insufficiency necessitating mechanical ventilation. The review authors identified six randomized trials reported between 1994 and 2006 that met the selection criteria for this review. A strategy of early surfactant administration with extubation to NCPAP was associated with significant reductions in the need for mechanical ventilation, fewer air leak syndromes (such as pneumothorax) and lower incidence of BPD compared with a strategy of later selective surfactant administration and continued mechanical ventilation in infants with RDS. The findings suggest that a lower treatment threshold (oxygen requirement &lt; 0.45) confers greater advantage than does a higher treatment threshold (oxygen requirement &gt; 0.45).</P>
+<P>An early surfactant therapy strategy results in a greater number of infants receiving surfactant and so more infants being exposed to the potential risks of intubation and surfactant administration. Although no complications of surfactant administration were reported in the studies reviewed, infants treated with an early surfactant therapy strategy tended to have a higher prevalence of patent ductus arteriosus (PDA). Two trials were terminated prior to achieving the targeted enrollment when the need for mechanical ventilation was found to be significantly different between groups at a scheduled interim analysis. Two other trials experienced slow enrollment leading to reduced numbers.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-05-14 14:48:44 -0400" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND>
+<P>Both prophylactic and early surfactant replacement therapy reduce mortality and pulmonary complications in ventilated infants with respiratory distress syndrome (RDS) compared with later selective surfactant administration. However, continued post-surfactant intubation and ventilation are risk factors for bronchopulmonary dysplasia (BPD). The purpose of this review was to compare outcomes between two strategies of surfactant administration in infants with RDS; prophylactic or early surfactant administration followed by prompt extubation, compared with later, selective use of surfactant followed by continued mechanical ventilation. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To compare two treatment strategies in preterm infants with or at risk for RDS: early surfactant administration with brief mechanical ventilation (less than one hour) followed by extubation vs. later selective surfactant administration, continued mechanical ventilation, and extubation from low respiratory support. Two populations of infants receiving early surfactant were considered: spontaneously breathing infants with signs of RDS (who receive surfactant administration during evolution of RDS prior to requiring intubation for respiratory failure) and infants at high risk for RDS (who receive prophylactic surfactant administration within 15 minutes after birth). </P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>Searches were made of the Oxford Database of Perinatal Trials, MEDLINE (1966 - December 2006), CINAHL (1982 to December Week 2, 2006), EMBASE (1980 - December 2006), Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 4, 2006), Pediatric Research (1990 - 2006), abstracts, expert informants and hand searching. No language restrictions were applied.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomized or quasi-randomized controlled clinical trials comparing early surfactant administration with planned brief mechanical ventilation (less than one hour) followed by extubation vs. selective surfactant administration continued mechanical ventilation, and extubation from low respiratory support.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Data were sought regarding effects on the incidence of mechanical ventilation (ventilation continued or initiated beyond one hour after surfactant administration), incidence of bronchopulmonary dysplasia (BPD), chronic lung disease (CLD), mortality, duration of mechanical ventilation, duration of hospitalization, duration of oxygen therapy, duration of respiratory support (including CPAP and nasal cannula), number of patients receiving surfactant, number of surfactant doses administered per patient, incidence of air leak syndromes (pulmonary interstitial emphysema, pneumothorax), patent ductus arteriosus requiring treatment, pulmonary hemorrhage, and other complications of prematurity. Stratified analysis was performed according to inspired oxygen threshold for early intubation and surfactant administration in the treatment group: inspired oxygen within lower (FiO<SUB>2</SUB> <U>&lt;</U> 0.45) or higher (FiO<SUB>2</SUB> &gt; 0.45) range at study entry. Treatment effect was expressed as relative risk (RR) and risk difference (RD) for categorical variables, and weighted mean difference (WMD) for continuous variables.<BR/> </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2008-05-14 14:48:44 -0400" MODIFIED_BY="[Empty name]">
+<P>Six randomized controlled clinical trials met selection criteria and were included in this review. In these studies of infants with signs and symptoms of RDS, intubation and early surfactant therapy followed by extubation to nasal CPAP (NCPAP) compared with later selective surfactant administration was associated with a lower incidence of mechanical ventilation [typical RR 0.67, 95% CI 0.57, 0.79], air leak syndromes [typical RR 0.52, 95% CI 0.28, 0.96] and BPD [typical RR 0.51, 95% CI 0.26, 0.99]. A larger proportion of infants in the early surfactant group received surfactant than in the selective surfactant group [typical RR 1.62, 95% CI 1.41, 1.86]. The number of surfactant doses per patient was significantly greater among patients randomized to the early surfactant group [WMD 0.57 doses per patient, 95% CI 0.44, 0.69]. In stratified analysis by FIO<SUB>2</SUB> at study entry, a lower threshold for treatment (FIO<SUB>2</SUB> <U>&lt;</U> 0.45) resulted in lower incidence of airleak [typical RR 0.46 and 95% CI 0.23, 0.93] and BPD [typical RR 0.43, 95% CI 0.20, 0.92]. A higher treatment threshold (FIO<SUB>2</SUB> &gt; 0.45) at study entry was associated with a higher incidence of patent ductus arteriosus requiring treatment [typical RR 2.15, 95% CI 1.09, 4.13].</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Early surfactant replacement therapy with extubation to NCPAP compared with later selective surfactant replacement and continued mechanical ventilation with extubation from low ventilator support is associated with less need mechanical ventilation, lower incidence of BPD and fewer air leak syndromes. A lower treatment threshold (FIO<SUB>2</SUB> <U>&lt;</U> 0.45) confers greater advantage in reducing the incidences of airleak syndromes and BPD; moreover a higher treatment threshold (FIO<SUB>2</SUB> at study &gt; 0.45) was associated with increased risk of PDA. These data suggest that treatment with surfactant by transient intubation using a low treatment threshold (FIO<SUB>2</SUB> <U>&lt;</U> 0.45) is preferable to later, selective surfactant therapy by transient intubation using a higher threshold for study entry (FIO<SUB>2</SUB> &gt; 0.45) or at the time of respiratory failure and initiation of mechanical ventilation. <BR/> </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-05-08 12:53:57 -0400" MODIFIED_BY="[Empty name]">
+<BACKGROUND>
+<P>Respiratory distress syndrome (RDS) is the single most important cause of morbidity and mortality in preterm infants (<LINK REF="REF-Greenough-2002" TYPE="REFERENCE">Greenough 2002</LINK>). Clinical trials have shown that surfactant replacement therapy in RDS decreases mortality and improves clinical outcomes of ventilated premature newborns (<LINK REF="REF-Soll-2002a" TYPE="REFERENCE">Soll 2002a</LINK>). Trials have studied the optimal surfactant preparation, dose and time of administration. For infants at high risk for RDS, prophylactic (pre- or post-ventilation) or early (&lt; 2 hours of age) surfactant replacement therapy compared to later selective surfactant administration of established RDS significantly improves survival and reduces the incidence of bronchopulmonary dysplasia (BPD) or death, and incidence of air leak (<LINK REF="REF-Gortner-1998" TYPE="REFERENCE">Gortner 1998</LINK>; <LINK REF="REF-Yost-2002" TYPE="REFERENCE">Yost 2002</LINK>; <LINK REF="REF-Soll-2002b" TYPE="REFERENCE">Soll 2002b</LINK>). However, despite the benefits of surfactant replacement therapy, BPD continues to be a clinically important complication of preterm birth and RDS (<LINK REF="REF-Yost-2002" TYPE="REFERENCE">Yost 2002</LINK>; <LINK REF="REF-Soll-2002a" TYPE="REFERENCE">Soll 2002a</LINK>).</P>
+<P>Previous systematic reviews of surfactant replacement therapy have evaluated trials that used a surfactant administration paradigm consisting of endotracheal intubation, surfactant administration, stabilization and intermittent positive pressure ventilation (IPPV) followed by extubation when stable on low respiratory support. IPPV for preterm infants with RDS has long been recognized to contribute to lung injury, which may lead to the development of bronchopulmonary dysplasia (BPD) (<LINK REF="REF-Northway-1967" TYPE="REFERENCE">Northway 1967</LINK>). Early implementation of continuous distending pressure (CDP) can avoid mechanical ventilation and prolonged intubation (<LINK REF="REF-Jonsson-1997" TYPE="REFERENCE">Jonsson 1997</LINK>; <LINK REF="REF-Kamper-1999" TYPE="REFERENCE">Kamper 1999</LINK>) and is an effective treatment for RDS (<LINK REF="REF-Ho-2002" TYPE="REFERENCE">Ho 2002</LINK>). CDP has been applied as a continuous positive airway pressure (CPAP) using a nasopharyngeal tube or nasal prongs (NCPAP), or as a continuous negative pressure (CNP) applied externally to the thorax with a seal around the neck. </P>
+<P>As early as 1971, Gregory and colleagues reported that CPAP was an effective treatment for RDS that reduced the need for mechanical ventilation (<LINK REF="REF-Gregory-1971" TYPE="REFERENCE">Gregory 1971</LINK>). In 1987, Avery speculated that greater use of CPAP was associated with a lesser risk of BPD (<LINK REF="REF-Avery-1987" TYPE="REFERENCE">Avery 1987</LINK>). A recent observational study comparing the prevalence of chronic lung disease (CLD, oxygen at 36 weeks postmenstrual age) at three large NICUs identified initiation of mechanical ventilation as the major risk factor associated with an increased risk of CLD among very low birth weight infants (<LINK REF="REF-Van-Marter-2000" TYPE="REFERENCE">Van Marter 2000</LINK>). Combination therapy with CPAP and surfactant replacement therapy offers potential synergy to treat RDS, avoid mechanical ventilation, and prevent lung injury that may lead to development of BPD. </P>
+<P>This review evaluates the effect of surfactant administration via endotracheal instillation with a planned brief (&lt; 1 hour) period of mechanical ventilation followed by extubation vs. more conventional management consisting of selective surfactant administration followed by continued mechanical ventilation and extubation from low respiratory support in previously non-intubated infants with RDS.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To compare two treatment strategies for RDS: early surfactant administration with brief mechanical ventilation (less than one hour) followed by early extubation vs. later selective surfactant administration, continued mechanical ventilation and extubation from low respiratory support in previously non-intubated infants with RDS.</P>
+<P>These two management strategies were compared in two populations of premature infants:</P>
+<P>1. In spontaneously breathing infants with signs of RDS. Early intubation for surfactant administration followed by brief mechanical ventilation with planned extubation within one hour (treatment group) was compared with later intubation after progression of respiratory insufficiency, surfactant administration and continued mechanical ventilation with extubation from low respiratory support (control group). Subgroup analyses were planned according to: <BR/>i) Inspired oxygen threshold for early intubation and surfactant administration in the treatment group: inspired oxygen within lower (FiO<SUB>2</SUB> <U>&lt;</U> 0.45) or higher (FiO<SUB>2</SUB> &gt; 0.45) range at study entry <BR/>ii) Method of extubation of treatment group: extubation to NCPAP or extubation to atmospheric pressure</P>
+<P>2. In spontaneously breathing infants at risk of RDS who are &lt; 15 minutes of age. Prophylactic intubation for surfactant administration at &lt; 15 minutes of age followed by brief mechanical ventilation with planned extubation within one hour (treatment group) was compared with later, selective intubation after signs of RDS develop, surfactant administration and continued mechanical ventilation with extubation from low respiratory support (control group). Subgroup analyses was planned according to:<BR/>i) Inspired oxygen threshold for intubation and selective surfactant administration in the control group: inspired oxygen within lower (FiO<SUB>2 </SUB>&lt; 0.45) or higher (FiO<SUB>2 </SUB>&gt; 0.45) range <BR/>ii) Method of extubation of the treatment group: extubation to NCPAP or extubation to atmospheric pressure</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Trials using random or quasi-random allocation to a treatment strategy consisting of surfactant administration via endotracheal instillation with a planned brief (&lt; 1 hour) period of mechanical ventilation followed by extubation vs. more conventional management consisting of selective surfactant administration followed by continued mechanical ventilation and extubation from low respiratory support .</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Infants &lt; 37 weeks' gestation with signs of RDS (oxygen requirement, respiratory distress and consistent chest radiograph) or infants &lt; 32 weeks gestation considered to be at high risk for RDS.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Study group: Infants allocated to a strategy consisting of intubation, prophylactic or early surfactant administration, brief ventilation (&lt; 1 hour) and planned rapid extubation.<BR/>Control group: Infants allocated to conventional treatment consisting of selective surfactant administration followed by continued mechanical ventilation and extubation from low respiratory support.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-05-08 12:53:57 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>Primary outcomes</B>
+<BR/>1. Need for mechanical ventilation (incidence of ventilation continuing for one hour or more after surfactant administration in the early treatment group or initiated for respiratory insufficiency or apnea in either group)<BR/>2. Incidence of bronchopulmonary dysplasia (BPD, need for oxygen at 28 days of age)<BR/>3. Incidence of chronic lung disease (CLD, need for oxygen at 36 weeks postmenstrual age)<BR/>4. Incidence of neonatal mortality (mortality &lt; 28 days of age)<BR/>5. Incidence of mortality prior to hospital discharge</P>
+<P>
+<B>Secondary outcomes</B>
+<BR/>1. duration of mechanical ventilation (days)<BR/>2. duration of hospitalization (days)<BR/>3. duration in oxygen (days)<BR/>4. duration of any respiratory support (mechanical ventilation, CPAP and nasal cannula) (days)<BR/>5. number of patients receiving surfactant<BR/>6. number of surfactant doses per patient<BR/>7. incidence of air leak syndromes (pulmonary interstitial emphysema, pneumothorax)<BR/>8. intraventricular hemorrhage (any and severe, grade 3 - 4)<BR/>9. patent ductus arteriosus<BR/>10. necrotizing enterocolitis<BR/>11. retinopathy of prematurity (any and severe, stage 3 or greater)<BR/>12. frequency of apnea<BR/>13. time to regain birth weight (days)<BR/>14. neurodevelopmental outcome at hospital discharge and a later time point (&gt; 1 year post-conceptional age). Neurodevelopmental impairment is defined as the presence of cerebral palsy and/or mental retardation (Bayley Scales of Infant Development Mental Developmental Index &lt; 70) and/or legal blindness (&lt; 20/200 visual acuity) and or deafness (aided or &lt; 60dB on audiometric testing)<BR/>15. need for sedation/analgesia<BR/>16. parental satisfaction.</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>The standard search strategy of the Cochrane Neonatal Review Group as outlined in the Cochrane Library was used. This included searches of the Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 4, 2006), Pediatric Research, 1990 - 2006), and MEDLINE (1966 - December 2006) using MeSH headings: infant-newborn, pulmonary surfactant, CPAP, respiratory distress syndrome, clinical trial. Other databases searched included: EMBASE (1980 - December 2006), CINAHL (1982 - December 2006), reference lists of published trials and abstracts published in Pediatric Research (1990 - 2006). No language restrictions were applied. <BR/> </P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>Standard methods of the Cochrane Collaboration and the Cochrane Neonatal Review Group were used to assess the methodologic quality of the trials. For each included study, information was collected regarding blinding of randomization, blinding of the intervention, completeness of follow-up, blinding of outcome measurements, drug intervention, stratification, and whether the trial was single or multicenter. If necessary to clarify study design or outcome data, efforts were made to directly contact the authors of the trial to complete the data set. Retrieved articles were reviewed and data extracted independently by two review authors (TS, EH). Discrepancies were resolved by discussion and consensus. The statistical methods for expressing treatment effect included relative risk (RR), risk difference (RD), number needed to treat (NNT) and mean difference (MD) when appropriate.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>Searches of the literature identified twenty-one studies that evaluated early surfactant administration with brief ventilation and planned early extubation. Five of the reports were case series or studies having non-randomized controls (<LINK REF="STD-Alba-1995" TYPE="STUDY">Alba 1995</LINK>; <LINK REF="STD-Blennow-1999" TYPE="STUDY">Blennow 1999</LINK>; <LINK REF="STD-Mandy-1998" TYPE="STUDY">Mandy 1998</LINK>; <LINK REF="STD-Verder-1992" TYPE="STUDY">Verder 1992</LINK>; <LINK REF="STD-Victorin-1990" TYPE="STUDY">Victorin 1990</LINK>). The trial of Dambeanu was excluded because mechanical ventilation was not available to either study group (<LINK REF="STD-Dambeanu-1997" TYPE="STUDY">Dambeanu 1997</LINK>). The <LINK REF="STD-So-1994" TYPE="STUDY">So 1994</LINK> and <LINK REF="STD-Tooley-2003" TYPE="STUDY">Tooley 2003</LINK> studies were excluded because patients received non-random administration of surfactant and were then randomized to rapid extubation or continued mechanical ventilation (<LINK REF="STD-So-1994" TYPE="STUDY">So 1994</LINK>; <LINK REF="STD-Tooley-2003" TYPE="STUDY">Tooley 2003</LINK>). The Verder trial of infants &lt; 30 weeks gestation was omitted because each study group had a planned brief period of mechanical ventilation (<LINK REF="STD-Verder-1999" TYPE="STUDY">Verder 1999</LINK>). The trial of Lefort (<LINK REF="STD-Lefort-2003" TYPE="STUDY">Lefort 2003</LINK>, previously referred to Diniz 2002), a randomized controlled trial comparing prophylactic vs. rescue surfactant, was excluded because planned early extubation was not part of the study protocol. <LINK REF="STD-Sandri-2004" TYPE="STUDY">Sandri 2004</LINK>, a large multicenter trial of prophylactic vs. rescue use of NCPAP, was excluded because surfactant administration was the primary endpoint. </P>
+<P>Since the 2003 update of this review, four new studies evaluating early surfactant administration with brief ventilation and planned early extubation have been identified. Two of these studies (<LINK REF="STD-Dani-2004" TYPE="STUDY">Dani 2004</LINK>; <LINK REF="STD-Texas-Research-2004" TYPE="STUDY">Texas Research 2004</LINK>) have been added to the analysis and two (<LINK REF="STD-Lefort-2003" TYPE="STUDY">Lefort 2003</LINK>, Sandri 2004) were excluded as noted above. Two studies included in previous edition of this review have been updated with additional published data (<LINK REF="STD-Reininger-2005" TYPE="STUDY">Reininger 2005</LINK>, previously included as <LINK REF="REF-D_x0027_Angio-2003" TYPE="REFERENCE">D'Angio 2003</LINK>) and unpublished data (<LINK REF="STD-NICHD-2002" TYPE="STUDY">NICHD 2002</LINK>). </P>
+<P>One study is awaiting assessment (<LINK REF="STD-Thomson-2002" TYPE="STUDY">Thomson 2002</LINK>). Although outcomes of this study have been reported, the published version has insufficient detail to assess the quality of the study (<LINK REF="STD-Thomson-2002" TYPE="STUDY">Thomson 2002</LINK>). The <LINK REF="STD-Thomson-2002" TYPE="STUDY">Thomson 2002</LINK> study was referred to as Fowlie 2002 in a previous version of this review. </P>
+<P>Studies included in this review:</P>
+<P>EARLY INTUBATION FOR SURFACTANT ADMINISTRATION FOLLOWED BY BRIEF MECHANICAL VENTILATION WITH PLANNED EXTUBATION WITHIN ONE HOUR IN INFANTS WITH SIGNS OF RDS.</P>
+<P>
+<LINK REF="STD-Verder-1994" TYPE="STUDY">Verder 1994</LINK>: This multicenter study was performed in spontaneously breathing infants 25 - 35 weeks gestation with early RDS defined as an arterial to alveolar oxygen tension ratio &lt; 0.22 (approximate FiO<SUB>2</SUB> &lt; 0.55), and radiographic and clinical signs of RDS. Inclusion criteria included need for NCPAP of 6 cm of water. The treatment group consisted of early intubation for surfactant administration followed by brief mechanical ventilation with planned extubation within one hour. The control group underwent later intubation if required because of progression of respiratory insufficiency, followed by surfactant administration and continued mechanical ventilation with extubation from low respiratory support. This was a multicenter trial in Denmark and Sweden, where routine care of infants with RDS often begins with stabilization on NCPAP shortly after the onset of symptoms. This study tested the hypothesis that a single dose of porcine surfactant administered during a short period of intubation before the occurrence of serious respiratory deterioration could reduce the need for mechanical ventilation. The primary outcome was the need for mechanical ventilation (incidence of ventilation continuing for one hour or more after surfactant administration in the early treatment group or initiated for respiratory insufficiency or apnea in either group). The study was terminated early at a scheduled interim analysis, when the primary endpoint, need for mechanical ventilation, was noted to be significantly different between groups (p &lt; 0.01). </P>
+<P>
+<LINK REF="STD-NICHD-2002" TYPE="STUDY">NICHD 2002</LINK>: This multicenter study was performed at participating NICHD Neonatal Research Network Centers in spontaneously breathing infants 1250 - 2000 grams birth weight who were &lt; 12 hours of age with early RDS defined as an FIO<SUB>2</SUB> of 0.35 - 0.50 in an oxyhood or 0.25 - 0.50 on NCPAP, and radiographic and clinical signs of RDS. The treatment group consisted of early intubation for surfactant administration followed by brief mechanical ventilation with planned extubation as early as possible. The control group underwent later intubation if required because of progression of respiratory insufficiency followed by surfactant administration and continued mechanical ventilation with extubation from low respiratory support. The study was halted at approximately 11% of targeted study size (62 patients enrolled out of a target of 560 patients) due to slow enrollment (62 patients enrolled out of 1423 patients screened). Reasons for non-enrollment included FIO<SUB>2</SUB> outside the targeted range and chest radiograph without evidence of RDS. Unpublished methodological details and outcome data from this trial were obtained from the NICHD Neonatal Research Network. These data reported on 62 enrolled subjects, rather than the 61 subjects included in the previous version of this review (one subject's data were included after publication of the NICHD abstract). This trial was identified as the NICHD 2001 trial in the prior version of this Cochrane review.</P>
+<P>
+<LINK REF="STD-Vermont-Oxford-2003" TYPE="STUDY">Vermont Oxford 2003</LINK>: This multicenter study was performed at participating Vermont Oxford Network Centers in spontaneously breathing infants 1501 - 2500 grams birth weight who were 2 - 24 hours of age with early RDS defined as an FIO<SUB>2</SUB> of 0.30 - 0.60 with pCO2 &lt; 65 mmHg in an oxyhood or on NCPAP, and radiographic signs of RDS. The treatment group consisted of early intubation for surfactant administration followed by brief mechanical ventilation with planned extubation within 15 - 30 minutes. The control group underwent later intubation if required because of progression of respiratory insufficiency followed by surfactant administration and continued mechanical ventilation with extubation from low respiratory support. Criteria for initiating mechanical ventilation for both treatment and control groups were specified as significant apnea, pCO2 &gt; 65 mmHg, hypoxemia, or severe respiratory distress. Methodological and outcome data from this trial were obtained from the investigators and are not yet published. Data analyses and manuscript preparation are underway.</P>
+<P>
+<LINK REF="STD-Dani-2004" TYPE="STUDY">Dani 2004</LINK>: This single center study was performed in 27 spontaneously breathing infants &lt; 30 weeks gestation, who were &lt; 6 hours of age with early RDS; the infants were randomized to receive either surfactant and initiation of mechanical ventilation (control) or surfactant and immediate extubation to NCPAP (treatment). The primary endpoint was the need for mechanical ventilation at seven days of age. The study had been designed to evaluate at least 48 infants, but an interim analysis after only 27 infants had been enrolled demonstrated statistical significance with respect to decreased incidence of mechanical ventilation in the treatment group, leading to early termination of the study. </P>
+<P>
+<LINK REF="STD-Texas-Research-2004" TYPE="STUDY">Texas Research 2004</LINK>: This multicenter study was performed in 132 spontaneously breathing infants &lt; 36 weeks gestation and &gt; 1250 grams, and with RDS at 4 - 24 hours of life. RDS was defined as requiring &gt; 0.40 FiO<SUB>2</SUB> for &gt; 1 hour and not requiring immediate intubation. Patients were randomized to receive either an early dose of surfactant followed by rapid extubation (treatment) vs. expectant management (control). This trial is unique in reporting duration of mechanical ventilation as the primary outcome. In calculating the duration of mechanical ventilation, the investigators included the time that the treatment group spent transiently intubated for surfactant administration.</P>
+<P>
+<LINK REF="STD-Reininger-2005" TYPE="STUDY">Reininger 2005</LINK> (previously reported as <LINK REF="REF-D_x0027_Angio-2003" TYPE="REFERENCE">D'Angio 2003</LINK>): This single center study was performed in spontaneously breathing infants 25 0/7 - 35 6/7 weeks gestation who were &lt; 24 hours of age with early RDS defined as respiratory distress requiring NCPAP, need for supplemental oxygen, and radiographic and clinical signs of RDS. Despite liberalizing eligibility criteria after the first 23 patients were enrolled (reducing the level of supplemental oxygen required for eligibility from an FIO<SUB>2</SUB> &gt; 0.30 to FIO<SUB>2</SUB> &gt; 0.21), patient accrual remained slow. Patient accrual occurred over a six year period and was eventually terminated at 50% of planned enrollment (105 patients enrolled out of a planned 206 patients). Reasons for non-enrollment included rapid progression of RDS once an FIO<SUB>2</SUB> of 0.30 was reached. The treatment group received early intubation for surfactant administration followed by brief mechanical ventilation with planned extubation within one hour. The control group underwent later intubation and surfactant replacement if required for progressive respiratory insufficiency. For both the treatment and control groups, the decision to initiate mechanical ventilation was based on the decision of the clinical care team; pre-determined criteria to initiate mechanical ventilation in either the treated or control groups were not specified. As part of this trial, randomized infants underwent the study intervention behind a physical barrier at the hands of a study team not involved in the daily care of the baby. In this way, blinding the study intervention to the clinical team providing ongoing care for the baby. Although infants as young as 25 weeks gestation were potentially eligible, the average gestational age of participating infants was 32 1/2 weeks. This trial was identified as <LINK REF="REF-D_x0027_Angio-2003" TYPE="REFERENCE">D'Angio 2003</LINK> in previous versions of this review.</P>
+<P>EARLY INTUBATION FOR SURFACTANT ADMINISTRATION FOLLOWED BY BRIEF MECHANICAL VENTILATION WITH PLANNED EXTUBATION WITHIN ONE HOUR IN INFANTS AT RISK OF RDS.</P>
+<P>None identified.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>Blinding of Randomization: In all six studies included in this review, randomization was blinded to the care team. In <LINK REF="STD-Verder-1994" TYPE="STUDY">Verder 1994</LINK>, randomization was carried out by opening sequentially numbered, sealed envelopes kept at each of the four participating hospitals. The randomization was in blocks of four to assure a similar number of babies were enrolled at each hospital. In the Vermont Oxford trial, randomization was stratified by birth weight group and age at enrollment (2 - 12 hours and 12 - 24 hours of age) (<LINK REF="STD-Vermont-Oxford-2003" TYPE="STUDY">Vermont Oxford 2003</LINK>). In the NICHD trial, randomization was stratified by center and birth weight group (1250 - 1500, 1501 - 1750, 1751 - 2000 grams) (<LINK REF="STD-NICHD-2002" TYPE="STUDY">NICHD 2002</LINK>). In the Reininger study, sealed randomization cards were opened at the time of enrollment by study pharmacists located away from the clinical care unit. Block randomization was used without stratification (<LINK REF="STD-Reininger-2005" TYPE="STUDY">Reininger 2005</LINK>). In the Texas Research Group trial, randomization was carried out through sequentially numbered, sealed, opaque envelopes at the five participating centers; randomization was stratified by center and birth weight (Texas Research Group 2004). In <LINK REF="STD-Dani-2004" TYPE="STUDY">Dani 2004</LINK>, randomization was revealed at the time of enrollment by opening sealed envelopes (Dani 2004).<BR/> <BR/>Blinding of Intervention: In all but one of the six studies, no attempt was made to blind caregivers as to which randomized intervention the infant received. Blinding was generally not attempted due to the ethical problem that would be posed by a sham intubation, and the logistical difficulties of having two teams (a study team and a continuing care team) available around the clock during the course of the study. The Reininger study was unique in its attempt to blind the intervention; the intervention was blinded through use of a study team separate from the clinical care team that performed the study intervention. For all patients, the study team placed a privacy curtain around the patient's bedside. For the treatment group, the study team intubated, administered surfactant and extubated the baby to NCPAP. For control infants, no intervention was performed and the baby continued on NCPAP. The study team remained behind the privacy curtain for comparable periods of time for treatment and control infants in order to assure the clinical care team remained blinded to the intervention.</P>
+<P>Blinding of Outcome Assessment: The primary outcome, need for mechanical ventilation, was blinded in only one of the six studies (Reininger 2005). In this study, the need for mechanical ventilation was determined by the clinical care team that was blind to the study intervention. In the other five studies (Verder 1994; NICHD 2002; Vermont Oxford 2003, Dani 2004, Texas Research Group 2004) the outcome, need for mechanical ventilation, was not determined under blinded conditions. However, the criteria for mechanical ventilation were well defined and adhered to during the studies.</P>
+<P>Completeness of Follow-up: In the Verder study, five infants were excluded from the analysis after randomization when it was recognized that they had not met initial eligibility criteria for enrollment (two with gestational age &gt; 36 weeks, two with oxygen-tension ratios exceeding definition of early RDS, and one with pneumonia at randomization). Sixty-eight infants were included in the final analysis. The study was terminated early when a statistically significant (p&lt;0.01) difference in the primary outcome (need for mechanical ventilation) was seen at a scheduled interim analysis. At that time, 73 out of a targeted 108 patients had been enrolled. In the Reinenger study, one control subject was retrospectively determined to have a gestational age of 36 1/7 weeks and one treatment subject was found to have a congenital diaphragmatic hernia as well as RDS; these subjects were included in final analysis. In the Dani study, an interim analysis revealed a statistically significant difference in the primary endpoint, and the enrollment was stopped after enrollment of 27 infants. In the NICHD study, enrollment was ended early due to slow subject recruitment; data for one subject was compiled late, so that the abstract reports 61 patients but the data set includes 62 patients. In both the Vermont and Texas studies, enrollment was completed and all randomized patients were included in the analysis. </P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-05-08 12:42:52 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>EARLY SURFACTANT, RAPID EXTUBATION TO NCPAP VS. SELECTIVE SURFACTANT, VENTILATION IN INFANTS WITH RDS (COMPARISON 01)<BR/>
+</B>
+<BR/>Six randomized controlled clinical trials met selection criteria and are included in this review (<LINK REF="STD-Verder-1994" TYPE="STUDY">Verder 1994</LINK>; <LINK REF="STD-NICHD-2002" TYPE="STUDY">NICHD 2002</LINK>; <LINK REF="STD-Reininger-2005" TYPE="STUDY">Reininger 2005</LINK>; <LINK REF="STD-Vermont-Oxford-2003" TYPE="STUDY">Vermont Oxford 2003</LINK>; <LINK REF="STD-Dani-2004" TYPE="STUDY">Dani 2004</LINK>; <LINK REF="STD-Texas-Research-2004" TYPE="STUDY">Texas Research 2004</LINK>). In these six studies in infants with signs of RDS, early surfactant administration with rapid extubation to NCPAP was compared with selective surfactant administration and continued mechanical ventilation. One additional randomized trial of prophylactic administration of surfactant and planned rapid extubation vs. selective surfactant treatment among infants at risk of RDS was found (<LINK REF="STD-Thomson-2002" TYPE="STUDY">Thomson 2002</LINK>). However, methodologic and detailed outcome data were not available for inclusion in this review.<BR/>
+<BR/>
+<B>Primary Outcomes</B>
+</P>
+<P>
+<B>Need for Mechanical Ventilation (Outcome 01.01):<BR/>
+</B>All six eligible studies reported this outcome. Early surfactant therapy followed by nasal CPAP (NCPAP) compared with later, selective surfactant administration for infants with RDS was associated with a significantly reduced need for mechanical ventilation [typical RR 0.67, 95% CI 0.57, 0.79]. In the Verder study, among infants in the early surfactant group who required mechanical ventilation, severe apnea was the most common reason (10/15, 67%) for treatment failure and initiation of mechanical ventilation. Among infants in the selective surfactant group who subsequently required mechanical ventilation, low oxygen tension ratio (a/A ratio &lt;0.15) was the most common reason (21/28, 75%). In the Reininger study, the primary reasons for subsequent ventilation were not different between the treatment and control groups, including respiratory compromise (90% of treatment failures) and apnea (6% of treatment failure). Reasons for requiring mechanical ventilation have not been reported for the other four studies. In stratified analysis by FIO<SUB>2</SUB> at study entry, both FIO<SUB>2</SUB> sub groups (<U>&lt;</U> 0.45 and &gt; 0.45 FIO<SUB>2</SUB>) had similar benefit of early surfactant treatment.</P>
+<P>
+<B>Bronchopulmonary Dysplasia (Outcome 01.02):<BR/>
+</B>BPD is defined as need for oxygen at 28 days of age. Verder 1994, Reininger 2005, NICHD 2002 and Dani 2004 reported this outcome. Early surfactant therapy followed by nasal CPAP (NCPAP) compared with later, selective surfactant administration for infants with RDS was associated with a significantly reduced incidence of BPD [typical RR 0.51, 95% CI 0.26, 0.99]. In stratified analysis by FIO<SUB>2</SUB> at study entry, the lower FIO<SUB>2</SUB> sub group (<U>&lt;</U> 0.0.45 FIO<SUB>2</SUB>) had a significant reduction in the risk of BPD [typical RR 0.43 and 95% CI 0.20, 0.92]. Of the two studies with a higher FIO<SUB>2</SUB> at study entry (FIO<SUB>2</SUB> &gt; 0.45), only the Verder study reported the incidence of BPD; this study found no difference between the treatment and control groups in the incidence of BPD.</P>
+<P>
+<B>Chronic Lung Disease<BR/>
+</B>The incidence of CLD (oxygen at 36 weeks postmenstrual age) was not reported by Verder 1994. While NICHD 2002; Reininger 2005; Vermont Oxford 2003 report no significant difference in incidence of CLD between study groups, primary data for inclusion in meta analysis are not provided on published reports.</P>
+<P>
+<B>Neonatal Mortality (Outcome 01.03):<BR/>
+</B>All six included studies reported this outcome. Although there was no significant difference between groups in this outcome, the meta-analysis suggests a trend towards decreased mortality with early surfactant therapy and NCPAP compared with later selective surfactant therapy [typical RR 0.52, 95% CI 0.17, 1.56].</P>
+<P>Mortality Prior to Hospital Discharge. Mortality prior to hospital discharge was not reported.<BR/>
+<B>
+<BR/>Secondary Outcomes</B>
+</P>
+<P>
+<B>Respiratory Outcomes:</B>
+</P>
+<P>
+<B>Duration of mechanical ventilation (Outcome 01.13): </B>
+<BR/>Although all six studies reported duration of mechanical ventilation, meta-analysis of this outcome using a summary statistic is not possible because the outcome is reported as either mean or median values (see additional <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>). While mean values can summarized in meta-analysis, median values cannot. Three of the six included studies reported mean duration of mechanical ventilation (<LINK REF="STD-Texas-Research-2004" TYPE="STUDY">Texas Research 2004</LINK>; <LINK REF="STD-Vermont-Oxford-2003" TYPE="STUDY">Vermont Oxford 2003</LINK>; <LINK REF="STD-Dani-2004" TYPE="STUDY">Dani 2004</LINK>); the weighted mean difference between early surfactant therapy followed by nasal CPAP compared with later selective surfactant administration was not statistically different but may show a trend toward a shorter period of mechanical ventilation in the early surfactant group (WMD -0.36 days, 95% CI -0.81, 0.10). Four of the six included studies reported median duration of mechanical ventilation for treatment and control groups, as follows: Verder reported duration of mechanical ventilation as median 6 days (range 1-75) vs. median 6 days (range 1-76) for treatment and control groups, respectively; <LINK REF="STD-Reininger-2005" TYPE="STUDY">Reininger 2005</LINK> reported median values 2.3 days (range 0.8-20.8) vs. 2.6 days (range 0.6-6.3) for treatment and control groups, respectively; <LINK REF="STD-NICHD-2002" TYPE="STUDY">NICHD 2002</LINK> reported the duration of mechanical ventilation as median of 5 days for the treatment group and median of 3 days for the control group (no ranges given); <LINK REF="STD-Texas-Research-2004" TYPE="STUDY">Texas Research 2004</LINK> reported median 0.1 days (range 0.0-1.7) and median 0.0 days (range 0.0-1.6) for the treatment and control groups, respectively. Although early surfactant therapy followed by nasal CPAP led to fewer infants requiring mechanical ventilation, compared with later selective surfactant administration, there is no difference in length of time on mechanical ventilation.</P>
+<P>
+<B>Duration in Oxygen (Outcome 01.14): </B>
+<BR/>Five studies reported this outcome, using either means or median values, which precludes full meta-analysis using a summary statistic (see additional <LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>). <LINK REF="STD-Verder-1994" TYPE="STUDY">Verder 1994</LINK> and <LINK REF="STD-Reininger-2005" TYPE="STUDY">Reininger 2005</LINK> showed no difference in median time in oxygen. Four studies reported median time in oxygen in treated and control groups (<LINK REF="STD-Texas-Research-2004" TYPE="STUDY">Texas Research 2004</LINK>; <LINK REF="STD-NICHD-2002" TYPE="STUDY">NICHD 2002</LINK>;<LINK REF="STD-Verder-1994" TYPE="STUDY">Verder 1994</LINK>; <LINK REF="STD-Reininger-2005" TYPE="STUDY">Reininger 2005</LINK>). In each study, the median time in oxygen was similar between treatment and control groups. <LINK REF="STD-Dani-2004" TYPE="STUDY">Dani 2004</LINK> reported fewer days in oxygen for patients treated with early surfactant therapy followed by nasal CPAP (NCPAP) compared with later, selective surfactant administration [WMD -4.3 and 95% CI -7.63, -0.97].</P>
+<P>
+<B>Number of patients receiving surfactant (Outcome 01.08):</B>
+<BR/>Four studies reported this outcome. Early surfactant therapy followed by NCPAP compared with later, selective surfactant administration for infants with RDS was associated with more infants being exposed to surfactant [132/132 (100%) vs. 79/130 (61%) respectively, typical RR 1.63, 95% CI 1.42, 1.88].</P>
+<P>
+<B>Number of surfactant doses per patient (Outcome 01.09): </B>
+<BR/>Three studies reported this outcome. The number of surfactant doses per patient was significantly greater among patients assigned to the early surfactant group [WMD 0.57 doses per patient (95% CI 0.44, 0.69)].</P>
+<P>
+<B>Incidence of airleak syndromes (Outcome 0.10): </B>
+<BR/>All six studies reported incidence of airleak syndromes. Early surfactant therapy followed by NCPAP compared with later, selective surfactant administration for infants with RDS was associated with a reduction in incidence of airleak [typical RR 0.52 (95% CI 0.28, 0.96)]. In stratified analysis by FIO<SUB>2</SUB> at study entry, the lower FIO2 sub group (<U>&lt;</U> 0.45 FIO<SUB>2</SUB>) had a significant reduction in the risk of airleak [typical RR 0.46 (95% CI 0.23, 0.93)]; this advantage was not seen among studies with a higher FIO<SUB>2</SUB> at study entry (FIO<SUB>2</SUB> &gt; 0.45).</P>
+<P>
+<B>Complications associated with prematurity. </B>
+</P>
+<P>
+<B>PDA requiring treatment (Outcome 01.11): </B>
+<BR/>Four studies reported this outcome. An overall trend towards a higher incidence of PDA was seen with selective surfactant and continued ventilation vs. early surfactant and rapid extubation [typical RR 1.52 (95% CI 0.90-2.57)]. In stratified analysis by FIO<SUB>2</SUB> at study entry, the higher FIO<SUB>2</SUB> sub group (FIO<SUB>2</SUB> &gt; 0.45 ) had a significantly increased risk of PDA [typical RR 2.15 (95% CI 1.09, 4.23)]. In the lower FIO<SUB>2</SUB> subgroup (FIO<SUB>2</SUB> <U>&lt;</U> 0.45 ), there was no difference between early surfactant and rapid extubation and later selective surfactant groups.</P>
+<P>There was no evidence of effect on incidence of IVH, periventricular leukomalacia, pulmonary hemorrhage or NEC (Outcomes 01-04, 01-06, 01-07, and 01-12).</P>
+<P>Other primary and secondary outcomes of this review were not available from the studies meeting selection criteria.</P>
+<P>
+<B>Planned subgroup analyses.</B>
+<BR/>i) Individual patient data from each of the included trials will be required to perform the planned subgroup analysis according to the inspired oxygen concentration at study entry (FiO<SUB>2</SUB> <U>&lt;</U> 0.45, &gt;0.45). These results are presented above.</P>
+<P>ii) In all studies eligible for this review, extubation in the treatment group was to NCPAP rather than to atmospheric pressure. Thus, the results presented in this review apply to the pre-specified subgroup extubated to NCPAP.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>Six studies met criteria for this review. Based on the meta-analysis of these six studies, early surfactant therapy compared with later selective surfactant administration resulted in less need for mechanical ventilation, fewer airleak syndromes and lower incidence of BPD. The costs of these benefits include a greater number of infants receiving surfactant and an increased number of surfactant doses per patient. An overall trend toward greater risk of PDA occurred with later, selective surfactant treatment compared with early surfactant and was statistically significant in meta-analysis of two studies with FIO<SUB>2</SUB> &gt; 0.45 at study entry. The study procedure was well tolerated and successfully accomplished in the vast majority of patients. Although early surfactant therapy compared with selective therapy resulted in more infants being exposed to the potential risks of intubation and surfactant administration, none of the studies reviewed reported complications of the intubation procedure. Early surfactant administration with extubation within 1 hour was successfully achieved in the vast majority of study subjects, except in the Texas Research Group Trial, where 53% of patients remained intubated at one hour after surfactant administration in the treatment group.</P>
+<P>The findings in this review suggest that in spontaneously breathing preterm infants with RDS a policy of early intubation for surfactant administration followed by early extubation to NCPAP is preferable to later, selective intubation and surfactant treatment in preventing the need for mechanical ventilation, pneumothorax and BPD. The findings also suggest that lower threshold for treatment at study entry (FIO<SUB>2</SUB> &lt; 0.45) confers advantage compared with a higher treatment threshold (FIO<SUB>2</SUB> &gt; 0.45). Although both treatment thresholds resulted in reduced need for mechanical ventilation, the lower FIO<SUB>2</SUB> subgroup achieved the greatest reductions in incidence of airleak syndromes and BPD while the subgroup of infants with a higher FIO<SUB>2</SUB> at study entry had a significantly greater incidence of PDA requiring treatment. The PDA treatment was not characterized in any of the six studies, however, in each of these studies, the mean gestational age among enrolled infants was 28 weeks or 1250 grams or greater, a population of preterm infants for whom surgical treatment of PDA would be uncommon. </P>
+<P>To lessen the risk of publication bias, data from both published and unpublished sources are included in this review. Four trials have been published in peer reviewed literature, while two studies included in this review have been published in abstract form only. For these two studies, information available in the abstracts has been supplemented with methodological details and outcome data obtained directly from the investigators; these materials include the full manual of procedures as well as additional analyses of clinical and safety outcomes performed for inclusion in this review. The VON trial has completed enrollment and is in data analysis and manuscript preparation. The NICHD trial terminated early, and at the time of this review, there are no plans to pursue publication of study results. </P>
+<P>Four of the six trials reviewed here were terminated prior to achieving their targeted study size, two as a result of significant benefit in treated patients compared with controls and two due to slow accrual of study subjects. The Verder study was terminated prior to achieving the targeted enrollment when the primary outcome, need for mechanical ventilation, was found to be significantly different between groups at a scheduled interim analysis. Consequently, 68 out of a targeted 108 patients were available for the analysis. Based on power analysis, the Dani study was designed to randomize 48 infants. An interim analysis after enrolling 27 subjects found a significant reduction in need for mechanical ventilation in the treatment group, and the study was terminated early. Two studies (NICHD 2002; Reininger 2005) were terminated early due to slow accrual of potentially eligible patients. The NICHD trial (NICHD 2002) was halted at approximately 11% of planned enrollment (61 patients enrolled out of a planned 560 patients) due to slow enrollment (61 patients enrolled out of 1423 patients screened). Despite liberalizing eligibility criteria and a six year enrollment period, the Reininger 2005 trial was terminated at 50% of planned enrollment (105 patients enrolled out of a planned 206 patients). In both of these studies, reasons for non-enrollment of eligible patients included rapid progression of RDS through the range of eligible FIO<SUB>2</SUB> levels. The NICHD trial (NICHD 2002) reviewed clinical characteristics of patients not enrolled with characteristics of enrolled subjects; the two groups were similar, suggesting that non-enrolled patients may have experienced similar benefits to those enrolled. The Verder multicenter trial was conducted in Denmark and Sweden, where routine care of infants with RDS often begins with NCPAP shortly after the onset of symptoms. It is possible that patient accrual may be slower in units that have less experience and are therefore less comfortable with NCPAP. This possibility cannot be evaluated with available data. </P>
+<P>Although the clinical approach and experience with NCPAP may have varied, each of the six randomized trials reviewed here found either a significant reduction or a strong trend towards a reduction in the need for mechanical ventilation in infants managed with early intubation for surfactant administration followed by rapid extubation to NCPAP. This suggests that generalizability of these findings may be high. However, slow accrual of eligible patients in two of the trials may mean that early surfactant followed by rapid extubation to NCPAP may be more effective or better accepted in units experienced in the use of early NCPAP. </P>
+<P>The studies reviewed here did not address limitations on the type of patients for whom early surfactant with rapid extubation is appropriate. Although babies as premature as 25 0/7 weeks were eligible for inclusion in the Verder 1994 and Reininger 2005 trials, most enrolled infants were more than 28 weeks gestation. Further study may reveal subgroups of preterm infants, such as those &lt; 25 weeks or &lt; 750 grams or infants requiring intubation during resuscitation, for which more than one hour of mechanical ventilation is required to achieve clinical stability prior to extubation to NCPAP. Several relevant clinical outcomes were not available and other outcomes could not be definitively addressed due to a lack of power of the clinical trials meeting eligibility criteria for this systematic review. Outcomes such as incidence of chronic lung disease, total duration of respiratory support (ventilation, CPAP, nasal cannula), time to regain birth weight, need for sedation/analgesia and neurodevelopmental outcome are potentially important clinical outcomes for which data currently are not available. </P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Six randomized clinical trials of early surfactant administration in spontaneously breathing infants have been conducted using different thresholds for surfactant replacement. Evidence from the six studies included in this review indicates that infants with RDS treated with early surfactant replacement therapy and NCPAP are less likely to need mechanical ventilation, less likely to develop BPD and less likely to suffer from an air leak syndrome than are infants treated with NCPAP and later surfactant therapy. This review also introduces new evidence that lower FiO<SUB>2</SUB> at study entry is associated with significant reductions in incidence of airleak syndromes and BPD; moreover studies where FIO<SUB>2</SUB> at study entry was greater than 0.45 had an increased incidence of PDA. These data suggest that among spontaneously breathing infants with early signs and symptoms of RDS, treatment with surfactant by transient intubation using a low treatment threshold (FIO2 &lt; 0.45) is preferable to later selective therapy by transient intubation using a higher treatment threshold (FIO2 &gt; 0.45). </P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Further research is needed to define potential limitations on the type of patients for whom early surfactant with rapid extubation is appropriate (such as very premature infants &lt; 750 grams) and to determine the optimal severity of RDS at which to intervene with transient intubation for the purpose of surfactant administration.</P>
+<P>Randomized controlled trials of prophylactic surfactant administration with rapid extubation compared with later, selective surfactant therapy are not available. Based on previous literature, prophylactic surfactant therapy may offer further advantage over early surfactant therapy.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS/>
+<CONFLICT_OF_INTEREST>
+<P>Dr. R. Soll is the principal investigator for several trials of pulmonary surfactant and has acted as a paid consultant for several of the pharmaceutical companies that manufacture surfactant products (Abbott Laboratories, Dey Laboratories, Ross Laboratories). </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>TP Stevens, EW Harrington and RF Soll updated the search strategy. <BR/>TP Stevens and EW Harrington excerpted data from studies and drafted the revised review.<BR/>M Blennow and RF Soll checked data from identified studies and reviewed the update. <BR/>TP Stevens, M Blennow and RF Soll wrote the original review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-05-08 12:52:29 -0400" MODIFIED_BY="[Empty name]">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dani-2004" NAME="Dani 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dani C, Bertini G, Pezzati M, Cecchi A, Caviglioli C, Rubaltelli FF</AU>
+<TI>Early extubation and nasal continuous positive airway pressure after surfactant treatment in preterm infants of less than 30 weeks' gestation</TI>
+<SO>Pediatrics</SO>
+<YR>2004</YR>
+<VL>113</VL>
+<PG>e560-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-NICHD-2002" NAME="NICHD 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Haberman B, Shankaran S, Stevenson DK, Papile LA, Stark A, Korones S et al</AU>
+<TI>Does surfactant and immediate extubation to nasal continuous positive airway pressure reduce use of mechanical ventilation?</TI>
+<SO>Pediatric Research</SO>
+<YR>2002</YR>
+<VL>51</VL>
+<PG>349A</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Reininger-2005" NAME="Reininger 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Reininger A, Khalak R, Kendig JW, Ryan RM, Stevens TP, Reubens L, D'Angio CT</AU>
+<TI>Surfactant administration by transient intubation in infants 29 to 35 weeks' gestation with respiratory distress syndrome decreases need of later mechanical ventilation: a randomized controlled trial</TI>
+<SO>Journal of Perinatology</SO>
+<YR>2005</YR>
+<VL>25</VL>
+<PG>703-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Texas-Research-2004" NAME="Texas Research 2004" YEAR=", 200">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>The Texas Neonatal Research Group, 2004</AU>
+<TI>Early surfactant for neonates with mild to moderate respiratory distress syndrome: A multicenter randomized trial</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>2004</YR>
+<VL>144</VL>
+<PG>804-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Verder-1994" NAME="Verder 1994" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;(10) Verder H, Robertson B, Greisen G, Ebbesen F, Albertsen P, Lundstrom K et al. Surfactant therapy and nasal continuous positive airway pressure for newborns with respiratory distress syndrome. New England Journal of Medicine Vol 1994; 331(16):1051-1055.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Verder H, Robertson B, Greisen G, Ebbesen F, Albertsen P, Lundstrom K et al</AU>
+<TI>Surfactant therapy and nasal continuous positive airway pressure for newborns with respiratory distress syndrome</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>1994</YR>
+<VL>331</VL>
+<PG>1051-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Vermont-Oxford-2003" NAME="Vermont Oxford 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Soll RF, Conner JM, Howard D and the Investigators of the Early Surfactant Replacement Study</AU>
+<TI>Early surfactant replacement in spontaneously breathing premature infants with RDS</TI>
+<SO>Pediatric Research</SO>
+<YR>2003</YR>
+<PG>Late Breaker Abstract 12, PAS 2003 meeting</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Alba-1995" NAME="Alba 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;(1) Alba J, Agarwal R, Hegyi T, Hiatt IM. Efficacy of surfactant therapy in infants managed with CPAP. Pediatric Pulmonology 1995; 20(3):172-176.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Alba J, Agarwal R, Hegyi T, Hiatt IM</AU>
+<TI>Efficacy of surfactant therapy in infants managed with CPAP</TI>
+<SO>Pediatric Pulmonology</SO>
+<YR>1995</YR>
+<VL>20</VL>
+<PG>172-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Blennow-1999" NAME="Blennow 1999" YEAR="1999">
+<REFERENCE NOTES="&lt;p&gt;(2) Blennow M, Jonsson B, Dahlstrom A, Sarman I, Bohlin K, Robertson B. [Lung function in premature infants can be improved. Surfactant therapy and CPAP reduce the need of respiratory support]. [Swedish]. Lakartidningen 1999; 96(13):1571-1576.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Blennow M, Jonsson B, Dahlstrom A, Sarman I, Bohlin K, Robertson B</AU>
+<TI>[Lung function in premature infants can be improved. Surfactant therapy and CPAP reduce the need of respiratory support]. [Swedish]</TI>
+<SO>Lakartidningen</SO>
+<YR>1999</YR>
+<VL>96</VL>
+<PG>1571-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dambeanu-1997" NAME="Dambeanu 1997" YEAR="1997">
+<REFERENCE NOTES="&lt;p&gt;(4) Dambeanu JM, Parmigiani S, Marinescu B, Bevilacqua G. Use of surfactant for prevention of respiratory distress syndrome in newborn infants in spontaneous breathing. A randomized multicentre clinical pilot-study. Acta Biomed Ateneo Parmense 1997; 68 Suppl 1:39-45.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dambeanu JM, Parmigiani S, Marinescu B, Bevilacqua G</AU>
+<TI>Use of surfactant for prevention of respiratory distress syndrome in newborn infants in spontaneous breathing. A randomized multicentre clinical pilot-study</TI>
+<SO>Acta Bio-medica de L'Ateneo Parmense</SO>
+<YR>1997</YR>
+<VL>68 Suppl 1</VL>
+<PG>39-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lefort-2003" NAME="Lefort 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lefort S, Diniz EM, Vaz FA</AU>
+<TI>Clinical course of premature infants intubated in the delivery room, submitted or not to porcine-derived lung surfactant therapy within the first hour of life</TI>
+<SO>Journal of Maternal-Fetal and Neonatal Medicine</SO>
+<YR>2003</YR>
+<VL>14</VL>
+<PG>187-96</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mandy-1998" NAME="Mandy 1998" YEAR="1998">
+<REFERENCE NOTES="&lt;p&gt;(6) Mandy GT, Moise AA, Smith EO, Hansen TN. Endotracheal continuous positive airway pressure after rescue surfactant therapy. Journal of Perinatology 1998; 18(6 Pt 1):444-448.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mandy GT, Moise AA, Smith EO, Hansen TN</AU>
+<TI>Endotracheal continuous positive airway pressure after rescue surfactant therapy</TI>
+<SO>Journal of Perinatology</SO>
+<YR>1998</YR>
+<VL>18</VL>
+<PG>444-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sandri-2004" NAME="Sandri 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sandri F, Ancora G, Lanzoni A, Tagliabue P, Colnaghi M, Ventura ML et al</AU>
+<TI>Prophylactic nasal continuous postive airways pressure in newborns of 28-31 weeks' gestation: multicentre randomised controlled clinical trial</TI>
+<SO>Archives of Disease in Childhood Fetal and Neonatal Edition</SO>
+<YR>2004</YR>
+<VL>89</VL>
+<PG>F394-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-So-1994" NAME="So 1994" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;(8) So BH, Tamura M, Kamoshita S. Nasal continuous positive airway pressure following surfactant replacement for the treatment of neonatal respiratory distress syndrome. Chung-Hua Min Kuo Hsiao Erh Ko i Hsueh Hui Tsa Chih 1994; 35(4):280-287.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>So BH, Tamura M, Kamoshita S</AU>
+<TI>Nasal continuous positive airway pressure following surfactant replacement for the treatment of neonatal respiratory distress syndrome</TI>
+<SO>Zhonghua Min Guo Xiao Er Ke Yi Xue Hui Za Zhi</SO>
+<YR>1994</YR>
+<VL>35</VL>
+<PG>280-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tooley-2003" NAME="Tooley 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tooley J, Dyke M</AU>
+<TI>Randomized study of nasal continuous positive airway pressure in the preterm infant with respiratory distress syndrome</TI>
+<SO>Acta Paediatrica</SO>
+<YR>2003</YR>
+<VL>92</VL>
+<PG>1170-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Verder-1992" NAME="Verder 1992" YEAR="1992">
+<REFERENCE NOTES="&lt;p&gt;(9) Verder H, Agertoft L, Albertsen P, Christensen NC, Curstedt T, Ebbesen F et al. [Surfactant treatment of newborn infants with respiratory distress syndrome primarily treated with nasal continuous positive air pressure. A pilot study]. Ugeskr Laeger 1992; 154(31):2136-2139.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Verder H, Agertoft L, Albertsen P, Christensen NC, Curstedt T, Ebbesen F et al</AU>
+<TI>[Surfactant treatment of newborn infants with respiratory distress syndrome primarily treated with nasal continuous positive air pressure. A pilot study]</TI>
+<SO>Ugeskrift for Laeger</SO>
+<YR>1992</YR>
+<VL>154</VL>
+<PG>2136-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Verder-1999" NAME="Verder 1999" YEAR="1999">
+<REFERENCE NOTES="&lt;p&gt;(11) Verder H, Albertsen P, Ebbesen F, Greisen G, Robertson B, Bertelsen A et al. Nasal continuous positive airway pressure and early surfactant therapy for respiratory distress syndrome in newborns of less than 30 weeks' gestation. Pediatrics 1999; 103(2):E24.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Verder H, Albertsen P, Ebbesen F, Greisen G, Robertson B, Bertelsen A et al</AU>
+<TI>Nasal continuous positive airway pressure and early surfactant therapy for respiratory distress syndrome in newborns of less than 30 weeks' gestation</TI>
+<SO>Pediatrics</SO>
+<YR>1999</YR>
+<VL>103</VL>
+<PG>E24</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Victorin-1990" NAME="Victorin 1990" YEAR="1990">
+<REFERENCE NOTES="&lt;p&gt;Victorin LH, Deverajan LV, Curstedt T, Robertson B. Surfactant replacement in spontaneously breathing babies with hyaline membrane disease--a pilot study. Biology of the Neonate 1990; 58(3):121-126.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Victorin LH, Deverajan LV, Curstedt T, Robertson B</AU>
+<TI>Surfactant replacement in spontaneously breathing babies with hyaline membrane disease - a pilot study</TI>
+<SO>Biology of the Neonate</SO>
+<YR>1990</YR>
+<VL>58</VL>
+<PG>121-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thomson-2002" NAME="Thomson 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thomson MA</AU>
+<TI>Continuous positive airway pressure and surfactant; combined data from animal experiments and clinical trials</TI>
+<SO>Biology of the Neonate</SO>
+<YR>2002</YR>
+<VL>81</VL>
+<PG>16-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-05-08 12:52:29 -0400" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2008-05-08 12:52:29 -0400" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Avery-1987" NAME="Avery 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Avery ME, Tooley WH, Keller JB, Hurd SS, Bryan MH, Cotton RB et al</AU>
+<TI>Is chronic lung disease in low birth weight infants preventable? A survey of eight centers.</TI>
+<SO>Pediatrics</SO>
+<YR>1987</YR>
+<VL>79</VL>
+<PG>26-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-D_x0027_Angio-2003" NAME="D'Angio 2003" TYPE="JOURNAL_ARTICLE">
+<AU>D'Angio CT, Khalak R, Stevens TP, Reininger A, Reubens L, Kendig JW, Ryan RM</AU>
+<TI>Intratracheal surfactant administration by transient intubation in infants 29-35 weeks' gestation with RDS requiring nasal CPAP decreases the likelihood of later mechanical ventilation: A randomized controlled trial</TI>
+<SO>Pediatric Research</SO>
+<YR>2003</YR>
+<VL>53</VL>
+<PG>367A</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gortner-1998" NAME="Gortner 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Gortner L, Wauer RR, Hammer H, Stock GJ, Heitmann F, Reiter HL et al</AU>
+<TI>Early versus late surfactant treatment in preterm infants of 27 to 32 weeks' gestational age: a multicenter controlled clinical trial</TI>
+<SO>Pediatrics</SO>
+<YR>1998</YR>
+<VL>102</VL>
+<PG>1153-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Greenough-2002" MODIFIED="2008-05-08 12:49:45 -0400" MODIFIED_BY="[Empty name]" NAME="Greenough 2002" TYPE="COCHRANE_REVIEW">
+<AU>Greenough A, Milner AD, Dimitriou G</AU>
+<TI>Synchronized mechanical ventilation for respiratory support in newborn infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>1</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS MODIFIED="2008-05-08 12:49:45 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-05-08 12:49:45 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000456.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Gregory-1971" NAME="Gregory 1971" TYPE="JOURNAL_ARTICLE">
+<AU>Gregory GA, Kitterman JA, Phibbs RH, Tooley WH, Hamilton WK</AU>
+<TI>Treatment of the idiopathic respiratory-distress syndrome with continuous positive airway pressure</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1971</YR>
+<VL>284</VL>
+<PG>1333-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ho-2002" MODIFIED="2008-05-08 12:47:59 -0400" MODIFIED_BY="[Empty name]" NAME="Ho 2002" TYPE="COCHRANE_REVIEW">
+<AU>Ho JJ, Subramaniam P, Henderson-Smart DJ</AU>
+<TI>Continuous distending pressure for respiratory distress syndrome in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>1</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS MODIFIED="2008-05-08 12:47:59 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-05-08 12:47:59 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="DOI: 10.1002/14651858.CD002271"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Jonsson-1997" NAME="Jonsson 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Jonsson B, Katz-Salamon M, Faxelius G, Broberger U, Lagercrantz H</AU>
+<TI>Neonatal care of very-low-birthweight infants in special-care units and neonatal intensive-care units in Stockholm. Early nasal continuous positive airway pressure versus mechanical ventilation: gains and losses</TI>
+<SO>Acta Paediatrica</SO>
+<YR>1997</YR>
+<VL>419 (Suppl Apr)</VL>
+<PG>4-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kamper-1999" NAME="Kamper 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Kamper J</AU>
+<TI>Early nasal continous positive airway pressure and minimal handling in the treatment of very-low-birthweight infants</TI>
+<SO>Biology of the Neonate</SO>
+<YR>1999</YR>
+<VL>76</VL>
+<NO>Suppl 1</NO>
+<PG>22-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Northway-1967" NAME="Northway 1967" TYPE="JOURNAL_ARTICLE">
+<AU>Northway WH, Rosan RC, Parker DY</AU>
+<TI>Pulmonary disease following respiratory therapy of hyaline membrane disease</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>1967</YR>
+<VL>276</VL>
+<PG>357-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Soll-2002a" MODIFIED="2008-05-08 12:50:38 -0400" MODIFIED_BY="[Empty name]" NAME="Soll 2002a" TYPE="COCHRANE_REVIEW">
+<AU>Soll RF</AU>
+<TI>Prophylactic natural surfactant extract for preventing morbidity and mortality in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>1</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS MODIFIED="2008-05-08 12:50:38 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-05-08 12:50:38 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000511"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Soll-2002b" MODIFIED="2008-05-08 12:51:45 -0400" MODIFIED_BY="[Empty name]" NAME="Soll 2002b" TYPE="COCHRANE_REVIEW">
+<AU>Soll RF, Morley CJ</AU>
+<TI>Prophylactic versus selective use of surfactant for preventing morbidity and mortality in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>1</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS MODIFIED="2008-05-08 12:51:45 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-05-08 12:51:45 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000510"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Van-Marter-2000" NAME="Van Marter 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Van Marter LJ, Allred EN, Pagano M, Sanocka U, Parad R, Moore M, Susser M, Paneth N, Leviton A</AU>
+<TI>Do clinical markers of barotrauma and oxygen toxicity explain interhospital variation in rates of chronic lung disease? The Neonatology Committee for the Developmental Network</TI>
+<SO>Pediatrics</SO>
+<YR>2000</YR>
+<VL>105</VL>
+<PG>1194-1201</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yost-2002" MODIFIED="2008-05-08 12:52:29 -0400" MODIFIED_BY="[Empty name]" NAME="Yost 2002" TYPE="COCHRANE_REVIEW">
+<AU>Yost CC, Soll RF</AU>
+<TI>Early versus delayed selective surfactant treatment for neonatal respiratory distress syndrome</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>1</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS MODIFIED="2008-05-08 12:52:29 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-05-08 12:52:29 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD001456"/>
+</IDENTIFIERS>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2008-05-08 12:47:07 -0400" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Stevens-2002" MODIFIED="2008-05-08 12:47:07 -0400" MODIFIED_BY="[Empty name]" NAME="Stevens 2002" TYPE="COCHRANE_REVIEW">
+<AU>Stevens TP, Blennow M, Soll RF</AU>
+<TI>Early surfactant administration with brief ventilation vs selective surfactant and continued mechanical ventilation for preterm infants with or at risk for RDS</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>2</NO>
+<PB>Update Software</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS MODIFIED="2008-05-08 12:47:07 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-05-08 12:47:07 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003063.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Dani-2004">
+<CHAR_METHODS>
+<P>A randomized, single center, controlled trial. <BR/>Blinding of randomization: Yes<BR/>Blinding of intervention: No<BR/>Blinding of outcome: No<BR/>Complete followup: Can't tell</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Infants &lt; 30 weeks' gestation, &lt; 6 hours old with RDS defined as clinical signs, chest radiograph requiring CPAP and 30% oxygen or more.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Early surfactant administration with rapid extubation to NCPAP (n=13) vs NCPAP with later rescue surfactant and mechanical ventilation (n=14).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Need for mechanical ventilation at 7 days of age</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Trial terminated early when interim analysis showed significant reduction in the need for mechanical ventilation with early surfactant use. Five participating centers. FIO2 at study entry was 0.33 (0.13) vs 0.35 (0.09) for early surfactant vs later surfactant groups, respectively. Data represent mean value and standard deviation (sd).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-NICHD-2002">
+<CHAR_METHODS>
+<P>A randomized, multi-center, controlled trial. <BR/>Blinding of randomization: Yes<BR/>Blinding of intervention: No<BR/>Blinding of outcome: No<BR/>Complete followup: Can't tell</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Infants 1250-2000 grams birth weight less than 12 hours old with RDS defined as FIO2 of 0.35-0.5 by oxygen hood or FIO2 .25-.5 by CPAP and clinical signs and chest radiograph consistent with RDS.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Early surfactant administration with rapid extubation to NCPAP (n=32) vs NCPAP with later rescue surfactant and mechanical ventilation (n=29).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Need for mechanical ventilation to treat respiratory failure or apnea</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Study terminated early due to slow enrollment with enrollment of 61 patients out of 1,423 screened patients. FIO2 at study entry was 0.40 (0.13) vs 0.39 (0.08) for early surfactant vs later surfactant groups, respectively. Data represent mean value and standard deviation (sd).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Reininger-2005">
+<CHAR_METHODS>
+<P>A randomized, single center, controlled trial. <BR/>Blinding of randomization: Yes<BR/>Blinding of intervention: Yes<BR/>Blinding of outcome: Yes<BR/>Complete followup: Can't tell</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Infants 25 0/7 to 35 6/7 weeks' gestation less than 24 hours old with early RDS defined as need for NCPAP and FIO2 &gt; .21 and clinical signs and chest radiograph consistent with RDS.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Early surfactant administration with rapid extubation to NCPAP (n=52) vs NCPAP with later rescue surfactant and mechanical ventilation (n=53). All infants in the study were begun on NCPAP prior to enrollment.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Need for mechanical ventilation to treat respiratory failure or apnea.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention (intubation for administration of surfactant) was blinded to the clinical care team. Low threshold for early surfactant administration, including need for CPAP, need for any supplemental oxygen and signs and chest radiograph consistent with RDS. Despite liberalizing eligibility criteria after the first 23 patients were enrolled (reducing the level of supplemental oxygen required for eligibility from an FIO2 &gt; 0.3 to FIO2 &gt; 0.21), patient accrual remained slow. Patient accrual occurred over a 6 year period and was eventually terminated at 50% of planned enrollment (105 patients enrolled out of a planned 206 patients). Reasons for non-enrollment included rapid progression of RDS once a FIO2 of 0.3 was reached. The treatment group consisted of early intubation for surfactant administration followed by brief mechanical ventilation with planned extubation within one hour. FIO2 at study entry was 0.41 (0.16) vs 0.40 (0.19) for early surfactant vs later surfactant groups, respectively. Data represent mean value and standard deviation (sd).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Texas-Research-2004">
+<CHAR_METHODS>
+<P>A randomized, multi-center, controlled trial. <BR/>Blinding of randomization: Yes<BR/>Blinding of intervention: No<BR/>Blinding of outcome: No<BR/>Complete followup: Can't tell</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Infants with birth weight 1250 grams or more, &lt; 36 weeks gestation, 4-24 hours old with FIO2 of 0.40 or more, with or without CPAP, and chest radiograph and clinical presentation consistent with RDS.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Early surfactant administration with rapid extubation to NCPAP (n=65) vs NCPAP with later rescue surfactant and mechanical ventilation (n=67).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Duration of assisted ventilation including the hand or mechanical ventilation used for surfactant administration.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Five participating centers. FIO2 at study entry was 0.51(0.17) vs 0.51(0.12) for early surfactant vs later surfactant groups, respectively. Data represent mean value and standard deviation (sd).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Verder-1994">
+<CHAR_METHODS>
+<P>A randomized, controlled trial. <BR/>Blinding of randomization: Yes<BR/>Blinding of intervention: No<BR/>Blinding of outcome: No<BR/>Complete followup: No (5 post-randomization exclusions)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Infants 25-35 weeks' gestation with early RDS defined as an arterial to alveolar oxygen tension ratio &lt; 0.22 in a patient with radiographic and clinical signs of RDS. Inclusion criteria included need for NCPAP of 6 cm of water.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Early surfactant administration with rapid extubation to NCPAP (n=35) vs NCPAP with later rescue surfactant and mechanical ventilation (n=33). All infants in the study were begun on NCPAP prior to enrollment.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Need for mechanical ventilation to treat respiratory failure or apnea.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Trial terminated at midpoint when interim analysis showed significant reduction in the need for mechanical ventilation with early surfactant use. FIO2 at study entry was 0.50 (0.09) vs 0.48 (0.09) for early surfactant vs later surfactant groups, respectively, assuming PaO2 = 50 and PaCO2 = 52 (study data). Data represent mean value and standard deviation (sd).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Vermont-Oxford-2003">
+<CHAR_METHODS>
+<P>A randomized, multi-center, controlled trial. <BR/>Blinding of randomization: Yes<BR/>Blinding of intervention: No<BR/>Blinding of outcome: No<BR/>Complete followup: Can't tell</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Infants 1501-2500 grams birth weight 2-24 hours old with RDS defined as FIO2 of 0.3-0.6 by oxygen hood or CPAP and clinical signs and chest radiograph consistent with RDS.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Early surfactant administration with rapid extubation to NCPAP (n=138) vs NCPAP with later rescue surfactant and mechanical ventilation (n=132).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Need for mechanical ventilation to treat respiratory failure (pCO2 &gt; 65, hypoxemia, severe respiratory distress) or apnea.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Infants randomized by two strata, birth weight group (1501-2000 or 2001-2500) and age at randomization (&lt; 12 hours of age or 12-24 hours of age). FIO2 at study entry was 0.40 (0.36-0.5) vs 0.40 (0.35-0.49) for early surfactant vs later surfactant groups, respectively. Data represent median value and interquartile range (IQR).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Alba-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The treatment group was compared with two non-randomized control groups: infants requiring immediate intubation for severe respiratory failure, and historical controls from a period before surfactant was clinically available.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Blennow-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A case series of infants treated with early surfactant and planned rapid extubation.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dambeanu-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A randomized trial of prophylactic surfactant administration in Romania at a time when mechanical ventilation was not available.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lefort-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A randomized controlled trial comparing prophylactic versus rescue surfactant was excluded because planned early extubation was not part of the study protocol. (Lefort 2003, previously referred to Diniz 2002)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mandy-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A case series of 46 premature infants with RDS treated with surfactant and endotracheal CPAP.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sandri-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A large multi-center trial of prophylactic versus rescue use of NCPAP in which surfactant administration was the primary endpoint.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-So-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A randomized trial of infants over 1500 grams with RDS in which infants received surfactant when the Fi02 exceeded 0.7 and were then randomized to NCPAP or continued mechanical ventilation.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tooley-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A randomized trial in which all infants received prophylactic surfactant with subsequent randomization to rapid extubation to NCPAP or continued mechanical ventilation until pre-determined extubation criteria were met. This study was excluded because the comparison did not meet the criteria for this systematic review. Both arms received prophylactic surfactant therapy whereas this systematic review is limited to comparisons of prophylactic or early surfactant with rapid extubation to NCPAP compared to selective surfactant therapy.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Verder-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A case series of infants with signs of early RDS treated with early surfactant and NCPAP which served as pilot data for the Verder 1994 trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Verder-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A randomized trial of infants &lt; 30 weeks' gestation with RDS in which infants were randomized to receive early or selective surfactant. The study was excluded because both study arms (early and selective) had a planned, brief period of mechanical ventilation.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Victorin-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A case series of 14 premature infants with RDS treated with surfactant, brief ventilation and rapid extubation to supplemental oxygen only (not CPAP). Mechanical ventilation was not available.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Thomson-2002">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Dani-2004">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-NICHD-2002">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Reininger-2005">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Texas-Research-2004">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Verder-1994">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Vermont-Oxford-2003">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES>
+<ADDITIONAL_TABLE ID="TBL-01" NO="1">
+<TITLE>Time in oxygen (median in days, range unless otherwise stated)</TITLE>
+<TABLE COLS="3" ROWS="6">
+<TR>
+<TH>
+<P>Study</P>
+</TH>
+<TH>
+<P>Early Surfactant</P>
+</TH>
+<TH>
+<P>Selective Surfactant</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Verder 1994</P>
+</TD>
+<TD>
+<P>6 (1 - 75) n = 35</P>
+</TD>
+<TD>
+<P>6 (1 - 76) n = 33</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>NICHD 2002</P>
+</TD>
+<TD>
+<P>5 n = 32</P>
+</TD>
+<TD>
+<P>6 n = 30</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Dani 2004</P>
+</TD>
+<TD>
+<P>mean = 7.0 (standard deviation = 1.4) n = 13</P>
+</TD>
+<TD>
+<P>mean = 11.3 (standard deviation = 5.6) n = 14</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Texas Research Group 2004</P>
+</TD>
+<TD>
+<P>4.3 (2.3 - 6.1) n = 65</P>
+</TD>
+<TD>
+<P>4.7 (3.3 - 6.5) n = 67</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Reininger 2005</P>
+</TD>
+<TD>
+<P>4 (1 - 40) n = 52</P>
+</TD>
+<TD>
+<P>4 (1 - 78) n = 53</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" NO="2">
+<TITLE>Duration mechanical ventilation (median in days, range unless otherwise stated)</TITLE>
+<TABLE COLS="3" ROWS="7">
+<TR>
+<TH>
+<P>Study</P>
+</TH>
+<TH>
+<P>Early Surfactant</P>
+</TH>
+<TH>
+<P>Selective Surfactant</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Verder 1994</P>
+</TD>
+<TD>
+<P>2.5 (range not available) n = 35</P>
+</TD>
+<TD>
+<P>2.5 (range not available) n = 33</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>NICHD 2002</P>
+</TD>
+<TD>
+<P>5 n = 32</P>
+</TD>
+<TD>
+<P>3 n = 30</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Vermont Oxford 2003</P>
+</TD>
+<TD>
+<P>stated no difference between groups</P>
+</TD>
+<TD>
+<P>stated no difference between groups</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Dani 2004</P>
+</TD>
+<TD>
+<P>mean = 2.0 (standard deviation = 1.4) n = 13</P>
+</TD>
+<TD>
+<P>mean = 5.6 (standard deviation = 3.1) n = 14</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Texas Research Group 2004</P>
+</TD>
+<TD>
+<P>0.1 (0.0 - 1.7) n = 65</P>
+</TD>
+<TD>
+<P>0.0 (0.0 - 1.6) n = 67</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Reininger 2005</P>
+</TD>
+<TD>
+<P>2.3 (0.8 - 20.8) n = 52</P>
+</TD>
+<TD>
+<P>2.6 (0.6 - 6.3) n = 53</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Early surfactant, rapid extubation to NCPAP vs. selective surfactant, ventilation in babies with RDS.</NAME>
+<DICH_OUTCOME CHI2="5.880551662686247" CI_END="0.7897225737774071" CI_START="0.5664972366110801" CI_STUDY="95" CI_TOTAL="95" DF="5.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.6688614622881863" ESTIMABLE="YES" EVENTS_1="125" EVENTS_2="183" I2="14.973963553004639" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.10252544774501454" LOG_CI_START="-0.24680220429570554" LOG_EFFECT_SIZE="-0.17466382602036004" METHOD="MH" NO="1" P_CHI2="0.31801607781074737" P_Q="0.0" P_Z="2.079615123715709E-6" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="USER" STUDIES="6" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="335" TOTAL_2="329" WEIGHT="99.99999999999999" Z="4.745529586140896">
+<NAME>Need for mechanical ventilation.</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="2.8957707400605277" CI_END="0.8745048102990667" CI_START="0.5930826701337747" DF="3.0" EFFECT_SIZE="0.7201761228595409" ESTIMABLE="YES" EVENTS_1="93" EVENTS_2="126" I2="0.0" ID="CMP-001.01.01" LOG_CI_END="-0.05823779729954671" LOG_CI_START="-0.22688476585914777" LOG_EFFECT_SIZE="-0.14256128157934725" NO="1" P_CHI2="0.40797615001812226" P_Z="9.210050939475503E-4" STUDIES="4" TAU2="0.0" TOTAL_1="235" TOTAL_2="229" WEIGHT="69.03723220223777" Z="3.313608063896467">
+<NAME>FIO2 at Study Entry &lt;=0.45</NAME>
+<DICH_DATA CI_END="1.1283332363089187" CI_START="0.40630004109199536" EFFECT_SIZE="0.6770833333333334" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="18" LOG_CI_END="0.05243738095688943" LOG_CI_START="-0.39115313375031513" LOG_EFFECT_SIZE="-0.16935787639671282" ORDER="2" O_E="0.0" SE="0.26056726414747333" STUDY_ID="STD-NICHD-2002" TOTAL_1="32" TOTAL_2="30" VAR="0.06789529914529915" WEIGHT="10.02556188963838"/>
+<DICH_DATA CI_END="1.0417298636941115" CI_START="0.606171315735819" EFFECT_SIZE="0.7946488294314381" ESTIMABLE="YES" EVENTS_1="54" EVENTS_2="65" LOG_CI_END="0.01775511443668051" LOG_CI_START="-0.2174046184672279" LOG_EFFECT_SIZE="-0.09982475201527372" ORDER="3" O_E="0.0" SE="0.13813399116720737" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="138" TOTAL_2="132" VAR="0.019080999515782123" WEIGHT="35.8514402604391"/>
+<DICH_DATA CI_END="1.3320836689820035" CI_START="0.005099272703155375" EFFECT_SIZE="0.08241758241758242" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="6" LOG_CI_END="0.1245315039904331" LOG_CI_START="-2.29249176184922" LOG_EFFECT_SIZE="-1.0839801289293935" ORDER="4" O_E="0.0" SE="1.4197714308123386" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="2.0157509157509153" WEIGHT="3.386267970626182"/>
+<DICH_DATA CI_END="0.9906426747198299" CI_START="0.517810994278183" EFFECT_SIZE="0.7162162162162162" ESTIMABLE="YES" EVENTS_1="26" EVENTS_2="37" LOG_CI_END="-0.004082967494140061" LOG_CI_START="-0.2858287327662343" LOG_EFFECT_SIZE="-0.14495585013018714" ORDER="6" O_E="0.0" SE="0.16549885718485904" STUDY_ID="STD-Reininger-2005" TOTAL_1="52" TOTAL_2="53" VAR="0.027389871729494374" WEIGHT="19.773962081534112"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.3171195072435378" CI_END="0.7651423491748557" CI_START="0.4017687282701809" DF="1.0" EFFECT_SIZE="0.5544459113147472" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="57" I2="0.0" ID="CMP-001.01.02" LOG_CI_END="-0.11625775999661793" LOG_CI_START="-0.3960238696490721" LOG_EFFECT_SIZE="-0.256140814822845" NO="2" P_CHI2="0.573344000817932" P_Z="3.320718411557438E-4" STUDIES="2" TAU2="0.0" TOTAL_1="100" TOTAL_2="100" WEIGHT="30.962767797762215" Z="3.588903406829181">
+<NAME>FIO2 at Study Entry &gt; 0.45</NAME>
+<DICH_DATA CI_END="0.7601941633281171" CI_START="0.3356090903406461" EFFECT_SIZE="0.5051020408163265" ESTIMABLE="YES" EVENTS_1="15" EVENTS_2="28" LOG_CI_END="-0.1190754691766436" LOG_CI_START="-0.4741662843412088" LOG_EFFECT_SIZE="-0.2966208767589262" ORDER="1" O_E="0.0" SE="0.20858210255554888" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.04350649350649351" WEIGHT="15.552316697672284"/>
+<DICH_DATA CI_END="0.9882253414816072" CI_START="0.36946112862787583" EFFECT_SIZE="0.6042440318302388" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="29" LOG_CI_END="-0.0051440135061925985" LOG_CI_START="-0.4324312474192299" LOG_EFFECT_SIZE="-0.21878763046271127" ORDER="2" O_E="0.0" SE="0.250990636306438" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" VAR="0.06299629951351061" WEIGHT="15.410451100089931"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.0322377175691466" CI_END="0.9912375457677399" CI_START="0.25796662116602886" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.5056740061092826" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="20" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.0038222562577705436" LOG_CI_START="-0.5884364846616343" LOG_EFFECT_SIZE="-0.2961293704597024" METHOD="MH" NO="2" P_CHI2="0.793452056997376" P_Q="0.0" P_Z="0.04707855676045491" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="132" TOTAL_2="130" WEIGHT="99.99999999999999" Z="1.9855927983490052">
+<NAME>Bronchopulmonary dysplasia: need for oxygen at 28 days chronologic age.</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.2767101500394236" CI_END="0.9174684131934142" CI_START="0.20005041998416503" DF="2.0" EFFECT_SIZE="0.4284156175742756" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="17" I2="0.0" ID="CMP-001.02.01" LOG_CI_END="-0.03740887880550924" LOG_CI_START="-0.6988605325298534" LOG_EFFECT_SIZE="-0.3681347056676813" NO="1" P_CHI2="0.8707894499211113" P_Z="0.029134756356006177" STUDIES="3" TAU2="0.0" TOTAL_1="97" TOTAL_2="97" WEIGHT="84.9820854775426" Z="2.1816583585672076">
+<NAME>FIO2 at Study Entry &lt;=0.45</NAME>
+<DICH_DATA CI_END="1.4176929075845415" CI_START="0.1502566249288985" EFFECT_SIZE="0.46153846153846156" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="7" LOG_CI_END="0.15158216668260127" LOG_CI_START="-0.8231663705289874" LOG_EFFECT_SIZE="-0.3357921019231931" ORDER="2" O_E="0.0" SE="0.5725721158411644" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="0.3278388278388278" WEIGHT="32.779843056425506"/>
+<DICH_DATA CI_END="4.144883942627265" CI_START="0.010018054662100939" EFFECT_SIZE="0.2037735849056604" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="2" LOG_CI_END="0.6175123747458332" LOG_CI_START="-1.9992166029735117" LOG_EFFECT_SIZE="-0.6908521141138393" ORDER="3" O_E="0.0" SE="1.5370795545296865" STUDY_ID="STD-Reininger-2005" TOTAL_1="52" TOTAL_2="53" VAR="2.362613556953179" WEIGHT="12.043739194244866"/>
+<DICH_DATA CI_END="1.3969750067188176" CI_START="0.15728739701370079" EFFECT_SIZE="0.46875" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="8" LOG_CI_END="0.14518863622069583" LOG_CI_START="-0.8033060747491454" LOG_EFFECT_SIZE="-0.32905871926422475" ORDER="47" O_E="0.0" SE="0.557150488348226" STUDY_ID="STD-NICHD-2002" TOTAL_1="32" TOTAL_2="30" VAR="0.3104166666666667" WEIGHT="40.15850322687223"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="2.289408069041088E-32" CI_END="4.345616321384162" CI_START="0.20456927765624225" DF="0.0" EFFECT_SIZE="0.9428571428571427" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="3" I2="100.0" ID="CMP-001.02.02" LOG_CI_END="0.638051379402498" LOG_CI_START="-0.6891595883472744" LOG_EFFECT_SIZE="-0.025554104472388216" NO="2" P_CHI2="0.0" P_Z="0.9398373867326086" STUDIES="1" TAU2="0.0" TOTAL_1="35" TOTAL_2="33" WEIGHT="15.017914522457389" Z="0.0754742473353305">
+<NAME>FIO2 at Study Entry &gt; 0.45</NAME>
+<DICH_DATA CI_END="4.345616321384162" CI_START="0.20456927765624225" EFFECT_SIZE="0.9428571428571428" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="3" LOG_CI_END="0.638051379402498" LOG_CI_START="-0.6891595883472744" LOG_EFFECT_SIZE="-0.025554104472388164" ORDER="48" O_E="0.0" SE="0.7796102922564631" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.6077922077922078" WEIGHT="15.017914522457389"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.506249582291305" CI_END="1.5569331858207822" CI_START="0.17100103710427272" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.5159817724274891" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="7" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.19226997566898335" LOG_CI_START="-0.7670012556470452" LOG_EFFECT_SIZE="-0.2873656399890309" METHOD="MH" NO="3" P_CHI2="0.6808287132506006" P_Q="0.0" P_Z="0.24028308405866294" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="USER" STUDIES="6" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="198" TOTAL_2="198" WEIGHT="100.0" Z="1.1742795705446332">
+<NAME>Neonatal mortality: death prior to 28 days of age.</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="1.2557520167261338" CI_END="3.552900970705949" CI_START="0.14619831840317302" DF="2.0" EFFECT_SIZE="0.7207136375636379" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" I2="0.0" ID="CMP-001.03.01" LOG_CI_END="0.550583102655294" LOG_CI_START="-0.8350576226751678" LOG_EFFECT_SIZE="-0.14223726000993692" NO="1" P_CHI2="0.5337245672643641" P_Z="0.6874013614377548" STUDIES="4" TAU2="0.0" TOTAL_1="98" TOTAL_2="98" WEIGHT="40.410571328153125" Z="0.4023841126820943">
+<NAME>FIO2 at study entry &lt;=0.45</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="2" O_E="0.0" SE="0.0" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="1" TOTAL_2="1" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="8.060808530068371" CI_START="0.015823601309021704" EFFECT_SIZE="0.35714285714285715" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.9063786053951904" LOG_CI_START="-1.8006946680796292" LOG_EFFECT_SIZE="-0.4471580313422192" ORDER="3" O_E="0.0" SE="1.5901482410679288" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="2.528571428571428" WEIGHT="16.76723234352657"/>
+<DICH_DATA CI_END="73.36132469680044" CI_START="0.12735357039021622" EFFECT_SIZE="3.056603773584906" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8654671648554813" LOG_CI_START="-0.8949888749717976" LOG_EFFECT_SIZE="0.48523914494184195" ORDER="5" O_E="0.0" SE="1.6215055422723186" STUDY_ID="STD-Reininger-2005" TOTAL_1="52" TOTAL_2="53" VAR="2.629280223619846" WEIGHT="5.734587474855437"/>
+<DICH_DATA CI_END="7.401691333129458" CI_START="0.01324713701913913" EFFECT_SIZE="0.31313131313131315" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.8693309700979578" LOG_CI_START="-1.8778779716245122" LOG_EFFECT_SIZE="-0.5042735007632773" ORDER="52" O_E="0.0" SE="1.6137241312713606" STUDY_ID="STD-NICHD-2002" TOTAL_1="32" TOTAL_2="30" VAR="2.6041055718475072" WEIGHT="17.908751509771122"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.811613912992477" CI_START="0.07851382332283306" DF="0.0" EFFECT_SIZE="0.37714285714285717" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="5" I2="0.0" ID="CMP-001.03.02" LOG_CI_END="0.2580656473568333" LOG_CI_START="-1.1050538736456847" LOG_EFFECT_SIZE="-0.42349411314442575" NO="2" P_CHI2="1.0" P_Z="0.22328342538506518" STUDIES="2" TAU2="0.0" TOTAL_1="100" TOTAL_2="100" WEIGHT="59.589428671846875" Z="1.217843625065761">
+<NAME>FIO2 at study entry &gt; 0.45</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="53" O_E="0.0" SE="0.0" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.811613912992477" CI_START="0.07851382332283306" EFFECT_SIZE="0.37714285714285717" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="5" LOG_CI_END="0.2580656473568333" LOG_CI_START="-1.1050538736456847" LOG_EFFECT_SIZE="-0.42349411314442575" ORDER="54" O_E="0.0" SE="0.8007031541873312" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.6411255411255411" WEIGHT="59.589428671846875"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.3233056454339662" CI_END="1.2502425553894345" CI_START="0.41195615999630575" CI_STUDY="95" CI_TOTAL="95" DF="5.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.7176664421457924" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="24" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="0.09699427720657644" LOG_CI_START="-0.38514899873564407" LOG_EFFECT_SIZE="-0.1440773607645338" METHOD="MH" NO="4" P_CHI2="0.9325153822997132" P_Q="0.0" P_Z="0.24144618354929592" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="USER" STUDIES="5" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="448" TOTAL_2="427" WEIGHT="200.0" Z="1.1713797627239393">
+<NAME>Intraventricular hemorrhage</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="1.137408647450714" CI_END="1.3904527650543428" CI_START="0.41059110992606473" DF="4.0" EFFECT_SIZE="0.755584240242892" ESTIMABLE="YES" EVENTS_1="15" EVENTS_2="19" I2="0.0" ID="CMP-001.04.01" LOG_CI_END="0.1431562400720334" LOG_CI_START="-0.38659045816038917" LOG_EFFECT_SIZE="-0.1217171090441779" NO="1" P_CHI2="0.8882924052376642" P_Z="0.3677684911670117" STUDIES="5" TAU2="0.0" TOTAL_1="263" TOTAL_2="254" WEIGHT="100.0" Z="0.9006612059118724">
+<NAME>IVH, any severity</NAME>
+<DICH_DATA CI_END="2.221127025448631" CI_START="0.4002380690753945" EFFECT_SIZE="0.9428571428571428" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="8" LOG_CI_END="0.3465733964025473" LOG_CI_START="-0.39768160534732366" LOG_EFFECT_SIZE="-0.025554104472388164" ORDER="1" O_E="0.0" SE="0.4371790721495496" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.19112554112554112" WEIGHT="39.9260388138722"/>
+<DICH_DATA CI_END="2.0119837240699843" CI_START="0.2557924685955232" EFFECT_SIZE="0.717391304347826" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="8" LOG_CI_END="0.3036244631755478" LOG_CI_START="-0.592112246782921" LOG_EFFECT_SIZE="-0.1442438918036866" ORDER="2" O_E="0.0" SE="0.5261601773978289" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="138" TOTAL_2="132" VAR="0.2768445322793149" WEIGHT="39.647190288822934"/>
+<DICH_DATA CI_END="15.504566193694096" CI_START="0.0748014036072262" EFFECT_SIZE="1.0769230769230769" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.1904596195046264" LOG_CI_START="-1.126090252761824" LOG_EFFECT_SIZE="0.032184683371401235" ORDER="3" O_E="0.0" SE="1.3607528620761198" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="1.8516483516483517" WEIGHT="4.668600305749077"/>
+<DICH_DATA CI_END="8.280308122259122" CI_START="0.01424429459733666" EFFECT_SIZE="0.3434343434343434" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.9180464978123097" LOG_CI_START="-1.8463590529228997" LOG_EFFECT_SIZE="-0.4641562775552948" ORDER="4" O_E="0.0" SE="1.6238255045300312" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" VAR="2.6368092691622103" WEIGHT="7.163701846881335"/>
+<DICH_DATA CI_END="5.049888629650651" CI_START="0.010545665810754053" EFFECT_SIZE="0.23076923076923078" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.703281800284698" LOG_CI_START="-1.9769259954590463" LOG_EFFECT_SIZE="-0.6368220975871743" ORDER="59" O_E="0.0" SE="1.5743673264624358" STUDY_ID="STD-NICHD-2002" TOTAL_1="12" TOTAL_2="8" VAR="2.4786324786324783" WEIGHT="8.594468744674439"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="2.182293051219616" CI_START="0.14664971456623027" DF="0.0" EFFECT_SIZE="0.5657142857142857" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="5" I2="0.0" ID="CMP-001.04.02" LOG_CI_END="0.33891306980039465" LOG_CI_START="-0.8337187779778837" LOG_EFFECT_SIZE="-0.24740285408874452" NO="2" P_CHI2="1.0" P_Z="0.40822023475710856" STUDIES="3" TAU2="0.0" TOTAL_1="185" TOTAL_2="173" WEIGHT="100.0" Z="0.8270297017858969">
+<NAME>Serious IVH, Grades III-IV</NAME>
+<DICH_DATA CI_END="2.1822930512196166" CI_START="0.14664971456623027" EFFECT_SIZE="0.5657142857142857" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="5" LOG_CI_END="0.3389130698003947" LOG_CI_START="-0.8337187779778837" LOG_EFFECT_SIZE="-0.24740285408874452" ORDER="60" O_E="0.0" SE="0.6888097520062231" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.47445887445887447" WEIGHT="100.0"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="61" O_E="0.0" SE="0.0" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="138" TOTAL_2="132" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="62" O_E="0.0" SE="0.0" STUDY_ID="STD-NICHD-2002" TOTAL_1="12" TOTAL_2="8" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.29843908583175416" CI_END="2.6342058044664647" CI_START="0.09965981861839977" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.5123714206283013" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="4" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="0.4206497023845077" LOG_CI_START="-1.0014799075833822" LOG_EFFECT_SIZE="-0.2904151025994373" METHOD="MH" NO="5" P_CHI2="0.5848627199486248" P_Q="0.0" P_Z="0.42342461991267977" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="56" TOTAL_2="53" WEIGHT="100.0" Z="0.8004940445255954">
+<NAME>Retinopathy of prematurity, any severity</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.0314801951150363" CI_START="0.042508141933007726" EFFECT_SIZE="0.358974358974359" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="3" LOG_CI_END="0.4816547353021908" LOG_CI_START="-1.3715278779987132" LOG_EFFECT_SIZE="-0.44493657134826115" ORDER="64" O_E="0.0" SE="1.0885686404548336" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="1.184981684981685" WEIGHT="73.7281067556297"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="65" O_E="0.0" SE="0.0" STUDY_ID="STD-NICHD-2002" TOTAL_1="8" TOTAL_2="6" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="14.466928318375288" CI_START="0.06144909080026271" EFFECT_SIZE="0.9428571428571428" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.160376329599228" LOG_CI_START="-1.211484538544004" LOG_EFFECT_SIZE="-0.025554104472388164" ORDER="63" O_E="0.0" SE="1.3932428148479867" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="1.9411255411255413" WEIGHT="26.271893244370307"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="7.465786847356869" CI_START="0.013275006325953931" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.3148148148148148" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="0.8730755864022091" LOG_CI_START="-1.8769652632915983" LOG_EFFECT_SIZE="-0.5019448384446945" METHOD="MH" NO="6" P_CHI2="1.0" P_Q="0.0" P_Z="0.47431510921920705" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="35" TOTAL_2="33" WEIGHT="100.0" Z="0.7154757760685003">
+<NAME>Periventricular leukomalacia</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_DATA CI_END="7.465786847356869" CI_START="0.013275006325953931" EFFECT_SIZE="0.3148148148148148" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.8730755864022091" LOG_CI_START="-1.8769652632915983" LOG_EFFECT_SIZE="-0.5019448384446945" ORDER="66" O_E="0.0" SE="1.6153876080318947" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="2.6094771241830066" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="2.238934365440008" CI_END="4.069998236598776" CI_START="0.3480558899453986" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.1902045447382519" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="4" I2="10.671789630289195" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="0.6095942210592282" LOG_CI_START="-0.4583510125305691" LOG_EFFECT_SIZE="0.07562160426432947" METHOD="MH" NO="7" P_CHI2="0.32645399772738815" P_Q="0.0" P_Z="0.7813412543610405" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="270" TOTAL_2="262" WEIGHT="100.0" Z="0.277571576049857">
+<NAME>Pulmonary hemorrhage</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="27.24084364724874" CI_START="0.30228155351912755" DF="0.0" EFFECT_SIZE="2.869565217391304" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="1" I2="0.0" ID="CMP-001.07.01" LOG_CI_END="1.4352205535223623" LOG_CI_START="-0.5195883544738105" LOG_EFFECT_SIZE="0.45781609952427577" NO="1" P_CHI2="1.0" P_Z="0.3585943566802552" STUDIES="2" TAU2="0.0" TOTAL_1="170" TOTAL_2="162" WEIGHT="22.326578209209238" Z="0.9180468361278231">
+<NAME>FIO2 at study entry &lt; = 0.45</NAME>
+<DICH_DATA CI_END="27.24084364724874" CI_START="0.30228155351912755" EFFECT_SIZE="2.869565217391304" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="1" LOG_CI_END="1.4352205535223623" LOG_CI_START="-0.5195883544738105" LOG_EFFECT_SIZE="0.45781609952427577" ORDER="2" O_E="0.0" SE="1.1482644290171065" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="138" TOTAL_2="132" VAR="1.3185111989459815" WEIGHT="22.326578209209238"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="68" O_E="0.0" SE="0.0" STUDY_ID="STD-NICHD-2002" TOTAL_1="32" TOTAL_2="30" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="1.5226172495180554" CI_END="3.458237445712726" CI_START="0.14473756657318482" DF="1.0" EFFECT_SIZE="0.7074863055386488" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="3" I2="34.32361282413399" ID="CMP-001.07.02" LOG_CI_END="0.5388548090138159" LOG_CI_START="-0.8394187333040093" LOG_EFFECT_SIZE="-0.15028196214509665" NO="2" P_CHI2="0.21722427342034567" P_Z="0.6690772538304206" STUDIES="2" TAU2="0.0" TOTAL_1="100" TOTAL_2="100" WEIGHT="77.67342179079077" Z="0.42741476823978625">
+<NAME>FIO2 at study entry &gt; 0.45</NAME>
+<DICH_DATA CI_END="3.7938145471829556" CI_START="0.009404521992824334" EFFECT_SIZE="0.18888888888888888" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="2" LOG_CI_END="0.5790760974794736" LOG_CI_START="-2.0266632736015757" LOG_EFFECT_SIZE="-0.723793588061051" ORDER="1" O_E="0.0" SE="1.5306242051909213" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="2.34281045751634" WEIGHT="56.16313152006052"/>
+<DICH_DATA CI_END="22.187565121216053" CI_START="0.19154606669023427" EFFECT_SIZE="2.0615384615384613" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="1" LOG_CI_END="1.346109645069289" LOG_CI_START="-0.7177267616253851" LOG_EFFECT_SIZE="0.314191441721952" ORDER="2" O_E="0.0" SE="1.2123077214474287" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" VAR="1.4696900114810563" WEIGHT="21.51029027073025"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.137680467542614" CI_END="1.8638691725766134" CI_START="1.411152833117173" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.621790449916773" ESTIMABLE="YES" EVENTS_1="131" EVENTS_2="79" I2="0.0" I2_Q="0.0" ID="CMP-001.08" LOG_CI_END="0.2704154253881001" LOG_CI_START="0.14957405201444932" LOG_EFFECT_SIZE="0.2099947387012747" METHOD="MH" NO="8" P_CHI2="0.7679865687989613" P_Q="0.0" P_Z="9.629091148798983E-12" Q="0.0" RANDOM="NO" SCALE="5.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="132" TOTAL_2="130" WEIGHT="100.0" Z="6.811940535047619">
+<NAME>Use of surfactant</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_DATA CI_END="2.3034137058354633" CI_START="1.2834187189250832" EFFECT_SIZE="1.7193732193732194" ESTIMABLE="YES" EVENTS_1="35" EVENTS_2="19" LOG_CI_END="0.36237194665968475" LOG_CI_START="0.10836836927540312" LOG_EFFECT_SIZE="0.23537015796754393" ORDER="1" O_E="0.0" SE="0.14920295869351316" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.022261522882898198" WEIGHT="24.74742549302762"/>
+<DICH_DATA CI_END="3.2309727773868167" CI_START="1.1511665406572227" EFFECT_SIZE="1.9285714285714286" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="7" LOG_CI_END="0.5093332988779058" LOG_CI_START="0.06113815808359276" LOG_EFFECT_SIZE="0.2852357284807493" ORDER="2" O_E="0.0" SE="0.2632720443043076" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="0.06931216931216931" WEIGHT="8.934746899192112"/>
+<DICH_DATA CI_END="1.8299667052339637" CI_START="1.2406648923634571" EFFECT_SIZE="1.5067765081052351" ESTIMABLE="YES" EVENTS_1="52" EVENTS_2="35" LOG_CI_END="0.262443188165016" LOG_CI_START="0.09365449298106847" LOG_EFFECT_SIZE="0.1780488405730422" ORDER="3" O_E="0.0" SE="0.099147315068567" STUDY_ID="STD-Reininger-2005" TOTAL_1="52" TOTAL_2="53" VAR="0.009830190085305692" WEIGHT="43.39217289132789"/>
+<DICH_DATA CI_END="2.1766881919808765" CI_START="1.1976356328305386" EFFECT_SIZE="1.6145833333333333" ESTIMABLE="YES" EVENTS_1="31" EVENTS_2="18" LOG_CI_END="0.337796221323693" LOG_CI_START="0.07832470893775315" LOG_EFFECT_SIZE="0.20806046513072304" ORDER="74" O_E="0.0" SE="0.15241485078020203" STUDY_ID="STD-NICHD-2002" TOTAL_1="32" TOTAL_2="30" VAR="0.02323028673835125" WEIGHT="22.92565471645239"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="2.4442960778563885" CI_END="0.6906558782822887" CI_START="0.44112338861895967" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.5658896334506242" ESTIMABLE="YES" I2="18.17685189128273" I2_Q="0.0" ID="CMP-001.09" NO="9" P_CHI2="0.29459675623955794" P_Q="1.0" P_Z="6.132357848784306E-19" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="USER" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="238" TOTAL_2="232" UNITS="" WEIGHT="99.99999999999999" Z="8.88961034520381">
+<NAME>Number of surfactant doses per patient</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.7041824619299827" CI_START="0.31581753807001756" EFFECT_SIZE="0.5100000000000001" ESTIMABLE="YES" MEAN_1="1.09" MEAN_2="0.58" ORDER="1" SD_1="0.28" SD_2="0.5" SE="0.09907450517543641" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" WEIGHT="41.28328066797578"/>
+<CONT_DATA CI_END="0.7210279054832347" CI_START="0.2789720945167653" EFFECT_SIZE="0.5" ESTIMABLE="YES" MEAN_1="1.3" MEAN_2="0.8" ORDER="2" SD_1="0.7" SD_2="1.1" SE="0.11277141173341686" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="138" TOTAL_2="132" WEIGHT="31.863977860795277"/>
+<CONT_DATA CI_END="0.970770230611197" CI_START="0.4892297693888029" EFFECT_SIZE="0.73" ESTIMABLE="YES" MEAN_1="1.28" MEAN_2="0.55" ORDER="3" SD_1="0.6" SD_2="0.8" SE="0.12284421168468497" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" WEIGHT="26.852741471228928"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="2.2292178432655194" CI_END="0.9600231596342708" CI_START="0.28436702641069816" CI_STUDY="95" CI_TOTAL="95" DF="5.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.5224929963077023" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="27" I2="0.0" I2_Q="0.0" ID="CMP-001.10" LOG_CI_END="-0.017718289897885015" LOG_CI_START="-0.5461207633504909" LOG_EFFECT_SIZE="-0.28191952662418795" METHOD="MH" NO="10" P_CHI2="0.816604684035565" P_Q="0.0" P_Z="0.03649166207175481" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="USER" STUDIES="6" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="335" TOTAL_2="329" WEIGHT="100.00000000000001" Z="2.091406253689876">
+<NAME>Air leak syndromes, pulmonary interstitial emphysema, pneumothorax</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours early</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="1.5209767695279706" CI_END="0.9285887724420177" CI_START="0.2304198980636935" DF="3.0" EFFECT_SIZE="0.46256386617328854" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="22" I2="0.0" ID="CMP-001.10.01" LOG_CI_END="-0.03217657168853427" LOG_CI_START="-0.6374800198402947" LOG_EFFECT_SIZE="-0.3348282957644145" NO="1" P_CHI2="0.6774374671448087" P_Z="0.03013293735105934" STUDIES="4" TAU2="0.0" TOTAL_1="235" TOTAL_2="229" WEIGHT="82.29582442240799" Z="2.1683385505467783">
+<NAME>FIO2 at Study Entry &lt;= 0.45</NAME>
+<DICH_DATA CI_END="1.163183940980188" CI_START="0.22373748288825449" EFFECT_SIZE="0.5101449275362319" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="15" LOG_CI_END="0.06564839764853116" LOG_CI_START="-0.6502612521667798" LOG_EFFECT_SIZE="-0.2923064272591243" ORDER="2" O_E="0.0" SE="0.4205288721114341" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="138" TOTAL_2="132" VAR="0.17684453227931488" WEIGHT="54.14802429100325"/>
+<DICH_DATA CI_END="8.060808530068371" CI_START="0.015823601309021704" EFFECT_SIZE="0.35714285714285715" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.9063786053951904" LOG_CI_START="-1.8006946680796292" LOG_EFFECT_SIZE="-0.4471580313422192" ORDER="3" O_E="0.0" SE="1.5901482410679288" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="2.528571428571428" WEIGHT="5.114431079959828"/>
+<DICH_DATA CI_END="2.0514104094898644" CI_START="0.006247384081175671" EFFECT_SIZE="0.11320754716981132" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="4" LOG_CI_END="0.31205255493013473" LOG_CI_START="-2.2043017933644258" LOG_EFFECT_SIZE="-0.9461246192171454" ORDER="5" O_E="0.0" SE="1.4781190003431393" STUDY_ID="STD-Reininger-2005" TOTAL_1="52" TOTAL_2="53" VAR="2.1848357791754016" WEIGHT="15.742751475096638"/>
+<DICH_DATA CI_END="6.240614707990126" CI_START="0.14083648664845452" EFFECT_SIZE="0.9375" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="2" LOG_CI_END="0.7952273703137559" LOG_CI_START="-0.8512848175142429" LOG_EFFECT_SIZE="-0.02802872360024354" ORDER="81" O_E="0.0" SE="0.9671694094969436" STUDY_ID="STD-NICHD-2002" TOTAL_1="32" TOTAL_2="30" VAR="0.9354166666666667" WEIGHT="7.290617576348264"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.2949323371006049" CI_END="2.885110474446051" CI_START="0.222420531251114" DF="1.0" EFFECT_SIZE="0.8010666666666666" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="5" I2="0.0" ID="CMP-001.10.02" LOG_CI_END="0.46016244748264196" LOG_CI_START="-0.6528251262738183" LOG_EFFECT_SIZE="-0.0963313393955881" NO="2" P_CHI2="0.5870770542389165" P_Z="0.7344005087487422" STUDIES="2" TAU2="0.0" TOTAL_1="100" TOTAL_2="100" WEIGHT="17.70417557759203" Z="0.3392777426267492">
+<NAME>FIO2 at Study Entry &gt; 0.45</NAME>
+<DICH_DATA CI_END="4.95743314826398" CI_START="0.04483063942819089" EFFECT_SIZE="0.4714285714285714" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" LOG_CI_END="0.6952568663900346" LOG_CI_START="-1.3484250666627733" LOG_EFFECT_SIZE="-0.32658410013636935" ORDER="1" O_E="0.0" SE="1.200468883863943" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="1.4411255411255413" WEIGHT="7.270514770531126"/>
+<DICH_DATA CI_END="4.922453967911958" CI_START="0.21584462018875603" EFFECT_SIZE="1.0307692307692307" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="3" LOG_CI_END="0.6921816635454933" LOG_CI_START="-0.6658587714295516" LOG_EFFECT_SIZE="0.013161446057970814" ORDER="2" O_E="0.0" SE="0.7977196739129121" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" VAR="0.6363566781477228" WEIGHT="10.433660807060903"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="3.6757646707001266" CI_END="2.5731312364986803" CI_START="0.9009184947542255" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.5225575589748552" ESTIMABLE="YES" EVENTS_1="28" EVENTS_2="18" I2="18.384329010143432" I2_Q="0.0" ID="CMP-001.11" LOG_CI_END="0.4104619369424575" LOG_CI_START="-0.045314497455584024" LOG_EFFECT_SIZE="0.1825737197434367" METHOD="MH" NO="11" P_CHI2="0.29867145935241346" P_Q="0.0" P_Z="0.11636059214169438" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="126" TOTAL_2="124" WEIGHT="99.99999999999999" Z="1.5702343878013496">
+<NAME>Patent ductus arteriosus requiring treatment</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.004403800129275893" CI_END="1.7759817854081994" CI_START="0.30201235752001426" DF="1.0" EFFECT_SIZE="0.7323717948717948" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="8" I2="0.0" ID="CMP-001.11.01" LOG_CI_END="0.2494385073112341" LOG_CI_START="-0.5199752865363816" LOG_EFFECT_SIZE="-0.1352683896125738" NO="1" P_CHI2="0.9470903124408682" P_Z="0.49072820566514286" STUDIES="2" TAU2="0.0" TOTAL_1="26" TOTAL_2="24" WEIGHT="44.27906076616913" Z="0.6891510758120993">
+<NAME>FIO2 at Study Entry &lt;= 0.45</NAME>
+<DICH_DATA CI_END="1.9815655534279562" CI_START="0.26012279064526445" EFFECT_SIZE="0.717948717948718" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="6" LOG_CI_END="0.2970084440793012" LOG_CI_START="-0.5848215954478612" LOG_EFFECT_SIZE="-0.14390657568427997" ORDER="2" O_E="0.0" SE="0.5179913303473508" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="0.26831501831501825" WEIGHT="31.825574925684066"/>
+<DICH_DATA CI_END="4.552995488278995" CI_START="0.12996190702464896" EFFECT_SIZE="0.7692307692307693" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="2" LOG_CI_END="0.6582972199509513" LOG_CI_START="-0.8861839245646248" LOG_EFFECT_SIZE="-0.11394335230683675" ORDER="85" O_E="0.0" SE="0.9072358695934167" STUDY_ID="STD-NICHD-2002" TOTAL_1="13" TOTAL_2="10" VAR="0.8230769230769232" WEIGHT="12.453485840485067"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.031522620433071934" CI_END="4.234573720295569" CI_START="1.0921014110806326" DF="1.0" EFFECT_SIZE="2.150484581497797" ESTIMABLE="YES" EVENTS_1="22" EVENTS_2="10" I2="0.0" ID="CMP-001.11.02" LOG_CI_END="0.6268096979627564" LOG_CI_START="0.0382629682476616" LOG_EFFECT_SIZE="0.332536333105209" NO="2" P_CHI2="0.8590794933362675" P_Z="0.026773191340015365" STUDIES="2" TAU2="0.0" TOTAL_1="100" TOTAL_2="100" WEIGHT="55.720939233830855" Z="2.214808794376377">
+<NAME>FIO2 at Study Entry &gt; 0.45</NAME>
+<DICH_DATA CI_END="4.743203849943769" CI_START="0.8798410184651716" EFFECT_SIZE="2.0428571428571427" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="6" LOG_CI_END="0.6760717898433705" LOG_CI_START="-0.05559579494176054" LOG_EFFECT_SIZE="0.31023799745080494" ORDER="1" O_E="0.0" SE="0.42978516111574244" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.1847152847152847" WEIGHT="34.02168360268263"/>
+<DICH_DATA CI_END="7.16003583250255" CI_START="0.7512296707412925" EFFECT_SIZE="2.3192307692307694" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="4" LOG_CI_END="0.8549151957462899" LOG_CI_START="-0.12422726740762316" LOG_EFFECT_SIZE="0.3653439641693334" ORDER="2" O_E="0.0" SE="0.5751531296899699" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" VAR="0.3308011225921674" WEIGHT="21.699255631148226"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.046893185726748" CI_END="3.2525510135342985" CI_START="0.1234174735554126" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.633578431372549" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="3" I2="4.47927127295179" I2_Q="0.0" ID="CMP-001.12" LOG_CI_END="0.512224116831689" LOG_CI_START="-0.9086233481515263" LOG_EFFECT_SIZE="-0.19819961565991867" METHOD="MH" NO="12" P_CHI2="0.3062240509454984" P_Q="0.0" P_Z="0.5845118788805548" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="199" TOTAL_2="189" WEIGHT="100.0" Z="0.5468062096978306">
+<NAME>Necrotizing enterocolitis (NEC)</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1" O_E="0.0" SE="0.0" STUDY_ID="STD-Verder-1994" TOTAL_1="35" TOTAL_2="33" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="3.02676040524986" CI_START="0.03358683927990305" EFFECT_SIZE="0.3188405797101449" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="3" LOG_CI_END="0.4809780440830373" LOG_CI_START="-1.4738308639131354" LOG_EFFECT_SIZE="-0.49642640991504916" ORDER="2" O_E="0.0" SE="1.1482644290171065" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="138" TOTAL_2="132" VAR="1.3185111989459815" WEIGHT="84.55882352941177"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="3" O_E="0.0" SE="0.0" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="52.41051967022585" CI_START="0.10601158858831147" EFFECT_SIZE="2.357142857142857" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.719418465918823" LOG_CI_START="-0.9746466575195243" LOG_EFFECT_SIZE="0.37238590419964945" ORDER="91" O_E="0.0" SE="1.582507189345124" STUDY_ID="STD-NICHD-2002" TOTAL_1="13" TOTAL_2="10" VAR="2.504329004329004" WEIGHT="15.441176470588236"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="13.665449479730425" CI_END="0.0994346367226121" CI_START="-0.8145181631616909" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.3575417632195394" ESTIMABLE="YES" I2="85.36455018939155" I2_Q="0.0" ID="CMP-001.13" NO="13" P_CHI2="0.001077921532209647" P_Q="1.0" P_Z="0.12515503974231926" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="132" TOTAL_2="146" UNITS="" WEIGHT="100.0" Z="1.533490523729355">
+<NAME>Duration of mechanical ventilation (d)</NAME>
+<GROUP_LABEL_1>Early surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours early</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours selective</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.34584646342810654" CI_START="-0.7458464634281065" EFFECT_SIZE="-0.19999999999999996" ESTIMABLE="YES" MEAN_1="1.7" MEAN_2="1.9" ORDER="1" SD_1="1.6" SD_2="1.4" SE="0.2784982110557509" STUDY_ID="STD-Vermont-Oxford-2003" TOTAL_1="54" TOTAL_2="65" WEIGHT="70.08846397300564"/>
+<CONT_DATA CI_END="-1.8066620837336638" CI_START="-5.3933379162663355" EFFECT_SIZE="-3.5999999999999996" ESTIMABLE="YES" MEAN_1="2.0" MEAN_2="5.6" ORDER="2" SD_1="1.4" SD_2="3.1" SE="0.9149851376923027" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" WEIGHT="6.493267315869869"/>
+<CONT_DATA CI_END="1.0143138936481453" CI_START="-0.8743138936481452" EFFECT_SIZE="0.07000000000000006" ESTIMABLE="YES" MEAN_1="1.37" MEAN_2="1.3" ORDER="3" SD_1="2.6" SD_2="2.93" SE="0.48180165610020015" STUDY_ID="STD-Texas-Research-2004" TOTAL_1="65" TOTAL_2="67" WEIGHT="23.41826871112449"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-0.9698354217078737" CI_START="-7.630164578292128" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-4.300000000000001" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.14" NO="14" P_CHI2="1.0" P_Q="1.0" P_Z="0.011381590828915726" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="13" TOTAL_2="14" UNITS="" WEIGHT="100.0" Z="2.5307593469883254">
+<NAME>Duration in oxygen</NAME>
+<GROUP_LABEL_1>Early Surfactant</GROUP_LABEL_1>
+<GROUP_LABEL_2>Selective Surfactant</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.9698354217078737" CI_START="-7.630164578292128" EFFECT_SIZE="-4.300000000000001" ESTIMABLE="YES" MEAN_1="7.0" MEAN_2="11.3" ORDER="95" SD_1="2.9" SD_2="5.6" SE="1.6990947816184583" STUDY_ID="STD-Dani-2004" TOTAL_1="13" TOTAL_2="14" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Prophylactic surfactant, rapid extubation vs. selective surfactant, ventilation in babies at risk of</NAME>
+<OTHER_OUTCOME COLS="5" ID="CMP-002.01" NO="1" ROWS_PER_STUDY="1" SORT_BY="STUDY" STUDIES="0" SUBGROUPS="NO">
+<NAME>No available studies.</NAME>
+<TR>
+<TH/>
+<TH/>
+<TH/>
+<TH/>
+<TH/>
+</TR>
+</OTHER_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

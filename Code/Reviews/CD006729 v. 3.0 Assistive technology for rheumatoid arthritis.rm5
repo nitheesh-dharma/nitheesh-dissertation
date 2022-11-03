@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD006729" GROUP_ID="MUSKEL" ID="052906110617043300" MERGED_FROM="" MODIFIED="2009-08-11 17:16:30 +0200" MODIFIED_BY="Elizabeth Tanjong Ghogomu" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.10&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.9&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2009-08-11 10:30:27 -0400" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="C111-R" REVMAN_SUB_VERSION="5.0.21" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="3.0">
+<COVER_SHEET MODIFIED="2009-08-11 08:50:22 -0400" MODIFIED_BY="Elizabeth Tanjong Ghogomu">
+<TITLE>Assistive technology for rheumatoid arthritis</TITLE>
+<CONTACT>
+<PERSON ID="BDFD94F382E26AA201580757568D704A" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Hanne</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Tuntland</LAST_NAME>
+<SUFFIX/>
+<POSITION>Assistant professor</POSITION>
+<EMAIL_1>htu@hib.no</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Faculty of Health and Social Sciences</DEPARTMENT>
+<ORGANISATION>Bergen University College</ORGANISATION>
+<ADDRESS_1>Haugeveien 28</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Bergen</CITY>
+<ZIP>5005</ZIP>
+<REGION/>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<PHONE_1>++47-55587839</PHONE_1>
+<PHONE_2/>
+<FAX_1>++47-55900011</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2009-08-11 08:50:22 -0400" MODIFIED_BY="Elizabeth Tanjong Ghogomu">
+<PERSON ID="BDFD94F382E26AA201580757568D704A" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Hanne</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Tuntland</LAST_NAME>
+<SUFFIX/>
+<POSITION>Assistant professor</POSITION>
+<EMAIL_1>htu@hib.no</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Faculty of Health and Social Sciences</DEPARTMENT>
+<ORGANISATION>Bergen University College</ORGANISATION>
+<ADDRESS_1>Haugeveien 28</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Bergen</CITY>
+<ZIP>5005</ZIP>
+<REGION/>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<PHONE_1>++47-55587839</PHONE_1>
+<PHONE_2/>
+<FAX_1>++47-55900011</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="BE01E8BD82E26AA2015807570E2F7A51" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Ingvild</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Kjeken</LAST_NAME>
+<SUFFIX/>
+<POSITION>Researcher</POSITION>
+<EMAIL_1>Ingvild.Kjeken@diakonsyk.no</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>National Resource Centre for Rehabilitation in Rheumatology</DEPARTMENT>
+<ORGANISATION>Diakonhjemmet hospital</ORGANISATION>
+<ADDRESS_1>PO box 23</ADDRESS_1>
+<ADDRESS_2>Vindern</ADDRESS_2>
+<CITY>Oslo</CITY>
+<ZIP>0319</ZIP>
+<REGION/>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<PHONE_1>++47-22454845</PHONE_1>
+<PHONE_2/>
+<FAX_1>++47-22454850</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="BA5E34B882E26AA20144426C60AC767A" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Lena V.</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Nordheim</LAST_NAME>
+<SUFFIX/>
+<POSITION>Research Librarian</POSITION>
+<EMAIL_1>lvn@hib.no</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Evidence Based Based Practice</DEPARTMENT>
+<ORGANISATION>Bergen University College</ORGANISATION>
+<ADDRESS_1>P.O. Box 7030</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>NO-0031 Oslo</CITY>
+<ZIP>5020</ZIP>
+<REGION>Bergen</REGION>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<PHONE_1>+47 55 58 72 23</PHONE_1>
+<PHONE_2>+47 92 85 61 74</PHONE_2>
+<FAX_1>+ 47 55 29 83 64</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="17861" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Louise</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Falzon</LAST_NAME>
+<SUFFIX/>
+<POSITION>Trials Search Coordinator</POSITION>
+<EMAIL_1>louise.falzon@mountsinai.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Integrative &amp; Behavioral Cardiology Program</DEPARTMENT>
+<ORGANISATION>Mount Sinai School of Medicine</ORGANISATION>
+<ADDRESS_1>One Gustave L. Levy Place</ADDRESS_1>
+<ADDRESS_2>Box 1030</ADDRESS_2>
+<CITY>New York</CITY>
+<ZIP>10029-6574</ZIP>
+<REGION>NY</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>(212) 241-4464</PHONE_1>
+<PHONE_2/>
+<FAX_1>(212)241-4000</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12697" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Gro</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Jamtvedt</LAST_NAME>
+<SUFFIX/>
+<POSITION>Researcher</POSITION>
+<EMAIL_1>gro.jamtvedt@kunnskapssenteret.no</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Norwegian Knowledge Centre for the Health Services</ORGANISATION>
+<ADDRESS_1>Po Box 7004, St. Olavs plass</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Oslo</CITY>
+<ZIP>N-0130</ZIP>
+<REGION/>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<PHONE_1>+41 23 25 50 00</PHONE_1>
+<PHONE_2>+47 975 18 144</PHONE_2>
+<FAX_1>+47 23 25 50 10</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12689" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Kåre Birger</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Hagen</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Researcher</POSITION>
+<EMAIL_1>k.b.hagen@medisin.uio.no</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>National Resource Centre for Rehabilitation in Rheumatology</DEPARTMENT>
+<ORGANISATION>Diakonhjemmet Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2>PO Box 23 Vindern</ADDRESS_2>
+<CITY>0319 Oslo</CITY>
+<ZIP/>
+<REGION/>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<PHONE_1>+(47) 22454855</PHONE_1>
+<PHONE_2>+47 22 45 48 50</PHONE_2>
+<FAX_1>+ 47 24 16 32 75</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2009-07-22 13:34:39 -0400" MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="20" MONTH="7" YEAR="2009"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="27" MONTH="1" YEAR="2009"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="12" MONTH="4" YEAR="2012"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="2007"/>
+<REVIEW_PUBLISHED ISSUE="" YEAR=""/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2007"/>
+</DATES>
+<WHATS_NEW MODIFIED="2009-07-22 13:35:04 -0400" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2008-04-23 11:34:31 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="23" MONTH="4" YEAR="2008"/>
+<DESCRIPTION>
+<P>CMSD ID: C111-R</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2009-07-22 13:35:13 -0400" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-07-22 13:35:04 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="23" MONTH="4" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Bergen University College</NAME>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>National resource center for rehabilitation in rheumatology, Diakonhjemmet hospital</NAME>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>The Norwegian Association of Occupational Therapists</NAME>
+<COUNTRY CODE="NO">Norway</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2009-08-11 10:30:27 -0400" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2009-08-11 10:30:27 -0400" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-04-23 11:49:36 -0400" MODIFIED_BY="[Empty name]">Assistive technology for rheumatoid arthritis</TITLE>
+<SUMMARY_BODY MODIFIED="2009-08-11 10:30:27 -0400" MODIFIED_BY="[Empty name]">
+<P>This summary of a Cochrane review presents what we know from research about the effect of assistive technology in people with rheumatoid arthritis. Unfortunately, only one trial met the inclusion criteria for the review. The study deals with assistive technology used to administer eye drops. This is not a commonly used device.</P>
+<P>Assistive technology devices are intended to make life with rheumatoid arthritis easier. It is defined as any equipment used to improve or maintain function in persons with disabilities. Assistive technology is one of the most frequent interventions used for persons with rheumatoid arthritis, besides medications and surgery.</P>
+<P>There is very limited evidence for the effect of assistive technology for adults with rheumatoid arthritis. There is an urgent need for high-quality research investigating commonly used devices.</P>
+<P>
+<B>The review shows that in people with rheumatoid arthritis:</B>
+</P>
+<P>-<B> </B>An eye drop device may improve the ability to squeeze out drops, aim drops, and control the number of drops.<BR/>- An eye drop device may prevent side effects caused by the eye drop bottle touching the eye itself.</P>
+<P>
+<B>What is rheumatoid arthritis and what is an eye drop device?</B>
+</P>
+<P>When you have rheumatoid arthritis, your immune system, which normally fights infection, attacks the lining of your joints, making them inflamed.  Inflammation makes your joints swollen, stiff and painful and may lead to loss of function and disability. There is no cure for rheumatoid arthritis at present, so the treatments focus on reducing inflammation, relieving pain and stiffness, and improving function in daily life.</P>
+<P>An eye drop device is an assistive technology that makes it easier to give yourself eye drops by making the bottle easier to hold, easier to squeeze and to get the drops right into your eye.</P>
+<P>
+<B>Best estimate of what happens to people with rheumatoid arthritis who use an eye drop device:</B>
+</P>
+<P>
+<B>Ability to squeeze out drops</B>
+</P>
+<P>- 27 people out of 100 were able to squeeze out drops more easily from an eye drop device than when using a regular eye drop bottle. (27% absolute improvement)</P>
+<P>- 35 people out of 100 had difficulty squeezing out drops from an eye drop device.</P>
+<P>- 62 people out of 100 had difficulty squeezing out drops from a regular eye drop bottle.<BR/>
+<B>
+<BR/>Ability to aim drops<BR/>
+</B>- 30 people out of 100 were able to aim drops more easily from an eye drop device than when using a regular eye drop bottle.  (30% absolute improvement)</P>
+<P>- 46 people out of 100 had difficulty aiming drops from an eye drop device.</P>
+<P>- 76 people out of 100 had difficulty aiming drops from a regular eye drop bottle.<BR/>
+<BR/>
+<B>Ability to control the number of drops<BR/>
+</B>- 33 people out of 100 were able to control the number of drops more easily from an eye drop device than when using a regular eye drop bottle.  (33% absolute improvement)</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2009-08-08 00:37:53 -0400" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2009-08-08 00:25:52 -0400" MODIFIED_BY="[Empty name]">
+<P>Provision of assistive technology is a widely used intervention for people with rheumatoid arthritis. Assistive technology is any item used to increase or maintain functional ability in individuals with disabilities. It includes a wide range of products, from low-technology devices to technologically complex equipment. Yet, there are few systematic reviews on the effectiveness of assistive technology in this population.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2009-08-08 00:26:34 -0400" MODIFIED_BY="[Empty name]">
+<P>To assess the benefits of assistive technology for adults with rheumatoid arthritis in terms of improving functional ability and reducing pain, and to assess potential adverse effects in terms of psychological discomfort, personal injury or material damage related to device use.
+<BR/>
+
+</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2009-08-08 00:29:17 -0400" MODIFIED_BY="[Empty name]">
+<P>We searched the following databases: CENTRAL (<I>The Cochrane Library</I>), MEDLINE, EMBASE, CINAHL, AMED, ISI Web of Science, PEDro, and OTseeker (to October 2008). In addition, we scanned reference lists, sought grey literature, and had personally communicated with authors. We updated the literature searches in January 2009.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2009-01-23 06:03:11 -0500" MODIFIED_BY="[Empty name]">
+<P>Included study designs were randomised controlled trials, clinical controlled trials, controlled before and after studies, and interrupted time series where the effectiveness of assistive technology was evaluated. In addition, comparative observational studies were included if addressing adverse effects.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2009-01-23 06:21:41 -0500" MODIFIED_BY="[Empty name]">
+<P>Two authors independently selected trials, extracted data, and assessed study quality. Investigators were contacted to obtain missing information. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2009-08-08 00:37:10 -0400" MODIFIED_BY="[Empty name]">
+<P>Only one randomised controlled trial with 29 participants was included. The study compared the use of an eye drop device to a standard bottle in people with rheumatoid arthritis suffering from persistent dry eyes. The study was considered to have low quality of evidence. The proportions with observed difficulties when using the device to squeeze out drops and getting the drops in the eyes were 10% and 14%, respectively. This compared to 52% and 52% when using the standard bottle (P = 0.001; P = 0.003, respectively). The proportions of participants reporting difficulties with squeezing the bottle, controlling the number of drops, and aiming the drops when using the device were 40%, 44%, and 46% respectively, while using the standard bottle the proportions with difficulties were 72%, 84%, and 76% (P = 0.001; P = 0.003; P = 0.031, respectively).</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2009-08-08 00:37:53 -0400" MODIFIED_BY="[Empty name]">
+<P>Only one trial met the inclusion criteria for this review. Thus, there is very limited evidence for the effect of assistive technology for adults with rheumatoid arthritis and, therefore, an urgent need for high-quality research addressing the effectiveness of commonly used interventions.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2009-08-08 06:44:44 -0400" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2009-08-08 00:58:45 -0400" MODIFIED_BY="[Empty name]">
+<P>Rheumatoid arthritis is the most common inflammatory rheumatic disease, affecting 0.5% to 1% of the population (<LINK REF="REF-Uhlig-2005" TYPE="REFERENCE">Uhlig 2005</LINK>). It occurs twice as often in women as in men and has an onset age mainly between 45 and 65 years. The disease is chronic and systemic, with an unknown aetiology. It is characterised by the presence of synovial inflammation, limited range of motion, and destruction of bone and cartilage. It can affect almost all joints causing pain, stiffness, fatigue and impaired physical function, including limited ability to perform daily activities and to participate in society (<LINK REF="REF-Backman-2004" TYPE="REFERENCE">Backman 2004</LINK>; <LINK REF="REF-Fex-1998" TYPE="REFERENCE">Fex 1998</LINK>; <LINK REF="REF-Nordenski_x00f6_ld-1997" TYPE="REFERENCE">Nordenskiöld 1997</LINK>; <LINK REF="REF-Wikstr_x00f6_m-2006" TYPE="REFERENCE">Wikström 2006</LINK>).</P>
+<P>Provision of assistive technology is one of the most frequent non-pharmacological, non-surgical interventions for persons with rheumatoid arthritis; and one of the most frequent self-help strategies reported by this group of patients (<LINK REF="REF-Hammond-1998" TYPE="REFERENCE">Hammond 1998</LINK>; <LINK REF="REF-Veitiene-2005" TYPE="REFERENCE">Veitiene 2005</LINK>). Devices are prescribed and used as a means to reduce pain and compensate for impairment and environmental demands. The purpose of assistive technology is to enable individuals to stay independent and maintain engagement in meaningful activities (<LINK REF="REF-Hammond-2004" TYPE="REFERENCE">Hammond 2004</LINK>; <LINK REF="REF-van-Kuyk_x002d_Minis-1998" TYPE="REFERENCE">van Kuyk-Minis 1998</LINK>; <LINK REF="REF-Wolfe-2000" TYPE="REFERENCE">Wolfe 2000</LINK>). Probably few other interventions sufficiently substitute for well-designed and efficient assistive technology.</P>
+<P>According to the classification of assistive products for persons with disability (<A HREF="https://ekstern.hib.no/exchange/Hanne.Tuntland/Kladd/FW:%20Response%20from%20the%20editors.EML/1_multipart/ISO%209999:2007">ISO 9999:2007</A>), assistive technology includes 11 categories of products. The categories of devices most frequently used by people with rheumatoid arthritis are aids for personal care and protection (such as aids for dressing and personal hygiene), aids for personal mobility (such as wheelchairs, walking chair and crutches), aids for housekeeping (for instance knives and peelers with ergonomic handles for use in food preparation), furnishings and adaptations to homes and other premises (such as shower chairs and raised toilet seats), and aids for handling products and goods (such as reach extenders and aids for opening containers) (<LINK REF="STD-Nordenskiold-1994" TYPE="STUDY">Nordenskiold 1994</LINK>; <LINK REF="STD-Thyberg-2004" TYPE="STUDY">Thyberg 2004</LINK>). Some of these devices are designed for the general population, such as electric toothbrushes and can openers, while others are developed to meet the needs of people with functional limitations or disabilities, such as wheelchairs or chairs with electrical seat lift mechanisms (<LINK REF="STD-Galumbeck-2004" TYPE="STUDY">Galumbeck 2004</LINK>).</P>
+<P>Different terms to describe assistive technology are used interchangeably, such as aid, technical aid, assistive device, self-help device, adaptive device, assistive technology device, assistive technology, and adaptive equipment (<LINK REF="REF-L_x00f6_fquist-2005" TYPE="REFERENCE">Löfquist 2005</LINK>). In this review, we mainly use the term assistive technology, defined as "any item, piece or equipment, or product system whether acquired commercially off the shelf, modified or customised, that is used to increase, maintain, or improve functional capabilities of individuals with disabilities" (<LINK REF="REF-Ass.-Tech.-Act-2004" TYPE="REFERENCE">Ass. Tech. Act 2004</LINK>). However, in order to improve readability we also use the terms aid, device, and assistive device.</P>
+<P>The use of assistive technology has been found to be associated with more severe disease, a longer disease duration, and loss of grip strength and functional ability (<LINK REF="REF-Shipham-2003" TYPE="REFERENCE">Shipham 2003</LINK>; <LINK REF="STD-Thyberg-2004" TYPE="STUDY">Thyberg 2004</LINK>; <LINK REF="REF-van-der-Heide-1993" TYPE="REFERENCE">van der Heide 1993</LINK>). In addition, the use of assistive technology is influenced by differences in healthcare systems and the levels of access people with rheumatoid arthritis have to assistive technology (<LINK REF="REF-Veehof-2006" TYPE="REFERENCE">Veehof 2006</LINK>). Studies indicate that two thirds of all persons with arthritis use assistive devices on a daily basis (<LINK REF="REF-Hammond-1998" TYPE="REFERENCE">Hammond 1998</LINK>; <LINK REF="REF-Rogers-1992" TYPE="REFERENCE">Rogers 1992</LINK>). In a study of people with early rheumatoid arthritis, men used an average of three devices, while women used an average of five; eating and drinking were the most frequently reported activities where the use of devices had a beneficial effect (<LINK REF="STD-Thyberg-2004" TYPE="STUDY">Thyberg 2004</LINK>). In another study, results showed that people with severe rheumatoid arthritis use an average of 10 devices (<LINK REF="REF-Mann-1995" TYPE="REFERENCE">Mann 1995</LINK>). In a Swedish study describing occupational therapy during the first 10 years of rheumatoid arthritis, provision of assistive technology was the most frequent intervention (<LINK REF="REF-Malcus_x002d_Johnson-2005" TYPE="REFERENCE">Malcus-Johnson 2005</LINK>). It was also one of the interventions most appreciated by the participants. However, the overall usage of assistive technology on a regular basis varies considerably. Three months after hip replacement, 41% of all devices were still in use (<LINK REF="REF-Haworth-1983" TYPE="REFERENCE">Haworth 1983</LINK>) and up to 91% of the provided devices were still being used approximately one year after completing a joint protection education program (<LINK REF="STD-Nordenskiold-1994" TYPE="STUDY">Nordenskiold 1994</LINK>). Reasons people give for abandoning assistive technology are that they have not been involved in the process of provision, that they have not been given sufficient instruction, that their functional ability changes, that the devices do not have the intended effect, and a lack of follow up during and after provision (<LINK REF="REF-Dijcks-2006" TYPE="REFERENCE">Dijcks 2006</LINK>; <LINK REF="REF-Philips-1993" TYPE="REFERENCE">Philips 1993</LINK>; <LINK REF="REF-Scherer-2005" TYPE="REFERENCE">Scherer 2005</LINK>; <LINK REF="REF-Van-der-2003" TYPE="REFERENCE">Van der 2003</LINK>; <LINK REF="REF-Wieland-2006" TYPE="REFERENCE">Wieland 2006</LINK>; <LINK REF="REF-Wressle-2004" TYPE="REFERENCE">Wressle 2004</LINK>).</P>
+<P>In general, there is limited research evaluating the effectiveness of assistive technology (<LINK REF="REF-McMillen-2002" TYPE="REFERENCE">McMillen 2002</LINK>). One of the reasons for this is probably the complex nature of assistive technology research. So far, two reviews concerning assistive technology in people with arthritis have been published. One is a literature review on the use of assistive technology in patients with rheumatoid arthritis and osteoarthritis (<LINK REF="REF-Rogers-1992" TYPE="REFERENCE">Rogers 1992</LINK>). However, we think that a review only including participants with rheumatoid arthritis would foster better understanding of the benefits and adverse effects of assistive technology. The other is a systematic review of occupational therapy for rheumatoid arthritis (<LINK REF="REF-Steultjens-2004" TYPE="REFERENCE">Steultjens 2004</LINK>), in which assistive devices were one of six interventions evaluated. Provision of assistive devices may be executed by a variety of health professionals and purchased by the people with rheumatoid arthritis themselves. Thus, it should be classified and studied as a specific intervention rather than a professional strategy (<LINK REF="REF-Vliet-Vlieland-2002" TYPE="REFERENCE">Vliet Vlieland 2002</LINK>). Hence, the rational for this review is first that it only considers the rheumatoid arthritis population and second that it considers the intervention of interest regardless of profession.</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2009-08-08 00:59:47 -0400" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>To assess the benefits of assistive technology for adults with rheumatoid arthritis in terms of improving functional ability and reducing pain.</LI>
+<LI>To assess potential adverse effects in terms of psychological discomfort, personal injury, or material damage related to device use.</LI>
+</UL>
+</OBJECTIVES>
+<METHODS MODIFIED="2009-08-08 01:17:51 -0400" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2009-08-08 01:10:35 -0400" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2009-08-08 01:00:23 -0400" MODIFIED_BY="[Empty name]">
+<P>Studies were included if they were:<BR/>
+</P>
+<UL>
+<LI>randomised controlled trials (RCTs) or cluster-randomised trials;</LI>
+<LI>controlled clinical trials (CCTs) using inadequate generation of sequence (that is case record numbers, alternation, date of admission, date of birth etc.) when allocating participants to different groups;</LI>
+<LI>controlled before and after studies (CBA) and interrupted time series (ITS);</LI>
+<LI>comparative observational studies such as cohort studies and case-control studies. These designs were only included if adverse effects were assessed.</LI>
+</UL>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2009-08-08 01:01:50 -0400" MODIFIED_BY="[Empty name]">
+<P>We included trials that recruited participants aged 18 years or older who had been diagnosed with rheumatoid arthritis (RA) by a rheumatologist. If information about diagnosis by a rheumatologist was lacking, studies were included if the authors of the primary studies could provide such information. We accepted studies combining participants with a variety of diseases if 50% or more of the participants were diagnosed with rheumatoid arthritis, and if data could be extracted for the RA group separately. In that case, data from other diagnostic groups would not be analysed.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2009-08-08 01:08:03 -0400" MODIFIED_BY="[Empty name]">
+<P>The intervention was assistive technology provided by a health professional or obtained or purchased by the study participants.</P>
+<P>In accordance with 'Assistive products for persons with disability &#8722; classification and terminology' (<LINK REF="REF-ISO-9999_x003a_2007" TYPE="REFERENCE">ISO 9999:2007</LINK>) the following classes of assistive devices were included in this review.</P>
+<UL>
+<LI>Aids for medical treatment (ISO class 04). This means aids for improving, controlling and maintaining a person's medical condition, for instance an anti-decubitus cushion.</LI>
+<LI>Aids for training skills (ISO class 05). This means aids for improving a person's physical, mental or social skills, such as aids for communication training.</LI>
+<LI>Aids for personal care and protection (ISO class 09), such as aids for dressing; aids for toileting; and aids for washing, bathing and showering.</LI>
+<LI>Aids for personal mobility (ISO class 12), such as wheelchair, walking aids and bikes.</LI>
+<LI>Aids for housekeeping (ISO class 15), such as aids for food preparation, aids for eating and drinking, and aids for house cleaning.</LI>
+<LI>Furnishings and adaptations to homes and other premises (ISO class 18), such as special bed, chair or stool, aids for height adjustment of furniture, support aids, lift or ramp, and ergonomic equipment.</LI>
+<LI>Aids for communication, information and signalling (ISO class 22), such as computers, telephones, and aids for writing and typing.</LI>
+<LI>Aids for handling products and goods (ISO class 24), such as aids for opening containers and grip function, reach extenders, carrying aids, and environmental control systems.</LI>
+<LI>Aids for equipment for environmental improvement, tools and machines (ISO class 27). These are aids for improving personal environment, including manual and electrical tools.</LI>
+<LI>Aids for recreation (ISO class 30), such as toys, games, and sports aids.</LI>
+</UL>
+<P>We were particularly interested in devices from ISO class 09, 12, 15, 18, and 24, since these are the most relevant devices for people with rheumatoid arthritis (<LINK REF="STD-Nordenskiold-1994" TYPE="STUDY">Nordenskiold 1994</LINK>; <LINK REF="STD-Thyberg-2004" TYPE="STUDY">Thyberg 2004</LINK>).</P>
+<P>We excluded orthoses and prostheses (ISO class 06) because these kinds of devices have been addressed in another review (<LINK REF="REF-Egan-2001" TYPE="REFERENCE">Egan 2001</LINK>). We also excluded aids for seeing and hearing (from ISO class 22). Old studies with types of assistive devices that are no longer in use would also be excluded, if found.</P>
+<P>The control intervention could be other interventions, such as patient education programs, or no intervention.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2009-08-08 01:10:35 -0400" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Primary outcomes</HEADING>
+<UL>
+<LI>Functional ability in activities of daily living (ADL)</LI>
+<LI>Pain</LI>
+<LI>Adverse effects (such as psychological discomfort or personal injuries, material damage related to device use)</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Secondary outcomes</HEADING>
+<UL>
+<LI>Fatigue</LI>
+<LI>Self-efficacy</LI>
+<LI>Psychological well-being</LI>
+<LI>Health-related quality of life (HRQoL)</LI>
+<LI>Change in time spent in completing tasks</LI>
+<LI>Care giver burden or stress</LI>
+<LI>Other outcomes that are important for participants or others with RA, such as device usability and satisfaction with health and functioning, were also considered</LI>
+</UL>
+</SUBSECTION>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2009-08-08 01:13:16 -0400" MODIFIED_BY="[Empty name]">
+<P>We performed an initial literature search in August 2007. From this search only one study met the inclusion criteria. We therefore decided to broaden the search strategy in order to detect more studies. Within the selected classes of assistive technology, the different types of devices are numerous. In addition, there are several synonyms for every type of device. We used search terms relevant to each included class of assistive device. In addition, we chose search terms for different types of devices. Device search terms were based on identified studies where specific devices for rheumatoid arthritis were included and described. Selection of search terms was also based on the authors' clinical experiences with what kinds of devices people with rheumatoid arthritis use. Finally, we added all the synonyms we could find for the term assistive technology to the search strategy.</P>
+<P>We identified relevant studies by electronically searching the following databases (October 2008).<BR/>
+</P>
+<UL>
+<LI>
+<I>The Cochrane Library</I> (CENTRAL, DARE, NHS EED) Issue 4, 2008 (<LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK>).</LI>
+<LI>Ovid MEDLINE (<LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>).</LI>
+<LI>Ovid EMBASE (<LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK>).</LI>
+<LI>Ovid CINAHL (<LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK>).</LI>
+<LI>Ovid AMED (<LINK REF="APP-05" TYPE="APPENDIX">Appendix 5</LINK>).</LI>
+<LI>ISI Web of Science (<LINK REF="APP-06" TYPE="APPENDIX">Appendix 6</LINK>).</LI>
+<LI>PEDro (<LINK REF="APP-07" TYPE="APPENDIX">Appendix 7</LINK>).</LI>
+<LI>OT seeker (<LINK REF="APP-08" TYPE="APPENDIX">Appendix 8</LINK>).</LI>
+</UL>
+<P>A search strategy was developed for Ovid MEDLINE and adopted to the other databases, specified above.</P>
+<P>We considered only full-length articles and full written reports for inclusion in the review. There were no language restrictions. We tried to identify unpublished and on-going trials by correspondence with authors and field experts, and by searching The International Standard Randomised Controlled Trial Number Register. Grey literature was sought by contacting experts and by searching the following databases: New York Academic of Medicine Grey Literature Collection (<LINK REF="APP-09" TYPE="APPENDIX">Appendix 9</LINK>), Open SIGLE (<LINK REF="APP-10" TYPE="APPENDIX">Appendix 10</LINK>), Google Scholar (<LINK REF="APP-11" TYPE="APPENDIX">Appendix 11</LINK>), British Library Catalogue (<LINK REF="APP-12" TYPE="APPENDIX">Appendix 12</LINK>), ISI Web of Knowledge Cited Reference Search (<LINK REF="APP-11" TYPE="APPENDIX">Appendix 11</LINK>), and Dissertation Abstracts (<LINK REF="APP-13" TYPE="APPENDIX">Appendix 13</LINK>). In addition, we examined reference lists of relevant studies and reviews.</P>
+<P>We updated the literature searches in January 2009.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2009-08-08 01:17:51 -0400" MODIFIED_BY="[Empty name]">
+<P>Selection of studies: two review authors independently screened titles and abstracts against the inclusion criteria. If in doubt, we obtained the full text of the article. We resolved differences in opinion regarding trial eligibility by discussion with a third review author.</P>
+<P>Assessment of risk of bias: two review authors critically assessed study quality independently. Uncertainty or disagreement was resolved by discussion with a third review author. We investigated the following criteria for judging risk of bias: adequate sequence generation; allocation concealment; blinding of participants, personnel, and outcome assessors; incomplete outcome data; selective outcome reporting; and other sources of bias. We rated the six criteria as: ´Yes´, ´No´, or ´Unclear´.</P>
+<P>Data extraction and management: two review authors extracted data independently by using a specially designed data collection form. Disagreement was resolved by discussion with a third review author. If data were missing or unclear, we contacted the first author of the paper for clarification.</P>
+<P>Data synthesis: as only one study met the inclusion criteria, a quantitative data synthesis was not relevant.</P>
+<P>Grading of evidence: evidence was graded using the GRADE approach as recommended by the Cochrane Handbook for Systematic Reviews of Interventions (<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>). This approach specifies four levels of quality, ranging from high to moderate, low, and very low.</P>
+<P>Updating the review: the review authors intend to search for new trials on a regular basis. If new studies are found, we will update the review.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2009-08-08 01:33:08 -0400" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2009-08-08 01:27:06 -0400" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Results of the search</HEADING>
+<P>
+<B>
+<BR/>
+</B>The initial literature search identified 776 retrieved articles, of which 11 articles were considered for inclusion; only one of them was included (<LINK REF="STD-Averns-1999" TYPE="STUDY">Averns 1999</LINK>). The final literature search identified 7177 hits (6913 retrieved articles from conventional databases and 264 hits from grey literature databases). After screening the titles and abstracts, we were only able to identify 13 studies and still only able to include one study after reading the articles in full text (<LINK REF="STD-Averns-1999" TYPE="STUDY">Averns 1999</LINK>). However, two new studies were added to the group of excluded studies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Included studies</HEADING>
+<P>The aim of the included study (<LINK REF="STD-Averns-1999" TYPE="STUDY">Averns 1999</LINK>) was to assess the ability to instill artificial tears using an eye drop dispenser device (Opticare) compared to a standard bottle. The study deals with aids for medical treatment (ISO class 04). The sample consisted of 29 participants suffering from persistent dry eyes due to rheumatoid arthritis. The intervention was the use of an eye drop delivery device, which was a specially designed eye drop dispenser. The device assisted in squeezing the bottle and allowed the person to position the dropper directly over the eye without touching the eye itself. The device thereby addresses some of the problems people with arthritis have in instilling artificial tears, due to reduced upper limb functioning. The comparison was with the use of the same eye drop bottle but without the specially designed device. The trial was considered to be an RCT with one cross over. The participants were randomised into either using the device (intervention) in week one and the standard bottle (comparator) in week two, or vice versa.</P>
+<P>The outcomes were the ability to use the medication correctly and safely, in the study measured as observer rated and participant reported ability to squeeze out eye drops, aim drops and control the number of drops, when using an assistive device compared to using a standard bottle. This is considered as functional ability in ADL, one of the primary outcomes of interest in this review. Likewise, the participants reported adverse effects as the number of times when the eye itself was touched with the bottle. Adverse effects are also a primary outcome of interest in this review. Further, participants reported on device usability, which is a secondary outcome of interest in this review. Additional information about the trial is included in the 'Characteristics of included studies' table.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Excluded studies</HEADING>
+<P>We excluded 12 studies. Eleven were excluded due to study design (<LINK REF="STD-Galumbeck-2004" TYPE="STUDY">Galumbeck 2004</LINK>; <LINK REF="STD-Hass-1997" TYPE="STUDY">Hass 1997</LINK>; <LINK REF="STD-L_x00f6_fkvist-1988" TYPE="STUDY">Löfkvist 1988</LINK>; <LINK REF="STD-Munro-1998" TYPE="STUDY">Munro 1998</LINK>; <LINK REF="STD-Munro-2000" TYPE="STUDY">Munro 2000</LINK>; <LINK REF="STD-Nordenskiold-1994" TYPE="STUDY">Nordenskiold 1994</LINK>; <LINK REF="STD-Nordenskiold-1996" TYPE="STUDY">Nordenskiold 1996</LINK>; <LINK REF="STD-Nordenskiold-1998" TYPE="STUDY">Nordenskiold 1998</LINK>; <LINK REF="STD-Price-2003" TYPE="STUDY">Price 2003</LINK>; <LINK REF="STD-Thyberg-2004" TYPE="STUDY">Thyberg 2004</LINK>; <LINK REF="STD-Torrens-2000" TYPE="STUDY">Torrens 2000</LINK>) and one was excluded due to the participants' characteristics (<LINK REF="STD-Hoenig-2007" TYPE="STUDY">Hoenig 2007</LINK>). The details are given in the 'Characteristics of excluded studies' table.</P>
+</SUBSECTION>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2009-08-08 01:30:29 -0400" MODIFIED_BY="[Empty name]">
+<P>The concealment of allocation was considered unclear in the included study (<LINK REF="STD-Averns-1999" TYPE="STUDY">Averns 1999)</LINK> as there was no information in the article regarding method of randomisation or concealment of allocation. When asked to clarify this, the first author described the method of randomisation as using random numbers on a calculator. This is considered to be an adequate sequence generation method. No information was given about who assigned the participants to their groups and whether the allocation was concealed. Selection bias therefore cannot be excluded.</P>
+<P>The assessor was aware of the assigned treatment when collecting outcome measures. Neither the participants nor the personnel were blinded for the intervention. Possible interventions other than the intervention of interest were controlled for, as participants in both groups were the same and the study period was rather short. Thirty participants were recruited, however one participant failed to attend for the treatment. Among the 29 participants followed, there were four losses to follow up for some of the outcome assessments, which is less than 20% of the sample. We therefore considered the criterion of incomplete outcome data to be met. The study had selective outcome reporting as only statistically significant results were reported in the tables. Furthermore, the standard of reporting was not optimal. When it comes to 'other potential sources of bias', all participants were analysed according to the group they were randomised into. We therefore considered the study to be apparently free of other sources of bias.</P>
+<P>Since the study design can be considered as an RCT which we assessed to have moderate limitations (no blinding, selective reporting, and unclear concealment of allocation), we graded the quality of evidence from this study as 'low'.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2009-08-08 01:33:08 -0400" MODIFIED_BY="[Empty name]">
+<P>Squeezing out drops: the proportion with observed difficulty when using the device to squeeze out drops was 3/29 (10%) compared to 15/29 (52%) when using the standard bottle (P = 0.001).</P>
+<P>Getting drops into eyes: the proportion with observed difficulty getting the drops into their eyes when using the device was 4/29 (14%) compared to 15/29 (52%) with the standard bottle (P = 0.003).</P>
+<P>Squeezing bottle: the proportion of participants reporting difficulty squeezing the dispenser device was 10/25 (40%) compared to 18/25 (72%) with the standard bottle (P = 0.001).</P>
+<P>Controlling the drops: the proportion of participants reporting difficulty controlling the number of drops when using the device was 11/25 (44%) compared to 21/25 (84%) when using the standard bottle (P = 0.003).</P>
+<P>Aiming drops: the proportion of participants reporting difficulty aiming the drops when using the device was 11/24 (46%) compared to 19/25 (76%) when using the standard bottle (P = 0.031).</P>
+<P>Device usability: 17 out of 29 participants felt the device was very useful, and nine that it was moderately useful. The median number of times the drops were used was four times a day.</P>
+<P>Adverse effects: none of the 29 participants touched their eye with the bottle tip when using the dispenser device, whereas 22 (76%) of them did when using the standard bottle.</P>
+<P>Thus, there is low quality evidence indicating that the Opticare device improves the ability to squeeze out drops, aim drops, control the number of drops, and prevents adverse effects in adults with rheumatoid arthritis suffering from persistent dry eyes.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2009-08-08 06:40:22 -0400" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Summary of main results</HEADING>
+<P>Only one trial with a total of 29 participants that compared assistive technology with a control group was included in this review. The results show that a dispenser device may improve application of eye drops and prevent adverse effects in terms of touching the eye with the bottle tip. However, we assessed the trial as an RCT with moderate limitations and consequently graded the quality of evidence as low.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Limited amount of research</HEADING>
+<P>Although we conducted an extensive literature search, we were only able to identify 13 studies, of which we excluded 12. In general, there is a lack of studies that evaluate the effect of assistive technology (<LINK REF="REF-McMillen-2002" TYPE="REFERENCE">McMillen 2002</LINK>). The paucity of primary research has implications for secondary research, as there are few studies to include in systematic reviews (<LINK REF="REF-Ilott-2006" TYPE="REFERENCE">Ilott 2006</LINK>). As assistive technology is a widespread multidisciplinary intervention, we had hoped to find more studies. Moreover, as so many devices are available, the potential research material is enormous. Hence, the research gap on the effectiveness of assistive technology is surprising given the costs and dissemination of these devices. One reason for this gap is probably the self-evident benefit of many devices. Especially when it comes to low cost and high usage devices, research is not demanded (<LINK REF="REF-Fuhrer-2001" TYPE="REFERENCE">Fuhrer 2001</LINK>). However, when it comes to technologically complex and highly expensive devices, such as electrical wheelchairs and computerised environmental control systems, the need for effectiveness research is more evident.</P>
+<P>The complex nature of assistive technology makes trials of effectiveness challenging (<LINK REF="REF-de-Jonge-2007" TYPE="REFERENCE">de Jonge 2007</LINK>). First, the number of devices available is almost endless and the physical designs vary a lot within each type of device. Second, assistive technology is often provided as one element in a complex intervention and it is, therefore, difficult to ascertain to which degree assistive technology is responsible for the effect. Third, the effectiveness of such technology is determined by the interaction between the person using the device(s), the assistive technology, and the context and environment in which the device is used (<LINK REF="REF-Lenker-2005" TYPE="REFERENCE">Lenker 2005</LINK>). Fourth, the potential outcomes are many, ranging from improving different aspects of functional ability, preventing adverse effects, and diminishing care giver burden to time and energy use in completing tasks. Fifth, research conclusions on effects can seldom be generalised to other devices than those under investigation. Sixth, giving the control group no device, an inferior device, or putting them on a waiting list has ethical implications. All these dimensions constitute the complex nature of assistive technology research.</P>
+<P>In this review, the inclusion criteria regarding study design were consistent with those recommended by the Cochrane Musculoskeletal Group (<LINK REF="REF-Maxwell-2006" TYPE="REFERENCE">Maxwell 2006</LINK>), which recommends study designs such as randomised controlled trials (RCT), clinical controlled trials (CCT), controlled before and after studies (CBA), interrupted time series (ITS), and observational studies if they address adverse effects. The most frequent reason for excluding relevant studies was the failure to meet this trial design criterion, as the excluded studies had designs such as cross-sectional (four studies), single-subject (four studies), uncontrolled (two studies), and a comparative observational study not addressing adverse effects (one study). To conclude, in addition to the general lack of research the few existing studies are of relatively low quality, a fact that has been addressed in previous literature (<LINK REF="REF-Ivanoff-2006" TYPE="REFERENCE">Ivanoff 2006</LINK>; <LINK REF="REF-Lovarini-2006" TYPE="REFERENCE">Lovarini 2006</LINK>; <LINK REF="REF-Steultjens-2004" TYPE="REFERENCE">Steultjens 2004</LINK>).</P>
+<P>While studies regarding the effectiveness of assistive technology in general are limited, the research concerning people with rheumatoid arthritis in particular is even scarcer. However, people with rheumatoid arthritis are probably some of the most frequent users of assistive technology (<LINK REF="REF-Veehof-2006" TYPE="REFERENCE">Veehof 2006</LINK>). While there are numerous studies documenting usage of assistive devices among people with rheumatic conditions, there are remarkably few studies addressing the effectiveness of assistive devices.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Methodological issues</HEADING>
+<P>One RCT was excluded from this review due to a mixed patient population (<LINK REF="STD-Hoenig-2007" TYPE="STUDY">Hoenig 2007</LINK>) and a lack of separate analysis for the participants with rheumatoid arthritis. Similarly, we detected some studies concerning usage of assistive technology in mixed populations (<LINK REF="REF-Rogers-2002" TYPE="REFERENCE">Rogers 2002</LINK>; <LINK REF="REF-Veehof-2006" TYPE="REFERENCE">Veehof 2006</LINK>). Including participants with different rheumatic diseases may be effective in increasing the sample size and thereby the statistical power in a study. A consequence is, however, that the sample will be more heterogeneous and less likely to be included in a systematic review.</P>
+<P>The large diversity of assistive devices and the problems with generalisation from one type of device to another might contribute to the impression that research in this area is complicated, as described earlier. However, pain and functioning are recognised as the most important study outcomes in rheumatoid arthritis (<LINK REF="REF-Coenen-2006" TYPE="REFERENCE">Coenen 2006</LINK>; <LINK REF="REF-Stucki-2004" TYPE="REFERENCE">Stucki 2004</LINK>). Thus, the number of relevant outcomes is much smaller than the number of devices (<LINK REF="REF-Jeffrey-2005" TYPE="REFERENCE">Jeffrey 2005</LINK>). In future studies, care should be taken to ensure a close correspondence between the purpose of using a device and the outcome measure(s) used to test the effect of the device. To ensure such consistency, the International Classification of Functioning, Disability and Health (ICF) (<LINK REF="REF-WHO-2001" TYPE="REFERENCE">WHO 2001</LINK>) may be used to classify the aspect of functioning the device is meant to improve. Thereafter, measures capturing the same aspect(s) of functioning should be used to measure the effect. Already many of the measures used within rheumatology have been analysed and linked to the ICF (<LINK REF="REF-Cieza-2005" TYPE="REFERENCE">Cieza 2005</LINK>; <LINK REF="REF-Stamm-2004" TYPE="REFERENCE">Stamm 2004</LINK>), and this work continues.</P>
+<P>In some outcome measures, the use of devices has implications for the questions or scoring. One example is the Evaluation of Daily Activities Questionnaire (EDAQ) (<LINK REF="STD-Nordenskiold-1998" TYPE="STUDY">Nordenskiold 1998</LINK>) where the participants rate performance of each of the activities twice, once according to how they perform the activities without assistive devices, and thereafter according to how they perform the activities with assistive devices or altered working methods, or both. Another example is the Health Assessment Questionnaire (<LINK REF="REF-Fries-1980" TYPE="REFERENCE">Fries 1980</LINK>) where the participants' reporting of using devices when performing activities have implications for the calculation of the sum score, as the use of a device most often will result in a lower (or poorer) score. While the scoring procedure in the first example introduces some methodological problems concerning the reliability of the assessment, the second example illustrates that the use of assistive technology automatically devalues the performance of that activity, and consequently the final sum score. In future studies, therefore, one should use instruments where performance of activities is rated according to current performance and where the use of any device is understood as an integrated part of that performance.</P>
+<P>To date, the instruments used in studies on assistive devices have been performance tests or questionnaires. The strength of these measures is that they allow for comparisons between groups of participants. However, the ability to perform a specific, valued activity may be more important to a person than his or her ability to perform a specified task item in a test situation or on a questionnaire (<LINK REF="REF-Kloppenburg-2007" TYPE="REFERENCE">Kloppenburg 2007</LINK>).The patient specific measures are developed to capture the activities and issues that are important to each participant (<LINK REF="REF-Jolles-2005" TYPE="REFERENCE">Jolles 2005</LINK>). Consequently, a patient specific instrument should be included as a supplement to other health measures in studies of the effects of assistive technology. Moreover, it is vital that all of the instruments used have been tested for psychometric properties. New health status measures are rapidly being developed and existing ones are being revised. Any recommendations for specific instruments are, therefore, likely to be rapidly outdated. Stucki and colleagues (<LINK REF="REF-Stucki-2007" TYPE="REFERENCE">Stucki 2007</LINK>) suggest instead that authors first define what should be measured and then recommend how to measure it, and which instrument to use.</P>
+<P>This review documents the limited number of studies on the effectiveness of assistive technology in rheumatoid arthritis. No properly conducted RCTs were identified. A reasonable question to ask is whether RCTs are unethical or impractical to conduct within this field. An RCT can be unethical under certain conditions. An example of this is in a population of people with a complete spinal cord injury who use a wheelchair. In that case, there is no comparable control intervention to the wheelchair. Giving the control group another assistive device (for instance a walking device) or no device would be unethical. Furthermore, in this example the effect of the assistive device in improving functioning by increasing mobility is so obvious that it is unnecessary to test it. Some interventions have such a dramatic effect that biases can be excluded without randomised trials (<LINK REF="REF-Glasziou-2007" TYPE="REFERENCE">Glasziou 2007</LINK>). Therefore, the doubt regarding the effectiveness of a particular intervention should be compelling for an RCT to be conducted (<LINK REF="REF-Clegg-1997" TYPE="REFERENCE">Clegg 1997</LINK>). The rational for conducting an RCT under the present circumstances, in this population, might be that rheumatoid arthritis is a chronic disease which for most people is progressive. The progression is however usually slow. The need of an assistive device is seldom acute and, except for the use of devices following surgery, most people will be able to manage without the device for a short period. Rheumatoid arthritis is also a fluctuating condition. For this reason, RCTs are the best design to distinguish the effects of the device(s) from the changes in function caused by improvements or deterioration of the disease itself.</P>
+<P>When designing a study, one should consider carefully which device(s) to investigate. When it comes to large assistive devices we recommend testing the effect of one device at a time. An example of such a study is an RCT where the effect of motorised scooters was tested in a sample of ambulatory people with arthritis (<LINK REF="STD-Hoenig-2007" TYPE="STUDY">Hoenig 2007</LINK>). When it comes to simple, low-cost devices, it seems a waste of time and resources to organise a full scale randomised controlled trial to demonstrate the effect (<LINK REF="REF-Fuhrer-2001" TYPE="REFERENCE">Fuhrer 2001</LINK>). However, for testing minor assistive devices, the devices can be handled as a group if they are homogenous regarding potential outcomes. In this case emphasis should be put on devices that are common and widely used by persons with rheumatoid arthritis, such as aids for personal mobility, housekeeping, and personal care. In addition, very expensive and technologically complex devices could be explored on a cost-benefit basis. In summary, if the costs are moderate or high, and effects are uncertain or moderate, randomised controlled trials are worth the effort.</P>
+<P>Blinding of participants and healthcare providers prevents performance bias. Although these ideals of the RCT design are impossible to meet when undertaking research on rehabilitation interventions such as assistive technology, the outcome assessors should be blinded to the group allocation of the study participants (<LINK REF="REF-Levack-2006" TYPE="REFERENCE">Levack 2006</LINK>).</P>
+<P>N-of-1 RCT applies the principles of rigorous clinical trial methodology to overcome problems when determining the best treatment for an individual patient. In this design, each participant is randomised to receive the intervention or comparison at different times. Thus, the multiple cross overs will help the patient and provider to decide on which therapy is the best (<LINK REF="REF-Straus-2005" TYPE="REFERENCE">Straus 2005</LINK>). A set of criteria should be met before an n-of-1 RCT is attempted (<LINK REF="REF-Guyatt-1990" TYPE="REFERENCE">Guyatt 1990</LINK>). There should be doubt whether an intervention has effect. The condition in question should be chronic and relatively stable. Furthermore the intervention, if effective, should be long term and the participants should be eager to collaborate. In addition, the intervention should have a rapid onset and termination. The reason we address this issue is that the included study (<LINK REF="STD-Averns-1999" TYPE="STUDY">Averns 1999</LINK>) had a similar study design. However, we consider only one cross over to be far too few to be classified as an n-of-1 RCT. When it comes to assistive technology, the effect lasts only during the intervention, so there is no risk of carry over. An n-of-1 RCT might therefore be a well-suited design for testing the effects of assistive technology for persons with rheumatoid arthritis. Another advantage with this design is that the participants are their own control, due to the cross overs, and fewer participants are needed to ensure satisfactory statistical power. Therefore, the n-of-1 RCT can be a good alternative when an RCT is difficult to perform due to ethical or practical circumstances. However, the first choice of study design when conducting studies on effectiveness should be a conventional RCT.</P>
+</SUBSECTION>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2009-08-08 06:44:44 -0400" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2009-08-08 06:41:37 -0400" MODIFIED_BY="[Empty name]">
+<P>In general, there is insufficient evidence of the effect of assistive technology for adults with rheumatoid arthritis. A lack of high quality research prevents us from drawing further conclusions when it comes to implications for practice.</P>
+<P>There is low quality evidence indicating that the use of a device to squeeze out eye drops may improve function and prevent adverse effects. In addition, the Opticare device is not a commonly used assistive device. In fact, only a proportion of the rheumatoid arthritis population might use this device, namely those with Sjögrens syndrome.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2009-08-08 06:44:44 -0400" MODIFIED_BY="[Empty name]">
+<P>In future research the intervention can be, with a few exceptions, any class of assistive device used in work, leisure, school, or self-care activities. However, research should concentrate on devices of high usage with moderate or high costs, where the effect is uncertain or moderate. The comparison might be with an alternative intervention (for instance patient education), a dissimilar assistive device (for instance comparing different types of mobility devices), or no assistive devices (such as participants on a waiting list). Ethical considerations are important when selecting the comparative intervention.<BR/>
+</P>
+<P>There is a need for high quality research addressing the effectiveness of assistive technology for people with rheumatoid arthritis. We encourage more researchers to contribute to the generation of a better evidence base in this field. A well-performed RCT reduces the risk of bias significantly. An n-of-1 RCT might be a good substitute for a conventional RCT within this field. In future research reporting of an RCT should be conducted according to guidelines set out in the CONSORT statement (<LINK REF="REF-Altman-2001" TYPE="REFERENCE">Altman 2001</LINK>). To improve the methodological quality proper allocation of concealment should be performed. Likewise, procedures to blind the outcome assessor should be performed to prevent bias. Finally, the participant population should be homogeneous and care should be taken to ensure a close correspondence between the purpose of using a device and the outcome measure(s) used to test the effect of the device.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2009-08-08 06:45:26 -0400" MODIFIED_BY="[Empty name]">
+<P>We are grateful to Janet Harris, Associate Professor MSW, PhD, at Bergen University College in Bergen, Norway for help with the English language.<BR/>
+</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2008-12-12 04:45:50 -0500" MODIFIED_BY="[Empty name]">
+<P>There are no known potential conflicts of interest.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2009-08-08 01:44:43 -0400" MODIFIED_BY="[Empty name]">
+<P>H Tuntland coordinated the review. H Tuntland and I Kjeken wrote the review. L Nordheim performed the initial literature searches and L Falzon performed the final literature searches. H Tuntland and I Kjeken included eligible studies, conducted the quality assessment, and extracted data from the studies. KB Hagen, G Jamtvedt and L Nordheim contributed to the subsequent versions of the review. All authors approved the final version of the review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2009-08-08 06:46:45 -0400" MODIFIED_BY="[Empty name]">
+<P>The first literature searches performed in August 2007 detected only one included study. For this reason, the search strategy was extensively broadened and additional study designs such as controlled before and after studies and interrupted time series were included in the final literature searches.</P>
+<P>Available grey literature databases have changed from the time of writing the protocol to the time when the final literature searches were performed.</P>
+<P>Due to new methodological guidelines for Cochrane reviews, the Cochrane Musculoskeletal Group's grading of evidence system was replaced by the GRADE approach. Likewise, the 'Risk of bias' and 'Summary of findings' tables have been added to meet the new guidelines.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2009-08-08 00:19:04 -0400" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2009-08-08 00:05:31 -0400" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2009-08-07 23:56:15 -0400" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="MIX" ID="STD-Averns-1999" MODIFIED="2009-08-07 23:56:15 -0400" MODIFIED_BY="[Empty name]" NAME="Averns 1999" YEAR="1999">
+<REFERENCE MODIFIED="2009-08-07 23:56:15 -0400" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Averns H, Hall J, Webley M</AU>
+<TI>Role of Opticare eye drop delivery system in patients with rheumatoid arthritis</TI>
+<SO>The Journal of Rheumatology</SO>
+<YR>1999</YR>
+<VL>26</VL>
+<NO>12</NO>
+<PG>2615-8</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Included"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2009-08-08 00:05:31 -0400" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Galumbeck-2004" NAME="Galumbeck 2004" YEAR="2004">
+<REFERENCE NOTES="&lt;p&gt;Galumbeck MH&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Galumbeck MH, Buschbacher RM, Wilder RP, Winters KL, Hudson MA, Edlich RF</AU>
+<TI>The Sit &amp; Stand chair. A revolutionary advance in adaptive seating systems</TI>
+<SO>Journal of Long-Term Effects of Medical Implants</SO>
+<YR>2004</YR>
+<VL>14</VL>
+<NO>6</NO>
+<PG>535-43</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hass-1997" NAME="Hass 1997" YEAR="1997">
+<REFERENCE NOTES="&lt;p&gt;Hass U&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hass U, Brodin H, Andersson A, Persson J</AU>
+<TI>Assistive technology selection: a study of participation of users with rheumatoid arthritis</TI>
+<SO>IEEE Transactions on Rehabilitation Engineering</SO>
+<YR>1997</YR>
+<VL>5</VL>
+<NO>3</NO>
+<PG>263-75</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoenig-2007" MODIFIED="2009-08-08 00:00:32 -0400" MODIFIED_BY="[Empty name]" NAME="Hoenig 2007" YEAR="2007">
+<REFERENCE MODIFIED="2009-08-08 00:00:32 -0400" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Hoenig H&lt;/p&gt;" NOTES_MODIFIED="2009-08-08 00:00:32 -0400" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoenig H, Pieper C, Branch LG, Cohen HJ</AU>
+<TI>Effect of motorized scooters on physical performance and mobility: a randomized clinical trial</TI>
+<SO>Archives of Physical Medicine and Rehabilitation</SO>
+<YR>2007</YR>
+<VL>88</VL>
+<NO>3</NO>
+<PG>279-86</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-L_x00f6_fkvist-1988" MODIFIED="2009-01-26 14:05:15 -0500" MODIFIED_BY="[Empty name]" NAME="Löfkvist 1988" YEAR="1988">
+<REFERENCE MODIFIED="2008-12-10 07:07:40 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Löfkvist UB, Brattström M, Geborek P, Lidgren L</AU>
+<TI>Individually adapted lightweight walking aids with moulded handles for patients with severely deforming chronic arthritis</TI>
+<SO>Scandinavian Journal of Rheumatology</SO>
+<YR>1988</YR>
+<VL>17</VL>
+<PG>167-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS MODIFIED="2009-01-26 14:05:15 -0500" MODIFIED_BY="[Empty name]"/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Munro-1998" NAME="Munro 1998" YEAR="1998">
+<REFERENCE NOTES="&lt;p&gt;Munro BJ&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Munro BJ, Steele JR, Bashford GM, Ryan M, Britten N</AU>
+<TI>A kinematic and kinetic analysis of the sit-to-stand transfer using an ejector chair: implications for elderly rheumatoid arthritic patients</TI>
+<SO>Journal of Biomechanics</SO>
+<YR>1998</YR>
+<VL>31</VL>
+<NO>3</NO>
+<PG>263-71</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Munro-2000" MODIFIED="2009-08-08 00:04:12 -0400" MODIFIED_BY="[Empty name]" NAME="Munro 2000" YEAR="2000">
+<REFERENCE MODIFIED="2009-08-08 00:04:12 -0400" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Munro BJ&lt;/p&gt;" NOTES_MODIFIED="2009-08-08 00:04:12 -0400" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Munro BJ, Steele JR</AU>
+<TI>Does using an ejector chair affect muscle activation patterns in rheumatoid arthritic patients? A preliminary investigation</TI>
+<SO>Journal of Electromyography and Kinesiology</SO>
+<YR>2000</YR>
+<VL>10</VL>
+<NO>1</NO>
+<PG>25-32</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nordenskiold-1994" NAME="Nordenskiold 1994" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;Nordenskiold U&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nordenskiold U</AU>
+<TI>Evaluation of assistive devices after a course in joint protection</TI>
+<SO>International Journal of Technology Assessment in Health Care</SO>
+<YR>1994</YR>
+<VL>10</VL>
+<NO>2</NO>
+<PG>293-304</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nordenskiold-1996" MODIFIED="2009-08-08 00:05:01 -0400" MODIFIED_BY="[Empty name]" NAME="Nordenskiold 1996" YEAR="1996">
+<REFERENCE MODIFIED="2009-08-08 00:05:01 -0400" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Nordenskiold U&lt;/p&gt;" NOTES_MODIFIED="2009-08-08 00:05:01 -0400" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nordenskiold U, Grimby G, Hedberg M, Wright B, Linacre JM</AU>
+<TI>The structure of an instrument for assessing the effects of assistive devices and altered working methods in women with rheumatoid arthritis</TI>
+<SO>Arthritis Care and Research</SO>
+<YR>1996</YR>
+<VL>9</VL>
+<NO>5</NO>
+<PG>358-67</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nordenskiold-1998" NAME="Nordenskiold 1998" YEAR="1998">
+<REFERENCE NOTES="&lt;p&gt;Nordenskiold U&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nordenskiold U, Grimby G, Dahlin-Ivanoff S</AU>
+<TI>Questionnaire to evaluate the effects of assistive devices and altered working methods in women with rheumatoid arthritis</TI>
+<SO>Clinical Rheumatology</SO>
+<YR>1998</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>6-16</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Price-2003" MODIFIED="2008-12-09 08:27:32 -0500" MODIFIED_BY="[Empty name]" NAME="Price 2003" YEAR="2003">
+<REFERENCE MODIFIED="2008-12-09 08:27:32 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Price P, Rees-Mathews S, Tebble N</AU>
+<TI>The use of a new overlay mattress in patients with chronic pain: impact on sleep and self-reported pain</TI>
+<SO>Clinical Rehabilitation</SO>
+<YR>2003</YR>
+<VL>17</VL>
+<PG>488-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thyberg-2004" MODIFIED="2009-08-08 00:05:31 -0400" MODIFIED_BY="[Empty name]" NAME="Thyberg 2004" YEAR="2004">
+<REFERENCE MODIFIED="2009-08-08 00:05:31 -0400" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Thyberg I&lt;/p&gt;" NOTES_MODIFIED="2009-08-08 00:05:31 -0400" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thyberg I, Hass UAM, Nordenskiold U, Skogh T</AU>
+<TI>Survey of the use and effect of assistive devices in patients with early rheumatoid arthritis: a two-year follow up of women and men</TI>
+<SO>Arthritis and Rheumatism</SO>
+<YR>2004</YR>
+<VL>51</VL>
+<NO>3</NO>
+<PG>413-21</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Torrens-2000" NAME="Torrens 2000" YEAR="2000">
+<REFERENCE NOTES="&lt;p&gt;Using Smart Source Parsing&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Torrens GE, Hann J, Webley M, Joy J, Sutherland IA</AU>
+<TI>Hand performance assessment of ten people with rheumatoid arthritis when using a range of specified saucepans</TI>
+<SO>Disability and Rehabilitation</SO>
+<YR>2000</YR>
+<VL>22</VL>
+<NO>3</NO>
+<PG>123-34</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="Excluded"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2009-08-08 00:19:04 -0400" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2009-08-08 00:19:04 -0400" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Altman-2001" MODIFIED="2008-05-07 16:39:45 -0400" MODIFIED_BY="[Empty name]" NAME="Altman 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Altman DG, Schulz KF, Moher D, Egger M, Davidoff F, Elbourne D</AU>
+<TI>The revised CONSORT statement for reporting of randomized trials: Explanation and elaboration</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2001</YR>
+<VL>134</VL>
+<NO>8</NO>
+<PG>663-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ass.-Tech.-Act-2004" MODIFIED="2008-05-13 13:45:51 -0400" MODIFIED_BY="[Empty name]" NAME="Ass. Tech. Act 2004" TYPE="OTHER">
+<TI>Assistive technology Act of 2004. Sec. 2 amendment to the assistive technology act of 1998</TI>
+<SO>One Hundred and Eighth Congress of the United States of America</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Backman-2004" MODIFIED="2009-08-08 00:06:09 -0400" MODIFIED_BY="[Empty name]" NAME="Backman 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Backman CL, Kennedy SM, Chalmers A, Singer J</AU>
+<TI>Participation in paid and unpaid work by adults with rheumatoid arthritis</TI>
+<SO>The Journal of Rheumatology</SO>
+<YR>2004</YR>
+<VL>31</VL>
+<NO>1</NO>
+<PG>47-56</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cieza-2005" NAME="Cieza 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Cieza A, Geyh S, Chatterji S, Kostanjsek N, Üstün B, Stucki G</AU>
+<TI>ICF linking rules: An update based on lessons learned</TI>
+<SO>Journal of Rehabilitation Medicine</SO>
+<YR>2005</YR>
+<VL>37</VL>
+<NO>4</NO>
+<PG>212-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Clegg-1997" NAME="Clegg 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Clegg A, Bannigan K</AU>
+<TI>Shifting the balance of opinion: RCTs in occupational therapy</TI>
+<SO>British Journal of Occupational Therapy</SO>
+<YR>1997</YR>
+<VL>60</VL>
+<NO>11</NO>
+<PG>510-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Coenen-2006" NAME="Coenen 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Coenen M, Cieza A, Stamm TA, Amann E, Kollerits B, Stucki G</AU>
+<TI>Validation of the international classification of functioning, disability and health (ICF) core sets for rheumatoid arthritis from the patient perspective using focus groups</TI>
+<SO>Arthritis Research &amp; Therapy</SO>
+<YR>2006</YR>
+<VL>8</VL>
+<NO>4</NO>
+<PG>R84</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-de-Jonge-2007" NAME="de Jonge 2007" TYPE="BOOK">
+<AU>de Jonge D, Scherer MJ, Rodger S</AU>
+<SO>Assistive technology in the workplace</SO>
+<YR>2007</YR>
+<PB>Mosby Elsevier</PB>
+<CY>St. Louis, Missouri</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dijcks-2006" MODIFIED="2008-05-13 13:46:26 -0400" MODIFIED_BY="[Empty name]" NAME="Dijcks 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Dijcks BPJ, De Witte LP, Gelderblom GJ, Wessels RD, Soede M</AU>
+<TI>Non-use of assistive technology in The Netherlands: A non-issue?</TI>
+<SO>Disability and Rehabilitation: Assistive Technology</SO>
+<YR>2006</YR>
+<VL>1</VL>
+<PG>97-102</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Egan-2001" MODIFIED="2008-06-20 05:46:04 -0400" MODIFIED_BY="[Empty name]" NAME="Egan 2001" TYPE="COCHRANE_REVIEW">
+<AU>Egan M, Brosseau L, Farmer M, Ouimet M, Rees S, Tugwell P et al</AU>
+<TI>Splints and Orthoses for treating rheumatoid arthritis (Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2001</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2008-06-20 05:46:04 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-06-20 05:46:04 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD004018"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Fex-1998" MODIFIED="2009-08-08 00:07:09 -0400" MODIFIED_BY="[Empty name]" NAME="Fex 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Fex E, Larsson BM, Nived K, Eberhardt K</AU>
+<TI>Effect of rheumatoid arthritis on work status and social and leisure time activities in patients followed 8 years from onset</TI>
+<SO>The Journal of Rheumatology</SO>
+<YR>1998</YR>
+<VL>25</VL>
+<NO>1</NO>
+<PG>44-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fries-1980" MODIFIED="2009-08-08 00:07:32 -0400" MODIFIED_BY="[Empty name]" NAME="Fries 1980" TYPE="JOURNAL_ARTICLE">
+<AU>Fries JF, Spitz P, Kraines RG, Holman HR</AU>
+<TI>Measurement of patient outcome in arthritis</TI>
+<SO>Arthritis and Rheumatism</SO>
+<YR>1980</YR>
+<VL>23</VL>
+<PG>137-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fuhrer-2001" NAME="Fuhrer 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Fuhrer, M</AU>
+<TI>Assistive technology outcomes research: Challenges met and yet unmet</TI>
+<SO>American Journal of Physical Medicine &amp; Rehabilitation</SO>
+<YR>2001</YR>
+<VL>80</VL>
+<NO>7</NO>
+<PG>528-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Glasziou-2007" MODIFIED="2008-12-10 07:15:58 -0500" MODIFIED_BY="[Empty name]" NAME="Glasziou 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Glasziou P, Chalmers I, Rawlins M, McCulluch P</AU>
+<TI>When are randomised trials unnecessary? Picking signal from noise</TI>
+<SO>BMJ</SO>
+<YR>2007</YR>
+<VL>334 (7589)</VL>
+<PG>349-51</PG>
+<IDENTIFIERS MODIFIED="2008-12-10 07:15:58 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-12-10 07:15:58 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1136/bmj.39070.527986.68"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Guyatt-1990" MODIFIED="2009-08-08 00:09:17 -0400" MODIFIED_BY="[Empty name]" NAME="Guyatt 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Guyatt GH, Keller JL, Jaeschke R, Rosenbloom D, Adachi JD, Newhouse MT</AU>
+<TI>The n-of-1 randomized controlled trial: Clinical usefulness. Our three-year experience</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1990</YR>
+<VL>112</VL>
+<NO>4</NO>
+<PG>293-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hammond-1998" NAME="Hammond 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Hammond A</AU>
+<TI>The use of self-management strategies by people with rheumatoid arthritis</TI>
+<SO>Clinical Rehabilitation</SO>
+<YR>1998</YR>
+<VL>12</VL>
+<NO>1</NO>
+<PG>81-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hammond-2004" MODIFIED="2009-08-08 00:10:16 -0400" MODIFIED_BY="[Empty name]" NAME="Hammond 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Hammond A</AU>
+<TI>What is the role of the occupational therapist?</TI>
+<SO>Best Practice &amp; Research. Clinical Rheumatology</SO>
+<YR>2004</YR>
+<VL>18</VL>
+<NO>4</NO>
+<PG>491-505</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Haworth-1983" NAME="Haworth 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Haworth RJ</AU>
+<TI>Use of aids during the first three months after total hip replacement</TI>
+<SO>British Journal of Rheumatology</SO>
+<YR>1983</YR>
+<VL>22</VL>
+<NO>1</NO>
+<PG>29-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2008" MODIFIED="2008-12-30 07:38:33 -0500" MODIFIED_BY="[Empty name]" NAME="Higgins 2008" TYPE="BOOK">
+<AU>Higgins JPT, Green S, editors</AU>
+<SO>Cochrane Handbook for Systematic Reviews of Interventions. Version 5.0.1 (updated September 2008)</SO>
+<YR>2008</YR>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<CY>Chichester, UK</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ilott-2006" NAME="Ilott 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Ilott I, Taylor MC, Bolanos C</AU>
+<TI>Evidence-based occupational therapy: It's time to take a global approach</TI>
+<SO>British Journal of Occupational Therapy</SO>
+<YR>2006</YR>
+<VL>69</VL>
+<NO>1</NO>
+<PG>38-41</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ISO-9999_x003a_2007" MODIFIED="2008-12-09 15:12:59 -0500" MODIFIED_BY="[Empty name]" NAME="ISO 9999:2007" TYPE="BOOK">
+<AU>ISO 9999:2007</AU>
+<SO>Assistive products for persons with disability - Classification and terminology</SO>
+<YR>2007</YR>
+<EN>Fourth</EN>
+<PB>American National Standards Institute</PB>
+<IDENTIFIERS MODIFIED="2008-06-20 04:38:12 -0400" MODIFIED_BY="[Empty name]"/>
+</REFERENCE>
+<REFERENCE ID="REF-Ivanoff-2006" NAME="Ivanoff 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Ivanoff SD, Iwarsson S, Sonn U</AU>
+<TI>Occupational therapy research on assistive technology and physical environmental issues: A literature review</TI>
+<SO>Canadian Journal of Occupational Therapy</SO>
+<YR>2006</YR>
+<VL>73</VL>
+<NO>2</NO>
+<PG>109-19</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jeffrey-2005" NAME="Jeffrey 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Jeffrey J, Fuhrer MJ, Demers L, Scherer MJ, DeReyter F</AU>
+<TI>Toward a taxonomy of assistive device technology</TI>
+<SO>American Journal of Physical Medicine &amp; Rehabilitation</SO>
+<YR>2005</YR>
+<VL>84</VL>
+<NO>4</NO>
+<PG>294-302</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jolles-2005" NAME="Jolles 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Jolles BM, Buchbinder R, Beaton DE</AU>
+<TI>A study compared nine patient-specific indices for musculoskeletal disorders</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>2005</YR>
+<VL>58</VL>
+<NO>8</NO>
+<PG>791-801</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kloppenburg-2007" NAME="Kloppenburg 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Kloppenburg M, Stamm T, Watt I, Kainberger F, Cawston TE, Birrel FN et al</AU>
+<TI>Research in hand osteoarthritis: Time for reappraisal and demand for new strategies. An opinion paper</TI>
+<SO>Annals of Rheumatic Diseases</SO>
+<YR>2007</YR>
+<VL>66</VL>
+<NO>9</NO>
+<PG>1157-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lenker-2005" NAME="Lenker 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Lenker JA, Scherer MJ, Fuhrer MJ, Jutai JW, DeRuyter F</AU>
+<TI>Psychometric and administrative properties of measures in assistive technology devices outcomes research</TI>
+<SO>Assistive Technology</SO>
+<YR>2005</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>7-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Levack-2006" MODIFIED="2008-05-13 13:47:17 -0400" MODIFIED_BY="[Empty name]" NAME="Levack 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Levack WMM, Taylor K, Siegert RJ, Dean SG</AU>
+<TI>Is goal planning in rehabilitation effective? A systematic review</TI>
+<SO>Clinical Rehabilitation</SO>
+<YR>2006</YR>
+<VL>20</VL>
+<PG>739-55</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lovarini-2006" NAME="Lovarini 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Lovarini M, McCluskey A, Curtin M</AU>
+<TI>Limited high-quality research on the effectiveness of assistive technology</TI>
+<SO>Australian Occupational Therapy Journal</SO>
+<YR>2006</YR>
+<VL>53</VL>
+<NO>1</NO>
+<PG>50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-L_x00f6_fquist-2005" NAME="Löfquist 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Löfquist C, Nygren C, Szeman Z, Iwarsson S</AU>
+<TI>Assistive devices among very old people in five European countries</TI>
+<SO>Scandinavian Journal of Occupational Therapy</SO>
+<YR>2005</YR>
+<VL>12</VL>
+<NO>4</NO>
+<PG>181-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Malcus_x002d_Johnson-2005" NAME="Malcus-Johnson 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Malcus-Johnson P, Carlquist C, Sturesson AL, Eberhardt K</AU>
+<TI>Occupational therapy during the first 10 years of rheumatoid arthritis</TI>
+<SO>Scandinavian Journal of Occupational Therapy</SO>
+<YR>2005</YR>
+<VL>12</VL>
+<PG>128-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mann-1995" NAME="Mann 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Mann WC, Hurren D; Tomita M</AU>
+<TI>Assistive devices used by home-based elderly with rheumatoid arthritis</TI>
+<SO>American Journal of Occupational Therapy</SO>
+<YR>1995</YR>
+<VL>49</VL>
+<NO>8</NO>
+<PG>810-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Maxwell-2006" MODIFIED="2009-08-08 00:15:50 -0400" MODIFIED_BY="[Empty name]" NAME="Maxwell 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Maxwell L, Santesso N, Tugwell PS, Wells GA, Judd M, Buchbinder R, the Editorial Board of the Cochrane Musculoskeletal Group</AU>
+<TI>Method guidelines for Cochrane Musculoskeletal Group systematic reviews</TI>
+<SO>The Journal of Rheumatology</SO>
+<YR>2006</YR>
+<VL>33</VL>
+<NO>11</NO>
+<PG>2304-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McMillen-2002" NAME="McMillen 2002" TYPE="JOURNAL_ARTICLE">
+<AU>McMillen AM, Söderberg S</AU>
+<TI>Disabled persons´ experience of dependence on assistive devices</TI>
+<SO>Scandinavian Journal of Occupational Therapy</SO>
+<YR>2002</YR>
+<VL>9</VL>
+<PG>176-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nordenski_x00f6_ld-1997" MODIFIED="2009-08-08 00:14:41 -0400" MODIFIED_BY="[Empty name]" NAME="Nordenskiöld 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Nordenskiöld U</AU>
+<TI>Daily activities in women with rheumatoid arthritis. Aspects of patient education, assistive devices and methods for disability and impairment assessment</TI>
+<SO>Scandinavian Journal of Rehabilitation Medicine. Supplement</SO>
+<YR>1997</YR>
+<VL>37</VL>
+<PG>1-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Philips-1993" MODIFIED="2008-05-13 13:47:47 -0400" MODIFIED_BY="[Empty name]" NAME="Philips 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Philips B, Zhao H</AU>
+<TI>Predictors of assistive technology abandonment</TI>
+<SO>Assistive Technology</SO>
+<YR>1993</YR>
+<VL>5</VL>
+<NO>1</NO>
+<PG>36-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rogers-1992" NAME="Rogers 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Rogers JC, Holm MB</AU>
+<TI>Assistive technology device use in patients with rheumatic disease: A literature review</TI>
+<SO>American Journal of Occupational Therapy</SO>
+<YR>1992</YR>
+<VL>46</VL>
+<NO>2</NO>
+<PG>120-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rogers-2002" MODIFIED="2009-08-08 00:17:20 -0400" MODIFIED_BY="[Empty name]" NAME="Rogers 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Rogers JC, Holm MB, Perkins L</AU>
+<TI>Trajectory of assistive device usage and user and non-user characteristics: Long-handled bath sponge</TI>
+<SO>Arthritis and Rheumatism</SO>
+<YR>2002</YR>
+<VL>47</VL>
+<PG>645-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Scherer-2005" NAME="Scherer 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Scherer MJ, Sax C, Vanbiervliet A, Cushman LA, Scherer JV</AU>
+<TI>Predictors of assistive technology use: The importance of personal and psychological factors</TI>
+<SO>Disability and Rehabilitation</SO>
+<YR>2005</YR>
+<VL>27</VL>
+<NO>21</NO>
+<PG>1321-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Shipham-2003" NAME="Shipham 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Shipham I, Pitout SJ</AU>
+<TI>Rheumatoid arthritis: Hand function, activities of daily living, grip strength and essential assistive devices</TI>
+<SO>Curationis</SO>
+<YR>2003</YR>
+<VL>26</VL>
+<NO>3</NO>
+<PG>98-106</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stamm-2004" MODIFIED="2009-08-08 00:17:54 -0400" MODIFIED_BY="[Empty name]" NAME="Stamm 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Stamm TA, Cieza A, Machold KP, Smolen JS, Stucki G</AU>
+<TI>Content comparison of occupation-based instruments in adult rheumatology and musculoskeletal rehabilitation based on the International Classification of Functioning, Disability and Health</TI>
+<SO>Arthritis and Rheumatism</SO>
+<YR>2004</YR>
+<VL>51</VL>
+<NO>6</NO>
+<PG>917-24</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Steultjens-2004" MODIFIED="2008-12-09 15:11:50 -0500" MODIFIED_BY="[Empty name]" NAME="Steultjens 2004" TYPE="COCHRANE_REVIEW">
+<AU>Steultjens EMJ, Dekker J, Bouter LM, van Schaardenburg D, van Kuyk MAH, van den Ende CHM</AU>
+<TI>Occupational therapy for rheumatoid arthritis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>1.</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<CY>Chichester</CY>
+<IDENTIFIERS MODIFIED="2008-12-09 15:11:45 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-12-09 15:11:45 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003114.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Straus-2005" NAME="Straus 2005" TYPE="BOOK">
+<AU>Straus S, Richardson WS, Glaziou P, Haynes BR</AU>
+<SO>Evidence-based medicine. How to practice and teach EBM</SO>
+<YR>2005</YR>
+<EN>Third</EN>
+<PB>Elsevier Churchill Livingstone</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stucki-2004" MODIFIED="2008-12-30 08:02:13 -0500" MODIFIED_BY="[Empty name]" NAME="Stucki 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Stucki G, Cieza A, Geyh S, Battistella L, Lloyd J, Symmons D et al</AU>
+<TI>ICF core sets for rheumatoid arthritis</TI>
+<SO>Journal of Rehabilitation Medicine</SO>
+<YR>2004</YR>
+<VL>44 (suppl)</VL>
+<PG>87-93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stucki-2007" MODIFIED="2009-08-08 00:18:45 -0400" MODIFIED_BY="[Empty name]" NAME="Stucki 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Stucki G, Boonen A, Tugwell P, Cieza A, Boers M</AU>
+<TI>The World Health Organisation International Classification of Functioning, Disability and Health: A conceptual model and interface for the OMERACT process</TI>
+<SO>The Journal of Rheumatology</SO>
+<YR>2007</YR>
+<VL>34</VL>
+<NO>3</NO>
+<PG>600-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Uhlig-2005" NAME="Uhlig 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Uhlig T, Kvien TK</AU>
+<TI>Is rheumatoid arthritis disappearing?</TI>
+<SO>Annals of the Rheumatic Diseases</SO>
+<YR>2005</YR>
+<VL>64</VL>
+<NO>1</NO>
+<PG>7-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Van-der-2003" MODIFIED="2009-08-08 00:19:04 -0400" MODIFIED_BY="[Empty name]" NAME="Van der 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Van der EM, Heijmans M, Dekker J</AU>
+<TI>Factors contributing to possession and use of walking aids among persons with rheumatoid arthritis and osteoarthritis</TI>
+<SO>Arthritis and Rheumatism</SO>
+<YR>2003</YR>
+<VL>15</VL>
+<NO>49</NO>
+<PG>838-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-van-der-Heide-1993" NAME="van der Heide 1993" TYPE="JOURNAL_ARTICLE">
+<AU>van der Heide A, Jacobs JW, van Albada-Kuipers GA, Kraaimaat FW, Geenen R, Bijlsma JW</AU>
+<TI>Self report functional disability scores and the use of devices: Two distinct aspects of physical function in rheumatoid arthritis</TI>
+<SO>Annals of the Rheumatic Diseases</SO>
+<YR>1993</YR>
+<VL>52</VL>
+<NO>7</NO>
+<PG>497-502</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-van-Kuyk_x002d_Minis-1998" NAME="van Kuyk-Minis 1998" TYPE="JOURNAL_ARTICLE">
+<AU>van Kuyk-Minis MA</AU>
+<TI>Assistive devices: integral to the daily living of human beings</TI>
+<SO>Clinical Rheumatology</SO>
+<YR>1998</YR>
+<VL>17</VL>
+<PG>3-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Veehof-2006" NAME="Veehof 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Veehof MM, Taal E, Rasker JJ, Lohmann J, van der Laar MAFJ</AU>
+<TI>What determines the possession of assistive devices among patients with rheumatic diseases? The influence of country-related health-care system</TI>
+<SO>Disability and Rehabilitation</SO>
+<YR>2006</YR>
+<VL>28</VL>
+<NO>4</NO>
+<PG>205-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Veitiene-2005" NAME="Veitiene 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Veitiene D, Tamulaitiene M</AU>
+<TI>Comparison of self-management methods for osteoarthritis and rheumatoid arthritis</TI>
+<SO>Journal of Rehabilitation Medicine</SO>
+<YR>2005</YR>
+<VL>37</VL>
+<PG>58-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Vliet-Vlieland-2002" NAME="Vliet Vlieland 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Vliet Vlieland TP</AU>
+<TI>Care: International conference on multidisciplinary care in rheumatoid arthritis</TI>
+<SO>International Journal of Advances in Rheumatology</SO>
+<YR>2002</YR>
+<VL>1</VL>
+<PG>34-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-2001" NAME="WHO 2001" TYPE="BOOK">
+<AU>World Health Organization</AU>
+<SO>International Classification of Functioning, Disability and Health (ICF)</SO>
+<YR>2001</YR>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wieland-2006" NAME="Wieland 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Wieland T</AU>
+<TI>Home-based training and the use of bathing devices increased usage and resulted in small improvements in personal independence and satisfaction for people with stroke</TI>
+<SO>Australian Occupational Therapy Journal</SO>
+<YR>2006</YR>
+<VL>53</VL>
+<PG>51-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wikstr_x00f6_m-2006" NAME="Wikström 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Wikström I, Book C, Jacobsson LT</AU>
+<TI>Difficulties in performing leisure activities among persons with newly diagnosed rheumatoid arthritis: A prospective controlled study</TI>
+<SO>Rheumatology</SO>
+<YR>2006</YR>
+<VL>45</VL>
+<NO>9</NO>
+<PG>1162-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wolfe-2000" NAME="Wolfe 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Wolfe T</AU>
+<TI>Community resources and assistive devices for people with arthritis</TI>
+<SO>Journal of Hand Therapy</SO>
+<YR>2000</YR>
+<VL>13</VL>
+<NO>2</NO>
+<PG>184-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wressle-2004" NAME="Wressle 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Wressle E, Samuelsson K</AU>
+<TI>User satisfaction with mobility assistive devices</TI>
+<SO>Scandinavian Journal of Occupational Therapy</SO>
+<YR>2004</YR>
+<VL>11</VL>
+<PG>143-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2009-08-08 06:56:49 -0400" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2009-08-08 06:51:35 -0400" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="YES" USER_DEF_1_NAME="Provider or participant" USER_DEF_2_ENABLED="YES" USER_DEF_2_NAME="Outcome assessor" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2009-08-08 06:50:02 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Averns-1999">
+<CHAR_METHODS MODIFIED="2009-08-08 01:45:38 -0400" MODIFIED_BY="[Empty name]">
+<P>This is a randomised controlled study with a cross-over design. There was only one cross over. Randomisation was performed by using numbers on a calculator. The intervention period was two weeks.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-08-08 06:48:01 -0400" MODIFIED_BY="[Empty name]">
+<P>The study was a part of a larger study, that took place in the United Kingdom, in which the participants were attending an outpatients' follow up. Of the 340 participants included in the large study, 85 participants had symptoms of Sjögren's syndrome and 30 of these were included in an eye drop delivery study. Among the 29 participants followed, there were four losses to follow up for some of the outcome assessments.</P>
+<P>In the large sample of 340 participants: median age was 50 years (range 22-93), median disease duration 12 years, age at onset of rheumatoid arthritis 45 years (range 6-86), and gender distribution 76% females and 24% males. The mean value of Health Assessment Questionnaire (HAQ) was 1.87 (range 0.12-2.75). In the small sample of 29 participants, the gender distribution was 86% female and 14% male, all participants were above 18 years of age, and all participants were diagnosed with rheumatoid arthritis by a rheumatologist (personal communication with first author).</P>
+<P>Inclusion criteria:</P>
+<UL>
+<LI>Schirmer test &lt; 5 mm in 5 minutes;</LI>
+<LI>duration of persistent dry eyes or gritty eyes &gt; 3 months.</LI>
+</UL>
+<P>Exclusion criteria:</P>
+<UL>
+<LI>other ocular conditions requiring treatment;</LI>
+<LI>persons taking medication known to cause symptoms of dry eyes.</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-08-08 01:47:53 -0400" MODIFIED_BY="[Empty name]">
+<P>Intervention: use of an Opticare eye drop dispenser device. A standard bottle with artificial tears was put into the dispenser.<BR/>Comparison: use of eye drops from a standard bottle without the dispenser device.</P>
+<P>The participants used the eye drops from the standard bottle in week 1 and the Opticare device in week 2, or vice versa.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-08-08 06:49:02 -0400" MODIFIED_BY="[Empty name]">
+<P>The outcome measures at baseline were (for the large sample):</P>
+<UL>
+<LI>screening questions about Sjögren's syndrome;</LI>
+<LI>modified Health Assessment Questionnaire (HAQ);</LI>
+<LI>examination of neck and upper limb function (results not reported).</LI>
+</UL>
+<P>The outcome measures after each intervention week were (for the small sample):</P>
+<UL>
+<LI>patient reported experience with the use of the standard bottle or Opticare device;</LI>
+<LI>observer reported rating of the participant's ability to instill the artificial tears.</LI>
+</UL>
+<P>The outcomes measured after each intervention week were:</P>
+<UL>
+<LI>squeeze out drops;</LI>
+<LI>get drops into the eye;</LI>
+<LI>squeeze the bottle;</LI>
+<LI>control the number of drops;</LI>
+<LI>aim the drops;</LI>
+<LI>device usability;</LI>
+<LI>adverse effects: touching the eye with the bottle tip.</LI>
+</UL>
+</CHAR_OUTCOMES>
+<CHAR_USER_DEF_1/>
+<CHAR_USER_DEF_2/>
+<CHAR_NOTES MODIFIED="2009-08-08 06:50:02 -0400" MODIFIED_BY="[Empty name]">
+<P>Some information was provided through personal communication with the first author.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2009-08-08 06:56:49 -0400" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:52:22 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Galumbeck-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:52:22 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. It is a single-subject design. Diagnoses of study participants were not described.</P>
+<P>The intervention used was a sit and stand chair, that is a chair with an electrical seat lift mechanism.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:52:44 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Hass-1997">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:52:44 -0400" MODIFIED_BY="[Empty name]">
+<P>This was a comparative observational study, but as no adverse effects are registered the study is excluded.</P>
+<P>The intervention used was an assortment of devices and altered procedures. The assortment consisted of devices for treatment and training, orthoses and prostheses, personal care, mobility, household, adaptations for housing, communication, and handling other goods.<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:53:16 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Hoenig-2007">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:53:16 -0400" MODIFIED_BY="[Empty name]">
+<P>This was an RCT. The trial is excluded due to mixed patient population (osteoarthritis and rheumatoid arthritis) without separate analysis for the RA population.</P>
+<P>The assistive device under investigation was a motorised scooter.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:53:39 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-L_x00f6_fkvist-1988">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:53:39 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. It was an uncontrolled study with before and after comparison.</P>
+<P>The assistive devices under investigation were individually adapted walking aids.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:54:09 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Munro-1998">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:54:09 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. It was a single-subject design.</P>
+<P>The assistive device under investigation was a mechanical ejector chair.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:54:27 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Munro-2000">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:54:27 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. It was a single-subject design.</P>
+<P>This device under investigation was a mechanical ejector chair.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:54:51 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Nordenskiold-1994">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:54:51 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. When it comes to testing effects, the study was cross-sectional.</P>
+<P>In this study the assistive devices used were devices for bed, toileting, walking, bath and shower, chair and table, communication, orthoses, personal care, house adaptations, and kitchen.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:55:20 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Nordenskiold-1996">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:55:20 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. When it comes to testing effects, the study was cross-sectional.</P>
+<P>The interventions used were a variety of assistive devices or altered working methods. The devices were for eating, transferring, toileting, dressing, bathing/shower, cooking, mobility indoors, washing/clothes care, cleaning, mobility outdoors or shopping, and communication.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-01-23 07:24:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Nordenskiold-1998">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-01-23 07:24:31 -0500" MODIFIED_BY="[Empty name]">
+<P>This is not an RCT, CCT, CBA, ITS or a comparative observational study. It is a cross-sectional study.</P>
+<P>The interventions used were a variety of assistive devices and altered working methods. The devices were for eating, transferring, toileting, dressing, bathing/shower, cooking, mobility indoors, washing/clothes care, cleaning, mobility outdoors/shopping, and communication.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:55:37 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Price-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:55:37 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. It was an uncontrolled study with before and after comparison.</P>
+<P>The assistive device under investigation was an overlay mattress.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:56:36 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Thyberg-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:56:36 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. When it comes to testing effects, the study was cross-sectional.</P>
+<P>The interventions used were a variety of assistive devices and altered working methods. The devices were for eating, transferring, toileting, dressing, bathing and shower, cooking, mobility indoors, washing and clothes care, cleaning, mobility outdoors or shopping, and communication.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-08-08 06:56:49 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Torrens-2000">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-08-08 06:56:49 -0400" MODIFIED_BY="[Empty name]">
+<P>This was not an RCT, CCT, CBA, ITS or a comparative observational study. It was a single-subject design.</P>
+<P>This study examined a range of new handle designs for saucepans.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES>
+<P>CCT: clinical controlled trials</P>
+<P>RCT: randomised controlled trial</P>
+<P>CBA: controlled before and after studies</P>
+<P>ITS: interrupted time series</P>
+<P>RA: rheumatoid arthritis</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2009-08-08 06:51:35 -0400" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2009-07-20 05:03:21 -0400" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-07-20 05:03:21 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Averns-1999">
+<DESCRIPTION>
+<P>There was no information in the article regarding method of randomisation. When asked to clarify this, the first author described the method of randomisation as using random numbers on a calculator. This is considered to be an adequate sequence generation.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2009-08-08 06:51:10 -0400" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-08-08 06:51:10 -0400" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Averns-1999">
+<DESCRIPTION>
+<P>The method of concealment was not described. Thus, there is insufficient information to permit judgment of 'Yes' or 'No'.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2009-08-08 06:51:20 -0400" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2009-08-08 06:51:20 -0400" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Averns-1999">
+<DESCRIPTION>
+<P>There was no blinding of outcome assessor, participants, or personnel. This is likely to introduce bias.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2009-08-08 06:51:35 -0400" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2009-08-08 06:51:35 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Averns-1999">
+<DESCRIPTION>
+<P>Thirty participants were recruited, however one participant failed to attend for the treatment. Among the 29 participants followed, there were four losses to follow up for some of the outcome assessments, which is less than 20% of the sample. We therefore consider this criterion to be met.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2009-05-27 02:20:56 -0400" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-27 02:20:56 -0400" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Averns-1999">
+<DESCRIPTION>
+<P>The study had selective outcome reporting as only statistically significant results were reported in tables.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2009-06-24 14:44:37 -0400" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-06-24 14:44:37 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Averns-1999">
+<DESCRIPTION>
+<P>Analyses were performed according to the intention-to-treat principle. We therefore consider the study apparently free of other sources of bias.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES MODIFIED="2009-08-11 10:05:01 -0400" MODIFIED_BY="[Empty name]">
+<SOF_TABLE ID="SOF-01" MODIFIED="2009-08-11 10:04:02 -0400" MODIFIED_BY="[Empty name]" NO="1" READONLY="YES">
+<TITLE MODIFIED="2009-08-11 10:04:00 -0400" MODIFIED_BY="Grade Profiler">Eye drop dispenser device compared to standard bottle for rheumatoid arthritis</TITLE>
+<TABLE COLS="7" ROWS="9">
+<TR>
+<TD COLSPAN="7">
+<P>
+<B>Eye drop dispenser device compared to standard bottle for rheumatoid arthritis</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="7">
+<P>
+<B>Patient or population:</B> patients with rheumatoid arthritis<BR/>
+<B>Settings:</B> Outpatient clinic<BR/>
+<B>Intervention:</B> Eye drop dispenser device<BR/>
+<B>Comparison: </B>standard bottle</P>
+</TD>
+</TR>
+<TR>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>Outcomes</P>
+</TH>
+<TH ALIGN="LEFT" COLSPAN="2" VALIGN="TOP">
+<P>Illustrative comparative risks* (95% CI)</P>
+</TH>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>Relative effect<BR/>(95% CI)</P>
+</TH>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>No of Participants<BR/>(studies)</P>
+</TH>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>Quality of the evidence<BR/>(GRADE)</P>
+</TH>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>Comments</P>
+</TH>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Assumed risk</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Corresponding risk</P>
+</TH>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>
+<B>standard bottle</B>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>
+<B>Eye drop dispenser device</B>
+</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Difficulty squeezing out drops</B>
+<BR/>Follow-up: mean 2 weeks</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>517 per 1000</B>
+</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>114 per 1000</B>
+<BR/>(31 to 321)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>RR 0.22 </B>
+<BR/>(0.06 to 0.62)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>58<BR/>(1 study<SUP>3</SUP>)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>&#8853;&#8853;&#8861;&#8861;<BR/>
+<B>low</B>
+<SUP>1,2</SUP>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Absolute risk difference = 40.3%; Relative percent change = 128%; NNT = 3 (3 to 6)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Difficulty getting drops into eyes</B>
+<BR/>Follow-up: mean 2 weeks</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>517 per 1000</B>
+</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>140 per 1000</B>
+<BR/>(52 to 367)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>RR 0.27 </B>
+<BR/>(0.1 to 0.71)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>58<BR/>(1 study<SUP>3</SUP>)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>&#8853;&#8853;&#8861;&#8861;<BR/>
+<B>low</B>
+<SUP>1,2</SUP>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Absolute risk difference = 37.7%; Relative percent change = 136%; NNT = 3 (3 to 7)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Difficulty squeezing bottle</B>
+<BR/>Follow-up: mean 2 weeks</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>621 per 1000</B>
+</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>348 per 1000</B>
+<BR/>(193 to 615)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>RR 0.56 </B>
+<BR/>(0.31 to 0.99)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>58<BR/>(1 study<SUP>3</SUP>)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>&#8853;&#8853;&#8861;&#8861;<BR/>
+<B>low</B>
+<SUP>1,2</SUP>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Absolute risk difference = 27.3%; Relative percent change = 227%; NNT = 4 (3 to 162)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Difficulty controlling the number of drops</B>
+<BR/>Follow-up: mean 2 weeks</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>840 per 1000</B>
+</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>512 per 1000</B>
+<BR/>(311 to 840)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>RR 0.61 </B>
+<BR/>(0.37 to 1)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>50<BR/>(1 study<SUP>3</SUP>)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>&#8853;&#8853;&#8861;&#8861;<BR/>
+<B>low</B>
+<SUP>1,2</SUP>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Absolute risk difference = 32.8%; Relative percent change = 256%; NNT = 4 (non significant)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Difficulty aiming drops</B>
+<BR/>Follow-up: mean 2 weeks</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>760 per 1000</B>
+</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>456 per 1000</B>
+<BR/>(281 to 745)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>RR 0.60 </B>
+<BR/>(0.37 to 0.98)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>49<BR/>(1 study<SUP>3</SUP>)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>&#8853;&#8853;&#8861;&#8861;<BR/>
+<B>low</B>
+<SUP>1,2</SUP>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Absolute risk difference = 30.4%; Relative percent change = 250%; NNT = 4 (3 to 66)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Device usability</B>
+<BR/>Follow-up: mean 2 weeks</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>See comment</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>See comment</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Not estimable</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>58<BR/>(1 study<SUP>3</SUP>)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>See comment</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Insufficient data provided to assess the outcome</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Adverse events - Touching the eye with the bottle tip</B>
+<BR/>Follow-up: mean 2 weeks</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>759 per 1000</B>
+</P>
+</TD>
+<TD ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>8 per 1000</B>
+<BR/>(0 to 76)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>RR 0.01 </B>
+<BR/>(0 to 0.1)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>58<BR/>(1 study<SUP>3</SUP>)</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>&#8853;&#8853;&#8861;&#8861;<BR/>
+<B>low</B>
+<SUP>1,2</SUP>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>Absolute risk difference = 75.1%; Relative percent change = 101%; NNT = 2 (2 to 2)</P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="7">
+<P>*The basis for the <B>assumed risk</B> (e.g. the median control group risk across studies) is provided in footnotes. The <B>corresponding risk</B> (and its 95% confidence interval) is based on the assumed risk in the comparison group and the <B>relative effect</B> of the intervention (and its 95% CI).<BR/>
+<B>CI:</B> Confidence interval; <B>RR:</B> Risk ratio; </P>
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="7">
+<P>GRADE Working Group grades of evidence<BR/>
+<B>High quality:</B> Further research is very unlikely to change our confidence in the estimate of effect. <BR/>
+<B>Moderate quality:</B> Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate.<BR/>
+<B>Low quality:</B> Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate.<BR/>
+<B>Very low quality:</B> We are very uncertain about the estimate.<BR/>
+</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES>
+<P>
+<SUP>1</SUP> The sequence generation and concealment of allocation were unclear. There was no blinding of outcome assessor, participants or personnel. The study had selective reporting. Dropouts were not accounted for. <BR/>
+<SUP>2</SUP> The study included relatively few participants.<BR/>
+<SUP>3</SUP> The included study is a randomised trial with a cross-over design, where the participants were their own controls. That means that the total number of participants was 29, not 58. </P>
+</FOOTNOTES>
+</SOF_TABLE>
+</SOF_TABLES>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES"/>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2009-08-08 00:20:34 -0400" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2009-07-22 13:49:29 -0400" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2008-05-07 17:20:21 -0400" MODIFIED_BY="[Empty name]">MEDLINE search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:49:29 -0400" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Search strategies</HEADING>
+<P>
+<B>MEDLINE</B> <B>(Ovid)</B> <B>1950 to October Week 2 2008 (2481)</B>
+</P>
+<P>1. exp arthritis, rheumatoid/</P>
+<P>2. ((rheumatoid or reumatoid or revmatoid or rheumatic or reumatic or revmatic or rheumat$ or reumat$ or revmarthrit$) adj3 (arthrit$ or artrit$ or diseas$ or condition$ or nodule$)).tw.</P>
+<P>3. (felty$ adj2 syndrome).tw.</P>
+<P>4. (caplan$ adj2 syndrome).tw.</P>
+<P>5. (sjogren$ adj2 syndrome).tw.</P>
+<P>6. (sicca adj2 syndrome).tw.</P>
+<P>7. still$ disease.tw.</P>
+<P>8. or/1-7</P>
+<P>9. exp Self-Help Devices/</P>
+<P>10. exp self-care/</P>
+<P>11. ((self adj help) or selfhelp or (self adj manag$)).tw.</P>
+<P>12. Activities of Daily Living/</P>
+<P>13. orthopedic equipment/</P>
+<P>14. canes/</P>
+<P>15. crutches/</P>
+<P>16. walkers/</P>
+<P>17. (assist$ adj2 (device$ or technolog$)).tw.</P>
+<P>18. atd$.tw.</P>
+<P>19. exp equipment design/</P>
+<P>20. ((dress$ or brush$ or groom$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or hook$ or puller$ or reacher$ or fastener$)).tw.</P>
+<P>21. ((hygiene or clean$ or bath$ or toilet$ or shower$ or baisin$ or sink$ or faucet$ or tap or taps or tube$ or wash$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or turner$)).tw.</P>
+<P>22. Dependent Ambulation/</P>
+<P>23. (cane$ or stick$ or walker$ or crutch$ or frame$ or stroller$ or troll$ or wheelchair$ or scooter$ or tripod$).tw.</P>
+<P>24. ((mobilit$ or ambulat$ or walk$) adj3 (device$ or technolog$ or aid$1 or equipment$)).tw.</P>
+<P>25. ((orthopedic or orthopaedic) adj3 (equipment$ or device$ or aid$1)).tw.</P>
+<P>26. (grab or grip$).tw.</P>
+<P>27. ((kitchen$ or cook$ or cultery or knife or knives or fork$ or spoon$ or utensil$ or tong$ or scissor$) adj3 (accessor$ or adapt$ or adjust$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or opener$)).tw.</P>
+<P>28. (anchorpad$ or antislip or (anti adj slip) or nonslip or (non adj slip) or cushion$ or rest or rests or kneeler$ or mattress$ or board$ or chair$ or bed$ or furniture or seat$ or table or tables).tw.</P>
+<P>29. (climber$ or hoist$ or lift$ or rail$ or ramp$ or reclin$ or stair$).tw.</P>
+<P>30. (cordless or joystick$ or remote$ or timer$).tw.</P>
+<P>31. ((voice or speech) adj control$).tw.</P>
+<P>32. ((communicat$ or computer$) adj3 (device$ or technolog$ or aid$1 or equipment$ or program$)).tw.</P>
+<P>33. (ergotherap$ or ergonomic$).tw.</P>
+<P>34. Gerotechnolog$.tw.</P>
+<P>35. or/9-34</P>
+<P>36. randomized controlled trial.pt.</P>
+<P>37. controlled clinical trial.pt.</P>
+<P>38. intervention studies/</P>
+<P>39. experiment$.tw.</P>
+<P>40. (time adj series).tw.</P>
+<P>41. (pre test or pretest or (posttest or post test)).tw.</P>
+<P>42. random allocation/</P>
+<P>43. impact.tw.</P>
+<P>44. intervention?.tw.</P>
+<P>45. chang$.tw.</P>
+<P>46. evaluation studies/</P>
+<P>47. evaluat$.tw.</P>
+<P>48. effect?.tw.</P>
+<P>49. comparative study.pt.</P>
+<P>50. or/36-49</P>
+<P>51. and/8,35,50</P>
+</SUBSECTION>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2009-08-08 00:20:05 -0400" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2009-07-22 13:42:50 -0400" MODIFIED_BY="[Empty name]">The Cochrane Library search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-08-08 00:20:05 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>The Cochrane Library (Wiley InterScience) 2008, Issue 4</B>
+</P>
+<P>CENTRAL (561)</P>
+<P>DARE (4)</P>
+<P>NHS EED (10)</P>
+<P> #1      MeSH descriptor Arthritis, Rheumatoid explode all trees</P>
+<P>#2      ((rheumatoid or reumatoid or revmatoid or rheumatic or reumatic or revmatic or rheumat* or reumat* or revmarthrit*) near/3 (arthrit* or artrit* or diseas* or condition* or nodule*)):ti,ab</P>
+<P>#3      felty* NEAR/2 syndrome:ti,ab</P>
+<P>#4      caplan* NEAR/2 syndrome:ti,ab</P>
+<P>#5      sjogren* near/2 syndrome:ti,ab</P>
+<P>#6      sicca near/2 syndrome:ti,ab</P>
+<P>#7      still* next disease:ti,ab</P>
+<P>#8      (#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7)</P>
+<P>#9      MeSH descriptor Self-Help Devices explode all trees</P>
+<P>#10    MeSH descriptor Self Care explode all trees</P>
+<P>#11    ((self next help) or selfhelp or (self next manag*)):ti,ab</P>
+<P>#12    MeSH descriptor Activities of Daily Living explode all trees</P>
+<P>#13    MeSH descriptor Orthopedic Equipment, this term only</P>
+<P>#14    MeSH descriptor Canes explode all trees</P>
+<P>#15    MeSH descriptor Crutches explode all trees</P>
+<P>#16    MeSH descriptor Walkers explode all trees</P>
+<P>#17    (assist* near/2 (device* or technolog*)):ti,ab</P>
+<P>#18    atd*:ti,ab</P>
+<P>#19    MeSH descriptor Equipment Design explode all trees</P>
+<P>#20    ((dress* or brush* or groom*) near/3 (accessor* or adapt* or aid* or applia* or assist* or attachment* or device* or elongate* or enlarged or exten* or machine* or manual* or modif* or powered or prolong* or robot* or special* or technical* or handle* or holder* or hook* or puller* or reacher* or fastener*)):ti,ab</P>
+<P>#21    ((hygiene or clean* or bath* or toilet* or shower* or baisin* or sink* or faucet* or tap or taps or tube* or wash*) near/3 (accessor* or adapt* or aid* or applia* or assist* or attachment* or device* or elongate* or enlarged or exten* or machine* or manual* or modif* or powered or prolong* or robot* or special* or technical* or turner*)):ti,ab</P>
+<P>#22    MeSH descriptor Dependent Ambulation, this term only</P>
+<P>#23    (cane* or stick* or walker* or crutch* or frame* or stroller* or troll* or wheelchair* or scooter* or tripod*):ti,ab</P>
+<P>#24    ((mobilit* or ambulat* or walk*) near/3 (device* or technolog* or aid* or equipment*)):ti,ab</P>
+<P>#25    ((orthopedic or orthopaedic) near/3 (equipment* or device* or aid*)):ti,ab</P>
+<P>#26    (grab or grip*):ti,ab</P>
+<P>#27    ((kitchen* or cook* or cultery or knife or knives or fork* or spoon* or utensil* or tong* or scissor*) near/3 (accessor* or adapt* or adjust* or aid* or applia* or assist* or attachment* or device* or elongate* or enlarged or exten* or machine* or manual* or modif* or powered or prolong* or robot* or special* or technical* or handle* or holder* or opener*)):ti,ab</P>
+<P>#28    (anchorpad* or antislip or (anti next slip) or nonslip or (non next slip) or cushion* or rest or rests or kneeler* or mattress* or board* or chair* or bed* or furniture or seat* or table or tables):ti,ab</P>
+<P>#29    (climber* or hoist* or lift* or rail* or ramp* or reclin* or stair*):ti,ab</P>
+<P>#30    (cordless or joystick* or remote* or timer*):ti,ab</P>
+<P>#31    ((voice or speech) next control*):ti,ab</P>
+<P>#32    ((communicat* or computer*) near/3 (device* or technolog* or aid* or equipment* or program*)):ti,ab</P>
+<P>#33    (ergotherap* or ergonomic*):ti,ab</P>
+<P>#34    gerotechnolog*:ti,ab</P>
+<P>#35    (#9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18OR #19 OR #20 OR #21 OR #22 OR #23 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30 OR #31 OR #32 OR #33 OR #34)</P>
+<P>#36    (#8 AND #35) </P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-03" MODIFIED="2009-08-08 00:20:34 -0400" MODIFIED_BY="[Empty name]" NO="3">
+<TITLE MODIFIED="2009-07-22 13:39:38 -0400" MODIFIED_BY="[Empty name]">EMBASE search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-08-08 00:20:34 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>EMBASE (Ovid) 1980 to 2008 Week 41 (1998)</B>
+</P>
+<P>1. exp arthritis, rheumatoid/</P>
+<P>2. ((rheumatoid or reumatoid or revmatoid or rheumatic or reumatic or revmatic or rheumat$ or reumat$ or revmarthrit$) adj3 (arthrit$ or artrit$ or diseas$ or condition$ or nodule$)).tw.</P>
+<P>3. (felty$ adj2 syndrome).tw.</P>
+<P>4. (caplan$ adj2 syndrome).tw.</P>
+<P>5. (sjogren$ adj2 syndrome).tw.</P>
+<P>6. (sicca adj2 syndrome).tw.</P>
+<P>7. still$ disease.tw.</P>
+<P>8. or/1-7</P>
+<P>9. self help/</P>
+<P>10. ((self adj help) or selfhelp or (self adj manag$)).tw.</P>
+<P>11. daily life activity/</P>
+<P>12. exp orthopedic equipment/</P>
+<P>13. (assist$ adj2 (device$ or technolog$)).tw.</P>
+<P>14. atd$.tw.</P>
+<P>15. equipment design/</P>
+<P>16. ((dress$ or brush$ or groom$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or hook$ or puller$ or reacher$ or fastener$)).tw.</P>
+<P>17. ((hygiene or clean$ or bath$ or toilet$ or shower$ or baisin$ or sink$ or faucet$ or tap or taps or tube$ or wash$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or turner$)).tw.</P>
+<P>18. (cane$ or stick$ or walker$ or crutch$ or frame$ or stroller$ or troll$ or wheelchair$ or scooter$ or tripod$).tw.</P>
+<P>19. ((mobilit$ or ambulat$ or walk$) adj3 (device$ or technolog$ or aid$1 or equipment$)).tw.</P>
+<P>20. ((orthopedic or orthopaedic) adj3 (equipment$ or device$ or aid$1)).tw.</P>
+<P>21. (grab or grip$).tw.</P>
+<P>22. ((kitchen$ or cook$ or cultery or knife or knives or fork$ or spoon$ or utensil$ or tong$ or scissor$) adj3 (accessor$ or adapt$ or adjust$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or opener$)).tw.</P>
+<P>23. (anchorpad$ or antislip or (anti adj slip) or nonslip or (non adj slip) or cushion$ or rest or rests or kneeler$ or mattress$ or board$ or chair$ or bed$ or furniture or seat$ or table or tables).tw.</P>
+<P>24. (climber$ or hoist$ or lift$ or rail$ or ramp$ or reclin$ or stair$).tw.</P>
+<P>25. (cordless or joystick$ or remote$ or timer$).tw.</P>
+<P>26. ((voice or speech) adj control$).tw.</P>
+<P>27. ((communicat$ or computer$) adj3 (device$ or technolog$ or aid$1 or equipment$ or program$)).tw.</P>
+<P>28. (ergotherap$ or ergonomic$).tw.</P>
+<P>29. Gerotechnolog$.tw.</P>
+<P>30. or/9-29</P>
+<P>31. 8 and 30</P>
+<P>32. Randomized controlled trial/</P>
+<P>33. (randomised or randomized).tw.</P>
+<P>34. experiment$.tw.</P>
+<P>35. (time adj series).tw.</P>
+<P>36. (pre test or pretest or post test or posttest).tw.</P>
+<P>37. impact.tw.</P>
+<P>38. intervention?.tw.</P>
+<P>39. chang$.tw.</P>
+<P>40. evaluat$.tw.</P>
+<P>41. effect?.tw.</P>
+<P>42. compar$.tw.</P>
+<P>43. (controlled adj study).tw.</P>
+<P>44. or/32-43</P>
+<P>45. Nonhuman/</P>
+<P>46. 44 not 45</P>
+<P>47. 31 and 46 </P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-04" MODIFIED="2009-07-22 13:55:11 -0400" MODIFIED_BY="[Empty name]" NO="4">
+<TITLE MODIFIED="2009-07-22 13:40:43 -0400" MODIFIED_BY="[Empty name]">CINAHL search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:41:12 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>CINAHL (Ovid) 1982 to October Week 3 2008 (791)</B>
+</P>
+<P>1     exp arthritis, rheumatoid/ (6482)</P>
+<P>2     ((rheumatoid or reumatoid or revmatoid or rheumatic or reumatic or revmatic or rheumat$ or reumat$ or revmarthrit$) adj3 (arthrit$ or artrit$ or diseas$ or condition$ or nodule$)).tw. (4988)</P>
+<P>3     (felty$ adj2 syndrome).tw. (4)</P>
+<P>4     (caplan$ adj2 syndrome).tw. (0)</P>
+<P>5     (sjogren$ adj2 syndrome).tw. (309)</P>
+<P>6     (sicca adj2 syndrome).tw. (14)</P>
+<P>7     still$ disease.tw. (39)</P>
+<P>8     or/1-7 (7763)</P>
+<P>9     exp Assistive Technology Devices/ (10923)</P>
+<P>10     exp Self Care/ (13643)</P>
+<P>11     ((self adj help) or selfhelp or (self adj manag$)).tw. (3713)</P>
+<P>12     exp "Activities of Daily Living"/ (16000)</P>
+<P>13     exp "Orthopedic Equipment and Supplies"/ (14262)</P>
+<P>14     (assist$ adj2 (device$ or technolog$)).tw. (2245)</P>
+<P>15     atd$.tw. (106)</P>
+<P>16     exp Equipment Design/ (10631)</P>
+<P>17     ((dress$ or brush$ or groom$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or hook$ or puller$ or reacher$ or fastener$)).tw. (153)</P>
+<P>18     ((hygiene or clean$ or bath$ or toilet$ or shower$ or baisin$ or sink$ or faucet$ or tap or taps or tube$ or wash$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or turner$)).tw. (752)</P>
+<P>19     (cane$ or stick$ or walker$ or crutch$ or frame$ or stroller$ or troll$ or wheelchair$ or scooter$ or tripod$).tw. (26154)</P>
+<P>20     ((mobilit$ or ambulat$ or walk$) adj3 (device$ or technolog$ or aid$1 or equipment$)).tw. (673)</P>
+<P>21     ((orthopedic or orthopaedic) adj3 (equipment$ or device$ or aid$1)).tw. (47)</P>
+<P>22     (grab or grip$).tw. (1675)</P>
+<P>23     ((kitchen$ or cook$ or cultery or knife or knives or fork$ or spoon$ or utensil$ or tong$ or scissor$) adj3 (accessor$ or adapt$ or adjust$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or opener$)).tw. (107)</P>
+<P>24     (anchorpad$ or antislip or (anti adj slip) or nonslip or (non adj slip) or cushion$ or rest or rests or kneeler$ or mattress$ or board$ or chair$ or bed$ or furniture or seat$ or table or tables).tw. (39693)</P>
+<P>25     (climber$ or hoist$ or lift$ or rail$ or ramp$ or reclin$ or stair$).tw. (4428)</P>
+<P>26     (cordless or joystick$ or remote$ or timer$).tw. (2558)</P>
+<P>27     ((voice or speech) adj control$).tw. (22)</P>
+<P>28     ((communicat$ or computer$) adj3 (device$ or technolog$ or aid$1 or equipment$ or program$)).tw. (3214)</P>
+<P>29     (ergotherap$ or ergonomic$).tw. (1495)</P>
+<P>30     Gerotechnolog$.tw. (1)</P>
+<P>31     or/9-30 (129536)</P>
+<P>32     8 and 31 (791)</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-05" MODIFIED="2009-07-22 13:55:08 -0400" MODIFIED_BY="[Empty name]" NO="5">
+<TITLE MODIFIED="2009-07-22 13:41:25 -0400" MODIFIED_BY="[Empty name]">AMED search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:42:19 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>AMED (Ovid) 1985 to October 2008 </B>(310)</P>
+<P> 1     exp Arthritis rheumatoid/ (1506)</P>
+<P>2     ((rheumatoid or reumatoid or revmatoid or rheumatic or reumatic or revmatic or rheumat$ or reumat$ or revmarthrit$) adj3 (arthrit$ or artrit$ or diseas$ or condition$ or nodule$)).tw. (2189)</P>
+<P>3     (felty$ adj2 syndrome).tw. (1)</P>
+<P>4     (caplan$ adj2 syndrome).tw. (0)</P>
+<P>5     (sjogren$ adj2 syndrome).tw. (20)</P>
+<P>6     (sicca adj2 syndrome).tw. (6)</P>
+<P>7     still$ disease.tw. (3)</P>
+<P>8     or/1-7 (2364)</P>
+<P>9     exp disability aids/ (2357)</P>
+<P>10     self care/ (1047)</P>
+<P>11     ((self adj help) or selfhelp or (self adj manag$)).tw. (662)</P>
+<P>12     "activities of daily living"/ (3430)</P>
+<P>13     orthopedic equipment/ or canes/ or crutches/ or exp orthotic devices/ or   walkers/ (1797)</P>
+<P>14     (assist$ adj2 (device$ or technolog$)).tw. (762)</P>
+<P>15     atd$.tw. (31)</P>
+<P>16     exp equipment design/ (4101)</P>
+<P>17     ((dress$ or brush$ or groom$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or hook$ or puller$ or reacher$ or fastener$)).tw. (25)</P>
+<P>18     ((hygiene or clean$ or bath$ or toilet$ or shower$ or baisin$ or sink$ or faucet$ or tap or taps or tube$ or wash$) adj3 (accessor$ or adapt$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or turner$)).tw. (129)</P>
+<P>19     (cane$ or stick$ or walker$ or crutch$ or frame$ or stroller$ or troll$ or wheelchair$ or scooter$ or tripod$).tw. (4810)</P>
+<P>20     ((mobilit$ or ambulat$ or walk$) adj3 (device$ or technolog$ or aid$1 or equipment$)).tw. (541)</P>
+<P>21     ((orthopedic or orthopaedic) adj3 (equipment$ or device$ or aid$1)).tw. (758)</P>
+<P>22     (grab or grip$).tw. (791)</P>
+<P>23     ((kitchen$ or cook$ or cultery or knife or knives or fork$ or spoon$ or utensil$ or tong$ or scissor$) adj3 (accessor$ or adapt$ or adjust$ or aid$ or applia$ or assist$ or attachment$ or device$ or elongate$ or enlarged or exten$ or machine$ or manual$ or modif$ or powered or prolong$ or robot$ or special$ or technical$ or handle$ or holder$ or opener$)).tw. (26)</P>
+<P>24     (anchorpad$ or antislip or (anti adj slip) or nonslip or (non adj slip) or cushion$ or rest or rests or kneeler$ or mattress$ or board$ or chair$ or bed$ or furniture or seat$ or table or tables).tw. (5698)</P>
+<P>25     (climber$ or hoist$ or lift$ or rail$ or ramp$ or reclin$ or stair$).tw. (2151)</P>
+<P>26     (cordless or joystick$ or remote$ or timer$).tw. (303)</P>
+<P>27     ((voice or speech) adj control$).tw. (8)</P>
+<P>28     ((communicat$ or computer$) adj3 (device$ or technolog$ or aid$1 or equipment$ or program$)).tw. (699)</P>
+<P>29     (ergotherap$ or ergonomic$).tw. (572)</P>
+<P>30     Gerotechnolog$.tw. (0)</P>
+<P>31     or/9-30 (23426)</P>
+<P>32     8 and 31 (310) </P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-06" MODIFIED="2009-07-22 13:44:23 -0400" MODIFIED_BY="[Empty name]" NO="6">
+<TITLE MODIFIED="2009-07-22 13:44:23 -0400" MODIFIED_BY="[Empty name]">Web of Science search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:43:59 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>Web of Science (735)</B>
+</P>
+<P>#1 Topic=(((rheumatoid or reumatoid or revmatoid or rheumatic or reumatic or revmatic or rheumat* or reumat* or revmarthrit*) and (arthrit* or artrit* or diseas* or condition* or nodule*))) OR Topic=((felty* or caplan* or sjogren* or sicca* or still*) and (disease or syndrome))</P>
+<P>#2 Topic=("self help" or "self care" or "self manag*" or selfhelp or selfcare) OR Topic=("Activities of Daily Living") OR Topic=("Assist* device*" or "assist* technolog*" or adt*)</P>
+<P>#3 Topic=(ergotherap* or ergonomic* or gerotechnolog*)</P>
+<P>#4 #3 OR #2</P>
+<P>#5 #4 AND #1</P>
+<P>#6 Topic=(random* or "control* trial*" or intervention* or experiment* or "time series" or "pre test" or pretest or "post test" or posttest or impact* or chang* or evaluat* or effect* or comparat*)</P>
+<P>#7 #6 AND #5</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-07" MODIFIED="2009-07-22 13:44:45 -0400" MODIFIED_BY="[Empty name]" NO="7">
+<TITLE MODIFIED="2009-07-22 13:44:14 -0400" MODIFIED_BY="[Empty name]">PEDro search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:44:45 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>PEDro (7)</B>
+</P>
+<P>Search 1</P>
+<P>Subdiscipline = Ergonomics and Occupational Health + Method = Clinical Trial</P>
+<P>Search 2 Subdiscipline = Orthopaedics + Abstract + Title = (arthrit* or rheumat*) *+ Method = Clinical Trial</P>
+<P>Search 3</P>
+<P>Abstract + Title = (assist* adt* or ergonomic* or self help or self manage*or equip*) + Method = Clinical Trial </P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-08" MODIFIED="2009-07-22 13:45:29 -0400" MODIFIED_BY="[Empty name]" NO="8">
+<TITLE MODIFIED="2009-07-22 13:45:29 -0400" MODIFIED_BY="[Empty name]">OT Seeker search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:45:20 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>OT Seeker (16)</B>
+</P>
+<P>Search 1</P>
+<P>Intervention = Assistive technology/Adaptive Equipment + Diagnosis/Subdiscipline = Rheumatology</P>
+<P>Search 2</P>
+<P>Intervention = Basic Activities of Daily Living + Diagnosis/Subdiscipline = Rheumatology</P>
+<P>Search 3</P>
+<P>Intervention = Ergonomics + Diagnosis/Subdiscipline = Rheumatology</P>
+<P>Search 4</P>
+<P>Intervention = Home Modification/Access + Diagnosis/Subdiscipline = Rheumatology</P>
+<P>Search 5</P>
+<P>Intervention = Instrumental Activities of Daily Living + Diagnosis/Subdiscipline = Rheumatology</P>
+<P>Search 6</P>
+<P>Intervention = Skill Acquisition/Training + Diagnosis/Subdiscipline = Rheumatology</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-09" MODIFIED="2009-07-22 14:03:18 -0400" MODIFIED_BY="[Empty name]" NO="9">
+<TITLE MODIFIED="2009-07-22 13:46:53 -0400" MODIFIED_BY="[Empty name]">New York Academy of Medicine Grey Literature Collection search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:47:14 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>New York Academy of Medicine Grey Literature Collection (17)</B>
+</P>
+<P>Keyword = assistive or rheumatoid or arthritis or rheumatic or adt or ergotherapy or ergonomic or device* or "Activities of Daily Living" or &#8220;self care&#8221; or &#8220;Self management&#8221;</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-10" MODIFIED="2009-07-22 14:04:06 -0400" MODIFIED_BY="[Empty name]" NO="10">
+<TITLE MODIFIED="2009-07-22 13:48:08 -0400" MODIFIED_BY="[Empty name]">OpenSIGLE search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:48:32 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>OpenSIGLE (15)</B>
+</P>
+<P>In Biological and Medical Sciences Collection</P>
+<P>Keyword = &#8220;assistive devices&#8221; (8, 0 relevant)</P>
+<P>Keyword = &#8220;assistive technology&#8221; (1, Not relevant)</P>
+<P>Keyword =  &#8220;assistive technologies&#8221; (1, Not relevant)</P>
+<P>Keyword = ergotherapy (1)</P>
+<P>Keyword = ergonomic AND rheum (2)</P>
+<P>Keyword = ergonomic AND arthrit (2)</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-11" MODIFIED="2009-07-22 14:04:37 -0400" MODIFIED_BY="[Empty name]" NO="11">
+<TITLE MODIFIED="2009-07-22 13:49:02 -0400" MODIFIED_BY="[Empty name]"> Google Scholar and ISI Web of Knowledge Cited Reference Search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:49:38 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>Google Scholar and ISI Web of Knowledge Cited Reference Search</B>
+</P>
+<P> A list of the most relevant references from the main search results was used to search these databases.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-12" MODIFIED="2009-07-22 14:04:37 -0400" MODIFIED_BY="[Empty name]" NO="12">
+<TITLE MODIFIED="2009-07-22 13:47:33 -0400" MODIFIED_BY="[Empty name]">British Library Catalogue search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:47:52 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>British Library Catalogue</B> <B>(148)</B>
+</P>
+<P>Keyword = assistive devices OR assistive technology</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-13" MODIFIED="2009-07-22 14:03:40 -0400" MODIFIED_BY="[Empty name]" NO="13">
+<TITLE MODIFIED="2009-07-22 13:45:52 -0400" MODIFIED_BY="[Empty name]">Disseration abstracts search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-07-22 13:46:22 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<B>Dissertation Abstracts (39)</B>
+</P>
+<P>rheumatoid or reumatoid or revmatoid or rheumatic or reumatic or revmatic or rheumat* or reumat* or revmarthrit* in Citation or Abstract</P>
+<P>AND</P>
+<P>"self help" or "self care" or "self manag*" or selfhelp or selfcare or "Activities of Daily Living"or assist* device* or assist* technolog* or adt* or ergotherap* or ergonomic* or gerotechnolog* in in Citation or Abstract</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

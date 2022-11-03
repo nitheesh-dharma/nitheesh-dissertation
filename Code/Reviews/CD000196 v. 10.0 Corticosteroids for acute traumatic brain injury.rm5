@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD000196.pub2" GROUP_ID="INJ" ID="580599090910490151" MERGED_FROM="" MODIFIED="2009-05-12 16:46:56 +0200" MODIFIED_BY="Emma Sydenham" REVIEW_NO="001" REVMAN_SUB_VERSION="5.0.20" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="10.0">
+<COVER_SHEET MODIFIED="2009-05-12 16:46:56 +0200" MODIFIED_BY="Emma Sydenham">
+<TITLE>Corticosteroids for acute traumatic brain injury</TITLE>
+<CONTACT MODIFIED="2009-05-12 16:46:56 +0200" MODIFIED_BY="Emma Sydenham"><PERSON ID="7088" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Phil</FIRST_NAME><LAST_NAME>Alderson</LAST_NAME><POSITION>Associate Guidelines Programme Director</POSITION><EMAIL_1>Philip.Alderson@nice.org.uk</EMAIL_1><ADDRESS><ORGANISATION>National Institute for Health and Clinical Excellence</ORGANISATION><ADDRESS_1>Level 1A, City Tower,</ADDRESS_1><ADDRESS_2>Piccadilly Plaza</ADDRESS_2><CITY>Manchester</CITY><ZIP>M1 4BD</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 (0) 161 870 3107</PHONE_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2009-05-12 16:46:56 +0200" MODIFIED_BY="Emma Sydenham"><PERSON ID="7088" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Phil</FIRST_NAME><LAST_NAME>Alderson</LAST_NAME><POSITION>Associate Guidelines Programme Director</POSITION><EMAIL_1>Philip.Alderson@nice.org.uk</EMAIL_1><ADDRESS><ORGANISATION>National Institute for Health and Clinical Excellence</ORGANISATION><ADDRESS_1>Level 1A, City Tower,</ADDRESS_1><ADDRESS_2>Piccadilly Plaza</ADDRESS_2><CITY>Manchester</CITY><ZIP>M1 4BD</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 (0) 161 870 3107</PHONE_1></ADDRESS></PERSON><PERSON ID="8053" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Ian</FIRST_NAME><LAST_NAME>Roberts</LAST_NAME><POSITION>Professor of Epidemiology &amp; Public Health</POSITION><EMAIL_1>ian.roberts@lshtm.ac.uk</EMAIL_1><URL>http://injuries.cochrane.org</URL><ADDRESS><DEPARTMENT>Cochrane Injuries Group</DEPARTMENT><ORGANISATION>London School of Hygiene &amp; Tropical Medicine</ORGANISATION><ADDRESS_1>North Courtyard</ADDRESS_1><ADDRESS_2>Keppel Street</ADDRESS_2><CITY>London</CITY><ZIP>WC1E 7HT</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 20 7958 8128</PHONE_1><FAX_1>+44 20 7299 4663</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2009-05-05 15:58:51 +0100" MODIFIED_BY="Emma M Sydenham">
+<UP_TO_DATE>
+<DATE DAY="7" MONTH="1" YEAR="2008"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="7" MONTH="1" YEAR="2008"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="13" MONTH="7" YEAR="2011"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="1997"/>
+<REVIEW_PUBLISHED ISSUE="3" YEAR="1997"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2005"/>
+</DATES>
+<WHATS_NEW MODIFIED="2009-05-05 16:00:03 +0100" MODIFIED_BY="Emma M Sydenham">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2009-05-05 16:00:03 +0100" MODIFIED_BY="Emma M Sydenham">
+<DATE DAY="7" MONTH="1" YEAR="2008"/>
+<DESCRIPTION>
+<P>New studies sought but none found.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2009-05-05 15:59:05 +0100" MODIFIED_BY="Emma M Sydenham">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-05-05 15:59:05 +0100" MODIFIED_BY="Emma M Sydenham">
+<DATE DAY="7" MONTH="7" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-07-07 17:03:36 +0100" MODIFIED_BY="Emma M Sydenham">
+<DATE DAY="14" MONTH="2" YEAR="2006"/>
+<DESCRIPTION>
+<P>The finalised data for CRASH 2005 have been incorporated.<BR/>
+</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-07-07 17:00:43 +0100" MODIFIED_BY="Emma M Sydenham">
+<DATE DAY="1" MONTH="11" YEAR="2005"/>
+<DESCRIPTION>
+<P>New studies sought but none found.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Institute of Child Health, University of London</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>London School of Hygiene and Tropical Medicine</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>NHS R&amp;D Programme</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>NHS R&amp;D Programme, Mother and Child Health</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2009-05-12 15:38:02 +0100" MODIFIED_BY="Emma M Sydenham">
+<SUMMARY>
+<TITLE>Corticosteroids to treat brain injury</TITLE>
+<SUMMARY_BODY>
+<P>Traumatic brain injury is a leading cause of death and disability. After the injury the brain may swell, causing a potentially fatal condition called raised intracranial pressure (ICP). Corticosteroid drugs have been widely used, for many years, to treat patients with brain injury because they are thought to reduce intracranial pressure. Some examples of corticosteroids are dexamethasone and methylprednisolone. </P>
+<P>The review authors searched the medical literature to determine how effective and safe corticosteroids are for treating brain injury. They focused their search on randomised controlled trials in which one group of people received a medical treatment (corticosteroids) and was compared with a similar group who received a different treatment or no treatment other than standard care. The review authors found 20 of these studies with 12,303 participants. When the review was first done the results of the research were inconclusive. A new large study with about 80% of the total participants was completed by the time of the 2006 update of this review. This study, called CRASH, showed a significant increase in number of deaths in patients given steroids compared with patients who received no treatment. The significant increase in deaths with steroids suggests that steroids should no longer be routinely used in people with traumatic head injury.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2009-05-06 14:53:05 +0100" MODIFIED_BY="Karen Blackhall">
+<ABS_BACKGROUND>
+<P>Traumatic brain injury is a leading cause of death and disability. Corticosteroids have been widely used in treating people with traumatic brain injury.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To quantify the effectiveness and safety of corticosteroids in the treatment of acute traumatic brain injury.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2009-05-06 14:53:05 +0100" MODIFIED_BY="Karen Blackhall">
+<P>We searched: CENTRAL (The Cochrane Library 2007, Issue 4), MEDLINE (Ovid SP), PubMed [www.ncbi.nlm.nih.gov/sites/entrez/], EMBASE (Ovid SP) and PsycINFO (Ovid SP). The searches were last updated in January 2008. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomised controlled trials of corticosteroid use in acute traumatic brain injury with adequate or unclear allocation concealment.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Both authors independently scored quality of allocation concealment. Study authors were contacted for additional information. One author independently extracted data on numbers of participants randomised, numbers lost to follow up, length of follow up, case fatality rates, disablement, infections and gastrointestinal bleeds and this was checked by the other author. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>We identified 20 trials with 12,303 randomised participants. The effect of corticosteroids on the risk of death was reported in 17 included trials. Due to significant heterogeneity we did not calculate a pooled estimate of the risk of death. The largest trial, with about 80% of all randomised participants, found a significant increase in the risk ratio of death with steroids 1.15 (95% CI 1.07 to 1.24) and a relative risk of death or severe disability of 1.05 (95% CI 0.99 to 1.10). For infections the pooled risk ratio from five trials was 1.03 (95% CI 0.99 to 1.07) and for the ten trials reporting gastrointestinal bleeding 1.23 (95% CI 0.91 to 1.67). </P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>In the absence of a meta-analysis, we feel most weight should be placed on the result of the largest trial. The increase in mortality with steroids in this trial suggest that steroids should no longer be routinely used in people with traumatic head injury.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2009-05-12 15:38:02 +0100" MODIFIED_BY="Emma M Sydenham">
+<BACKGROUND MODIFIED="2009-05-12 15:37:29 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Traumatic brain injury is a leading cause of premature death and disability. Road crashes account for the majority of fatal head injuries (<LINK REF="REF-Jennett-1996" TYPE="REFERENCE">Jennett 1996</LINK>). Although road death rates are falling in most industrialised countries, in the rapidly motorising Asian countries they are rising, and will almost certainly continue to do so. Road death rates per head in China are already similar to those in the United States, in spite of the fact that there are only five vehicles per 1,000 population in China, compared with 770 vehicles per 1,000 population in the US (<LINK REF="REF-Roberts-1995" TYPE="REFERENCE">Roberts 1995</LINK>). Overall, about 75% of the estimated 850,000 road crash deaths each year occur in the developing world (<LINK REF="REF-Murray-1994" TYPE="REFERENCE">Murray 1994</LINK>).</P>
+<P>In the US, the incidence of brain injury related disability is estimated to be 33 new cases/100,000 people per year (<LINK REF="REF-Kraus-1993" TYPE="REFERENCE">Kraus 1993</LINK>). Since this often occurs in young people and is long term, traumatic brain injury related disability is a major cause of ill health worldwide.</P>
+<P>In 1961 Galicich and French reported rapid and significant improvement in response to corticosteroids in 28 of 34 people with cerebral oedema either due to brain tumours, or post-operative (<LINK REF="REF-Galicich-1961" TYPE="REFERENCE">Galicich 1961</LINK>). This led to their use in other intracranial problems characterized by raised intracranial pressure, including their use in severe head injury (<LINK REF="REF-Pickard-1993" TYPE="REFERENCE">Pickard 1993</LINK>). Eighty percent of patients with fatal head injuries show evidence of increased intracranial pressure at necropsy (<LINK REF="REF-Miller-1992" TYPE="REFERENCE">Miller 1992</LINK>).</P>
+<P>For a problem as common as brain injury, even a moderate reduction in mortality or disability from an intervention as widely practicable as corticosteroids would be important. There have been a number of randomised controlled trials of corticosteroids in head injury with apparently conflicting findings. Continuing uncertainty about the effects of corticosteroids for this indication is reflected in substantial variation in their use. A recent UK study found that corticosteroids were used in just under half of the intensive care units surveyed (<LINK REF="REF-Jeevaratnam-1996" TYPE="REFERENCE">Jeevaratnam 1996</LINK>).</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2008-07-08 13:11:55 +0100" MODIFIED_BY="Emma M Sydenham">
+<UL>
+<LI>To quantify the effectiveness of corticosteroids in reducing mortality and morbidity in people with acute traumatic brain injury.</LI>
+<LI>To quantify the incidence of side effects of the use of corticosteroids.</LI>
+<LI>To quantify the economic effects of corticosteroid use in this situation.</LI>
+</UL>
+</OBJECTIVES>
+<METHODS MODIFIED="2009-05-12 15:38:02 +0100" MODIFIED_BY="Emma M Sydenham">
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>We sought to identify all randomised controlled trials of a corticosteroid drug versus any control in the treatment of acute traumatic brain injury. Studies using a quasi random form of allocation were excluded from the review.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>People of all ages with clinically diagnosed acute traumatic brain injury secondary to head injury who were treated with steroids or control within seven days of the injury. All severities of head injury were included.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>The experimental intervention was corticosteroids (those steroids with predominantly glucocorticoid effects, namely prednisolone, betamethasone, cortisone, dexamethasone, hydrocortisone, methylprednisolone, prednisone and triamcinolone) administered in any dose by any route for any duration started within seven days of the injury. Trials with these interventions were included irrespective of other treatments used.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>All causes of case fatality, any valid and reliable measure of neurological functioning, any other valid and reliable quality of life measures and economic outcomes were considered relevant if available. We sought numbers of infections (however defined) and significant gastrointestinal bleeds (however defined).</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2009-05-12 15:38:02 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>The searches were not restricted by date, language or publication status.</P>
+<ELECTRONIC_SEARCHES MODIFIED="2009-05-12 15:38:02 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>We searched the following databases:</P>
+<UL>
+<LI>CENTRAL (The Cochrane Library 2007, Issue 4);</LI>
+<LI>MEDLINE (Ovid SP) 1950 to Nov (week 2) 2007;</LI>
+<LI>PubMed [www.ncbi.nlm.nih.gov/sites/entrez/] (searched 7 Jan 2008: added to PubMed in the last 60 days);</LI>
+<LI>EMBASE (Ovid SP) 1980 to (week 1) Jan 2008;</LI>
+<LI>PsycINFO (Ovid SP) 1806 to April 2007.</LI>
+</UL>
+<P>The search strategies used for previous versions of this review can be found in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>. The strategies used for this update can be found in <LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK>.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2009-05-06 15:01:18 +0100" MODIFIED_BY="Karen Blackhall">
+<P>We also searched specialised databases, handsearched journals and contacted trialists.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2009-05-11 14:43:37 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>We each extracted the following information independently from each trial: strategy for allocation concealment, number of randomised patients, duration of follow up and number lost to follow up. The major outcome data sought were numbers of deaths and numbers of people disabled at the end of the study period, using the Glasgow Outcome Scale (<LINK REF="REF-Jennett-1975" TYPE="REFERENCE">Jennett 1975</LINK>) to assess the neurological outcome; the categories for persistent vegetative state and moderate disability were combined into 'disability' for this review. This enabled inclusion of the one trial which did not use the Glasgow Outcome Scale but a similar ordinal categorisation of function. We also extracted data on side effects or complications where these were reported, using the authors' definitions of these complications.</P>
+<P>Since there is evidence that the quality of allocation concealment particularly affects the results of studies (<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>), each of us scored this quality on the scale used by Higgins (<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>) as shown below, assigning 'No' to poorest quality and 'Yes' to best quality:</P>
+<UL>
+<LI>No = trials in which concealment was inadequate (such as alternation or reference to case record numbers or to dates of birth);</LI>
+<LI>Unclear = trials in which the authors either did not report an allocation concealment approach at all or reported an approach that did not fall into one of the other categories;</LI>
+<LI>Yes = trials deemed to have taken adequate measures to conceal allocation (i.e. central randomizations; numbered or coded bottles or containers; drugs prepared by the pharmacy; serially numbered, opaque, sealed envelopes; or other description that contained elements convincing of concealment).</LI>
+</UL>
+<P>If the method used to conceal allocation was not clearly reported, we contacted the author whenever possible, for clarification. We then compared the scores allocated and resolved differences by discussion.</P>
+<P>We calculated relative risks and 95% confidence intervals for mortality for each trial on an intention to treat basis. Heterogeneity between trials was tested using a chi-squared test, where P less than or equal to 0.05 was taken to indicate significant heterogeneity. As long as statistical heterogeneity did not exist, for dichotomous data, we calculated summary relative risks and 95% confidence intervals using a fixed-effect model.</P>
+<SUBSECTION>
+<HEADING LEVEL="4">2004 update</HEADING>
+<P>For the October 2004 update of the review, the Cochrane Injuries Group staff searched the Group's register for more trials but found none. In October 2004, the initial results of the CRASH trial, previously listed as an ongoing study, were published. Since Ian Roberts was a principal investigator on this trial, Phil Alderson extracted data and updated the review, with Ian Roberts checking for correctness.</P>
+<P>The inclusion of the CRASH trial introduced significant heterogeneity, and the original review's methods section did not clearly specify how heterogeneity would be investigated. It was therefore decided that the only investigation of heterogeneity would be to undertake a sensitivity analysis, removing those trials with less than adequate allocation concealment. If that failed to remove heterogeneity, the trials would not be pooled in the review, and reasons for heterogeneity suggested but not examined formally.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2006 update</HEADING>
+<P>Searches were repeated by the Cochrane Injuries Group in November 2005. The final results of CRASH are now available and have been included. No other new data were identified by the searches. Phil Alderson added the new data and updated the text of the review. As the results of CRASH dominate the other trial results for death or severe disability, the results were not pooled.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2009 update</HEADING>
+<P>The search was updated by the Cochrane Injuries Group in January 2008. No new trials were found; the results and conclusions remain the same.</P>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2009-05-11 14:49:11 +0100" MODIFIED_BY="Emma M Sydenham">
+<STUDY_DESCRIPTION>
+<P>The combined search strategies identified 19 trials which satisfied the inclusion criteria. The earliest was from 1972 and the most recent from 1995. There were two reports of the same trial (see <LINK REF="STD-Fanconi-1988" TYPE="STUDY">Fanconi 1988</LINK>). Two were previously unpublished studies for which outcome data were obtained (<LINK REF="STD-Hernesniemi-1979" TYPE="STUDY">Hernesniemi 1979</LINK>; <LINK REF="STD-Pitts-1980" TYPE="STUDY">Pitts 1980</LINK>). For one other unpublished study (<LINK REF="STD-Tahara-1972" TYPE="STUDY">Tahara 1972</LINK>) the authors were unable to provide outcome data, and in one other we have been unable to trace the author (<LINK REF="STD-Hoyt-1972" TYPE="STUDY">Hoyt 1972</LINK>). The 2004 update added one more trial (<LINK REF="STD-CRASH-2005" TYPE="STUDY">CRASH 2005</LINK>), which is the largest of all the trials in the review.</P>
+<P>A total of 11,792 participants are included in outcome of death.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2009-05-11 14:49:11 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Methodological quality was variable &#8722; <I>see</I> table '<LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>' for details.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2009-05-11 14:43:50 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>The effect of corticosteroids on the risk of death was reported in 17 included trials. There was significant heterogeneity for this outcome when using a fixed-effect risk ratio model (Chi<SUP>2</SUP> 26.46, P = 0.03, I<SUP>2</SUP> 43%). Excluding the trials with less than adequate allocation concealment failed to remove the heterogeneity, and so the trials were not pooled. The largest single trial (<LINK REF="STD-CRASH-2005" TYPE="STUDY">CRASH 2005</LINK>) reported a risk ratio for death of 1.18 (95% CI 1.09 to 1.27), indicating a significant increase in death with steroids.</P>
+<P>The CRASH trial reported a relative risk of 1.05 (95%CI 0.99 to 1.10) for death or severe disability. There was no significant heterogeneity between the results from the 10 trials reporting this outcome, but it was decided not to pool the results as the data from CRASH dominate the other results.</P>
+<P>Five trials reported infections, and the pooled relative risk was 1.03 (95% CI 0.99 to 1.07) making a decrease in infectious complications unlikely with steroids. For the ten trials reporting gastrointestinal bleeding the pooled relative risk was 1.23 (95% CI 0.91 to 1.67) which neither confirms nor excludes an important increase or decrease in this complication. For both these outcomes, data on about 2% of the CRASH trial participants were missing, and these patients have been excluded from the analysis. Sensitivity analysis was not undertaken due to the low proportion and because it had not been prespecified.</P>
+<P>No study included economic data.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2009-05-11 14:44:04 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>This systematic review summarises the evidence from randomised controlled trials of corticosteroids in acute traumatic brain injury.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Methodological issues</HEADING>
+<P>The inclusion of an EMBASE search identified one study not found on MEDLINE (<LINK REF="STD-Tahara-1972" TYPE="STUDY">Tahara 1972</LINK>). Contact with trialists enabled us to include data from two large unpublished studies (<LINK REF="STD-Hernesniemi-1979" TYPE="STUDY">Hernesniemi 1979</LINK>; <LINK REF="STD-Pitts-1980" TYPE="STUDY">Pitts 1980</LINK>), but not from others (<LINK REF="STD-Hoyt-1972" TYPE="STUDY">Hoyt 1972</LINK>; <LINK REF="STD-Tahara-1972" TYPE="STUDY">Tahara 1972</LINK>).</P>
+<P>The addition of the <LINK REF="STD-CRASH-2005" TYPE="STUDY">CRASH 2005</LINK> trial's early results introduced significant heterogeneity. A sensitivity analysis based on the quality of allocation concealment failed to remove this. The most obvious reason for the presence of heterogeneity is the contrasting results of the <LINK REF="STD-Faupel-1976" TYPE="STUDY">Faupel 1976</LINK> and <LINK REF="STD-CRASH-2005" TYPE="STUDY">CRASH 2005</LINK> trials. It is difficult to come up with a convincing reason post hoc for excluding either of these trials from a meta-analysis. We noted in a previous version of this review that in the Faupel trial "...the outcome was assessed at discharge", yet overall 19% of the participants were classified as "unconscious stabilized". The apparently short follow up period may account for the incongruous result. Other sources of variation between trials may include severity and pathology of the head injury, variations in corticosteroid regimens (e.g. drug, dose, route) and temporal trends in the use of other interventions. The CRASH trial was stopped early because of the apparent harmful effect of steroids, and stopping trials because of extreme results may select extreme results by chance. Trials of the use of corticosteroids in spinal cord injury suggest that the timing of administration is important (<LINK REF="REF-Bracken-1990" TYPE="REFERENCE">Bracken 1990</LINK>), but the CRASH trial followed the protocol from spinal cord trials closely, so this is unlikely to explain the excess mortality in the CRASH trial. However, as none of these hypotheses was listed in the original review methods, we think it is safer not to pool the trial results.</P>
+<P>There is no clear evidence of a difference in the occurrence of infectious complications and the risk of gastrointestinal bleeding with steroids, making these an unlikely explanation of the increased mortality in the CRASH trial.</P>
+<P>In the absence of a meta-analysis, interpretation of the whole body of evidence has to be qualitative. The high methodological quality and large size of the CRASH trial suggest that its result should be the main basis of a summary. This is reinforced by its finding of a significant increase in mortality, which should not be ignored despite the more optimistic results in some other trials.</P>
+</SUBSECTION>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>The results of the large CRASH trial suggest that steroids should not be used in head injury, as they appear to increase mortality. Despite the heterogeneity, we feel that the results of this trial are the most relevant to current practice and should be the basis for clinical decisions, rather than any of the earlier trials or their meta-analysis.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>The mechanism of harm is unclear and there will need to be a reassessment of the understanding of the pathophysiology of traumatic brain injury. There seems no reason to start other trials. </P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We wish to acknowledge help and advice from Dr Iain Chalmers in preparing this review, Julia Langham, Leah Lepage and Yoichi Nagayama in identifying trials, Dr Anthony Rodgers and Dr Colin Baigent for comments on a draft, Liz Norman and Jini Hetherington for proof reading and those trialists who we were able to contact for their cooperation.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>Ian Roberts collaborated on the design and conduct of the CRASH trial of corticosteroids in head injury, funded by the UK Medical Research Council.</P>
+<P>Philip Alderson has no known conflict of interest.<BR/> </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Both authors selected studies for inclusion, extracted data and wrote the text. Both authors contacted trialists for further information.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2009-05-11 14:50:32 +0100" MODIFIED_BY="Emma M Sydenham">
+<STUDIES MODIFIED="2009-05-11 14:50:32 +0100" MODIFIED_BY="Emma M Sydenham">
+<INCLUDED_STUDIES MODIFIED="2009-05-11 14:50:32 +0100" MODIFIED_BY="Emma M Sydenham">
+<STUDY DATA_SOURCE="PUB" ID="STD-Alexander-1972" NAME="Alexander 1972" YEAR="1972">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Alexander E</AU>
+<TI>Medical management of closed head injuries</TI>
+<SO>Clinical Neurosurgery</SO>
+<YR>1972</YR>
+<VL>19</VL>
+<PG>210-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Braakman-1983" NAME="Braakman 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Braakman R, Schouten HJA, Blaauw-van Dishoeck M, Minderhoud JM</AU>
+<TI>Megadose steroids in severe head injury</TI>
+<SO>Journal of Neurosurgery</SO>
+<YR>1983</YR>
+<VL>58</VL>
+<PG>326-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Braun-1986" NAME="Braun 1986" YEAR="1986">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Braun SR, Levin AB, Clark KL</AU>
+<TI>Role of corticosteroids in the development of pneumonia in mechanically ventilated head-trauma victims</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1986</YR>
+<VL>14</VL>
+<PG>198-201</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chacon-1987" NAME="Chacon 1987" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chacon L</AU>
+<TI>Edema cerebral en traumatismo craneoencefalico severo en ninos tatados con y sin dexametasona</TI>
+<SO>Medicina Critica Venezolana</SO>
+<YR>1987</YR>
+<VL>2</VL>
+<PG>75-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cooper-1979" NAME="Cooper 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cooper PR, Moody S, Clark WK, Kirkpatrick J, Maravilla K, Gould AL et al</AU>
+<TI>Dexamethasone and severe head injury</TI>
+<SO>Journal of Neurosurgery</SO>
+<YR>1979</YR>
+<VL>51</VL>
+<PG>307-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-CRASH-2005" MODIFIED="2009-05-11 14:44:36 +0100" MODIFIED_BY="Emma M Sydenham" NAME="CRASH 2005" YEAR="2005">
+<REFERENCE MODIFIED="2009-05-11 14:44:36 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>CRASH Trial Collaborators</AU>
+<TI>Effect of intravenous corticosteroids on death within 14 days in 10008 adults with clinically significant head injury (MRC CRASH trial): randomised placebo-controlled trial</TI>
+<SO>Lancet</SO>
+<YR>2004</YR>
+<VL>364</VL>
+<PG>1321-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>CRASH Trial Collaborators</AU>
+<TI>Final results of MRC CRASH, a randomised placebo-controlled trial of intravenous corticosteroid in adults with head injury - outcomes at 6 months</TI>
+<SO>Lancet</SO>
+<YR>2005</YR>
+<VL>365</VL>
+<PG>1957-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dearden-1986" NAME="Dearden 1986" YEAR="1986">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dearden NM, Gibson JS, McDowall DG, Gibson RM, Cameron MM</AU>
+<TI>Effect of high dose dexamethasone on outcome from severe head injury</TI>
+<SO>Journal of Neurosurgery</SO>
+<YR>1986</YR>
+<VL>64</VL>
+<PG>81-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Faupel-1976" NAME="Faupel 1976" YEAR="1976">
+<REFERENCE PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Faupel G, Reulen HJ, Muller D, Schurmann K</AU>
+<TI>Double-blind study on the effects of steroids on severe closed head injury</TI>
+<SO>Dynamics of Brain Edema</SO>
+<YR>1976</YR>
+<PG>337-43</PG>
+<ED>Pappius MM, Feindel W</ED>
+<PB>Springer-Verlag</PB>
+<CY>Berlin</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Faupel G, Reulen HJ, Muller D, Schurmann</AU>
+<TI>Clinical double blind study on the effects of dexamethasone on severe closed head injuries</TI>
+<SO>Acta neurochirurgica</SO>
+<YR>1977</YR>
+<VL>36</VL>
+<PG>277-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Faupel G</AU>
+<TI>The influence of dexamethasone on the midbrain syndrome after severe head injury</TI>
+<SO>Treatment of cerebral edema</SO>
+<YR>1982</YR>
+<PG>107-14</PG>
+<ED>Hartmann A, Brock M</ED>
+<PB>Springer-Verlag</PB>
+<CY>Berlin</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gaab-1994" NAME="Gaab 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gaab MR, Trost HA, Alcantara A, Karimi-Nejad A, Moskopp D, Schultheiss R et al</AU>
+<TI>"Ultrahigh" dexamethasone in acute brain injury</TI>
+<SO>Zentralblatt fur Neurochirurgie</SO>
+<YR>1994</YR>
+<VL>55</VL>
+<PG>135-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Giannotta-1984" NAME="Giannotta 1984" YEAR="1984">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Giannotta SL, Weiss MH, Apuzzo MLJ, Martin E</AU>
+<TI>High dose glucocorticoids in the management of severe head injury</TI>
+<SO>Neurosurgery</SO>
+<YR>1984</YR>
+<VL>15</VL>
+<PG>497-501</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Grumme-1995" MODIFIED="2009-05-11 14:44:56 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Grumme 1995" YEAR="1995">
+<REFERENCE MODIFIED="2009-05-11 14:44:56 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Grumme T, Baethmann A, Kolodziejczyk D, Krimmer J, Fischer M, Eisenhart Rothe BV, et al</AU>
+<TI>Treatment of patients with severe head injury by triamcinolone: a prospective, controlled multicenter trial of 396 cases</TI>
+<SO>Research in Experimental Medicine</SO>
+<YR>1995</YR>
+<VL>195</VL>
+<PG>217-29</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Hernesniemi-1979" NAME="Hernesniemi 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hernesniemi J, Troupp H</AU>
+<TI>A clinical retrospective and a double blind study of betamethasone in severe closed brain injuries</TI>
+<SO>Acta Neurochrurgica</SO>
+<YR>1979</YR>
+<VL>28</VL>
+<NO>2</NO>
+<PG>499</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoyt-1972" MODIFIED="2009-05-11 14:50:32 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Hoyt 1972" YEAR="1972">
+<REFERENCE MODIFIED="2009-05-11 14:50:32 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoyt HJ, Goldstein FP, Reigel DH, Holst R</AU>
+<TI>Clinical evaluation of highly water-soluble steroids in the treatment of cerebral edema of traumatic origin (a double blind study)</TI>
+<SO>Pharmacology and Therapeutics</SO>
+<YR>1972</YR>
+<VL>13</VL>
+<PG>141</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Pitts-1980" NAME="Pitts 1980" YEAR="1980">
+<REFERENCE PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Pitts LH, Kaktis JV</AU>
+<TI>Effect of megadose steroids on ICP in traumatic coma</TI>
+<SO>Intracranial Pressure</SO>
+<YR>1980</YR>
+<VL>IV</VL>
+<PG>638-42</PG>
+<ED>Shulman K, Marmarou A, Miller JD</ED>
+<PB>Springer-Verlag</PB>
+<CY>Berlin</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ransohoff-1972" NAME="Ransohoff 1972" YEAR="1972">
+<REFERENCE PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Ransohoff J</AU>
+<TI>The effects of steroids on brain edema in man</TI>
+<SO>Steroids and Brain Edema</SO>
+<YR>1972</YR>
+<PG>211-3</PG>
+<ED>Reulen H J, Schurmann K</ED>
+<PB>Springer-Verlag</PB>
+<CY>Berlin/Heidelberg/New York</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Saul-1981" NAME="Saul 1981" YEAR="1981">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Saul TG, Ducker TB, Salcman M, Carro E</AU>
+<TI>Steroids in severe head injury</TI>
+<SO>Journal of Neurosurgery</SO>
+<YR>1981</YR>
+<VL>54</VL>
+<PG>596-600</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stubbs-1989" NAME="Stubbs 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Stubbs DF, Stiger TR, Harris WR</AU>
+<TI>Multinational controlled trial of high-dose methylprednisolone in moderately severe head injury</TI>
+<SO>Steroids in diseases of the central nervous system</SO>
+<YR>1989</YR>
+<PG>163-8</PG>
+<ED>Capildeo</ED>
+<PB>John Wiley &amp; Sons</PB>
+<CY>Chichester</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tahara-1972" NAME="Tahara 1972" YEAR="1972">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tahara I, Fujii C, Tanaka N, Ogawa M, Katsurada K</AU>
+<TI>Effects of steroid therapy on acute head injury</TI>
+<SO>Neurologia medico-chirurgica</SO>
+<YR>1972</YR>
+<VL>12</VL>
+<PG>111-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zagara-1987" NAME="Zagara 1987" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zagara G, Scaravilli P, Carmen Belluci M, Seveso M</AU>
+<TI>Effect of dexamethasone on nitrogen metabolism in brain-injured patients</TI>
+<SO>Journal of Neurosurgery</SO>
+<YR>1987</YR>
+<VL>31</VL>
+<PG>207-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zarate-1995" NAME="Zarate 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;Zarate IO, Guerrero JG. Corticosteroides en pacientes pediatricos con traumatismo craneoencefalico. Practica Pediatrica 1995:4;7-14&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zarate IO, Guerrero JG</AU>
+<TI>Coprticosteroids in paediatric patients with head and brain trauma</TI>
+<TO>Corticosteroides en pacientes pediatricos con traumatismo craneoencefalico</TO>
+<SO>Practica Pediatrica</SO>
+<YR>1995</YR>
+<VL>4</VL>
+<PG>7-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2009-05-11 14:45:20 +0100" MODIFIED_BY="Emma M Sydenham">
+<STUDY DATA_SOURCE="PUB" ID="STD-Cheng-1991" NAME="Cheng 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cheng Z</AU>
+<TI>Effect of postoperative megadose dexamethasone on delayed traumatic brain edema</TI>
+<SO>Chinese Journal of Traumatology</SO>
+<YR>1991</YR>
+<VL>8</VL>
+<PG>65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cheng Z</AU>
+<TI>Effect of postoperative megadose dexamethasone on delayed traumatic brain edema</TI>
+<SO>Chinese Medical Journal</SO>
+<YR>1992</YR>
+<VL>105</VL>
+<PG>788</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fanconi-1988" NAME="Fanconi 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fanconi S, Kloti J, Meuli M, Zaugg H, Zachmann M</AU>
+<TI>Dexamethasone therapy and endogenous cortisol production in severe pediatric head injury</TI>
+<SO>Intensive Care Medicine</SO>
+<YR>1988</YR>
+<VL>14</VL>
+<PG>163-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kloti J, Fanconi S, Zachmann M, Zaugg H</AU>
+<TI>Dexamethasone therapy and cortisol excretion in severe paediatric head injury</TI>
+<SO>Child's Nervous System</SO>
+<YR>1987</YR>
+<VL>3</VL>
+<PG>103-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gobiet-1976" MODIFIED="2009-05-11 14:45:20 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Gobiet 1976" YEAR="1976">
+<REFERENCE MODIFIED="2009-05-11 14:45:20 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Gobiet W, Bock WJ, Liesegang J et al</AU>
+<TI>Treatment of acute cerebral edema with high dose of dexamethasone</TI>
+<SO>Intracranial Pressure</SO>
+<YR>1976</YR>
+<VL>III</VL>
+<PG>231-5</PG>
+<ED>Becks JWF, Bosch DA, Brock M</ED>
+<PB>Springer-Verlag</PB>
+<CY>Berlin/Heidelberg/New York</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-James-1979" NAME="James 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>James HE, Madauss WC, Tibbs PA, McCloskey JJ, Bean JR</AU>
+<TI>The effect of high dose dexamethasone in children with severe closed head injury</TI>
+<SO>Acta Neurochirurgica</SO>
+<YR>1979</YR>
+<VL>45</VL>
+<PG>225-36</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Robertson-1985" NAME="Robertson 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Robertson CS, Clifton GL, Goodman JC</AU>
+<TI>Steroid administration and nitrogen excretion in the head-injured patient</TI>
+<SO>Journal of Neurosurgery</SO>
+<YR>1985</YR>
+<VL>63</VL>
+<PG>714-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2009-05-11 14:45:41 +0100" MODIFIED_BY="Emma M Sydenham">
+<ADDITIONAL_REFERENCES MODIFIED="2009-05-11 14:45:41 +0100" MODIFIED_BY="Emma M Sydenham">
+<REFERENCE ID="REF-Bracken-1990" MODIFIED="2009-05-11 14:45:41 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Bracken 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Bracken MB, Shepard MJ, Collins WF, Holford TR et al</AU>
+<TI>A randomised controlled trial of methylprednisolone or naloxone in the treatment of acute spinal cord injury</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1990</YR>
+<VL>322</VL>
+<PG>1405-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Galicich-1961" NAME="Galicich 1961" TYPE="JOURNAL_ARTICLE">
+<AU>Galicich J H, French L A</AU>
+<TI>Use of dexamethasone in the treatment of cerebral edema resulting from brain tumours and brain surgery</TI>
+<SO>American Practitioner and Digest of Treatment</SO>
+<YR>1961</YR>
+<VL>12</VL>
+<PG>169-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2008" MODIFIED="2009-05-05 16:08:34 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Higgins 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>
+<I>Cochrane Handbook for Systematic Reviews of Interventions</I> Version 5.0.1 [updated September 2008]. The Cochrane Collaboration, 2008. Available from www.cochrane-handbook.org</TI>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jeevaratnam-1996" NAME="Jeevaratnam 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jeevaratnam DR, Menon DK</AU>
+<TI>Survey of intensive care of severely head injured patients in the United Kingdom</TI>
+<SO>BMJ</SO>
+<YR>1996</YR>
+<VL>312</VL>
+<PG>944-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jennett-1975" MODIFIED="2008-07-07 17:14:52 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Jennett 1975" TYPE="JOURNAL_ARTICLE">
+<AU>Jennett B, Bond M</AU>
+<TI>Assessment of outcome after severe brain damage. A practical scale</TI>
+<SO>Lancet</SO>
+<YR>1975</YR>
+<VL>1</VL>
+<PG>480-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jennett-1996" NAME="Jennett 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jennett B</AU>
+<TI>Epidemiology of head injury</TI>
+<SO>Journal of Neurology, Neurosurgery, and Psychiatry</SO>
+<YR>1996</YR>
+<VL>60</VL>
+<PG>362-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kraus-1993" NAME="Kraus 1993" TYPE="BOOK_SECTION">
+<AU>Kraus JF</AU>
+<TI>Epidemiology of head injury</TI>
+<SO>Head injury</SO>
+<YR>1993</YR>
+<PG>1-25</PG>
+<EN>3rd</EN>
+<ED>Cooper PR</ED>
+<PB>William Wilkins</PB>
+<CY>Baltimore</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Miller-1992" NAME="Miller 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Miller JD, Jones PA, Dearden NM, Tocher JL</AU>
+<TI>Progress in the management of head injury</TI>
+<SO>British Journal of Surgery</SO>
+<YR>1992</YR>
+<VL>79</VL>
+<PG>60-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Murray-1994" NAME="Murray 1994" TYPE="BOOK">
+<AU>Murray CJL, Lopez AD, eds</AU>
+<SO>Global comparative assessments in the health sector</SO>
+<YR>1994</YR>
+<PB>World Health Organisation</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pickard-1993" NAME="Pickard 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Pickard JD, Czosnyka M</AU>
+<TI>Management of raised intracranial pressure</TI>
+<SO>Journal of Neurology, Neurosurgery, and Psychiatry</SO>
+<YR>1993</YR>
+<VL>56</VL>
+<PG>845-58</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Roberts-1995" NAME="Roberts 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Roberts I</AU>
+<TI>Letter from Chengdu: China takes to the roads</TI>
+<SO>BMJ</SO>
+<YR>1995</YR>
+<VL>310</VL>
+<PG>1311-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES>
+<REFERENCE ID="REF-Alderson-1997" NAME="Alderson 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Alderson P, Roberts I</AU>
+<TI>Corticosteroids in acute traumatic brain injury: systematic review of randomised controlled trials</TI>
+<SO>BMJ</SO>
+<YR>1997</YR>
+<VL>314</VL>
+<PG>1855-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2009-05-11 14:47:13 +0100" MODIFIED_BY="Emma M Sydenham">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2009-05-11 14:47:13 +0100" MODIFIED_BY="Emma M Sydenham" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2009-05-11 14:46:04 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Alexander-1972">
+<CHAR_METHODS>
+<P>Paper states that patients were randomized, half of them receiving dexamethasone.<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-11 14:46:04 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Those admitted to hospital with acute non missile head injuries who responded to painful stimuli by withdrawal or rigidity but who would not respond to voice command.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-05 16:05:02 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone 10mg IV; then 4mg IM every 6 hours for 10 days.</LI>
+<LI>No steroid, no mention of placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Death (time of assessment not stated). <BR/>Complications.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>States all patients uniformly supervised.<BR/>Author contacted, no further details of trial available.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:14:13 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Braakman-1983">
+<CHAR_METHODS>
+<P>Randomized into two groups using identical vials in identical boxes prepared by a Pharmacy Department. Code not broken until all patients were evaluated for outcome.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients of any age with severe non missile related head injury who were in a coma on admission to hospital. Coma was defined as no eye opening, no spoken response to painful stimuli and not obeying commands. Exclusions were those already brain dead (apnoea, flaccidity, dilated pupils not reacting to light, absence of reflex eye movements) or expected to become so within 1 hour, those who regained consciousness during initial examination, those who had already been given steroids and those with diabetes mellitus or a history of peptic ulcer.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:14:13 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone phosphate: initial dose 100mg IV (less than 6 hours from injury), days 1 to 4 100mg/day IV, days 5 to 7 16mg/day IV or IM, day 8 12mg IV/IM, day 9 8mg IV/IM, day 10 4mg IV/IM.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Glasgow Coma Scale at 6 months after injury.<BR/>Complication rate.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Other care was determined by the result of a CT scan: those with a mass lesion had immediate operation, those without had monitored control of intracranial pressure using controlled ventilation and/or osmotic diuretic. Cerebrospinal fluid was drained in some patients. Barbiturates were not used.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:14:47 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Braun-1986">
+<CHAR_METHODS>
+<P>Patients randomly assigned in emergency room to one of four groups.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Those head trauma victims admitted from the emergency room to the adult neurosurgical intensive care unit.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:14:33 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone 6mg/kg IV in the emergency room; then 6mg/kg IV 6 hourly for 1 day, then 1mg/kg IV 6 hourly for 4 days followed by a tapering dose.</LI>
+<LI>Dexamethasone 6mg/kg IV in the emergency room; then 0.1mg/kg IV 6 hourly for 5 days followed by a tapering dose.</LI>
+<LI>Dexamethasone 6mg/kg IV in the emergency room: single dose only.</LI>
+<LI>No steroids, no mention of placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-07-08 13:14:47 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Incidence of pneumonia defined as a new alveolar or alveolar-interstitial infiltrate identified by a radiologist and one of the authors and two of:</P>
+<OL>
+<LI>Fever greater than 100F.</LI>
+<LI>White cell count greater than 15,000/ml.</LI>
+<LI>Increased sputum with a predominant organism on either Gram stain or culture of sputum.</LI>
+</OL>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Otherwise treated with a standardised protocol including ICP monitoring, initial hyperventilation, hyperosmotic agents. Thiopentone in some.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:14:59 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Chacon-1987">
+<CHAR_METHODS>
+<P>Patients randomized 'by lottery method' to two groups.<BR/>Blinding not clear.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Children admitted to hospital with severe head trauma, a Glasgow Coma Score of 7 or less and evidence of cerebral oedema on computerised tomography.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:14:59 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone - dose not stated.</LI>
+<LI>No dexamethasone.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Mortality at discharge.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Other interventions - fluid restriction guided by central venous pressure and urine output, hyperventilation to PCO2 of 25 to 30 torr, head up position of 35 to 40 degrees.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-05 16:05:38 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Cooper-1979">
+<CHAR_METHODS>
+<P>Random allocation using identical coded vials prepared and supplied by a drug company, who retained the code until the 6 month outcome assessment had been made.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>All patients with head injury admitted with a Grady Coma Grade of 3, 4 or 5. Glasgow Coma Scale also measured and in all except two patients GCS was 8 or less. <BR/>Patients were excluded due to inability to obtain informed consent, previous administration of steroids or arrival at hospital more than 6 hours after the injury.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:15:11 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>High dose dexamethasone phosphate: 60mg initial dose, 24mg every 6 hours thereafter for 6 days.</LI>
+<LI>Low dose dexamethasone phosphate: 10mg initial dose, 4 mg every 6 hours thereafter for 6 days.</LI>
+<LI>Placebo (water, sodium bisulphite, methylparaben, propylparaben).</LI>
+</OL>
+<P>All doses were contained in the same volume of fluid.<BR/>Medication decreased gradually from day 7 and all were finished by day 11.<BR/>Children aged 16 or younger given weight related doses.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-05 16:05:38 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>GOS at 6 months after injury.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>CT scan used or diagnosis in most patients followed by operation for mass lesions. Other co-interventions not specifically described.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-05 16:06:04 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-CRASH-2005">
+<CHAR_METHODS>
+<P>Stratified random allocation via central randomisation service or identical coded treatment packs.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Adults (16 or older) less than 8 hours after head trauma with GCS of 14 or less on admission to hospital.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-05 16:06:00 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>High dose methylprednisolone for 48 hours. 2g over 1 hour, then 0.4g per hour for 48 hours.</LI>
+<LI>Identical placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-05 16:06:04 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Mortality and GOS at 6 months.<BR/>Complications (admission to intensive care, gastrointestinal bleeding, infections, neurosurgical operation).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-11 14:46:56 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Dearden-1986">
+<CHAR_METHODS>
+<P>Randomly allocated to receive treatment or placebo.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-11 14:46:56 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>All ages, patients with severe head injury (no definition given).<BR/>Exclusions were due to incorrect administration of steroid or placebo during the trial and those receiving steroids before admission.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-05 16:06:10 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone: initial dose 50mg IV (0.75mg/kg for children), days 1, 2, 3 100mg/day IV, day 4 50mg/day IV, day 5 25mg/day IV.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-05 16:06:11 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Glasgow Outcome Scale at 6 months after injury.<BR/>Duration of artificial ventilation.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-05-11 14:46:48 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Other interventions guided by CT and ICP monitoring. Controlled hypocapeic ventilation and osmotic diuretics used to control ICP.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-11 14:47:13 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Faupel-1976">
+<CHAR_METHODS>
+<P>Randomly allocated using identical, coded vials containing the same volumes of clear solution.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>All adult patients with severe (not defined) closed head injury.<BR/>Exclusions were due to being a child (age cut off not given), impression fractures, missile injuries, imminent brain death and open head injuries. After randomization, 3 patients considered to be brain dead on angiography, one given steroids outside the trial and one who died of other injuries were excluded.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-11 14:47:13 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone: initial dose 100mg IV, then 100mg IM after 6 hours, then 4mg IM every 6 hours for 8 days, then tapered off by daily reduction of 4mg.</LI>
+<LI>Dexamethasone: initial dose 12mg IV, then 4mg IM every 6 hours for 8 days, then tapered off by daily reduction of 4mg.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-05 16:06:22 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Disability status scale at discharge from hospital.<BR/>Frequency of complications.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Mass lesions removed following angiography. Other interventions not specified.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:15:48 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Gaab-1994">
+<CHAR_METHODS>
+<P>Patients were randomized in blocks of 6. Stated to be double blind design.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Age 15 to 55 with moderate central nervous system injury (two or more of disturbed consciousness, eye opening to stimulation, no adequate verbal response, disorientation in time and place) or severe central nervous system injury (comatose on injury and/or on admission to hospital, no eye opening to painful stimuli). Patients also were required to have obvious neurological symptoms (e.g. hemiparesis or hemiplegia) or CT evidence of lesions requiring surgical intervention or hypodense area(s) in the brain.</P>
+<P>Reasons for exclusion were: time to treatment was more than 3 hours, they had already had steroids, penetrating head injury, primary bulbar symptoms present, prognosis considered hopeless, known malignancy, peptic ulcer, tuberculosis, Cushing's syndrome, non traumatic neurological or psychiatric disease, spinal injury, suspected coagulation defects.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:15:48 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone: initial dose 200mg IV, then 300mg over next 3 hours, then 200mg 3 hours later, then 200mg 6 hourly for 8 doses.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Modified GOS at 10 to 14 months (good recovery classified as fit for work or for rehabilitation, extra category indicating degree of care required for disabled).<BR/>GCS on day 5.<BR/>Interval to regaining consciousness.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Co-interventions are not specified, but the study states that other care was not controlled.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:15:59 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Giannotta-1984">
+<CHAR_METHODS>
+<P>Randomly allocated to treatment or placebo using identical, coded vials. Code not broken until all outcomes had been collected.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients with blunt head trauma and a GCS of 8 or less 6 hours after the injury.<BR/>Exclusions were due to history of peptic ulcer, an undiagnosed or untreated medical condition or who had been taking steroids during the two weeks before injury, penetrating brain injuries, other injuries expected to cause rapid death, and pregnancy.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:15:59 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Methylprednisolone 30mg/kg IV every 6 hours for 2 doses, then 250mg IV every 6 hours for 8 doses, then tapering off over the next 8 days.</LI>
+<LI>Methylprednisolone 1.5mg/kg IV every 6 hours for 2 doses, then 25mg IV every 6 hours for 8 doses, then tapering off over 8 days.</LI>
+<LI>Placebo.</LI>
+</OL>
+<P>NB Patients randomized in 2:2:1 ratio for these groups.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Glasgow Outcome Scale at 6 months.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>CT guided management. Controlled ventilation, cerebrospinal fluid drainage, osmotic diuretics and barbiturates were used to control ICP.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-05 16:07:06 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Grumme-1995">
+<CHAR_METHODS>
+<P>Random allocation to treatment or control using identical vials.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-05 16:07:06 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Patients of all ages admitted with head injury. Excluded groups were those with contraindication to steroids (not specified), impaired level of consciousness not due to trauma and absence of relevant brain damage (not specified).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:16:08 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Triamcinolone acetonide: 200mg IV, then 40mg 8 hourly for 4 days, then 20mg 8 hourly for 4 days.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>GOS at discharge from hospital and at approximately 1 year from the injury.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>CT was used to guide treatment. Osmotic diuretics, controlled ventilation and cerebrospinal fluid drainage were used to control ICP.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:16:20 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Hernesniemi-1979">
+<CHAR_METHODS>
+<P>Random allocation using sealed opaque envelopes. Double blind.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Age 15 or above with severe closed brain injury.<BR/>Five exclusions; three not head injury, one 14 years old, one imminent death.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:16:20 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Betamethasone 100mg IV on admission, then 80mg/day IV for 7 days, then tapering off over further 7 days.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Glasgow Outcome Scale at 6 or 12 months. <BR/>Complications.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:16:29 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Hoyt-1972">
+<CHAR_METHODS>
+<P>Assigned "sequentially in random order".</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients with cranial trauma.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:16:29 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone, dose not stated.</LI>
+<LI>Triamcinolone, dose not stated.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Proportion demonstrating a "marked improvement".</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Unable to contact author for further details.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:16:40 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Pitts-1980">
+<CHAR_METHODS>
+<P>"Prospectively randomized" into three groups.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Head injured adults admitted to hospital who were comatose on admission or who lapsed into coma for six hours or more.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:16:40 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone: initially 24mg IV per day, for a maximum of 7 days, tapering of for the last 5.</LI>
+<LI>Dexamethasone: initially 16mg IV daily, for a maximum of 7 days, tapering off for the last 5.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Glasgow Outcome Scale at 6 months.<BR/>Gastrointestinal bleeding.<BR/>Infections (signs of pneumonia, wound infection, urinary infection, blood culture, CSF culture).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:16:46 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Ransohoff-1972">
+<CHAR_METHODS>
+<P>Stated to be "random steroid studies" and a double blind study of steroids against placebo.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Critically ill acute closed head injury patients without evidence of angiographic shift or significant clots, but with documented increase in intracranial pressure. Age not stated.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:16:46 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Methylprednisolone 125mg IV every 6 hours for 4 days, starting within 24 hours of admission.</LI>
+<LI>Placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Death.<BR/>Complications (no data presented).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also received fluid restriction.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:16:57 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Saul-1981">
+<CHAR_METHODS>
+<P>States that 100 patients were "randomized into two groups of 50". One group received steroid, there was no placebo.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients admitted with craniocerebral trauma within 6 hours of injury. No other body systems injured, Glasgow Coma Scale 7 or less on admission. Average age 31 years.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:16:57 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>250mg methylprednisolone IV initially, then 125mg every 6 hours.</LI>
+<LI>Some in steroid group received dexamethasone in equivalent dose.</LI>
+<LI>No steroid, no placebo.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Glasgow Outcome Scale at 6 months.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also received mechanical hyperventilation and surgery if indicated.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:17:07 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Stubbs-1989">
+<CHAR_METHODS>
+<P>"Randomized and double-blind" study. Allocation concealment not described.<BR/>Separate randomization for patients over and under 40 years old.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients were more than 6 years old with closed head trauma within the previous 48 hours and a GCS of 9 to 12. The first dose had to be administered within 6 hours of the GCS measurement. Exclusions were pregnancy, hypersensitivity to steroids and presence of infectious disease.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:17:07 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>High dose MPSS: 30mg/kg IV twice in 6h, then 250mg IV every 6h until 48 h after the first dose. Then a tapering schedule: days 3 to 5 25mg IV/IM 6 hrly, day 6 10mg IV/IM 6 hrly, day 7 5mg IV/IM 6 hrly days 8 and 9 10mg IV/IM daily.</LI>
+<LI>Low dose MPSS: 1mg/kg IV twice in 6h followed by 25mg IV every 6h until day 6. Then the tapering schedule above.</LI>
+<LI>Placebo</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Glasgow Outcome Scale, Glasgow Coma Scale, Karnofsky Rating Scale at discharge, 3 and 6 months.<BR/>Complications listed.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Glasgow Outcome Scale reported as mean score.<BR/>Attempting to locate authors for further information.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:17:16 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Tahara-1972">
+<CHAR_METHODS>
+<P>Random allocation to one of three groups.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Seriously head injured.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:17:16 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Prednisolone 2,680mg over 2 weeks.</LI>
+<LI>Prednisolone 160mg on first day, tapering over two weeks, total dose 1,000mg.</LI>
+<LI>No steroid.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>None reported.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Trial of 100 participants; author contacted but unable to provide details.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:17:23 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Zagara-1987">
+<CHAR_METHODS>
+<P>Randomization by table into steroid or no therapy groups.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Average age 29. Severe isolated head trauma with average GCS of 5.7 (sd 1.2) in one group and 5.8 (sd 1.2) in the other.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:17:23 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Dexamethasone 0.36mg/kg/day IV for 9 days.</LI>
+<LI>No steroid, no placebo mentioned.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Glasgow Outcome Scale at 3 months. Nitrogen balance.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also received mechanical hyperventilation, surgery if required, mannitol infusion and benzodiazepine sedation.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-08 13:17:33 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Zarate-1995">
+<CHAR_METHODS>
+<P>"Randomly allocated", no further details given.<BR/>60 patients, 30 in each group.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Children admitted with head injury with a Glasgow Coma Scale of 9 to 15.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-08 13:17:33 +0100" MODIFIED_BY="Emma M Sydenham">
+<OL>
+<LI>Corticosteroids - no details given.</LI>
+<LI>Symptomatic treatment.</LI>
+</OL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Mortality at discharge.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>CT: computerised tomography<BR/>GCS: Glasgow Coma Scale<BR/>CSF: Cerebrospinal Fluid<BR/>GOS: Glasgow Outcome Scale<BR/>ICP: intracranial pressure<BR/>IM: Intramuscular<BR/>IV: Intravenous<BR/>MPSS: methylprednisolone sodium succinate</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Cheng-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Randomised trial of high versus low dose steroids. No group with no steroids.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fanconi-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Judged to have inadequate allocation concealment after contact with authors.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gobiet-1976">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study was retrospective.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-James-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Allocation consisted of the first four patients being given no or low dose steroids and the next five given high dose steroids. There was therefore no concurrent control group and no concealment of allocation.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Robertson-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were alternately allocated.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2009-05-05 16:08:01 +0100" MODIFIED_BY="Emma M Sydenham">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2009-05-05 16:08:01 +0100" MODIFIED_BY="Emma M Sydenham" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:05:08 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Alexander-1972">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:05:14 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Braakman-1983">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:05:19 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Braun-1986">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:05:57 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-CRASH-2005">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:05:28 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Chacon-1987">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:05:33 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Cooper-1979">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:06:15 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Dearden-1986">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:06:27 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Faupel-1976">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:06:42 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Gaab-1994">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:06:56 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Giannotta-1984">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:00 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Grumme-1995">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:18 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Hernesniemi-1979">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:23 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Hoyt-1972">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:28 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Pitts-1980">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:32 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Ransohoff-1972">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:40 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Saul-1981">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:46 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Stubbs-1989">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:51 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Tahara-1972">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:07:56 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="YES" STUDY_ID="STD-Zagara-1987">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-05-05 16:08:01 +0100" MODIFIED_BY="Emma M Sydenham" RESULT="UNKNOWN" STUDY_ID="STD-Zarate-1995">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2009-05-12 15:42:12 +0100" MODIFIED_BY="Emma M Sydenham">
+<COMPARISON ID="CMP-001" MODIFIED="2009-05-12 15:42:12 +0100" MODIFIED_BY="Emma M Sydenham" NO="1">
+<NAME>Any steroid administered in any dose against no steroid</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="1658" EVENTS_2="1376" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="17" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="6048" TOTAL_2="5744" WEIGHT="0.0" Z="0.0">
+<NAME>Death at end of follow up period</NAME>
+<GROUP_LABEL_1>Steroid</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Steroid better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Steroid worse</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.228708468857376" CI_START="0.4304728365114789" EFFECT_SIZE="0.7272727272727273" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="22" LOG_CI_END="0.08944885165330115" LOG_CI_START="-0.36605424798586406" LOG_EFFECT_SIZE="-0.13830269816628143" ORDER="2032" O_E="0.0" SE="0.26756477550475344" STUDY_ID="STD-Alexander-1972" TOTAL_1="55" TOTAL_2="55" VAR="0.0715909090909091" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.2127666363372742" CI_START="0.7049240577384798" EFFECT_SIZE="0.9246125558182295" ESTIMABLE="YES" EVENTS_1="44" EVENTS_2="47" LOG_CI_END="0.08377724084905684" LOG_CI_START="-0.1518576675215293" LOG_EFFECT_SIZE="-0.03404021333623621" ORDER="2033" O_E="0.0" SE="0.1384131115884904" STUDY_ID="STD-Braakman-1983" TOTAL_1="81" TOTAL_2="80" VAR="0.019158189459607896" WEIGHT="0.0"/>
+<DICH_DATA CI_END="59.889831224573605" CI_START="0.15027592858380226" EFFECT_SIZE="3.0" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.7773530892014295" LOG_CI_START="-0.823110579762105" LOG_EFFECT_SIZE="0.47712125471966244" ORDER="2034" O_E="0.0" SE="1.5275252316519468" STUDY_ID="STD-Chacon-1987" TOTAL_1="5" TOTAL_2="5" VAR="2.3333333333333335" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.7663918947385011" CI_START="0.6875563483206771" EFFECT_SIZE="1.1020408163265305" ESTIMABLE="YES" EVENTS_1="26" EVENTS_2="13" LOG_CI_END="0.24708706325108665" LOG_CI_START="-0.16269170366217703" LOG_EFFECT_SIZE="0.0421976797944548" ORDER="2035" O_E="0.0" SE="0.2407060761224615" STUDY_ID="STD-Cooper-1979" TOTAL_1="49" TOTAL_2="27" VAR="0.05793941508227224" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.237557463446333" CI_START="1.0733989772557577" EFFECT_SIZE="1.1525592893897145" ESTIMABLE="YES" EVENTS_1="1248" EVENTS_2="1075" LOG_CI_END="0.092565373648639" LOG_CI_START="0.03076117715150813" LOG_EFFECT_SIZE="0.06166327540007356" ORDER="2036" O_E="0.0" SE="0.03630409095812142" STUDY_ID="STD-CRASH-2005" TOTAL_1="4854" TOTAL_2="4819" VAR="0.0013179870202955533" WEIGHT="0.0"/>
+<DICH_DATA CI_END="2.192222114597867" CI_START="0.936419156116586" EFFECT_SIZE="1.4327731092436975" ESTIMABLE="YES" EVENTS_1="33" EVENTS_2="21" LOG_CI_END="0.34088455449173183" LOG_CI_START="-0.02852971061976033" LOG_EFFECT_SIZE="0.15617742193598577" ORDER="2037" O_E="0.0" SE="0.21699576795659456" STUDY_ID="STD-Dearden-1986" TOTAL_1="68" TOTAL_2="62" VAR="0.047087163311072225" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.71317837450004" CI_START="0.24488844389090753" EFFECT_SIZE="0.417910447761194" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="16" LOG_CI_END="-0.14680183428200624" LOG_CI_START="-0.6110317084352082" LOG_EFFECT_SIZE="-0.37891677135860724" ORDER="2038" O_E="0.0" SE="0.27269092605252915" STUDY_ID="STD-Faupel-1976" TOTAL_1="67" TOTAL_2="28" VAR="0.07436034115138593" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.6403624604845608" CI_START="0.5217990995237911" EFFECT_SIZE="0.9251700680272109" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="21" LOG_CI_END="0.2149398219474663" LOG_CI_START="-0.2824966747033834" LOG_EFFECT_SIZE="-0.03377842637795857" ORDER="2039" O_E="0.0" SE="0.29219666048307985" STUDY_ID="STD-Gaab-1994" TOTAL_1="133" TOTAL_2="136" VAR="0.08537888839746424" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.9803349627672322" CI_START="0.5882989476309726" EFFECT_SIZE="1.0793650793650793" ESTIMABLE="YES" EVENTS_1="34" EVENTS_2="7" LOG_CI_END="0.29673865499780544" LOG_CI_START="-0.23040192849249627" LOG_EFFECT_SIZE="0.03316836325265459" ORDER="2040" O_E="0.0" SE="0.30964498813017516" STUDY_ID="STD-Giannotta-1984" TOTAL_1="72" TOTAL_2="16" VAR="0.09588001867413631" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.2526279649986851" CI_START="0.5961369693885472" EFFECT_SIZE="0.8641399416909621" ESTIMABLE="YES" EVENTS_1="38" EVENTS_2="49" LOG_CI_END="0.097822103125344" LOG_CI_START="-0.2246539445963039" LOG_EFFECT_SIZE="-0.06341592073547994" ORDER="2041" O_E="0.0" SE="0.18942402671387673" STUDY_ID="STD-Grumme-1995" TOTAL_1="175" TOTAL_2="195" VAR="0.03588146189649948" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.4142294406019507" CI_START="0.7017741393764657" EFFECT_SIZE="0.9962277091906722" ESTIMABLE="YES" EVENTS_1="35" EVENTS_2="36" LOG_CI_END="0.15051987389077431" LOG_CI_START="-0.15380263972994926" LOG_EFFECT_SIZE="-0.0016413829195874713" ORDER="2042" O_E="0.0" SE="0.17876055092155071" STUDY_ID="STD-Hernesniemi-1979" TOTAL_1="81" TOTAL_2="83" VAR="0.03195533456577633" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.4217509587468786" CI_START="0.8580059593225318" EFFECT_SIZE="1.1044776119402986" ESTIMABLE="YES" EVENTS_1="114" EVENTS_2="38" LOG_CI_END="0.1528235297874642" LOG_CI_START="-0.06650969572716459" LOG_EFFECT_SIZE="0.04315691703014979" ORDER="2043" O_E="0.0" SE="0.12883742238426943" STUDY_ID="STD-Pitts-1980" TOTAL_1="201" TOTAL_2="74" VAR="0.016599081406622647" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.2477694821744514" CI_START="0.43063678273008965" EFFECT_SIZE="0.7330316742081447" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="13" LOG_CI_END="0.09613435949172122" LOG_CI_START="-0.3658888777766808" LOG_EFFECT_SIZE="-0.13487725914247978" ORDER="2044" O_E="0.0" SE="0.2713947366233689" STUDY_ID="STD-Ransohoff-1972" TOTAL_1="17" TOTAL_2="18" VAR="0.07365510306686776" WEIGHT="0.0"/>
+<DICH_DATA CI_END="2.1173724828834537" CI_START="0.37316223913240215" EFFECT_SIZE="0.8888888888888888" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="9" LOG_CI_END="0.32579726474175796" LOG_CI_START="-0.4281023096365206" LOG_EFFECT_SIZE="-0.05115252244738131" ORDER="2045" O_E="0.0" SE="0.44284434185288074" STUDY_ID="STD-Saul-1981" TOTAL_1="50" TOTAL_2="50" VAR="0.19611111111111112" WEIGHT="0.0"/>
+<DICH_DATA CI_END="3.803708966811194" CI_START="0.5396035321694428" EFFECT_SIZE="1.4326530612244899" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="5" LOG_CI_END="0.580207280362321" LOG_CI_START="-0.26792521615973774" LOG_EFFECT_SIZE="0.15614103210129165" ORDER="2046" O_E="0.0" SE="0.49819722678062484" STUDY_ID="STD-Stubbs-1989" TOTAL_1="98" TOTAL_2="54" VAR="0.24820047677190535" WEIGHT="0.0"/>
+<DICH_DATA CI_END="3.1005692822786637" CI_START="0.3225214175072657" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="4" LOG_CI_END="0.491441440109722" LOG_CI_START="-0.491441440109722" LOG_EFFECT_SIZE="0.0" ORDER="2047" O_E="0.0" SE="0.5773502691896258" STUDY_ID="STD-Zagara-1987" TOTAL_1="12" TOTAL_2="12" VAR="0.33333333333333337" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="2048" O_E="0.0" SE="0.0" STUDY_ID="STD-Zarate-1995" TOTAL_1="30" TOTAL_2="30" VAR="0.0" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="2333" EVENTS_2="2068" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="10" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="5727" TOTAL_2="5455" WEIGHT="0.0" Z="0.0">
+<NAME>Death or severe disability at the end of the study period</NAME>
+<GROUP_LABEL_1>Steroid</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Steroid better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Steroid worse</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.2830273061379809" CI_START="0.8471030170730509" EFFECT_SIZE="1.0425240054869684" ESTIMABLE="YES" EVENTS_1="57" EVENTS_2="54" LOG_CI_END="0.10823589938260754" LOG_CI_START="-0.07206377145697412" LOG_EFFECT_SIZE="0.018086063962816725" ORDER="2049" O_E="0.0" SE="0.10590891914893497" STUDY_ID="STD-Braakman-1983" TOTAL_1="81" TOTAL_2="80" VAR="0.011216699155295645" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.4394373059514765" CI_START="0.7014038720584018" EFFECT_SIZE="1.0048019207683074" ESTIMABLE="YES" EVENTS_1="31" EVENTS_2="17" LOG_CI_END="0.15819275412395975" LOG_CI_START="-0.15403184095101485" LOG_EFFECT_SIZE="0.0020804565864724492" ORDER="2050" O_E="0.0" SE="0.18340227268371181" STUDY_ID="STD-Cooper-1979" TOTAL_1="49" TOTAL_2="27" VAR="0.033636393625550584" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.1037849474781145" CI_START="0.9945264074160048" EFFECT_SIZE="1.0477324459876542" ESTIMABLE="YES" EVENTS_1="1828" EVENTS_2="1728" LOG_CI_END="0.04288446721450648" LOG_CI_START="-0.0023836806714817894" LOG_EFFECT_SIZE="0.020250393271512346" ORDER="2058" O_E="0.0" SE="0.026590734149175482" STUDY_ID="STD-CRASH-2005" TOTAL_1="4800" TOTAL_2="4754" VAR="7.070671425921272E-4" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.8272477276762273" CI_START="0.9011722045406706" EFFECT_SIZE="1.2832244008714597" ESTIMABLE="YES" EVENTS_1="38" EVENTS_2="27" LOG_CI_END="0.26179743047759263" LOG_CI_START="-0.045192211977911824" LOG_EFFECT_SIZE="0.1083026092498404" ORDER="2051" O_E="0.0" SE="0.18032723560160166" STUDY_ID="STD-Dearden-1986" TOTAL_1="68" TOTAL_2="62" VAR="0.03251791189971555" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.2398542572588576" CI_START="0.6559282430626239" EFFECT_SIZE="0.9018067556952082" ESTIMABLE="YES" EVENTS_1="41" EVENTS_2="19" LOG_CI_END="0.09337063759107785" LOG_CI_START="-0.18314366877447918" LOG_EFFECT_SIZE="-0.04488651559170067" ORDER="2052" O_E="0.0" SE="0.16242587232701988" STUDY_ID="STD-Faupel-1976" TOTAL_1="67" TOTAL_2="28" VAR="0.026382164001193364" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.3313589288948484" CI_START="0.6460582585516474" EFFECT_SIZE="0.9274348662353559" ESTIMABLE="YES" EVENTS_1="39" EVENTS_2="43" LOG_CI_END="0.12429515526740473" LOG_CI_START="-0.1897283175673159" LOG_EFFECT_SIZE="-0.03271658114995558" ORDER="2053" O_E="0.0" SE="0.18445894238437513" STUDY_ID="STD-Gaab-1994" TOTAL_1="133" TOTAL_2="136" VAR="0.03402510142556222" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.6097021703417975" CI_START="0.7950970214631443" EFFECT_SIZE="1.1313131313131313" ESTIMABLE="YES" EVENTS_1="56" EVENTS_2="11" LOG_CI_END="0.2067455296080936" LOG_CI_START="-0.09957987346283023" LOG_EFFECT_SIZE="0.05358282807263168" ORDER="2054" O_E="0.0" SE="0.17993705809906102" STUDY_ID="STD-Giannotta-1984" TOTAL_1="72" TOTAL_2="16" VAR="0.032377344877344866" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.1686391581529112" CI_START="0.6658822057940509" EFFECT_SIZE="0.8821428571428571" ESTIMABLE="YES" EVENTS_1="57" EVENTS_2="72" LOG_CI_END="0.06768043433160857" LOG_CI_START="-0.1766025904967156" LOG_EFFECT_SIZE="-0.054461078082553495" ORDER="2055" O_E="0.0" SE="0.14349305800463258" STUDY_ID="STD-Grumme-1995" TOTAL_1="175" TOTAL_2="195" VAR="0.020590257695520853" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.2790145265364585" CI_START="0.7539522794348186" EFFECT_SIZE="0.9819958847736625" ESTIMABLE="YES" EVENTS_1="46" EVENTS_2="48" LOG_CI_END="0.10687547705003671" LOG_CI_START="-0.12265614144321475" LOG_EFFECT_SIZE="-0.007890332196589007" ORDER="2056" O_E="0.0" SE="0.13482800890277183" STUDY_ID="STD-Hernesniemi-1979" TOTAL_1="81" TOTAL_2="83" VAR="0.01817859198468592" WEIGHT="0.0"/>
+<DICH_DATA CI_END="1.2676491381061066" CI_START="0.8728430746063441" EFFECT_SIZE="1.0518834399431414" ESTIMABLE="YES" EVENTS_1="140" EVENTS_2="49" LOG_CI_END="0.10299906547780607" LOG_CI_START="-0.05906382955738278" LOG_EFFECT_SIZE="0.02196761796021166" ORDER="2057" O_E="0.0" SE="0.09519654676793847" STUDY_ID="STD-Pitts-1980" TOTAL_1="201" TOTAL_2="74" VAR="0.009062382516540297" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="5.14355387595811" CI_END="1.0681717954686207" CI_START="0.9874701865500686" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0270286277114775" ESTIMABLE="YES" EVENTS_1="2586" EVENTS_2="2560" I2="22.23275780785121" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.028641106460251507" LOG_CI_START="-0.005476007612639731" LOG_EFFECT_SIZE="0.011582549423805903" METHOD="MH" NO="3" P_CHI2="0.2728826685321729" P_Q="0.0" P_Z="0.18325768320239763" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="5" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="5347" TOTAL_2="5451" WEIGHT="100.00000000000001" Z="1.3307913249235086">
+<NAME>Infections of any type</NAME>
+<GROUP_LABEL_1>Steroid</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Steroid better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Steroid worse</GRAPH_LABEL_2>
+<DICH_DATA CI_END="2.3486261133569255" CI_START="0.8376299073678948" EFFECT_SIZE="1.4025974025974026" ESTIMABLE="YES" EVENTS_1="28" EVENTS_2="11" LOG_CI_END="0.3708138853046579" LOG_CI_START="-0.07694782467572227" LOG_EFFECT_SIZE="0.14693303031446783" ORDER="2059" O_E="0.0" SE="0.2630174448986863" STUDY_ID="STD-Cooper-1979" TOTAL_1="49" TOTAL_2="27" VAR="0.06917817632103349" WEIGHT="0.5593408653618915"/>
+<DICH_DATA CI_END="1.073527864823968" CI_START="0.991253748555736" EFFECT_SIZE="1.031570899253073" ESTIMABLE="YES" EVENTS_1="2460" EVENTS_2="2429" LOG_CI_END="0.03081332160154689" LOG_CI_START="-0.0038151573298322973" LOG_EFFECT_SIZE="0.013499082135857309" ORDER="2060" O_E="0.0" SE="0.020340939938027373" STUDY_ID="STD-CRASH-2005" TOTAL_1="4900" TOTAL_2="4991" VAR="4.13753837562437E-4" WEIGHT="94.90405521021556"/>
+<DICH_DATA CI_END="1.64990326575324" CI_START="0.7531673502731744" EFFECT_SIZE="1.1147435897435898" ESTIMABLE="YES" EVENTS_1="37" EVENTS_2="36" LOG_CI_END="0.21745848216474442" LOG_CI_START="-0.12310851486824266" LOG_EFFECT_SIZE="0.04717498364825088" ORDER="2061" O_E="0.0" SE="0.20005073989100072" STUDY_ID="STD-Gaab-1994" TOTAL_1="130" TOTAL_2="141" VAR="0.04002029853093683" WEIGHT="1.3620026083009917"/>
+<DICH_DATA CI_END="1.0679149983294765" CI_START="0.519864491941312" EFFECT_SIZE="0.7450980392156863" ESTIMABLE="YES" EVENTS_1="38" EVENTS_2="57" LOG_CI_END="0.028536686001906852" LOG_CI_START="-0.2841098449641593" LOG_EFFECT_SIZE="-0.12778657948112618" ORDER="2062" O_E="0.0" SE="0.1836501199147553" STUDY_ID="STD-Grumme-1995" TOTAL_1="187" TOTAL_2="209" VAR="0.033727366544704006" WEIGHT="2.122866351716715"/>
+<DICH_DATA CI_END="1.3886936850693652" CI_START="0.5486657241496781" EFFECT_SIZE="0.8728852309099223" ESTIMABLE="YES" EVENTS_1="23" EVENTS_2="27" LOG_CI_END="0.14260646060093646" LOG_CI_START="-0.26069216988887706" LOG_EFFECT_SIZE="-0.05904285464397026" ORDER="2063" O_E="0.0" SE="0.23689961191013428" STUDY_ID="STD-Hernesniemi-1979" TOTAL_1="81" TOTAL_2="83" VAR="0.05612142612317224" WEIGHT="1.0517349644048455"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="4.731275895264823" CI_END="1.6658085965323366" CI_START="0.9102824748694632" CI_STUDY="95" CI_TOTAL="95" DF="9.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.231404227664613" ESTIMABLE="YES" EVENTS_1="95" EVENTS_2="72" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="0.22162509896437613" LOG_CI_START="-0.04082381840332677" LOG_EFFECT_SIZE="0.09040064028052466" METHOD="MH" MODIFIED="2009-05-12 15:42:12 +0100" MODIFIED_BY="Emma M Sydenham" NO="4" P_CHI2="0.8570764325590254" P_Q="0.0" P_Z="0.17694515460819904" Q="0.0" RANDOM="NO" SCALE="85.65463559609769" SORT_BY="STUDY" STUDIES="10" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="5722" TOTAL_2="5580" WEIGHT="100.0" Z="1.3502208422597468">
+<NAME>Major or significant gastrointestinal bleed</NAME>
+<GROUP_LABEL_1>Steroid</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Steroid better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Steroid worse</GRAPH_LABEL_2>
+<DICH_DATA CI_END="72.0755724427273" CI_START="0.12486893541014299" EFFECT_SIZE="3.0" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.8577881003523775" LOG_CI_START="-0.9035455909130526" LOG_EFFECT_SIZE="0.47712125471966244" ORDER="2064" O_E="0.0" SE="1.6220210790715333" STUDY_ID="STD-Alexander-1972" TOTAL_1="55" TOTAL_2="55" VAR="2.630952380952381" WEIGHT="0.6660081601691662"/>
+<DICH_DATA CI_END="15.519766392556456" CI_START="0.0628528183409663" EFFECT_SIZE="0.9876543209876543" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.1908851798611375" LOG_CI_START="-1.2016752436345497" LOG_EFFECT_SIZE="-0.005395031886706187" ORDER="2065" O_E="0.0" SE="1.4054018361264704" STUDY_ID="STD-Braakman-1983" TOTAL_1="81" TOTAL_2="80" VAR="1.9751543209876543" WEIGHT="1.3402897136323593"/>
+<DICH_DATA CI_END="4.430735482615989" CI_START="0.007864257431109757" EFFECT_SIZE="0.18666666666666668" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.6464758231822938" LOG_CI_START="-2.1043422786092174" LOG_EFFECT_SIZE="-0.728933227713462" ORDER="2066" O_E="0.0" SE="1.6158441697615462" STUDY_ID="STD-Cooper-1979" TOTAL_1="49" TOTAL_2="27" VAR="2.610952380952381" WEIGHT="2.5615698468044856"/>
+<DICH_DATA CI_END="1.7592608569070802" CI_START="0.9027508697812161" EFFECT_SIZE="1.2602278638186486" ESTIMABLE="YES" EVENTS_1="77" EVENTS_2="61" LOG_CI_END="0.24533023986443875" LOG_CI_START="-0.04443208446746018" LOG_EFFECT_SIZE="0.10044907769848929" ORDER="2067" O_E="0.0" SE="0.17020782365919573" STUDY_ID="STD-CRASH-2005" TOTAL_1="4885" TOTAL_2="4877" VAR="0.028970703234799874" WEIGHT="81.31958271174308"/>
+<DICH_DATA CI_END="19.882103980239176" CI_START="0.3162325843771685" EFFECT_SIZE="2.5074626865671643" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="1" LOG_CI_END="1.2984623407584053" LOG_CI_START="-0.49999338270833227" LOG_EFFECT_SIZE="0.39923447902503645" ORDER="2068" O_E="0.0" SE="1.0564217944637704" STUDY_ID="STD-Faupel-1976" TOTAL_1="67" TOTAL_2="28" VAR="1.1160270078180525" WEIGHT="1.8788440728982794"/>
+<DICH_DATA CI_END="9.088735316089267" CI_START="0.2612151052413784" EFFECT_SIZE="1.5408163265306123" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="2" LOG_CI_END="0.958503455999158" LOG_CI_START="-0.5830017127978089" LOG_EFFECT_SIZE="0.18775087160067458" ORDER="2069" O_E="0.0" SE="0.9054877667249881" STUDY_ID="STD-Gaab-1994" TOTAL_1="147" TOTAL_2="151" VAR="0.8199080956886065" WEIGHT="2.628273813285032"/>
+<DICH_DATA CI_END="16.414292039008583" CI_START="0.029735310371325555" EFFECT_SIZE="0.6986301369863014" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.21522215601556" LOG_CI_START="-1.5267275240605989" LOG_EFFECT_SIZE="-0.15575268402251952" ORDER="2070" O_E="0.0" SE="1.6106348149465526" STUDY_ID="STD-Giannotta-1984" TOTAL_1="72" TOTAL_2="16" VAR="2.5941445071179157" WEIGHT="1.0804132376077584"/>
+<DICH_DATA CI_END="3.550786952571207" CI_START="0.03908789061823662" EFFECT_SIZE="0.37254901960784315" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="3" LOG_CI_END="0.5503246153885162" LOG_CI_START="-1.407957765678731" LOG_EFFECT_SIZE="-0.4288165751451074" ORDER="2071" O_E="0.0" SE="1.1503047642930244" STUDY_ID="STD-Grumme-1995" TOTAL_1="187" TOTAL_2="209" VAR="1.3232010507552303" WEIGHT="3.774046240958609"/>
+<DICH_DATA CI_END="28.94440219304789" CI_START="0.32648563096473754" EFFECT_SIZE="3.074074074074074" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="1" LOG_CI_END="1.4615645842382303" LOG_CI_START="-0.4861359278040571" LOG_EFFECT_SIZE="0.4877143282170866" ORDER="2072" O_E="0.0" SE="1.1440889220466666" STUDY_ID="STD-Hernesniemi-1979" TOTAL_1="81" TOTAL_2="83" VAR="1.3089394615499033" WEIGHT="1.3157722188707917"/>
+<DICH_DATA CI_END="3.802382512991852" CI_START="0.07985085381994075" EFFECT_SIZE="0.5510204081632653" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="2" LOG_CI_END="0.5800558039879942" LOG_CI_START="-1.0977204357270471" LOG_EFFECT_SIZE="-0.2588323158695264" ORDER="2073" O_E="0.0" SE="0.9855340683349452" STUDY_ID="STD-Stubbs-1989" TOTAL_1="98" TOTAL_2="54" VAR="0.9712773998488284" WEIGHT="3.435199984030436"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2009-05-06 15:00:45 +0100" MODIFIED_BY="Karen Blackhall">
+<APPENDIX ID="APP-01" MODIFIED="2009-05-06 15:00:45 +0100" MODIFIED_BY="Karen Blackhall" NO="1">
+<TITLE MODIFIED="2009-05-06 14:57:23 +0100" MODIFIED_BY="Karen Blackhall">Previous search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2009-05-06 15:00:45 +0100" MODIFIED_BY="Karen Blackhall">
+<P>
+<B>CENTRAL SEARCH STRATEGY (The Cochrane Library 2005, Issue 4)</B>
+<BR/>#1 (head or crani* or capitis or brain* or forebrain* or skull* or hemisphere* or intracran* or orbit*) in ab or ti<BR/>#2 (injur* or trauma* or lesion* or damag* or wound* or destruction* or oedema* or edema* or fracture* or contusion* or commotion* or pressur*) in ab or ti<BR/>#3 (#1 and #2)<BR/>#4 BRAIN INJURIES<BR/>#5 DIFFUSE AXONAL INJURY<BR/>#6 CRANIOCEREBRAL TRAUMA<BR/>#7 #3 or #4 or #5 or #6<BR/>#8 (steroid* or glucocorticoid* or prednisolone* or betamethasone* or cortisone* or dexamethasone* or hydrocortisone* or methylprednisolone* or prednisone* or triamcinolone* or corticosteroid*) in ab or ti<BR/>#9 GLUCOCORTICOIDS<BR/>#10 ADRENAL CORTEX HORMONES<BR/>#11 (#8 or #9 or #10)<BR/>#12 (#7 and #11)</P>
+<P>
+<B>MEDLINE SEARCH STRATEGY (1966 to November 2005)</B>
+<BR/>1. explode "Craniocerebral-Trauma" / all SUBHEADINGS in MIME,MJME<BR/>2. (head or crani* or capitis or brain* or forebrain* or skull* or hemisphere* or intracran* or orbit*) near (injur* or trauma* or lesion* or damag* or wound* or destruction* or oedema* or edema* or fracture* or contusion* or commotion* or pressur*)<BR/>3. 1 or 2<BR/>4. explode "Adrenal-Cortex-Hormones" / all SUBHEADINGS in MIME,MJME<BR/>5. explode "Glucocorticoids-" / all SUBHEADINGS in MIME,MJME<BR/>6. steroid* or glucocorticoid* or prednisolone* or betamethasone* or cortisone* or dexamethasone* or hydrocortisone* or methylprednisolone* or prednisone* or triamcinolone* or corticosteroid*<BR/>7. 4 or 5 or 6<BR/>8. 3 and 7<BR/>9. 8 and (Cochrane highly sensitive RCT strategy)</P>
+<P>
+<B>EMBASE SEARCH STRATEGY (1980 to November 2005, week 46)</B>
+<BR/>1. exp Head Injury/<BR/>2. ((head or crani$ or capitis or brain$ or forebrain$ or skull$ or hemisphere$ or intracran$ or orbit$) adj3 (injur$ or trauma$ or lesion$ or damag$ or wound$ or destruction$ or oedema$ or edema$ or fracture$ or contusion$ or commotion$ or pressur$)).mp.[title,abstract]<BR/>3. 1 or 2<BR/>4. exp CORTICOSTEROID THERAPY/<BR/>5. (steroid$ or glucocorticoid$ or prednisolone$ or betamethasone$ or cortisone$ or dexamethasone$ or hydrocortisone$ or methylprednisolone$ or prednisone$ or triamcinolone$ or corticosteroid$).mp. [title, abstract]<BR/>6. Glucocorticoid/dt [Drug Therapy]<BR/>7. 4 or 5 or 6<BR/>8. 3 and 7</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2009-05-06 14:58:10 +0100" MODIFIED_BY="Karen Blackhall" NO="2">
+<TITLE MODIFIED="2009-05-06 14:56:42 +0100" MODIFIED_BY="Karen Blackhall">Search strategy: 2008 update</TITLE>
+<APPENDIX_BODY MODIFIED="2009-05-06 14:58:10 +0100" MODIFIED_BY="Karen Blackhall">
+<P>
+<B>CENTRAL (The Cochrane Library 2007, Issue 4)</B>
+<BR/>#1MeSH descriptor Craniocerebral Trauma explode all trees<BR/>#2MeSH descriptor Cerebrovascular Trauma explode all trees<BR/>#3MeSH descriptor Brain Edema explode all trees<BR/>#4(brain or cerebral or intracranial) near3 (oedema or edema or swell*)<BR/>#5MeSH descriptor Glasgow Coma Scale explode all trees<BR/>#6MeSH descriptor Glasgow Outcome Scale explode all trees<BR/>#7MeSH descriptor Unconsciousness explode all trees<BR/>#8glasgow near3 (coma or outcome) near3 (score or scale)<BR/>#9(Unconscious* or coma* or concuss* or 'persistent vegetative state') near 3 (injur* or trauma* or damag* or wound* or fracture*)<BR/>#10"Rancho Los Amigos Scale"<BR/>#11(head or crani* or cerebr* or capitis or brain* or forebrain* or skull* or hemispher* or intra-cran* or inter-cran*) near3 (injur* or trauma* or damag* or wound* or fracture* or contusion*)<BR/>#12Diffuse near3 axonal near3 injur*<BR/>#13(head or crani* or cerebr* or brain* or intra-cran* or inter-cran*) near3 (haematoma* or hematoma* or haemorrhag* or hemorrhag* or bleed* or pressure)<BR/>#14(#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13)<BR/>
+<BR/>
+<B>PubMed [www.ncbi.nlm.nih.gov/sites/entrez/] (searched 7 Jan 2008 (added to PubMed in the last 60 days)</B>
+<BR/>#1Craniocerebral Trauma [mh] OR Brain Edema [mh] OR Glasgow Coma Scale [mh] OR Glasgow Outcome Scale [mh] OR Unconsciousness [mh] OR Cerebrovascular Trauma [mh] OR ((head OR cranial OR cerebral OR brain* OR intra-cranial OR inter-cranial) AND (haematoma* OR hematoma* OR haemorrhag* OR hemorrhage* OR bleed* OR pressure)) OR (Glasgow AND scale) OR ("diffuse axonal injury" OR "diffuse axonal injuries") OR ("persistent vegetative state") OR ((unconscious* OR coma* OR concuss*) AND (injury* OR injuries OR trauma OR damage OR damaged OR wound* OR fracture* OR contusion* OR haematoma* OR hematoma* OR haemorrhag* OR hemorrhag* OR bleed* OR pressure))<BR/>#2(randomised OR randomized OR randomly OR random order OR random sequence OR random allocation OR randomly allocated OR at random OR randomized controlled trial [pt] OR controlled clinical trial [pt] OR randomized controlled trials [mh]) NOT ((models, animal[mh] OR Animals[mh] OR Animal Experimentation[mh] OR Disease Models, Animal[mh] OR Animals, Laboratory[mh]) NOT (Humans[mh]))<BR/>#3Search #1 AND #2 Limits: published in the last 60 days<BR/>
+<BR/>
+<B>MEDLINE (Ovid SP) 1950 to Nov (week 2) 2007</B>
+<BR/>1.exp Craniocerebral Trauma/<BR/>2.exp Brain Edema/<BR/>3.exp Glasgow Coma Scale/<BR/>4.exp Glasgow Outcome Scale/<BR/>5.exp Unconsciousness/<BR/>6.exp Cerebrovascular Trauma/<BR/>7.((head or crani$ or cerebr$ or capitis or brain$ or forebrain$ or skull$ or hemispher$ or intra-cran$ or inter-cran$) adj3 (injur$ or trauma$ or damag$ or wound$ or fracture$ or contusion$)).ab,ti.<BR/>8.((head or crani$ or cerebr$ or brain$ or intra-cran$ or inter-cran$) adj3 (haematoma$ or hematoma$ or haemorrhag$ or hemorrhag$ or bleed$ or pressure)).ti,ab.<BR/>9.(Glasgow adj3 (coma or outcome) adj3 (scale$ or score$)).ab,ti.<BR/>10."rancho los amigos scale".ti,ab.<BR/>11.("diffuse axonal injury" or "diffuse axonal injuries").ti,ab.<BR/>12.((brain or cerebral or intracranial) adj3 (oedema or edema or swell$)).ab,ti.<BR/>13.((unconscious$ or coma$ or concuss$ or 'persistent vegetative state') adj3 (injur$ or trauma$ or damag$ or wound$ or fracture$)).ti,ab.<BR/>14.or/1-13<BR/>15. (randomised or randomized or randomly or random order or random sequence or random allocation or randomly allocated or at random or controlled clinical trial$).tw,hw.<BR/>16.clinical trial.pt.<BR/>17.randomized controlled trial.pt.<BR/>18.17 or 18 or 19<BR/>19.exp models, animal/<BR/>20.exp Animals/<BR/>21.exp Animal Experimentation/<BR/>22.exp Disease Models, Animal/<BR/>23.exp Animals, Laboratory/<BR/>24.or/21-25<BR/>25.Humans/<BR/>26.20 not 25<BR/>27.18 not 26<BR/>28.14 and 27<BR/>29.2007$.ed.<BR/>30.28 and 29<BR/>
+<BR/>
+<B>EMBASE (Ovid SP) 1980 to (week 1) Jan 2008</B>
+<BR/>1.exp Brain Injury/<BR/>2.exp Brain Edema/<BR/>3.exp Glasgow Coma Scale/<BR/>4.exp Glasgow Outcome Scale/<BR/>5.exp Rancho Los Amigos Scale/<BR/>6.exp Unconsciousness/<BR/>7.((brain or cerebral or intracranial) adj3 (oedema or edema or swell$)).ab,ti.<BR/>8.((head or crani$ or cerebr$ or capitis or brain$ or forebrain$ or skull$ or hemispher$ or intra-cran$ or inter-cran$) adj3 (injur$ or trauma$ or damag$ or wound$ or fracture$ or contusion$)).ab,ti.<BR/>9.(Glasgow adj3 (coma or outcome) adj3 (scale$ or score$)).ab,ti.<BR/>10.Rancho Los Amigos Scale.ab,ti.<BR/>11.((unconscious$ or coma$ or concuss$ or 'persistent vegetative state') adj3 (injur$ or trauma$ or damag$ or wound$ or fracture$)).ti,ab.<BR/>12.Diffuse axonal injur$.ab,ti.<BR/>13.((head or crani$ or cerebr$ or brain$ or intra-cran$ or inter-cran$) adj3 (haematoma$ or hematoma$ or haemorrhag$ or hemorrhag$ or bleed$ or pressure)).ab,ti.<BR/>14.or/1-13<BR/>15.exp animal model/<BR/>16.Animal Experiment/<BR/>17.exp ANIMAL/<BR/>18.exp Experimental Animal/<BR/>19.1 or 2 or 3 or 4<BR/>20.Human/<BR/>21.5 not 6<BR/>22.(randomised or randomized or randomly or random order or random sequence or random allocation or randomly allocated or at random or controlled clinical trial$).tw,hw.<BR/>23.exp clinical trial/<BR/>24.8 or 9<BR/>25.10 not 7<BR/>26.14 and 25<BR/>27.2007$.em.<BR/>28.26 and 27<BR/>
+<BR/>
+<B>PsycINFO (Ovid SP) 1806 to April 2007</B>
+<BR/>1.explode "Head-Injuries" in MJ,MN<BR/>2.explode "Brain-Damage" in MJ,MN<BR/>3.explode "Traumatic-Brain-Injury" in MJ,MN<BR/>4.explode "Brain-Concussion" in MJ,MN<BR/>5.explode "Coma-" in MJ,MN<BR/>6.Unconscious* or coma* or concuss* or "persistent vegetative state"<BR/>7.(head or crani* or cerebr* or capitis or brain* or forebrain* or skull* or hemispher* or intra-cran* or inter-cran*) near (injur* or trauma* or damag* or wound* or fracture* or contusion*)<BR/>8.(head or crani* or cerebr* or brain* or intra-cran* or inter-cran*) near (haematoma* or hematoma* or haemorrhag* or hemorrhag* or bleed* or pressure)<BR/>9.#1 or #2 or #3 or #4 or #5 or #6 or #7 or #8<BR/>
+</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

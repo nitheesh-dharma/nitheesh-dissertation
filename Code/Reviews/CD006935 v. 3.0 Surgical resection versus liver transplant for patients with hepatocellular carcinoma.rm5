@@ -1,0 +1,3282 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD006935" GROUP_ID="LIVER" ID="809906100310312296" MERGED_FROM="" MODIFIED="2013-06-28 12:20:39 +0100" MODIFIED_BY="Dimitrinka Nikolova" REVIEW_NO="01" REVMAN_SUB_VERSION="5.2.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="3.0">
+<COVER_SHEET MODIFIED="2013-06-28 11:18:01 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<TITLE MODIFIED="2011-09-12 15:10:01 +0200" MODIFIED_BY="Dimitrinka Nikolova">Surgical resection versus liver transplant for patients with hepatocellular carcinoma</TITLE>
+<CONTACT>
+<PERSON ID="14473720774900973945100719101743" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Amir</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Taefi</LAST_NAME>
+<SUFFIX/>
+<POSITION>Resident</POSITION>
+<EMAIL_1>amirtaefi@yahoo.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Internal Medicine</DEPARTMENT>
+<ORGANISATION>Medstar Washington Hospital Center</ORGANISATION>
+<ADDRESS_1>110 Irving Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Washington</CITY>
+<ZIP>20010</ZIP>
+<REGION>DC</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2013-06-28 11:18:01 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<PERSON ID="14473720774900973945100719101743" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Amir</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Taefi</LAST_NAME>
+<SUFFIX/>
+<POSITION>Resident</POSITION>
+<EMAIL_1>amirtaefi@yahoo.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Internal Medicine</DEPARTMENT>
+<ORGANISATION>Medstar Washington Hospital Center</ORGANISATION>
+<ADDRESS_1>110 Irving Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Washington</CITY>
+<ZIP>20010</ZIP>
+<REGION>DC</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="906F981E82E26AA2010A5314B2327BAE" ROLE="AUTHOR">
+<PREFIX>Dr.</PREFIX>
+<FIRST_NAME>Amir</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Abrishami</LAST_NAME>
+<SUFFIX/>
+<POSITION>Clinical Research Fellow</POSITION>
+<EMAIL_1>amir.abrishami@uhn.on.ca</EMAIL_1>
+<EMAIL_2/>
+<URL>www.samconip.com</URL>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Anesthesia</DEPARTMENT>
+<ORGANISATION>Toronto Western Hospital, University Health Network, University of Toronto</ORGANISATION>
+<ADDRESS_1>399 Bathurst Street, 2-241A McLaughlin Wing</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Toronto</CITY>
+<ZIP>M5T 2S8</ZIP>
+<REGION>Ontario</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>416 603 5800 ext 2144</PHONE_1>
+<PHONE_2>647 205 7744</PHONE_2>
+<FAX_1>416 603 4694</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="95D34B9B82E26AA201C330AA31F07DD0" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Siavosh</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Nasseri-Moghaddam</LAST_NAME>
+<SUFFIX/>
+<POSITION>Associate Professor of Medicine</POSITION>
+<EMAIL_1>sianasseri@yahoo.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Digestive Diseases Research Centre</DEPARTMENT>
+<ORGANISATION>Shariati Hospital, Tehran University of Medical Sciences</ORGANISATION>
+<ADDRESS_1>North Kargar Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Tehran</CITY>
+<ZIP>14117</ZIP>
+<REGION>Tehran</REGION>
+<COUNTRY CODE="IR">Iran</COUNTRY>
+<PHONE_1>+98 21 8801 2992</PHONE_1>
+<PHONE_2/>
+<FAX_1>+98 21 8801 2992</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="1FD9F53982E26AA20147164D70A61A8A" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Bijan</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Eghtesad</LAST_NAME>
+<SUFFIX>MD</SUFFIX>
+<POSITION>Staff Liver Surgeon</POSITION>
+<EMAIL_1>livermanusa@yahoo.com</EMAIL_1>
+<EMAIL_2>eghtesb@ccf.org</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Cleveland Clinic Main Campus, Transplant Surgery Desk A-100</ORGANISATION>
+<ADDRESS_1>9500 Euclid Avenue</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Cleveland</CITY>
+<ZIP>OH 44195</ZIP>
+<REGION/>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>216 444-9898</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5441" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Morris</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Sherman</LAST_NAME>
+<SUFFIX>MD PhD</SUFFIX>
+<POSITION>Director GI Teaching Program</POSITION>
+<EMAIL_1>morrissherman@globalserve.net</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Toronto General Hospital</ORGANISATION>
+<ADDRESS_1>585 University Avenue</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Toronto</CITY>
+<ZIP>ON M5G 2N2</ZIP>
+<REGION/>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 416 340 4756</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 416 591 2107</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2013-03-07 21:01:09 +0100" MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="18" MONTH="2" YEAR="2013"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="18" MONTH="2" YEAR="2013"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="18" MONTH="2" YEAR="2015"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2008"/>
+<REVIEW_PUBLISHED ISSUE="" YEAR=""/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2008"/>
+</DATES>
+<WHATS_NEW MODIFIED="2011-07-12 14:59:44 +0200" MODIFIED_BY="Dimitrinka Nikolova"/>
+<HISTORY/>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2013-06-28 12:51:47 +0200" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2013-06-28 11:36:37 +0200" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2011-09-25 15:56:32 +0200" MODIFIED_BY="[Empty name]">Surgical resection versus liver transplantation for hepatocellular carcinoma</TITLE>
+<SUMMARY_BODY MODIFIED="2013-06-28 11:36:37 +0200" MODIFIED_BY="[Empty name]">
+<P>The two main treatments for hepatocellular carcinoma are liver transplantation and liver resection. To compare these two methods with each other, we searched literature databases until February 2013 for randomised clinical trials comparing hepatic resection versus liver transplantation as the methods of managing hepatocellular carcinoma. None of the identified studies met our inclusion criteria. There were no randomised clinical trials found that could be included for analysis in this review. No randomised clinical trials could support or refute surgical resection compared with liver transplantation for patients with hepatocellular carcinoma.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2013-06-28 11:34:49 +0200" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2013-06-12 17:19:22 +0200" MODIFIED_BY="[Empty name]">
+<P>Hepatocellular carcinoma is a major worldwide health problem, involving more than half a million new patients yearly, with a different incidence in different parts of the world. Hepatocellular carcinoma develops in about 80% of cirrhotic patients, and cirrhosis is considered the strongest predisposing factor for it. Surgical resection and liver transplantation are conventional treatment modalities that can offer long-term survival for patients with hepatocellular carcinoma.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2011-07-13 01:12:47 +0200" MODIFIED_BY="[Empty name]">
+<P>To assess the benefits and harms of surgical resection compared with those of liver transplantation in patients with hepatocellular carcinoma.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2013-06-14 15:13:13 +0200" MODIFIED_BY="[Empty name]">
+<P>We searched The Cochrane Hepato-Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in <I>The Cochrane Library</I>, MEDLINE, EMBASE, and Science Citation Index Expanded (SCI-EXPANDED) at ISI Web of Science<I> </I>(last<I> </I>search February 2013)<I>. </I>We also searched the<I> </I>abstracts from annual meetings of the American Society of Clinical Oncology, the American Association for the Study of Liver Diseases (AASLD), and the European Association for the Study of the Liver (EASL), provided through The Cochrane Hepato-Biliary Group until February 2013.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2011-09-12 15:10:46 +0200" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trials comparing surgical resection and hepatic transplantation.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2013-06-28 11:33:25 +0200" MODIFIED_BY="[Empty name]">
+<P>The search strategies were run and two authors individually evaluated whether the retrieved studies fulfilled the inclusion criteria.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2011-09-12 15:21:33 +0200" MODIFIED_BY="[Empty name]">
+<P>No randomised clinical trials comparing surgical resection and liver transplantation as the major methods of treating hepatocellular carcinoma were found.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2013-06-28 11:34:49 +0200" MODIFIED_BY="[Empty name]">
+<P>There are no randomised clinical trials comparing surgical resection and liver transplantation for hepatocellular carcinoma treatment.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2013-06-28 12:51:47 +0200" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2013-06-28 12:16:25 +0200" MODIFIED_BY="[Empty name]">
+<P>Hepatocellular carcinoma is a major worldwide health problem, involving more than half a million new patients yearly (<LINK REF="REF-Llovet-2005" TYPE="REFERENCE">Llovet 2005</LINK>). The incidence ranges from less than 10 patients per 100,000 persons in North America and Western Europe to 50 to 150 patients per 100,000 persons in parts of Africa and Asia where hepatocellular carcinoma is responsible for a large number of cancer deaths (<LINK REF="REF-Blum-2005" TYPE="REFERENCE">Blum 2005</LINK>). However, a rise in the incidence of and mortality from hepatocellular carcinoma, most likely reflecting the increased prevalence of hepatitis C virus (HCV) infection, has recently been observed in most industrialised countries (<LINK REF="REF-Taylor_x002d_Robinson-1997" TYPE="REFERENCE">Taylor-Robinson 1997</LINK>; <LINK REF="REF-Deuffic-1998" TYPE="REFERENCE">Deuffic 1998</LINK>; <LINK REF="REF-El_x002d_Serag-2007" TYPE="REFERENCE">El-Serag 2007</LINK>).</P>
+<P>Hepatocellular carcinoma has a significantly higher incidence in cirrhotic patients, and cirrhosis has been recognised as the strongest predisposing factor (<LINK REF="REF-Collier-1998" TYPE="REFERENCE">Collier 1998</LINK>; <LINK REF="REF-Llovet-2003" TYPE="REFERENCE">Llovet 2003</LINK>; <LINK REF="REF-Sherman-2005" TYPE="REFERENCE">Sherman 2005</LINK>). Hepatitis B virus (HBV) infection is the main risk factor in Asia and Africa, where chronic carriers have a 100-fold relative risk for developing hepatocellular carcinoma compared to non-carriers (<LINK REF="REF-Bosch-2004" TYPE="REFERENCE">Bosch 2004</LINK>). In China, the lifetime risk of hepatocellular carcinoma in patients with chronic hepatitis B approaches 40% (<LINK REF="REF-Carr-2012" TYPE="REFERENCE">Carr 2012</LINK>). In Western countries, however, hepatitis C virus (HCV) infection and alcoholism are the main risk factors, together with other causes of cirrhosis such as primary or secondary haemochromatosis, 1-antitrypsin deficiency, Wilson's disease, and primary biliary cirrhosis (<LINK REF="REF-Badvie-2000" TYPE="REFERENCE">Badvie 2000</LINK>; <LINK REF="REF-Llovet-2003" TYPE="REFERENCE">Llovet 2003</LINK>; <LINK REF="REF-Bosch-2004" TYPE="REFERENCE">Bosch 2004</LINK>; <LINK REF="REF-Bruix-2006" TYPE="REFERENCE">Bruix 2006</LINK>).</P>
+<P>Until the development of ultrasound, most of the hepatocellular carcinoma patients were diagnosed at a symptomatic stage when the tumour was already advanced, and hence treatment was unfeasible (<LINK REF="REF-Clark-2005" TYPE="REFERENCE">Clark 2005</LINK>; <LINK REF="REF-Bruix-2006" TYPE="REFERENCE">Bruix 2006</LINK>). In advanced hepatocellular carcinoma, life expectancy after diagnosis was short and most patients died within the first year of follow-up. Median survival times have been reported as under 13 months, for example, 0.9 months to 12.8 months for patients receiving no specific treatment and three months to six months after the onset of symptoms (<LINK REF="REF-Paraskevopoulos-1994" TYPE="REFERENCE">Paraskevopoulos 1994</LINK>; <LINK REF="REF-Wallner-1994" TYPE="REFERENCE">Wallner 1994</LINK>; <LINK REF="REF-Llovet-2003" TYPE="REFERENCE">Llovet 2003</LINK>; <LINK REF="REF-Bruix-2006" TYPE="REFERENCE">Bruix 2006</LINK>). Nowadays, however, ultrasound allows early hepatocellular carcinoma detection and dynamic imaging techniques, such as computed tomography (CT) or magnetic resonance imaging (MRI), permit an accurate assessment of tumour burden (<LINK REF="REF-Bruix-2005" TYPE="REFERENCE">Bruix 2005</LINK>; <LINK REF="REF-Lencioni-2005" TYPE="REFERENCE">Lencioni 2005</LINK>).</P>
+<P>Surgical resection and liver transplantation are conventional treatment modalities that can offer long-term survival for patients with hepatocellular carcinoma (<LINK REF="STD-Mazzaferro-1996" TYPE="STUDY">Mazzaferro 1996</LINK>; <LINK REF="REF-Grazi-2001" TYPE="REFERENCE">Grazi 2001</LINK>; <LINK REF="REF-Liu-2004" TYPE="REFERENCE">Liu 2004</LINK>; <LINK REF="REF-Llovet-2005" TYPE="REFERENCE">Llovet 2005</LINK>; <LINK REF="REF-McCormack-2005" TYPE="REFERENCE">McCormack 2005</LINK>). Liver resection is the most common treatment (<LINK REF="REF-Ribero-2006" TYPE="REFERENCE">Ribero 2006</LINK>) as transplantation is limited by a shortage of donor organs (<LINK REF="STD-Llovet-1999" TYPE="STUDY">Llovet 1999</LINK>; <LINK REF="REF-Kim-2006" TYPE="REFERENCE">Kim 2006</LINK>) and the associated risks of life-time immunosuppression (<LINK REF="REF-Botha-2007" TYPE="REFERENCE">Botha 2007</LINK>; <LINK REF="REF-Mazariegos-2007" TYPE="REFERENCE">Mazariegos 2007</LINK>). The ultimate goal of hepatic resection of hepatocellular carcinoma is to prolong overall survival and to improve quality of life by eradicating the malignancy while preserving hepatic function (<LINK REF="REF-Bain-1997" TYPE="REFERENCE">Bain 1997</LINK>; <LINK REF="REF-Song-2004" TYPE="REFERENCE">Song 2004</LINK>; <LINK REF="REF-Sotiropoulos-2006" TYPE="REFERENCE">Sotiropoulos 2006</LINK>). Percutaneous local ablative therapies are alternative treatment options for hepatocellular carcinoma that have been studied in some trials and have been shown to have comparable results to surgery, specially for those patients with early hepatocellular carcinoma (<LINK REF="REF-Livraghi-1995" TYPE="REFERENCE">Livraghi 1995</LINK>; <LINK REF="REF-Ohnishi-1996" TYPE="REFERENCE">Ohnishi 1996</LINK>; <LINK REF="REF-Lencioni-1997" TYPE="REFERENCE">Lencioni 1997</LINK>; <LINK REF="REF-Ohnishi-1998" TYPE="REFERENCE">Ohnishi 1998</LINK>; <LINK REF="REF-Lencioni-2003" TYPE="REFERENCE">Lencioni 2003</LINK>).</P>
+<P>Resectability of hepatocellular carcinoma depends on many factors, such as hepatic distribution of the tumour, vascular invasion, liver function, size of residual liver, and expertise of the surgical team (<LINK REF="REF-Bain-1997" TYPE="REFERENCE">Bain 1997</LINK>; <LINK REF="REF-Song-2004" TYPE="REFERENCE">Song 2004</LINK>; <LINK REF="REF-Llovet-2005" TYPE="REFERENCE">Llovet 2005</LINK>). Although there are no strict criteria, patients with solitary lesions (less than 5 cm in diameter) confined to one liver lobe without vascular invasion and with well-preserved hepatic function are the best candidates for surgical resection (<LINK REF="REF-Song-2004" TYPE="REFERENCE">Song 2004</LINK>; <LINK REF="REF-Botha-2007" TYPE="REFERENCE">Botha 2007</LINK>). In contrast with some previous studies in which only 10% to 20% of tumours were resectable at the time of diagnosis (<LINK REF="REF-Nagorney-1989" TYPE="REFERENCE">Nagorney 1989</LINK>; <LINK REF="REF-Paquet-1991" TYPE="REFERENCE">Paquet 1991</LINK>), it has been shown that resection of hepatocellular carcinoma is currently possible in 60% of patients in Asia, and 25% to 40% of patients in Western countries (<LINK REF="REF-Llovet-2005" TYPE="REFERENCE">Llovet 2005</LINK>; <LINK REF="REF-McCormack-2005" TYPE="REFERENCE">McCormack 2005</LINK>). It has been shown that 20% to 25% of the surgical population with hepatocellular carcinoma are both transplantable and resectable (<LINK REF="REF-Adam-2003" TYPE="REFERENCE">Adam 2003</LINK>), which makes the decision in selecting the first-line treatment for hepatocellular carcinoma more difficult (<LINK REF="REF-Bhoori-2007" TYPE="REFERENCE">Bhoori 2007</LINK>).</P>
+<P>Over the last two decades, the safety of surgical resections has greatly improved because of advances in radiologic assessment, patient selection, and perioperative management (<LINK REF="REF-Song-2004" TYPE="REFERENCE">Song 2004</LINK>; <LINK REF="REF-Llovet-2005" TYPE="REFERENCE">Llovet 2005</LINK>). The operative mortality proportion for hepatectomy has decreased from the 10% to 20% level seen in the 1980s to less than 5% today (<LINK REF="REF-Poon-2004" TYPE="REFERENCE">Poon 2004</LINK>; <LINK REF="REF-Song-2004" TYPE="REFERENCE">Song 2004</LINK>). In non-cirrhotic hepatocellular carcinoma patients, surgical resection is associated with a five-year survival of 40% to 50% (<LINK REF="STD-Fong-1999" TYPE="STUDY">Fong 1999</LINK>; <LINK REF="REF-Marin-2003" TYPE="REFERENCE">Marin 2003</LINK>; <LINK REF="REF-Popescu-2005" TYPE="REFERENCE">Popescu 2005</LINK>; <LINK REF="REF-Capussotti-2006" TYPE="REFERENCE">Capussotti 2006</LINK>) and as high as 68% in one study (<LINK REF="REF-Nagasue-1986" TYPE="REFERENCE">Nagasue 1986</LINK>). In cirrhotic hepatocellular carcinoma patients, operative mortality is higher than in non-cirrhotic patients (10% compared to 4%) and of those who survive the surgery a five-year survival of 25% to 37% has been reported (<LINK REF="REF-Farmer-1994" TYPE="REFERENCE">Farmer 1994</LINK>; <LINK REF="STD-Fong-1999" TYPE="STUDY">Fong 1999</LINK>; <LINK REF="REF-Grazi-2001" TYPE="REFERENCE">Grazi 2001</LINK>; <LINK REF="REF-Yeh-2002" TYPE="REFERENCE">Yeh 2002</LINK>; <LINK REF="REF-Poon-2004" TYPE="REFERENCE">Poon 2004</LINK>). Generally, resection yields better results (five-year survival of 60% to 70%) in patients with early hepatocellular carcinoma who present with single tumours and excellent liver functional reserve (<LINK REF="REF-Bruix-1996" TYPE="REFERENCE">Bruix 1996</LINK>; <LINK REF="REF-Takayama-1998" TYPE="REFERENCE">Takayama 1998</LINK>; <LINK REF="STD-Llovet-1999" TYPE="STUDY">Llovet 1999</LINK>; <LINK REF="REF-Takayama-2000" TYPE="REFERENCE">Takayama 2000</LINK>; <LINK REF="REF-Okuda-2002" TYPE="REFERENCE">Okuda 2002</LINK>). Recent improvements in screening of hepatocellular carcinoma, leading to detection of the tumour at early stages when it is more likely to be operable (<LINK REF="REF-Llovet-2005" TYPE="REFERENCE">Llovet 2005</LINK>), alongside advances in surgical techniques, such as treatment of large tumours, that is more than 10 cm in diameter (<LINK REF="REF-Verhoef-2004" TYPE="REFERENCE">Verhoef 2004</LINK>; <LINK REF="REF-Capussotti-2006" TYPE="REFERENCE">Capussotti 2006</LINK>), have added value to liver resection as a treatment option.</P>
+<P>As a treatment option for hepatocellular carcinoma, liver transplantation is hypothetically superior to resection because it permits radical resection of the primary tumour, treatment of the underlying liver disease, treatment of the portal hypertension, and reduces the risk of developing new hepatocellular carcinomas and progression to end-stage liver failure. For many patients it is not possible to perform resection because of the tumour size, anatomical location of the tumour, or poor liver function, and liver transplantation is the only surgical option (<LINK REF="STD-Bartlett-2008" TYPE="STUDY">Bartlett 2008</LINK>). However, liver transplantation has its own drawbacks, such as a long waiting time due to the scarcity of organs and the risks of immunosuppression.</P>
+<P>The first popular proposed guideline for selecting the patients to undergo liver transplantation was the Milan criteria guideline (single hepatocellular carcinoma &#8804; 5 cm or up to three nodules &#8804; 3 cm in diameter; no extrahepatic manifestations; and no vascular incision) (<LINK REF="STD-Bismuth-1993" TYPE="STUDY">Bismuth 1993</LINK>; <LINK REF="STD-Mazzaferro-1996" TYPE="STUDY">Mazzaferro 1996</LINK>). This guideline has become the gold standard in many centres for selecting patients for liver transplantation. The Milan criteria showed four-year overall and disease-free survival rates of 85% and 92%, respectively (<LINK REF="STD-Mazzaferro-1996" TYPE="STUDY">Mazzaferro 1996</LINK>). These outcomes for early hepatocellular carcinoma have been confirmed in many other studies, with reported five-year overall survival rates of 58% to 74% (<LINK REF="STD-Llovet-1999" TYPE="STUDY">Llovet 1999</LINK>; <LINK REF="STD-Figueras-2001" TYPE="STUDY">Figueras 2001</LINK>). Despite the acceptable results of the Milan criteria, some practitioners believe that they are too restrictive and more patients may benefit from liver transplantation. By analysing the outcomes of 70 patients with hepatocellular carcinoma undergoing liver transplantation, <LINK REF="STD-Yao-2001" TYPE="STUDY">Yao 2001</LINK> found that patients with a single lesion &#8804; 6.5 cm, two to three nodules with the largest &#8804; 4.5 cm, or a total tumour diameter &#8804; 8 cm had a 75% five-year survival and proposed the University of California at San Francisco (UCSF) criteria. Patients surpassing the UCSF criteria, however, had a one-year survival rate of 50% following liver transplantation (<LINK REF="STD-Yao-2001" TYPE="STUDY">Yao 2001</LINK>). A study analysing 1206 patients who underwent liver transplantation found that patients with two to four tumours &#8804; 5 cm or a solitary hepatocellular carcinoma &#8804; 6 cm had tumour-free survival similar to those that were within the Milan criteria (<LINK REF="REF-Onaca-2007" TYPE="REFERENCE">Onaca 2007</LINK>). Although the results for the expanded criteria seem promising, a retrospective study found that patients meeting the Milan criteria pre-transplant had a five-year survival rate of 60% compared to 45% for those exceeding the Milan criteria but meeting the UCSF criteria (<LINK REF="STD-Decaens-2006" TYPE="STUDY">Decaens 2006</LINK>).</P>
+<P>Another option for treating patients with hepatocellular carcinoma is salvage transplant. In this method liver resection is performed initially and a liver transplant is reserved for patients whose liver function deteriorates or who develop more intrahepatic tumours (<LINK REF="STD-Bartlett-2008" TYPE="STUDY">Bartlett 2008</LINK>). This method is practical, particularly considering the discrepancy between the demand and number of available organs for transplant. The reported outcomes of salvage transplant are different in different studies. While some studies have shown higher morbidity, mortality, and tumour recurrence (<LINK REF="REF-Adam-2003" TYPE="REFERENCE">Adam 2003</LINK>; <LINK REF="REF-Hwang-2007" TYPE="REFERENCE">Hwang 2007</LINK>) others have shown no difference in the disease-free or overall survival, and no increases in the perioperative difficulty between primary and salvage transplant (<LINK REF="STD-Belghiti-2003" TYPE="STUDY">Belghiti 2003</LINK>; <LINK REF="REF-Li-2012" TYPE="REFERENCE">Li 2012</LINK>). Salvage transplant has been proposed as an acceptable treatment method (<LINK REF="REF-Wu-2012" TYPE="REFERENCE">Wu 2012</LINK>).</P>
+<P>It should be mentioned that a comparison between surgical resection and no intervention or a sham procedure could not be expected to be studied in this systematic review. To the knowledge of the review authors, there are no trials using sham surgery for hepatocellular carcinoma in human beings since the use of sham surgery would be considered unethical.</P>
+<IMPORTANCE MODIFIED="2013-06-28 12:16:25 +0200" MODIFIED_BY="[Empty name]">
+<P>While the comparison between surgery and percutaneous therapies for hepatocellular carcinoma has been addressed by a Cochrane review (<LINK REF="REF-Galandi-2004" TYPE="REFERENCE">Galandi 2004</LINK>) and a Cochrane protocol (<LINK REF="REF-Schoppmeyer-2007" TYPE="REFERENCE">Schoppmeyer 2007</LINK>), a comparison for hepatic resection versus transplantation has not yet been made. Therefore, it seems essential to conduct a systematic review in order to compare the beneficial and harmful effects of surgical resection with those of liver transplantation in patients with hepatocellular carcinoma on the basis of randomised clinical trials.</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To assess the benefits and harms of surgical resection compared with those of liver transplantation in patients with hepatocellular carcinoma.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2013-06-28 12:51:47 +0200" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2013-06-28 12:19:27 +0200" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2013-06-14 15:13:42 +0200" MODIFIED_BY="[Empty name]">
+<P>Randomised clinical trials irrespective of blinding, language, publication status, or date. Quasi-randomised studies (for example, allocation by date of birth, day of the week, etc) and observational studies that may be identified in the search results were to be considered for assessment of harms.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2013-06-12 17:28:07 +0200" MODIFIED_BY="[Empty name]">
+<P>Participants with diagnosis of hepatocellular carcinoma (at any stage) according to the definitions of the individual trials or with no explicit definitions.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2013-06-28 12:16:54 +0200" MODIFIED_BY="[Empty name]">
+<P>We planned to include trials that compared participants undergoing surgical resection of hepatocellular carcinoma liver tissue with participants receiving a liver transplant. <BR/>
+<BR/>Surgical resection of the liver is employed either alone or with other co-interventions. Co-interventions were to be allowed if they were comparable in all the intervention groups of the randomised clinical trial.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2013-06-28 12:19:27 +0200" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="5">Primary outcome</HEADING>
+<P>&#8226; One-, three-, and five-year overall survival, and disease-free survival.<BR/>&#8226; Frequency of adverse events. We defined serious adverse events according to the International Conference on Harmonisation (ICH) Guidelines (<LINK REF="REF-ICH_x002d_GCP-1997" TYPE="REFERENCE">ICH-GCP 1997</LINK>) as any event that leads to death, is life-threatening, requires in-patient hospitalisation or prolongation of existing hospitalisation, results in persistent or significant disability, and any important medical event which may have jeopardised the patient or requires intervention to prevent it. All other adverse events were considered non-serious.<BR/>&#8226; Quality of life, according to the measures used in the individual trial.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Secondary outcomes</HEADING>
+<P>&#8226; Recurrence of hepatocellular carcinoma.<BR/>&#8226; Time to progression: time from randomisation to progression of disease, recurrence, or death (any cause).<BR/>&#8226; Time to symptomatic progression: time from randomisation to symptomatic progression of disease, development of recurrent symptoms, or death (any cause).<BR/>&#8226; Duration of hospital stay.<BR/>&#8226; Cost-effectiveness: the estimated costs related to the interventions weighed against any possible health gains.</P>
+</SUBSECTION>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2013-06-26 12:07:38 +0200" MODIFIED_BY="[Empty name]">
+<P>We searched The Cochrane Hepato-Biliary Group Controlled Trials Register (<LINK REF="REF-Gluud-2013" TYPE="REFERENCE">Gluud 2013</LINK>), the Cochrane Central Register of Controlled Trials (CENTRAL) in <I>The Cochrane Library</I>, MEDLINE, EMBASE, and Science Citation Index Expanded (SCI-EXPANDED) (<LINK REF="REF-Royle-2003" TYPE="REFERENCE">Royle 2003</LINK>) until February 2013<I>.</I> The search strategies with the time spans of the searches are given in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+<P>In addition, abstracts from the annual meetings of the American Society of Clinical Oncology, the American Association for the Study of Liver Diseases (AASLD), and the European Association for the Study of the Liver (EASL) were handsearched (from 1997 to July 2012) through the work of the Cochrane Hepato-Biliary Group (<LINK REF="REF-Gluud-2013" TYPE="REFERENCE">Gluud 2013</LINK>). Further trials were sought through scanning the reference lists of relevant articles.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2013-06-28 12:51:47 +0200" MODIFIED_BY="[Empty name]">
+<P>We performed the systematic review following the instructions given in the <I>Cochrane Handbook for Systematic Reviews of Intervention</I> (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>) and the Cochrane Hepato-Biliary Group Module (<LINK REF="REF-Gluud-2013" TYPE="REFERENCE">Gluud 2013</LINK>).</P>
+<P>The search strategies were run, and two authors (AT and SNM) individually evaluated whether the trials fulfilled the inclusion criteria. MOS arbitrated in the case of disagreements. Excluded studies were listed with the reasons for exclusion.</P>
+<P>Methodological quality is defined by the confidence one has that the design and the report of the randomised trial would restrict bias in the comparison of the intervention (<LINK REF="REF-Moher-1998" TYPE="REFERENCE">Moher 1998</LINK>). According to empirical evidence (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>; <LINK REF="REF-Moher-1998" TYPE="REFERENCE">Moher 1998</LINK>; <LINK REF="REF-Kjaergard-2001" TYPE="REFERENCE">Kjaergard 2001</LINK>; <LINK REF="REF-Wood-2008" TYPE="REFERENCE">Wood 2008</LINK>; <LINK REF="REF-Lundh-2012" TYPE="REFERENCE">Lundh 2012</LINK>; <LINK REF="REF-Savovi_x0107_-2012" TYPE="REFERENCE">Savovi&#263; 2012</LINK>; <LINK REF="REF-Savovi_x0107_-2012a" TYPE="REFERENCE">Savovi&#263; 2012a</LINK>), risk of bias in a trial can be assessed using risk of bias domains. These are the following: </P>
+<SUBSECTION>
+<HEADING LEVEL="5">Allocation sequence generation</HEADING>
+<P>- Low risk of bias: sequence generation was achieved using computer random number generation or a random number table. Drawing lots, tossing a coin, shuffling cards, and throwing dice are adequate if performed by an independent person not otherwise involved in the trial.<BR/>- Uncertain risk of bias: the method of sequence generation was not specified.<BR/>- High risk of bias: the sequence generation method was not random.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Allocation concealment</HEADING>
+<P>- Low risk of bias: the participant allocations could not have been foreseen in advance of, or during, enrolment. Allocation was controlled by a central and independent randomisation unit. The allocation sequence was unknown to the investigators (eg, if the allocation sequence was hidden in sequentially numbered, opaque, and sealed envelopes).<BR/>- Uncertain risk of bias: the method used to conceal the allocation was not described so that intervention allocations may have been foreseen in advance of, or during, enrolment.<BR/>- High risk of bias: the allocation sequence was likely to be known to the investigators who assigned the participants.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Blinding of participants, personnel, and outcome assessors</HEADING>
+<P>- Low risk of bias: blinding was performed adequately, or the assessment of outcomes was not likely to be influenced by lack of blinding.<BR/>- Uncertain risk of bias: there was insufficient information to assess whether blinding was likely to induce bias on the results.<BR/>- High risk of bias: no blinding or incomplete blinding, and the assessment of outcomes was likely to be influenced by lack of blinding.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Incomplete outcome data</HEADING>
+<P>- Low risk of bias: missing data were unlikely to make treatment effects depart from plausible values. Sufficient methods, such as multiple imputation, have been employed to handle missing data.<BR/>- Uncertain risk of bias: there was insufficient information to assess whether missing data in combination with the method used to handle missing data were likely to induce bias on the results.<BR/>- High risk of bias: the results were likely to be biased due to missing data.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Selective outcome reporting*</HEADING>
+<P>- Low risk of bias: all outcomes were pre-defined and reported, or all clinically relevant and reasonably expected outcomes were reported.<BR/>- Uncertain risk of bias: it is unclear whether all pre-defined and clinically relevant and reasonably expected outcomes were reported.<BR/>- High risk of bias: one or more clinically relevant and reasonably expected outcomes were not reported, and data on these outcomes were likely to have been recorded.</P>
+<P>*For a trial to be assessed as having low risk of bias in the selective outcome reporting domain, the trial should have been registered either on the <A HREF="http://www.clinicaltrials.gov">www.clinicaltrials.gov</A> web site or a similar register, or there should be a protocol, eg, published in a paper journal. In the case of trials run and published in the years when trial registration was not required, we will carefully scrutinise all publications reporting on the trial to identify the trial objectives and outcomes. If usable data on all outcomes specified in the trial objectives are provided in the publication's results section, then the trial can be considered to have low risk of bias for the selective outcome reporting domain.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">For-profit bias</HEADING>
+<P>- Low risk of bias: the trial appears to be free of industry sponsorship or other kind of for-profit support that may manipulate the trial design, conductance or results of the trial.<BR/>- Uncertain risk of bias: the trial may or may not be free of for-profit bias as no information on clinical trial support or sponsorship is provided.<BR/>- High risk of bias: the trial is sponsored by industry or has received other kind of for-profit support.</P>
+<P>The trials will be described as having low risk of bias if they are judged with low risk of bias in all individual components of the above mentioned domains. In all other cases, the trials will be judged as having high risk of bias.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Data extraction</HEADING>
+<P>The data were individually extracted by AT, AA, and SNM and validated by MOS. Details of study population, interventions, and outcomes were extracted using a standardised data extraction form. This form included at least the following items:</P>
+<UL>
+<LI>General information: title, authors, source, contact address, country, published or unpublished, language, and year of publication.</LI>
+<LI>Trial characteristics including design, duration and follow-up, and quality assessment criteria as specified above.</LI>
+<LI>Participants: inclusion and exclusion criteria, sample size, baseline characteristics, number of participants allocated to each group, number of cirrhotic people, and people with large tumours (&gt; 10 cm) in each group.</LI>
+<LI>Interventions: type of surgical resection (eg, lobar or segmental), comparison intervention, and any collateral interventions.</LI>
+<LI>Outcomes: hazard ratios; Mantel-Cox logrank P values or Chi<SUP>2 </SUP>values; observed event rates; number of total events; one-, three-, and five-year survival rates; median survival time; time to (symptomatic) progression; recurrence rate; adverse events; quality of life; duration of hospital stay; cost effectiveness.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Data analysis</HEADING>
+<P>We planned to use the software package Review Manager 5.2<B> </B>(<LINK REF="REF-RevMan-2012" TYPE="REFERENCE">RevMan 2012</LINK>). We planned to use the intention-to-treat principle when analysing the data, that is, participants with missing data were to be considered 'treatment failures'; and to calculate the relative risks (RR) for dichotomous data and mean difference (MD) for continuous data, both with 95% confidence interval (CI). However, since we did not find any randomised clinical trials meeting the inclusion criteria we could not do so. We were also unable to estimate rare events (frequency of adverse events) by the Peto odds ratio (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). We could not use random-effects model (<LINK REF="REF-DerSimonian-1986" TYPE="REFERENCE">DerSimonian 1986</LINK>) and fixed-effect model (<LINK REF="REF-DeMets-1987" TYPE="REFERENCE">DeMets 1987</LINK>) meta-analyses due to the lack of included studies. We had intended to report both results in the case of a discrepancy between the two models (for example, one giving a significant intervention effect and the other no significant intervention effect), otherwise we planned to report only the results from the fixed-effect model.</P>
+<P>The overall survival rate was going to be analysed with the hazard ratio (HR) and relative risk (RR), both with 95% confidence intervals (CI). The HR is a more informative measure as it is related to the entire follow-up period (<LINK REF="REF-Buyse-1987" TYPE="REFERENCE">Buyse 1987</LINK>). The HR provided in each trial report was supposed to be used to calculate the pooled HR. If the exact HR was not mentioned in the report, we could calculate the ln(HR) and its standard error indirectly from other provided summary data (that is, the logrank statistic and its variance from Mantel-Cox logrank P values or Chi<SUP>2 </SUP>values, observed event rates, number of total events, number of participants allocated to each group) using an Excel spreadsheet developed by M Sydes and J Tierney, MRC Clinical Trials Unit, London. This is based on the methods for using summary statistics to perform meta-analysis for survival outcomes as described by Parmer et al (<LINK REF="REF-Parmar-1998" TYPE="REFERENCE">Parmar 1998</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Publication bias</HEADING>
+<P>A funnel plot for the primary outcome could be used to provide a visual assessment of whether the treatment estimates were associated with study size. We could use two tests to assess funnel plot asymmetry, the adjusted rank correlation test (<LINK REF="REF-Begg-1994" TYPE="REFERENCE">Begg 1994</LINK>), and regression asymmetry test (<LINK REF="REF-Egger-1997" TYPE="REFERENCE">Egger 1997</LINK>), if we had any or at least 10 included trials.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Statistical heterogeneity</HEADING>
+<P>We could explore heterogeneity using the Chi<SUP>2</SUP> test and measure the quantity of heterogeneity by the I<SUP>2</SUP> statistic (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). We could also explore sources of heterogeneity in an assessment of treatment response in subgroup analyses if enough trials were identified. However, due to the lack of any included trials we could not perform these calculations.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Subgroup analyses</HEADING>
+<P>We intended to compare trials with low risk of bias to trials with high risk of bias. We also intended to perform a subgroup analysis in order to compare the intervention effect in trials with lower risk of bias (that is, trials with adequate generation of the allocation sequence, allocation concealment, and blinding) to that of trials with high risk of bias (that is, trials having one or more unclear or inadequate components).</P>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2013-06-28 12:36:04 +0200" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2013-06-28 12:36:04 +0200" MODIFIED_BY="[Empty name]">
+<P>After searching the databases, and excluding the duplicate and clearly irrelevant publications, a total of 25 references were identified and assessed for inclusion in the review. None of these publications were randomised clinical trials meeting the inclusion criteria (<LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>). We summarised the studies found with the searches that were related to liver resection for hepatocellular carcinoma in <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK> and to liver transplantation in <LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>.</P>
+<P>
+<BR/>
+</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2012-11-15 04:10:56 +0100" MODIFIED_BY="[Empty name]">
+<P>No trials met the inclusion criteria.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2011-09-12 15:14:39 +0200" MODIFIED_BY="[Empty name]">
+<P>No trials were included.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2013-06-28 12:24:09 +0200" MODIFIED_BY="[Empty name]">
+<P>Our literature review retrieved no direct head to head comparison of surgical resection versus liver transplantation for hepatocellular carcinoma; therefore, randomised trials seem to be justified. In addition two separate systematic reviews, one addressing the outcomes of surgical resection for hepatocellular carcinoma and one addressing the outcome of liver transplantation, can be done to assess the current literature and compare the two methods indirectly.</P>
+<P>We have summarised the studies on these two issues, which we came up with during our search to address the objective of the current systematic review, in <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK> and <LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>. These tables are by no means comprehensive but represent a fraction of the available studies. By looking at these data, it seems that the two groups (that is, surgical resection and liver transplantation) are rather inhomogeneous and a conclusion cannot be reached, but the two suggested systematic reviews may help resolve the review question.</P>
+<P>For future updates and if meta-analyses could be performed, we plan to use trial sequential analysis (<LINK REF="REF-CTU-2011" TYPE="REFERENCE">CTU 2011</LINK>; <LINK REF="REF-Thorlund-2011" TYPE="REFERENCE">Thorlund 2011</LINK>), as random errors may play an important role in evaluating meta-analyses due to sparse data and multiplicity from repetitive testing. For this purpose, we will calculate the required information size which is the required sample size for the meta-analysis to detect a 10% relative risk reduction of mortality in the first, third, and fifth year, assuming an average event proportion of 50% in the control group, assuming that 30% of the variation (ie, diversity) in the meta-analysis would be explained by variation across trials, and using statistical error levels of alpha = 5% and beta = 10% (90% or 20% power). Meta-analyses conducted before surpassing their required sample size are considered analogous to interim analyses in a single randomised trial, and thus they necessitate adjustment of the threshold for statistical significance to maintain the pre-determined maximum risk of obtaining a false positive (to be set to alpha = 5% in our analysis). We, therefore, will substitute the conventional 5% threshold for statistical significance with those of Lan-DeMets trial sequential monitoring boundaries (<LINK REF="REF-Bangalore-2008" TYPE="REFERENCE">Bangalore 2008</LINK>; <LINK REF="REF-Brok-2008" TYPE="REFERENCE">Brok 2008</LINK>; <LINK REF="REF-Wetterslev-2008" TYPE="REFERENCE">Wetterslev 2008</LINK>; <LINK REF="REF-Brok-2009" TYPE="REFERENCE">Brok 2009</LINK>; <LINK REF="REF-Thorlund-2009" TYPE="REFERENCE">Thorlund 2009</LINK>). On the basis of the required information size and risk for type I (5%) and type II (10% or 20%) errors, we will construct trial sequential monitoring boundaries (<LINK REF="REF-Brok-2008" TYPE="REFERENCE">Brok 2008</LINK>; <LINK REF="REF-Wetterslev-2008" TYPE="REFERENCE">Wetterslev 2008</LINK>; <LINK REF="REF-Brok-2009" TYPE="REFERENCE">Brok 2009</LINK>; <LINK REF="REF-Thorlund-2009" TYPE="REFERENCE">Thorlund 2009</LINK>, <LINK REF="REF-Wetterslev-2009" TYPE="REFERENCE">Wetterslev 2009</LINK>; <LINK REF="REF-Thorlund-2010" TYPE="REFERENCE">Thorlund 2010</LINK>). These boundaries determine the statistical inference one may draw regarding the cumulative meta-analysis that has not reached the required information size. If one of the two trial sequential monitoring boundaries is crossed by the cumulative Z score before the required information size is reached in a cumulative meta-analysis, firm evidence may have been established and further trials may be superfluous. On the other hand, if any of the two boundaries is not surpassed, it is most probably necessary to continue doing further trials in order to detect or reject a certain intervention effect if futility boundaries have not been reached. We will use as default a type I error of 5%, type II error of 10% or 20%, and adjusted information size for heterogeneity within diversity unless otherwise stated (<LINK REF="REF-Brok-2008" TYPE="REFERENCE">Brok 2008</LINK>; <LINK REF="REF-Wetterslev-2008" TYPE="REFERENCE">Wetterslev 2008</LINK>; <LINK REF="REF-Brok-2009" TYPE="REFERENCE">Brok 2009</LINK>; <LINK REF="REF-Thorlund-2009" TYPE="REFERENCE">Thorlund 2009</LINK>, <LINK REF="REF-Wetterslev-2009" TYPE="REFERENCE">Wetterslev 2009</LINK>; <LINK REF="REF-Thorlund-2010" TYPE="REFERENCE">Thorlund 2010</LINK>).</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2013-06-28 12:24:44 +0200" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2013-06-28 12:24:44 +0200" MODIFIED_BY="[Empty name]">
+<P>Due to a lack of randomised clinical trials, a head to head comparison of liver resection versus liver transplantation as the two major methods of hepatocellular carcinoma treatment was not possible. Hence, we are not able to recommend or refute one intervention over the other.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2012-12-03 15:54:12 +0100" MODIFIED_BY="[Empty name]">
+<P>Well-designed, randomised trials comparing liver transplantation with liver surgical resection as the major methods of hepatocellular carcinoma treatment are needed.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2013-06-12 16:07:12 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Peer Reviewers: Umberto Baccarani, Italy; Alessandro Cucchetti, Italy; David Fuks, France.<BR/>Contact Editor: Brian Davidson, UK.<BR/>
+</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2013-06-12 16:07:44 +0200" MODIFIED_BY="[Empty name]">
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2013-06-12 16:07:30 +0200" MODIFIED_BY="[Empty name]">
+<P>AT: the principal and contact author, development of the concept of the review, search and collection of publications, study selection and quality assessment, data extraction and data entry, interpretation of the results, writing up the review, contacting authors, responding to the peer-reviewers' criticisms, writing and editing the review.</P>
+<P>AA: development of the concept of the review, searches and collection of publications, study selection and quality assessment, data extraction and data entry, interpretation of the results, writing up the draft review, contacting authors, responding to the peer-reviewers' criticisms, and updating the review.</P>
+<P>SNM: search and collection of publications, study selection and quality assessment, data extraction and data entry, interpret the results, writing and editing the review.</P>
+<P>BE: review and revise the review, interpret the results, helping the contact author respond to the peer-reviewers' comments.</P>
+<P>MOS: supervisor, interpret the results, review and revise the draft review, act as a third party in the event of disagreement, and help the contact author respond to the peer-reviewers' comments.<BR/>
+</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2013-06-12 16:07:40 +0200" MODIFIED_BY="[Empty name]">
+<P>None.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES MODIFIED="2011-09-12 15:19:44 +0200" MODIFIED_BY="[Empty name]"/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2013-06-26 13:40:48 +0200" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2013-06-12 12:08:34 +0200" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES/>
+<EXCLUDED_STUDIES MODIFIED="2013-06-12 12:08:34 +0200" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Bartlett-2007" MODIFIED="2013-01-15 16:49:29 +0100" MODIFIED_BY="[Empty name]" NAME="Bartlett 2007" YEAR="2007">
+<REFERENCE MODIFIED="2013-01-15 16:49:29 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bartlett AJR, McCall JL, Koea JB, Holden A, Yeong ML, Gurusinghe N, et al</AU>
+<TI>Liver resection for hepatocellular carcinoma in a hepatitis B endemic area</TI>
+<SO>World Journal of Surgery</SO>
+<YR>2007</YR>
+<VL>31</VL>
+<PG>1775-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bartlett-2008" MODIFIED="2013-01-15 16:50:16 +0100" MODIFIED_BY="[Empty name]" NAME="Bartlett 2008" YEAR="2008">
+<REFERENCE MODIFIED="2013-01-15 16:50:16 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bartlett A, Heaton N</AU>
+<TI>Hepatocellular carcinoma: Defining the place of surgery in an era of organ shortage</TI>
+<SO>World Journal of Gastroenterology</SO>
+<YR>2008</YR>
+<VL>14</VL>
+<NO>28</NO>
+<PG>4445-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Belghiti-2003" MODIFIED="2013-01-17 12:02:29 +0100" MODIFIED_BY="[Empty name]" NAME="Belghiti 2003" YEAR="2003">
+<REFERENCE MODIFIED="2013-01-15 16:51:03 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Belghiti J, Cortes A, Abdalla EK, Regimbeau JM, Prakash K, Durand F, et al</AU>
+<TI>Resection prior to liver transplantation for hepatocellular carcinoma</TI>
+<SO>Annals of Surgery</SO>
+<YR>2003</YR>
+<VL>238</VL>
+<PG>885-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bismuth-1993" MODIFIED="2013-01-15 16:52:10 +0100" MODIFIED_BY="[Empty name]" NAME="Bismuth 1993" YEAR="1993">
+<REFERENCE MODIFIED="2013-01-15 16:52:10 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bismuth H, Chiche L, Adam R, Castaing D, Diamond T, Dennison A</AU>
+<TI>Liver resection versus transplantation for hepatocellular carcinoma in cirrhotic patients</TI>
+<SO>Annals of Surgery</SO>
+<YR>1993</YR>
+<VL>218</VL>
+<NO>2</NO>
+<PG>145-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chen-2006" MODIFIED="2013-01-15 16:54:01 +0100" MODIFIED_BY="[Empty name]" NAME="Chen 2006" YEAR="2006">
+<REFERENCE MODIFIED="2013-01-15 16:54:01 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chen MS, Li JQ, Zheng Y, Guo RP, Liang HH, Zhang YQ, et al</AU>
+<TI>A prospective randomised trial comparing percutaneous local ablative therapy and partial hepatectomy for small hepatocellular carcinoma</TI>
+<SO>Annals of Surgery</SO>
+<YR>2006</YR>
+<VL>243</VL>
+<NO>3</NO>
+<PG>321-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Choti-2002" MODIFIED="2013-06-12 12:06:39 +0200" MODIFIED_BY="[Empty name]" NAME="Choti 2002" YEAR="2002">
+<REFERENCE MODIFIED="2013-06-12 12:06:39 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Choti MA</AU>
+<TI>Surgical management of hepatocellular carcinoma: resection and ablation</TI>
+<SO>Journal of Vascular Interventional Radiology</SO>
+<YR>2002</YR>
+<VL>13</VL>
+<PG>197-203</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chung-1994" MODIFIED="2013-01-15 17:16:50 +0100" MODIFIED_BY="[Empty name]" NAME="Chung 1994" YEAR="1994">
+<REFERENCE MODIFIED="2013-01-15 17:16:50 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chung SW, Toth JL, Rezieg M, Cameron R, Taylor BR, Greig PD, et al</AU>
+<TI>Liver transplantation for hepatocellular carcinoma</TI>
+<SO>American Journal of Surgery</SO>
+<YR>1994</YR>
+<VL>167</VL>
+<PG>317-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Colleoni-1998" MODIFIED="2013-01-15 17:17:16 +0100" MODIFIED_BY="[Empty name]" NAME="Colleoni 1998" YEAR="1998">
+<REFERENCE MODIFIED="2013-01-15 17:17:16 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Colleoni M, Audisio RA, De Braud F, Fazio N, Martinelli G, Goldhirsch A</AU>
+<TI>Treatment of hepatocellular carcinoma</TI>
+<SO>Drugs</SO>
+<YR>1998</YR>
+<VL>55</VL>
+<NO>3</NO>
+<PG>367-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Decaens-2006" MODIFIED="2013-06-12 12:07:08 +0200" MODIFIED_BY="[Empty name]" NAME="Decaens 2006" YEAR="2006">
+<REFERENCE MODIFIED="2013-06-12 12:07:08 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Decaens T, Roudot-Thoraval F, Hadni-Bresson S, Meyer C, Gugenheim J, Durand F, et al</AU>
+<TI>Impact of UCSF criteria according to pre- and post-OLT tumor features: Analysis of 479 patients listed for HCC with a short waiting time</TI>
+<SO>Liver Transplantation</SO>
+<YR>2006</YR>
+<VL>12</VL>
+<PG>1761-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ercolani-2003" MODIFIED="2013-01-15 17:18:54 +0100" MODIFIED_BY="[Empty name]" NAME="Ercolani 2003" YEAR="2003">
+<REFERENCE MODIFIED="2013-01-15 17:18:54 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ercolani G, Grazi GL, Ravaioli M, Massimo DG, Gardini A, Cescon M, et al</AU>
+<TI>Liver resection for hepatocellular carcinoma on cirrhosis</TI>
+<SO>Annals of Surgery</SO>
+<YR>2003</YR>
+<VL>237</VL>
+<PG>536-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fan-1999" MODIFIED="2013-01-15 17:19:15 +0100" MODIFIED_BY="[Empty name]" NAME="Fan 1999" YEAR="1999">
+<REFERENCE MODIFIED="2013-01-15 17:19:15 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fan ST, Ng IOL, Poon RTP, Lo CML, Liu CL, Wong J</AU>
+<TI>Hepatectomy for hepatocellular carcinoma</TI>
+<SO>Archives of Surgery</SO>
+<YR>1999</YR>
+<VL>134</VL>
+<PG>1124-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Figueras-2001" MODIFIED="2013-01-15 17:20:52 +0100" MODIFIED_BY="[Empty name]" NAME="Figueras 2001" YEAR="2001">
+<REFERENCE MODIFIED="2013-01-15 17:20:52 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Figueras J, Ibanez L, Ramos E, Jaurrieta E, Ortiz-de-Urbina J, Pardo F, et al</AU>
+<TI>Selection criteria for liver transplantation in early-stage hepatocellular carcinoma with cirrhosis: results of a multicenter study</TI>
+<SO>Liver Transplantation</SO>
+<YR>2001</YR>
+<VL>7</VL>
+<NO>10</NO>
+<PG>877-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fong-1999" MODIFIED="2013-01-15 17:21:32 +0100" MODIFIED_BY="[Empty name]" NAME="Fong 1999" YEAR="1999">
+<REFERENCE MODIFIED="2013-01-15 17:21:32 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fong Y, Sun RL, Jarnagin W, Blumgart LH</AU>
+<TI>An analysis of 412 cases of hepatocellular carcinoma at a western center</TI>
+<SO>Annals of Surgery</SO>
+<YR>1999</YR>
+<VL>229</VL>
+<NO>6</NO>
+<PG>799-800</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Huang-2011" MODIFIED="2013-06-12 12:08:34 +0200" MODIFIED_BY="[Empty name]" NAME="Huang 2011" YEAR="2011">
+<REFERENCE MODIFIED="2013-06-12 12:08:34 +0200" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Huang ZY, Chen G, Hao XY, Cai RY, Zhao YF, Chen XP</AU>
+<TI>Outcomes of non-anatomic liver resection for hepatocellular carcinoma in the patients with liver cirrhosis and analysis of prognostic factors</TI>
+<SO>Langenbeck's Archives of Surgery</SO>
+<YR>2011</YR>
+<VL>396</VL>
+<NO>2</NO>
+<PG>193-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hwang-2005" MODIFIED="2013-01-15 17:22:55 +0100" MODIFIED_BY="[Empty name]" NAME="Hwang 2005" YEAR="2005">
+<REFERENCE MODIFIED="2013-01-15 17:22:55 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hwang S, Lee SG, Joh JW, Sub KS, Kim DG</AU>
+<TI>Liver transplantation for adult patients with hepatocellular carcinoma in Korea: comparison between cadaveric donor and living donor liver transplantations</TI>
+<SO>Liver Transplantation</SO>
+<YR>2005</YR>
+<VL>11</VL>
+<NO>10</NO>
+<PG>1265-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jonas-2001" MODIFIED="2013-01-21 16:04:21 +0100" MODIFIED_BY="[Empty name]" NAME="Jonas 2001" YEAR="2001">
+<REFERENCE MODIFIED="2013-01-21 16:04:21 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jonas S, Bechstein WO, Steinmuller T, Herrmann M, Radke C, Berg T, et al</AU>
+<TI>Vascular invasion and histopathologic grading determine outcome after liver transplantation for hepatocellular carcinoma in cirrhosis</TI>
+<SO>Hepatology</SO>
+<YR>2001</YR>
+<VL>33</VL>
+<NO>5</NO>
+<PG>1080-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jonas-2007" MODIFIED="2013-01-17 16:41:24 +0100" MODIFIED_BY="[Empty name]" NAME="Jonas 2007" YEAR="2007">
+<REFERENCE MODIFIED="2013-01-17 16:41:24 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jonas S, Mittler J, Pascher A, Schumacher G, Theruvath T, Benckert C, et al</AU>
+<TI>Living donor liver transplantation of the right lobe for hepatocellular carcinoma in cirrhosis in a European center</TI>
+<SO>Liver Transplantation</SO>
+<YR>2007</YR>
+<VL>13</VL>
+<PG>896-903</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lise-1998" MODIFIED="2013-01-15 17:35:43 +0100" MODIFIED_BY="[Empty name]" NAME="Lise 1998" YEAR="1998">
+<REFERENCE MODIFIED="2013-01-15 17:35:43 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lise M, Bacchetti S, Da Pian P, Nitti D, Pilati PL, Pigato P</AU>
+<TI>Prognostic factors affecting long term outcome after liver resection for hepatocellular carcinoma</TI>
+<SO>Cancer</SO>
+<YR>1998</YR>
+<VL>82</VL>
+<PG>1028-36</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Llovet-1999" MODIFIED="2013-01-15 17:35:55 +0100" MODIFIED_BY="[Empty name]" NAME="Llovet 1999" YEAR="1999">
+<REFERENCE MODIFIED="2013-01-15 17:35:55 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Llovet JM, Fuster J, Bruix J</AU>
+<TI>Intention-to-treat analysis of surgical treatment for early hepatocellular carcinoma: resection versus transplantation</TI>
+<SO>Hepatology</SO>
+<YR>1999</YR>
+<VL>30</VL>
+<PG>1434-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mazzaferro-1996" MODIFIED="2013-01-15 17:36:20 +0100" MODIFIED_BY="[Empty name]" NAME="Mazzaferro 1996" YEAR="1996">
+<REFERENCE MODIFIED="2013-01-15 17:36:20 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mazzaferro V, Regalia E, Doci R, Andreola S, Pulvirenti A, Bozzetti F, et al</AU>
+<TI>Liver transplantation for the treatment of small hepatocellular carcinomas in patients with cirrhosis</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1996</YR>
+<VL>334</VL>
+<NO>11</NO>
+<PG>693-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nagasue-1993" MODIFIED="2013-01-15 17:36:53 +0100" MODIFIED_BY="[Empty name]" NAME="Nagasue 1993" YEAR="1993">
+<REFERENCE MODIFIED="2013-01-15 17:36:53 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nagasue N, Kohno H, Chang YC, Taniura H, Yamanoi A, Uchida M, et al</AU>
+<TI>Liver resection for hepatocellular carcinoma</TI>
+<SO>Annals of Surgery</SO>
+<YR>1993</YR>
+<VL>217</VL>
+<NO>4</NO>
+<PG>375-84</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nuzzo-2007" MODIFIED="2013-01-17 12:12:37 +0100" MODIFIED_BY="[Empty name]" NAME="Nuzzo 2007" YEAR="2007">
+<REFERENCE MODIFIED="2013-01-17 12:12:37 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nuzzo G, Giuliante F, Gauzolino R, Vellone M, Giovannini I</AU>
+<TI>Liver resections for hepatocellular carcinoma in chronic liver disease: experience in an Italian centre</TI>
+<SO>European Journal of Surgical Oncology</SO>
+<YR>2007</YR>
+<VL>33</VL>
+<PG>1014-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sim-2003" MODIFIED="2013-01-17 12:16:03 +0100" MODIFIED_BY="[Empty name]" NAME="Sim 2003" YEAR="2003">
+<REFERENCE MODIFIED="2013-01-17 12:16:03 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sim HG, Ooi LLPJ</AU>
+<TI>Results of resections for hepatocellular carcinoma in a new hepatobiliary unit</TI>
+<SO>Australian and New Zealand Journal of Surgery</SO>
+<YR>2003</YR>
+<VL>73</VL>
+<PG>8-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Todo-2004" MODIFIED="2013-01-15 17:38:38 +0100" MODIFIED_BY="[Empty name]" NAME="Todo 2004" YEAR="">
+<REFERENCE MODIFIED="2013-01-15 17:38:38 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Todo S, Furukawa H</AU>
+<TI>Living donor liver transplantation for adult patients with hepatocellular carcinoma</TI>
+<SO>Annals of Surgery</SO>
+<YR>2004</YR>
+<VL>240</VL>
+<PG>451-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Yao-2001" MODIFIED="2013-01-15 17:40:03 +0100" MODIFIED_BY="[Empty name]" NAME="Yao 2001" YEAR="2001">
+<REFERENCE MODIFIED="2013-01-15 17:40:03 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Yao FY, Ferrell L, Bass NM, Watson JJ, Bachetti P, Venook A, et al</AU>
+<TI>Liver transplantation for hepatocellular carcinoma: expansion of the tumor size limits does not adversely impact survival</TI>
+<SO>Hepatology</SO>
+<YR>2001</YR>
+<VL>33</VL>
+<NO>6</NO>
+<PG>1394-403</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2013-06-26 13:40:48 +0200" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2013-06-26 13:40:48 +0200" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Adam-2003" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Adam 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Adam R, Azoulay D, Castaing D, Eshkenazy R, Pascal G, Hashizume K, et al</AU>
+<TI>Liver resection as a bridge to transplantation for hepatocellular carcinoma on cirrhosis: a reasonable strategy</TI>
+<SO>Annual of Surgery</SO>
+<YR>2003</YR>
+<VL>238</VL>
+<NO>4</NO>
+<PG>518-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Badvie-2000" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Badvie 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Badvie S</AU>
+<TI>Hepatocellular carcinoma</TI>
+<SO>Postgraduate Medical Journal</SO>
+<YR>2000</YR>
+<VL>76</VL>
+<PG>4-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bain-1997" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Bain 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Bain I, McMaster P</AU>
+<TI>Benign and malignant liver tumours</TI>
+<SO>Surgery</SO>
+<YR>1997</YR>
+<VL>15</VL>
+<PG>169-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bangalore-2008" MODIFIED="2013-06-26 12:19:00 +0200" MODIFIED_BY="[Empty name]" NAME="Bangalore 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Bangalore S, Wetterslev J, Pranesh S, Sawhney S, Gluud C, Messerli FH</AU>
+<TI>Peri-operative beta-blockers in patients undergoing non-cardiac surgery. A meta-analysis and trial sequential analysis of 12,306 patients from randomised trials</TI>
+<SO>Lancet</SO>
+<YR>2008</YR>
+<VL>372</VL>
+<PG>1962-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Begg-1994" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Begg 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Begg CB, Mazumdar M</AU>
+<TI>Operating characteristics of a rank correlation test for publication bias</TI>
+<SO>Biometrics</SO>
+<YR>1994</YR>
+<VL>50</VL>
+<NO>4</NO>
+<PG>1088-101</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Belghiti-1991" MODIFIED="2013-01-17 12:16:44 +0100" MODIFIED_BY="[Empty name]" NAME="Belghiti 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Belghiti J, Panis Y, Farges O, Benhamou JP, Fekete F</AU>
+<TI>Intrahepatic recurrence after resection of hepatocellular carcinoma complicating cirrhosis</TI>
+<SO>Annals of Surgery</SO>
+<YR>1991</YR>
+<VL>214</VL>
+<NO>2</NO>
+<PG>114-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bhoori-2007" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Bhoori 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Bhoori S, Schiavo M, Russo A, Mazzaferro V</AU>
+<TI>First-line treatment for hepatocellular carcinoma: resection or transplantation?</TI>
+<SO>Transplantation Proceedings</SO>
+<YR>2007</YR>
+<VL>39</VL>
+<NO>7</NO>
+<PG>2271-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Blum-2005" MODIFIED="2013-01-15 11:02:57 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Blum 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Blum HE</AU>
+<TI>Hepatocellular carcinoma: therapy and prevention</TI>
+<SO>World Journal of Gastroenterology</SO>
+<YR>2005</YR>
+<VL>11</VL>
+<NO>47</NO>
+<PG>7391-400</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bosch-2004" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Bosch 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Bosch FX</AU>
+<TI>Primary liver cancer</TI>
+<SO>Gastroenterology</SO>
+<YR>2004</YR>
+<VL>127</VL>
+<PG>S5-S16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Botha-2007" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Botha 2007" TYPE="BOOK_SECTION">
+<AU>Botha JF, Grant WJ, Shaw BW</AU>
+<TI>Surgical options for the treatment of hepatocellular carcinoma</TI>
+<SO>Schiff's Diseases of the Liver</SO>
+<YR>2007</YR>
+<VL>2</VL>
+<PG>1266-71</PG>
+<EN>10th</EN>
+<ED>Schiff ER, Sorrell MF, Maddrey WC</ED>
+<PB>Lippincott Williams &amp; Wilkins</PB>
+<CY>Philadelphia</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brok-2008" MODIFIED="2013-06-26 12:16:32 +0200" MODIFIED_BY="[Empty name]" NAME="Brok 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Brok J, Thorlund K, Gluud C, Wetterslev J</AU>
+<TI>Trial sequential analysis reveals insufficient information size and potentially false positive results in many meta-analyses</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>2008</YR>
+<VL>61</VL>
+<PG>763-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brok-2009" MODIFIED="2013-06-26 12:59:23 +0200" MODIFIED_BY="[Empty name]" NAME="Brok 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Brok J, Thorlund K, Wetterslev J, Gluud C</AU>
+<TI>Apparently conclusive meta-analyses may be inconclusive - Trial sequential analysis adjustment of random error risk due to repetitive testing of accumulating data in apparently conclusive neonatal meta-analyses</TI>
+<SO>International Journal of Epidemiology</SO>
+<YR>2009</YR>
+<VL>38</VL>
+<NO>1</NO>
+<PG>287-98</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bruix-1996" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Bruix 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Bruix J</AU>
+<TI>Surgical resection of hepatocellular carcinoma in cirrhotic patients</TI>
+<SO>Gastroenterology</SO>
+<YR>1996</YR>
+<VL>111</VL>
+<PG>1018-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bruix-2005" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Bruix 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Bruix J, Sherman M</AU>
+<TI>Management of hepatocellular carcinoma</TI>
+<SO>Hepatology</SO>
+<YR>2005</YR>
+<VL>42</VL>
+<PG>1208-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bruix-2006" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Bruix 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Bruix J, Hessheimer AJ</AU>
+<TI>New aspects of diagnosis and therapy of hepatocellular carcinoma</TI>
+<SO>Oncogene</SO>
+<YR>2006</YR>
+<VL>25</VL>
+<PG>3848&#8211;56</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Buyse-1987" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Buyse 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Buyse M, Ryan LM</AU>
+<TI>Issues of efficiency in combining proportions of deaths from several clinical trials</TI>
+<SO>Statistics in Medicine</SO>
+<YR>1987</YR>
+<VL>6</VL>
+<PG>565-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Capussotti-2006" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Capussotti 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Capussotti L, Muratore A, Amisano M, Massucco P, Polastri R, Bouzari H</AU>
+<TI>Liver resection for large-size hepatocellular carcinomas in 47 non-cirrhotic patients - no mortality and long-term survival</TI>
+<SO>Hepato-Gastroenterology</SO>
+<YR>2006</YR>
+<VL>53</VL>
+<NO>71</NO>
+<PG>768-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Carr-2012" MODIFIED="2013-01-17 12:23:49 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Carr 2012" TYPE="BOOK_SECTION">
+<AU>Carr BI</AU>
+<TI>Tumors of the liver and biliary tree</TI>
+<SO>Harrison's Principle of Internal Medicine (http://www.accessmedicine.com/content.aspx?aID=9116154)</SO>
+<YR>2012 (accessed January 17, 2013)</YR>
+<PG>Chapter 92</PG>
+<EN>18th</EN>
+<ED>Longo DL, Fauci AS, Kasper DL, Hauser SL, Jameson JL, Loscalzo J</ED>
+<PB>McGraw-Hill</PB>
+<CY>New York</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Clark-2005" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Clark 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Clark HP</AU>
+<TI>Staging and current treatment of hepatocellular carcinoma</TI>
+<SO>Radiologic Graphics</SO>
+<YR>2005</YR>
+<VL>25</VL>
+<PG>S3-S23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Collier-1998" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Collier 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Collier J, Sherman M</AU>
+<TI>Screening for hepatocellular carcinoma</TI>
+<SO>Hepatology</SO>
+<YR>1998</YR>
+<VL>27</VL>
+<PG>273&#8211;8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-CTU-2011" MODIFIED="2013-06-26 13:02:17 +0200" MODIFIED_BY="[Empty name]" NAME="CTU 2011" TYPE="OTHER">
+<AU>Copenhagen Trial Unit</AU>
+<TI>TSA - Trial Sequential Analysis</TI>
+<SO>http://ctu.dk/tsa/</SO>
+<YR>2011 (accessed 26 June 2013)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-DeMets-1987" MODIFIED="2012-11-15 03:03:47 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="DeMets 1987" TYPE="JOURNAL_ARTICLE">
+<AU>DeMets DL</AU>
+<TI>Methods for combining randomised clinical trials: strengths and limitations</TI>
+<SO>Statistics in Medicine</SO>
+<YR>1987</YR>
+<VL>6</VL>
+<NO>3</NO>
+<PG>341-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-DerSimonian-1986" MODIFIED="2008-11-05 12:27:10 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="DerSimonian 1986" TYPE="JOURNAL_ARTICLE">
+<AU>DerSimonian R, Laird N</AU>
+<TI>Meta-analysis in clinical trials</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1986</YR>
+<VL>7</VL>
+<NO>3</NO>
+<PG>177-88</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Deuffic-1998" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Deuffic 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Deuffic S</AU>
+<TI>Trends in primary liver cancer</TI>
+<SO>Lancet</SO>
+<YR>1998</YR>
+<VL>351</VL>
+<PG>214-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Egger-1997" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Egger 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Egger M, Davey Smith G, Schneider M, Minder C</AU>
+<TI>Bias in meta-analysis detected by a simple, graphical test</TI>
+<SO>BMJ (Clinical Research Ed.)</SO>
+<YR>1997</YR>
+<VL>315</VL>
+<NO>7109</NO>
+<PG>629-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-El_x002d_Serag-2007" MODIFIED="2013-06-12 12:13:45 +0200" MODIFIED_BY="Sarah Louise Klingenberg" NAME="El-Serag 2007" TYPE="JOURNAL_ARTICLE">
+<AU>El-Serag HB</AU>
+<TI>Epidemiology of hepatocellular carcinoma in USA</TI>
+<SO>Hepatology Research</SO>
+<YR>2007</YR>
+<VL>37</VL>
+<NO>Suppl 2</NO>
+<PG>S88-S94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Farmer-1994" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Farmer 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Farmer DG, Rosove MH</AU>
+<TI>Current treatment modalities for HCC</TI>
+<SO>Annual of Surgery</SO>
+<YR>1994</YR>
+<VL>219</VL>
+<PG>236-47</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Galandi-2004" MODIFIED="2008-11-05 12:37:08 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Galandi 2004" TYPE="COCHRANE_REVIEW">
+<AU>Galandi D, Antes G</AU>
+<TI>Radiofrequency thermal ablation versus other interventions for hepatocellular carcinoma</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2008-11-05 12:37:08 +0100" MODIFIED_BY="Sarah Louise Klingenberg">
+<IDENTIFIER MODIFIED="2008-11-05 12:37:08 +0100" MODIFIED_BY="Sarah Louise Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD003046.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Gluud-2013" MODIFIED="2013-06-12 12:14:15 +0200" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Gluud 2013" TYPE="OTHER">
+<AU>Gluud C, Nikolova D, Klingenberg SL, Alexakis N, Als-Nielsen B, Colli A, et al</AU>
+<TI>Cochrane Hepato-Biliary Group. About The Cochrane Collaboration (Cochrane Review Groups (CRGs))</TI>
+<SO>2013, Issue 5. Art. No.: LIVER</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grazi-2001" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Grazi 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Grazi GL, Ercoliani G</AU>
+<TI>Improved results of liver resection for hepatocellular carcinoma on cirrhosis give the procedure added value</TI>
+<SO>Annual of Surgery</SO>
+<YR>2001</YR>
+<VL>234</VL>
+<NO>1</NO>
+<PG>71-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2011" MODIFIED="2013-01-17 12:25:26 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Higgins 2011" TYPE="OTHER">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]</TI>
+<SO>The Cochrane Collaboration, 2011. Available from www.cochrane-handbook.org</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hwang-2007" MODIFIED="2013-01-15 23:49:19 +0100" MODIFIED_BY="[Empty name]" NAME="Hwang 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Hwang S, Lee SG, Moon DB, Ahn CS, Kim KH, Lee YJ, et al</AU>
+<TI>Salvage living donor liver transplantation after prior liver resection for hepatocellular carcinoma</TI>
+<SO>Liver Transplantation</SO>
+<YR>2007</YR>
+<VL>13</VL>
+<PG>741-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ICH_x002d_GCP-1997" MODIFIED="2013-01-17 12:25:40 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="ICH-GCP 1997" TYPE="BOOK">
+<AU>International Conference on Harmonisation Expert Working Group</AU>
+<SO>International conference on harmonisation of technical requirements for registration of pharmaceuticals for human use. ICH harmonised tripartite guideline. Guideline for good clinical practice1997 CFR &amp; ICH Guidelines</SO>
+<YR>1997</YR>
+<VL>1</VL>
+<PB>Barnett International/PAREXEL</PB>
+<CY>PA 19063-2043, USA</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kim-2006" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Kim 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Kim WR, Therneau TM, Benson JT</AU>
+<TI>Deaths on the liver transplant waiting list: an analysis of competing risks</TI>
+<SO>Hepatology</SO>
+<YR>2006</YR>
+<VL>43</VL>
+<NO>2</NO>
+<PG>345-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kjaergard-2001" MODIFIED="2011-09-19 03:17:38 +0200" MODIFIED_BY="[Empty name]" NAME="Kjaergard 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Kjaergard LL, Villumsen J, Gluud C</AU>
+<TI>Reported methodological quality and discrepancies between large and small randomised trials in meta-analyses</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2001</YR>
+<VL>135</VL>
+<NO>11</NO>
+<PG>982-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kwon-2007" MODIFIED="2013-01-17 12:26:24 +0100" MODIFIED_BY="[Empty name]" NAME="Kwon 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Kwon CHD, Kim DJ, Han YS, Park JB, Choi GS, Kim SJ, et al</AU>
+<TI>HCC in living donor liver transplantation: can we expand the Milan criteria?</TI>
+<SO>Digestive Diseases</SO>
+<YR>2007</YR>
+<VL>25</VL>
+<PG>313-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lencioni-1997" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Lencioni 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Lencioni R, Pinto F, Bassi AM, Moretti M, Di Giulio M, Marchi S, et al</AU>
+<TI>Long-term results of percutaneous ethanol injection therapy for hepatocellular carcinoma in cirrhosis: an European experience</TI>
+<SO>European Radiology</SO>
+<YR>1997</YR>
+<VL>7</VL>
+<PG>514-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lencioni-2003" MODIFIED="2013-01-15 23:53:55 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Lencioni 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Lencioni RA, Allgaier HP, Cioni D, Olschewski M, Deibert P, Crocetti L, et al</AU>
+<TI>Small hepatocellular carcinoma in cirrhosis: randomised comparison of radio-frequency thermal ablation versus percutaneous ethanol injection</TI>
+<SO>Radiology</SO>
+<YR>2003</YR>
+<VL>228</VL>
+<NO>1</NO>
+<PG>235-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lencioni-2005" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Lencioni 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Lencioni R, Cioni D</AU>
+<TI>Early-stage hepatocellular carcinoma in patients with cirrhosis: long-term results of percutaneous image-guided radiofrequency ablation</TI>
+<SO>Radiology</SO>
+<YR>2005</YR>
+<VL>234</VL>
+<NO>3</NO>
+<PG>961-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Li-2012" MODIFIED="2013-01-15 23:54:37 +0100" MODIFIED_BY="[Empty name]" NAME="Li 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Li HY, Wei YG, Yan LN, Li B</AU>
+<TI>Salvage liver transplantation in the treatment of hepatocellular carcinoma: a meta-analysis</TI>
+<SO>World Journal of Gastroenterology</SO>
+<YR>2012</YR>
+<VL>18</VL>
+<NO>19</NO>
+<PG>2415-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Liu-2004" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Liu 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Liu JH, Chen PW</AU>
+<TI>Surgery for hepatocellular carcinoma: does it improve survival?</TI>
+<SO>Annals of Surgical Oncology</SO>
+<YR>2004</YR>
+<VL>11</VL>
+<PG>298-303</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Livraghi-1995" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Livraghi 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Livraghi T, Giorgio A, Marin G, Salmi A, de Sio I, Bolodi L, et al</AU>
+<TI>Hepatocellular carcinoma and cirrhosis in 746 patients: long-term results of percutaneous ethanol injection</TI>
+<SO>Radiology</SO>
+<YR>1995</YR>
+<VL>197</VL>
+<NO>1</NO>
+<PG>101-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Llovet-2003" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Llovet 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Llovet JM</AU>
+<TI>Hepatocellular carcinoma</TI>
+<SO>Lancet</SO>
+<YR>2003</YR>
+<VL>362</VL>
+<PG>1907-17</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Llovet-2005" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Llovet 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Llovet JM</AU>
+<TI>Updated treatment approach to hepatocellular carcinoma</TI>
+<SO>Journal of Gastroenterology</SO>
+<YR>2005</YR>
+<VL>40</VL>
+<PG>225-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lundh-2012" MODIFIED="2013-06-12 11:58:02 +0200" MODIFIED_BY="[Empty name]" NAME="Lundh 2012" TYPE="COCHRANE_REVIEW">
+<AU>Lundh A, Sismondo S, Lexchin J, Busuioc OA, Bero L</AU>
+<TI>Industry sponsorship and research outcome</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2012</YR>
+<NO>12</NO>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.MR000033.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Marin-2003" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Marin 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Marin-Hargreaves G, Azoulay D, Bismuth H</AU>
+<TI>Hepatocellular carcinoma: surgical indications and results</TI>
+<SO>Critical Reviews in Oncology/Hematology</SO>
+<YR>2003</YR>
+<VL>47</VL>
+<NO>1</NO>
+<PG>13-27</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mazariegos-2007" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Mazariegos 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Mazariegos GV, Sindhi R, Thomson AW, Marcos A</AU>
+<TI>Clinical tolerance following liver transplantation: long term results and future prospects</TI>
+<SO>Transplant Immunology</SO>
+<YR>2007</YR>
+<VL>17</VL>
+<NO>2</NO>
+<PG>114-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McCormack-2005" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="McCormack 2005" TYPE="JOURNAL_ARTICLE">
+<AU>McCormack L</AU>
+<TI>Surgical therapy of hepatocellular carcinoma</TI>
+<SO>Europian Journal of Gastroenterology and Hepatology</SO>
+<YR>2005</YR>
+<VL>17</VL>
+<NO>5</NO>
+<PG>497-503</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Moher-1998" MODIFIED="2013-06-26 13:37:04 +0200" MODIFIED_BY="[Empty name]" NAME="Moher 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Moher D, Pham B, Jones A, Cook DJ, Jadad AR, Moher M, et al</AU>
+<TI>Does quality of reports of randomised trials affect estimates of intervention efficacy reported in meta-analyses?</TI>
+<SO>Lancet</SO>
+<YR>1998</YR>
+<VL>352</VL>
+<PG>609-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nagasue-1986" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Nagasue 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Nagasue N, Yukay H</AU>
+<TI>Clinical experience with 118 hepatic resections for HCC</TI>
+<SO>Surgery</SO>
+<YR>1986</YR>
+<VL>99</VL>
+<PG>694-701</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nagorney-1989" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Nagorney 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Nagorney DM, van Heerden JA</AU>
+<TI>Primary hepatic malignancy: surgical management and determinants of survival</TI>
+<SO>Surgery</SO>
+<YR>1989</YR>
+<VL>106</VL>
+<NO>4</NO>
+<PG>740-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ohnishi-1996" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Ohnishi 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Ohnishi K, Yoshioka H, Ito S, Fujiwara K</AU>
+<TI>Treatment of nodular hepatocellular carcinoma larger than 3 cm with ultrasound-guided percutaneous acetic acid injection</TI>
+<SO>Hepatology</SO>
+<YR>1996</YR>
+<VL>24</VL>
+<PG>1379-85</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ohnishi-1998" MODIFIED="2011-06-14 23:02:38 +0200" MODIFIED_BY="[Empty name]" NAME="Ohnishi 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Ohnishi K, Yoshioka H, Ito S, Fujiwara K</AU>
+<TI>Prospective randomised controlled trial comparing percutaneous acetic acid injection and percutaneous ethanol injection for small hepatocellular carcinoma</TI>
+<SO>Hepatology</SO>
+<YR>1998</YR>
+<VL>27</VL>
+<PG>67-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Okuda-2002" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Okuda 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Okuda K</AU>
+<TI>Where we go with hepatocellular carcinoma: past, present, and future perspectives</TI>
+<SO>Journal of Hepato-Biliary-Pancreatic Surgery</SO>
+<YR>2002</YR>
+<VL>9</VL>
+<NO>6</NO>
+<PG>683-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Onaca-2007" MODIFIED="2013-01-17 12:28:38 +0100" MODIFIED_BY="[Empty name]" NAME="Onaca 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Onaca N, Davis GL, Goldstein RM, Jennings LW, Klintmalm GB</AU>
+<TI>Expanded criteria for liver transplantation in patients with hepatocellular carcinoma: a report from the International Registry of Hepatic Tumors in Liver Transplantation</TI>
+<SO>Liver Transplant</SO>
+<YR>2007</YR>
+<VL>13</VL>
+<PG>391-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Paquet-1991" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Paquet 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Paquet KJ</AU>
+<TI>Limited hepatic resection for selected cirrhotic patients with hepatocellular or cholangiocellular carcinoma: a prospective study</TI>
+<SO>British Journal of Surgery</SO>
+<YR>1991</YR>
+<VL>78</VL>
+<NO>4</NO>
+<PG>459-62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Paraskevopoulos-1994" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Paraskevopoulos 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Paraskevopoulos JA</AU>
+<TI>Management options for primary HCC. An overview</TI>
+<SO>Acta Oncologica</SO>
+<YR>1994</YR>
+<VL>33</VL>
+<PG>895-900</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Parmar-1998" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Parmar 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Parmar MK, Torri V, Stewart L</AU>
+<TI>Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints</TI>
+<SO>Statistics in Medicine</SO>
+<YR>1998</YR>
+<VL>17</VL>
+<NO>24</NO>
+<PG>2815-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Poon-2004" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Poon 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Poon RT, Fan ST</AU>
+<TI>Hepatectomy for hepatocellular carcinoma: patient selection and postoperative outcome</TI>
+<SO>Liver Transplantation</SO>
+<YR>2004</YR>
+<VL>10</VL>
+<NO>2 Suppl 1</NO>
+<PG>S39-S45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Popescu-2005" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Popescu 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Popescu I, Ionescu M, Ciurea S, Brasoveanu V, Sarbu-Boeti P, Hrehoret D, et al</AU>
+<TI>Current treatment of hepatocellular carcinoma. Analysis of a series of 123 cases over a 5-year period</TI>
+<SO>Chirurgia</SO>
+<YR>2005</YR>
+<VL>100</VL>
+<NO>4</NO>
+<PG>321-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-RevMan-2012" MODIFIED="2013-01-17 12:29:33 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="RevMan 2012" TYPE="COMPUTER_PROGRAM">
+<TI>Review Manager (RevMan)</TI>
+<YR>2012</YR>
+<EN>5.2</EN>
+<PB>The Nordic Cochrane Centre, The Cochrane Collaboration</PB>
+<CY>Copenhagen</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ribero-2006" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Ribero 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Ribero D, Abdalla EK, Thomas MB</AU>
+<TI>Liver resection in the treatment of hepatocellular carcinoma</TI>
+<SO>Expert Review of Anticancer Therapy</SO>
+<YR>2006</YR>
+<VL>6</VL>
+<NO>4</NO>
+<PG>567-79</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Royle-2003" MODIFIED="2013-01-16 00:11:18 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Royle 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Royle P, Milne R</AU>
+<TI>Literature searching for randomised controlled trials used in Cochrane reviews: rapid versus exhaustive searches</TI>
+<SO>International Journal of Technology Assessment in Health Care</SO>
+<YR>2003</YR>
+<VL>19</VL>
+<NO>4</NO>
+<PG>591-603</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Savovi_x0107_-2012" MODIFIED="2013-06-26 13:39:24 +0200" MODIFIED_BY="[Empty name]" NAME="Savovi&#263; 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Savovi&#263; J, Jones HE, Altman DG, Harris RJ, Jüni P, Pildal J, et al</AU>
+<TI>Influence of reported study design characteristics on intervention effect estimates from randomised, controlled trials</TI>
+<SO>Health Technology Assessment</SO>
+<YR>2012</YR>
+<VL>16</VL>
+<NO>35</NO>
+<PG>1-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Savovi_x0107_-2012a" MODIFIED="2013-06-26 13:39:43 +0200" MODIFIED_BY="[Empty name]" NAME="Savovi&#263; 2012a" TYPE="JOURNAL_ARTICLE">
+<AU>Savovi&#263; J, Jones HE, Altman DG, Harris RJ, Jüni P, Pildal J, et al</AU>
+<TI>Influence of reported study design characteristics on intervention effect estimates from randomised, controlled trials</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2012</YR>
+<VL>157</VL>
+<NO>6</NO>
+<PG>429-38</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schoppmeyer-2007" MODIFIED="2012-11-14 16:41:49 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Schoppmeyer 2007" TYPE="COCHRANE_PROTOCOL">
+<AU>Schoppmeyer K, Wagner AD, Mossner J, Fleig W</AU>
+<TI>Percutanous ethanol injection or percutaneous acetic acid injection for early hepatocellular carcinoma</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2007</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2008-11-05 12:43:44 +0100" MODIFIED_BY="Sarah Louise Klingenberg">
+<IDENTIFIER MODIFIED="2008-11-05 12:43:44 +0100" MODIFIED_BY="Sarah Louise Klingenberg" TYPE="DOI" VALUE="10.1002/14651858.CD006745"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1995" MODIFIED="2011-09-19 03:08:17 +0200" MODIFIED_BY="[Empty name]" NAME="Schulz 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Chalmers I</AU>
+<TI>Dimensions of methodological quality associated with estimates of treatment effects in controlled trials</TI>
+<SO>JAMA</SO>
+<YR>1995</YR>
+<VL>273</VL>
+<PG>408-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sherman-2005" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Sherman 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Sherman M</AU>
+<TI>Hepatocellular carcinoma: epidemiology, risk factors, and screening</TI>
+<SO>Seminars in Liver Disease</SO>
+<YR>2005</YR>
+<VL>25</VL>
+<NO>2</NO>
+<PG>143-54</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Soejima-2007" MODIFIED="2013-01-16 00:13:52 +0100" MODIFIED_BY="[Empty name]" NAME="Soejima 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Soejima Y, Taketomi A, Yoshizumi T, Uchiyama H, Aishima A, Terashi T</AU>
+<TI>Extended indication for living donor liver transplantation in patients with hepatocellular carcinoma</TI>
+<SO>Transplantation</SO>
+<YR>2007</YR>
+<VL>83</VL>
+<PG>893-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Song-2004" MODIFIED="2013-06-12 12:50:37 +0200" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Song 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Song TJ, Ip EW, Fong Y</AU>
+<TI>Hepatocellular carcinoma: current surgical management</TI>
+<SO>Gastroenterology</SO>
+<YR>2004</YR>
+<VL>127</VL>
+<NO>5 Suppl 1</NO>
+<PG>S248-S260</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sotiropoulos-2006" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Sotiropoulos 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Sotiropoulos GC, Lang H, Frilling A</AU>
+<TI>Resectability of hepatocellular carcinoma: evaluation of 333 consecutive cases at a single hepatobiliary specialty center and systematic review of the literature</TI>
+<SO>Hepato-Gastroenterology</SO>
+<YR>2006</YR>
+<VL>53</VL>
+<NO>69</NO>
+<PG>322-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sugawara-2007" MODIFIED="2013-01-16 00:15:04 +0100" MODIFIED_BY="[Empty name]" NAME="Sugawara 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Sugawara Y, Tamura S, Makuuchi M</AU>
+<TI>Living donor liver transplantation for hepatocellular carcinoma: Tokyo University series</TI>
+<SO>Digestive Diseases</SO>
+<YR>2007</YR>
+<VL>25</VL>
+<PG>310-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Takayama-1998" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Takayama 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Takayama T</AU>
+<TI>Early hepatocellular carcinoma as an entity with high rate surgical rate</TI>
+<SO>Hepatology</SO>
+<YR>1998</YR>
+<VL>28</VL>
+<PG>1241-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Takayama-2000" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Takayama 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Takayama T</AU>
+<TI>Adoptive immunotherapy to lower postsurgical recurrence rate of hepatocellular carcinoma</TI>
+<SO>Lancet</SO>
+<YR>2000</YR>
+<VL>359</VL>
+<PG>1734-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Taylor_x002d_Robinson-1997" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Taylor-Robinson 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Taylor-Robinson SD</AU>
+<TI>Increase in primary liver cancer in the UK, 1979-1994</TI>
+<SO>Lancet</SO>
+<YR>1997</YR>
+<VL>350</VL>
+<PG>1142-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Thorlund-2009" MODIFIED="2013-06-26 12:16:32 +0200" MODIFIED_BY="[Empty name]" NAME="Thorlund 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Thorlund K, Devereaux PJ, Wetterslev J, Guyatt G, Ioannidis JP, Thabane L, et al</AU>
+<TI>Can trial sequential monitoring boundaries reduce spurious inferences from meta-analyses</TI>
+<SO>International Journal of Epidemiology</SO>
+<YR>2009</YR>
+<VL>38</VL>
+<NO>1</NO>
+<PG>276-86</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Thorlund-2010" MODIFIED="2013-06-26 12:16:32 +0200" MODIFIED_BY="[Empty name]" NAME="Thorlund 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Thorlund K, Anema A, Mills E</AU>
+<TI>Interpreting meta-analysis according to the adequacy of sample size. An example using isoniazid chemoprophylaxis for tuberculosis in purified protein derivative negative HIV-infected individuals</TI>
+<SO>Clinical Epidemiology</SO>
+<YR>2010</YR>
+<VL>2</VL>
+<PG>57-66</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Thorlund-2011" MODIFIED="2013-06-26 13:40:48 +0200" MODIFIED_BY="[Empty name]" NAME="Thorlund 2011" TYPE="OTHER">
+<AU>Thorlund K, Engstrøm J, Wetterslev J, Brok J, Imberger G, Gluud C</AU>
+<TI>User manual for Trial Sequential Analysis (TSA)</TI>
+<SO>http://ctu.dk/tsa/files/tsa_manual.pdf</SO>
+<YR>2011 (accessed 23 April 2013)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Verhoef-2004" MODIFIED="2013-01-16 00:16:04 +0100" MODIFIED_BY="[Empty name]" NAME="Verhoef 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Verhoef C, de Man RA, Zondervan PE, Eijkemans MJ, Tilanus HW, Ijzermans JN</AU>
+<TI>Good outcomes after resection of large hepatocellular carcinoma in the non-cirrhotic liver</TI>
+<SO>Digestive Surgery</SO>
+<YR>2004</YR>
+<VL>21</VL>
+<NO>5-6</NO>
+<PG>380-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wallner-1994" MODIFIED="2013-06-12 12:51:11 +0200" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Wallner 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Wallner I, Hartmann H</AU>
+<TI>Current therapeutic strategies in HCC, Part 1</TI>
+<SO>Leber, Magen, Darm</SO>
+<YR>1994</YR>
+<VL>24</VL>
+<PG>150-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wetterslev-2008" MODIFIED="2013-06-26 12:16:32 +0200" MODIFIED_BY="[Empty name]" NAME="Wetterslev 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Wetterslev J, Thorlund K, Brok J, Gluud C</AU>
+<TI>Trial sequential analysis may establish when firm evidence is reached in cumulative meta-analysis</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>2008</YR>
+<VL>61</VL>
+<NO>1</NO>
+<PG>64-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wetterslev-2009" MODIFIED="2013-06-26 12:16:32 +0200" MODIFIED_BY="[Empty name]" NAME="Wetterslev 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Wetterslev J, Thorlund K, Brok J, Gluud C</AU>
+<TI>Estimating required information size by quantifying diversity in a random-effects meta-analysis</TI>
+<SO>BMC Medical Research Methodology</SO>
+<YR>2009</YR>
+<VL>9</VL>
+<PG>86</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wood-2008" MODIFIED="2013-01-17 12:33:36 +0100" MODIFIED_BY="[Empty name]" NAME="Wood 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Wood L, Egger M, Gluud LL, Schulz KF, Jüni P, Altman GD, et al</AU>
+<TI>Empirical evidence of bias in treatment effect estimates in controlled trials with different interventions and outcomes: meta-epidemiological study</TI>
+<SO>BMJ (Clinical Resarch Ed.)</SO>
+<YR>2008</YR>
+<VL>336</VL>
+<PG>601-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wu-2012" MODIFIED="2013-01-17 12:33:45 +0100" MODIFIED_BY="[Empty name]" NAME="Wu 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Wu L, Hu A, Tam N, Zhang J, Lin M, Guo Z, He X</AU>
+<TI>Salvage liver transplantation for patients with recurrent hepatocellular carcinoma after curative resection</TI>
+<SO>PLoS ONE</SO>
+<YR>2012</YR>
+<VL>7</VL>
+<NO>7</NO>
+<PG>e41820</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yeh-2002" MODIFIED="2008-11-05 12:24:03 +0100" MODIFIED_BY="Sarah Louise Klingenberg" NAME="Yeh 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Yeh CN, Chen MF, Lee WC, Jeng LB</AU>
+<TI>Prognostic factors of hepatic resection for hepatocellular carcinoma with cirrhosis: univariate and multivariate analysis</TI>
+<SO>Journal of Surgical Oncology</SO>
+<YR>2002</YR>
+<VL>81</VL>
+<NO>4</NO>
+<PG>195-202</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2013-06-12 17:27:24 +0200" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2013-06-12 17:27:24 +0200" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bartlett-2007">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bartlett-2008">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Narrative review.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Belghiti-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bismuth-1993">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Chen-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Comparing PLAT and resection.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Choti-2002">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Narrative review.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Chung-1994">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Colleoni-1998">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Narrative review.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Decaens-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Ercolani-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Fan-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Figueras-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:54 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Fong-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Huang-2011">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Hwang-2005">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Jonas-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 17:27:24 +0200" MODIFIED_BY="Dimitrinka Nikolova" STUDY_ID="STD-Jonas-2007">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 17:27:24 +0200" MODIFIED_BY="Dimitrinka Nikolova">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lise-1998">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Llovet-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Mazzaferro-1996">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Nagasue-1993">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Nuzzo-2007">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Sim-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Todo-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Yao-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-06-12 16:00:53 +0200" MODIFIED_BY="[Empty name]">
+<P>Patient series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2013-06-28 12:51:34 +0200" MODIFIED_BY="Sarah Louise Klingenberg">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2013-06-28 12:51:34 +0200" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2011-09-27 17:38:15 +0200" MODIFIED_BY="[Empty name]">Liver resection</TITLE>
+<TABLE COLS="9" ROWS="14">
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Author</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Number of participants</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Cirrhosis</P>
+<P> </P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Mean tumour size</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Recurrence proportion</P>
+<P>(%)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Mean time to recurrence (months)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>3-year survival</P>
+<P>(%)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Mean age (Years)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Mean follow-up time</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Bartlett-2007" TYPE="STUDY">Bartlett 2007</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>53</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>43%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>47</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>13.8</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>49.4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>55.7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>34 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Sim-2003" TYPE="STUDY">Sim 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>81</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>53.2%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>9.6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>59</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>56</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>21 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Ercolani-2003" TYPE="STUDY">Ercolani 2003</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>224</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>41.5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>62.8</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>62.5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>35.6 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Nuzzo-2007" TYPE="STUDY">Nuzzo 2007</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>97</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>46</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>65.5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Chen-2006" TYPE="STUDY">Chen 2006</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>90</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>73.4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>49.4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Bismuth-1993" TYPE="STUDY">Bismuth 1993</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>60</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>52</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Fan-1999" TYPE="STUDY">Fan 1999</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>211</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>46%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>58</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10.6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>50</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>21 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Lise-1998" TYPE="STUDY">Lise 1998</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>78%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>50</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>12.6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>48</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Fong-1999" TYPE="STUDY">Fong 1999</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>154</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>65%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>54</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>59.5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Llovet-1999" TYPE="STUDY">Llovet 1999</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>77</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>57</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>62</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>61</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>32 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Belghiti-1991" TYPE="REFERENCE">Belghiti 1991</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>47</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>60</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>35</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Nagasue-1993" TYPE="STUDY">Nagasue 1993</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>229</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>77.3%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>60.8</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Huang-2011" TYPE="STUDY">Huang 2011</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>77</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>7.4 ± 4.3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>56</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>46.7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES>
+<P>N/A = not available</P>
+</FOOTNOTES>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2013-06-18 23:11:02 +0200" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2011-09-27 17:40:20 +0200" MODIFIED_BY="[Empty name]">Liver transplantation</TITLE>
+<TABLE COLS="11" ROWS="24">
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Author</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Type of transplant</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Criteria</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Number of participants</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Cirrhosis</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Recurrence proportion (%)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Mean time to recurrence (Months)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>3-year survival (%)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>5-year survival (%)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Mean age (Years)</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Mean follow-up time</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Mazzaferro-1996" TYPE="STUDY">Mazzaferro 1996</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>48</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>75.4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>26 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Jonas-2001" TYPE="STUDY">Jonas 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>120</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>16</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>71</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>49 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Figueras-2001" TYPE="STUDY">Figueras 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>5cm, localised</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>307</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>21</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>67</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>63</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>24 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Yao-2001" TYPE="STUDY">Yao 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>UCSF</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>70</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>11.4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8.1</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>75.2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>24 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="3" VALIGN="TOP">
+<P>
+<LINK REF="STD-Decaens-2006" TYPE="STUDY">Decaens 2006</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>279</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>96%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>9</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>22</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>60.1</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>53</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>52.4 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Beyond Milan, within UCSF</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>44</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>95%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>13</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>7.6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>45.6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>54.2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>48.8</P>
+<P>m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Beyond Milan &amp; UCSF</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>145</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>86%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>45</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>10</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>34.7</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>52.1</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>26.7</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Todo-2004" TYPE="STUDY">Todo 2004</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>137</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1.4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>79.4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>16 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Extended</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>172</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>22.2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>60</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="4" VALIGN="TOP">
+<P>
+<LINK REF="STD-Hwang-2005" TYPE="STUDY">Hwang 2005</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>173</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>15.5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>73.2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>50</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>26 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Beyond Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>64</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>53</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>18</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>61.1</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>49</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>16 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Beyond Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>22</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="STD-Jonas-2007" TYPE="STUDY">Jonas 2007</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>8</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>75</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>26 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Beyond Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>13</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>62</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ROWSPAN="2">
+<P>
+<LINK REF="REF-Kwon-2007" TYPE="REFERENCE">Kwon 2007</LINK>
+</P>
+</TD>
+<TD ROWSPAN="2">
+<P>Living donor</P>
+</TD>
+<TD>
+<P>Milan</P>
+</TD>
+<TD>
+<P>85</P>
+</TD>
+<TD>
+<P>N/A</P>
+</TD>
+<TD>
+<P>14</P>
+</TD>
+<TD ROWSPAN="2">
+<P>10.3</P>
+</TD>
+<TD ROWSPAN="2">
+<P>82.6</P>
+</TD>
+<TD ROWSPAN="2">
+<P>79.9</P>
+</TD>
+<TD ROWSPAN="2">
+<P>51</P>
+</TD>
+<TD ROWSPAN="2">
+<P>28 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Beyond Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>139</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>20</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="REF-Sugawara-2007" TYPE="REFERENCE">Sugawara 2007</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>68</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4.6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>94</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>75</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>55</P>
+</TD>
+<TD ROWSPAN="2">
+<P>24 m</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Beyond Milan</P>
+</TD>
+<TD>
+<P>32</P>
+</TD>
+<TD>
+<P>N/A</P>
+</TD>
+<TD>
+<P>30</P>
+</TD>
+<TD>
+<P>N/A</P>
+</TD>
+<TD>
+<P>70</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>
+<LINK REF="REF-Soejima-2007" TYPE="REFERENCE">Soejima 2007</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD>
+<P>Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>16</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>0</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>100</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" ROWSPAN="2" VALIGN="TOP">
+<P>437 d</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Living donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Beyond Milan</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>44</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>18.2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>74</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>74</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Hwang-2007" TYPE="REFERENCE">Hwang 2007</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Salvage</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>17</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>49.3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>30.7 m</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Chung-1994" TYPE="STUDY">Chung 1994</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Deceased Donor</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>29</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>86%</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>46</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>N/A</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>53</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>33 m</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES>
+<P>N/A = not available</P>
+</FOOTNOTES>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES"/>
+<FIGURES MODIFIED="2013-06-26 12:43:54 +0200" MODIFIED_BY="[Empty name]">
+<FIGURE FILENAME="Flowchart.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2013-06-26 12:43:54 +0200" MODIFIED_BY="[Empty name]" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Study flow diagram.</P>
+</CAPTION>
+<FILE>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
+IkJAhEki9Ne9deuW2bhxo7lx44ZNFKA8gCGxlV1fZEeeY9s7USpzS29vb13GFqSHCAERNlQJYmnu
+NYiSTZPvp5z395uy/osXL2rPdexsHr7Y9lmmp6dLpfRHhIgQEGHu67E095pg3I3aSpKaayOUfj+2
+vv7v6ekxHz58sMfUQE12sCS2vVqLGjkW/ly/sZT+iBARAiIsXBZKc//48WM74CDhSEIaqAil34+t
+r/91DB1L20iK2fl7Y9urW6z7huoGax0nRUcspT8iBECEgAgBECEgQgBECIgQABECIgRAhIAIARAh
+IEIARAiIEAARAiIEQISACAEQYTueIxUZEQIirLwIgesLiHBWKkEzqe9T0vLrt8FKpqoEsELJGVya
+fq0/OTlZt/6VK1ds4gX3W2KXjdovg/5XNuqidd2563fHK1assJmuqy4CRAiIMJCPsNHU9ylp+Y8f
+P26XueQHSrjqMkwrp6ASK2TX7+vrqyVh8LPL+CKUhIvW1XkrV6HLqrNz505EiAgBEeafYqtT3/tp
++bOZZYTE5+8ztH5R7sPYum5eFEfKFASIEKCiImw29X2zaflj5xgSYWhdf77lvCkIECEAIqyTWSOp
+7xtJyz9XIkyZiwURAiDCnyib+r5sGn+xYcOGYNe4VSJUZmvdG3Q8ffoUESJCQIT5p9hM6vuUtPw+
+6karOy7Gx8d/GixplQj9wRKdNyJEhIAIC7vFjaa+T0nL7/P161dz8OBBu42Om53juJUiFJqLRV/9
+6erqsiPg/n1DRAiACCuFBJydLQ8RAiDCjkeTUWkAyH0H8vTp03UDQYgQABF2PBrF1q9Z1B3WL0tO
+nTplhYgIARAhIEIARAiIEAARAiIEQISACAEQISBCAEQIiBAAEQIiBECEgAgBECEgQgBECIgQABEC
+IgRAhIAIARAhIEKAaomQioAEARAhFQIJAiDC+orBozoPAEQItIwAECEgQgBECIgQABECIgRAhIAI
+ARAhIEIARAiIEAARAiIEQISACAEQISBCAETIm4QIARAhIuRtAkCEiJCLAIAIESEAIEJECACIEBEC
+ACJEhACACBEhACBCRAgAiBARAgAiRIQAgAgRIQAgQkQIAIgQEQIAIkSEAIAIESEAIEJECACIEBEC
+ACJEhACACBEhACBCRAgAiBARAgAirIgA/QcAIEJECACIsMoyBABEiAgBABEiQgBAhIgQABBhdWUI
+AIgQEQLA3Igw7+saPHjwWMBXmaoiQt5YAFrqlRYhbygAMqz4+8gbCYAMESFXAQARIkIAQISIEAAQ
+ISIEAESICAEAESJC+LU8e/aMi9Cm14E61OEiPH36tFm2bJlZsmSJOXjwoHn37l3d8tu3b5t169aZ
+xYsXm+3bt5vp6elS21c5yB88eGAWLVpktm7dap/rGrZbebL7atV+5+o6IEJIEuHFixfN1atXzY8f
+P+zj3LlzZs+ePbXlf//9t9mxY4eZmZmxy0dGRszGjRuTt696kEuCDx8+nPPKNFsirLJUEGEHi3D9
++vXmy5cvP1VeR39/v5VdEbHt84LpyZMnZtWqVWbbtm2118+ePWuWL19uli5dak6ePFm3zbdv38zA
+wIBtcXZ3d5vJycmfWqTaTssl4Tdv3gSPJ2EfO3bMtmK7urpsizd7fVwrbuHChWbz5s1mYmKisDyv
+Xr0y+/fvt8fWNjq/e/fu1Y6d8hvWUNmLrleWWHny3nt/+a1bt8zKlSvtORw/ftx8/fo12iIMvS9l
+rkvKdSjzniBCaKhr7Pj06ZMNRsnPsXbt2uT7OXnb5wWTKpoq79u3b+1r169fNzdv3rSvff/+3Vbk
+Cxcu1LYZGhoyo6Oj9v/79+/XtUgvXbpU1yLVvlQ5Q8e7fPmyOX/+vH3t/fv3ZteuXXVBnm3FjY2N
+WdkXsWXLFttKdsfXuUhaRZXHfx4re975+8TKkyJCdd31AaJ96D08ceJEVISh96XsdYldhzLvCSKE
+hkV46NAh+0msx9OnT+sCUIGnT3R3D/Djx4/J2+cFU7bFJlQJVQH8lqZDFcxf7ti0aZNtmWRbKWrZ
+hI6nllV2m6mpqbogV4V1FbwR1GpJFWGs7Hnn7xMrT4oIs605tfDXrFkTFWHofSl7XWLXodn3BBFC
+covQdTPV9ci++UePHrWtPdfiCrX4/O1Tgkmy9btL2UoT6mpn18tbv+h4ftcyu57E71pJw8PD0Wum
+rqtaR7ouEnNIQv7zWNlT3rdYeVJE6Euo6Br6LedWXZfYdSj7niBCaEqE6pZkA1z3nbKtDVWY0Iif
+v31KMOXJLPWeY96ymARi27hKrO5eb2+vGRwcLDy+7q2pZXTjxg3z6NEj230tI8JY2RsRYco1KHON
+GhFh2esSuw5l3hNECKVFqC6H7isVdS337dv3U2tDXeTU7VOCSS1ItTiL2LBhQ2EXTNv6XeOsqPOO
+p1Hw7DbPnz8vDHJ9VShUAfRBkT13ja6XEWGs7CmVL1Yefx9555j9SpRufahcMRGG3pey1yV2Hcq8
+J4gQSotQXVl1NdxN7d9//90+HLovo4dbfuXKFftdwtTtU4JJAx7uZr8eep79Co66V+oaifHx8Z8G
+S3RObttr167ZCho6nm7i62s+bnBh7969P9370iil0A36UMtHg0luNFQC0rUJVXh9iOienxNXrOwp
+lS9WnuxAw+vXr+1orn+OOqa2de/hgQMHoiIMvS+x61L2OpR5TxAhlBahurIalVQrSgMdEpuPRKOW
+n9ZRJfrnn39KbZ8STGfOnLGtCHeM7AipvsqhQRoFv+41aTDAl7kbqNGI8cuXL6PH01eC1HLV1zV0
+3zO7nrpgOo66azqmq4B5PH782N7U13qqrPrQCIlQI6EqY7bVGip7auULlceJQ+XRh4TK45+jpLV6
+9Wr7Pp86dapuQKyoPKH3JXZdyl6HMu8JIoSm7xFCJYODi8B1QoRABQeuEyKEStOOv/tFhIAIARAh
+IEIARAiIEAARAiIEQISACAEQISBCAEQIiJBgBWILECHBCsQWtESEjaTO1zZKr6Tftq5YscLcuXPH
+/khevxP15+gQean0P3/+bJN/ZlPCC/0IP5vPMHQesRT1AIgQkkVYNnW+tjl8+LBd9tdff1kRHTly
+xD73M4OEUukr4auWZ1Haeckv5TxiKeoBECEki7Bs6nx/Gz3P5pLLHiuUSv/Fixe2VeiOpb+aNtTt
+O3YesRT1AIgQkkXoUzZ9fOh5LJX+7t27batPKK+e0i+lnkcsRT0AIoSGRVg2fXzoeSyNvFKva2Io
+oXuDSuueeh4pKfcBECE0JMKy6eNDz2Op9IWyGet+n7rFZc6jTMp9AEQIpURYNn186Hkslb7QAIhG
+fbMDISnnEUtRD4AIoWERijLp42PPQ6n0xYcPH+xxspNApZyHCKWoB0CEkCRCAECEiBAAECEiBABE
+iAgBABEiQgBAhIgQABAhIgQARIgIAQARIkIAQISIEAAQISIEAESICAEAESJCAECEiBAAECEiBABE
+iAgBABF27nvIGwmABBEhbygAEkSE9W8sDx480h7QoSLkkx0AECEiBABEiAgBABEiQgBAhIgQABAh
+IgQARIgIAQARIkIAQISIEAAQISIEAESICAEAESJCAECEiBAAECEiBABEiAgBABEiQgBAhIgQABAh
+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
+lWBmZuanZfpU+fz5c929FN34bDQgdIxWfTLqxqm+5lCERgV170FvbJkugu4JZfcbOueUcm/YsCGp
+ixArT5bp6enSYkOExH3V475QhP/73//M7t27zbt373KXnzp1yo7ouBuouu+gC12mGe9udL5+/dqO
+SjUaEBp90j0KBaW4dOmSOX/+fO3c9HzPnj21m8Y7d+6su9j//PNP7n581q5dWxste/78ub35HDtP
+f5/+TWM174VG9IpuGofK4+65aARN6JqGPnERYbjMxH01475QhGvWrAl+cVQjT0eOHLFfLdBXDnTC
+ZQLPnbiav/qEUIEaDQgFo84j+zWHM2fO2E8yvaZgc6NZ+g5Y9msE+l/Li/aT5fHjx/Zmrc5bb4Ju
+1MbO09+nfw11Ptqf7rtMTU0V7quoPK57oO11LbUvFxyIsHyZiftqxj2/NQZECJWPe0QIiBAQIQEB
+iBAQIQFBQCBCQIQEBAGBCAERckUICMoMiBAICMoMiBAICMoMiBAICMoM5WmHlPyIsInKUDbFOlKg
+zLN1rF+9fWh/jabkR4RtUhnKplhHCpS5KiIM7bvjRBhLzx1Kkx1Lod1o+u1m9qsfbR87dsz+brGr
+q8tmuy0qe9HvTJWNWPvWNdGPv7PJKP105UihfctcNt29SE0/H8vUkhKnrYpzn3Xr1tXSc7kMM3//
+/bd9riQUWp4936KU/JrKQIka3G+A52uDIkmEsfTcoTTZoWXNpN9uZr/KzOsyWSjH3K5du6JzQmRR
+5gtdA3c9dDwFfnZ9P105Imy/Mjea7j41/XxMhLE4bXWcZ1H+xbt379r/79y5Y7u9Op577uI9VB49
+V85D10hoJCvMvO8aZxMlhtJkh5Y1k367mf2qlZZNM6SMF2VEqCwX2e31v3LTZdf305UjwvYrc6Pp
+7lPTz8dEGIvTVsd5FiVgVR5G8d///tdmo9ZDHD582Eo3RYSxtP1tJ8JQeu5QmuzQsmbSbzezX/9T
+ScFURoR52XKz+2xnmSDC9DhyMvLT3admXY6JMBanrY7zLGrdqicodOtJyU6Vlkyou+8S1cZE2C7x
+lSTCWHpuJ8qiNNlFy5pNv93ofvMCtYwIY9sjws4oc6Pp7mdLhP7yVse5j3IsqkvtBKh7fUrG6p5X
+ToSx9NxZQmmy/WWtSr9ddr87duyo6zLozS0jQu3f7xpnvzqACOdfmcq8v6lxVJTuPjX9fCxVfyxO
+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
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2013-06-26 12:47:46 +0200" MODIFIED_BY="Sarah Louise Klingenberg">
+<APPENDIX ID="APP-01" MODIFIED="2013-06-26 12:47:46 +0200" MODIFIED_BY="Sarah Louise Klingenberg" NO="1">
+<TITLE MODIFIED="2013-06-12 12:00:46 +0200" MODIFIED_BY="Sarah Louise Klingenberg">Search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2013-06-26 12:47:46 +0200" MODIFIED_BY="Sarah Louise Klingenberg">
+<TABLE COLS="3" ROWS="6">
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Database</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Time span</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Search strategy</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>The Cochrane Hepato-Biliary Group Controlled Trials Register</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>February 2013.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>surg* AND (((hepat* or liver) AND (carcinom* or tumor* or tumour* or neoplasm* or malign* or cancer*)) OR HCC)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>The Cochrane Central Register of Controlled Trials (CENTRAL) in <I>The Cochrane Library</I>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Issue 1 of 12, 2013.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#1 MeSH descriptor Carcinoma, Hepatocellular explode all trees<BR/>#2 ((hepat* or liver) and (carcinom* or tumor* or tumour* or neoplasm* or malign* or cancer*)) or HCC<BR/>#3 (#1 OR #2)<BR/>#4 surg* and resect*<BR/>#5 (#3 AND #4)</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>MEDLINE (Ovid SP)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1946 to February 2013.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#1 explode "Carcinoma-Hepatocellular"/ all subheadings<BR/>#2 ((hepat* or liver) and (carcinom* or tumor* or tumour* or neoplasm* or malign* or cancer*)) or HCC<BR/>#3 #1 or #2<BR/>#4 surg* and resect*<BR/>#5 #3 and #4<BR/>#6 random* or blind* or placebo* or meta-analysis<BR/>#7 (TG=animals) not ((TG=animals) and (TG=humans))<BR/>#8 #6 not #7<BR/>#9 #5 and #8<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>EMBASE (Ovid SP)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1974 to February 2013.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#1 explode liver resection/<BR/>#2 (surg* and resect*).mp. [mp=title, abstract, subject headings, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, keyword]<BR/>#3 #1 or #2<BR/>#4 exp liver transplantation/<BR/>#5 ((liver or hepat*) and transplant*).mp. [mp=title, abstract, subject headings, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, keyword]<BR/>#6 #4 or #5<BR/>#7 exp liver cell carcinoma/<BR/>#8 (((hepat* or liver) and (carcinom* or tumor* or tumour* or neoplasm* or malign* or cancer*)) or HCC).mp. [mp=title, abstract, subject headings, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, keyword]<BR/>#9 #7 or #8<BR/>#10 #3 and #6 and #9<BR/>#11 (random* or blind* or placebo* or meta-analys*).mp. [mp=title, abstract, subject headings, heading word, drug trade name, original title, device manufacturer, drug manufacturer, device trade name, keyword]<BR/>#12 #10 and #11<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Science Citation Index Expanded (<A HREF="http://www.webofknowledge.com/?DestApp=WOS">http://www.webofknowledge.com/?DestApp=WOS</A>)</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1900 to February 2013.</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>#5 #4 AND #3<BR/>#4 TS=(random* or blind* or placebo* or meta-analysis)<BR/>#3 #2 AND #1<BR/>#2 TS=(surg* and resect*)<BR/>#1 TS=(((hepat* or liver) and (carcinom* or tumor* or tumour* or neoplasm* or malign* or cancer*)) or HCC)<BR/>
+</P>
+</TD>
+</TR>
+</TABLE>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS>
+<EXTENSION ID="FLOW_1" NAME="FIGURE" REVMAN_VERSION="5.1.0" TYPE="FLOWCHART">
+<ALIAS ALIAS_ID="1">
+<FLOWCHARTBOX TEXT="&lt;p&gt;0 studies included in quantitative synthesis (meta-analysis)&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;0 studies included in qualitative synthesis&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;25 full-text articles assessed for eligibility&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;363 records screened&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;363 records after duplicates removed&lt;/p&gt;">
+<FLOWCHARTBOX TEXT="&lt;p&gt;371 records identified through database searching&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;338 records excluded&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;25 full-text articles excluded, with reasons&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</ALIAS>
+</EXTENSION>
+</EXTENSIONS>
+</COCHRANE_REVIEW>

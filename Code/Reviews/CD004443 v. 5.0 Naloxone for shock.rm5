@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD004443" GROUP_ID="INJ" ID="686200012717393741" MERGED_FROM="" MODIFIED="2009-05-08 15:29:35 +0200" MODIFIED_BY="Emma Sydenham" REVIEW_NO="jlx1" REVMAN_SUB_VERSION="5.0.20" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="5.0">
+<COVER_SHEET MODIFIED="2009-05-08 14:27:22 +0100" MODIFIED_BY="Emma Sydenham">
+<TITLE>Naloxone for shock</TITLE>
+<CONTACT>
+<PERSON ID="5352" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Jacques</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Lacroix</LAST_NAME>
+<SUFFIX>M.D., F.R.C.P.(C)</SUFFIX>
+<POSITION>Pediatric Intensivist, Clinical Professor</POSITION>
+<EMAIL_1>jacques_lacroix@ssss.gouv.qc.ca</EMAIL_1>
+<EMAIL_2>j_lacroix@videotron.ca</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pediatric Intensive Care Unit</DEPARTMENT>
+<ORGANISATION>Sainte Justine Hospital, University of Montreal</ORGANISATION>
+<ADDRESS_1>3175 chemin de la Cote Ste-Catherine</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Montreal</CITY>
+<ZIP>H3T 1C5</ZIP>
+<REGION>Québec</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 514 345 4675</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 514 345 4822</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2009-05-08 14:27:22 +0100" MODIFIED_BY="Emma Sydenham">
+<PERSON ID="14385" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Benoit</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Boeuf</LAST_NAME>
+<SUFFIX/>
+<POSITION>MD</POSITION>
+<EMAIL_1>benoit.boeuf@wanadoo.fr</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pédiatrie</DEPARTMENT>
+<ORGANISATION>Centre Hospitalier Universitaire</ORGANISATION>
+<ADDRESS_1>Boîte postale 69</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Clermont-Ferrant</CITY>
+<ZIP>63003</ZIP>
+<REGION/>
+<COUNTRY CODE="FR">France</COUNTRY>
+<PHONE_1>33 4 73 750 041</PHONE_1>
+<PHONE_2/>
+<FAX_1>33 4 73 750 036</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14454" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Véronique</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Poirier</LAST_NAME>
+<SUFFIX/>
+<POSITION>MD</POSITION>
+<EMAIL_1>v_poirier@yahoo.fr</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pédiatrie</DEPARTMENT>
+<ORGANISATION>Service de réanimation pédiatrique, Hôtel-Dieu</ORGANISATION>
+<ADDRESS_1>BP 69</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Clermont-Ferrand cedex 1</CITY>
+<ZIP>63 003</ZIP>
+<REGION/>
+<COUNTRY CODE="FR">France</COUNTRY>
+<PHONE_1>04-73-75-06-11</PHONE_1>
+<PHONE_2/>
+<FAX_1>04-73-75-06-10</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14408" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>France</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Gauvin</LAST_NAME>
+<SUFFIX>MD, FRCPC, M.Sc.</SUFFIX>
+<POSITION>Pédiatrie, Soins Intensifs</POSITION>
+<EMAIL_1>france_gauvin@ssss.gouv.qc.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Soins Intensifs</DEPARTMENT>
+<ORGANISATION>Hôpital Sainte-Justine</ORGANISATION>
+<ADDRESS_1>3175 Côte Sainte-Catherine</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Montréal</CITY>
+<ZIP>H3T 1C5</ZIP>
+<REGION>Province de Québec</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>514-345-4931 ext: 6812</PHONE_1>
+<PHONE_2/>
+<FAX_1>514-345-7731</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14412" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Anne-Marie</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Guerguerian</LAST_NAME>
+<SUFFIX/>
+<POSITION>MD</POSITION>
+<EMAIL_1>aguergue@jhmi.epi</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pédiatrie</DEPARTMENT>
+<ORGANISATION>Hôpital Sainte-Justine</ORGANISATION>
+<ADDRESS_1>3175 Côte Sainte-Catherine</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Montréal</CITY>
+<ZIP>H3T 1C5</ZIP>
+<REGION>Province de Québec</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>514-345-4675</PHONE_1>
+<PHONE_2>514-345-4708</PHONE_2>
+<FAX_1>514-345-4822</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14460" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Chantal</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Roy</LAST_NAME>
+<SUFFIX/>
+<POSITION>Research coordinator</POSITION>
+<EMAIL_1>chantal.roy@recherche-ste-justine.qc.ca</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Département d'Obstétrique-Gynécologie</DEPARTMENT>
+<ORGANISATION>Université de Montréal</ORGANISATION>
+<ADDRESS_1>Hôpital Sainte-Justine</ADDRESS_1>
+<ADDRESS_2>3175 Chemin de la côte sainte-catherine</ADDRESS_2>
+<CITY>Montréal</CITY>
+<ZIP>H3T 1C5</ZIP>
+<REGION>Province de Québec</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 514 3454931 ext: 4151</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 514 3452195</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14403" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Catherine</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Farrell</LAST_NAME>
+<SUFFIX/>
+<POSITION>MD, FRCP</POSITION>
+<EMAIL_1/>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pédiatrie</DEPARTMENT>
+<ORGANISATION>Hôpital Sainte-Justine</ORGANISATION>
+<ADDRESS_1>3175 Côte Sainte-Catherine</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Montréal</CITY>
+<ZIP>H3T 1C5</ZIP>
+<REGION>Province de Québec</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>(514) 345-4931 ext: 2977</PHONE_1>
+<PHONE_2>514 345-4708</PHONE_2>
+<FAX_1>(514) 345-7731</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5352" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Jacques</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Lacroix</LAST_NAME>
+<SUFFIX>M.D., F.R.C.P.(C)</SUFFIX>
+<POSITION>Pediatric Intensivist, Clinical Professor</POSITION>
+<EMAIL_1>jacques_lacroix@ssss.gouv.qc.ca</EMAIL_1>
+<EMAIL_2>j_lacroix@videotron.ca</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pediatric Intensive Care Unit</DEPARTMENT>
+<ORGANISATION>Sainte Justine Hospital, University of Montreal</ORGANISATION>
+<ADDRESS_1>3175 chemin de la Cote Ste-Catherine</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Montreal</CITY>
+<ZIP>H3T 1C5</ZIP>
+<REGION>Québec</REGION>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<PHONE_1>+1 514 345 4675</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 514 345 4822</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2009-04-20 16:30:06 +0100" MODIFIED_BY="Emma M Sydenham">
+<UP_TO_DATE>
+<DATE DAY="5" MONTH="12" YEAR="2008"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="5" MONTH="12" YEAR="2008"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="12" MONTH="7" YEAR="2011"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2003"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2003"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2003"/>
+</DATES>
+<WHATS_NEW MODIFIED="2009-05-01 15:32:55 +0100" MODIFIED_BY="Karen Blackhall">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2009-05-01 15:32:55 +0100" MODIFIED_BY="Karen Blackhall">
+<DATE DAY="20" MONTH="4" YEAR="2009"/>
+<DESCRIPTION>
+<P>The search was updated to 5 December 2008.</P>
+<P>No new trials were identified. The conclusions remain the same.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2009-04-20 16:27:51 +0100" MODIFIED_BY="Emma M Sydenham">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-04-20 16:27:51 +0100" MODIFIED_BY="Emma M Sydenham">
+<DATE DAY="11" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Canadian Institutes of Health Research</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Agence d'Évaluation des technologies et des modes d'intervention en santé</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2009-05-08 14:27:55 +0100" MODIFIED_BY="Emma M Sydenham">
+<SUMMARY MODIFIED="2009-05-08 08:57:17 +0100" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2009-05-08 08:55:14 +0100" MODIFIED_BY="[Empty name]">Naloxone may improve blood pressure in people who are in shock but more trials are needed to show whether this reduces deaths</TITLE>
+<SUMMARY_BODY MODIFIED="2009-05-08 08:57:17 +0100" MODIFIED_BY="[Empty name]">
+<P>When people go into shock, their blood pressure drops and may be too low to sustain life. One theory about the cause of this is the effect of the opiates that the body produces after major blood loss or trauma. Naloxone is a drug that counteracts the effects of opiates. It has been tried as a treatment to reduce the impact of shock. This review of trials found that giving naloxone to people in shock improves their blood pressure. It is not clear whether or not this improves their overall condition or reduces their chances of dying. More trials are needed.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2009-05-08 14:27:55 +0100" MODIFIED_BY="Emma M Sydenham">
+<ABS_BACKGROUND MODIFIED="2009-05-08 08:45:16 +0100" MODIFIED_BY="[Empty name]">
+<P>There is pre-clinical evidence, involving several animal species, suggesting that opioid peptides play a role in the physiopathology of shock (endotoxic, hypovolemic, cardiogenic, spinal, anaphylactic). Many case reports have suggested that naloxone (an opiate antagonist) might be an effective treatment for shock in humans, but others have not supported such a point of view. This controversy led us to undertake a meta-analysis of the available evidence on the efficacy of naloxone as a treatment measure for shock in humans.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2009-05-08 09:04:12 +0100" MODIFIED_BY="[Empty name]">
+<P>To evaluate the effectiveness and safety of naloxone in human shock and to estimate the methodological quality of the clinical trials.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2009-05-08 08:48:24 +0100" MODIFIED_BY="[Empty name]">
+<P>We searched the Cochrane Injuries Group Specialised Register, CENTRAL (The Cochrane Library), MEDLINE (Ovid SP), PubMed, EMBASE (Ovid SP), ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED), and ISI Web of Science: Conference Proceedings Citation Index-Science (CPCI-S) (to December 2008). In order to identify further studies the reference lists of all included papers were examined and the primary investigators of eligible studies were contacted. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2009-05-08 08:48:55 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomized controlled trials evaluating naloxone in human shock, regardless of the patient's age (adult, child, or neonate).</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2009-05-08 08:49:33 +0100" MODIFIED_BY="[Empty name]">
+<P>Three independent review authors extracted data on study design, intervention, outcomes, and methodological quality.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2009-05-08 14:27:55 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Three independent readers reviewed 120 publications and selected six clinical trials. Overall agreement on study selection was perfect (concordance: 100%). The meta-analysis includes six studies involving 126 patients with septic, cardiogenic, hemorrhagic, or spinal shock.</P>
+<P>Naloxone therapy was associated with statistically significant hemodynamic improvement (odds ratio 0.24; 95% confidence interval (CI) 0.09 to 0.68). The mean arterial pressure was significantly higher in the naloxone groups than in the placebo groups (weighted mean difference +9.33 mm Hg; 95% CI 7.07 to 11.59). No heterogeneity was found for this outcome. The death rate was lower in the naloxone group (odds ratio 0.59; 95% CI 0.21 was 1.67) but this was consistent with the play of chance. A significant heterogeneity was detected for the latter outcome (P &lt; 0.05).</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2009-05-08 08:53:52 +0100" MODIFIED_BY="[Empty name]">
+<P>Naloxone improves blood pressure, especially mean arterial blood pressure. However, the clinical usefulness of naloxone to treat shock remains to be determined and additional randomized controlled trials are needed to assess its usefulness.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2009-05-08 10:45:09 +0100" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2009-05-08 09:03:08 +0100" MODIFIED_BY="[Empty name]">
+<P>The discovery, in 1975, of endogenous opioid peptides (<LINK REF="REF-Hughes-1975" TYPE="REFERENCE">Hughes 1975</LINK>) has generated abundant research on the potential functional role of opiate receptors and their peptide ligands. Holladay and Faden provided the first experimental evidence for opioid peptide involvement in the physiopathology of circulatory shock (<LINK REF="REF-Holaday-1978" TYPE="REFERENCE">Holaday 1978</LINK>).</P>
+<P>Subsequent research supported the therapeutic efficacy of opiate antagonists used in different experimental shock states (endotoxic, hypovolemic, cardiogenic, spinal, anaphylactic) in several animal species. Since then, many papers have been published on the use of an opiate antagonist (naloxone) in human shock. In most publications naloxone therapy was reported to be effective, but in eight reports it failed to show any kind of hemodynamic improvement (<LINK REF="STD-Allolio-1987" TYPE="STUDY">Allolio 1987</LINK>; <LINK REF="STD-Bonnet-1985" TYPE="STUDY">Bonnet 1985</LINK>; <LINK REF="REF-Cabrera-1986" TYPE="REFERENCE">Cabrera 1986</LINK>; <LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>; <LINK REF="STD-Gerad-1983" TYPE="STUDY">Gerad 1983</LINK>; <LINK REF="STD-Montastruc-1985" TYPE="STUDY">Montastruc 1985</LINK>; <LINK REF="STD-Rock-1985" TYPE="STUDY">Rock 1985</LINK>; <LINK REF="REF-Valdiviels-1984" TYPE="REFERENCE">Valdiviels 1984</LINK>). This controversy, and the need to reconsider some of the less expensive technologies given that the immunotherapies have been so disappointing, prompted us to undertake this systematic review.</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2008-09-11 17:22:34 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>This systematic review addressed the following questions.</P>
+<OL>
+<LI>What is the quality of the clinical trials dealing with this topic?</LI>
+<LI>Is naloxone an effective therapy for shock in human patients?</LI>
+<LI>Is there heterogeneity among the pooled studies?</LI>
+<LI>How strong is the evidence?</LI>
+<LI>Is naloxone a safe and useful therapy for shock in humans?</LI>
+</OL>
+</OBJECTIVES>
+<METHODS MODIFIED="2009-05-08 09:48:22 +0100" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2009-05-08 09:26:32 +0100" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES>
+<P>Randomized controlled trials.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2009-05-08 09:05:56 +0100" MODIFIED_BY="[Empty name]">
+<P>Human participants only. Patients were considered to be in shock if they met the criteria as defined in each trial. No uniform definition of shock was used to redefine or reclassify the participants in each trial.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2009-05-08 09:26:32 +0100" MODIFIED_BY="[Empty name]">
+<P>Dose of naloxone of at least 0.01 mg/kg/dose in one or more bolus injections, or a continuous infusion of at least 0.01 mg/kg/hour for 60 minutes or longer.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2009-05-08 09:08:06 +0100" MODIFIED_BY="[Empty name]">
+<P>Change in death rate, reduction in doses of vasoactive drugs, mean arterial pressure, systolic blood pressure, and heart rate.</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2009-05-08 09:35:46 +0100" MODIFIED_BY="[Empty name]">
+<P>Searches were not restricted by date, language, or publication status.</P>
+<ELECTRONIC_SEARCHES MODIFIED="2009-05-08 09:35:46 +0100" MODIFIED_BY="[Empty name]">
+<P>We searched the following electronic databases:</P>
+<UL>
+<LI>Cochrane Injuries Group Specialised Register (searched 5 December 2008);</LI>
+<LI>CENTRAL (<I>The Cochrane Library</I> 2008, Issue 4);</LI>
+<LI>MEDLINE (Ovid SP) (1950 to week 3, November 2008);</LI>
+<LI>Embase (Ovid SP) (1980 to November (week 49) 2008);</LI>
+<LI>ISI Web of Science:Science Citation Index Expanded (SCI-EXPANDED) (1970 to December 2008);</LI>
+<LI>ISI Web of Science:Conference Proceedings Citation Index-Science (CPCI-S) (1990 to December 2008);</LI>
+<LI>PubMed (searched 5 December 2008; added to PubMed in the last 180 days).</LI>
+</UL>
+<P>The search strategy can be found in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2009-05-08 09:32:10 +0100" MODIFIED_BY="[Empty name]">
+<P>All search results were examined. These included reviews, overviews, editorials, monographs, symposia, book chapters, and clinical studies. We also searched the reference lists of relevant material. Primary investigators of eligible studies were contacted and asked whether they knew of any other study or systematic review on the same topic.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2009-05-08 09:48:22 +0100" MODIFIED_BY="[Empty name]">
+<STUDY_SELECTION MODIFIED="2009-05-08 09:37:23 +0100" MODIFIED_BY="[Empty name]">
+<P>The literature was independently reviewed by three review authors (Catherine Ann Farrell, France Gauvin, Anne-Marie Guerguerian) who selected studies according to the agreed inclusion criteria, defined a priori. Disagreement regarding inclusion was resolved by a consensus of at least two review authors. Agreement on the decision to include a study was assessed by the percentage of concordance and kappa score (<LINK REF="REF-Kramer-1981" TYPE="REFERENCE">Kramer 1981</LINK>).</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2009-05-08 09:38:40 +0100" MODIFIED_BY="[Empty name]">
+<P>Data on the effectiveness of naloxone to treat shock were extracted from the included studies. First, they were displayed in two-by-two contingency tables. Two contingency tables were constructed. The outcome considered in the first was better blood pressure control; the second comprised data on death. We mailed these tables to each primary investigator and requested them to verify the data. Secondly, we extracted data on the three outcomes that were continuous (systolic blood pressure, mean arterial pressure, and heart rate). Following this, we made three new comparison tables.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2009-05-08 09:45:54 +0100" MODIFIED_BY="[Empty name]">
+<P>For all studies included in this review, the completeness of the information required to determine quality (see <LINK REF="REF-Chalmers-1981" TYPE="REFERENCE">Chalmers 1981</LINK>) was assessed independently by three review authors (Jacques Lacroix, Véronique Poirier, Chantal Roy). Disagreements were settled by consensus, which was defined as the agreement of at least two authors. The scoring system used to estimate the quality of the clinical trials is detailed elsewhere (<LINK REF="REF-Boeuf-1998" TYPE="REFERENCE">Boeuf 1998</LINK>). It included the following information: description of patient selection, number of patients assessed and rejected for eligibility, adequate description of therapeutic regimen given, allocation concealment, blinding of patients, blinding of physician to therapy, blinding of physician and patients to results, prior estimate of sample size, stopping rules, testing the adequacy of randomization, testing blinding, testing compliance, biological equivalence, endpoint duplicate variable, dates of starting and stopping accession, results pre-randomization, statistical tests performed and results detailed, posterior power estimate of observed difference for negative trial, confidence interval calculated, life-table or time-series or repeated measures, timing of events, regression or correlation, appropriate statistical tests used, withdrawals, handling of withdrawals, adequate side effect discussion, proper retrospective analysis.</P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2009-05-08 09:48:22 +0100" MODIFIED_BY="[Empty name]">
+<P>For the two main outcomes, we combined data to estimate the odds ratio (OR) and its 95% confidence interval (95% CI) across the studies using a fixed-effect model (<LINK REF="REF-Mantel-1959" TYPE="REFERENCE">Mantel 1959</LINK>). The cumulative evidence of the pooled studies was evaluated by the method suggested by Collins and Langman (<LINK REF="REF-Collins-1987" TYPE="REFERENCE">Collins 1987</LINK>). A correction factor of 0.5 was attributed to zero cells (<LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>). The heterogeneity of treatment effects across the studies was ascertained by a Chi<SUP>2</SUP> analysis. For some outcomes, we combined continuous data to estimate a weighted mean reduction and its 95% CI across the studies using a fixed-effect model. Following this, a Student t-test was carried out to compare the mean differences.</P>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2009-05-08 10:40:19 +0100" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2009-05-08 09:57:58 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Study identification and selection</HEADING>
+<P>We found 120 papers (published to December 2008) dealing (at first glance) with naloxone and shock; 114 were excluded by adjudicators for the following reasons:<BR/>a) animal studies (n = 39);<BR/>b) case report, editorial, or review (n = 56);<BR/>c) case series (n = 14) (<LINK REF="STD-Bone-1982" TYPE="STUDY">Bone 1982</LINK>; <LINK REF="STD-Bonnet-1985" TYPE="STUDY">Bonnet 1985</LINK>; <LINK REF="STD-Canady-1989" TYPE="STUDY">Canady 1989</LINK>; <LINK REF="STD-Duarte-1992" TYPE="STUDY">Duarte 1992</LINK>; <LINK REF="STD-Gerad-1983" TYPE="STUDY">Gerad 1983</LINK>; <LINK REF="STD-Groeger-1983" TYPE="STUDY">Groeger 1983</LINK>; <LINK REF="STD-Hackshaw-1990" TYPE="STUDY">Hackshaw 1990</LINK>; <LINK REF="STD-Hughes-1983" TYPE="STUDY">Hughes 1983</LINK>; <LINK REF="STD-Martinon-1982" TYPE="STUDY">Martinon 1982</LINK>; <LINK REF="STD-Peters-1981" TYPE="STUDY">Peters 1981</LINK>; <LINK REF="STD-Putterman-1986" TYPE="STUDY">Putterman 1986</LINK>; <LINK REF="STD-Rock-1985" TYPE="STUDY">Rock 1985</LINK>; <LINK REF="STD-Tarelkina-1989" TYPE="STUDY">Tarelkina 1989</LINK>; <LINK REF="STD-VelizPintos-1985" TYPE="STUDY">VelizPintos 1985</LINK>);<BR/>d) the cases or controls, or both, were not in shock (n = 5) (<LINK REF="STD-Allolio-1987" TYPE="STUDY">Allolio 1987</LINK>; <LINK REF="STD-Desmonts-1978" TYPE="STUDY">Desmonts 1978</LINK>; <LINK REF="STD-Estilo-1982" TYPE="STUDY">Estilo 1982</LINK>; <LINK REF="STD-Lightfoot-2000" TYPE="STUDY">Lightfoot 2000</LINK>; <LINK REF="STD-Oldroyd-1995" TYPE="STUDY">Oldroyd 1995</LINK>) (see <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>).</P>
+<P>Six clinical trials were found that fulfilled the inclusion criteria. Overall agreement on selection of studies was perfect (concordance: 100%). The primary outcome was an increase in blood pressure in five reports (<LINK REF="STD-Hughes-1984" TYPE="STUDY">Hughes 1984</LINK>; <LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>; <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>; <LINK REF="STD-Montastruc-1985" TYPE="STUDY">Montastruc 1985</LINK>; <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>). A decrease in the amount of vasopressor, inotrope, or both was used once (<LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>), and death once (<LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>). The secondary outcomes considered were changes in blood catecholamine levels (<LINK REF="STD-Hughes-1984" TYPE="STUDY">Hughes 1984</LINK>; <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>) and blood lactic acid levels (<LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>). The definitions of shock used by the authors of the selected studies were not homogenous and did not follow the current American College of Chest Physicians (ACCP) definition (<LINK REF="REF-ACCP_x002f_SCCM-1992" TYPE="REFERENCE">ACCP/SCCM 1992</LINK>). Only one author (<LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>) assessed the illness severity score at baseline: mean APACHE II score of 16.8 in the naloxone group and 18.9 in the control group.</P>
+</SUBSECTION>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2009-05-08 09:59:26 +0100" MODIFIED_BY="[Empty name]">
+<P>Overall agreement for the evaluation of the quality of each study was good (intraclass correlation coefficient 0.70). Scores were averaged between the three review authors. The maximum score of quality would be 104; the score was 61.1 for <LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>, 43 for <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>, 60.2 for <LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>, and 47.8 for <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>. These are fair-to-good quality scores.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2009-05-08 10:40:19 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Death rate</HEADING>
+<P>Death rates ranged from 0% to 60% in the three naloxone groups, and from 45.4% to 66.6% in the three control groups. The pooled odds ratio (OR) comparing naloxone with the control groups was 0.59 (95% CI 0.21 to 1.67). A significant heterogeneity was found for this outcome (P &lt; 0.05).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Reduction in dose of vasoactive drugs</HEADING>
+<P>In one study that included only 22 patients, the primary outcome measure was a reduction in dose of vasoactive drug (<LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>). The OR was 0.12 (95% CI 0.12 to 1.29).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Mean arterial blood pressure</HEADING>
+<P>The mean arterial blood pressure changed from 87.5 ± 8.7 to 99.1 ± 9.1 mm Hg with naloxone, and from 84.3 ± 8.2 mm Hg to 93.8 ± 10.7 mm Hg with placebo in <LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>; from 64.1 ± 7.7 to 81.2 ± 9.8 mm Hg with naloxone, and from 77.2 ± 10.1 to 66.8 ± 6.3 mm Hg with placebo in <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>; and from 61.3 ± 3 to 74 ± 4 mm Hg with naloxone, and from 62 ± 4 mm Hg to 65 ± 3 mm Hg with placebo in <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>. Overall, the mean arterial blood pressure increased from 70.9 to 84.9 mm Hg with naloxone, and from 74.5 to 75.3 mm Hg with placebo. We were unable to obtain the standard deviations of these results at baseline, thus no statistical analysis was done on the difference between mean arterial blood pressure at baseline and after treatment. However, we were able to compare the mean arterial blood pressure after treatment in the two groups for these three studies: it was statistically higher in the naloxone than in the placebo group (weighted mean difference +9.33 mm Hg; 95% CI 7.07 to 11.59). No significant heterogeneity was found.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Systolic blood pressure</HEADING>
+<P>The systolic blood pressure increased from 87.5 ± 8.5 to 95 ± 10.8 mm Hg with naloxone, and from 89 ± 7.7 mm Hg to 99 ± 9.3 mm Hg with placebo in <LINK REF="STD-Hughes-1984" TYPE="STUDY">Hughes 1984</LINK>; from 75.5 to 83.8 mm Hg with naloxone, and from 77.4 to 82.8 mm Hg with placebo in <LINK REF="STD-Montastruc-1985" TYPE="STUDY">Montastruc 1985</LINK>; and from 86 ± 4 to 102 ± 7 mm Hg with naloxone, and from 90 ± 4 mm Hg to 100 ± 6 mm Hg with placebo in <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>. On average, the systolic blood pressure increased from 82.8 to 93.6 mm Hg with naloxone, and from 85.5 to 93.9 mm Hg with placebo. We were unable to obtain the standard deviations of these results at baseline, thus no statistical analysis was done on the difference between systolic blood pressure at baseline and after treatment. We compared the systolic blood pressure after treatment in these three studies: it was similar in the naloxone and placebo groups. No significant heterogeneity was found.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Heart rate</HEADING>
+<P>The heart rate changed from 109 ± 8 to 106 ± 7 beats/minute with naloxone, and from 102 ± 10 to 106 ± 15 beats/min with placebo in <LINK REF="STD-Hughes-1984" TYPE="STUDY">Hughes 1984</LINK>; from 113 ± 32 to 110 ± 20 beats/min with naloxone, and from 108 ± 14 to 101 ± 19 beats/min with placebo in <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>; from 80 to 75 beats/min with naloxone, and from 87 to 91 beats/min with placebo in <LINK REF="STD-Montastruc-1985" TYPE="STUDY">Montastruc 1985</LINK>; and from 114 ± 5 to 112 ± 4 beats/min with naloxone, and from 126 ± 4 to 115 ± 5 beats/min with placebo in <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>. On average, the heart rate decreased from 103.9 to 100.7 beats/min with naloxone, and from 105.8 to 103.35 beats/min with placebo. We were unable to obtain the standard deviations of these results at baseline, thus no statistical analysis was done. We compared the heart rate after treatment in these three studies: it was similar in the naloxone and placebo groups. No significant heterogeneity was found.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Adverse effects</HEADING>
+<P>Adverse effects were monitored in two clinical trials (<LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>; <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>). No serious adverse effects were observed, although four of the 11 patients who received naloxone in <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK> experienced a "mild to moderate degree of agitation" a few minutes after naloxone was given, which was not reported in the placebo group.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2009-05-08 10:38:32 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="2">Principal findings</HEADING>
+<P>This systematic review shows that naloxone can increase blood pressure in patients with shock; this was statistically significant (<LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>; <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>; <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>). Participants receiving continuous infusion of naloxone over a prolonged period appeared to have a lower death rate but this was not statistically significant (<LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>; <LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>; <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Strengths and weaknesses of the review</HEADING>
+<P>The part of this systematic review considering survival as the outcome measure includes a limited number of patients, 59 patients from three clinical trials (<LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>; <LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>; <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>). The positive trend that we found could easily be reversed if there has been publication bias. This also holds true for the mean arterial pressure outcome (66 patients from three clinical trials) (<LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>; <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>; <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Strengths and weaknesses in relation to other studies</HEADING>
+<P>The literature on the effectiveness of naloxone in treating shock in humans is abundant but controversial, and the methodological quality of the publications is frequently weak. We found 80 publications where 27 were letters or narrative reviews, 28 were case reports, 14 were cases series, five were non-controlled clinical trials, and only six were double-blind randomized studies. Many papers reported positive results. However, almost all the positive papers were case reports (28/28) (<LINK REF="REF-Accettelli-1982" TYPE="REFERENCE">Accettelli 1982</LINK>; <LINK REF="REF-Bagrov-1993" TYPE="REFERENCE">Bagrov 1993</LINK>; <LINK REF="REF-Campos-1986" TYPE="REFERENCE">Campos 1986</LINK>; <LINK REF="REF-Cattani-1982" TYPE="REFERENCE">Cattani 1982</LINK>; <LINK REF="REF-Christensen-1986" TYPE="REFERENCE">Christensen 1986</LINK>; <LINK REF="REF-Cocchi-1984" TYPE="REFERENCE">Cocchi 1984</LINK>; <LINK REF="REF-Cohen-1983" TYPE="REFERENCE">Cohen 1983</LINK>; <LINK REF="REF-De-Groot-1983" TYPE="REFERENCE">De Groot 1983</LINK>; <LINK REF="REF-Dirksen-1980" TYPE="REFERENCE">Dirksen 1980</LINK>; <LINK REF="STD-Duarte-1992" TYPE="STUDY">Duarte 1992</LINK>; <LINK REF="REF-Gaudette-1986" TYPE="REFERENCE">Gaudette 1986</LINK>; <LINK REF="REF-Gullo-1983" TYPE="REFERENCE">Gullo 1983</LINK>; <LINK REF="REF-Furman-1984" TYPE="REFERENCE">Furman 1984</LINK>; <LINK REF="REF-Higgins-1981" TYPE="REFERENCE">Higgins 1981</LINK>; <LINK REF="REF-Higgins-1983" TYPE="REFERENCE">Higgins 1983</LINK>; <LINK REF="REF-Jolivet-1984" TYPE="REFERENCE">Jolivet 1984</LINK>; <LINK REF="REF-Lenz-1981" TYPE="REFERENCE">Lenz 1981</LINK>; <LINK REF="REF-Parisot-1986" TYPE="REFERENCE">Parisot 1986</LINK>; <LINK REF="REF-Pourriat-1981" TYPE="REFERENCE">Pourriat 1981</LINK>; <LINK REF="REF-Safani-1985" TYPE="REFERENCE">Safani 1985</LINK>; <LINK REF="REF-Siram-1984" TYPE="REFERENCE">Siram 1984</LINK>; <LINK REF="REF-Siram-1984" TYPE="REFERENCE">Siram 1984</LINK>; <LINK REF="REF-Swinburn-1982" TYPE="REFERENCE">Swinburn 1982</LINK>; <LINK REF="REF-Tiengo-1980" TYPE="REFERENCE">Tiengo 1980</LINK>; <LINK REF="REF-Unzueta-1987" TYPE="REFERENCE">Unzueta 1987</LINK>; <LINK REF="REF-Wright-1980" TYPE="REFERENCE">Wright 1980</LINK>; <LINK REF="REF-Xing-1990" TYPE="REFERENCE">Xing 1990</LINK>; <LINK REF="REF-Yeston-1983" TYPE="REFERENCE">Yeston 1983</LINK>). Among 14 case series, one was negative (<LINK REF="STD-Rock-1985" TYPE="STUDY">Rock 1985</LINK>) and 13 were positive (<LINK REF="STD-Bone-1982" TYPE="STUDY">Bone 1982</LINK>; <LINK REF="STD-Bonnet-1985" TYPE="STUDY">Bonnet 1985</LINK>; <LINK REF="STD-Canady-1989" TYPE="STUDY">Canady 1989</LINK>; <LINK REF="STD-Duarte-1992" TYPE="STUDY">Duarte 1992</LINK>; <LINK REF="STD-Gerad-1983" TYPE="STUDY">Gerad 1983</LINK>; <LINK REF="STD-Groeger-1983" TYPE="STUDY">Groeger 1983</LINK>; <LINK REF="STD-Hackshaw-1990" TYPE="STUDY">Hackshaw 1990</LINK>; <LINK REF="STD-Hughes-1983" TYPE="STUDY">Hughes 1983</LINK>; <LINK REF="STD-Martinon-1982" TYPE="STUDY">Martinon 1982</LINK>; <LINK REF="STD-Peters-1981" TYPE="STUDY">Peters 1981</LINK>; <LINK REF="STD-Putterman-1986" TYPE="STUDY">Putterman 1986</LINK>; <LINK REF="STD-Tarelkina-1989" TYPE="STUDY">Tarelkina 1989</LINK>; <LINK REF="STD-VelizPintos-1985" TYPE="STUDY">VelizPintos 1985</LINK>). Among the six double-blind studies, four reported positive results (<LINK REF="STD-Hughes-1984" TYPE="STUDY">Hughes 1984</LINK>; <LINK REF="STD-Lu-1995" TYPE="STUDY">Lu 1995</LINK>; <LINK REF="STD-Roberts-1988" TYPE="STUDY">Roberts 1988</LINK>; <LINK REF="STD-Safani-1989" TYPE="STUDY">Safani 1989</LINK>) while results were not statistically significant in two (<LINK REF="STD-Montastruc-1985" TYPE="STUDY">Montastruc 1985</LINK>; <LINK REF="STD-DeMaria-1985" TYPE="STUDY">DeMaria 1985</LINK>). Clearly a systematic review was necessary to determine whether naloxone should be considered as a treatment for shock.</P>
+<P>No serious adverse events or complications were reported in the six randomized clinical trials included in this systematic review. Most case reports did not prospectively monitor adverse events. In spite of this, there are data suggesting that the use of naloxone is not without risks. Naloxone caused anxiety in septic patients who received 0.3 mg/kg of naloxone (<LINK REF="STD-Groeger-1983" TYPE="STUDY">Groeger 1983</LINK>). It can also be expected that giving naloxone could block the analgesic effect of endogenous and exogenous opioids. Adverse drug reactions such as hypotension, pulmonary edema, and grand mal seizures have been reported with a high-dose regimen of naloxone (<LINK REF="REF-Prough-1984" TYPE="REFERENCE">Prough 1984</LINK>; <LINK REF="STD-Rock-1985" TYPE="STUDY">Rock 1985</LINK>). In healthy volunteers, naloxone decreases tolerance to hypotensive, hypovolemic stress (<LINK REF="STD-Lightfoot-2000" TYPE="STUDY">Lightfoot 2000</LINK>). A deep level of anesthesia and postoperative analgesia attenuates the physiologic responses to stress (<LINK REF="REF-ACCP_x002f_SCCM-1992" TYPE="REFERENCE">ACCP/SCCM 1992</LINK>). Naloxone modulates the inflammatory process; blocking these effects could be a double-edged sword. For example, naloxone may increase the risk of acquiring or worsening multiple organ dysfunction syndrome, or contracting nosocomial infections.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Meaning of the review</HEADING>
+<P>All types of shock states are associated with an over-production of endorphins, and naloxone might improve shock by its antagonist activity on beta-endorphins. The source of the beta-endorphins involved in shock is a matter of debate. It was thought for a while that beta-endorphins are released into the blood circulation exclusively by the central nervous system, but it was later shown that they are also released locally into inflamed tissue by lymphocytes and macrophages (<LINK REF="REF-Jessop-1998" TYPE="REFERENCE">Jessop 1998</LINK>). Endorphins mediate the release of nitric oxide, which might cause systemic and local vasodilation. Endorphins can also depress heart function. The exact mechanism involved is unknown, but endorphins enhance the release of cytokines which are cardiac depressants, like interleukin-1.</P>
+<P>The data reported in human beings are supported by experimental data. In 1978, a study (<LINK REF="REF-Holaday-1978" TYPE="REFERENCE">Holaday 1978</LINK>) reported that naloxone rapidly reversed the hemodynamic effects of endotoxic shock in rats. The improvement in hemodynamic status was dose-related, with a minimal dose of 0.1 mg/kg. Several months later the same authors (<LINK REF="REF-Faden-1979" TYPE="REFERENCE">Faden 1979</LINK>) obtained the same results with a single dose of 1 mg/kg in a model of hemorrhagic shock (50% blood volume loss) in rats. Many subsequent experimental studies confirmed the therapeutic efficacy of naloxone in various animal species.</P>
+</SUBSECTION>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2009-05-08 10:45:09 +0100" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2009-05-08 10:41:20 +0100" MODIFIED_BY="[Empty name]">
+<P>The results of this systematic review suggest that naloxone may be an effective treatment of shock. However, the power of these results is weak because the number of patients is small. Therefore, the clinical inferences that can be drawn from this review are limited. Naloxone is not approved by the Food and Drugs Administration (USA) to treat shock. It might be beneficial in some patients but the available evidence does not support the use of naloxone as a standard treatment of shock.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2009-05-08 10:45:09 +0100" MODIFIED_BY="[Empty name]">
+<P>More clinical trials with positive results are needed before one can recommend naloxone as a standard treatment of shock. In these future trials the population selected should only include patients in shock. The patients' baseline status should be assessed by the Acute Physiology and Chronic Health Evaluation (APACHE) score, or the Pediatric Risk of Mortality (PRISM) score (<LINK REF="REF-Pollack-1996" TYPE="REFERENCE">Pollack 1996</LINK>). Naloxone should be administered early, for a prolonged period, and with a continuous infusion of at least 0.1 mg/kg/h. The outcome under scrutiny should be death. Finally, clinical research concerning naloxone should also determine the dose-effect curve and the optimal frequency of administration. A study of at least 340 patients in each group is needed to demonstrate a significant difference in mortality for a power of 80%.</P>
+<P>In future studies, it would be useful to monitor surrogate outcomes (like blood pressure and heart rate) and secondary outcomes (such as the rate of nosocomial infections or the Multiple Organ Dysfunction score) in the experimental and control groups (<LINK REF="REF-Leteurtre-2003" TYPE="REFERENCE">Leteurtre 2003</LINK>; <LINK REF="REF-Marshall-1995" TYPE="REFERENCE">Marshall 1995</LINK>). Adverse effects, such as anxiety and pain, must be carefully recorded. Adverse drug reactions such as hypotension, pulmonary edema, and grand mal seizures must be reported. Moreover, a cost-benefit analysis should be performed to determine whether the benefits of naloxone outweigh its complications and whether naloxone should be routinely used to treat shock in humans.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>Dr Chenchen Wang translated one paper from Chinese to English.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2009-05-08 10:46:02 +0100" MODIFIED_BY="[Empty name]">
+<P>None known</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2009-05-08 10:45:46 +0100" MODIFIED_BY="[Empty name]">
+<P>Jacques Lacroix wrote the prococol of the review and wrote to authors of randomized clinical trials to check whether the data had been correctly extracted.<BR/>Catherine Ann Farrell, France Gauvin and Anne-Marie Guerguerian selected the studies.<BR/>Jacques Lacroix, Véronique Poirier, and Chantal Roy extracted the data of the retained studies and assessed their quality.<BR/>Jacques Lacroix, Benoit Boeuf, and Véronique Poirier did the meta-analysis and wrote the final report of the systematic review.<BR/>Chantal Roy helped to organize the systematic review and to edit the paper in RevMan.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2009-05-08 14:15:19 +0100" MODIFIED_BY="Emma M Sydenham">
+<STUDIES MODIFIED="2009-05-08 14:15:19 +0100" MODIFIED_BY="Emma M Sydenham">
+<INCLUDED_STUDIES MODIFIED="2009-05-08 14:15:19 +0100" MODIFIED_BY="Emma M Sydenham">
+<STUDY DATA_SOURCE="PUB" ID="STD-DeMaria-1985" MODIFIED="2008-09-11 17:30:56 +0100" MODIFIED_BY="Emma M Sydenham" NAME="DeMaria 1985" YEAR="1985">
+<REFERENCE MODIFIED="2008-09-11 17:30:56 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>De Maria A, Craven DE, Heffernan JJ, McIntosh TK, Grindlinger GA, McCabe WR</AU>
+<TI>Naloxone versus placebo in treatment of septic shock</TI>
+<SO>Lancet</SO>
+<YR>1985</YR>
+<VL>1</VL>
+<PG>1363-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hughes-1984" NAME="Hughes 1984" YEAR="1984">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hughes GS</AU>
+<TI>Naloxone and methylprednisalone sodium succinate enhance sympathomedullary in patients with septic shock</TI>
+<SO>Life Sciences</SO>
+<YR>1984</YR>
+<VL>35</VL>
+<PG>2319-26</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lu-1995" NAME="Lu 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lu H, Xu G, Sheng Z</AU>
+<TI>Clinical effects of naloxone on hemorrhagic shock</TI>
+<SO>Chung Hua Wai Ko Tsa Chih</SO>
+<YR>1995</YR>
+<VL>33</VL>
+<NO>6</NO>
+<PG>355-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Montastruc-1985" MODIFIED="2009-05-08 14:15:19 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Montastruc 1985" YEAR="1985">
+<REFERENCE MODIFIED="2009-05-08 14:15:19 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Montastruc JL, Richard J, Cathala B</AU>
+<TI>Naloxone fails to reverse blood pressure in shock: A double blind study in man</TI>
+<SO>Journal de Pharmacologie</SO>
+<YR>1985</YR>
+<VL>16</VL>
+<NO>2</NO>
+<PG>313-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Roberts-1988" MODIFIED="2008-09-11 17:31:00 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Roberts 1988" YEAR="1988">
+<REFERENCE MODIFIED="2008-09-11 17:31:00 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Roberts DE, Dobson KE, Hall KW, Light RB</AU>
+<TI>Effects of prolonged naloxone infusion in septic shock</TI>
+<SO>Lancet</SO>
+<YR>1988</YR>
+<VL>2</VL>
+<PG>699-702</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Safani-1989" MODIFIED="2008-09-12 13:32:43 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Safani 1989" YEAR="1989">
+<REFERENCE MODIFIED="2008-09-12 13:32:43 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Safani M, Blair J, Ross D, Waki R, Li C, Libby G</AU>
+<TI>Prospective, controlled, randomized trial of naloxone infusion in early hyperdynamic septic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1989</YR>
+<VL>17</VL>
+<PG>1004-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2009-05-08 11:28:30 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Allolio-1986" MODIFIED="2009-05-05 11:56:51 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Allolio 1986" YEAR="1986">
+<REFERENCE MODIFIED="2009-05-05 11:56:51 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Allolio B, Fischer H, Kalen D, Deub U, Winkelmann W</AU>
+<TI>Naloxon by therapy refractory shock</TI>
+<TO>Naloxon im therapierefraktären Schock</TO>
+<SO>Klinische Wochenschrift</SO>
+<YR>1986</YR>
+<VL>64</VL>
+<PG>16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Allolio-1987" MODIFIED="2009-04-27 16:49:59 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Allolio 1987" YEAR="1987">
+<REFERENCE MODIFIED="2009-04-27 16:49:59 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Allolio B, Fischer H, Kaulen U, Deus U, Winkelmann W</AU>
+<TI>Naloxone in treatment of circulatory shock resistant to conventional therapy</TI>
+<SO>Klinische Wochenschrift</SO>
+<YR>1987</YR>
+<VL>65</VL>
+<PG>213-17</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bone-1982" MODIFIED="2008-09-11 17:31:06 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Bone 1982" YEAR="1982">
+<REFERENCE MODIFIED="2008-09-11 17:31:06 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bone R, Jacobs E, Wilson F, Hiller F</AU>
+<TI>Naloxone reversal of hypotension: A clinical study</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1982</YR>
+<VL>125</VL>
+<PG>93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bonnet-1985" NAME="Bonnet 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bonnet F, Bilaine J, Lhoste F, Mankijian B, Kerdelhue B, Rapin M</AU>
+<TI>Naloxone therapy of human septic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1985</YR>
+<VL>13</VL>
+<PG>972-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Canady-1989" NAME="Canady 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Canady J, Williams W, Thompson I, Vincent GS, Hoover E</AU>
+<TI>Use of the naloxone in septic shock</TI>
+<SO>Journal of the National Medical Association</SO>
+<YR>1989</YR>
+<VL>81</VL>
+<PG>669-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Desmonts-1978" MODIFIED="2008-09-11 17:36:46 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Desmonts 1978" YEAR="1978">
+<REFERENCE MODIFIED="2008-09-11 17:36:46 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Desmonts JM, Bohm G, Couderc E</AU>
+<TI>Hemodynamic responses to low doses of naloxone after narcotic-nitrous oxide anesthesia</TI>
+<SO>Anesthesiology</SO>
+<YR>1978</YR>
+<VL>49</VL>
+<PG>12-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Duarte-1992" NAME="Duarte 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Duarte RR, Mumtaz M, Youssef N, Nayak P, Grace BW</AU>
+<TI>Effects of naloxone infusion in patients with septic shock and renal failure: A limited experience</TI>
+<SO>American Journal of Nephrology</SO>
+<YR>1992</YR>
+<VL>12</VL>
+<PG>431-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Estilo-1982" NAME="Estilo 1982" YEAR="1982">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Estilo AE, Cottrell JE</AU>
+<TI>Hemodynamic and catecholamine changes after administration of naloxone</TI>
+<SO>Anesthesia and Analgesia</SO>
+<YR>1982</YR>
+<VL>61</VL>
+<PG>349-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gerad-1983" NAME="Gerad 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gerad H, Schimpff SC, Kaplan R</AU>
+<TI>Naloxone for refractory hypotension in septic shock</TI>
+<SO>Clinical Research</SO>
+<YR>1983</YR>
+<VL>31</VL>
+<PG>257A</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Groeger-1983" NAME="Groeger 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Groeger JS, Carlon GC, Howland WS</AU>
+<TI>Naloxone in septic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1983</YR>
+<VL>11</VL>
+<PG>650-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hackshaw-1990" NAME="Hackshaw 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hackshaw KV, Parker GA, Roberts JW</AU>
+<TI>Naloxone in septic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1990</YR>
+<VL>18</VL>
+<PG>47-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hughes-1983" NAME="Hughes 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hughes GS, Porter RS, Mars R, Harker CC</AU>
+<TI>Naloxone and septic shock</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1983</YR>
+<VL>98</VL>
+<PG>559</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-ILCOR-2006" MODIFIED="2009-04-27 16:34:06 +0100" MODIFIED_BY="Emma M Sydenham" NAME="ILCOR 2006" YEAR="2006">
+<REFERENCE MODIFIED="2009-04-27 16:34:06 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>The International Liaison Committee on Resuscitation</AU>
+<TI>The International Liaison Committee on Resuscitation (ILCOR) Consensus on Science With Treatment Recommendations for Pediatric and Neonatal Patients: Pediatric Basic and Advanced Life Support</TI>
+<SO>Pediatrics</SO>
+<YR>2006</YR>
+<VL>117</VL>
+<NO>5</NO>
+<PG>e955-977</PG>
+<IDENTIFIERS MODIFIED="2009-04-27 16:31:26 +0100" MODIFIED_BY="Emma M Sydenham">
+<IDENTIFIER MODIFIED="2009-04-27 16:31:26 +0100" MODIFIED_BY="Emma M Sydenham" TYPE="DOI" VALUE="10.1542/peds.2006-0206"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lightfoot-2000" NAME="Lightfoot 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lightfoot JT, Katz L, DeBate K</AU>
+<TI>Naloxone decreases tolerance to hypotensive, hypovolemic stress in healthy humans</TI>
+<SO>Critical Care Medicine</SO>
+<YR>2000</YR>
+<VL>28</VL>
+<PG>684-91</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Martinon-1982" NAME="Martinon 1982" YEAR="1982">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Martinon JM, Franco A, Garcia JL, Fuster M, Bao A, Martinon F, Pena J</AU>
+<TI>Naloxone hydrochloride in the therapy of endotoxic shock following meningococcal disease. Initial results</TI>
+<SO>Anales Espanoles de Pediatria</SO>
+<YR>1982</YR>
+<VL>17</VL>
+<PG>457-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Oldroyd-1995" NAME="Oldroyd 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Oldroyd KG, Gray CE, Carter R, Harvey K, Borland W, Beastall G, Cobbe SM</AU>
+<TI>Activation and inhibition of the endogenous opioid system in human heart failure</TI>
+<SO>British Heart Journal</SO>
+<YR>1995</YR>
+<VL>73</VL>
+<PG>41-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Peters-1981" NAME="Peters 1981" YEAR="1981">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Peters WP, Johnson MW, Friedman PA, Mitch WE</AU>
+<TI>Pressor effect of naloxone in septic shock</TI>
+<SO>Lancet</SO>
+<YR>1981</YR>
+<VL>1</VL>
+<PG>529-32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Putterman-1986" NAME="Putterman 1986" YEAR="1986">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Putterman C, Halperin P, Leykin Y, Sorkine P, Geller B, Bursztein S</AU>
+<TI>Early use of naloxone in shock - A clinical trial</TI>
+<SO>Resuscitation</SO>
+<YR>1986</YR>
+<VL>13</VL>
+<PG>185-90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rock-1985" MODIFIED="2008-09-11 17:31:12 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Rock 1985" YEAR="1985">
+<REFERENCE MODIFIED="2008-09-11 17:31:12 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rock P, Silverman H, Pump D, Kecala Z, Smith P, Michael JR, Summer W</AU>
+<TI>Efficacy and safety of naloxone in septic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1985</YR>
+<VL>13</VL>
+<PG>28-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tarelkina-1989" MODIFIED="2009-05-08 11:28:30 +0100" MODIFIED_BY="[Empty name]" NAME="Tarelkina 1989" YEAR="1989">
+<REFERENCE MODIFIED="2009-05-08 11:28:30 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tarelkina MN, Shirokov, Tsibin IN</AU>
+<TI>Experience with using narcanti (naloxone) in patients with traumatic shock</TI>
+<SO>Vestnik Khirurgii Imou I I Grekova</SO>
+<YR>1989</YR>
+<VL>143</VL>
+<PG>110-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-VelizPintos-1985" MODIFIED="2008-09-12 13:33:32 +0100" MODIFIED_BY="Emma M Sydenham" NAME="VelizPintos 1985" YEAR="1985">
+<REFERENCE MODIFIED="2008-09-12 13:33:32 +0100" MODIFIED_BY="Emma M Sydenham" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Veliz Pintos RA, Torres Bedoya MA, Forero Gomez J, Olvera Hidalgo C, Orozco Veraztegui O</AU>
+<TI>Clinical evaluation of the effect of the administration of naloxone in comparison with methylprednisolone in infants with septic shock</TI>
+<SO>Boletin Medico Del Hospital Infantil de Mexico</SO>
+<YR>1985</YR>
+<VL>42</VL>
+<PG>531-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2009-05-08 11:36:15 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2009-05-08 11:35:47 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Accettelli-1982" NAME="Accettelli 1982" TYPE="JOURNAL_ARTICLE">
+<AU>Accettelli U, Ambrosi F, Russo L, De Petris U, Stagnitti F</AU>
+<TI>Use of naloxone in first aid</TI>
+<SO>Clinica Terapeutica</SO>
+<YR>1982</YR>
+<VL>102</VL>
+<PG>197-201</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ACCP_x002f_SCCM-1992" NAME="ACCP/SCCM 1992" TYPE="JOURNAL_ARTICLE">
+<AU>American College of Chest Physicians/Society of Critical Care Medicine Consensus Conference</AU>
+<TI>Definitions for sepsis and organ failure and guidelines for the use of innovative therapies in sepsis</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1992</YR>
+<VL>20</VL>
+<PG>864-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bagrov-1993" NAME="Bagrov 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Bagrov AY</AU>
+<TI>Plasma beta-endorphin levels in acute myocardial infarction</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>1993</YR>
+<VL>22</VL>
+<PG>268-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cabrera-1986" MODIFIED="2009-05-08 11:20:44 +0100" MODIFIED_BY="[Empty name]" NAME="Cabrera 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Cabrera Sorrosal JE, Montejo Gonzalez JC, Suarez Alvarez JR, Blesa Alpica A, Ferrero Zorita J</AU>
+<TI>Failure of naloxone in septic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1986</YR>
+<VL>14</VL>
+<PG>79-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Campos-1986" NAME="Campos 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Campos JM, Zueras R, Escolano F, Villar Landeira JM</AU>
+<TI>Use of naloxone in the therapy of septic shock</TI>
+<SO>Revista Espanola de Anestesiologia</SO>
+<YR>1986</YR>
+<VL>33</VL>
+<PG>451-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cattani-1982" NAME="Cattani 1982" TYPE="JOURNAL_ARTICLE">
+<AU>Cattani F, Grillanda G</AU>
+<TI>Use of naloxone in refractory shock</TI>
+<SO>Recenti Progressi in Medicina</SO>
+<YR>1982</YR>
+<VL>72</VL>
+<PG>647-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chalmers-1981" NAME="Chalmers 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Chalmers TC, Smith H, Blackburn B, Silverman B, Schroeder B, Reitman D, Ambroz A</AU>
+<TI>A method for assessing the quality of a randomized control trial</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1981</YR>
+<VL>2</VL>
+<PG>31-49</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Christensen-1986" NAME="Christensen 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Christensen MA, Gresch JJ</AU>
+<TI>Use of naloxone in septic shock: A case report and review of current literature</TI>
+<SO>Journal of Burn Care and Rehabilitation</SO>
+<YR>1986</YR>
+<VL>7</VL>
+<PG>122-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cocchi-1984" NAME="Cocchi 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Cocchi P, Silenzi M, Calabri G, Salvi G</AU>
+<TI>Naloxone in fulminant meningococcemia</TI>
+<SO>Pediatric Infectious Diseases</SO>
+<YR>1984</YR>
+<VL>3</VL>
+<PG>187</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cohen-1983" NAME="Cohen 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Cohen KR, Emmons KM, Goldstein MF</AU>
+<TI>Naloxone treatment of toxic shock syndrome</TI>
+<SO>Archives of Internal Medicine</SO>
+<YR>1983</YR>
+<VL>143</VL>
+<PG>1072</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Collins-1987" NAME="Collins 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Collins R, Gray R, Godwin J, Peto R</AU>
+<TI>Avoidance of large biases and large random errors in the assessment of moderate treatment effects: The need for systematic overviews</TI>
+<SO>Statistics in Medicine</SO>
+<YR>1987</YR>
+<VL>6</VL>
+<PG>245-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-De-Groot-1983" NAME="De Groot 1983" TYPE="JOURNAL_ARTICLE">
+<AU>De Groot GH, Schalm SW, Dirksen R, Valk KC, Boks AL</AU>
+<TI>Effect of naloxone on shock in a patient with fulminant hepatic failure</TI>
+<SO>Netherlands Journal of Medicine</SO>
+<YR>1983</YR>
+<VL>26</VL>
+<PG>77-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dirksen-1980" NAME="Dirksen 1980" TYPE="JOURNAL_ARTICLE">
+<AU>Dirksen R, Otten M H, Wood GJ, Verbaan CJ, Haalebos MM, Verdouw PV, Nijhuis GMM</AU>
+<TI>Naloxone in shock</TI>
+<SO>Lancet</SO>
+<YR>1980</YR>
+<VL>1</VL>
+<PG>1360-1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Einarson-1985" NAME="Einarson 1985" TYPE="JOURNAL_ARTICLE">
+<AU>Einarson TR, McGhan WF, Bootman JL, Sabers DL</AU>
+<TI>Meta-analysis: Quantitative integration of independent research results</TI>
+<SO>American Journal of Hospital Pharmacy</SO>
+<YR>1985</YR>
+<VL>42</VL>
+<PG>1957-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Faden-1979" MODIFIED="2008-09-11 17:36:14 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Faden 1979" TYPE="JOURNAL_ARTICLE">
+<AU>Faden AI, Holaday JW</AU>
+<TI>Opioate antagonists: A role in the treatment of hypovolemic shock</TI>
+<SO>Science</SO>
+<YR>1979</YR>
+<VL>205</VL>
+<PG>317-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fleiss-1986" NAME="Fleiss 1986" TYPE="BOOK_SECTION">
+<AU>Fleiss JL</AU>
+<TI>Reliability of measurement</TI>
+<SO>The Design and Analysis of Clinical Experiments</SO>
+<YR>1986</YR>
+<PG>17-31</PG>
+<ED>Fleiss JL</ED>
+<PB>John Wiley &amp; Sons</PB>
+<CY>New York</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Furman-1984" NAME="Furman 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Furman WL, Menke JA, Barson WJ, Miller RR</AU>
+<TI>Continuous naloxone infusion in two neonates with septic shock</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>1984</YR>
+<VL>105</VL>
+<PG>649-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gaudette-1986" NAME="Gaudette 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Gaudette RR, Browne BJ</AU>
+<TI>Use of naloxone in septic shock</TI>
+<SO>Journal of Emergency Nursing</SO>
+<YR>1986</YR>
+<VL>12</VL>
+<PG>81-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gullo-1983" NAME="Gullo 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Gullo A, Romano E</AU>
+<TI>Naloxone and anaphylactic shock</TI>
+<SO>Lancet</SO>
+<YR>1983</YR>
+<VL>1</VL>
+<PG>819</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-1981" NAME="Higgins 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins TL, Sivak ED</AU>
+<TI>Reversal of hypotension with naloxone</TI>
+<SO>Cleveland Clinic Quarterly</SO>
+<YR>1981</YR>
+<VL>48</VL>
+<PG>283-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-1983" NAME="Higgins 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins TL, Sivak ED, O'Neil DM, Grave JW, Foutch DG</AU>
+<TI>Reversal of hypotension by continuous naloxone infusion in a ventilator dependent patient</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1983</YR>
+<VL>98</VL>
+<PG>47-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Holaday-1978" NAME="Holaday 1978" TYPE="JOURNAL_ARTICLE">
+<AU>Holiday JW, Faden AI</AU>
+<TI>Naloxone reversal of endotoxin hypotension suggests role of endorphins in shock</TI>
+<SO>Nature</SO>
+<YR>1978</YR>
+<VL>275</VL>
+<PG>450-1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hughes-1975" NAME="Hughes 1975" TYPE="JOURNAL_ARTICLE">
+<AU>Hughes J</AU>
+<TI>Isolation of an endogenous compound from the brain with pharmacological properties similar to morphine</TI>
+<SO>Brain Research</SO>
+<YR>1975</YR>
+<VL>88</VL>
+<PG>295-308</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jessop-1998" NAME="Jessop 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Jessop DS</AU>
+<TI>ß-endorphin in the immune system - mediator of pain and stress</TI>
+<SO>Lancet</SO>
+<YR>1998</YR>
+<VL>351</VL>
+<PG>1828-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jolivet-1984" NAME="Jolivet 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Jolivet M, Laurion M</AU>
+<TI>Shock and the administration of naloxone</TI>
+<TO>Le choc et l'administration de naloxone</TO>
+<SO>Union Medicale Du Canada</SO>
+<YR>1984</YR>
+<VL>113</VL>
+<PG>783-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kramer-1981" NAME="Kramer 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Kramer MS, Feinstein AR</AU>
+<TI>Clinical biostatistic LIV : The biostatistics of concordance</TI>
+<SO>Clinical Pharmacology and Therapeutics</SO>
+<YR>1981</YR>
+<VL>29</VL>
+<PG>111-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lefebvre-2000" MODIFIED="2008-09-12 13:38:59 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Lefebvre 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Lefebvre C, Tasiemski A, Salzet M</AU>
+<TI>Opioid peptides, opiated substances and immune response</TI>
+<TO>Peptides opioïdes, substances opiacées et réponse immunitaire</TO>
+<SO>Médecine/Sciences</SO>
+<YR>2000</YR>
+<VL>16</VL>
+<PG>235-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lenz-1981" NAME="Lenz 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Lenz K, Druml W, Gassner A, Hruby K, Kleinberger G, Laggner A</AU>
+<TI>Naloxone in shock</TI>
+<SO>Lancet</SO>
+<YR>1981</YR>
+<VL>1</VL>
+<PG>834</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Leteurtre-2003" MODIFIED="2009-05-08 11:23:34 +0100" MODIFIED_BY="[Empty name]" NAME="Leteurtre 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Leteurtre S, Martinot A, Duhamel A, Proulx F, Grandbastien B, Cotting J, et al</AU>
+<TI>Validation of the pediatric logistic organ dysfunction (PELOD) score. A prospective multicenter study</TI>
+<SO>Lancet</SO>
+<YR>2003</YR>
+<PG>in press</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mantel-1959" NAME="Mantel 1959" TYPE="JOURNAL_ARTICLE">
+<AU>Mantel N, Haenszel W</AU>
+<TI>Statistical aspects of the analysis of data from retrospective studies of diseases</TI>
+<SO>Journal of the National Cancer Institute</SO>
+<YR>1959</YR>
+<VL>22</VL>
+<PG>719-48</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Marshall-1995" NAME="Marshall 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Marshall JC, Cook DJ, Christou NV, Bernard GR, Sprung CL, Sibbald WJ</AU>
+<TI>Multiple Organ Dysfunction Score: A reliable descriptor of a complex clinical outcome</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1995</YR>
+<VL>23</VL>
+<PG>1638-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Parisot-1986" NAME="Parisot 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Parisot S, Pinaud P, Marchal C</AU>
+<TI>Early septic shock and the use of naloxone in premature newborn infants</TI>
+<TO>Choc septique précoce et emploi de la naloxone chez le nouveau-né prématuré</TO>
+<SO>Archives Francaises de Pediatrie</SO>
+<YR>1986</YR>
+<VL>43</VL>
+<PG>149</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pollack-1996" NAME="Pollack 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Pollack MM, Patel KM, Ruttimann UE</AU>
+<TI>PRISM III: An updated Pediatric Risk of Mortility score</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1996</YR>
+<VL>24</VL>
+<PG>743-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pourriat-1981" MODIFIED="2008-09-12 13:45:34 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Pourriat 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Pourriat JL, Pierrot M, Lapandry M, Cupa M</AU>
+<TI>Naloxone in septic shock</TI>
+<TO>La naloxone dans le choc septique</TO>
+<SO>Nouvelle Presse Medicale</SO>
+<YR>1981</YR>
+<VL>10</VL>
+<PG>3793-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Prough-1984" NAME="Prough 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Prough DS, Roy R, Bumgarner J, Shannon G</AU>
+<TI>Acute pulmonary edema in healthy teenagers following conservative doses of intravenous naloxone</TI>
+<SO>Anesthesiology</SO>
+<YR>1984</YR>
+<VL>600</VL>
+<PG>485-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Putterman-1987" NAME="Putterman 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Putterman C, Halpern P</AU>
+<TI>Naloxone in circulatory shock</TI>
+<SO>Klinische Wochenschrift</SO>
+<YR>1987</YR>
+<VL>65</VL>
+<PG>926</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Safani-1985" NAME="Safani 1985" TYPE="JOURNAL_ARTICLE">
+<AU>Safani M, Libby G</AU>
+<TI>Naloxone therapy of septic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1985</YR>
+<VL>13</VL>
+<PG>875-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Siram-1984" MODIFIED="2008-09-11 17:35:53 +0100" MODIFIED_BY="Emma M Sydenham" NAME="Siram 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Siram S, Park SY</AU>
+<TI>Naloxone in septic shock: Report of two cases</TI>
+<SO>Journal of the National Medical Association</SO>
+<YR>1984</YR>
+<VL>76</VL>
+<PG>713-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Swinburn-1982" NAME="Swinburn 1982" TYPE="JOURNAL_ARTICLE">
+<AU>Swinburn WR, Phelan P</AU>
+<TI>Response to naloxone in septic shock</TI>
+<SO>Lancet</SO>
+<YR>1982</YR>
+<VL>1</VL>
+<PG>167</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Tarelkina-1989" MODIFIED="2009-05-08 11:29:18 +0100" MODIFIED_BY="[Empty name]" NAME="Tarelkina 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Tarelkina MN, Shirokov, Tsibin IN</AU>
+<TI>Experience with using narcanti (naloxone) in patients with traumatic shock</TI>
+<SO>Vestnik Khirurgii Imeni I I Grekova</SO>
+<YR>1989</YR>
+<VL>143</VL>
+<PG>110-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Tiengo-1980" NAME="Tiengo 1980" TYPE="JOURNAL_ARTICLE">
+<AU>Tiengo M</AU>
+<TI>Naloxone in irreversible shock</TI>
+<SO>Lancet</SO>
+<YR>1980</YR>
+<VL>2</VL>
+<PG>690</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Unzueta-1987" NAME="Unzueta 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Unzueta Merino MC, Bonnin O, Cabrera Ruiz JC, Villar Landeira JM</AU>
+<TI>Naloxone and cardiogenic shock</TI>
+<SO>Revista Espanola de Anestesiologia Y Reanimacion</SO>
+<YR>1987</YR>
+<VL>34</VL>
+<PG>446-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Valdiviels-1984" MODIFIED="2009-05-08 11:35:47 +0100" MODIFIED_BY="[Empty name]" NAME="Valdiviels 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Valdivielso A, Casado Flores J, Ruiz Beltran A, Garcia Perez J, Garcia Onieva M, Hidalgo I</AU>
+<TI>Naloxone and endotoxic shock: A wonder drug?</TI>
+<SO>Annales Espa&#328;oles de Pediatría</SO>
+<YR>1984</YR>
+<VL>20</VL>
+<PG>85-90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wichman-2000" NAME="Wichman 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Wichman MW, Zellweger R, Ayala A, Chaudry IH</AU>
+<TI>Effect of naloxone on immune responses after hemorrhagic shock</TI>
+<SO>Critical Care Medicine</SO>
+<YR>2000</YR>
+<VL>28</VL>
+<PG>184-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wright-1980" NAME="Wright 1980" TYPE="JOURNAL_ARTICLE">
+<AU>Wright DJ, Phillips M, Weller MPI</AU>
+<TI>Naloxone in shock</TI>
+<SO>Lancet</SO>
+<YR>1980</YR>
+<VL>2</VL>
+<PG>1361</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Xing-1990" NAME="Xing 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Xing R, Yi X, Guang-Min L, Yuan-Wen W</AU>
+<TI>Naloxone for haemorrhagic fever shock?</TI>
+<SO>Tropical Doctor</SO>
+<YR>1990</YR>
+<VL>20</VL>
+<PG>72-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yeston-1983" MODIFIED="2009-05-08 11:26:21 +0100" MODIFIED_BY="[Empty name]" NAME="Yeston 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Yeston NS, Grasberger RC, McIntosh TK</AU>
+<TI>Naloxone in reversal of hypotension in septic shock</TI>
+<SO>JAMA</SO>
+<YR>1983</YR>
+<VL>250</VL>
+<PG>2287</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2009-05-08 11:36:15 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Boeuf-1998" MODIFIED="2009-05-08 11:36:15 +0100" MODIFIED_BY="[Empty name]" NAME="Boeuf 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Boeuf B, Gauvin F, Guerguerian AM, Farrell C, Lacroix J, Jenicek M</AU>
+<TI>Therapy of shock with naloxone: A meta-analysis</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1998</YR>
+<VL>26</VL>
+<NO>11</NO>
+<PG>1910-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2009-05-08 11:07:03 +0100" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2009-05-08 11:06:15 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2009-05-08 10:50:35 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-DeMaria-1985">
+<CHAR_METHODS>
+<P>A placebo-controlled, randomized, double-blind trial of naloxone in patients with septic shock to estimate clinical efficacy.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-08 10:48:48 +0100" MODIFIED_BY="[Empty name]">
+<P>Criteria for inclusion (28 patients, and 38 episodes of shock):</P>
+<OL>
+<LI>clinical evidence of shock (low urine output, altered mentation, cold extremities) and systolic blood pressure (SBP) &lt;90 mmHg or &lt;100 mmHg with vasopressor;</LI>
+<LI>clinical diagnosis of sepsis with signs and symptoms suggestive of bacteremia or well-established focus of infection;</LI>
+<LI>likelihood of clinical stability, so that rates of intravenous infusion and doses of vasopressor agents could remain unchanged for the 1 h study.</LI>
+</OL>
+<P>The patient's general medical care was not changed by participation.</P>
+<P>Excluded (6 patients, and 15 episodes of shock):</P>
+<OL>
+<LI>from entry if they were pregnant, opiate abusers, or had been treated with opiates in the past 24 h;</LI>
+<LI>from analysis if they received corticosteroids.</LI>
+</OL>
+<P>In several patients substantial changes in doses of vasopressor agents or rates of intravenous infusion were made during the study period which rendered analysis of blood pressure changes impossible. Such patients were excluded from the study before the treatment code was broken.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-08 10:49:26 +0100" MODIFIED_BY="[Empty name]">
+<P>Naloxone group (n=10): bolus of 0.4 mg of naloxone every 5 min x 3 doses.</P>
+<P>Control group (n=13): bolus of sterile vehicle for injection every 5 min x 3 doses.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-08 10:50:27 +0100" MODIFIED_BY="[Empty name]">
+<P>Primary outcomes</P>
+<OL>
+<LI>Increase in BP &gt; 10% within 60 minutes after administration of the test material.</LI>
+<LI>Case fatality: number of deaths at 7 days.</LI>
+</OL>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-05-08 10:50:35 +0100" MODIFIED_BY="[Empty name]">
+<P>Medical and surgical intensive care units at Boston City Hospital from March 1982 to March 1983.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-08 10:53:30 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Hughes-1984">
+<CHAR_METHODS>
+<P>A placebo-controlled, randomized, double-blind trial on naloxone in patients with septic shock to evaluate its clinical efficacy.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-08 10:51:48 +0100" MODIFIED_BY="[Empty name]">
+<P>Criteria for inclusion: clinical evidence of septic shock with:</P>
+<OL>
+<LI>hypotension (SBP&lt;90 mmHg);</LI>
+<LI>fever;</LI>
+<LI>oliguria (&lt; 15 ml/h/1.73 m²);</LI>
+<LI>positive blood cultures.</LI>
+</OL>
+<P>Conventional therapy of septic shock for every patient: consisting of antibiotics, intravenous fluids to maintain PWP of 12 mmHg and CVP of 11 mmHg, dopamine, and ventilatory assistance.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-08 10:53:13 +0100" MODIFIED_BY="[Empty name]">
+<P>Naloxone group (n=7): bolus dose of naloxone, 30 &#956;g/kg followed by 30 &#956;g/kg/hr for one hour plus a single dose of methyl- prednisolone, 30 mg/kg.</P>
+<P>Control group: conventional therapy alone (n=7).<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-08 10:53:30 +0100" MODIFIED_BY="[Empty name]">
+<OL>
+<LI>Change in SBP, cardiac index (CI), systemic vascular resistance (SVR), and heart rate (HR).</LI>
+<LI>Change in plasma catecholamine levels.</LI>
+<LI>Relationship between catecholamine levels (if increase) and hemodynamics.</LI>
+</OL>
+<P>All outcomes were checked for 60 minutes.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Section of General Medicine, East Carolina University School of Medicine in Greenville, North Carolina.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-08 10:57:00 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lu-1995">
+<CHAR_METHODS>
+<P>A controlled randomized trial of naloxone on hemorrhagic shock.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-08 10:57:00 +0100" MODIFIED_BY="[Empty name]">
+<P>21 patients with moderate shock included:</P>
+<OL>
+<LI>control group: 9 cases (7 males, 2 females), mean age 59.3 +/- 12.5 years. Upper gastrointestinal hemorrhage 2, liver and spleen rupture 3, ectopic pregnancy 3, multiples fractures 2.</LI>
+<LI>naloxone group: 12 cases (10 males, 2 females) mean age 61.1 years. Upper gastrointestinal hemorrhage 2, liver and spleen rupture 5, ectopic pregnancy 3, multiple fracture 2, other 2.</LI>
+</OL>
+<P>No hypertension and no coronary heart disease in both groups.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Naloxone group (n=12): 200 ml of normal saline infused in 15 min and bolus of 0.02 mg/kg of naloxone.</P>
+<P>Control group (n=9): 200 ml of normal saline infused in 15 min.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-08 10:55:27 +0100" MODIFIED_BY="[Empty name]">
+<OL>
+<LI>Increase of MAP and SVR.</LI>
+<LI>Decrease in blood level of lactic acid.</LI>
+<LI>Increase in blood level of epinephrine and norepinephrine.</LI>
+</OL>
+<P>All outcomes were measured during 15 minutes.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-05-08 10:55:45 +0100" MODIFIED_BY="[Empty name]">
+<P>Department of Anesthesiology at first affiliated hospital of China Medical University in Senyang (China).<BR/>No comment of when the study was conducted.<BR/>Case fatality unspecified.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-08 10:58:30 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Montastruc-1985">
+<CHAR_METHODS MODIFIED="2009-05-08 10:56:16 +0100" MODIFIED_BY="[Empty name]">
+<P>A placebo-controlled, randomized, double-blind trial of single dose of naloxone in patients with hypovolemic, cardiogenic, septic, or spinal shock to evaluate the hemodynamic effects.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-08 10:57:46 +0100" MODIFIED_BY="[Empty name]">
+<P>30 patients (16 men and 14 women from 8 to 87 years; mean age: 51 +/- 4.9 years) suffering from hypovolemic (17 cases), cardiogenic (9 cases), septic (3 cases) and spinal shock (1 case) with SBP &lt; 85 mmHg.<BR/>Usual treatment of shock for every patient: blood products and plasma substitutes in hypovolemic, septic, and spinal shock; and catecholamines (dopamine and/or dobutamine) in cardiogenic shock.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Naloxone group (n=15): bolus of 0.8 mg of naloxone in 2 ml.<BR/>Control group (n=15): bolus of an equivalent volume of normal saline.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-08 10:58:05 +0100" MODIFIED_BY="[Empty name]">
+<P>Primary outcome</P>
+<UL>
+<LI>Change in SBP and HR 5 minutes after the end of the perfusion of naloxone or placebo.</LI>
+</UL>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-05-08 10:58:30 +0100" MODIFIED_BY="[Empty name]">
+<P>Department of Anesthesiology and Intensive Care Medicine at Purpan Hospital in Toulouse (France).<BR/>No comment on when the study was conducted.<BR/>Case fatality unspecified.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-08 11:00:37 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Roberts-1988">
+<CHAR_METHODS MODIFIED="2009-05-08 10:58:45 +0100" MODIFIED_BY="[Empty name]">
+<P>A controlled, randomized, double-blind trial of a longer continuous intravenous infusion of naloxone in patients with septic shock to evaluate the hemodynamic effects.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-08 10:59:25 +0100" MODIFIED_BY="[Empty name]">
+<P>Criteria for inclusion (n=16):</P>
+<OL>
+<LI>proven bacterial or fungal infection;</LI>
+<LI>hypotension (BP&lt;60 mmHg) despite adequate fluid resuscitation (PWP&gt;12 mmHg);</LI>
+<LI>vasopressor or inotrope dependence (BP &lt; 60 mmHg with trial of drug withdrawal);</LI>
+<LI>written informed consent.</LI>
+</OL>
+<P>Exclusion criteria:</P>
+<OL>
+<LI>recent or ongoing myocardial infarction;</LI>
+<LI>active bleeding;</LI>
+<LI>requirement for opioid analgesia;</LI>
+<LI>severe head injury with high intracranial pressure or coma;</LI>
+<LI>congestive heart failure or CI&lt;2.2 l/min/m².</LI>
+</OL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-08 11:00:07 +0100" MODIFIED_BY="[Empty name]">
+<P>Bolus of 30 &#956;g/kg of naloxone followed by continuous infusion of 30 &#956;g/kg/hr for 8 to 16 hrs.</P>
+<P>Control: bolus of an equivalent volume of normal saline.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-08 11:00:21 +0100" MODIFIED_BY="[Empty name]">
+<P>Primary outcome</P>
+<OL>
+<LI>Decrease in vasopressor requirement, as recorded up to 16 hours after baseline.</LI>
+<LI>Case fatality: number of deaths at 14 days.</LI>
+</OL>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-05-08 11:00:37 +0100" MODIFIED_BY="[Empty name]">
+<P>Medical and surgical intensive care units at the Health Sciences Center in Winnipeg, Manitoba.<BR/>No comment on when the study was conducted.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-05-08 11:06:15 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Safani-1989">
+<CHAR_METHODS>
+<P>A controlled, randomized trial of naloxone infusion in early hyperdynamic septic shock.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-05-08 11:01:28 +0100" MODIFIED_BY="[Empty name]">
+<P>Criteria for inclusion (n=22):</P>
+<OL>
+<LI>sustained SBP &lt;90 mmHg of 45 min duration;</LI>
+<LI>clinical evidence of infection including febrile episodes (rectal temperature &gt;101 °F) and leukocytosis with bandemia &gt;10% and/or positives documented cultures (oxygen extraction value used to differentiate septic and cardiogenic shock);</LI>
+<LI>over 18 years of age;</LI>
+<LI>signed consent form.</LI>
+</OL>
+<P>Excluded:</P>
+<OL>
+<LI>known history of hypersensitivity to naloxone;</LI>
+<LI>pregnancy;</LI>
+<LI>corticoadrenal axis depression (other than steroid induced);</LI>
+<LI>cardiogenic shock;</LI>
+<LI>patients requiring narcotic analgesics;</LI>
+<LI>opiate addicts.</LI>
+</OL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-05-08 11:05:36 +0100" MODIFIED_BY="[Empty name]">
+<P>Naloxone group: bolus of 30 &#956;g/kg of naloxone over 3 to 5 min followed by continuous infusion of 60 &#956;g/kg/hr for 1 h. If hemodynamic improvement was observed within the first hour, the infusion was continued at the same rate for an additional 4 to 24 h.</P>
+<P>Control group: infusion of dextrose 5% in water.<BR/>If deterioration of hemodynamic status was observed, the infusion of naloxone or dextrose 5% in water was resumed immediately.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-05-08 11:05:41 +0100" MODIFIED_BY="[Empty name]">
+<P>Primary outcome<BR/>Increase in MAP &gt;15%, as recorded up to 24 hours after the end of the perfusion of naloxone or dextrose 5%.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-05-08 11:06:15 +0100" MODIFIED_BY="[Empty name]">
+<P>Division of Respiratory and Critical Care Medicine at Memorial Medical Center of Long Beach, CA.<BR/>No comment on when the study was conducted.<BR/>Case fatality unspecified.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>BP: blood pressure<BR/>MAP: mean arterial pressure<BR/>SBP: systolic blood pressure<BR/>PWP: pulmonary wedge pressure<BR/>CI: cardiac index <BR/>SVR: systemic vascular resistance<BR/>CVP: central venous pressure<BR/>HR: heart rate</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2009-05-08 11:07:03 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2009-04-27 16:53:36 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Allolio-1986">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-04-27 16:53:36 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Not a randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Allolio-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Ten cases, 10 controls. Inappropriate control group (patients were not in shock). No randomization.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:37 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Bone-1982">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:37 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 10 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:38 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Bonnet-1985">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:38 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 7 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:38 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Canady-1989">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:38 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 5 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Desmonts-1978">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Fourteen cases, 11 controls. Cases and control were not in shock. No randomization.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:40 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Duarte-1992">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:40 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 5 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Estilo-1982">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Six cases, 6 controls. Cases and controls were not in shock. No randomization.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:42 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Gerad-1983">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:42 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 5 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:43 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Groeger-1983">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:43 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 10 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:44 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Hackshaw-1990">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:44 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 13 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:44 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Hughes-1983">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:44 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 8 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-05-08 11:07:03 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-ILCOR-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-05-08 11:07:03 +0100" MODIFIED_BY="[Empty name]">
+<P>Not a randomized controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lightfoot-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Repeated measures design in 8 healthy male subjects. No randomization.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:47 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Martinon-1982">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:47 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 6 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Oldroyd-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Ten patients with heart failure were randomized to study the effects of naloxone or placebo on cardiopulmonary exercise performance (outcome measure not considered in this systematic review).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:48 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Peters-1981">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:48 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 13 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:49 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Putterman-1986">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:49 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 10 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:51 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Rock-1985">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:51 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 12 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:51 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-Tarelkina-1989">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:51 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 12 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-11 17:30:52 +0100" MODIFIED_BY="Emma M Sydenham" STUDY_ID="STD-VelizPintos-1985">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-11 17:30:52 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>No control (case series of 15 patients).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-DeMaria-1985">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Hughes-1984">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lu-1995">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Montastruc-1985">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Roberts-1988">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Safani-1989">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2009-05-08 11:36:46 +0100" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" MODIFIED="2009-05-08 11:36:46 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Naloxone versus control</NAME>
+<DICH_OUTCOME CHI2="6.138518410961358" CI_END="1.6699720113731313" CI_START="0.2116638564938257" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.5945357147926338" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="17" I2="67.41884822844771" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.2227091924601188" LOG_CI_START="-0.674353295336315" LOG_EFFECT_SIZE="-0.22582205143809808" METHOD="PETO" MODIFIED="2008-09-12 13:44:33 +0100" MODIFIED_BY="Emma M Sydenham" NO="1" P_CHI2="0.04645572375115081" P_Q="1.0" P_Z="0.32374895446509777" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="29" TOTAL_2="30" WEIGHT="100.0" Z="0.9867831812270843">
+<NAME>Death rate</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.905193130024163" CI_START="0.18016903418941943" EFFECT_SIZE="0.9400871814619262" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="8" LOG_CI_END="0.6906561113393249" LOG_CI_START="-0.744319849518335" LOG_EFFECT_SIZE="-0.026831869089505054" ORDER="87932" O_E="-0.08695652173913082" SE="0.8429119826533553" STUDY_ID="STD-DeMaria-1985" TOTAL_1="10" TOTAL_2="13" VAR="1.4074583261728821" WEIGHT="39.080142727970674"/>
+<DICH_DATA CI_END="0.4604861941312961" CI_START="0.005035742667178708" EFFECT_SIZE="0.0481548541211964" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="4" LOG_CI_END="-0.33678338588510304" LOG_CI_START="-2.2979364709946246" LOG_EFFECT_SIZE="-1.3173599284398638" ORDER="87933" O_E="-2.2857142857142856" SE="1.1519910300576708" STUDY_ID="STD-Roberts-1988" TOTAL_1="8" TOTAL_2="6" VAR="0.7535321821036106" WEIGHT="20.922925161701087"/>
+<DICH_DATA CI_END="7.243762608153464" CI_START="0.2763945534427231" EFFECT_SIZE="1.4149687386390104" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="5" LOG_CI_END="0.8599642092209359" LOG_CI_START="-0.5584705193046288" LOG_EFFECT_SIZE="0.15074684495815358" ORDER="87934" O_E="0.5" SE="0.8331955809010619" STUDY_ID="STD-Safani-1989" TOTAL_1="11" TOTAL_2="11" VAR="1.4404761904761902" WEIGHT="39.99693211032824"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.288360815261948" CI_START="0.011176993144635656" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.12000000000000001" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="10" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.11003750753674091" LOG_CI_START="-1.9516750154414915" LOG_EFFECT_SIZE="-0.9208187539523751" METHOD="MH" MODIFIED="2008-09-12 13:44:33 +0100" MODIFIED_BY="Emma M Sydenham" NO="2" P_CHI2="1.0" P_Q="0.0" P_Z="0.07998898361770668" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="11" TOTAL_2="11" WEIGHT="99.99999999999999" Z="1.7507499944062377">
+<NAME>Reduction in dose of vasoactive drug</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.288360815261948" CI_START="0.011176993144635656" EFFECT_SIZE="0.12" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="10" LOG_CI_END="0.11003750753674091" LOG_CI_START="-1.9516750154414915" LOG_EFFECT_SIZE="-0.9208187539523752" ORDER="87935" O_E="0.0" SE="1.2110601416389968" STUDY_ID="STD-Roberts-1988" TOTAL_1="11" TOTAL_2="11" VAR="1.4666666666666668" WEIGHT="99.99999999999999"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>After treatment</NAME>
+<CONT_OUTCOME CHI2="3.3938157891350036" CI_END="11.592466709729713" CI_START="7.065966282774944" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="9.329216496252329" ESTIMABLE="YES" I2="41.06928235755104" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="0.18324952542629203" P_Q="1.0" P_Z="6.526931322467027E-16" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="33" TOTAL_2="33" UNITS="" WEIGHT="100.0" Z="8.079057378520039">
+<NAME>Mean Arterial Blood Pressure (MAP)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="13.402009184837352" CI_START="-2.802009184837358" EFFECT_SIZE="5.299999999999997" ESTIMABLE="YES" MEAN_1="99.1" MEAN_2="93.8" ORDER="87936" SD_1="9.1" SD_2="10.7" SE="4.133754114231164" STUDY_ID="STD-DeMaria-1985" TOTAL_1="10" TOTAL_2="13" WEIGHT="7.803324684794495"/>
+<CONT_DATA CI_END="21.685880725995894" CI_START="7.854119274004097" EFFECT_SIZE="14.769999999999996" ESTIMABLE="YES" MEAN_1="81.57" MEAN_2="66.8" ORDER="87937" SD_1="9.84" SD_2="6.28" SE="3.528575412888953" STUDY_ID="STD-Lu-1995" TOTAL_1="12" TOTAL_2="9" WEIGHT="10.709523563080149"/>
+<CONT_DATA CI_END="11.507194353210817" CI_START="6.492805646789183" EFFECT_SIZE="9.0" ESTIMABLE="YES" MEAN_1="74.0" MEAN_2="65.0" ORDER="87938" SD_1="3.0" SD_2="3.0" SE="1.2792042981336627" STUDY_ID="STD-Safani-1989" TOTAL_1="11" TOTAL_2="11" WEIGHT="81.48715175212536"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.9797026256171736" CI_END="5.5799309429238715" CI_START="-4.103407402846894" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.7382617700384886" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.3222724534939744" P_Q="1.0" P_Z="0.7650491962665985" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="18" TOTAL_2="18" UNITS="" WEIGHT="100.0" Z="0.29885694969446097">
+<NAME>Systolic Blood Pressure (SBP)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="6.558108124954408" CI_START="-14.558108124954408" EFFECT_SIZE="-4.0" ESTIMABLE="YES" MEAN_1="95.0" MEAN_2="99.0" ORDER="87939" SD_1="10.8" SD_2="9.3" SE="5.386888845017264" STUDY_ID="STD-Hughes-1984" TOTAL_1="7" TOTAL_2="7" WEIGHT="21.028970499358522"/>
+<CONT_DATA CI_END="7.448302485920818" CI_START="-3.4483024859208182" EFFECT_SIZE="2.0" ESTIMABLE="YES" MEAN_1="102.0" MEAN_2="100.0" ORDER="87940" SD_1="7.0" SD_2="6.0" SE="2.7797972457128464" STUDY_ID="STD-Safani-1989" TOTAL_1="11" TOTAL_2="11" WEIGHT="78.97102950064148"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="1.9331327824804474" CI_END="1.301588856864921" CI_START="-5.769847033194555" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-2.234129088164817" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.03" NO="3" P_CHI2="0.38038697986818293" P_Q="1.0" P_Z="0.2155489956226596" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="27" UNITS="" WEIGHT="100.0" Z="1.238450752490531">
+<NAME>Heart Rate (HR)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="12.231225199168525" CI_START="-12.231225199168525" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="106.0" MEAN_2="106.0" ORDER="87941" SD_1="6.9" SD_2="15.0" SE="6.240535691291711" STUDY_ID="STD-Hughes-1984" TOTAL_1="7" TOTAL_2="7" WEIGHT="8.356324579492787"/>
+<CONT_DATA CI_END="25.875899400330884" CI_START="-8.095899400330882" EFFECT_SIZE="8.89" ESTIMABLE="YES" MEAN_1="110.0" MEAN_2="101.11" ORDER="87942" SD_1="20.23" SD_2="19.21" SE="8.666434452017226" STUDY_ID="STD-Lu-1995" TOTAL_1="12" TOTAL_2="9" WEIGHT="4.332894654755249"/>
+<CONT_DATA CI_END="0.7839350807478809" CI_START="-6.783935080747881" EFFECT_SIZE="-3.0" ESTIMABLE="YES" MEAN_1="112.0" MEAN_2="115.0" ORDER="87943" SD_1="4.0" SD_2="5.0" SE="1.9306145983268457" STUDY_ID="STD-Safani-1989" TOTAL_1="11" TOTAL_2="11" WEIGHT="87.31078076575196"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2009-05-08 11:38:56 +0100" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2009-05-08 11:38:56 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2009-04-20 16:32:11 +0100" MODIFIED_BY="Emma M Sydenham">Search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2009-05-08 11:38:56 +0100" MODIFIED_BY="[Empty name]">
+<P>
+<B>Cochrane Injuries Group Specialised Register (searched 5 December 2008)</B>
+<BR/>(intensive or critical or emergency or shock* or sepsis) and (naloxon* or narcan* or maloxone or nalone* or narcon or narvcam)<BR/>
+<BR/>
+<B>CENTRAL (<I>The Cochrane Library</I> 2008, Issue 4)</B>
+<BR/>#1MeSH descriptor Shock explode all trees<BR/>#2MeSH descriptor Shock, Cardiogenic explode all trees<BR/>#3MeSH descriptor Shock, Hemorrhagic explode all trees<BR/>#4MeSH descriptor Shock, Septic explode all trees<BR/>#5MeSH descriptor Shock, Traumatic explode all trees<BR/>#6MeSH descriptor Emergency Medicine explode all trees<BR/>#7MeSH descriptor Emergency Treatment explode all trees<BR/>#8MeSH descriptor Intensive Care explode all trees<BR/>#9MeSH descriptor Critical Illness explode all trees<BR/>#10MeSH descriptor Electric Injuries explode all trees<BR/>#11(intensive or critical or emergency or shock* or sepsis):ab,ti<BR/>#12(#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11)<BR/>#13MeSH descriptor Naloxone explode all trees<BR/>#14(naloxon* or narcan* or maloxone or nalone* or narcon or narvcam)<BR/>#15(#13 OR #14)<BR/>#16(#12 AND #15)<BR/>
+<BR/>
+<B>MEDLINE (Ovid SP) (1950 to week 3 November 2008)</B>
+<BR/>1.exp SHOCK/<BR/>2.exp Cardiogenic Shock/<BR/>3.exp Hemorrhagic Shock/<BR/>4.exp Septic Shock/<BR/>5.exp Traumatic Shock/<BR/>6.exp Emergency Medicine/<BR/>7.exp Emergency Treatment/<BR/>8.exp Intensive Care/<BR/>9.exp Critical Illness/<BR/>10.(intensive or critical or emergency or shock* or sepsis).ab,ti.<BR/>11.exp Electric Injuries/<BR/>12.or/1-11<BR/>13.exp Naloxone/<BR/>14.(naloxon* or narcan* or maloxone or nalone* or narcon or narvcam).ab,ti.<BR/>15.13 or 14<BR/>16.12 and 15<BR/>17.randomi?ed.ab,ti.<BR/>18.randomized controlled trial.pt.<BR/>19.controlled clinical trial.pt.<BR/>20.placebo.ab.<BR/>21.clinical trials as topic.sh.<BR/>22.randomly.ab.<BR/>23.trial.ti.<BR/>24.or/17-23<BR/>25.exp animals/<BR/>26.exp humans/<BR/>27.25 not (25 and 26)<BR/>28.24 not 27<BR/>29.28 and 16<BR/>
+<BR/>
+<B>EMBASE (Ovid SP) (1980 to November (week 49) 2008)</B>
+<BR/>1.exp SHOCK/<BR/>2.exp Cardiogenic Shock/<BR/>3.exp Hemorrhagic Shock/<BR/>4.exp Septic Shock/<BR/>5.exp Traumatic Shock/<BR/>6.exp Burn Shock/<BR/>7.exp ELECTRIC SHOCK/<BR/>8.(intensive or critical or emergency or shock* or sepsis).ab,ti.<BR/>9.exp Emergency Medicine/<BR/>10.exp Emergency Treatment/<BR/>11.exp Intensive Care/<BR/>12.exp Critical Illness/<BR/>13.or/1-12<BR/>14.(naloxon* or narcan* or maloxone or nalone* or narcon or narvcam).ab,ti.<BR/>15.exp NALOXONE/<BR/>16.exp NALOXONE BENZOYLHYDRAZONE/<BR/>17.14 or 15 or 16<BR/>18.13 and 17<BR/>19.exp Randomized Controlled Trial/<BR/>20.exp controlled clinical trial/<BR/>21.randomi?ed.ab.<BR/>22.placebo.ab.<BR/>23.exp Clinical Trial/<BR/>24.randomly.ab.<BR/>25.trial.ti.<BR/>26.19 or 20 or 21 or 22 or 23 or 24 or 25<BR/>27.exp animal/ not (exp human/ and exp animal/)<BR/>28.26 not 27<BR/>29.28 and 18<BR/>
+<BR/>
+<B>ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED) (1970 to December 2008)</B>
+<BR/>
+<B>ISI Web of Science: Conference Proceedings Citation Index- Science (CPCI-S) (1990 to December 2008) </B>
+<BR/>#1Topic=(intensive or critical or emergency or shock* or sepsis) AND Topic=(naloxon* or narcan* or maloxone or nalone* or narcon or narvcam)<BR/>#2Topic=(random OR placebo OR randomised OR randomized OR randomly OR random order OR random sequence OR random allocation OR randomly allocated OR at random) AND Title=(trial* or group* or study or studies or placebo or controlled)<BR/>#3Title=(random OR placebo OR randomised OR randomized OR randomly OR random order OR random sequence OR random allocation OR randomly allocated OR at random) AND Topic=(trial* or group* or study or studies or placebo or controlled)<BR/>#4#1 and #2<BR/>#5#1 and #3<BR/>#6#4 or #5<BR/>
+<BR/>
+<B>PubMed (searched 5 December 2008; added to PubMed in the last 180 days)</B>
+<BR/>Search (intensive or critical or emergency or shock* or sepsis) AND (naloxon* or narcan* or maloxone or nalone* or narcon or narvcam)<BR/>
+</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

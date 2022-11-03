@@ -1,0 +1,2436 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD004446.pub4" GROUP_ID="INJ" ID="979103031723032612" MERGED_FROM="" MODIFIED="2015-09-17 16:18:23 +0100" MODIFIED_BY="Emma Sydenham" REVIEW_NO="INJ0184" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="10.0">
+<COVER_SHEET MODIFIED="2015-09-17 16:07:29 +0100" MODIFIED_BY="[Empty name]">
+<TITLE>Emergency ultrasound-based algorithms for diagnosing blunt abdominal trauma</TITLE>
+<CONTACT>
+<PERSON ID="14475" ROLE="AUTHOR">
+<PREFIX>Mr</PREFIX>
+<FIRST_NAME>Dirk</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Stengel</LAST_NAME>
+<SUFFIX>MD PhD MSc</SUFFIX>
+<POSITION/>
+<EMAIL_1>dirk.stengel@berlin.de</EMAIL_1>
+<EMAIL_2>dirk.stengel@ukb.de</EMAIL_2>
+<URL>www.ukb.de</URL>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Clinical Research, Department of Trauma and Orthopaedic Surgery</DEPARTMENT>
+<ORGANISATION>Unfallkrankenhaus Berlin</ORGANISATION>
+<ADDRESS_1>Warener Str 7</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Berlin</CITY>
+<ZIP>12683</ZIP>
+<REGION/>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<PHONE_1>+49 30 56813030/3033</PHONE_1>
+<PHONE_2/>
+<FAX_1>+49 30 56813034</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2015-09-17 15:59:46 +0100" MODIFIED_BY="Emma Sydenham">
+<PERSON ID="14475" ROLE="AUTHOR">
+<PREFIX>Mr</PREFIX>
+<FIRST_NAME>Dirk</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Stengel</LAST_NAME>
+<SUFFIX>MD PhD MSc</SUFFIX>
+<POSITION/>
+<EMAIL_1>dirk.stengel@berlin.de</EMAIL_1>
+<EMAIL_2>dirk.stengel@ukb.de</EMAIL_2>
+<URL>www.ukb.de</URL>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Clinical Research, Department of Trauma and Orthopaedic Surgery</DEPARTMENT>
+<ORGANISATION>Unfallkrankenhaus Berlin</ORGANISATION>
+<ADDRESS_1>Warener Str 7</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Berlin</CITY>
+<ZIP>12683</ZIP>
+<REGION/>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<PHONE_1>+49 30 56813030/3033</PHONE_1>
+<PHONE_2/>
+<FAX_1>+49 30 56813034</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14456" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Grit</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Rademacher</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>rademachergrit@aol.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Diagnostic and Interventional Radiology</DEPARTMENT>
+<ORGANISATION>Unfallkrankenhaus Berlin</ORGANISATION>
+<ADDRESS_1>Warener Str 7</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Berlin</CITY>
+<ZIP>12683</ZIP>
+<REGION/>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14402" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Axel</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Ekkernkamp</LAST_NAME>
+<SUFFIX/>
+<POSITION>Chair</POSITION>
+<EMAIL_1>axel.ekkernkamp@ukb.de</EMAIL_1>
+<EMAIL_2>traumato@uni-greifswald.de</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Trauma and Reconstructive Surgery</DEPARTMENT>
+<ORGANISATION>University Hospital</ORGANISATION>
+<ADDRESS_1>Ferdinand-Sauerbruch-Straße</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Greifswald</CITY>
+<ZIP>17475</ZIP>
+<REGION/>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<PHONE_1>0049 3834 86 6101</PHONE_1>
+<PHONE_2>0049 30 5681 3001</PHONE_2>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="96506388465985513746120530152601" ROLE="AUTHOR">
+<PREFIX>Mr</PREFIX>
+<FIRST_NAME>Claas</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Güthoff</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>claas.guethoff@ukb.de</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Clinical Research, Department of Trauma and Orthopaedic Surgery</DEPARTMENT>
+<ORGANISATION>Unfallkrankenhaus Berlin</ORGANISATION>
+<ADDRESS_1>Warener Str. 7</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Berlin</CITY>
+<ZIP>12683</ZIP>
+<REGION/>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<PHONE_1>+49-30-5681-4090</PHONE_1>
+<PHONE_2/>
+<FAX_1>+49-30-5681-4093</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="14444" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Sven</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Mutze</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>sven.mutze@ukb.de</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Diagnostic and Interventional Radiology</DEPARTMENT>
+<ORGANISATION>Unfallkrankenhaus Berlin</ORGANISATION>
+<ADDRESS_1>Warener Str 7</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Berlin</CITY>
+<ZIP>12683</ZIP>
+<REGION/>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2015-09-15 12:01:28 +0100" MODIFIED_BY="Emma Sydenham">
+<UP_TO_DATE>
+<DATE DAY="30" MONTH="6" YEAR="2015"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="30" MONTH="6" YEAR="2015"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="30" MONTH="9" YEAR="2017"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2003"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2005"/>
+<LAST_CITATION_ISSUE ISSUE="9" YEAR="2015"/>
+</DATES>
+<WHATS_NEW MODIFIED="2015-09-17 16:07:29 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-09-17 16:07:29 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="17" MONTH="9" YEAR="2015"/>
+<DESCRIPTION>
+<P>The authors' affiliations have been updated.</P>
+<P>The PRISMA flow diagram has been updated. Four databases were searched in August 2015. No new studies were identified.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2015-09-15 12:02:09 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2015-09-15 12:02:06 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="30" MONTH="6" YEAR="2015"/>
+<DESCRIPTION>
+<P>The search for studies was updated to June 2015.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_OLD_CONCLUSIONS" MODIFIED="2015-09-15 12:02:09 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="30" MONTH="6" YEAR="2015"/>
+<DESCRIPTION>
+<P>The authors have re-written the background and discussion sections to put the research question into a different context.</P>
+<P>The authors of the review have changed.</P>
+<P>The number of included studies, and their results, remain the same.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-09-15 12:02:07 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="30" MONTH="6" YEAR="2015"/>
+<DESCRIPTION>
+<P>The authors have specified some changes to the review's inclusion criteria in preparation for the next update.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-05-26 15:00:51 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="18" MONTH="10" YEAR="2013"/>
+<DESCRIPTION>
+<P>The review has been re-written in order to update the scope of the review and references. The results and conclusions have not changed.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_OLD_CONCLUSIONS" MODIFIED="2015-05-26 15:00:53 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="18" MONTH="10" YEAR="2013"/>
+<DESCRIPTION>
+<P>The review has been re-written in order to update the scope of the review and references. The results and conclusions have not changed. </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2015-05-26 17:50:02 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="11" MONTH="2" YEAR="2008"/>
+<DESCRIPTION>
+<P>The search was updated in January 2008. No new studies were identified.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-07-10 16:22:04 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="12" MONTH="11" YEAR="2007"/>
+<DESCRIPTION>
+<P>Review amended. A shift in denominators was corrected based on the addition of one study (Boulanger 1999), another study was removed from the review (Navarrete-Nav 1996) because it was not clear how many patients underwent which types of diagnostic interventions in the control arm (as raised by <LINK REF="REF-Vance-2007" TYPE="REFERENCE">Vance 2007</LINK>), the results of a recent full-text publication of a former conference abstract (Melniker 2006) were included.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2008-04-28 12:47:36 +0100" MODIFIED_BY="Emma M Sydenham">
+<DATE DAY="9" MONTH="2" YEAR="2005"/>
+<DESCRIPTION>
+<P>Review first published.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT MODIFIED="2008-04-28 19:45:25 +0100" MODIFIED_BY="Emma M Sydenham">
+<INTERNAL_SOURCES MODIFIED="2008-04-28 19:45:25 +0100" MODIFIED_BY="Emma M Sydenham">
+<SOURCE MODIFIED="2008-04-28 19:45:25 +0100" MODIFIED_BY="Emma M Sydenham">
+<NAME>Department of Trauma and Orthopaedic Surgery at the Unfallkrankenhaus, Berlin</NAME>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2015-09-15 15:04:37 +0100" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2015-06-30 11:04:43 +0100" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2014-12-15 12:22:13 +0000" MODIFIED_BY="[Empty name]">Using ultrasound to aid diagnosis of patients with a 'blunt' injury to the abdomen</TITLE>
+<SUMMARY_BODY MODIFIED="2015-06-30 11:04:43 +0100" MODIFIED_BY="[Empty name]">
+<P>Many people admitted to hospital after an injury have 'blunt' (not penetrating) damage to the abdomen. Doctors treating these patients need to know whether the organs within the abdomen have been injured. Ultrasound scans are believed to help diagnose the patient's condition. In this review, the authors looked for studies that compared death rates in patients with an abdominal injury where ultrasound was used to aid diagnosis with death rates where no ultrasound was used. They also looked for evidence that ultrasound use could reduce the need to carry out other more complex and more expensive diagnostic tests. However, very few trials have been done and the authors concluded that there is insufficient evidence to justify the use of ultrasound as part of the diagnosis of patients with abdominal injury. Given this degree of uncertainty, it is probably justified to ask doctors on duty for a confirmatory CT scan in patients who have sustained an injury with a high chance of major trauma (that is, head and brain injury, cervical spine fracture, thoraco-abdominal pelvic trauma, and other injuries).</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2015-08-18 10:03:38 +0100" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2015-06-30 10:54:18 +0100" MODIFIED_BY="[Empty name]">
+<P>Ultrasonography (performed by means of a four-quadrant, focused assessment of sonography for trauma (FAST)) is regarded as a key instrument for the initial assessment of patients with suspected blunt abdominal and thoraco-abdominal trauma in the emergency department setting. FAST has a high specificity but low sensitivity in detecting and excluding visceral injuries. Proponents of FAST argue that ultrasound-based clinical pathways enhance the speed of primary trauma assessment, reduce the number of unnecessary multi-detector computed tomography (MDCT) scans, and enable quicker triage to surgical and non-surgical care. Given the proven accuracy, increasing availability of, and indication for, MDCT among patients with blunt abdominal and multiple injuries, we aimed to compile the best available evidence of the use of FAST-based assessment compared with other primary trauma assessment protocols.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2015-06-30 10:54:47 +0100" MODIFIED_BY="[Empty name]">
+<P>To assess the effects of diagnostic algorithms using ultrasonography including in FAST examinations in the emergency department in relation to the early, late, and overall mortality of patients with suspected blunt abdominal trauma.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2015-08-18 10:03:38 +0100" MODIFIED_BY="[Empty name]">
+<P>The most recent search was run on 30th June 2015. We searched the Cochrane Injuries Group Specialised Register, <I>The Cochrane Library</I>, MEDLINE (OvidSP), EMBASE (OvidSP), ISI Web of Science (SCI-EXPANDED, SSCI, CPCI-S, and CPSI-SSH), clinical trials registers, and screened reference lists. Trial authors were contacted for further information and individual patient data. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2015-06-30 11:01:50 +0100" MODIFIED_BY="[Empty name]">
+<P>We included randomised controlled trials (RCTs). Participants were patients with blunt torso, abdominal, or multiple trauma undergoing diagnostic investigations for abdominal organ injury. The intervention was diagnostic algorithms comprising emergency ultrasonography (US). The control was diagnostic algorithms without US examinations (for example, primary computed tomography (CT) or diagnostic peritoneal lavage (DPL)). Outcomes were mortality, use of CT or invasive procedures (DPL, laparoscopy, laparotomy), and cost-effectiveness.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2015-06-30 11:03:38 +0100" MODIFIED_BY="[Empty name]">
+<P>Two authors (DS and CG) independently selected trials for inclusion, assessed methodological quality, and extracted data. Methodological quality was assessed using the Cochrane Collaboration risk of bias tool. Where possible, data were pooled and relative risks (RRs), risk differences (RDs), and weighted mean differences, each with 95% confidence intervals (CIs), were calculated by fixed-effect or random-effects models as appropriate.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2015-06-30 11:04:08 +0100" MODIFIED_BY="[Empty name]">
+<P>We identified four studies meeting our inclusion criteria. Overall, trials were of poor to moderate methodological quality. Few trial authors responded to our written inquiries seeking to resolve controversial issues and to obtain individual patient data. Strong heterogeneity amongst the trials prompted discussion between the review authors as to whether the data should or should not be pooled; we decided in favour of a quantitative synthesis to provide a rough impression about the effect sizes achievable with US-based triage algorithms. We pooled mortality data from three trials involving 1254 patients; the RR in favour of the FAST arm was 1.00 (95% CI 0.50 to 2.00). FAST-based pathways reduced the number of CT scans (random-effects model RD -0.52, 95% CI -0.83 to -0.21), but the meaning of this result was unclear. </P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2015-07-10 14:45:22 +0100" MODIFIED_BY="[Empty name]">
+<P>The experimental evidence justifying FAST-based clinical pathways in diagnosing patients with suspected abdominal or multiple blunt trauma remains poor. Because of strong heterogeneity between the trial results, the quantitative information provided by this review may only be used in an exploratory fashion. It is unlikely that FAST will ever be investigated by means of a confirmatory, large-scale RCT in the future. Thus, this Cochrane Review may be regarded as a review which provides the best available evidence for clinical practice guidelines and management recommendations. It can only be concluded from the few head-to-head studies that negative US scans are likely to reduce the incidence of MDCT scans which, given the low sensitivity of FAST (or reliability of negative results), may adversely affect the diagnostic yield of the trauma survey. At best, US has no negative impact on mortality or morbidity. Assuming that major blunt abdominal or multiple trauma is associated with 15% mortality and a CT-based diagnostic work-up is considered the current standard of care, 874, 3495, or 21,838 patients are needed per intervention group to demonstrate non-inferiority of FAST to CT-based algorithms with non-inferiority margins of 5%, 2.5%, and 1%, power of 90%, and a type-I error alpha of 5%.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2015-09-15 15:04:37 +0100" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2015-07-10 14:46:11 +0100" MODIFIED_BY="[Empty name]">
+<CONDITION MODIFIED="2015-07-10 14:46:11 +0100" MODIFIED_BY="[Empty name]">
+<P>Trauma is a global public concern. While penetrating injuries are mainly due to assaults and violence (especially stabbing and shooting), blunt injuries are typically caused by road traffic crashes or falls from a great height. According to the World Health Organization (WHO) Global Burden of Disease Study, road traffic crashes ranked eight (<LINK REF="REF-Lozano-2012" TYPE="REFERENCE">Lozano 2012</LINK>) and 10th (<LINK REF="REF-Murray-2012" TYPE="REFERENCE">Murray 2012</LINK>) amongst all conditions contributing to global mortality and disability-adjusted life years (DALY) lost in 2010. Consequently, the United Nations and WHO Decade of Action for Road Safety (http://www.who.int/roadsafety/decade_of_action/en) seeks not only to prevent crashes but to establish effective measures of post-crash response to improve trauma outcomes worldwide (<LINK REF="REF-Peden-2010" TYPE="REFERENCE">Peden 2010</LINK>).</P>
+<P>Closed abdominal injuries (for example, injuries to solid organs like the liver or spleen, mesenteric and hollow visceral tears) may lead to significant bleeding and haemodynamic instability after restoration of the circulation. Uncontrollable haemorrhage remains a leading cause of mortality from trauma (<LINK REF="REF-Brockamp-2012" TYPE="REFERENCE">Brockamp 2012</LINK>; <LINK REF="REF-Cohen-2012" TYPE="REFERENCE">Cohen 2012</LINK>; <LINK REF="REF-Evans-2010" TYPE="REFERENCE">Evans 2010</LINK>; <LINK REF="REF-Pfeifer-2009" TYPE="REFERENCE">Pfeifer 2009</LINK>). Point of care imaging aims at identifying life-threatening injuries to enable priority-oriented management ('treat first what kills first'). Interventions should be effective (in terms of diagnostic accuracy) and efficient (in terms of invasiveness, potential harms, time consumption, and resource use). False-negative findings or delayed diagnoses bear the risk of severe complications. Physical signs and symptoms that indicate the presence of visceral lesions are unreliable (<LINK REF="REF-Nishijima-2012" TYPE="REFERENCE">Nishijima 2012</LINK>), especially in intubated or comatose patients.</P>
+<P>Diagnostic problems with abdominal trauma must, however, be discussed in the light of the increasing trend towards non-operative treatment of intra-abdominal lesions (<LINK REF="REF-Demetriades-2006" TYPE="REFERENCE">Demetriades 2006</LINK>; <LINK REF="REF-Oyo_x002d_Ita-2012" TYPE="REFERENCE">Oyo-Ita 2012</LINK>; <LINK REF="REF-Raza-2013" TYPE="REFERENCE">Raza 2013</LINK>; <LINK REF="REF-van-der-Wilden-2012" TYPE="REFERENCE">van der Wilden 2012</LINK>; <LINK REF="REF-Velmahos-2010" TYPE="REFERENCE">Velmahos 2010</LINK>). In addition, damage-control haemostatic resuscitation protocols (<LINK REF="REF-Cirocchi-2013" TYPE="REFERENCE">Cirocchi 2013</LINK>; <LINK REF="REF-Curry-2011" TYPE="REFERENCE">Curry 2011</LINK>; <LINK REF="REF-Gruen-2012" TYPE="REFERENCE">Gruen 2012</LINK>; <LINK REF="REF-Ker-2012" TYPE="REFERENCE">Ker 2012</LINK>; <LINK REF="REF-Maegele-2012" TYPE="REFERENCE">Maegele 2012</LINK>) as well as transvascular procedures (<LINK REF="REF-van-der-Vlies-2010" TYPE="REFERENCE">van der Vlies 2010</LINK>) to stop bleeding from the liver, spleen, and mesenteric tears have significantly changed the management of abdominal trauma during the past decade.</P>
+</CONDITION>
+<INTERVENTION MODIFIED="2015-01-02 06:26:07 +0000" MODIFIED_BY="[Empty name]">
+<P>Ultrasonography is a quick, non-invasive, repeatable and inexpensive tool that has emerged as a key component of diagnostic algorithms and clinical pathways. In the trauma bay ultrasonography is mainly used in terms of focused assessment of sonography for trauma (FAST) to detect the presence of free fluid as an indicator of organ injury (<LINK REF="REF-Scalea-1999" TYPE="REFERENCE">Scalea 1999</LINK>). However, the prevalence of organ injury without accompanying free fluid ranges from 5% to 37% (<LINK REF="REF-Yoshii-1998" TYPE="REFERENCE">Yoshii 1998</LINK>). With the evolution of ultrasound hardware and increasing resolution, FAST has been expanded to detect intrathoracic fluid and pneumothorax as well as solid organ injuries.</P>
+<P>In a systematic review and meta-analysis of the scientific literature we demonstrated that ultrasound has excellent specificity but rather low sensitivity (below 90%) in identifying both free fluid and organ lacerations (<LINK REF="REF-Stengel-2001" TYPE="REFERENCE">Stengel 2001</LINK>). This means that a positive sonogram proves the presence of intraperitoneal injury, whereas a negative sonogram fails to confidently exclude traumatic organ lesions. In an update and meta-regression analysis, we showed that sensitivity was overestimated by poorly designed studies due to partial verification bias (<LINK REF="REF-Stengel-2005" TYPE="REFERENCE">Stengel 2005</LINK>). However, a major criticism of this study was that the findings considered false-negative encompassed a broad range of minor and possibly trivial lesions that were unlikely to harm the patients.</P>
+<P>Among the diagnostic tools available, diagnostic peritoneal lavage (DPL) has remained the standard initial diagnostic investigation for more than 20 years. Although regarded as a safe technique with high sensitivity (<LINK REF="REF-Griffin-2007" TYPE="REFERENCE">Griffin 2007</LINK>), it has a significant false-positive rate (<LINK REF="REF-Hoff-2002" TYPE="REFERENCE">Hoff 2002</LINK>). This exposes the patients to the risk of an unnecessary laparotomy. In a retrospective analysis the incidence of short-term complications caused by negative laparotomy was 43% (mainly pneumonia) in patients with associated extra-abdominal injuries, and 20% in patients with no associated extra-abdominal injuries (<LINK REF="REF-Morrison-1996" TYPE="REFERENCE">Morrison 1996</LINK>). Still, DPL remains an optional diagnostic tool taught within the framework of Advanced Trauma Life Support (ATLS<SUP>®</SUP>) courses worldwide.</P>
+<P>Without doubt, multi-detector computed tomography (MDCT) represents the current diagnostic imaging standard in the trauma setting (<LINK REF="REF-Livingston-1998" TYPE="REFERENCE">Livingston 1998</LINK>; <LINK REF="REF-Soto-2012" TYPE="REFERENCE">Soto 2012</LINK>). In most European trauma centres, the single-pass whole-body scan has emerged as the work-up method of choice (<LINK REF="REF-Rademacher-2001" TYPE="REFERENCE">Rademacher 2001</LINK>; <LINK REF="REF-Stengel-2012" TYPE="REFERENCE">Stengel 2012</LINK>). Data from the German Trauma Registry suggest a survival benefit with the routine use of the primary whole-body scan (<LINK REF="REF-Huber_x002d_Wagner-2009" TYPE="REFERENCE">Huber-Wagner 2009</LINK>). The excess exposure to radiation, however, remains a matter of concern (<LINK REF="REF-Stengel-2009" TYPE="REFERENCE">Stengel 2009</LINK>).</P>
+</INTERVENTION>
+<IMPORTANCE MODIFIED="2015-06-30 11:22:44 +0100" MODIFIED_BY="[Empty name]">
+<P>With the emerging role of single-pass, whole-body MDCT as the primary diagnostic imaging tool in trauma in the developed countries (<LINK REF="REF-DGU-2011" TYPE="REFERENCE">DGU 2011</LINK>), the utility and value of ultrasonography needs to be redefined. Additionally, the therapeutic consequences derived from the detection of intra-abdominal bleeding have changed dramatically during the past few years. Damage-control resuscitation strategies together with transvascular interventions (<LINK REF="REF-Bhullar-2012" TYPE="REFERENCE">Bhullar 2012</LINK>; <LINK REF="REF-Cirocchi-2013" TYPE="REFERENCE">Cirocchi 2013</LINK>; <LINK REF="REF-Curry-2012" TYPE="REFERENCE">Curry 2012</LINK>; <LINK REF="REF-Holcomb-2007" TYPE="REFERENCE">Holcomb 2007</LINK>; <LINK REF="REF-Kirkpatrick-2008" TYPE="REFERENCE">Kirkpatrick 2008</LINK>) that are currently available enable non-operative management of most splenic and hepatic injuries (<LINK REF="REF-Malhotra-2000" TYPE="REFERENCE">Malhotra 2000</LINK>; <LINK REF="REF-Oyo_x002d_Ita-2012" TYPE="REFERENCE">Oyo-Ita 2012</LINK>).</P>
+<P>On the other hand, MDCT might be neither an available nor an affordable tool for routine trauma investigation in low-volume centres, rural areas, or developing countries. Thus, evidence is needed as to the effectiveness of the strategy of using ultrasound in diagnostic investigations of patients with suspected blunt abdominal injury or multiple trauma.</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2015-06-30 11:23:25 +0100" MODIFIED_BY="[Empty name]">
+<P>The primary objective of this review is to study whether diagnostic algorithms using ultrasonography included in FAST examinations in the emergency department reduce early, late, and overall mortality in patients with suspected blunt abdominal trauma. Secondary objectives were to evaluate the impact of ultrasound-based algorithms on morbidity (that is, subsequent development of inflammatory complications like systemic inflammatory response syndrome (SIRS) or acute respiratory distress syndrome (ARDS) (<LINK REF="REF-Keel-2005" TYPE="REFERENCE">Keel 2005</LINK>)), the number of additional diagnostic procedures, and functional and health-related outcomes.</P>
+<P>The following hypotheses were tested:<BR/>
+</P>
+<UL>
+<LI>the use of ultrasonography in trauma algorithms is associated with reduced mortality compared with algorithms that do not involve a sonographic examination;</LI>
+<LI>some patient subgroups (children, and hypotensive trauma victims) derive greater benefit from ultrasound diagnosis than others;</LI>
+<LI>ultrasonography reduces the rate of non-therapeutic laparotomies;</LI>
+<LI>ultrasound decreases the frequency of invasive procedures, such as diagnostic peritoneal lavage (DPL);</LI>
+<LI>ultrasound affects the frequency of CT scans;</LI>
+<LI>ultrasound-based clinical pathways are cost-effective.</LI>
+</UL>
+</OBJECTIVES>
+<METHODS MODIFIED="2015-09-15 15:04:37 +0100" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2015-06-23 17:40:25 +0100" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2015-06-23 17:40:25 +0100" MODIFIED_BY="[Empty name]">
+<P>We considered randomised controlled trials which compared trauma algorithms with ultrasonography, alone or in combination with other established diagnostic tests (computed tomography (CT), DPL, clinical monitoring), to algorithms without the use of ultrasound. Trials were included irrespective of blinding, number of patients allocated, and language of the article.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Haemodynamically stable or unstable patients with suspected blunt abdominal trauma as a single injury or an injury accompanying multiple trauma. Studies investigating patients with stab wounds and gunshot wounds were excluded.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2015-01-02 06:45:28 +0000" MODIFIED_BY="[Empty name]">
+<P>The experimental intervention consisted of diagnostic algorithms including ultrasonography either to detect free intra-abdominal fluid (FAST) or organ injury, including follow-up ultrasound examinations performed by radiologists, non-radiologist clinicians, or ultrasound technicians, alone or in combination with subsequent confirmatory tests.</P>
+<P>The control intervention was any algorithm that used only other established diagnostic tests (that is, CT, DPL, clinical monitoring).</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2015-01-02 06:50:29 +0000" MODIFIED_BY="[Empty name]">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2015-01-02 06:45:58 +0000" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>Overall mortality (as the proportion of patients)</LI>
+</UL>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2015-01-02 06:50:29 +0000" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>Mortality attributable to abdominal injury (i.e., rupture of solid and hollow organs, vascular injury)</LI>
+<LI>Rates of missed injuries with and without surgical consequences (as defined by the results of subsequent laparotomy or laparoscopy, autopsy, follow-up examinations during hospital stay, or necessity for re-admission following discharge because of false-negative findings)</LI>
+<LI>Non-therapeutic laparotomy rates (i.e., negative laparotomy performed for false-positive findings of index tests, including misclassification of organ injury that, by intra-operative judgement, would have been suitable for conservative treatment)</LI>
+<LI>Short-term (until discharge) and long-term morbidity (i.e., SIRS, ARDS, sepsis, nosocomial pneumonia, wound infection, abdominal compartment syndrome)</LI>
+<LI>Frequency of DPL procedures</LI>
+<LI>Frequency of CT examinations</LI>
+<LI>Time spent in the trauma bay (emergency department) until surgery, admission to the intensive care unit or peripheral wards, or ambulation</LI>
+<LI>Duration of intensive care unit (ICU) stay (days)</LI>
+<LI>Length of hospital stay (days)</LI>
+</UL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2015-09-15 15:04:37 +0100" MODIFIED_BY="[Empty name]">
+<P>In order to reduce publication and retrieval bias we did not restrict our search by language, date, or publication status.</P>
+<ELECTRONIC_SEARCHES MODIFIED="2015-09-15 15:04:37 +0100" MODIFIED_BY="[Empty name]">
+<P>The Cochrane Injuries Group Trials Search Co-ordinator searched the following:</P>
+<UL>
+<LI>Cochrane Injuries Group Specialised Register (30 June 2015);</LI>
+<LI>Cochrane Central Register of Controlled Trials (CENTRAL) in <I>The Cochrane Library</I> (2015, Issue 6 of 12);</LI>
+<LI>MEDLINE (OvidSP) (1946 to week 4 June 2015);</LI>
+<LI>Embase (OvidSP) (1974 to 30 June 2015);</LI>
+<LI>ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED) (1970 to June 2015);</LI>
+<LI>ISI Web of Science: Conference Proceedings Citation Index - Science (CPCI-S) (1990 to June 2015);</LI>
+<LI>CINAHL Plus (EBSCO) (1939 to June 2015).</LI>
+</UL>
+<P>The authors additionally searched:<BR/>
+</P>
+<UL>
+<LI>BIOSIS Previews (DIMDI) (1926 to 19 August 2015);</LI>
+<LI>MEDLINE (DIMDI) (1946 to 19 August 2015);</LI>
+<LI>PubMed (19 August 2015);</LI>
+<LI>Embase (OvidSP) (DIMDI) (1980 to 19 August 2015).</LI>
+</UL>
+<P>The search strategies are reported in full in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2015-01-02 06:58:26 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="5">Web-based resources</HEADING>
+<P>These included the following:</P>
+<UL>
+<LI>narrative and systematic reviews, clinical practice guidelines, as well as health technology assessment reports;</LI>
+<LI>the related articles option in PubMed;</LI>
+<LI>Google Scholar.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Handsearching</HEADING>
+<P>We scanned reference lists of all relevant articles for further trials.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Author queries</HEADING>
+<P>Authors of potentially relevant abstracts were asked to provide full information. We also asked for individual patient data where possible. We contacted authors of relevant articles to enquire if they had information on any past, present, or future studies.</P>
+</SUBSECTION>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2015-08-18 09:38:49 +0100" MODIFIED_BY="[Empty name]">
+<P>Cochrane Injuries' Trials Search Co-ordinator ran the searches and sent the search results to one of the authors (DS).</P>
+<STUDY_SELECTION MODIFIED="2015-06-23 17:40:36 +0100" MODIFIED_BY="[Empty name]">
+<P>Two authors (DS and CG) assessed titles or abstracts of all studies identified by the search and excluded clearly non-relevant studies. Full text articles were obtained for potentially relevant studies and any studies with unclear methodology. All these studies were assessed for eligibility for this review by two authors examining their methods of randomisation and their adequacy of allocation concealment. Disagreements on inclusion were resolved by discussion and, if necessary, scrutiny by an independent third author (GR).</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-04-28 13:52:28 +0100" MODIFIED_BY="Emma M Sydenham">
+<P>Two authors independently extracted the results of each included paper on a data extraction sheet. Disagreements were resolved by discussion.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2015-01-02 07:07:32 +0000" MODIFIED_BY="[Empty name]">
+<P>Each included trial was read independently by two authors for the following aspects of internal and external validity.<BR/>
+<I>
+<BR/>
+<B>A. Was the assigned treatment adequately concealed prior to allocation?</B>
+</I>
+<B>
+<BR/>
+</B>2 = method did not allow disclosure of assignment;<BR/>1 = small but possible chance of disclosure of assignment or unclear;<BR/>0 = quasi-randomised or open list or tables.</P>
+<P>
+<B>
+<I>B. Were the outcomes of patients or participants who withdrew described and included in the analysis (intention to treat)?</I>
+</B>
+<I>
+<BR/>
+</I>2 = withdrawals well described and accounted for in analysis;<BR/>1 = withdrawals described and analysis not possible;<BR/>0 = no mention, inadequate mention, or obvious differences and no adjustment.</P>
+<P>
+<B>
+<I>C. Were the outcome assessors blinded to the results of the index test (i.e., ultrasonography) or reference tests or patient outcome, or a combination?</I>
+</B>
+<I>
+<BR/>
+</I>2 = effective action taken to blind assessors;<BR/>1 = small or moderate chance of unblinding of assessors;<BR/>0 = not mentioned or not possible.</P>
+<P>
+<B>
+<I>D. Were the treatment and control groups comparable at entry?</I>
+</B>
+<I>
+<BR/>
+</I>2 = good comparability of groups, or confounding adjusted for in analysis;<BR/>1 = confounding small or mentioned but not adjusted for;<BR/>0 = large potential for confounding, or not discussed.</P>
+<P>
+<B>
+<I>E. Were care programmes, other than the trial options, identical?</I>
+</B>
+<I>
+<BR/>
+</I>2 = care programmes clearly identical;<BR/>1 = clear but trivial differences;<BR/>0 = not mentioned, or clear and important differences in care programmes.</P>
+<P>
+<B>
+<I>F. Were the inclusion and exclusion criteria clearly defined?</I>
+</B>
+<I>
+<BR/>
+</I>2 = clearly defined;<BR/>1 = inadequately defined;<BR/>0 = not defined.</P>
+<P>
+<B>
+<I>G. Were the interventions clearly defined? </I>
+</B>
+<I>
+<BR/>
+</I>2 = clearly defined interventions are applied with a standardised protocol;<BR/>1 = clearly defined interventions are applied but the application protocol is not standardised;<BR/>0 = intervention or application protocol, or both, are poor or not defined.</P>
+<P>
+<B>
+<I>H. Were the outcome measures used clearly defined (by outcome)?</I>
+</B>
+<I>
+<BR/>
+</I>2 = clearly defined;<BR/>1 = inadequately defined;<BR/>0 = not defined.</P>
+<P>
+<B>
+<I>I. Was the surveillance active, and of clinically appropriate duration?</I>
+</B>
+<I>
+<BR/>
+</I>2 = active surveillance and appropriate duration;<BR/>1 = active surveillance, but inadequate duration;<BR/>0 = surveillance not active or not defined.</P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2015-01-02 07:12:28 +0000" MODIFIED_BY="[Empty name]">
+<P>Mean differences and 95% confidence intervals were calculated for continuous variables. For dichotomous outcomes, relative risks (RRs) and risk differences (RDs) with 95% confidence intervals (CIs) were calculated. We used MetaView statistical software in RevMan 5.2 to pool the effect measures within a fixed-effect or random-effects model, where appropriate.</P>
+<P>To evaluate the between-study variability we tested for heterogeneity of results. We planned sensitivity and subgroup analyses (children, hypotensive patients, use of ultrasound as a primary versus subsequent work-up modality, follow-up examinations, operator experience). To control for possible publication bias, we aimed to test for funnel plot asymmetry.</P>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2015-08-14 17:21:33 +0100" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2015-08-14 17:21:33 +0100" MODIFIED_BY="[Empty name]">
+<P>The study selection procedure is depicted in <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>. Most studies examined the diagnostic accuracy of ultrasonography to detect free intraperitoneal fluid or organ damage. Readers interested in the problem of efficacy (accuracy) will find a diagnostic meta-analysis including a PRISMA flowchart depicting the study selection procedure in <LINK REF="REF-Stengel-2005" TYPE="REFERENCE">Stengel 2005</LINK>. We identified nine studies that compared the effectiveness and efficiency of ultrasound-based clinical pathways to algorithms that did not incorporate ultrasound examinations. Four of these (<LINK REF="STD-Branney-1997" TYPE="STUDY">Branney 1997</LINK>; <LINK REF="STD-Healey-1996" TYPE="STUDY">Healey 1996</LINK>; <LINK REF="STD-Hesse-1999" TYPE="STUDY">Hesse 1999</LINK>; <LINK REF="STD-McKenney-2001" TYPE="STUDY">McKenney 2001</LINK>) compared cohorts of patients admitted before and after introducing ultrasound as a screening tool and were excluded from further analysis.</P>
+<P>Of the five remaining trials, only two used a randomised format (<LINK REF="STD-Melniker-2006" TYPE="STUDY">Melniker 2006</LINK>; <LINK REF="STD-Rose-2001" TYPE="STUDY">Rose 2001</LINK>). Another randomised trial (<LINK REF="STD-Navarrete_x002d_Navarro-1996" TYPE="STUDY">Navarrete-Navarro 1996</LINK>) sought to prove the superiority of early computed tomography over multimodal procedures (including bedside ultrasound) to clear suspected chest and abdominal trauma.</P>
+<P>Two other studies enrolled patients in a quasi-randomised fashion. The suitable algorithm was defined by ultrasound availability: ultrasound on weekdays from 8 am to 5 pm; no ultrasound on weekdays from 5 pm to 8 am and on weekends (<LINK REF="STD-Arrillaga-1999" TYPE="STUDY">Arrillaga 1999</LINK>), or the presence of one of the investigators (<LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK>). Since no patient had the opportunity to influence the date of injury, we considered these methods to fulfil proper allocation at random.</P>
+<P>Since ultrasound findings prompted different forms of further investigation, care programmes varied between groups. We did not judge this difference to be a flaw but a desired observation indicating effectiveness (that is, a change in a doctor's decisions) and efficiency (a change in health-related outcomes) of ultrasound-based clinical pathways.</P>
+<P>One study report (Kumar 2014a) from an updated search in June 2015 has been added to Studies awaiting classification and will be incorporated into the review at the next update.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2015-05-27 12:56:14 +0100" MODIFIED_BY="[Empty name]">
+<P>In general, details of the study populations were sparse or missing. Individual risk of bias items are illustrated in <LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK>.</P>
+<P>One of the randomised trials (<LINK REF="STD-Rose-2001" TYPE="STUDY">Rose 2001</LINK>) met some of our design standards. Patients were assigned by a computer-generated list, although it was not clear whether concealment was maintained (the trial author reply to clarify this issue is pending). Sample size considerations called for 50 patients in each group to detect a 20% difference in CT scan use between groups. A secondary outcome (30-minute difference in time to laparotomy) mandating inclusion of 420 patients was mentioned in the methods section of the original paper. However, no data were provided on this endpoint. A flowchart sketched the study profile according to the CONSORT recommendations.</P>
+<P>The Sonography Outcomes Assessment Program (SOAP)-1 trial (<LINK REF="STD-Melniker-2006" TYPE="STUDY">Melniker 2006</LINK>) was a randomised clinical trial (RCT) to assess the effect of point of care, limited ultrasonography (PLUS). At the time of the first review, economic data gathered from 115 participants had been published as an abstract (Melniker 2004). Mean hospital charges for the PLUS arm were USD 13,841 (95% CI 11,170 to 16,512), and USD 33,512 (95% CI 10,465 to 56,559) for the control group. A press release (http://www.diagnosticimaging.com/dinews/2003060301.shtml, June 2003) reported significantly decreased mortality in the experimental arm (6.3% versus 8.1%), a reduced ICU length of stay (2.1 days versus 3.2 days), and a reduced use of CT. We did not receive a response to our letter to the research team. In the meantime, some of the results have been published in full. Although the trial authors had laudable and honest goals, the original article is difficult to interpret. Of 525 patients screened, 262 were randomised and only 217 were included in the final analysis, which contradicted the intended intention-to-treat principle. All continuous measures were presented as means, medians, and interquartile ranges, and the lack of standard deviations did not allow for including the study in the pooled analysis. Composite complications including death were abstracted from the medical record, and were thus addressed in a retrospective fashion. Individual complication rates were neither tabulated nor indicated in the text. We will try again to contact the trial authors to ask for more details.</P>
+<P>In contrast, the quasi-RCTs thoroughly described patient selection criteria and interventions, but provided too few demographic data to estimate the degree and direction of bias. No attempts were made to control for effect modification by multivariate analysis. One of these trials (<LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK>) addressed a large number of endpoints (the number of extra tests, laparotomy rates, mortality, accuracy, diagnostic time, and costs).</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2015-06-23 17:42:50 +0100" MODIFIED_BY="[Empty name]">
+<P>Owing to the small sample of studies eligible for this review, we did not explore publication bias. Results in each comparison category are shown in the MetaView summary analysis.</P>
+<SUBSECTION>
+<HEADING LEVEL="4">Mortality</HEADING>
+<P>Data were available from three studies (<LINK REF="STD-Arrillaga-1999" TYPE="STUDY">Arrillaga 1999</LINK>; <LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK>; <LINK REF="STD-Melniker-2006" TYPE="STUDY">Melniker 2006</LINK>). There was no evidence of a difference in mortality: random-effects RR 1.00 (95% CI 0.50 to 2.00). No data were provided on mortality attributable to abdominal injuries, missed abdominal injuries, or adverse events caused by any of the diagnostic tests or negative laparotomy.</P>
+<P>The mortality outcome for <LINK REF="STD-Melniker-2006" TYPE="STUDY">Melniker 2006</LINK> also included the complication rate, however the data were included since events such as haemorrhagic shock, septic shock, and multisystem organ failure are potentially life-threatening.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Use of computed tomography (CT) scans</HEADING>
+<P>Data were pooled from all four trials, showing significant heterogeneity (I<SUP>2 </SUP>= 98.4%). Ultrasound-based algorithms reduced ordering of CT scans by 50%: random-effects RD -0.52 (95% CI -0.83 to -0.21).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Use of diagnostic peritoneal lavage (DPL)</HEADING>
+<P>Two studies (<LINK REF="STD-Arrillaga-1999" TYPE="STUDY">Arrillaga 1999</LINK>; <LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK>) reported data on the use of DPL: ultrasound-based algorithms reduced the number of DPL procedures by 6% (95% CI -0.09 to -0.02).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Cost-effectiveness analysis</HEADING>
+<P>Two studies that aimed to estimate costs exhibited inconclusive results. We did not attempt to pool these results.</P>
+<P>In <LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK> the ultrasound pathway proved superior to the control arm. Cost was calculated in Canadian Dollars in 1995 at the study site, Sunnybrook HSC, Toronto. The calculation included hospital costs and professional charges, but did not include the cost of the sonography or CT machines.</P>
+<P>In <LINK REF="STD-Melniker-2006" TYPE="STUDY">Melniker 2006</LINK> mean hospital charges for the PLUS arm were USD 10,600 (interquartile range (IQR) 5700 to 19,000), and USD 16,400 (IQR 6700 to 43,600) for non-PLUS patients.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Laparotomy</HEADING>
+<P>Data from three studies were combined for this endpoint (<LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK>; <LINK REF="STD-Melniker-2006" TYPE="STUDY">Melniker 2006</LINK>; <LINK REF="STD-Rose-2001" TYPE="STUDY">Rose 2001</LINK>). There was no evidence of a difference in laparotomy rates with ultrasound-based algorithms (fixed-effect RD 0.00, 95% CI -0.04 to 0.04).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Other secondary outcomes</HEADING>
+<P>We did not identify any RCTs that explored the impact of ultrasound-based clinical pathways on other health-related outcomes such as quality of life. In <LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK> ultrasound reduced the mean time from arrival to hospital to completion of the diagnostic algorithm from 151 minutes (95% CI 127 to 174) to 53 minutes (95% CI 48 to 58). In this study participants undergoing ultrasound had a 60% reduced RR of delayed recognition of intra-abdominal trauma (mainly small bowel lacerations). Two non-therapeutic laparotomies were performed in each group.</P>
+<P>In <LINK REF="STD-Arrillaga-1999" TYPE="STUDY">Arrillaga 1999</LINK>, mean length of stay and mean ICU days did not differ between groups. In this study, ultrasound significantly reduced the median disposition time from 80 minutes during weekdays, and 92 minutes during weekends, to 20 minutes in both cases.</P>
+<P>In the SOAP-1 trial (<LINK REF="STD-Melniker-2006" TYPE="STUDY">Melniker 2006</LINK>), the time from emergency department arrival to operating room transfer was significantly shorter in the ultrasound group (median interval 60 (IQR 41 to 70) versus 157 (IQR 90 to 178) minutes).</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2015-07-10 14:48:10 +0100" MODIFIED_BY="[Empty name]">
+<P>There is an increasing awareness of the limitations of the use of emergency ultrasound to disclose abdominal injury after blunt trauma. Because of its high specificity, a positive sonogram (either for free fluid or organ injury) proves the presence of intra-abdominal damage. However, it is debatable whether identifying injured patients is a significant problem for trained emergency department teams. Given its poor overall sensitivity, ultrasound cannot be used to rule out abdominal injury (<LINK REF="REF-Miller-2003" TYPE="REFERENCE">Miller 2003</LINK>; <LINK REF="REF-Stengel-2005" TYPE="REFERENCE">Stengel 2005</LINK>).</P>
+<P>The first version of this review was published with the Cochrane Injuries Group (CIG) in 2005. At that time, the Cochrane Diagnostic Test Accuracy (DTA) group was working on methods and statistical software (that is, for computing summary receiver operating characteristics (SROC)) to compile accuracy data. The CIG mandated a classic effectiveness review, including data from RCTs. Algorithms to identify accuracy studies in MEDLINE and other databases are now established, and the RevMan software offers tools to aggregate DTA data across studies. Also, the reference standard has changed dramatically to 128-row MDCT (including CT angiography) now available at the point of care. We recently applied for a Cochrane DTA review to update accuracy estimates of FAST and advanced abdominal ultrasound pathways for disclosing or verifying abdominal injuries.</P>
+<P>This particular review, however, does not address false-negative rates or any other indices of accuracy. We deliberately skipped decision nodes of the classic Fryback-Thornbury cascade (<LINK REF="REF-Fryback-1991" TYPE="REFERENCE">Fryback 1991</LINK>), investigating only patient-centred outcomes associated with FAST-based and non-FAST based trauma surveys. Given the role and definition of FAST within the ATLS<SUP>®</SUP> concept, diagnostic efficacy and effectiveness of this modality may overlap in many ways. FAST is a point of care diagnostic tool, applied during resuscitation and even cardiopulmonary resuscitation (CPR), which may trigger therapeutic interventions like laparotomy and bypass confirmatory CT imaging.</P>
+<P>The observed heterogeneity amongst the few eligible trials may have prevented pooling of data and computing summary estimates. All review authors agreed that, apart from substantial heterogeneity, point estimates derived from random-effects model analysis may be more useful for clinicians and policy makers than simple tabulation of data. As noted, results must be used with caution and in an exploratory fashion .</P>
+<P>Pre-hospital or on-site thoraco-abdominal ultrasound has gained much interest during the past few years (<LINK REF="REF-Hoyer-2010" TYPE="REFERENCE">Hoyer 2010</LINK>). Yet, the contributors to this review were interested in the utility and value of point of care sonography in the trauma bay (that is, after hospital admission). Pre-hospital and in-hospital settings are too different to be compared in a single review.</P>
+<P>It is troubling that an intervention regarded as a diagnostic standard has been so poorly evaluated. Since the first version of this review which was published in 2005, no further head-to-head studies have been performed, planned, or registered, and as things currently stand it seems unlikely that any RCT simply comparing ultrasonography-based with non-ultrasonography algorithms will be conducted in future. In fact, this kind of comparison will no longer make sense, given established principles of care of the injured in most countries. One may, however, speculate whether pre-hospital ultrasonography used in land or air transport of trauma patients (<LINK REF="REF-Hasler-2012" TYPE="REFERENCE">Hasler 2012</LINK>) or contrast-enhanced ultrasound (<LINK REF="REF-Cagini-2013" TYPE="REFERENCE">Cagini 2013</LINK>) will prompt or even demand experimental studies.</P>
+<P>In suspected multiple trauma, reference data from the German Trauma Registry (<LINK REF="REF-Huber_x002d_Wagner-2009" TYPE="REFERENCE">Huber-Wagner 2009</LINK>; <LINK REF="REF-Huber_x002d_Wagner-2013" TYPE="REFERENCE">Huber-Wagner 2013</LINK>) imply that a primary CT scan is life-saving. The observed reduction in CT scans (as a result of a negative FAST examination) might, in part, reflect a false sense of security. Emergency physicians and trauma surgeons are well advised to insist on CTs for admission and clinical monitoring, regardless of a negative sonogram. Trauma patients currently are exposed to substantial radiation for diagnostic purposes (<LINK REF="REF-Hui-2009" TYPE="REFERENCE">Hui 2009</LINK>). Any imaging algorithm must adhere to the 'As Low As Reasonably Achievable' (ALARA) principle of exposure to radiation, and future developments must seek to maintain image quality and diagnostic accuracy at much lower doses. Repeated ultrasound examinations may enhance the sensitivity of trauma ultrasound (<LINK REF="REF-Nunes-2001" TYPE="REFERENCE">Nunes 2001</LINK>). Scheduled follow-up examinations have established themselves in clinical practice because of their feasibility. However, if there is a high pre-test probability of abdominal injuries, contrast-enhanced CT still represents the diagnostic modality of choice.</P>
+<P>Ultrasound-based algorithms are often assumed to have merits in shortening the primary trauma assessment, triaging patients more precisely, avoiding unnecessary interventional procedures, and reducing costs. However, such assumptions are hardly supported by the available scientific data. Apart from a significant reduction in the frequency of ordering CT scans, we found no beneficial effect of ultrasound on patient-centred endpoints. Divergent results prevented pooling of data for most endpoints of interest.</P>
+<P>Of note, two studies of higher methodological quality (<LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK>; <LINK REF="STD-Rose-2001" TYPE="STUDY">Rose 2001</LINK>) showed only a marginal reduction in CT frequency. Thus, it is open to debate whether abdominal ultrasound measurably affects the doctor's decision to order definitive diagnostic tests.</P>
+<P>The meaning of the slightly increased RR of mortality in the ultrasound arm of two quasi-RCTs (<LINK REF="STD-Arrillaga-1999" TYPE="STUDY">Arrillaga 1999</LINK>; <LINK REF="STD-Boulanger-1999" TYPE="STUDY">Boulanger 1999</LINK>) is not straightforward and susceptible to residual confounding. Patients in this group might have been more severely injured, haemodynamically unstable, and considered unsuitable for CT imaging more frequently. Although similar Injury Severity Score (ISS) values were noted in both groups, no information was provided on the Abbreviated Injury Scale (AIS) for abdominal damage. Thus, imbalances between patient groups cannot be excluded.</P>
+<P>We admit that our decision to pool data across studies despite extraordinarily strong heterogeneity may appear inconsistent. However, we considered it important to publish the best available qualitative and quantitative evidence about an established diagnostic instrument which had not been and will probably never be tested under the rigour of a multicentre RCT. We advise readers to take the heterogeneity of findings into account, and to regard pooled results as signposts rather than exact point estimates. The FAST examination always suffered from a paradox known as 'Buxton's Law' (<LINK REF="REF-Buxton-1987" TYPE="REFERENCE">Buxton 1987</LINK>), that is, it is always too early to rigorously evaluate a new technology (that is, until the turning point of the learning curve has been reached), until it is suddenly too late (that is, after almost all practitioners have adopted the method because of convenience, preference, or other reasons).</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2015-01-02 10:23:50 +0000" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2015-01-02 10:23:31 +0000" MODIFIED_BY="[Empty name]">
+<P>The current evidence from randomised trials focusing on patient-centred outcomes do not provide evidence to inform policy on the use of ultrasound-based clinical pathways in the initial diagnostic investigation of patients with blunt abdominal trauma. Given the low sensitivity of ultrasound as well as the increasing availability of point of care CT (also performed as a single-pass whole-body scan), clinical practice guidelines must be scrutinised for the value of ultrasound examinations within established trauma algorithms. Despite the proven lack of sensitivity, the results of this review suggest minor efficiency of ultrasonography in the trauma setting (that is, its impact on clinical decision making, and anticipated patient benefits).</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2015-01-02 10:23:50 +0000" MODIFIED_BY="[Empty name]">
+<P>Future trials on abdominal ultrasonography for trauma may investigate technical developments (like pre-hospital scans, contrast-enhanced imaging, or innovative hardware and software) which are likely to make a change in the structural and process quality of emergency departments and trauma bays worldwide. Abdominal ultrasound may not replace the CT scan in the 'regular' trauma setting but influence the triage procedure and play a significant role in mass casualties. Researchers are advised to study these scenarios rather than thinking of the 'ultimate RCT' aimed at proving the superiority of ultrasound-based over non-ultrasound based triage algorithms for trauma.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2015-06-23 17:46:23 +0100" MODIFIED_BY="[Empty name]">
+<P>We thank Professor Bernard R Boulanger, University of Kentucky, Lexington, Kentucky, USA and Dr O John Ma, Truman Medical Center, Kansas City, Missouri, USA for responding to our e-mails and for their willingness to provide unpublished data. We also thank Dr Steve Vance, Synergy Medical Education Alliance, Michigan State University Emergency Medicine Residency, Saginaw, MI, USA for his evidence-based emergency medicine review and subsequent response to a critical letter.</P>
+<P>The authors would like to thank Kai Bauwens, Jalid Sehouli, and Franz Porzsolt who contributed to previous versions of the review.</P>
+<P>This project was supported by the UK National Institute for Health Research, through Cochrane Infrastructure funding to the Cochrane Injuries Group. The views and opinions expressed are those of the authors and do not necessarily reflect those of the Systematic Reviews Programme, NIHR, NHS or the Department of Health.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2015-09-15 12:04:12 +0100" MODIFIED_BY="[Empty name]">
+<P>Dirk Stengel: None known.</P>
+<P>Claas Güthoff: None known.</P>
+<P>Grit Rademacher: None known.</P>
+<P>Sven Mutze: None known.</P>
+<P>Axel Ekkernkamp: None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2015-07-10 14:49:00 +0100" MODIFIED_BY="[Empty name]">
+<P>First two versions of the review (2005 and 2007): Dirk Stengel was the principal investigator of this study, identified relevant literature, extracted and summarised data, and wrote the manuscript. Kai Bauwens, Jalid Sehouli, and Franz Porzsolt assisted in literature retrieval and data extraction. Kai Bauwens co-reviewed eligible studies for methodological quality. Grit Rademacher, Sven Mutze, and Axel Ekkernkamp discussed core ideas, and contributed to data interpretation. All authors critically appraised the final version of this review.</P>
+<P>2008 and 2013 updates: Dirk Stengel and Claas Güthoff screened the updated search results. No new studies were identified.</P>
+<P>2015 revision: Dirk Stengel updated the manuscript. All authors participated in commenting upon and reviewing the changes, and agreed on the final version.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2015-06-23 18:05:53 +0100" MODIFIED_BY="[Empty name]">
+<P>2015 amendments: the objectives of the review have changed. Future updates of this review will include FAST ultrasound (performed by means of a four-quadrant, focused assessment of sonography for trauma (FAST), rather than any type of ultrasound (as per the original protocol).</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES MODIFIED="2015-06-23 18:05:55 +0100" MODIFIED_BY="[Empty name]">
+<P>2015 amendment: future updates of this review will include FAST ultrasound (performed by means of a four-quadrant, focused assessment of sonography for trauma (FAST), rather than any type of ultrasound (as per the original protocol).</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2015-08-14 17:39:08 +0100" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2015-08-14 17:39:08 +0100" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2015-06-30 11:42:35 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Arrillaga-1999" MODIFIED="2015-05-26 17:55:19 +0100" MODIFIED_BY="[Empty name]" NAME="Arrillaga 1999" YEAR="1999">
+<REFERENCE MODIFIED="2015-05-26 17:55:19 +0100" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;First author was sentenced to imprisonment in 1998&lt;/p&gt;" NOTES_MODIFIED="2015-05-26 17:55:19 +0100" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Arrillaga A, Graham R, York JW, Miller RS</AU>
+<TI>Increased efficiency and cost-effectiveness in the evaluation of the blunt abdominal trauma patient with the use of ultrasound</TI>
+<SO>The American Surgeon</SO>
+<YR>1999</YR>
+<VL>65</VL>
+<PG>31-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Boulanger-1999" MODIFIED="2015-05-26 17:55:24 +0100" MODIFIED_BY="[Empty name]" NAME="Boulanger 1999" YEAR="1999">
+<REFERENCE MODIFIED="2015-05-26 17:55:24 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Boulanger BR, McLellan BA, Brenneman FD, Ochoa J, Kirkpatrick AW</AU>
+<TI>Prospective evidence of the superiority of a sonography-based algorithm in the assessment of blunt abdominal injury</TI>
+<SO>Journal of Trauma</SO>
+<YR>1999</YR>
+<VL>47</VL>
+<PG>632-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Melniker-2006" NAME="Melniker 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Melniker L, Liebner E, Tiffany B, Lopez P, Quick G, Sharma M, et al</AU>
+<TI>Cost analysis of point-of-care, limited ultrasonography (PLUS) in trauma patients: the sonography outcomes assessment program (SOAP)-1 trial [Abstract]</TI>
+<SO>Academic Emergency Medicine</SO>
+<YR>2004</YR>
+<VL>11</VL>
+<PG>568</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Melniker LA, Leibner E, McKenney MG, Lopez P, Briggs WM, Mancuso CA</AU>
+<TI>Randomized controlled clinical trial of point-of-care, limited ultrasonography for trauma in the emergency department: the First Sonography Outcomes Assessment Program Trial</TI>
+<SO>Academic Emergency Medicine</SO>
+<YR>2006</YR>
+<VL>48</VL>
+<PG>227-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rose-2001" MODIFIED="2015-06-30 11:42:35 +0100" MODIFIED_BY="[Empty name]" NAME="Rose 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Hutson A</AU>
+<TI>Prospective randomized trial of ED ultrasound in blunt abdominal trauma. Does it really alter abdominal CT utilization?</TI>
+<SO>Society for Academic Emergency Medicine, Boston, USA</SO>
+<YR>1999</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2015-06-30 11:42:35 +0100" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Rose JS, Levitt A, Porter J, Hutson A, Greenholtz J, Nobay F, et al</AU>
+<TI>Does the presence of ultrasound really affect computed tomographic scan use? A prospective randomized trials of ultrasound in trauma</TI>
+<SO>Journal of Trauma</SO>
+<YR>2001</YR>
+<VL>51</VL>
+<PG>545-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2015-08-14 17:39:08 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Branney-1997" NAME="Branney 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Branney SW, Moore EW, Cantrill SV, Burch JM, Terry SJ</AU>
+<TI>Ultrasound based key clinical pathway reduces the use of hospital resources for the evaluation of blunt abdominal trauma</TI>
+<SO>Journal of Trauma</SO>
+<YR>1997</YR>
+<VL>42</VL>
+<PG>1086-90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Healey-1996" MODIFIED="2014-12-11 12:13:34 +0000" MODIFIED_BY="[Empty name]" NAME="Healey 1996" YEAR="1996">
+<REFERENCE MODIFIED="2014-12-11 12:13:34 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Healey MA, Simons RK, Winchell RJ, Gosink BB, Casola G, Steele JT, et al</AU>
+<TI>A prospective evaluation of abdominal ultrasound in blunt abdominal trauma: is it useful?</TI>
+<SO>Journal of Trauma</SO>
+<YR>1996</YR>
+<VL>40</VL>
+<PG>875-85</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hesse-1999" MODIFIED="2015-05-26 17:58:43 +0100" MODIFIED_BY="[Empty name]" NAME="Hesse 1999" YEAR="1999">
+<REFERENCE MODIFIED="2015-05-26 17:58:43 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Hesse S, Hörmann D, Klöppel R, Bennek J</AU>
+<TI>The influence of sonography on therapeutic decisions for children with blunt abdominal trauma</TI>
+<TO>Einfluß der Sonographie auf die Therapieentscheidung beim sumpfen Bauchtrauma im Kindesalter</TO>
+<SO>Deutscher Röntgenkongress, Wiesbaden</SO>
+<YR>1999</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="SOUGHT" ID="STD-Kumar-2014" MODIFIED="2015-08-14 17:39:08 +0100" MODIFIED_BY="[Empty name]" NAME="Kumar 2014" YEAR="2014">
+<REFERENCE MODIFIED="2015-08-14 17:21:33 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kumar S, Kumar A, Joshi MK, Rathi V</AU>
+<TI>Comparison of diagnostic peritoneal lavage and focused assessment by sonography in trauma as an adjunct to primary survey in torso trauma: a prospective randomized clinical trial</TI>
+<SO>Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma &amp; emergency surgery</SO>
+<YR>2014</YR>
+<VL>20</VL>
+<NO>2</NO>
+<PG>101-6</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="PUBMED" VALUE="24740335"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2015-08-14 17:39:03 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="CORRESPONDENCE">
+<AU>Sydenham E</AU>
+<TI>Interest in your DPL vs FAST study [personal communication]</TI>
+<SO>e-mail to M Joshi</SO>
+<YR>10 July 2015</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Ma-2005" MODIFIED="2014-12-15 12:45:41 +0000" MODIFIED_BY="[Empty name]" NAME="Ma 2005" YEAR="2005">
+<REFERENCE MODIFIED="2014-12-15 12:45:41 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ma OJ, Gaddis G, Steele MT, Cowan D, Kaltenbronn K</AU>
+<TI>Prospective analysis of the effect of physician experience with the FAST examination in reducing the use of CT Scans</TI>
+<SO>Emergency Medicine Australasia</SO>
+<YR>2005</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>24-30</PG>
+<IDENTIFIERS MODIFIED="2012-11-07 07:53:44 +0000" MODIFIED_BY="[Empty name]"/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-McKenney-2001" MODIFIED="2015-06-30 11:43:45 +0100" MODIFIED_BY="[Empty name]" NAME="McKenney 2001" YEAR="2001">
+<REFERENCE MODIFIED="2015-06-30 11:43:45 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>McKenney MG, McKenney KL, Hong JJ, Compton R, Cohn SM, Kirton OC, et al</AU>
+<TI>Evaluating blunt abdominal trauma with sonography: a cost analysis</TI>
+<SO>American Surgeon</SO>
+<YR>2001</YR>
+<VL>67</VL>
+<PG>930-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Navarrete_x002d_Navarro-1996" MODIFIED="2014-12-15 12:45:54 +0000" MODIFIED_BY="[Empty name]" NAME="Navarrete-Navarro 1996" YEAR="1996">
+<REFERENCE MODIFIED="2014-12-15 12:45:54 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Navarrete-Navarro P, Vázquez G, Bosch JM, Fernández E, Rivera R, Carazo E</AU>
+<TI>Computed tomography vs clinical and multidisciplinary procedures for early evaluation of severe abdomen and chest trauma- a cost analysis approach</TI>
+<SO>Intensive Care Medicine</SO>
+<YR>1996</YR>
+<VL>22</VL>
+<PG>208-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2015-08-14 17:21:33 +0100" MODIFIED_BY="[Empty name]"/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2015-06-30 11:48:12 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2015-06-30 11:48:12 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Bhullar-2012" MODIFIED="2015-06-30 11:44:34 +0100" MODIFIED_BY="[Empty name]" NAME="Bhullar 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Bhullar IS, Frykberg ER, Siragusa D, Chesire D, Paul J, Tepas JJ 3rd, et al</AU>
+<TI>Selective angiographic embolization of blunt splenic traumatic injuries in adults decreases failure rate of nonoperative management</TI>
+<SO>Journal of Trauma and Acute Care Surgery</SO>
+<YR>2012</YR>
+<VL>72</VL>
+<NO>5</NO>
+<PG>1127-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brockamp-2012" MODIFIED="2015-01-02 07:39:59 +0000" MODIFIED_BY="[Empty name]" NAME="Brockamp 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Brockamp T, Nienaber U, Mutschler M, Wafaisade A, Peiniger S, Lefering R, et al</AU>
+<TI>Predicting on-going hemorrhage and transfusion requirement after severe trauma: a validation of six scoring systems and algorithms on the TraumaRegister DGU</TI>
+<SO>Critical Care</SO>
+<YR>2012</YR>
+<VL>16</VL>
+<NO>4</NO>
+<PG>R129</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Buxton-1987" MODIFIED="2015-01-02 07:38:39 +0000" MODIFIED_BY="[Empty name]" NAME="Buxton 1987" TYPE="OTHER">
+<AU>Buxton MJ</AU>
+<TI>Problems in the economic appraisal of new health technology: the evaluation of heart transplants in the UK</TI>
+<SO>Economic appraisal of health technology in the European Community</SO>
+<YR>1987</YR>
+<PG>103-18</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cagini-2013" MODIFIED="2015-01-02 07:39:29 +0000" MODIFIED_BY="[Empty name]" NAME="Cagini 2013" TYPE="JOURNAL_ARTICLE">
+<AU>Cagini L, Gravante S, Malaspina CM, Caesarano E, Giganti M, Rebonato A, et al</AU>
+<TI>Contrast enhanced ultrasound (CEUS) in blunt abdominal trauma</TI>
+<SO>Critical Ultrasound Journal</SO>
+<YR>2013</YR>
+<VL>5 Suppl 1</VL>
+<PG>9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cirocchi-2013" MODIFIED="2015-06-30 11:38:33 +0100" MODIFIED_BY="[Empty name]" NAME="Cirocchi 2013" TYPE="COCHRANE_REVIEW">
+<AU>Cirocchi R, Montedori A, Farinella E, Bonacini I, Tagliabue L, Abraha I</AU>
+<TI>Damage control surgery for abdominal trauma</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2013</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2015-06-30 11:38:33 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2015-06-30 11:35:51 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD007438.pub3"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Cohen-2012" MODIFIED="2013-05-23 09:37:34 +0100" MODIFIED_BY="[Empty name]" NAME="Cohen 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Cohen MJ</AU>
+<TI>Towards hemostatic resuscitation: the changing understanding of acute traumatic biology, massive bleeding, and damage-control resuscitation</TI>
+<SO>Surgical Clinics of North America</SO>
+<YR>2012</YR>
+<VL>92</VL>
+<NO>4</NO>
+<PG>877-91</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Curry-2011" MODIFIED="2013-05-23 09:05:17 +0100" MODIFIED_BY="[Empty name]" NAME="Curry 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Curry N, Hopewell S, Dorée C, Hyde C, Brohi K, Stanworth S</AU>
+<TI>The acute management of trauma hemorrhage: a systematic review of randomized controlled trials</TI>
+<SO>Critical Care</SO>
+<YR>2011</YR>
+<VL>15</VL>
+<NO>2</NO>
+<PG>R92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Curry-2012" MODIFIED="2013-05-23 09:36:04 +0100" MODIFIED_BY="[Empty name]" NAME="Curry 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Curry N, Davis PW</AU>
+<TI>What's new in resuscitation strategies for the patient with multiple trauma?</TI>
+<SO>Injury</SO>
+<YR>2012</YR>
+<VL>43</VL>
+<NO>7</NO>
+<PG>1021-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Demetriades-2006" MODIFIED="2015-06-30 11:45:05 +0100" MODIFIED_BY="[Empty name]" NAME="Demetriades 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Demetriades D, Hadjizacharia P, Constantinou C, Brown C, Inaba K, Rhee P, et al</AU>
+<TI>Selective nonoperative management of penetrating abdominal solid organ injuries</TI>
+<SO>Annals of Surgery</SO>
+<YR>2006</YR>
+<VL>244</VL>
+<NO>4</NO>
+<PG>620-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-DGU-2011" MODIFIED="2015-06-30 11:38:56 +0100" MODIFIED_BY="[Empty name]" NAME="DGU 2011" TYPE="OTHER">
+<AU>German Trauma Society (DGU)</AU>
+<TI>S3 &#8211; Guideline on Treatment of Patients with Severe and Multiple Injuries</TI>
+<SO>http://www.awmf.org/leitlinien/detail/ll/012-019.html</SO>
+<YR>2011</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Evans-2010" MODIFIED="2013-05-23 08:57:09 +0100" MODIFIED_BY="[Empty name]" NAME="Evans 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Evans JA, van Wessem KJ, McDougall D, Lee KA, Lyons T, Balogh ZJ</AU>
+<TI>Epidemiology of traumatic deaths: comprehensive population-based assessment</TI>
+<SO>World Journal of Surgery</SO>
+<YR>2010</YR>
+<VL>34</VL>
+<NO>1</NO>
+<PG>158-63</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fryback-1991" MODIFIED="2013-10-08 22:37:10 +0100" MODIFIED_BY="[Empty name]" NAME="Fryback 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Fryback DG, Thornbury JR</AU>
+<TI>The efficacy of diagnostic imaging</TI>
+<SO>Medical Decision Making</SO>
+<YR>1991</YR>
+<VL>11</VL>
+<PG>88-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Griffin-2007" MODIFIED="2013-05-23 11:04:15 +0100" MODIFIED_BY="[Empty name]" NAME="Griffin 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Griffin XL, Pullinger R</AU>
+<TI>Are diagnostic peritoneal lavage or focused abdominal sonography for trauma safe screening investigations for hemodynamically stable patients after blunt abdominal trauma? A review of the literature</TI>
+<SO>Journal of Trauma</SO>
+<YR>2007</YR>
+<VL>62</VL>
+<NO>3</NO>
+<PG>779-84</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gruen-2012" MODIFIED="2015-06-30 11:45:24 +0100" MODIFIED_BY="[Empty name]" NAME="Gruen 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Gruen RL, Brohi K, Schreiber M, Balogh ZJ, Pitt V, Narayan M, et al</AU>
+<TI>Haemorrhage control in severely injured patients</TI>
+<SO>Lancet</SO>
+<YR>2012</YR>
+<VL>380</VL>
+<NO>9847</NO>
+<PG>1099-108</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hasler-2012" MODIFIED="2015-06-30 11:45:43 +0100" MODIFIED_BY="[Empty name]" NAME="Hasler 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Hasler RM, Kehl C, Exadaktylos AK, Albrecht R, Dubler S, Greif R, et al</AU>
+<TI>Accuracy of prehospital diagnosis and triage of a Swiss helicopter emergency medical service</TI>
+<SO>Journal of Trauma and Acute Care Surgery</SO>
+<YR>2012</YR>
+<VL>73</VL>
+<NO>3</NO>
+<PG>709-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hoff-2002" MODIFIED="2015-01-02 07:41:53 +0000" MODIFIED_BY="[Empty name]" NAME="Hoff 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Hoff WS, Holevar M, Nagy KK, Patterson L, Young JS, Arrillaga A, et al</AU>
+<TI>Practice Management Guidelines for the Evaluation of Blunt Abdominal Trauma: The EAST Practice Management Guidelines Work Group</TI>
+<SO>Journal of Trauma</SO>
+<YR>2002</YR>
+<VL>53</VL>
+<NO>9</NO>
+<PG>602-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Holcomb-2007" MODIFIED="2015-01-02 07:42:46 +0000" MODIFIED_BY="[Empty name]" NAME="Holcomb 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Holcomb JB, Jenkins D, Rhee P, Johannigman J, Mahoney P, Mehta S, et al</AU>
+<TI>Damage control resuscitation: directly addressing the early coagulopathy of trauma</TI>
+<SO>Journal of Trauma</SO>
+<YR>2007</YR>
+<VL>62</VL>
+<NO>2</NO>
+<PG>307-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hoyer-2010" MODIFIED="2015-01-02 07:43:16 +0000" MODIFIED_BY="[Empty name]" NAME="Hoyer 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Hoyer HX, Vogl S, Schiemann U, Haug A, Stolpe E, Michalski T</AU>
+<TI>Prehospital ultrasound in emergency medicine: incidence, feasibility, indications and diagnoses</TI>
+<SO>European Journal of Emergency Medicine</SO>
+<YR>2010</YR>
+<VL>17</VL>
+<NO>5</NO>
+<PG>254-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Huber_x002d_Wagner-2009" MODIFIED="2015-01-02 07:43:48 +0000" MODIFIED_BY="[Empty name]" NAME="Huber-Wagner 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Huber-Wagner S, Lefering R, Qvick LM, Körner M, Kay MV, Pfeifer KJ, et al; Working Group on Polytrauma of the German Trauma Society</AU>
+<TI>Effect of whole-body CT during trauma resuscitation on survival: a retrospective, multicentre study</TI>
+<SO>Lancet</SO>
+<YR>2009</YR>
+<VL>373</VL>
+<NO>9673</NO>
+<PG>1455-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Huber_x002d_Wagner-2013" MODIFIED="2015-01-02 07:44:18 +0000" MODIFIED_BY="[Empty name]" NAME="Huber-Wagner 2013" TYPE="JOURNAL_ARTICLE">
+<AU>Huber-Wagner S, Biberthaler P, Häberle S, Wierer M, Dobritz M, Rummeny E, et al</AU>
+<TI>Whole-body CT in haemodynamically unstable severely injured patients- a retrospective, multicentre study</TI>
+<SO>PLoS One</SO>
+<YR>2013</YR>
+<VL>8</VL>
+<NO>7</NO>
+<PG>e68880</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hui-2009" MODIFIED="2015-01-02 07:44:44 +0000" MODIFIED_BY="[Empty name]" NAME="Hui 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Hui CM, MacGregor JH, Tien HC, Kortbeek JB</AU>
+<TI>Radiation dose from initial trauma assessment and resuscitation: review of the literature</TI>
+<SO>Canadian Journal of Surgery</SO>
+<YR>2009</YR>
+<VL>52</VL>
+<NO>2</NO>
+<PG>147-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Keel-2005" MODIFIED="2013-05-23 09:11:01 +0100" MODIFIED_BY="[Empty name]" NAME="Keel 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Keel M, Trentz O</AU>
+<TI>Pathophysiology of polytrauma</TI>
+<SO>Injury</SO>
+<YR>2005</YR>
+<VL>36</VL>
+<NO>6</NO>
+<PG>691-709</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ker-2012" MODIFIED="2013-05-23 09:07:12 +0100" MODIFIED_BY="[Empty name]" NAME="Ker 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Ker K, Kiriya J, Perel P, Edwards P, Shakur H, Roberts I</AU>
+<TI>Avoidable mortality from giving tranexamic acid to bleeding trauma patients: an estimation based on WHO mortality data, a systematic literature review and data from the CRASH-2 trial</TI>
+<SO>BMC Emergency Medicine</SO>
+<YR>2012</YR>
+<VL>12</VL>
+<NO>3</NO>
+<PG>3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kirkpatrick-2008" MODIFIED="2013-05-23 09:09:25 +0100" MODIFIED_BY="[Empty name]" NAME="Kirkpatrick 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Kirkpatrick AW, Ball CG, D'Amours SK, Zygun D</AU>
+<TI>Acute resuscitation of the unstable adult trauma patient: bedside diagnosis and therapy</TI>
+<SO>Canadian Journal of Surgery</SO>
+<YR>2008</YR>
+<VL>51</VL>
+<NO>1</NO>
+<PG>57-69</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Livingston-1998" MODIFIED="2015-06-30 11:46:25 +0100" MODIFIED_BY="[Empty name]" NAME="Livingston 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Livingston DH, Lavery RF, Passanante MR, Skurnick JH, Fabian TC, Fry DE, et al</AU>
+<TI>Admission or observation is not necessary after a negative computed tomographic scan in patients with suspected blunt abdominal trauma</TI>
+<SO>Journal of Trauma</SO>
+<YR>1998</YR>
+<VL>44</VL>
+<NO>2</NO>
+<PG>273-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lozano-2012" MODIFIED="2015-01-02 07:45:20 +0000" MODIFIED_BY="[Empty name]" NAME="Lozano 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Lozano R, Naghavi M, Foreman K, Lim S, Shibuya K, Aboyans V, et al</AU>
+<TI>Global and regional mortality from 235 causes of death for 20 age groups in 1990 and 2010: a systematic analysis for the Global Burden of Disease Study 2010</TI>
+<SO>Lancet</SO>
+<YR>2012</YR>
+<VL>380</VL>
+<NO>9859</NO>
+<PG>2095-128</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Maegele-2012" MODIFIED="2013-05-22 15:08:46 +0100" MODIFIED_BY="[Empty name]" NAME="Maegele 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Maegele M, Spinella PC, Schöchl H</AU>
+<TI>The acute coagulopathy of trauma: mechanisms and tools for risk stratification</TI>
+<SO>Shock</SO>
+<YR>2012</YR>
+<VL>38</VL>
+<NO>5</NO>
+<PG>450-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Malhotra-2000" MODIFIED="2015-06-30 11:46:42 +0100" MODIFIED_BY="[Empty name]" NAME="Malhotra 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Malhotra AK, Fabian TC, Croce MA, Gavin TJ, Kudsk KA, Minard G, et al</AU>
+<TI>Blunt hepatic injury: a paradigm shift from operative to nonoperative management in the 1990s</TI>
+<SO>Annals of Surgery</SO>
+<YR>2000</YR>
+<VL>231</VL>
+<NO>6</NO>
+<PG>804-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Miller-2003" NAME="Miller 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Miller MT, Pasquale MD, Bromberg WJ, Wasser, Cox J</AU>
+<TI>Not so FAST</TI>
+<SO>Journal of Trauma</SO>
+<YR>2003</YR>
+<VL>54</VL>
+<NO>1</NO>
+<PG>52-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Morrison-1996" NAME="Morrison 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Morrison JE, Wisner DH, Bodai BI</AU>
+<TI>Complications after negative laparotomy for trauma: long-term follow-up in a health maintenance organization</TI>
+<SO>Journal of Trauma</SO>
+<YR>1996</YR>
+<VL>41</VL>
+<NO>3</NO>
+<PG>509-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Murray-2012" MODIFIED="2015-01-02 07:46:07 +0000" MODIFIED_BY="[Empty name]" NAME="Murray 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Murray CJ, Vos T, Naghavi M, Flaxman AD, Michaud C, Ezzati M, et al</AU>
+<TI>Disability-adjusted life years (DALYs) for 291 diseases and injuries in 21 regions, 1990-2010: a systematic analysis for the Global Burden of Disease Study 2010</TI>
+<SO>Lancet</SO>
+<YR>2012</YR>
+<VL>380</VL>
+<NO>9859</NO>
+<PG>2197-223</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nishijima-2012" MODIFIED="2013-05-22 09:12:11 +0100" MODIFIED_BY="[Empty name]" NAME="Nishijima 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Nishijima DK, Simel DL, Wisner DH, Holmes JF</AU>
+<TI>Does this adult patient have a blunt intra-abdominal injury?</TI>
+<SO>JAMA</SO>
+<YR>2012</YR>
+<VL>307</VL>
+<NO>14</NO>
+<PG>1517-27</PG>
+<IDENTIFIERS MODIFIED="2013-05-22 09:12:06 +0100" MODIFIED_BY="[Empty name]"/>
+</REFERENCE>
+<REFERENCE ID="REF-Nunes-2001" MODIFIED="2015-01-02 07:46:42 +0000" MODIFIED_BY="[Empty name]" NAME="Nunes 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Nunes LW, Simmons S, Hallowell MJ, Kinback R, Trooskin S, Kozar R</AU>
+<TI>Diagnostic performance of trauma US in identifying abdominal or pelvic free fluid and serious abdominal or pelvic injury</TI>
+<SO>Academic Radiology</SO>
+<YR>2001</YR>
+<VL>8</VL>
+<NO>2</NO>
+<PG>128-36</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Oyo_x002d_Ita-2012" MODIFIED="2015-06-30 11:41:20 +0100" MODIFIED_BY="[Empty name]" NAME="Oyo-Ita 2012" TYPE="COCHRANE_REVIEW">
+<AU>Oyo-Ita A, Ugare UG, Ikpeme IA</AU>
+<TI>Surgical versus non-surgical management of abdominal injury</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2012</YR>
+<NO>11</NO>
+<IDENTIFIERS MODIFIED="2015-06-30 11:41:20 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2015-06-30 11:41:20 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD007383.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Peden-2010" MODIFIED="2013-05-22 14:53:43 +0100" MODIFIED_BY="[Empty name]" NAME="Peden 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Peden M</AU>
+<TI>UN General Assembly calls for decade of action for road safety</TI>
+<SO>Injury Prevention</SO>
+<YR>2010</YR>
+<VL>16</VL>
+<NO>3</NO>
+<PG>213</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pfeifer-2009" MODIFIED="2013-05-23 09:03:45 +0100" MODIFIED_BY="[Empty name]" NAME="Pfeifer 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Pfeifer R, Tarkin IS, Rocos B, Pape HC</AU>
+<TI>Patterns of mortality and causes of death in polytrauma patients--has anything changed?</TI>
+<SO>Injury</SO>
+<YR>2009</YR>
+<VL>40</VL>
+<NO>9</NO>
+<PG>907-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rademacher-2001" NAME="Rademacher 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Rademacher G, Stengel D, Siegmann S, Petersein J, Mutze S</AU>
+<TI>Optimization of contrast agent volume for helical CT in the diagnostic assessment of patients with severe and multiple injuries</TI>
+<SO>Journal of Computer Assisted Tomography</SO>
+<YR>2001</YR>
+<VL>26</VL>
+<NO>1</NO>
+<PG>113-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Raza-2013" MODIFIED="2013-05-24 09:13:35 +0100" MODIFIED_BY="[Empty name]" NAME="Raza 2013" TYPE="JOURNAL_ARTICLE">
+<AU>Raza M, Abbas Y, Devi V, Prasad KV, Rizk KN, Nair PP</AU>
+<TI>Non operative management of abdominal trauma -- a 10 years review</TI>
+<SO>World Journal of Emergency Surgery</SO>
+<YR>2013</YR>
+<VL>8</VL>
+<NO>1</NO>
+<PG>14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Scalea-1999" MODIFIED="2015-01-02 07:47:24 +0000" MODIFIED_BY="[Empty name]" NAME="Scalea 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Scalea TM, Rodriguez A, Chiu WC, Brenneman FD, Fallon WF, Kato K, et al</AU>
+<TI>Focused assessment with sonography for trauma (FAST): results from an international consensus conference</TI>
+<SO>Journal of Trauma</SO>
+<YR>1999</YR>
+<VL>46</VL>
+<NO>3</NO>
+<PG>466-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Soto-2012" MODIFIED="2013-05-23 12:28:17 +0100" MODIFIED_BY="[Empty name]" NAME="Soto 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Soto JA, Anderson SW</AU>
+<TI>Multidetector CT of blunt abdominal trauma</TI>
+<SO>Radiology</SO>
+<YR>2012</YR>
+<VL>265</VL>
+<NO>3</NO>
+<PG>678-93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stengel-2001" MODIFIED="2015-06-30 11:47:29 +0100" MODIFIED_BY="[Empty name]" NAME="Stengel 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Stengel D, Bauwens K, Sehouli J, Porzsolt F, Rademacher G, Mutze S, et al</AU>
+<TI>Systematic review and meta-analysis of emergency ultrasonography for blunt abdominal trauma</TI>
+<SO>British Journal of Surgery</SO>
+<YR>2001</YR>
+<VL>88</VL>
+<NO>7</NO>
+<PG>901-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stengel-2005" MODIFIED="2013-05-22 10:07:35 +0100" MODIFIED_BY="[Empty name]" NAME="Stengel 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Stengel D, Bauwens K, Rademacher G, Mutze S, Ekkernkamp A</AU>
+<TI>Association between compliance with methodological standards of diagnostic research and reported test accuracy: meta-analysis of focused assessment of US for trauma</TI>
+<SO>Radiology</SO>
+<YR>2005</YR>
+<VL>236</VL>
+<NO>1</NO>
+<PG>102-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stengel-2009" MODIFIED="2015-01-02 07:48:35 +0000" MODIFIED_BY="[Empty name]" NAME="Stengel 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Stengel D, Frank M, Matthes G, Schmucker U, Seifert J, Mutze S, et al</AU>
+<TI>Primary pan-computed tomography for blunt multiple trauma: can the whole be better than its parts?</TI>
+<SO>Injury</SO>
+<YR>2009</YR>
+<VL>40 Suppl 4</VL>
+<PG>S36-46</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stengel-2012" MODIFIED="2015-01-02 07:48:52 +0000" MODIFIED_BY="[Empty name]" NAME="Stengel 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Stengel D, Ottersbach C, Matthes G, Weigeldt M, Grundei S, Rademacher G, et al</AU>
+<TI>Accuracy of single-pass whole-body computed tomography for detection of injuries in patients with major blunt trauma</TI>
+<SO>Canadian Medical Association Journal</SO>
+<YR>2012</YR>
+<VL>184</VL>
+<NO>8</NO>
+<PG>869-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-van-der-Vlies-2010" MODIFIED="2013-05-24 09:15:47 +0100" MODIFIED_BY="[Empty name]" NAME="van der Vlies 2010" TYPE="JOURNAL_ARTICLE">
+<AU>vam der Vlies CH, van Delden OM, Punt BJ, Ponsen KJ, Reekers JA, Goslings JC</AU>
+<TI>Literature review of the role of ultrasound, computed tomography, and transcatheter arterial embolization for the treatment of traumatic splenic injuries</TI>
+<SO>Cardiovascular and Interventional Radiology</SO>
+<YR>2010</YR>
+<VL>33</VL>
+<NO>6</NO>
+<PG>1079-87</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-van-der-Wilden-2012" MODIFIED="2015-01-02 07:49:47 +0000" MODIFIED_BY="[Empty name]" NAME="van der Wilden 2012" TYPE="JOURNAL_ARTICLE">
+<AU>van der Wilden GM, Velmahos GC, Emhoff T, Brancato S, Adams C, Georgakis G, et al</AU>
+<TI>Successful nonoperative management of the most severe blunt liver injuries: a multicenter study of the research consortium of new England centers for trauma</TI>
+<SO>Archives of Surgery</SO>
+<YR>2012</YR>
+<VL>147</VL>
+<NO>5</NO>
+<PG>423-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Vance-2007" NAME="Vance 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Vance S</AU>
+<TI>Evidence-based emergency medicine/systematic review abstract. The FAST scan: are we improving care of the trauma patient?</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>2007</YR>
+<VL>49</VL>
+<PG>364-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Velmahos-2010" MODIFIED="2015-01-02 07:50:19 +0000" MODIFIED_BY="[Empty name]" NAME="Velmahos 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Velmahos GC, Zacharias N, Emhoff TA, Feeney JM, Hurst JM, Crookes BA, et al</AU>
+<TI>Management of the most severely injured spleen: a multicenter study of the Research Consortium of New England Centers for Trauma (ReCONECT)</TI>
+<SO>Archives of Surgery</SO>
+<YR>2010</YR>
+<VL>145</VL>
+<NO>5</NO>
+<PG>456-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yoshii-1998" MODIFIED="2015-06-30 11:48:12 +0100" MODIFIED_BY="[Empty name]" NAME="Yoshii 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Yoshii H, Sato M, Yamamoto S, Motegi M, Okusawa S, Kitano M, et al</AU>
+<TI>Usefulness and limitations of ultrasonography in the initial evaluation of blunt abdominal trauma</TI>
+<SO>Journal of Trauma</SO>
+<YR>1998</YR>
+<VL>45</VL>
+<NO>1</NO>
+<PG>45-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2015-08-14 17:32:36 +0100" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2015-06-26 17:09:53 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2015-06-26 17:01:05 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Arrillaga-1999">
+<CHAR_METHODS MODIFIED="2015-06-26 17:00:44 +0100" MODIFIED_BY="[Empty name]">
+<P>Quasi-RCT (algorithm used was based on the daytime and weekday availability of ultrasound). Location: Community Hospital, Level-I-Trauma Center, South Carolina, USA. Recruitment period: 9 months</P>
+<P>Risk of bias assessment: <BR/>A. Adequacy of concealment: 0<BR/>B. Intention-to-treat: 0<BR/>C. Blinding: 0<BR/>D. Comparability of treatment groups at entry: 1<BR/>E. Comparability of care programmes: 0<BR/>F. Definition of inclusion and exclusion criteria: 1<BR/>G. Description of interventions: 1<BR/>H. Definition of outcomes: 2<BR/>I. Duration of surveillance: 0 (not defined)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2015-06-26 17:00:52 +0100" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria: consecutive patients with suspected blunt abdominal trauma. 331 enrolled (US 105, no US 226). US group: mean age 38.1 (SD 22.7) years, mean ISS 13.0 (SD 11.6), 62% males. No US group: mean age 33.6 (SD 18.6) years, mean ISS 13.4 (SD 9.7), 69% males</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2015-06-26 17:01:05 +0100" MODIFIED_BY="[Empty name]">
+<P>a. Clinical examination, focused ultrasound for free fluid, further management depended on sonograms and hemodynamic stability<BR/>b. Clinical examination, CT in stable and DPL in unstable patients</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2015-01-02 07:57:15 +0000" MODIFIED_BY="[Empty name]">
+<P>1. Number of diagnostic tests (CT, DPL)<BR/>2. Mortality<BR/>3. Morbidity (not specified)<BR/>4. Length of stay<BR/>5. Total costs</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2015-06-26 17:02:06 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Boulanger-1999">
+<CHAR_METHODS MODIFIED="2015-06-26 17:01:46 +0100" MODIFIED_BY="[Empty name]">
+<P>Quasi-RCT (algorithm used was determined by date of admission). Location: University Hospital, Kentucky, USA. Recruitment period: October 1995 to August 1997</P>
+<P>Risk of bias assessment: </P>
+<P>A. Adequacy of concealment: 0<BR/>B. Intention-to-treat: 1<BR/>C. Blinding: 0<BR/>D. Comparability of treatment groups at entry: 2<BR/>E. Comparability of care programmes: 0<BR/>F. Definition of inclusion and exclusion criteria: 2<BR/>G. Description of interventions: 2<BR/>H. Definition of outcomes: 2<BR/>I. Duration of surveillance: 1</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2015-01-02 07:32:53 +0000" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria: victims of blunt trauma, older than 16 years of age, resuscitated by trauma service, no clinical indication for laparotomy, unreliable or equivocal abdominal examination. 706 enrolled (US 460, no US 246)<BR/>US group: mean age 38.4 (SD 17.6) years, mean ISS 23.3 (SD 12.8), 73% males. No US group: mean age 40.2 (SD 18.2) years, mean ISS 22.8 (SD 11.3), 73% males</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2015-01-02 07:33:02 +0000" MODIFIED_BY="[Empty name]">
+<P>a. Clinical examination, focused ultrasound for free fluid, further management depended on sonograms and hemodynamical stability<BR/>b. Clinical examination, CT in stable and DPL in unstable participants</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2015-06-26 17:02:06 +0100" MODIFIED_BY="[Empty name]">
+<P>1. Time from arrival to the completion of diagnostic algorithm<BR/>2. Number of diagnostic tests performed (CT, DPL)<BR/>3. Mortality<BR/>4. Laparotomy rates<BR/>5. Diagnostic accuracy and number of significant injuries<BR/>6. Total cost of treatment</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2015-06-26 17:08:57 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Melniker-2006">
+<CHAR_METHODS MODIFIED="2015-06-26 17:08:57 +0100" MODIFIED_BY="[Empty name]">
+<P>RCT. Location - three level-1 trauma centres, New York Methodist Hospital, Maricopa Hospital, Phoenix, Jackson Memorial Hospital, Miami, USA</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2015-01-02 07:33:53 +0000" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria: patients presenting with any one of a mechanism of injury (energy reportedly delivered to the torso), symptomatology (complaint of chest, abdominal, or pelvic pain), or physical findings (chest, abdominal, or pelvic tenderness) suspicious of torso trauma<BR/>Exclusion criteria: patients or patient proxies who were unable to provide consent and those requiring immediate transfer to the operating suite were excluded</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>a. Diagnostic interventions that the initial evaluating physician, under ordinary circumstances, would use to evaluate torso trauma patients plus 4-view FAST assessment<BR/>b. Ordinary diagnostic interventions to evaluate torso trauma</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2015-01-02 07:34:27 +0000" MODIFIED_BY="[Empty name]">
+<P>1. Time from ED arrival to direct transfer to operative care in minutes (sample size calculations: 40% reduction, 90% power, alpha 5%)<BR/>2. Use of CT of the torso<BR/>3. Hospital length of stay in days<BR/>4. Composite complications (rate of haemorrhagic shock, septic shock, multisystem organ failure, or death) based on CPT or ICD codes found in the medical record<BR/>5. Total charges in 2003 USD</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2015-01-02 07:34:38 +0000" MODIFIED_BY="[Empty name]">
+<P>Of 525 patients screened, 81 went directly to OR, 136 lacked consent, 262 were randomised, and 217 were analysed</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2015-06-26 17:09:53 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Rose-2001">
+<CHAR_METHODS MODIFIED="2015-06-26 17:09:40 +0100" MODIFIED_BY="[Empty name]">
+<P>RCT. Location: University Hospital, California, USA. Recruitment period: November 1997 to November 1998</P>
+<P>Risk of bias assessment:<BR/>A. Adequacy of concealment: 1<BR/>B. Intention-to-treat: 1<BR/>C. Blinding: 0<BR/>D. Comparability of treatment groups at entry: 2<BR/>E. Comparability of care programmes: 1<BR/>F. Definition of inclusion and exclusion criteria: 2<BR/>G. Description of interventions: 2<BR/>H. Definition of outcomes: 2<BR/>I. Duration of surveillance: 1<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2015-01-02 07:35:54 +0000" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria: patients 18 to 75 years old meeting critical trauma triage criteria after blunt injury, defined by the American College of Surgeons Subcommittee of trauma. 212 randomised (US 105, no US 107), 208 analysed (4 dropped because of incomplete data). US group: mean age 40.0 (SD 19.5) years, mean ISS 9.9 (SD 12.4), 61% males. No US group: mean age 39.0 (SD 16.8) years, mean ISS 9.8 (SD 8.8), 63% males</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2015-06-26 17:09:53 +0100" MODIFIED_BY="[Empty name]">
+<P>a. Standard trauma management plus focused ultrasound for free fluid (none, small, moderate, large) with 15 minutes of arrival by experienced doctors<BR/>b. Standard trauma management</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2015-01-02 07:36:08 +0000" MODIFIED_BY="[Empty name]">
+<P>1. Difference in abdominal CT scan use (sample size calculations: 20% difference, 80% power, two-tailed alpha 5%)<BR/>2. 30-minute difference in time to laparotomy</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2015-01-02 07:36:15 +0000" MODIFIED_BY="[Empty name]">
+<P>Trial was stopped at 215 participants because US was recognised as standard practice and did not allow for further patient recruitment</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2015-08-14 17:32:36 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2015-01-02 07:36:31 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Branney-1997">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-01-02 07:36:31 +0000" MODIFIED_BY="[Empty name]">
+<P>Comparison of prospectively collected ultrasound data (August 1995 to October 1995) with a historical cohort admitted before instituting ultrasound-based clinical pathways (August 1994 to October 1994)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-01-02 07:36:35 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Healey-1996">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-01-02 07:36:35 +0000" MODIFIED_BY="[Empty name]">
+<P>Comparison of prospectively collected ultrasound data (May 1994 to August 1995) with a historical cohort admitted before instituting ultrasound-based clinical pathways</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-01-02 07:36:40 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Hesse-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-01-02 07:36:40 +0000" MODIFIED_BY="[Empty name]">
+<P>Comparison of prospectively collected ultrasound data (1990 to 1994) with a historical cohort admitted before instituting ultrasound-based clinical pathways (1986 to 1990)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-14 17:32:36 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Kumar-2014">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-14 17:32:36 +0100" MODIFIED_BY="[Empty name]">
+<P>The study included people with blunt or penetrating injuries, and there is no mention of concealment of the randomisation sequence. Correspondence with the author confirms the study was not registered</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-01-02 07:36:43 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Ma-2005">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-01-02 07:36:43 +0000" MODIFIED_BY="[Empty name]">
+<P>Comparison of ultrasound accuracy and the request of CT scans among physicians with minor, moderate and high skills in performing FAST</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-01-02 07:36:51 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-McKenney-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-01-02 07:36:51 +0000" MODIFIED_BY="[Empty name]">
+<P>Comparison of prospectively collected ultrasound data (January 1995 to June 1995) with a historical cohort admitted before instituting ultrasound-based clinical pathways (January 1993 to June 1993)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-01-02 07:36:54 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Navarrete_x002d_Navarro-1996">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-01-02 07:36:54 +0000" MODIFIED_BY="[Empty name]">
+<P>Trial intended to prove the superiority of computed tomography over multiple diagnostic interventions including ultrasound</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2015-08-14 17:21:33 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2015-01-02 07:36:19 +0000" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2015-01-02 07:36:19 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:54:09 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>Allocation according to admission date and time</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:57:51 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P>Allocation according to admission date</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2015-01-02 07:34:51 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>Randomisation in blocks of 50, stratified by centre</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2015-01-02 07:36:19 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>Randomisation in blocks of 30</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2013-05-30 18:02:56 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:54:24 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>Allocation according to admission date and time</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:58:13 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P>Allocation according to admission date</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-24 12:17:31 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>Sealed, opaque envelopes</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 18:02:56 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>Computer-generated method, but unclear concealment</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2013-05-30 18:03:13 +0100" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2013-05-30 17:54:45 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2013-05-30 17:58:58 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2013-05-30 18:00:08 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2013-05-30 18:03:13 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" MODIFIED="2013-05-30 18:03:29 +0100" MODIFIED_BY="[Empty name]" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-07.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-05-30 17:54:59 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-05-30 17:59:01 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-05-30 18:00:11 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-05-30 18:03:29 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" MODIFIED="2013-05-30 18:03:32 +0100" MODIFIED_BY="[Empty name]" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-08.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-05-30 17:55:03 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-05-30 17:59:03 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-05-30 18:00:14 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-05-30 18:03:32 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>No blinding attempted</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2015-01-02 07:35:07 +0000" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-05-30 17:56:23 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-05-30 17:59:20 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P> Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2015-01-02 07:35:07 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>According to the CONSORT flow chart, 111/135 (82%) PLUS and 106/127 (83%) control patients were included in the final analysis</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-05-30 18:03:45 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2013-05-30 18:03:49 +0100" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:56:28 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:59:24 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P> Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 18:00:25 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 18:03:49 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2013-05-30 18:03:54 +0100" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:56:36 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Arrillaga-1999">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 17:59:32 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Boulanger-1999">
+<DESCRIPTION>
+<P> Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 18:00:31 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Melniker-2006">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-05-30 18:03:54 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Rose-2001">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-04-28 13:57:19 +0100" MODIFIED_BY="Emma M Sydenham"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2015-06-23 17:20:03 +0100" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" MODIFIED="2013-08-17 07:48:12 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Mortality</NAME>
+<DICH_OUTCOME CHI2="9.69420979517729" CI_END="1.999727470290936" CI_START="0.5017919711500516" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="RR" EFFECT_SIZE="1.001722111705734" ESTIMABLE="YES" EVENTS_1="91" EVENTS_2="76" I2="79.36912814704127" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.3009708125572003" LOG_CI_START="-0.29947629183193875" LOG_EFFECT_SIZE="7.472603626307927E-4" METHOD="MH" MODIFIED="2013-08-17 07:48:12 +0100" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.007851084967814947" P_Q="1.0" P_Z="0.9961076344766293" Q="0.0" RANDOM="YES" SCALE="1000.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.28828388522802134" TOTALS="YES" TOTAL_1="676" TOTAL_2="578" WEIGHT="100.00000000000003" Z="0.004878376087168316">
+<NAME>Relative risk of mortality</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.375747375894369" CI_START="0.6577587826799479" EFFECT_SIZE="1.4901098901098901" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="13" LOG_CI_END="0.5283699387355589" LOG_CI_START="-0.18193334431565708" LOG_EFFECT_SIZE="0.17321829720995097" ORDER="26423" O_E="0.0" SE="0.41723566452224164" STUDY_ID="STD-Arrillaga-1999" TOTAL_1="105" TOTAL_2="226" VAR="0.17408559974931656" WEIGHT="26.905158165967404"/>
+<DICH_DATA CI_END="2.164949036257794" CI_START="0.8692710670532803" EFFECT_SIZE="1.3718336483931948" ESTIMABLE="YES" EVENTS_1="59" EVENTS_2="23" LOG_CI_END="0.33544767734872466" LOG_CI_START="-0.060844775256011896" LOG_EFFECT_SIZE="0.13730145104635638" ORDER="26424" O_E="0.0" SE="0.23278414833930022" STUDY_ID="STD-Boulanger-1999" TOTAL_1="460" TOTAL_2="246" VAR="0.054188459718053326" WEIGHT="36.32446329758677"/>
+<DICH_DATA CI_END="0.851240619085335" CI_START="0.35420046209192546" EFFECT_SIZE="0.5490990990990992" ESTIMABLE="YES" EVENTS_1="23" EVENTS_2="40" LOG_CI_END="-0.06994766110197534" LOG_CI_START="-0.4507508765625379" LOG_EFFECT_SIZE="-0.2603492688322567" ORDER="26425" O_E="0.0" SE="0.223685693767852" STUDY_ID="STD-Melniker-2006" TOTAL_1="111" TOTAL_2="106" VAR="0.05003528959640526" WEIGHT="36.77037853644585"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" MODIFIED="2013-08-09 10:27:37 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Use of computed tomography (CT)</NAME>
+<DICH_OUTCOME CHI2="190.19835204125928" CI_END="-0.2143216324885981" CI_START="-0.8265710105984267" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.5204463215435124" ESTIMABLE="YES" EVENTS_1="210" EVENTS_2="587" I2="98.42269926747356" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="NaN" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" MODIFIED="2013-08-09 10:27:37 +0100" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="-8.881784197001252E-16" P_Q="1.0" P_Z="8.617509908081544E-4" Q="0.0" RANDOM="YES" SCALE="1.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0951431626247785" TOTALS="YES" TOTAL_1="780" TOTAL_2="682" WEIGHT="100.0" Z="3.332158700628859">
+<NAME>Difference in CT frequency</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<DICH_DATA CI_END="-0.8454260252015273" CI_START="-0.9565967308035295" EFFECT_SIZE="-0.9010113780025284" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="223" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26426" O_E="0.0" SE="0.028360395006975268" STUDY_ID="STD-Arrillaga-1999" TOTAL_1="105" TOTAL_2="226" VAR="8.043120049516676E-4" WEIGHT="25.425352545170096"/>
+<DICH_DATA CI_END="-0.6209072687708486" CI_START="-0.7257523282599045" EFFECT_SIZE="-0.6733297985153766" ESTIMABLE="YES" EVENTS_1="111" EVENTS_2="225" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26427" O_E="0.0" SE="0.02674668012169112" STUDY_ID="STD-Boulanger-1999" TOTAL_1="460" TOTAL_2="246" VAR="7.15384897532067E-4" WEIGHT="25.448939414733704"/>
+<DICH_DATA CI_END="-0.2044441041893097" CI_START="-0.4443745257613958" EFFECT_SIZE="-0.32440931497535275" ESTIMABLE="YES" EVENTS_1="53" EVENTS_2="85" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26428" O_E="0.0" SE="0.0612078649058418" STUDY_ID="STD-Melniker-2006" TOTAL_1="111" TOTAL_2="106" VAR="0.00374640272633178" WEIGHT="24.668915872146297"/>
+<DICH_DATA CI_END="-0.03047091022914089" CI_START="-0.2964521666939361" EFFECT_SIZE="-0.1634615384615385" ESTIMABLE="YES" EVENTS_1="37" EVENTS_2="54" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26429" O_E="0.0" SE="0.06785360816903305" STUDY_ID="STD-Rose-2001" TOTAL_1="104" TOTAL_2="104" VAR="0.004604112141556668" WEIGHT="24.456792167949907"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" MODIFIED="2015-06-23 17:18:04 +0100" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Use of diagnostic peritoneal lavage (DPL)</NAME>
+<DICH_OUTCOME CHI2="1.57122390870717" CI_END="-0.022724466895908978" CI_START="-0.09482477546776819" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.058774621181838585" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="36" I2="36.35534728956504" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="NaN" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" MODIFIED="2015-06-23 17:18:04 +0100" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.21002940540313975" P_Q="1.0" P_Z="0.0013961733020399732" Q="0.0" RANDOM="YES" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="2.511349641072276E-4" TOTALS="YES" TOTAL_1="565" TOTAL_2="472" WEIGHT="100.0" Z="3.1954409905632426">
+<NAME>Difference in DPL frequency</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.007682833525606177" CI_START="-0.08328333921460745" EFFECT_SIZE="-0.03780025284450064" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="15" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26430" O_E="0.0" SE="0.02320608272849481" STUDY_ID="STD-Arrillaga-1999" TOTAL_1="105" TOTAL_2="226" VAR="5.38522275601745E-4" WEIGHT="42.84295838415917"/>
+<DICH_DATA CI_END="-0.03831570238137928" CI_START="-0.11067687450091128" EFFECT_SIZE="-0.07449628844114528" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="21" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" MODIFIED="2015-06-23 17:18:04 +0100" MODIFIED_BY="[Empty name]" ORDER="26431" O_E="0.0" SE="0.01845982188711315" STUDY_ID="STD-Boulanger-1999" TOTAL_1="460" TOTAL_2="246" VAR="3.407650241039418E-4" WEIGHT="57.15704161584084"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-004" NO="4">
+<NAME>Cost-effectiveness</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-356.7034870637623" CI_START="-411.2965129362377" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-384.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-004.01" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="YES" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="NaN" TOTALS="SUB" TOTAL_1="460" TOTAL_2="246" UNITS="" WEIGHT="0.0" Z="27.572246016238413">
+<NAME>Direct costs per patient (US$)</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-356.7034870637623" CI_START="-411.2965129362377" EFFECT_SIZE="-384.0" ESTIMABLE="YES" MEAN_1="156.0" MEAN_2="540.0" ORDER="26432" SD_1="244.0" SD_2="126.0" SE="13.927048227186384" STUDY_ID="STD-Boulanger-1999" TOTAL_1="460" TOTAL_2="246" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-005" MODIFIED="2015-06-23 17:20:03 +0100" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Laparotomy</NAME>
+<DICH_OUTCOME CHI2="1.8999256537201912" CI_END="0.043361546237716465" CI_START="-0.0435467086540566" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="RD" EFFECT_SIZE="-9.25812081700692E-5" ESTIMABLE="YES" EVENTS_1="76" EVENTS_2="104" I2="0.0" I2_Q="0.0" ID="CMP-005.01" LOG_CI_END="-1.3628952396030907" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" MODIFIED="2015-06-23 17:20:03 +0100" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.38675546986697573" P_Q="1.0" P_Z="0.9966682017128152" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="461" TOTAL_2="670" WEIGHT="100.0" Z="0.004175802031337717">
+<NAME>Laparotomy rate</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.0611548265323786" CI_START="-0.04616719839522767" EFFECT_SIZE="0.007493814068575466" ESTIMABLE="YES" EVENTS_1="35" EVENTS_2="62" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26433" O_E="0.0" SE="0.027378570671233938" STUDY_ID="STD-Boulanger-1999" TOTAL_1="246" TOTAL_2="460" VAR="7.495861319997512E-4" WEIGHT="60.142810187459794"/>
+<DICH_DATA CI_END="0.0612339796939364" CI_START="-0.180220891133678" EFFECT_SIZE="-0.0594934557198708" ESTIMABLE="YES" EVENTS_1="29" EVENTS_2="34" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26434" O_E="0.0" SE="0.06159676216812646" STUDY_ID="STD-Melniker-2006" TOTAL_1="111" TOTAL_2="106" VAR="0.0037941611095967344" WEIGHT="20.34532300799774"/>
+<DICH_DATA CI_END="0.11841752832786605" CI_START="-0.04149445140478912" EFFECT_SIZE="0.038461538461538464" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="8" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="26435" O_E="0.0" SE="0.04079462199153159" STUDY_ID="STD-Rose-2001" TOTAL_1="104" TOTAL_2="104" VAR="0.0016642011834319525" WEIGHT="19.511866804542453"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-006" NO="6">
+<NAME>Reduction in diagnostic time</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-006.01" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="460" TOTAL_2="246" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Mean reduction in diagnostic time (minutes)</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-74.09755869842834" CI_START="-121.90244130157166" EFFECT_SIZE="-98.0" ESTIMABLE="YES" MEAN_1="53.0" MEAN_2="151.0" ORDER="26436" SD_1="55.0" SD_2="187.0" SE="12.195347205413498" STUDY_ID="STD-Boulanger-1999" TOTAL_1="460" TOTAL_2="246" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-007" NO="7">
+<NAME>Delayed diagnoses</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="3" EVENTS_2="4" I2="0.0" I2_Q="0.0" ID="CMP-007.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="460" TOTAL_2="246" WEIGHT="0.0" Z="0.0">
+<NAME>Risk of delayed diagnosis</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.7777410535917093" CI_START="0.0904916643325819" EFFECT_SIZE="0.40108695652173915" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="4" LOG_CI_END="0.2498685017487951" LOG_CI_START="-1.043391424121785" LOG_EFFECT_SIZE="-0.39676146118649486" ORDER="26437" O_E="0.0" SE="0.7596672821962577" STUDY_ID="STD-Boulanger-1999" TOTAL_1="460" TOTAL_2="246" VAR="0.5770943796394485" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-008" NO="8">
+<NAME>Non-therapeutic laparotomy</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="1" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-008.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="460" TOTAL_2="246" WEIGHT="0.0" Z="0.0">
+<NAME>Risk of non-therapeutic laparotomy</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<DICH_DATA CI_END="8.512928631400506" CI_START="0.033595070620987585" EFFECT_SIZE="0.5347826086956522" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="0.9300789924762588" LOG_CI_START="-1.4737244416326485" LOG_EFFECT_SIZE="-0.27182272457819495" ORDER="26438" O_E="0.0" SE="1.4120060362144757" STUDY_ID="STD-Boulanger-1999" TOTAL_1="460" TOTAL_2="246" VAR="1.993761046306115" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-009" NO="9">
+<NAME>Duration of hospital stay</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-009.01" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="105" TOTAL_2="226" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Mean length of stay (days)</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<CONT_DATA CI_END="2.1673340345310215" CI_START="-2.1673340345310215" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="7.2" MEAN_2="7.2" ORDER="26439" SD_1="9.0" SD_2="10.1" SE="1.1058029900685296" STUDY_ID="STD-Arrillaga-1999" TOTAL_1="105" TOTAL_2="226" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-010" NO="10">
+<NAME>Intensive care</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-010.01" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="105" TOTAL_2="226" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Mean ICU days</NAME>
+<GROUP_LABEL_1>Ultrasound</GROUP_LABEL_1>
+<GROUP_LABEL_2>No ultrasound</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours US</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours no US</GRAPH_LABEL_2>
+<CONT_DATA CI_END="2.112075991358255" CI_START="-0.9120759913582548" EFFECT_SIZE="0.6000000000000001" ESTIMABLE="YES" MEAN_1="3.1" MEAN_2="2.5" ORDER="26440" SD_1="7.1" SD_2="5.1" SE="0.7714815186836683" STUDY_ID="STD-Arrillaga-1999" TOTAL_1="105" TOTAL_2="226" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2015-09-17 16:12:31 +0100" MODIFIED_BY="[Empty name]">
+<FIGURE FILENAME="Flowchart.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2015-09-17 16:12:31 +0100" MODIFIED_BY="[Empty name]" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Study selection process flow diagram for 2015 search update.</P>
+</CAPTION>
+<FILE>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
+TeLz7u5uk5+fb3Jzc01bW1vSNbu7u6alpcWOhJeVlZn5+fmkdI2U6zqlqy1ra2uR5emfgcePH9vR
+9aKiIjMxMZHU9vfv39s2ZmVlmcrKSjM3N0d8PYNtDrOpe/fumQ8fPiQ971u3bjltzV9WqnL9n7ls
+zGXzca4Pli279+qu9iwuLibSv3//bpqammyabFtte/fuXWybz2RdsXtENGDsAGfGt2ZnZyPPcaV7
+aOqGOtPm5ubEZxrBvnnzpu1g1YlK0Lrq2draajve9fV1+9nIyIgZGxuzn2lUXJ1wX19f4prOzk4z
+OTlpX2vku7y8PJHW39+fNFKuvCQkosobGBgwvb299rPNzU1z/fr1pLZLTExPT9vXMzMz9h8J4uvZ
+anOUTckOamtrbZqmMen5rqysOG0tHRHtsjGXzbuuT1V2XV2dnWqla96+fWsePHiQSK+qqjLj4+MJ
+P5HP6B/LODaf6bpi94howNgBzpxvuc6JStfonUahdHz+/Dnx+V9//WVev35tX6sTffnypRUiUWX4
+R4pFdXW1vdaPvxOXkAmme1RUVNjRQw+9LigoiCxPI9L+azRi52+7xIUnpIivZ7PNLpuSMJT4kxh8
+8uRJLFtLR0S7bMxVP9f1qcr2jzwrb5URhUad49h8puuK3SOiAWMHuFAi2kMjzfq6Nwx1thLW6ZSh
+UbDgwkR/B++fPhIlBFKdH1ZesM7+8zQSp/cSD11dXcTXM9hml0154lD/cG1tbcWytXREtMvG0rX5
+4PVx/cqPpjXpH1x9k6R/PuPafKbrit0jogFjB7iQIlpf50YJjTBhG1VG1PkuYZMqzSV2XNd4gkNf
+5zc2Npr29nbi6xlrs8umxO3bt+3I83GI6GD6QWw+XRF96dKlxOtXr17Zto6OjtrpW5rSEtfmM11X
+7B4RDRg7wIUQ0fqaV/McPYLTJfT6169fSelatJROGRrZ1nzrMLT1XthX7Lo2OJ3DLx5Slae5o/5r
+lpeXQ+/N0tLSmYlbiOj4NjU8PGzn+UpU+qdzRNlalIheXV1N+sxlY676pWOjXn28ed2eHxQXFyfe
+a72Cv7xgfaNsPtN1xe4R0YCxA1wIEa3pG/p611uQ9Pz5c3t4PH361C429NI1x1QCJZ0ytDjQW5ik
+Q+/92+jpK2h93Sy0q0JwYaF2B/GuVdn+/a5TlacFVtpVxFsI1dDQkHSe8tduBUKLrVwj78TX09fm
+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
+4PgCIKLxJgc4vgCIaLzJAY4vAIhob3IAji8AItqbHIDjC4CIxpsc4PgCIKLxJgc4vgCIaLzJAY4v
+ACIab3KA4wsAItqbHIDjC4CI9iYH4PgCIKLxJgc4vgCIaLzJAY4vACIab3KA4wsAItqbHEDtuFK8
+ASCiRTSAiAYQ0SIa4P2FNAAiWkQDiGgAEe2Nzj8TIKIBRDQiGhDRACIaEQ04vgCIaLzJAY4vAIho
+b3LwX2/Hbm5urd0AEY2IBtsw2GdARONgCrZfsO+AiMaBFGy7YB8CRLSDKNh2wT4EiGgHUS8Ctl2w
+DwEiGgdRbLuAfQhENA6iYNsF+xCIaBxEwbYL9iFARDuIgm33g3n8+LENAPsQiGgcRGH1tt34/uTk
+5Ce9rX/xxRer+vq9r9dmtea70vn81493/AdEtIMorImI3rVrV5qfn/9kt/XVWJe19HqIaMd/ENE4
+iMIHiOiLFy+m06dPl07/22+/pc7OzrR+/frU39+fpqenS59rYmIibdmyJXV0dKR169alGzduLJnm
+zJkzqbu7O5vn4OBg7ftff/11ev36dfb1ixcvsnk9ePAgu//q1avs541cv349e554vr6+vnTnzp3a
+stTfmr0W9d97+/ZtOn78eOrq6kqbNm3KztSXnYluti5ly1X1b1T1Gi4sLKQjR45k/x7btm1L9+7d
+azqflaxr1fq18njHf0BE4yDKJxnRYffu3UvCuH76sbGxdOHChSyY4jY+Pp4FXNlzHTx4sDa/iL+I
+wFw8PgIx5rW4uJiF1+joaPazH3/8MV27di37+o8//siGYsT0+f1mz1sfmTdv3kw9PT1N170qLM+d
+O5dGRkay5ZudnU179+5tGqZl61K1XFURXfYanjp1Kl29ejX7empqKvX29i4roqvWtWr9qh7v+A+I
+aBxE+aQj+u7du+mHH35oOP327duzM5+5+HrDhg2lz1U8U10/v507d2bRVS+Py8uXL6djx45lX//8
+88/p8OHD2S0cPXq04fjtsHHjxlpUVq17VVjG8Jb69X348GHTMC1bl6rlqorostcworn4vMuJ6Kp1
+rVq/qsc7/gMiGgdRPumIDhHREdPF78dwgqL6s6KtPFf99+KxxWEW+XM8ffo07dixI/s6hj88evQo
+bd68ObsfwxZiiEcjcZY35hPRVzU0pZXlqxcR2SxMy9alarlWEr+tvv4rXdeq9at6vOM/IKJxEOWT
+j+iXL19mwzpaCbayfaEq3BpFeb0vv/wyGxqQx3OMC37y5EntfjP379/Phjbs378/nTx5ctUiuixM
+q9albLk+xohud/3a3TYc/wERLUTgk4voEGdL40LD+u/HGeHicI6yj42rCreY39zcXNPHf//99+mn
+n36qDePIh3Tk96vE2euykCzezy9gzO3Zs2fJ+kbAN5tf1bqULddK4nfr1q3LGs7R7rpWrV/V4x3/
+ARGNgyifRUTHR93F0IPihYXnz5+vXVj4+++/ZxG33IiO+eUXo8Ut7scnfuTiuWLMdTxPiKiPT6GI
+C9yaiTHC8UkYoXgRXjw2xhfnsVd/sV+cfY8L+OqX78qVK2l4eLh2sdzAwEDTMK1al7LlWklEx4WF
+MVQk3L59u+mFhStd16r1q3q84z8gonEQ5bOI6NDoY8ryj7iLW3xCxvPnz5cd0WFoaCj7WLQ4ox1h
+NzMzU/vZX3/9teSj7fKL1Z49e9b0OWPIRFwAmX8cXB6uIT5NIp4nP3uex2xMG78MxLTF5Tt79mwW
+8vHRbvEJFWWBW7YuZcu1koiOX3YOHTqUzTPmH69Ro+lWuq5V69fK4x3/ARGNgyi2XbAPASIaB1Fs
+u4B9CEQ0DqJg2wX7EIhoHETBtgv2IUBEO4iCbRfsQ4CIdhAF2y7YhwARjYMotl3APgQiGgdRbLu2
+XbAPgYjGQRRsu2AfAkS0gyjYdsE+BIhoB1Gw7YJ9CBDROIhi2wX7ECCicRDFtgvYh0BE4yAKtl2w
+D4GIxkEUbLtgHwJEtIMo2HbBPgSIaAdRsP2CfQcQ0TiQYhsG7DMgonEwhcJ27Obm1toNENGIaMDx
+BUBE400OcHwBENF4kwMcXwAQ0d7kABxfAES0NzkvAuD4AiCi8SYHOL4AiGi8yQGOLwAiGm9ygOML
+ACLamxyA4wuAiPYmB+D4AiCi8SYHOL4AiGi8yQGOLwAiGm9ygOMLgOOnl8CbHOD4AoCI9iYH4PgC
+IKK9yflnAhxfAEQ03uQAxxcAEY03OcDxBUBE400OcHwBQER7kwNwfAEQ0Z/Vm5ybm5vb+7oBIKLB
+Ti2KAEBEAyIaAEQ0IKIBQEQDIhoARDQgogEAEQ0iGgAQ0YCIBgARDYhoABDRgIgGABENiGgAQESD
+iAYARDR83vFcvAEAIhoQ0QAgooH3F9IAgIgGRDQAiGhARAOAiAZENACIaGCthjQAIKIBEQ0AIppP
+J9bc3NxauwEgokEUgH0GQESDGAD7DgAiGhEA9iEARDQCAOxDAIhoBADYhwAQ0QgAwD4EIKJBAIB9
+CAARjQAA+xAAIppPMAAeP37shcY+BICI5vMKgKtXr64oFL744otVXc73FS2rNd+Vzud9Pl7wiWgA
+RDQfIABevnyZ+vv7VxQKqxEZaylUPuaIRkQDIKL5AAGwf//+9OzZs8rprl+/ntatW5c6OjpSX19f
+unPnTm3+9bdmz1n/vbdv36bjx4+nrq6utGnTpjQ5OVl6JvrMmTOpu7s7dXZ2psHBwZaWq+q1iK8n
+JibSli1bssfGPG7cuFH7+cLCQjpy5Ehav3592rZtW7p3717T+axkXavWr5XHL3cdEdEAIhqWEQDD
+w8PpwoULLYVCfYDdvHkz9fT0NH2OqrA8d+5cGhkZyQJxdnY27d27t2mYjo+PZyEY0y4uLmYROTo6
+2tJyVQXmwYMH0/T0dHY/5hHzyp06dSob5hKmpqZSb2/vsiK6al2r1q/q8StZR0Q0gIiGNgPgwYMH
+ad++fS2HwsaNG2tRWfUcVWG5a9eu7Exv7uHDh03DdOfOnVlA1qsP5bLlqgrMPC4b/Tyiufi8y4no
+qnWtWr+qx69kHRHRACIa2giAN2/eZHH26tWrlkMhzvLGNBF9p0+fXlFEF8+GRkQ2C9OYtjhkJIYm
+tLJcK4nfsjO2K5lPcV2r1q/q8StZNkQ0gIiGNgLg6NGj6dq1a22Hwv3797OhDTGO+uTJk6sW0WXx
+Vx+U7S7XxxjR7a5f1eNFtIgGQETzgQKgeOazeGFglUePHpXGWvH+ixcvlnxvz549S4YoPHnypOn8
+4mLBubm5ZS3XSgJz69atyxrO0e66Vq1f1eNFtIgGQETzHwZA1XQxRjg+CSMUL1CLT7CIsbd57NVf
+7BcfoRcXt9XP/8qVK9lFjfnFcgMDA03jb2xsrHZhXdzifnwkXyvLtZLAjAsLY6hIuH37dtMLC1e6
+rlXrV/V4ES2iARDRfMQRHUMmtm/fXvuotDxcQ3yaRPzBlfyPruQxG9PGGd2Ytjj/s2fPpg0bNmQf
+7RafUFEWf0NDQ9lHvMX8I1JnZmZaWq6VBOb8/Hw6dOhQNs+Yf1zQ12i6la5r1fq18ngRLaIBENEI
+ALAPASCiEQBgHwJARCMAwD4EgIhGAAD2IQARDQIA7EMAiGgEANiHABDRCACwDwEgohEAYB8CQEQj
+AN6Dx48fv9fpPzZrffkR0QAiGgHwHz1v/df5XzVsVXH6tRY0H3L5xZ7XFQARzScU0StZnrUeMMXl
+F2T2IQBENGs8AH777bfU1dWVNm7cmC5fvtz07HGj7/3zzz/p4MGDaf369WndunVp27Zt6c8//2w4
+bf51/Lf+VjWfRtPHf9+8eZM2b96c5ufnlyzfwsJC6uvrq90/c+ZM6u7uTp2dnWlwcLD0dbp+/Xr2
+/B0dHdk87ty5k54/f5527NjxzrSLi4vZ88dyxPJMTEykLVu2ZI+Nedy4caN0+c+fP99w+laWu9Fy
+NnrNy6ZDRAOIaFhmAJw7dy4NDw+nt2/fppmZmbRr1662Ijri8sqVK9nj43bhwoUsxssiutF825lP
+/f1jx46lsbGxd9YpAjSMj49ncRvzjOidnJxMo6OjTV+n+pi9efNm6unpyb4eGBh4J0Bjvr/88ktt
+eeKXgOnp6ex+zCPmVbb8Bw4caDp91XI3W87ic5VNh4gGENGwzADYuXPnkjO59+7dayuiG4mznu1G
+dDvzqb//9OnT7GxwxGaI/3799de1OI31y3+WKwvJCPerV6++8/2pqam0f//+Jd+LXzj+/vvv2vLk
+z9nK+lZNX7XczZazOJ+y6RDRACIalhkA9Wc/8whtN6Lv37+fTp06lQ4fPpy2b9/eUjg3mm+r8yne
+//bbb7OztiHOZscZ4fr1Kw6nqI/zojhbG9NExJ4+fXrJz2LoRUR7ePjwYRbRrb5OrYyJLp5BLlvu
+suWsn0/ZdIhoABENqxTRrcRu/fdiDHVvb2+6dOlSunXrVjYkZDkR3c58ivfjLHGMoQ4x7jcenysL
+5mYi5vMzzydPnqx9P4a9xPCRcOTIkXTx4sX3FtGtLHez5Wz0S06j6RDRACIalhkA33zzTfr3339r
+9588eVIafy9evFjyvbggcW5urunPW43odubT6H6cJY6x0DGUo15Edf182/Ho0aMlzzM7O5td+Pjq
+1avsgr/6YTCrHdHtLHdxOZv9WxenQ0QDiGhYZgBcu3Yt+3SOGMYRkRgX0DW7MO3ly5fZUIn6n0e8
+5p+iEQG+e/fulsI5YjTGBMcnabQyn+L0xfWJi+42bdr0zkWDcdHhyMhI7YLFuN/f39/0dYqz4fGJ
+FqF4sV+IM9DfffddOnHiRFtRXLX8xe9VLXfZctbPp2p9ENEAIhqWGQDxSRBxAdpXX32VhWz9tHl4
+xfCCrVu3ZkFW//O7d+9mF7zFNBFscRFbKxEdsRt/gCT/IyRV8ylOX1yf169fZz+LXwSKhoaGsjPd
+8fP4JSCGijQTQx9iPHb+sXN5gObyCy+Lf4GwKoqrlr/R98qWu2w56+dTtT6IaAARDasUAGKhuQjZ
+OGuOfQgAEY0AEAstiGEVcXbYp1zYhwAQ0QiAd+RDDlgqxjXv27fvnb+QiH0IABGNAADsQwAiGgQA
+2IcAENEIALAPASCiEQBgHwJARCMAwD4EgIhGAIB9CAARjQAA7EMAIhoEANiHABDRCACwDwEgohEA
+YB8CQEQjAMA+BICIRgAA9iEAEQ0CAOxDAIhoRADYdwAQ0YgBsM8AIKL5+KPAzc2ttRsAIhr4yH+5
+AQBENCCiAUBEAyIaAEQ0IKIBQEQDIhoAENEgogEAEQ2IaAAQ0YCIBgARDYhoABDRgIgGAEQ0iGgA
+QESDiPYiAICIBkQ0AIhoQEQDgIgGRDQAiGhARAMAIhpENAAgogERDQAiGhDRACCiARENACIaENEA
+gIgGEQ0AiGgQ0XZrABDRgIgGABENiGgAENGAiAYAEQ2IaABARIOIBgBENCCiAUBEAyIaAEQ0IKIB
+QEQDIhoAENHwacVz8QYAiGhARAOAiAbeX0gDACIaENEAIKIBEQ0AIhoQ0QAgooG1GtIAgIgGRDQA
+iGj4UDHp9vncAEBEwyoENP7NAUBEg5jCvz0AIhpEFLYBAEQ0CChsAwCIaBBQ2AYAQEQjoLANAICI
+BgGFbQAAEQ0CCtsAACIaPq2Aevz4sRdaRAMgouHzCqirV6+uKLS++OKLVV3O9xV9qzXflc7nQz9e
+RAMgomGVg+vly5epv79/RaG1GpG2lkJPRAOAiOYzj+j9+/enZ8+eVU53/fr1tG7dutTR0ZH6+vrS
+nTt3avOvvzV7zvrvvX37Nh0/fjx1dXWlTZs2pcnJydIz0WfOnEnd3d2ps7MzDQ4OtrRcVa9FfD0x
+MZG2bNmSPTbmcePGjdrPFxYW0pEjR9L69evTtm3b0r1795rOZyXrWrV+rTxeRAMgouEDRvTw8HC6
+cOFCS6FVH5k3b95MPT09TZ+jKizPnTuXRkZGskCcnZ1Ne/fubRqm4+PjWezGtIuLi1lEjo6OtrRc
+VRF98ODBND09nd2PecS8cqdOncqGuYSpqanU29u7rIiuWteq9at6vIgGQETDB4zoBw8epH379rUc
+Whs3bqxFZdVzVIXlrl27sjO9uYcPHzYN0507d2YBWa8+lMuWqyqi84Bu9POI5uLzLieiq9a1av2q
+Hi+iARDR8IEi+s2bN1mcvXr1quXQirO8MU1E3+nTp1cU0fVnfENEZLMwjWmLQ0Zi+EUry7WS+C0u
+42rNp7iuVetX9XgRDYCIhg8U0UePHk3Xrl1rO7Tu37+fDW2IcdQnT55ctYguC9P6oGx3uT7GiG53
+/aoeL6IBENHwgSK6eOazeGFglUePHpWGZPH+ixcvlnxvz549S4YoPHnypOn84mLBubm5ZS3XSuJ3
+69atyxrO0e66Vq1f1eNFNAAiGj5QRC9nuhgjHJ+EEYoX4cUnWMT44jz26i/2i4/Qiwv46ud/5cqV
+7KLG/GK5gYGBpmE6NjZWu7AubnE/PpKvleVaSUTHhYUxVCTcvn276YWFK13XqvWreryIBkBEw0cc
+0TFkYvv27bWPg8vDNcSnScQfXMn/6EoeszFtnNGNaYvzP3v2bNqwYUP20W7xCRVlgTs0NJR9xFvM
+PyJ1ZmampeVaSUTPz8+nQ4cOZfOM+ccFfY2mW+m6Vq1fK48X0QCIaPiPIhrbAACIaBBQ2AYAENEg
+oLANACCiQUBhGwBARIOAwjYAgIgGAYVtAABENAIK2wAAiGgQUNgGABDRIKCqPH78eFk/W43pbQMA
+IKL5jCN6LYdV/pcRG61L8WcrmZeIBgARjYj+LNbJn8QW0QCIaHhvAVX//fh6YmIibdmyJXV0dKR1
+69alGzdulM73t99+S11dXWnjxo3p8uXL78yv7Pn++eefdPDgwbR+/frsubZt25b+/PPPlpYnflZ/
+q593o5+VPVezeb158yZt3rw5zc/PL1mHhYWF1NfXV7t/5syZ1N3dnTo7O9Pg4KCIBkBEw+cW0RGa
+09PT2f0I1gjOZs6dO5eGh4fT27dv08zMTNq1a1dbEb1jx4505cqV7PFxu3DhQhbjrS5Pcf5lz93K
+czWa17Fjx9LY2Ng76x3hHMbHx7PQj3kuLi6mycnJNDo6KqIBENHwOUV0HqythNfOnTuXnKW9d+9e
+WxHdSJxxbnV52onoVp6r0byePn2anY2OSA7x36+//rq2XPEa5D/L9fT0iGgARDR8ThHdTngVz1JH
+TLY7v/v376dTp06lw4cPp+3bt7f1+HYjup3nqr//7bffZmebQ5zNjrPj9a9BcThIfZyLaABENIjo
+0ohud34xhrq3tzddunQp3bp1KxsS8r4iut3nqr8/NTWVjaEOMRY6Hp/7WINZRAMgouEjjehvvvkm
+/fvvv7X7T548KZ3fixcvlnwvLkicm5tr+vPVjOh2n6t4Py5ujLHQMZSjXkR1/XxFNAAiGkR0aXhd
+u3Yt+3SOGMYxOzubBgYGlkxf/2kaL1++zIZB1P88wjT/hIwI8N27d7e1PPFJGzE2OT4to+pnVc9V
+Nq8QFwtu2rTpnYsG46LDkZGR2gWLcb+/v19EAyCiQUQ3F59OEZ9y8dVXX2WRWj99/mkaMeRh69at
+6fr160t+fvfu3ewivJgmhlpcvXq1reWJoI0/kpL/oZSyn1U9V9m8wuvXr7OfxS8LRUNDQ9mZ7vh5
+/KIQQ0VENAAiGj7hiBZqtgEAENEgovFvA4CIhrUVUPlwCEQ0ACIaBBS2AQAQ0QgobAMAIKJBQGEb
+AEBEg4DCNgCAiAYBhW0AABENAqqZx48fe9FFNAAiGgRUO4ofdfc+n18cep0AENHwSQRU8fkEnIgG
+QETDJxNQ169fT+vWrUsdHR2pr68v3blzJz1//jzt2LHjnWkXFxfT5s2b05s3b7L5TUxMpC1btmSP
+jXncuHGj9lz1t/x758+fbzh97syZM6m7uzt1dnamwcHByuVstG5l09kGHNYAENGwKgFVH7M3b95M
+PT092dcDAwPvBGhE8y+//FKb38GDB9P09HR2P+YR82r2fHH/wIEDTacfHx/P5v/27dss1icnJ9Po
+6Gjlchafq2w624DDGgAiGlYloDZu3JiuXr36zvenpqbS/v37l3xv165d6e+//67NLw/iRs/RKKLL
+pt+5c2cW0PXqA7jZchbnUzadbcBhDQARDasSUHG2Nn4WEXv69OklP4uhF0+fPs2+fvjwYRbRZfOr
+iuiy6eMMcnEYSAzJaGU56+dTNp1twGENABENqxZQ9+/fr515PnnyZO37w8PD6dixY9nXR44cSRcv
+XnxvEV0fzO0uZ3HezaazDTisASCiYdUD6tGjR0umm52dTevXr0+vXr3KLvibn59/bxEdFwHOzc21
+tC7F5Wy2bsXpbANeCwBENKxKQPX29mafaBGKF/uFOAP93XffpRMnTrQVxRHfMQZ6YWGhpenHxsbS
+yMhINi46bnG/v7+/peWsn0/V+tgGAEBEw4oDKoY+bN++vfaxc3mA5u7du5c9tvgXCKuiOD5ZI/7g
+Sv5HV6qmD0NDQ6mrqyt7THzyx8zMTEvLWT+fqvWxDQCAiIb3HlARsnGBISIaAEQ0AqoFMawizg77
+lAsRDQAiGgHVohjXvG/fviUXFCKiAUBEI6CwDQCAiAYBhW0AABENAgrbAAAiGgQUtgEARDQIKGwD
+ACCiEVCrpfhHWhDRAIho+CQC6ubNm+nAgQPv5Xnzv1j4qcdlq/OIv8R4+/ZtEQ2AiIa1HtE7d+5M
+T58+/WzD7UMuY7zOu3btEtEAiGhYyxH9119/ZX9QpTjtpUuX0oYNG9KXX36Z/vjjjzQ2Npa6urrS
+unXr0o0bN5ZMf+bMmdTd3Z06OzvT4ODgkvnU38I///yTnY2NP+QS89q2bVv6888/S5e96jEx74mJ
+iezPk3d0dLyzjK08/vnz52nHjh3vPPfi4mLavHlzevPmTbp+/Xr2+HiOvr6+dOfOnYavb9l0IV7v
+eN1FNAAiGtZoRP/666/p8uXL70x79OjRLCD/7//+L4vnX375JbsfcRqBmBsfH88CNv5EePx8cnIy
+jY6ONn3eCNUrV65k08ftwoULaePGjaXLXvWYeI6I5Onp6ex+cRlbeXwYGBh4J3hj3WLdQ32cxxCY
+np6ehutZNl2IX1DidRfRAIhoWKMRvXv37vTkyZN3ps2DNL8/NzfXcF4xFCTCtF6zuGwmzti2q/4x
+xeVt5XmLjw9TU1Np//79S6aLoRd///139nWE99WrVytf37LpQrze8bqLaABENKzRiI4hDsUILk5b
+dj/OuhaHbTQK1Hr3799Pp06dSocPH07bt29vKe7KHtPo8cXvtfr4GBKSjw9/+PDhkvHLcVY5po1f
+HE6fPt30+cqmC/F6x9AXEQ2AiIY1GtGNzgK3E9FVZ5GLj42hI729vdmQhlu3bqWZmZnaNI3GUFc9
+ppWIbufxw8PD6dixY9nXR44cSRcvXnwnxvMz1idPniyN9kbT1f/yIaIBENGwRiN6pWei48K5+qEe
+Vc8b46vrp3/x4kVl3FU9piqi23n87Oxs9pq8evUqu1hyfn6+4TI9evSochkaTRdi7Lgz0QCIaFjD
+ER1jc2PYwnIjOj61Y2RkpHbRXtzv7+9fEukxXnlhYSG7H8Ml8k/GyMcGV8Vd1WOqIrrdx8cZ6O++
++y6dOHFiyffjbHZ88kYoXrxYP4+y6UKMsTYmGgARDWs4ouNTIuITNpYb0WFoaCg72xt/WCU+JSOG
+S+Tikzri+/kfXbl792524WGEZcRmXIBXFXdVj6mK6HYff+/evex7xb+2GEM0Yjx1/jF6eSgX51E2
+XYghIj6dAwARDWs4oiMY688ck7JfAuLs9fuyd+/eLLRFNAAiGtZoRIf4FIniWdfPVQxJiTPrjT5V
+YzXEcJJ4vT+2bQAARDS0GVAxbjfGAPP/x3DHXxRsdkHhSsXrfPv2bRENgIiGtR7R2AYAQESDgMI2
+AICIBgGFbQAAEQ0CCtsAACIaBBS2AQAQ0QgobAMAIKIRUNgGAEBEg4DCNgCAiAYBhW0AABENAgrb
+AAAiGgQUtgEAENEIKGwDACCiQUBhGwBARIOIwr89ACIaxBT+zQEQ0bDmosrt87kBwIf0/wDuXXXS
+WMyK1QAAAABJRU5ErkJggg==
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Risk of bias summary.png" FILE_TYPE="PNG" ID="FIG-02" MODIFIED="2015-01-02 07:36:20 +0000" MODIFIED_BY="[Empty name]" NO="2" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_TABLE_PLOT">
+<CAPTION>
+<P>Risk of bias summary: review authors' judgements about each risk of bias item for each included study.</P>
+</CAPTION>
+<FILE>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
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2015-01-02 07:53:08 +0000" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2015-01-02 07:53:08 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2011-05-23 17:37:49 +0100" MODIFIED_BY="Karen Blackhall">Search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2015-01-02 07:53:08 +0000" MODIFIED_BY="[Empty name]">
+<P>
+<B>Cochrane Injuries Group Specialised Register </B>
+<BR/>1. (blunt or non-penetrat*) and (trauma* or injur* or wound*)<BR/>2. (spleen or splenic or liver or hepatic or abdomen or abdominal or stomach or thorax or thoracic) and (trauma* or injur* or ruptur* or bleed*)<BR/>3. (Car or motorcar or cycle or cycling or bicycle* or bike* or motorbike* or motorcycle* or motor-bike* or motor-cycle*) and (injur* or accident* or crash*)<BR/>4. (splenosis or splenoses or multiple-trauma* or poly-trauma* or hemoperiton* or haemoperiton* or free-fluid or intraperiton* or retroperiton*)<BR/>5. 1 or 2 or 3 or 4<BR/>6. ultrasonic or ultrasound or echotomograph* or echograph* or ultrasonograph* or sonograph*<BR/>7. 5 and 6<BR/>
+<BR/>
+<B>Cochrane Central Register of Controlled Studies (CENTRAL) (<I>The Cochrane Library</I>)</B>
+<BR/>#1 (hemoperiton* or haemoperiton* or free?fluid or intraperiton* or retroperiton*)<BR/>#2 (spleen or splenic or liver or hepatic or abdomen or abdominal or stomach or thorax or thoracic) near5 (trauma* or injur* or ruptur* or bleed*)<BR/>#3 (blunt or non-penetrat*) near5 (trauma* or injur* or wound*)<BR/>#4 trauma* near3 shock*<BR/>#5 (splenosis or splenoses)<BR/>#6 (multiple-trauma* or poly-trauma*)<BR/>#7 (Car* or motorcar* or cycle* or cycling or bicycl* or bike* or motorbike* or motorcycle* or motor-bike* or motor-cycle*) near5 (injur* or accident* or crash*)<BR/>#8 (#1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7)<BR/>#9 Ultrasonography<BR/>#10 (ultrasonic or ultrasound) near3 (diagnos* or tomograph* or imaging*)<BR/>#11 (echotomograph* or echograph* or ultrasonograph* or sonograph* or ultrasound)<BR/>#12 (Focused near2 Assessment near2 Sonography near2 Trauma).ab,ti.<BR/>#13 (#9 OR #10 OR #11 OR #12)<BR/>#14 (#8 AND #13)<BR/>
+<BR/>
+<B>MEDLINE (OvidSP) </B>
+<BR/>1. exp Abdominal Injuries/<BR/>2. exp Thoracic Injuries/<BR/>3. exp Wounds, Nonpenetrating/<BR/>4. exp Multiple Trauma/<BR/>5. exp Retroperitoneal Space/in [Injuries]<BR/>6. exp Rupture/<BR/>7. exp Shock, Traumatic/<BR/>8. (hemoperiton* or haemoperiton* or free?fluid or intraperiton* or retroperiton*).ab,ti.<BR/>9. ((spleen or splenic or liver or hepatic or abdomen or abdominal or stomach or thorax or thoracic) adj5 (trauma* or injur* or ruptur* or bleed*)).ab,ti.<BR/>10. (splenosis or splenoses).ab,ti.<BR/>11. exp Accidents/<BR/>12. exp Seat Belts/<BR/>13. exp Bicycling/<BR/>14. exp Motorcycles/<BR/>15. (multiple?trauma* or poly?trauma*).ab,ti.<BR/>16. ((Car* or motorcar* or cycle* or cycling or bicycl* or bike* or motorbike* or motorcycle* or motor-bike* or motor-cycle*) near5 (injur* or accident* or crash*))ab,ti.<BR/>17.1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16<BR/>18. exp Ultrasonography/<BR/>19. (ultrasonic adj3 (diagnos* or tomograph* or imaging*)).ab,ti.<BR/>20. (echotomograph* or echograph* or ultrasonograph* or sonograph* or ultrasound).ab,ti.<BR/>21. (Focused adj2 Assessment adj2 Sonography adj2 Trauma).ab,ti.<BR/>22. 18 or 19 or 20 or 21<BR/>23. 17 and 22<BR/>24. randomi?ed.ab,ti.<BR/>25. randomized controlled trial.pt.<BR/>26. controlled clinical trial.pt.<BR/>27. placebo.ab.<BR/>28. clinical trials as topic.sh.<BR/>29. randomly.ab.<BR/>30. trial.ti.<BR/>31. 24 or 25 or 26 or 27 or 28 or 29 or 30<BR/>32. (animals not (humans and animals)).sh.<BR/>33. 31 not 32<BR/>34. 23 and 33<BR/>
+<BR/>
+<B>Embase (OvidSP) </B>
+<BR/>1.exp thorax blunt trauma/ or exp blunt trauma/<BR/>2.exp abdominal blunt trauma/<BR/>3.exp multiple trauma/<BR/>4.exp retroperitoneum/<BR/>5.exp rupture/<BR/>6.exp abdominal organ rupture/<BR/>7.exp traumatic shock/<BR/>8.(hemoperiton* or haemoperiton* or free?fluid or intraperiton* or retroperiton*).ab,ti.<BR/>9.((spleen or splenic or liver or hepatic or abdomen or abdominal or stomach or thorax or thoracic) adj5 (trauma* or injur* or ruptur* or bleed*)).ab,ti.<BR/>10.(splenosis or splenoses).ab,ti.<BR/>11.exp accident/<BR/>12.exp seatbelt/ or exp seatbelt injury/<BR/>13.exp bicycle/<BR/>14.exp motor vehicle/<BR/>15.(multiple?trauma* or poly?trauma*).ab,ti.<BR/>16.((Car* or motorcar* or cycle* or cycling or bicycl* or bike* or motorbike* or motorcycle* or motor-bike* or motor-cycle*) near5 (injur* or accident* or crash*)).ab,ti.<BR/>17.1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16<BR/>18.exp echography/ or exp echotomography/<BR/>19.(ultrasonic adj3 (diagnos* or tomograph* or imaging*)).ab,ti.<BR/>20.(echotomograph* or echograph* or ultrasonograph* or sonograph* or ultrasound).ab,ti.<BR/>21.(Focused adj2 Assessment adj2 Sonography adj2 Trauma).ab,ti.<BR/>22.18 or 19 or 20 or 21<BR/>23.17 and 22<BR/>24.exp Randomized Controlled Trial/<BR/>25.exp controlled clinical trial/<BR/>26.randomi?ed.ab,ti.<BR/>27.placebo.ab.<BR/>28.*Clinical Trial/<BR/>29.randomly.ab.<BR/>30.trial.ti.<BR/>31.24 or 25 or 26 or 27 or 28 or 29 or 30<BR/>32.exp animal/ not (exp human/ and exp animal/)<BR/>33.31 not 32<BR/>34.23 and 33<BR/>
+<BR/>
+<B>ISI Web of Science: Science Citation Index Expanded (SCI-EXPANDED) and Conference Proceedings Citation Index - Science (CPCI-S)</B>
+<BR/>#1 Topic=((singl* OR doubl* OR trebl* OR tripl*) SAME (blind* OR mask*))<BR/>#2 Topic=(randomised OR randomized OR randomly OR random order OR random sequence OR random allocation OR randomly allocated OR at random OR randomized controlled trial) OR Topic=(controlled clinical trial OR controlled trial OR clinical trial OR placebo)<BR/>#3 #1 or #2<BR/>#4Topic=(human*)<BR/>#5 #3 and #4<BR/>#6 Topic=((blunt or non-penetrat*) same (trauma* or injur* or wound*))<BR/>#7 Topic=((spleen or splenic or liver or hepatic or abdomen or abdominal or stomach or thorax or thoracic) same (trauma* or injur* or ruptur* or bleed*))<BR/>#8 Topic=((Car* or motorcar* or cycle* or cycling or bicycl* or bike* or motorbike* or motorcycle* or motor-bike* or motor-cycle*) same (injur* or accident* or crash*))<BR/>#9 Topic=(splenosis or splenoses or multiple-trauma* or poly-trauma* or hemoperiton* or haemoperiton* or free-fluid or intraperiton* or retroperiton*)<BR/>#10 #6 or #7 or #8 or #9<BR/>#11Topic=((ultrasonic or ultrasound) SAME (diagnos* or tomograph* or imaging*))<BR/>#12Topic=((echotomograph* or echograph* or ultrasonograph* or sonograph* or ultrasound))<BR/>#13 #11 or #12<BR/>#14 #5 and #10 and #13<BR/>
+<BR/>
+<B>CINAHL Plus (EBSCO) </B>
+<BR/>S1 exp Abdominal Injuries/<BR/>S2 exp Thoracic Injuries/<BR/>S3 exp Wounds, Nonpenetrating/<BR/>S4 exp Multiple Trauma/<BR/>S5 exp Retroperitoneal Space/in [Injuries]<BR/>S6 exp Rupture/<BR/>S7 exp Shock, Traumatic/<BR/>S8 hemoperiton* or haemoperiton* or free fluid or intraperiton* or retroperiton*<BR/>S9 (spleen or splenic or liver or hepatic or abdomen or abdominal or stomach or thorax or thoracic) AND (trauma* or injur* or ruptur* or bleed*)<BR/>S10 splenosis or splenoses<BR/>S11 multiple trauma* or poly trauma*)<BR/>S12 S1 or S2 or S3 or S4 or S5 or S6 or S7 or S8 or S9 or S10 or S11<BR/>S13 exp Ultrasonography/<BR/>S14 (ultrasonic AND (diagnos* or tomograph* or imaging*))<BR/>S15 (echotomograph* or echograph* or ultrasonograph* or sonograph* or ultrasound)<BR/>S16 (Focused Assessment of Sonography for Trauma)<BR/>S17 S13 OR S14 OR S15 OR S16<BR/>S18 S12 AND S17 (limited to clinical trials)<BR/>
+</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS>
+<EXTENSION ID="FLOW_1" NAME="FIGURE" REVMAN_VERSION="5.1.0" TYPE="FLOWCHART">
+<ALIAS ALIAS_ID="1">
+<FLOWCHARTBOX TEXT="&lt;p&gt;4 studies included in quantitative synthesis (meta-analysis)&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;4 studies included in qualitative synthesis&lt;/p&gt;">
+<FLOWCHARTBOX TEXT="&lt;p&gt;4 studies included in previous version&lt;/p&gt;"/>
+<FLOWCHARTBOX TEXT="&lt;p&gt;No new studies included&lt;/p&gt;">
+<FLOWCHARTBOX TEXT="&lt;p&gt;2 studies formerly 'awaiting assessment' are now published and were reviewed in full text&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;12 full-text articles assessed for eligibility&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;1135 records screened&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;1135 records after duplicates removed&lt;/p&gt;">
+<FLOWCHARTBOX TEXT="&lt;p&gt;839 records identified through previous database searches&lt;/p&gt;" WIDTH="120"/>
+<FLOWCHARTBOX TEXT="&lt;p&gt;335 records identified through searching other sources&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;1123 records excluded based on title or abstract&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;12 excluded &lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;2 studies excluded, with reasons&lt;/p&gt;"/>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</ALIAS>
+</EXTENSION>
+</EXTENSIONS>
+</COCHRANE_REVIEW>

@@ -1,0 +1,2785 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD004471.pub2" GROUP_ID="VASC" ID="606802072115531968" MERGED_FROM="" MODIFIED="2013-10-15 07:58:59 +0100" MODIFIED_BY="Fiona Taylor" NOTES="&lt;p&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.4&lt;br&gt;Exported from Review Manager 4.2.3&lt;br&gt;Exported from Review Manager 4.2.2&lt;br&gt;Exported from Review Manager 4.2.1&lt;br&gt;Exported from Review Manager 4.2.2&lt;br&gt;Exported from Review Manager 4.2&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2013-10-12 22:28:42 +0800" NOTES_MODIFIED_BY="Huai Sheng Chen" REVIEW_NO="0216" REVMAN_SUB_VERSION="5.1.7" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="6.1">
+<COVER_SHEET MODIFIED="2013-10-11 21:56:18 +0800" MODIFIED_BY="Huai Sheng Chen">
+<TITLE>Corticosteroids for viral myocarditis</TITLE>
+<CONTACT>
+<PERSON ID="9CA0A3DF82E26AA2007D5B6E2816302A" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Huai Sheng</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Chen</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>sunshinic@hotmail.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Intensive Care Unit, Shenzhen People's Hospital</DEPARTMENT>
+<ORGANISATION>The Second Affiliated Hospital of Ji Nan University</ORGANISATION>
+<ADDRESS_1>1017 Dong Men Bei Lu</ADDRESS_1>
+<ADDRESS_2>Luo Hu District</ADDRESS_2>
+<CITY>Shenzhen City</CITY>
+<ZIP>518020</ZIP>
+<REGION>Guangdong</REGION>
+<COUNTRY CODE="CN">China</COUNTRY>
+<PHONE_1>+86 755 25533000-2558</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2013-10-11 21:56:18 +0800" MODIFIED_BY="Huai Sheng Chen">
+<PERSON ID="9CA0A3DF82E26AA2007D5B6E2816302A" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Huai Sheng</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Chen</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>sunshinic@hotmail.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Intensive Care Unit, Shenzhen People's Hospital</DEPARTMENT>
+<ORGANISATION>The Second Affiliated Hospital of Ji Nan University</ORGANISATION>
+<ADDRESS_1>1017 Dong Men Bei Lu</ADDRESS_1>
+<ADDRESS_2>Luo Hu District</ADDRESS_2>
+<CITY>Shenzhen City</CITY>
+<ZIP>518020</ZIP>
+<REGION>Guangdong</REGION>
+<COUNTRY CODE="CN">China</COUNTRY>
+<PHONE_1>+86 755 25533000-2558</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="z1302260528132384330671578288528" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Wei</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Wang</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>windy97333@yahoo.com.cn</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Endocrinology</DEPARTMENT>
+<ORGANISATION>Shenzhen People's Hospital</ORGANISATION>
+<ADDRESS_1>No 1017, Dong Men North Rd</ADDRESS_1>
+<ADDRESS_2>Luohu District</ADDRESS_2>
+<CITY>Shenzhen City</CITY>
+<ZIP>518020</ZIP>
+<REGION/>
+<COUNTRY CODE="CN">China</COUNTRY>
+<PHONE_1>008675525533000</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="9C222B7A82E26AA2003ED3F57CA989E8" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Sheng</FIRST_NAME>
+<MIDDLE_INITIALS>Nan</MIDDLE_INITIALS>
+<LAST_NAME>Wu</LAST_NAME>
+<SUFFIX/>
+<POSITION>Doctor</POSITION>
+<EMAIL_1>wshn2003@yahoo.com.cn</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Intensive Care Unit</DEPARTMENT>
+<ORGANISATION>Shenzhen People's Hospital, The Second Affiliated Hospital of Ji Nan University</ORGANISATION>
+<ADDRESS_1>No.1017 Dong Men Bei Lu</ADDRESS_1>
+<ADDRESS_2>Luo Hu District</ADDRESS_2>
+<CITY>Shenzhen City</CITY>
+<ZIP>518020</ZIP>
+<REGION>GuangDong Province</REGION>
+<COUNTRY CODE="CN">China</COUNTRY>
+<PHONE_1>+86 755 2553 30182558</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="13883" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Jian Ping</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Liu</LAST_NAME>
+<SUFFIX>MD, PhD</SUFFIX>
+<POSITION>Director</POSITION>
+<EMAIL_1>jianping_l@hotmail.com</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Evidence-Based Chinese Medicine</DEPARTMENT>
+<ORGANISATION>Beijing University of Chinese Medicine</ORGANISATION>
+<ADDRESS_1>11 Bei San Huan Dong Lu, Chaoyang District</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Beijing</CITY>
+<ZIP>100029</ZIP>
+<REGION/>
+<COUNTRY CODE="CN">China</COUNTRY>
+<PHONE_1>+86 10 64286760</PHONE_1>
+<PHONE_2>+86 10 64286757</PHONE_2>
+<FAX_1>+86 10 64286760</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2013-05-28 21:35:34 +0800" MODIFIED_BY="Karen Hovhannisyan">
+<UP_TO_DATE>
+<DATE DAY="25" MONTH="7" YEAR="2012"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="25" MONTH="7" YEAR="2012"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="25" MONTH="7" YEAR="2014"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2003"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2006"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2006"/>
+</DATES>
+<WHATS_NEW MODIFIED="2013-09-04 19:08:35 +0800" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2013-09-04 19:08:35 +0800" MODIFIED_BY="[Empty name]">
+<DATE DAY="1" MONTH="8" YEAR="2012"/>
+<DESCRIPTION>
+<P>Searches re-run. Eight randomised trials added.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2013-04-15 20:30:09 +0800" MODIFIED_BY="[Empty name]">
+<DATE DAY="1" MONTH="8" YEAR="2012"/>
+<DESCRIPTION>
+<P>Conclusion changed.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="31" MONTH="5" YEAR="2006"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT MODIFIED="2011-06-16 23:52:17 +0800" MODIFIED_BY="[Empty name]">
+<INTERNAL_SOURCES MODIFIED="2011-06-16 23:51:55 +0800" MODIFIED_BY="[Empty name]">
+<SOURCE>
+<NAME>Department of Intensive Care Unit, Shenzhen People's Hospital</NAME>
+<COUNTRY CODE="CN">China</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2013-10-12 22:28:42 +0800" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2013-10-11 18:26:16 +0800" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2013-10-03 09:04:31 +0800" MODIFIED_BY="[Empty name]">Hormone treatment may be ineffective in treating people with viral myocarditis</TITLE>
+<SUMMARY_BODY MODIFIED="2013-10-11 18:26:16 +0800" MODIFIED_BY="[Empty name]">
+<P>Viral infection occasionally triggers myocarditis (inflammation and necrosis of the heart muscle) which can result in serious, acute heart failure. The first signs of this condition may be flu-like symptoms which evolve into non-specific chest discomfort, shortness of breath or palpitations. The majority of patients recover spontaneously but others have continuing heart problems which require medication and can be severe enough to cause death.</P>
+<P>The effect of hormone treatment on viral myocarditis remains controversial. The review authors conducted a thorough search of the medical literature. Eight randomised trials with 719 patients which met the inclusion criteria compared hormone treatment plus conventional therapy with no hormone. Hormone treatment did not reduce mortality from viral myocarditis. Improvements in heart function were found but the trials were of low quality and small size so this finding must be regarded as uncertain. Further trials comparing hormone treatment in people suffering viral myocarditis with placebo are warranted. There are no conflicts of interest in the review.<BR/>
+</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2013-10-11 22:25:52 +0800" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2013-10-11 22:25:52 +0800" MODIFIED_BY="[Empty name]">
+<P>Myocarditis is defined as inflammation of the myocardium accompanied by myocellular necrosis. Experimental evidence suggests that autoimmune mechanisms follow viral infection, resulting in inflammation and necrosis in the myocardium. However, the use of corticosteroids as immunosuppressives for this condition remains controversial.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2013-09-04 19:08:57 +0800" MODIFIED_BY="[Empty name]">
+<P>The existing review was updated. The primary objective of this review is to assess the beneficial and harmful effects of treating acute or chronic viral myocarditis with corticosteroids. The secondary objective is to determine the best dose regimen.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2013-09-24 17:30:14 +0800" MODIFIED_BY="[Empty name]">
+<P>We searched the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 7 of 12, 2012) on <I>The Cochrane Library</I>, MEDLINE OVID (1946 to July Week 2, 2012), EMBASE OVID (1980 to Week 29, 2012), BIOSIS Previews (1969 to 20 July 2012), ISI Web of Science (1970 to 20th July, 2012), and LILACS (from its inception to 25 July, 2012) , Chinese Biomed Database, CNKI and WANFANG Databases (from their inception to 31 December 2012). We applied no language restrictions.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2013-04-10 20:34:09 +0800" MODIFIED_BY="[Empty name]">
+<P>Randomised controlled trials (RCTs) of corticosteroids for viral myocarditis compared with no intervention, placebo, supportive therapy, antiviral agents therapy or conventional therapy, including trials of corticosteroids plus other treatment versus other treatment alone, irrespective of blinding, publication status, or language.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2013-09-25 21:43:04 +0800" MODIFIED_BY="[Empty name]">
+<P>Two review authors extracted data independently. Results were presented as risk ratios (RRs) and mean differences (MDs), both with 95% confidence intervals (CIs).</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2013-10-10 20:02:58 +0800" MODIFIED_BY="[Empty name]">
+<P>Eight RCTs (with 719 participants) were included in this update. The trials were small in size and methodological quality was poor. Viral detection was performed in 38% of participants, among whom 56% had positive results. Mortality between corticosteroids and control groups was non-significant (RR, 0.93, 95% CI 0.70 to 1.24). At 1 to 3 months follow-up, left ventricular ejection fraction (LVEF) was higher in the corticosteroids group compared to the control group (MD 7.36%, 95% CI 4.94 to 9.79), but there was substantial heterogeneity. Benefits were observed in LVEF in two trials with 200 children given corticosteroids (MD 9.00%, 95% CI 7.48 to 10.52). New York Heart Association (NYHA) class and left ventricular end-stage systole diameter (LVESD) were not affected. Creatine phosphokinase (CPK) (MD -104.00 U/L, 95% CI -115.18 to -92.82), Isoenzyme of creatine phosphate MB (CKMB) (MD 10.35 U/L, 95% CI 8.92 to 11.78), were reduced in the corticosteroids group compared to the control group, although the evidence is limited to small participant numbers. There were insufficient data on adverse events.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2013-09-24 17:42:31 +0800" MODIFIED_BY="[Empty name]">
+<P>For people diagnosed with viral myocarditis and low LVEF, corticosteroids do not reduce mortality. They may improve cardiac function but the trials were of low quality and small size so this finding must be regarded as uncertain. High-quality, large-scale RCTs should be careful designed to determine the role of corticosteroid treatment for viral myocarditis. Adverse events should also be carefully evaluated.<BR/>
+</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2013-10-12 22:28:42 +0800" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2013-10-11 22:43:31 +0800" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="2">Description of the condition</HEADING>
+<P>Myocarditis is defined as inflammation of the myocardium accompanied by myocellular necrosis (<LINK REF="REF-Batra-2001" TYPE="REFERENCE">Batra 2001</LINK>). Myocarditis is always associated with virus infection (<LINK REF="REF-Calderaro-2010" TYPE="REFERENCE">Calderaro 2010</LINK>). Viral myocarditis is a multiple phases disease (<LINK REF="REF-Mason-2003" TYPE="REFERENCE">Mason 2003</LINK>). It is a potentially devastating disease that results from viral infection and T cell-mediated autoimmune disease (<LINK REF="REF-Metzger-2011" TYPE="REFERENCE">Metzger 2011</LINK>). At the end-stage of myocarditis, dilated cardiomyopathy usually develops (<LINK REF="REF-Simon-2008" TYPE="REFERENCE">Simon 2008</LINK>). Even in people diagnosed with cardiomyopathy, viral infection and inflammation were found in their myocardium (<LINK REF="REF-Baughman-2006" TYPE="REFERENCE">Baughman 2006</LINK>; <LINK REF="REF-Orinius-1968" TYPE="REFERENCE">Orinius 1968</LINK>). Although immunosuppressive medicines including corticosteroids were applied in many studies, their effects remain controversial.</P>
+<P>There are several underlying causes of myocarditis. Among them, viral myocarditis is the result of viral infection that can lead to substantial cardiac damage and severe acute heart failure (<LINK REF="REF-Kearney-2001" TYPE="REFERENCE">Kearney 2001</LINK>). It appears that viruses may induce myocarditis in genetically susceptible individuals, and that children are more likely to suffer this condition. More than 27 viruses can cause viral myocarditis, including Coxsackie viruses group A and B, Echo, human immunodeficiency virus 1(HIV-1), influenza virus and hepatitis A and C viruses (<LINK REF="REF-Liu-2013" TYPE="REFERENCE">Liu 2013</LINK>). The majority of patients recover spontaneously, but those with persistent ventricular dysfunction face a 20% one-year mortality rate (<LINK REF="REF-Liu-1996" TYPE="REFERENCE">Liu 1996</LINK>). Viral myocarditis also significantly increases the mortality rate of cardiac transplantation after dilated cardiomyopathy in children (<LINK REF="REF-Pietra-2012" TYPE="REFERENCE">Pietra 2012</LINK>). In recent years, virus-associated diseases have become more complex: for example, the Pandemic influenza A virus (H1N1), which had worldwide implications and its associated high mortality rate (<LINK REF="REF-Adedayo-2011" TYPE="REFERENCE">Adedayo 2011</LINK>). Fulminant myocarditis was reported to be correlated with the influenza A virus or HIV (<LINK REF="REF-Cabral-2012" TYPE="REFERENCE">Cabral 2012</LINK>; <LINK REF="REF-Magula-2003" TYPE="REFERENCE">Magula 2003</LINK>). H1N1 influenza would make myocarditis more common in recent years (<LINK REF="REF-Kandolf-2011" TYPE="REFERENCE">Kandolf 2011</LINK>), and viral myocarditis induced by H1N1 virus could possibly cause more serious results (<LINK REF="REF-Gdynia-2011" TYPE="REFERENCE">Gdynia 2011</LINK>; <LINK REF="REF-Haessler-2011" TYPE="REFERENCE">Haessler 2011</LINK>). A national survey performed in Japan discovered an incidence rate of 60% among people infected with the H1N1 virus in 2009, while the morbidity and mortality reached as high as 28% (<LINK REF="REF-Ukimura-2012" TYPE="REFERENCE">Ukimura 2012</LINK>). Very recently, H7N9 virus was also detected in China, which was said to cause severe viral myocarditis and acute respiratory distress syndrome (ARDS). These challenges requires further research of the most effective treatment for viral myocarditis.</P>
+<P>In the previous version of our review, 10 randomised controlled trials (RCTs) were initially selected but had to be excluded (<LINK REF="REF-Chen-2006" TYPE="REFERENCE">Chen 2006</LINK>). One of the controversies was the diagnostic criteria for viral myocarditis. The Dallas criteria (defined in Dallas city in the USA in 1986) were internationally accepted for the diagnosis of viral myocarditis, and relied on endocardial biopsy (<LINK REF="REF-Angelini-2000" TYPE="REFERENCE">Angelini 2000</LINK>; <LINK REF="REF-Uemura-2001" TYPE="REFERENCE">Uemura 2001</LINK>). However, recent evidence weakens the Dallas criteria. The sensitivity and specificity of the Dallas criteria depend on the site of the biopsy. Variable viruses could cause different presentations. In addition, experts' views on diagnosing myocarditis in some biopsies were not always consistent. (<LINK REF="REF-Mahrholdt-2004" TYPE="REFERENCE">Mahrholdt 2004</LINK>) and did not identify patients suffering myocarditis who responded to immune modulation therapy (<LINK REF="REF-Mason-2003" TYPE="REFERENCE">Mason 2003</LINK>). Doubts about their applicability were therefore raised in recent years (<LINK REF="REF-Baughman-2006" TYPE="REFERENCE">Baughman 2006</LINK>). On the other hand, endocardial biopsy would be considered ethically debatable in some countries. Comprehensive diagnostic criteria would be needed to promote clinical practice. For those countries with limited medical resources, the classification of myocardiopathy by the World Health Organization/International Society and Federation of Cardiology (WHO/ISFC) in 1995 (<LINK REF="REF-McKenna-1996" TYPE="REFERENCE">McKenna 1996</LINK>), or similar criteria (<LINK REF="REF-Ma-1999" TYPE="REFERENCE">Ma 1999</LINK>), provide comprehensive considerations with clinical presentations and requisite laboratory examinations for diagnosis. The disadvantage of these criteria is that they lack any pathological standard.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Description of the intervention</HEADING>
+<P>Direct viral response and excessive immune response are two causes of myocardial damage in viral myocarditis (<LINK REF="REF-Yang-2011" TYPE="REFERENCE">Yang 2011</LINK>). Highly active antiretroviral therapy (HAART) is considered useful for controlling virus infection, and for reducing the prevalence of virus-associated cardiomyopathy (<LINK REF="REF-Barbaro-2011" TYPE="REFERENCE">Barbaro 2011</LINK>). A recent review has also suggested that virus infection involves the evolution of myocarditis and dilated cardiomyopathy (DCM). Immune clearance of the virus could also improve left ventricular ejection fraction (LVEF) of the patients (<LINK REF="REF-Andreoletti-2009" TYPE="REFERENCE">Andreoletti 2009</LINK>). Prednisone, combined with azathioprine, is usually observed to improve histological abnormalities and ejection fraction (EF) in some patients (<LINK REF="REF-Salvi-1989" TYPE="REFERENCE">Salvi 1989</LINK>; <LINK REF="REF-Schultz-2009" TYPE="REFERENCE">Schultz 2009</LINK>). This evidence has contributed to the rationale for the application of corticosteroids for viral myocarditis. However, these medicines are unavailable in developing countries. According to the results of recent research, immuno-proteasome (IP) deficiency was positively related to severe myocardial tissue damage in viral myocarditis (<LINK REF="REF-Opitz-2011" TYPE="REFERENCE">Opitz 2011</LINK>). Corticosteroids have long been applied as an immunosuppressive agent. Recent research suggests that corticosteroids might enhance the capacity of macrophage type 2, so as to suppress T lymphocyte-mediated interferon-&#612; (IFN-&#612;) and interleukin 4 (IL-4) production, which provides the rationale for the application of corticosteroids to treat viral myocarditis (<LINK REF="REF-Kraaij-2011" TYPE="REFERENCE">Kraaij 2011</LINK>). Corticosteroids have therefore been proposed to be immunosuppressive. Immunological suppression therapeutics based on corticosteroids differ between countries. Many English-language studies applied prednisolone 2.5 mg/kg a day for one week for children, then slowly reduced the dosage (<LINK REF="STD-Camargo-1995" TYPE="STUDY">Camargo 1995</LINK>). For adults, prednisolone was prescribed at 1.25 mg/kg a day for two to four weeks (<LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>), or with oral azathioprine or cyclosporine (<LINK REF="STD-Maisch-1995" TYPE="STUDY">Maisch 1995</LINK>; <LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>). In China, dexamethasone 0.2 mg/kg a day was venously injected for one week for children, then switched to oral administration and slow reduction of the dosage. For adults, dexamethasone 10 ~ 30 mg a day was venously injected for one to six weeks (in most research for one week), and then switched to oral administration and reduction of the dosage in accordance with the patient's condition (<LINK REF="REF-Chen-2008" TYPE="REFERENCE">Chen 2008</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Why it is important to do the review</HEADING>
+<P>The criteria that we used for RCTs of virus-induced myocarditis in the previous version of this review were too strict, leading to none being located (<LINK REF="REF-Chen-2006" TYPE="REFERENCE">Chen 2006</LINK>). In the RCTs excluded in the previous review, only few patients were examined for evidence of virus using varying methods. The belief that viral infection is the main cause of myocarditis and DCM was based on animal experimental results (<LINK REF="REF-Garg-1998" TYPE="REFERENCE">Garg 1998</LINK>), and was restated recently (<LINK REF="REF-Shauer-2013" TYPE="REFERENCE">Shauer 2013</LINK>). For this updated review, we have therefore re-selected and included RCTs of myocarditis which was definitely or possibly caused by a virus in order to evaluate the effect and safety of corticosteroids on viral myocarditis, using different diagnostic criteria.</P>
+</SUBSECTION>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2013-09-24 18:35:07 +0800" MODIFIED_BY="[Empty name]">
+<P>The primary objective of this review is to assess the beneficial and harmful effects of treating acute or chronic viral myocarditis with corticosteroids. The secondary objective is to determine the best dose regimen.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2013-10-12 21:54:12 +0800" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2013-09-25 20:51:56 +0800" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2013-09-24 18:40:28 +0800" MODIFIED_BY="[Empty name]">
+<P>We include randomised controlled clinical trials (RCTs) irrespective of blinding, publication status, or language. We excluded quasi-randomised trials and historically controlled clinical trials.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2013-09-25 20:51:56 +0800" MODIFIED_BY="[Empty name]">
+<P>Male or female patients, including adults and children of any age or ethnic origin, with viral myocarditis, including acute (within a two-week period) and chronic viral myocarditis.</P>
+<P>The diagnostic criteria required for inclusion in the review avoided a requirement for myocardial biopsy, but followed usual clinical practice (<LINK REF="REF-Liu-2013" TYPE="REFERENCE">Liu 2013</LINK>), and were as follows:</P>
+<OL>
+<LI>A history of an antecedent flu-like syndrome accompanied by symptoms such as fever, arthralgia and malaise;</LI>
+<LI>Symptoms and signs of clinical heart failure and ventricular dilation;</LI>
+<LI>Laboratory findings of leukocytosis, an elevated sedimentation rate, eosinophilia, or an elevation in the cardiac fraction of creatine kinase;</LI>
+<LI>Electrocardiographic (ECG) evidence of arrhythmias or heart block;</LI>
+<LI>Having excluded other causes of global cardiac dysfunction.</LI>
+</OL>
+<P>Studies using other criteria (myocardial biopsy criteria, WHO//ISFC criteria, Chinese criteria, or others) were also included. People diagnosed with non-virus-caused myocarditis were excluded.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2013-09-24 18:44:39 +0800" MODIFIED_BY="[Empty name]">
+<P>We included any type of corticosteroid treatment, including glucocorticoids or mineral-corticoids, at any dose or administration regimen.</P>
+<P>Corticosteroids were compared with no intervention, placebo, supportive therapy, antiviral agents therapy or conventional therapy. Trials of corticosteroids plus antiviral agents or supportive therapy versus antiviral agents or supportive therapy alone, and corticosteroids plus other immunosuppressives versus placebo were also eligible for inclusion. Co-interventions were allowed as long as all arms of the randomised allocation received the same co-interventions. Conventional therapy included digitalis, diuretics, angiotensin-converting enzyme (ACE) inhibitors, carvedilol, beta-blockers, and spirolactone.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2013-09-24 21:41:28 +0800" MODIFIED_BY="[Empty name]">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2013-09-24 19:38:28 +0800" MODIFIED_BY="[Empty name]">
+<P>After treatment (at completion of regimen and at maximum follow-up) the outcomes were:</P>
+<OL>
+<LI>Mortality;</LI>
+<LI>Clinical endpoint (defined as death rate combined with heart transplantation rate);</LI>
+<LI>Incidence of complications (severe arrhythmias, cardiac shock).</LI>
+</OL>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2013-09-24 21:41:28 +0800" MODIFIED_BY="[Empty name]">
+<OL>
+<LI>Cardiac function (the New York Heart Association/NYHA classification, or left ventricular ejection fraction (LVEF), left ventricular end-diastolic dimension (LVEDD), and left ventricular end-systolic dimension (LVESD));</LI>
+<LI>Cardiac enzyme (e.g. creatine phosphokinase (CPK) and CK-MB, lactate dehydrogenase (LDH), alpha-hydroxybutyrate dehydrogenase (alpha-HBDH), glutamine oxaloacetic transaminase (GOT)).</LI>
+<LI>Number and type of adverse events. Two types of adverse event were to be analysed: serious adverse events and adverse events not considered serious. Serious adverse events were any untoward medical occurrence that resulted in death, was life-threatening, required hospitalisation or prolongation of hospitalisation, resulted in persistent or significant disability, or was an event that might jeopardise the patient or require intervention to prevent one of the former serious adverse events (<LINK REF="REF-ICH_x002d_GCP-1997" TYPE="REFERENCE">ICH-GCP 1997</LINK>). All other adverse events were to be considered non-serious;</LI>
+<LI>Length of hospital stay, quality of life, and cost effectiveness (cost of medications per saved life or hospital length).</LI>
+</OL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2013-09-24 19:49:36 +0800" MODIFIED_BY="[Empty name]">
+<P>
+<BR/>
+</P>
+<ELECTRONIC_SEARCHES MODIFIED="2013-09-24 19:46:10 +0800" MODIFIED_BY="[Empty name]">
+<P>We searched the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 7 of 12, 2012) on <I>The Cochrane Library</I>, MEDLINE OVID (1946 to July Week 2, 2012), EMBASE OVID (1980 to Week 29, 2012), BIOSIS Previews (1969 to 20 July 2012), ISI Web of Science (1970 to 20 July, 2012), and LILACS (from its inception to 25 July, 2012) on 25 July 2012. We also searched the Chinese Biomed Database, CNKI and WANFANG Databases (from their inception to 31 December 2012). We applied no language restrictions.</P>
+<P>The searches were run twice for this update, in 2012 (<LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>) and 2009 (<LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK>). The Chinese search strategies are detailed in <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK>.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2013-09-24 19:49:36 +0800" MODIFIED_BY="[Empty name]">
+<P>We checked the reference lists of identified clinical trials and review articles in order to find randomised trials not identified by the electronic searches or by handsearching. We searched for ongoing trials through the National Research Register and the metaRegister of controlled trials (mRCT (<A HREF="http://www.controlled-trials.com/mrct">www.controlled-trials.com/mrct</A>)), and for grey literature through the database of the System for Information on Grey Literature in Europe (SIGLE). We contacted authors and experts in the field for any other trials or ongoing research.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2013-10-12 21:54:12 +0800" MODIFIED_BY="[Empty name]">
+<STUDY_SELECTION MODIFIED="2013-10-12 21:54:12 +0800" MODIFIED_BY="[Empty name]">
+<P>Two review authors (HS  and WW) independently selected the trials by reading the titles and abstracts of the citations. We retrieved any potentially eligible studies for further inspection according to the prespecified selection criteria. We resolved any disagreements by discussion with a third review author (JPL).</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Assessment of methodological quality</HEADING>
+<P>We followed the guidance given by the Cochrane Handbook (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). Two review authors (HS Chen and W Wang) independently assessed the quality of the studies without blinding to authorship or journal, and using the 'Risk of bias' assessment tool developed by The Cochrane Collaboration. We resolved discrepancies by discussion with a third review author (JP Liu). The items assessed were:</P>
+<UL>
+<LI>Was there adequate sequence generation (selection bias)?</LI>
+<LI>Was allocation adequately concealed (selection bias)?</LI>
+<LI>Was knowledge of the allocated interventions adequately prevented during the study (detection bias)?</LI>
+<UL>
+<LI>Participants and personnel</LI>
+<LI>Outcome assessors</LI>
+</UL>
+<LI>Were incomplete outcome data adequately addressed (attrition bias)?</LI>
+<LI>Are reports of the study free of suggestion of selective outcome reporting (reporting bias)?</LI>
+<LI>Was the study apparently free of other problems that could put it at a risk of bias?</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Assessment of reporting biases</HEADING>
+<P>Although we had planned to investigate publication bias by analysing funnel plots, there were insufficient studies identified that corresponded with our designated outcomes to enable their construction (<LINK REF="REF-Egger-1997" TYPE="REFERENCE">Egger 1997</LINK>).</P>
+</SUBSECTION>
+</STUDY_SELECTION>
+<EFFECT_MEASURES MODIFIED="2013-09-24 20:05:09 +0800" MODIFIED_BY="[Empty name]">
+<P>For dichotomous outcomes, data were expressed as a risk ratio (RR) with a 95% confidence interval (CI). For continuous outcomes, we used the mean difference (MD), or the standardised mean difference (SMD) if different scales had been used.</P>
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS MODIFIED="2013-10-11 18:32:26 +0800" MODIFIED_BY="[Empty name]">
+<P>We only included RCT that randomised patients to separate groups. </P>
+</UNIT_OF_ANALYSIS>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2013-09-24 23:06:11 +0800" MODIFIED_BY="[Empty name]">
+<P>We assessed heterogeneity using a Chi² test on N-1 degrees of freedom, with a P value of 0.05 used for statistical significance and the I² statistic (<LINK REF="REF-Higgins-2003" TYPE="REFERENCE">Higgins 2003</LINK>; <LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>).</P>
+</HETEROGENEITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2013-10-10 22:49:53 +0800" MODIFIED_BY="[Empty name]">
+<P>We pooled data using a random-effects model but the fixed-effect model was also analysed to ensure robustness of the model chosen and susceptibility to outliers.</P>
+<P>We intended to display the results as comparisons of:</P>
+<OL>
+<LI>Corticosteroids versus no intervention or placebo;</LI>
+<LI>Types of corticosteroids versus each other;</LI>
+<LI>Different dose of corticosteroids versus each other;</LI>
+<LI>Different regimens of corticosteroids versus each other;</LI>
+<LI>Optimal corticosteroids versus antivirals;</LI>
+<LI>Optimal corticosteroids versus supportive intervention;</LI>
+<LI>Combination therapies.</LI>
+</OL>
+<P>If sufficient randomised clinical trials were identified, we planned to perform sensitivity analyses according to their methodological quality:</P>
+<OL>
+<LI>Trials with adequate versus inadequate concealment of allocation;</LI>
+<LI>Trials with adequate versus inadequate generation of allocation sequence;</LI>
+<LI>Trials with or without double-blinding;</LI>
+<LI>Trials with or without intention-to-treat analysis.</LI>
+</OL>
+<P>Furthermore, if sufficient randomised clinical trials were identified, we planned to perform the following subgroup analysis:</P>
+<OL>
+<LI>Acute or chronic viral myocarditis;</LI>
+<LI>Children or adults;</LI>
+<LI>Treatment duration.</LI>
+</OL>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2013-10-12 22:28:42 +0800" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2013-09-25 17:43:14 +0800" MODIFIED_BY="[Empty name]">
+<SEARCH_RESULTS MODIFIED="2013-09-24 20:43:03 +0800" MODIFIED_BY="[Empty name]">
+<P>In the previous version of this review, we identified 507 references but selected only 10 randomised controlled trials (RCTs) to evaluation initially. Based on our original strict inclusion and exclusion criteria, all 10 RCTs were excluded.</P>
+<P>For this update we retrieved 2849 references, of which 381 were Chinese articles. After de-duplication, there were 2390 references (265 in Chinese). After screening the titles and abstracts, we evaluated the full text of 25 study reports. Eight RCTs (reported in 12 papers) were included, the details of which are shown in the <LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK> table. Twelve studies (reported in 13 papers) were excluded, with the reasons for exclusion presented in the <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK> table. The flow diagram in <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK> shows the study selection for the updated searches from 2009 and 2012 combined.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2013-09-25 17:43:14 +0800" MODIFIED_BY="[Empty name]">
+<P>Of the eight RCTs included in the review, five were reported in the English language, and three in Chinese. A total of 719 participants were included, of which 374 were in the corticosteroids treatment groups, and 345 in the control groups. Three RCTs included 312 children (<LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>; <LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>; <LINK REF="STD-Yang-2006" TYPE="STUDY">Yang 2006</LINK>). Of the five RCTs reporting gender, 65% were male. The three RCTs that did not report on gender were <LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>, <LINK REF="STD-Maisch-1995" TYPE="STUDY">Maisch 1995</LINK> and <LINK REF="STD-Yang-2006" TYPE="STUDY">Yang 2006</LINK>. Myocarditis was diagnosed by Dallas criteria in four RCTs (<LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>; <LINK REF="STD-Maisch-1995" TYPE="STUDY">Maisch 1995</LINK>; <LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>; <LINK REF="STD-Wojnicz-1999" TYPE="STUDY">Wojnicz 1999</LINK>). Three RCTs published in Chinese used Chinese criteria (<LINK REF="STD-Liao-2005" TYPE="STUDY">Liao 2005</LINK>; <LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>; <LINK REF="STD-Yang-2006" TYPE="STUDY">Yang 2006</LINK>). One RCT diagnosed with clinical criteria (<LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>). Participants from four RCTs were reported to accept virus detection (<LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>; <LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>; <LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>; <LINK REF="STD-Maisch-1995" TYPE="STUDY">Maisch 1995</LINK>). Serum viral antibodies were reported with positive results in 131 participants (<LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>; <LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>), and 20 participants had virus positive polymerase chain reaction (PCR) detection (<LINK REF="STD-Maisch-1995" TYPE="STUDY">Maisch 1995</LINK>). Virus detection results were not reported by <LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>. The total virus detection rate was 270/719 (37.6%), while the positive virus detection rate was 151/270 (55.9%).</P>
+<P>All participants were randomly assigned to corticosteroids treatment groups or control groups. Conventional treatments were applied to all participants. Corticosteroids were applied alone (<LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>; <LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>; <LINK REF="STD-Liao-2005" TYPE="STUDY">Liao 2005</LINK>; <LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>; <LINK REF="STD-Yang-2006" TYPE="STUDY">Yang 2006</LINK>), or with other immunosuppressive medicines (<LINK REF="STD-Maisch-1995" TYPE="STUDY">Maisch 1995</LINK>; <LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>; <LINK REF="STD-Wojnicz-1999" TYPE="STUDY">Wojnicz 1999</LINK>) which included azathioprine and cyclosporine. Chinese traditional medicines were applied to treatment groups in all three Chinese RCTs. The main medicines were Astragalus, Dansen, Liquorice, and ShenMai (<LINK REF="STD-Liao-2005" TYPE="STUDY">Liao 2005</LINK>; <LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>; <LINK REF="STD-Yang-2006" TYPE="STUDY">Yang 2006</LINK>).</P>
+</INCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2013-09-24 20:57:00 +0800" MODIFIED_BY="[Empty name]">
+<P>All participants were randomly assigned to corticosteroids treatment groups or no-corticosteroids groups. All participants were treated with conventional therapy. Only two RCTs reported their randomisation methods (<LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>; <LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>). None of the RCTs reported on allocation concealment, or blinding of participants and personnel. There were no incomplete data or selective reporting. One RCT was supported by the National Institute of Health of the United States (<LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>). A summary of the risks of bias in the included studies is illustrated in <LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK> and <LINK REF="FIG-03" TYPE="FIGURE">Figure 3</LINK>.<BR/>
+</P>
+<ALLOCATION MODIFIED="2013-09-24 20:54:51 +0800" MODIFIED_BY="[Empty name]">
+<P>Block randomisation table or procedure was used in two studies to assign their participants (<LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>; <LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>).</P>
+</ALLOCATION>
+<BLINDING MODIFIED="2013-05-28 21:55:08 +0800" MODIFIED_BY="[Empty name]">
+<P>Not reported.</P>
+</BLINDING>
+<EXCLUSIONS MODIFIED="2013-05-28 21:55:19 +0800" MODIFIED_BY="[Empty name]">
+<P>No incomplete data.</P>
+</EXCLUSIONS>
+<OTHER_BIAS_SOURCES MODIFIED="2013-09-24 20:55:57 +0800" MODIFIED_BY="[Empty name]">
+<P>There were too few RCTs to establish publication bias. No time-lag bias or duplicate publication bias were identified.</P>
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2013-10-12 22:28:42 +0800" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Primary outcomes</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">1.1 Mortality</HEADING>
+<P>Four RCTs (269 participants), comparing corticosteroids to no corticosteroids, reported on mortality: 51/148 participants (39.9%) in the corticosteroids group died, compared with 50/121 (41.3%) in the no-corticosteroids group: risk ratio (RR) 0.93 (95% confidence interval (CI): 0.70 to 1.24).(<LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">1.2 Death rate combined with heart transplantation rate</HEADING>
+<P>Five RCTs (353 adult participants) reported on this clinical endpoint, and one RCT in 27 children. No statistically significant differences were seen in death rate combined with heart transplant for either adults or children. (<LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>; <LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">1.3 Incidence of complications</HEADING>
+<P>None of the RCTs reported on the incidence of complications.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Secondary outcomes:</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Myocardial function</HEADING>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2.1 NYHA class</HEADING>
+<P>One RCT with 38 participants (5% of total participants included in the systematic review: 17 in corticosteroids group and 21 in the no-corticosteroids group) compared NYHA class at follow-up (<LINK REF="STD-Maisch-1995" TYPE="STUDY">Maisch 1995</LINK>). The difference between both groups was non-significant: MD 0.40 (95% CI -0.28 to 1.08) (<LINK REF="CMP-002.01" TYPE="ANALYSIS">Analysis 2.1</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2.2 - 2.4 Left ventricular ejection fraction (LVEF, %)</HEADING>
+<P>Five RCTs (442 participants) compared LVEF at 1 to 3 months follow-up. This accounted for 61.5% of total participants included in the systematic review. Treatment favoured LVEF: mean difference (MD) 7.36% (95% CI 4.94 to 9.79), but there was substantial heterogeneity (I² = 56%) ( <LINK REF="CMP-002.02" TYPE="ANALYSIS">Analysis 2.2</LINK>). Among the five RCTs, two (<LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>; <LINK REF="STD-Yang-2006" TYPE="STUDY">Yang 2006</LINK>) compared LVEF in children, demonstrating similar effects: MD 9.00% (95% CI: 7.48 to 10.52) (<LINK REF="CMP-002.03" TYPE="ANALYSIS">Analysis 2.3</LINK>), and one (<LINK REF="STD-Wojnicz-1999" TYPE="STUDY">Wojnicz 1999</LINK>) reported the outcome sustained at one-year follow-up: MD 13.00% (95% CI: 7.08 to 18.92) (<LINK REF="CMP-002.04" TYPE="ANALYSIS">Analysis 2.4</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2.5 Left ventricular end-diastolic diameter (LVEDD, mm)</HEADING>
+<P>Four RCTs (264 participants, adults and children) evaluated LVEDD at the end of observation between the corticosteroids group and the no-corticosteroids group. There was substantial heterogeneity (I² = 94%) and we did not conduct a meta-analysis. (<LINK REF="CMP-002.05" TYPE="ANALYSIS">Analysis 2.5</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2.6 Left ventricular end-systolic diameter (LVESD, mm)</HEADING>
+<P>Only one RCT with children evaluated LVESD at the end of one year of observation (<LINK REF="STD-Aziz-2010" TYPE="STUDY">Aziz 2010</LINK>). The difference between treatment and control groups was non-significant (<LINK REF="CMP-002.06" TYPE="ANALYSIS">Analysis 2.6</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3. Myocardial enzyme</HEADING>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3.1 Creatine Phosphokinase (CPK, U/L)</HEADING>
+<P>One RCT with 122 participants (17% of total participants in this review) evaluated CPK (<LINK REF="STD-Liao-2005" TYPE="STUDY">Liao 2005</LINK>). CPK in corticosteroids group was lower than that in no corticosteroids group, with a MD of -104.00 U/L (95% CI: -115.18 to -92.82) (<LINK REF="CMP-003.01" TYPE="ANALYSIS">Analysis 3.1</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3.2 Creatine Phosphokinase-MB (CK-MB, U/L)</HEADING>
+<P>One RCT with 100 children evaluated CK-MB (<LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>). In this trial, corticosteroids reduced CK-MB: MD -10.35 U/L (95% CI: -8.92 to -11.78) (<LINK REF="CMP-003.02" TYPE="ANALYSIS">Analysis 3.2</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3.3 alpha-hydroxybutyrate dehydrogenase (alpha-HBDH, U/L)</HEADING>
+<P>Two RCTs with 222 participants (30.9% of total participants in this review) evaluated alpha-HBDH (<LINK REF="STD-Liao-2005" TYPE="STUDY">Liao 2005</LINK>; <LINK REF="STD-Ma-2001" TYPE="STUDY">Ma 2001</LINK>). Alpha-HBDH in corticosteroids groups in both RCTs was lower than those in no corticosteroids group. But the I² was as high as 95% (<LINK REF="CMP-003.03" TYPE="ANALYSIS">Analysis 3.3</LINK>), which indicated the heterogeneity between these two RCTs was too high. Then the results could not be combined.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">4. Adverse events</HEADING>
+<P>Only one RCT reported adverse events (<LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>). Increase in creatinine level by more than 0.5 mg/dl was observed more commonly in the cyclosporine-plus-prednisone group (46%, versus 9% in the control group, and 16% in the azathioprine-plus-prednisone group). New onset of hypertension was observed in 14% of the prednisone treatment group. Severe infection was reported in 6% of the treatment group.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">5. Other outcomes</HEADING>
+<P>None of the RCTs reported length of hospital stay, quality of life, or cost effectiveness.<BR/>
+</P>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2013-10-05 07:50:17 +0800" MODIFIED_BY="[Empty name]">
+<P>
+<BR/>
+</P>
+<SUMMARY_OF_RESULTS MODIFIED="2013-10-05 07:45:25 +0800" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Key findings</HEADING>
+<P>A total of eight randomised controlled trials (RCTs), with 719 myocarditis patients, were included in our updated review. The trials were small and of poor quality. Overall mortality was 37.7%; and mortality was not reduced with corticosteroids either for children or for adults. Corticosteroids may improve cardiac function (Left Ventricular Ejection Fraction) but there was no effect on NYHA class, which classifies cardiac function in clinical practice. Left Ventricular End - Diastolic Diameter seemed to be improved by using corticosteroid, but this result came from combination of four RCTs with significant heterogeneity. From the results of this review, we conclude that corticosteroids may improve LVEF for people with viral myocarditis, either in adults or children, but they have no effects on improving cardiac diastolic function, or reducing mortality. It is important to treat this result with caution since the trials were small, of poor quality and with moderate to significant heterogeneity in the beneficial effects.</P>
+</SUBSECTION>
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS MODIFIED="2013-10-05 07:50:17 +0800" MODIFIED_BY="[Empty name]">
+<P>Viral detection was performed in 38% of participants included in the review, among whom 56% had virus-positive results. The prevalence of virus-associated myocarditis was very similar to that reported in a previous study (<LINK REF="REF-Andreoletti-2009" TYPE="REFERENCE">Andreoletti 2009</LINK>). However, the prevalence of myocarditis is reported to be high in some countries, and low in others. This difference may be attributable to variations in diagnostic criteria between countries (<LINK REF="REF-Cheng-2003" TYPE="REFERENCE">Cheng 2003</LINK>).</P>
+<P>In the previous version of this review, we identified 10 RCTs, but excluded all of them, either for failure to meet a strict diagnostic criterion, or because of confounding of corticosteroids with concomitant treatment with Chinese traditional medicines (<LINK REF="REF-Chen-2006" TYPE="REFERENCE">Chen 2006</LINK>). In this updated review, diagnosis of viral detection was extended beyond the Dallas criteria, and RCTs without virus-negative evidence are now included. We therefore re-selected and combined data from eight RCTs, but they are of low quality.</P>
+<P>Corticosteroids are not recommended for most conditions (<LINK REF="REF-McNamara-2002" TYPE="REFERENCE">McNamara 2002</LINK>). For people with myocarditis where a virus is detected, corticosteroids may have a detrimental effect, while those without virus detection may benefit from the treatment (<LINK REF="REF-Zimmermann-2005" TYPE="REFERENCE">Zimmermann 2005</LINK>). Viruses may cause severe sepsis (<LINK REF="REF-Zahariadis-2003" TYPE="REFERENCE">Zahariadis 2003</LINK>) and may aggravate the clinical outcomes of sepsis (<LINK REF="REF-Heininger-2011" TYPE="REFERENCE">Heininger 2011;</LINK> <LINK REF="REF-Kalil-2011" TYPE="REFERENCE">Kalil 2011</LINK>). Sepsis induced by a virus is similar to that caused by bacteria, but the risks of virus are often underestimated. Toll-like receptor 3 and NF-kB transcription factor play an important role in virus-associated sepsis (<LINK REF="REF-Zahariadis-2003" TYPE="REFERENCE">Zahariadis 2003</LINK>). Viral myocarditis could possibly be one form of virus-associated sepsis, even though the inflammation of the myocardium was more severe than in other tissues. For people with severe sepsis, or even septic shock, hydrocortisone at doses as low as 200 to 300 mg per day could improve the clinical outcomes (<LINK REF="REF-Sprung-2011" TYPE="REFERENCE">Sprung 2011</LINK>). Corticosteroids could increase circulating cortisol levels and reduce pro-inflammatory cytokines such as IL-1, IL-6, IL-8 and TNF-alpha, and thereby balance the inflammatory response (<LINK REF="REF-Salluh-2010" TYPE="REFERENCE">Salluh 2010</LINK>). There is therefore a plausible basis for the use of low doses of corticosteroids for viral myocarditis. But the best regimens remains unclear.</P>
+<P>Only one RCT reported adverse events, in which renal injury seemed to be severe, but other immunosuppressive medicines were combined with corticosteroids and may have confounded this finding. In some non-RCTs, hirsutism and Cushing's syndrome were commonly observed (<LINK REF="REF-Chan-1991" TYPE="REFERENCE">Chan 1991</LINK>; <LINK REF="REF-Gagliardi-2004" TYPE="REFERENCE">Gagliardi 2004</LINK>; <LINK REF="REF-Salvi-1989" TYPE="REFERENCE">Salvi 1989</LINK>; <LINK REF="REF-Vester-1997" TYPE="REFERENCE">Vester 1997</LINK>). Side effects such as hypertension, candidiasis, epididymitis, or peritonitis were relatively rare (<LINK REF="REF-Chan-1991" TYPE="REFERENCE">Chan 1991</LINK>; <LINK REF="REF-Salvi-1989" TYPE="REFERENCE">Salvi 1989</LINK>; <LINK REF="REF-Vester-1997" TYPE="REFERENCE">Vester 1997</LINK>). Corticosteroids may cause many other adverse events, although they were not observed or reported in the studies included in this review. For example, myocarditis can be induced by steroids (<LINK REF="REF-Fukae-2000" TYPE="REFERENCE">Fukae 2000</LINK>). Severe soft tissue infection and adrenal insufficiency have been reported (<LINK REF="REF-Hosenpud-1985" TYPE="REFERENCE">Hosenpud 1985</LINK>). Another risk of corticosteroids is hip avascular necrosis. It is reported that about 90% of atraumatic hip avasculars necrosis is attributed to corticosteroids therapy or to excess alcohol consumption (<LINK REF="REF-Hamilton-2009" TYPE="REFERENCE">Hamilton 2009</LINK>). Corticosteroids could induce hip avasculars necrosis by regulating genes expression (<LINK REF="REF-Tong-2011" TYPE="REFERENCE">Tong 2011</LINK>). However, no hip avascular necrosis was observed in the studies covered by this review.</P>
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE MODIFIED="2013-09-25 16:58:59 +0800" MODIFIED_BY="[Empty name]">
+<P>The overall quality of the included studies was poor. Two RCTs stated they used block randomisation tables to allocate their participants (<LINK REF="STD-Latham-1989" TYPE="STUDY">Latham 1989</LINK>; <LINK REF="STD-Mason-1995" TYPE="STUDY">Mason 1995</LINK>), while the other trials did not report any details of randomisation. The type of medicines varied: corticosteroids included prednisolone, prednisone, and dexamethasone. Other combination interventions were variously used among the RCTs, which could compromise the results of these studies. Furthermore, data on adverse events was generally not reported and could not be quantified.</P>
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES MODIFIED="2013-09-25 00:03:23 +0800" MODIFIED_BY="[Empty name]">
+<P>This updated review has a number of strengths and limitations. Strengths include a strong and comprehensive search strategy covering 10 databases (including three Chinese databases). However, the trials were small-scale and of low methodological quality.</P>
+</POTENTIAL_BIASES>
+<AGREEMENT MODIFIED="2013-09-25 17:01:44 +0800" MODIFIED_BY="[Empty name]">
+<P>There are few systematic reviews studying corticosteroids for viral myocarditis. A 2004 review concluded that corticosteroids had no effects on improving the prognosis of acute myocarditis (<LINK REF="REF-Hia-2004" TYPE="REFERENCE">Hia 2004</LINK>). However, this review included only one RCT. In 2006, we undertook our systematic review to assess the effects of corticosteroids on viral myocarditis. Our selection criteria were strict, eliminating any RCTs that could be included. In a recent study of participants with myocarditis which excluded those with positive detection of virus, immunosuppressive therapy included prednisone 1 mg/kg daily for four weeks followed by 0.33 mg/kg daily for five months, and azathioprine 2 mg/kg daily for six months (<LINK REF="STD-Frustaci-2009" TYPE="STUDY">Frustaci 2009</LINK>). In a retrospective case series, participants who were diagnosed with dilated cardiomyopathy and where the virus was detected, were treated with interferon beta 1b, and those with inflammation and no detectable virus were treated with prednisolone (<LINK REF="REF-Zimmermann-2005" TYPE="REFERENCE">Zimmermann 2005</LINK>). These results confirm the conclusions from the ESETCID study (<LINK REF="STD-ESETCID-2000" TYPE="STUDY">ESETCID 2000</LINK>). Corticosteroids may have a role in treating myocarditis without viral evidence. However, although the virus could not be detected in cardiac tissue, viral myocarditis could not be excluded (<LINK REF="STD-Frustaci-2009" TYPE="STUDY">Frustaci 2009</LINK>). It therefore remains difficult to evaluate the effects of corticosteroid on viral myocarditis.</P>
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2013-09-25 21:22:06 +0800" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2013-09-25 17:03:24 +0800" MODIFIED_BY="[Empty name]">
+<P>For people diagnosed with viral myocarditis and low left ventricular ejection fraction, corticosteroids do not reduce mortality. Cardiac function may be improved by applying corticosteroids, but this needs to be interpreted with caution since the evidence is based on small-scale trials of poor methodological quality.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2013-09-25 21:22:06 +0800" MODIFIED_BY="[Empty name]">
+<P>High-quality randomised controlled trials (RCTs) are warranted in people suffering viral myocarditis, comparing corticosteroids with placebo. It is important to clarify and standardise diagnostic criteria for viral myocarditis, and to design high-quality RCTs with sufficient statistical power. As well as mortality, patient-related outcomes, such as NYHA class or quality of life, should be evaluated. Different types and dosages of corticosteroids should be compared, to determine the best therapeutic regimens. Furthermore, adverse events of steroids should be carefully observed and reported in the studies.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2013-09-25 17:08:22 +0800" MODIFIED_BY="[Empty name]">
+<P>We thank Claire Williams, Nicole Martin, and other staff in the Cochrane Heart Group for their assistance with the review. We also thank Nicole Martin, Jolanta Sabbat, Eleonora Staines-Urias, Daniela Manno and Marta Staff for translating papers in languages other than English. We acknowledge all participants in the clinical trials for their contribution to our knowledge of corticosteroids for the treatment of viral myocarditis.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2013-08-28 16:11:49 +0800" MODIFIED_BY="[Empty name]">
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2013-09-25 17:09:18 +0800" MODIFIED_BY="[Empty name]">
+<P>Chen HS: study selection, quality assessment, data extraction, data analysis, development of final review and contact author.<BR/>Wang W: study selection, quality assessment, data extraction, data analysis, co-development of final review.<BR/>Wu SN: assessment of the result of the review in relation to clinical practical guidance.<BR/>Liu JP: third party for study selection and quality assessment, providing methodological perspectives, co-development of final review and revision.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2013-10-11 18:43:55 +0800" MODIFIED_BY="[Empty name]">
+<P>In the previous version of this review, we identified 10 RCTs, but excluded all of them, either for failure to meet a strict diagnostic criterion, or because of confounding of corticosteroids with concomitant treatment with Chinese traditional medicines (<LINK REF="REF-Chen-2006" TYPE="REFERENCE">Chen 2006</LINK>). In this updated review, diagnosis of viral detection was extended beyond the Dallas criteria, and RCTs without virus-negative evidence are now included. We therefore re-selected and combined data from eight RCTs, but they are of low quality.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2013-10-10 23:20:43 +0800" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2013-09-25 21:26:15 +0800" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2013-09-25 21:26:15 +0800" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Aziz-2010" MODIFIED="2013-09-25 18:35:10 +0800" MODIFIED_BY="[Empty name]" NAME="Aziz 2010" YEAR="2010">
+<REFERENCE MODIFIED="2013-09-25 18:35:10 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Aziz KU, Patel N, Sadullah T, Tasneem H, Thawerani H, Talpur S</AU>
+<TI>Acute viral myocarditis: role of immunosuppression: a prospective randomised study</TI>
+<SO>Cardiology in the Young</SO>
+<YR>2010</YR>
+<VL>20</VL>
+<NO>5</NO>
+<PG>509-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Latham-1989" MODIFIED="2013-04-15 21:12:14 +0800" MODIFIED_BY="[Empty name]" NAME="Latham 1989" YEAR="1989">
+<REFERENCE MODIFIED="2013-04-15 21:12:14 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Latham RD, Mulrow JP, Virmani R, Robinowitz M, Moody JM</AU>
+<TI>Recently diagnosed idiopathic dilated cardiomyopathy: incidence of myocarditis and efficacy of prednisone therapy</TI>
+<SO>American Heart Journal</SO>
+<YR>1989</YR>
+<VL>117</VL>
+<NO>4</NO>
+<PG>876-882</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Liao-2005" MODIFIED="2013-04-15 21:12:17 +0800" MODIFIED_BY="[Empty name]" NAME="Liao 2005" YEAR="2005">
+<REFERENCE MODIFIED="2013-04-15 21:12:17 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Liao RH, Li L, Wang X</AU>
+<TI>Therapeutic effects of comprehensive program plus hormone on viral myocarditis</TI>
+<SO>Acta Academiae Medicinae Militaris Tertiae (Chinese)</SO>
+<YR>2005</YR>
+<VL>27</VL>
+<NO>6</NO>
+<PG>575-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ma-2001" MODIFIED="2013-02-20 17:00:16 +0800" MODIFIED_BY="[Empty name]" NAME="Ma 2001" YEAR="2001">
+<REFERENCE MODIFIED="2013-02-20 17:00:16 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ma PaiRan, Wang ShuJun, Zhuang JianXin, Huang Lei</AU>
+<TI>The treatment effect of corticosteroids on reducing myocardial enzyme in viral myocarditis in children</TI>
+<SO>Shan Dong Medical Journal</SO>
+<YR>2001</YR>
+<VL>41</VL>
+<NO>19</NO>
+<PG>13-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Maisch-1995" MODIFIED="2013-09-25 21:26:15 +0800" MODIFIED_BY="[Empty name]" NAME="Maisch 1995" YEAR="1995">
+<REFERENCE MODIFIED="2013-04-15 21:12:27 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Maisch B, Herzum M, Hufnagel G, Hengstenberg C, Schonian U, Bittinger A, et al</AU>
+<TI>Immunosuppressive treatment in auto-reactive myocarditis results from a placebo-controlled trial</TI>
+<SO>Journal of the American College of Cardiology</SO>
+<YR>1993</YR>
+<VL>21</VL>
+<NO>2 Suppl A</NO>
+<PG>21A</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2013-09-25 21:26:15 +0800" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Maisch B, Herzum M, Hufnagel G, Hengstenberg C, Schonian U, Bittinger A, et al</AU>
+<TI>Immunosuppressive treatment in auto-reactive myocarditis: results from a placebo-controlled trial</TI>
+<SO>Journal of the American College of Cardiology</SO>
+<YR>1995</YR>
+<VL>Special Issue</VL>
+<PG>325A</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2013-09-25 18:38:29 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Maisch B, Schonian U, Hengstenberg C, Herzum M, Hufnagel G, Bethge C, et al</AU>
+<TI>Immunosuppressive treatment in autoreactive myocarditis--results from a controlled trial</TI>
+<SO>Postgraduate Medical Journal</SO>
+<YR>1994</YR>
+<VL>70</VL>
+<NO>Suppl 1</NO>
+<PG>S29-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mason-1995" MODIFIED="2013-09-25 18:40:54 +0800" MODIFIED_BY="[Empty name]" NAME="Mason 1995" YEAR="1995">
+<REFERENCE MODIFIED="2013-02-01 21:08:23 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hahn EA, Hartz VL, Moon TE, O'Connell JB, Herskowitz A, Mcmanus BM, et al</AU>
+<TI>The myocarditis treatment trial: design, methods and patient enrolment</TI>
+<SO>European Heart Journal</SO>
+<YR>1995</YR>
+<VL>16</VL>
+<NO>Suppl</NO>
+<PG>162-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2013-09-25 18:40:54 +0800" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Mason JW, O'Connell JB, Herskowitz A, Rose NR, McManus BM, Billingham ME, et al</AU>
+<TI>A clinical trial of immunosuppressive therapy for myocarditis: The Myocarditis Treatment Trial Investigators</TI>
+<SO>New England Jounral of Medicine</SO>
+<YR>1995</YR>
+<VL>333</VL>
+<NO>5</NO>
+<PG>269-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wojnicz-1999" MODIFIED="2013-09-25 18:42:40 +0800" MODIFIED_BY="[Empty name]" NAME="Wojnicz 1999" YEAR="1999">
+<REFERENCE MODIFIED="2013-09-25 18:41:52 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wojnicz R, Nowalany-Kozielska E, Szczurek-Katanski K, Wodniecki J, Nozynski J, Zembala M, et al</AU>
+<TI>Randomized studies of new therapeutic management in patients with myocarditis</TI>
+<SO>Journal of the American College of Cardiology</SO>
+<YR>1999</YR>
+<VL>2</VL>
+<NO>Suppl A</NO>
+<PG>506A</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2013-09-25 18:42:40 +0800" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wojnicz R, Nowalany-Kozielska E, Wojciechowska C, Glanowska G, Wilczewski P, Niklewski T, et al</AU>
+<TI>Randomized, placebo-controlled study for immunosuppressive treatment of inflammatory dilated cardiomyopathy: two-year follow-up results</TI>
+<SO>Circulation</SO>
+<YR>2001</YR>
+<VL>104</VL>
+<NO>1</NO>
+<PG>39-45</PG>
+<IDENTIFIERS MODIFIED="2013-02-28 16:09:49 +0800" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2013-02-28 16:09:49 +0800" MODIFIED_BY="[Empty name]" TYPE="PUBMED" VALUE="11435335"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Yang-2006" MODIFIED="2013-04-15 21:13:15 +0800" MODIFIED_BY="[Empty name]" NAME="Yang 2006" YEAR="2006">
+<REFERENCE MODIFIED="2013-04-15 21:13:15 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Yang CQ, Ding DP</AU>
+<TI>Treatment effects of Shenmai injection combined corticosteroids on acute viral myocarditis in children</TI>
+<SO>Lishizhen Medicine and Materia Medica Research</SO>
+<YR>2006</YR>
+<VL>17</VL>
+<NO>5</NO>
+<PG>872-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2013-09-25 18:50:42 +0800" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Camargo-1995" MODIFIED="2013-09-25 18:43:36 +0800" MODIFIED_BY="[Empty name]" NAME="Camargo 1995" YEAR="1995">
+<REFERENCE MODIFIED="2013-09-25 18:43:36 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Camargo PR, Snitcowsky R, Da Luz PL, Mazzieri R, Higuchi ML, Rati M, et al</AU>
+<TI>Favorable effects of immunosuppressive therapy in children with dilated cardiomyopathy and active myocarditis</TI>
+<SO>Pediatric Cardiology</SO>
+<YR>1995</YR>
+<VL>16</VL>
+<NO>2</NO>
+<PG>61-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chen-1992" MODIFIED="2010-02-07 21:22:37 +0800" MODIFIED_BY="[Empty name]" NAME="Chen 1992" YEAR="1992">
+<REFERENCE MODIFIED="2010-02-07 21:22:35 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chen SX, Chang BL, Bao SH</AU>
+<TI>Integrated traditional and Western medicine treatment of severe viral myocarditis</TI>
+<SO>Zhongguo Zhong Xi Yi Jie He Za Zhi</SO>
+<YR>1992</YR>
+<VL>12</VL>
+<NO>7</NO>
+<PG>398-401</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-ESETCID-2000" MODIFIED="2013-09-25 18:45:55 +0800" MODIFIED_BY="Kate Cahill" NAME="ESETCID 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hufnagel G, Pankuweit S, Richter A, Schonian U, Maisch B</AU>
+<TI>The European Study of Epidemiology and Treatment of Cardiac Inflammatory Diseases (ESETCID). First epidemiological results</TI>
+<SO>Herz</SO>
+<YR>2000</YR>
+<VL>25</VL>
+<NO>3</NO>
+<PG>279-285</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2013-09-25 18:45:55 +0800" MODIFIED_BY="Kate Cahill" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Maisch B, Hufnagel G, Schonian U, Hengstenberg C</AU>
+<TI>The European Study of Epidemiology and Treatment of Cardiac Inflammatory Disease (ESETCID)</TI>
+<SO>European Heart Journal</SO>
+<YR>1995</YR>
+<VL>16</VL>
+<NO>Suppl O</NO>
+<PG>173-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Frustaci-2009" MODIFIED="2013-09-25 18:47:52 +0800" MODIFIED_BY="[Empty name]" NAME="Frustaci 2009" YEAR="2009">
+<REFERENCE MODIFIED="2013-09-25 18:47:52 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Frustaci A, Russo MA, Chimenti C</AU>
+<TI>Randomized study on the efficacy of immunosuppressive therapy in patients with virus-negative inflammatory cardiomyopathy: the TIMIC study</TI>
+<SO>European Heart Journal</SO>
+<YR>2009</YR>
+<VL>30</VL>
+<NO>16</NO>
+<PG>1995-2002</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kong-2001" MODIFIED="2013-09-25 18:48:31 +0800" MODIFIED_BY="[Empty name]" NAME="Kong 2001" YEAR="2001">
+<REFERENCE MODIFIED="2013-09-25 18:48:31 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kong Qing-fu, Song Shu-zhi, Xie Xue-ying, Zhang Xin-hua, Yue Ge-jie, Chen Zhao-li</AU>
+<TI>Clinical study on therapeutic effects of treatment according to syndrome differentiation of Traditional Chinese Medicine combined with captopril on severe viral myocarditis complicated heart failure</TI>
+<SO>Zhongguo Zhong Xi Yi Jie He Za Zhi</SO>
+<YR>2001</YR>
+<VL>21</VL>
+<NO>7</NO>
+<PG>513-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Li-1997" MODIFIED="2013-09-25 18:48:42 +0800" MODIFIED_BY="[Empty name]" NAME="Li 1997" YEAR="1997">
+<REFERENCE MODIFIED="2013-09-25 18:48:42 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Li SenLin, Zhang ZhiGan, Zhou PengYu</AU>
+<TI>Effect of synthetic action of HuangQi, cortisone on acute viral myocarditis</TI>
+<SO>ZhongGuo Zhong Xi Yi Jie He Za Zhi</SO>
+<YR>1997</YR>
+<VL>17</VL>
+<NO>2</NO>
+<PG>118-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ma-2002" MODIFIED="2011-05-31 15:55:04 +0800" MODIFIED_BY="[Empty name]" NAME="Ma 2002" YEAR="2002">
+<REFERENCE MODIFIED="2011-05-31 15:55:02 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ma PaiRan, Wang ShuJun, Yang XiaoHui, Ouyan ShiXiang</AU>
+<TI>The differentia and value of anticardiolipin antibody between pre- and pro- treatment of corticosteroids in children with viral myocarditis</TI>
+<SO>Shandong Medical Journal</SO>
+<YR>2002</YR>
+<VL>42</VL>
+<NO>23</NO>
+<PG>1-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mao-2007" MODIFIED="2013-09-25 18:49:25 +0800" MODIFIED_BY="[Empty name]" NAME="Mao 2007" YEAR="2007">
+<REFERENCE MODIFIED="2013-09-25 18:49:25 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mao KeJiang, Li YiNan</AU>
+<TI>Application research on staged immunological intervention in viral myocarditis patients</TI>
+<SO>Modern Hospital</SO>
+<YR>2007</YR>
+<VL>7</VL>
+<NO>6</NO>
+<PG>31-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sun-1999" MODIFIED="2013-09-25 18:49:38 +0800" MODIFIED_BY="Kate Cahill" NAME="Sun 1999" YEAR="1999">
+<REFERENCE MODIFIED="2013-09-25 18:49:38 +0800" MODIFIED_BY="Kate Cahill" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sun Dabao</AU>
+<TI>Corticosteroids treatment effects in 36 cases diagnosed with viral myocarditis with ventricle premature beats</TI>
+<SO>Journal of Zhenjiang Medical College</SO>
+<YR>1999</YR>
+<VL>9</VL>
+<NO>2</NO>
+<PG>211</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wu-1999" MODIFIED="2013-09-25 18:50:12 +0800" MODIFIED_BY="[Empty name]" NAME="Wu 1999" YEAR="1999">
+<REFERENCE MODIFIED="2013-09-25 18:50:12 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wu Yao-zhang, Chen Bing-Wang</AU>
+<TI>Observation on curative effects of astragalus injection combined with glucocorticoid on acutely severe viral myocarditis</TI>
+<SO>Zhongguo Zhong Xi Yi Jie He Ji Jiu Za Zhi</SO>
+<YR>1999</YR>
+<VL>6</VL>
+<NO>8</NO>
+<PG>350-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zhang-2006" MODIFIED="2011-05-24 23:56:56 +0800" MODIFIED_BY="[Empty name]" NAME="Zhang 2006" YEAR="2006">
+<REFERENCE MODIFIED="2011-05-24 23:56:52 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zhang ChunTang, Li AnMin, Li Na</AU>
+<TI>Effect of calcium dibutyryladenosine cyclophosph-ate on viral myocarditis</TI>
+<SO>Central Plains Medical Journal</SO>
+<YR>2006</YR>
+<VL>33</VL>
+<NO>8</NO>
+<PG>80-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zhang-2008" MODIFIED="2013-09-25 18:50:42 +0800" MODIFIED_BY="[Empty name]" NAME="Zhang 2008" YEAR="2008">
+<REFERENCE MODIFIED="2013-09-25 18:50:42 +0800" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zhang JinFu</AU>
+<TI>Effects of 1,6-FDP combined HuangQi injection on 30 children with viral myocardiits</TI>
+<SO>China Eugenic Genetics Medicine</SO>
+<YR>2008</YR>
+<VL>16</VL>
+<NO>6</NO>
+<PG>131-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2013-10-10 23:20:43 +0800" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2013-10-10 23:20:43 +0800" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Adedayo-2011" MODIFIED="2013-09-25 20:14:56 +0800" MODIFIED_BY="[Empty name]" NAME="Adedayo 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Adedayo O, Iheonunekwu N, Jefferson D</AU>
+<TI>Acute fulminant myocarditis and the 2009 pandemic influenza A virus (H1N1)</TI>
+<SO>West Indian Medical Journal</SO>
+<YR>2011</YR>
+<VL>60</VL>
+<NO>2</NO>
+<PG>217-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Andreoletti-2009" MODIFIED="2013-09-25 20:16:07 +0800" MODIFIED_BY="[Empty name]" NAME="Andreoletti 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Andreoletti L, Leveque N, Boulagnon C, Brasselet C, Fornes P</AU>
+<TI>Viral causes of human myocarditis</TI>
+<SO>Archives of Cardiovascular Disease</SO>
+<YR>2009</YR>
+<VL>102</VL>
+<NO>6-7</NO>
+<PG>559-68</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Angelini-2000" MODIFIED="2013-09-25 20:16:33 +0800" MODIFIED_BY="[Empty name]" NAME="Angelini 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Angelini A, Calzolari V, Calabrese F, Boffa GM, Maddalena F, Chioin R, et al</AU>
+<TI>Myocarditis mimicking acute myocardial infarction: role of endomyocardial biopsy in the differential diagnosis</TI>
+<SO>Heart</SO>
+<YR>2000</YR>
+<VL>84</VL>
+<NO>3</NO>
+<PG>245-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Barbaro-2011" MODIFIED="2013-09-25 20:16:55 +0800" MODIFIED_BY="[Empty name]" NAME="Barbaro 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Barbaro G, Barbarini G</AU>
+<TI>Human immunodeficiency virus and cardiovascular risk</TI>
+<SO>Indian Journal of Medical Research</SO>
+<YR>2011</YR>
+<VL>134</VL>
+<NO>6</NO>
+<PG>898-903</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Batra-2001" MODIFIED="2008-09-09 05:24:23 +0800" MODIFIED_BY="Karen Hovhannisyan" NAME="Batra 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Batra AS, Lewis AB</AU>
+<TI>Acute myocarditis</TI>
+<SO>Currence Opinion in Pediatrics</SO>
+<YR>2001</YR>
+<VL>13</VL>
+<NO>3</NO>
+<PG>234-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Baughman-2006" MODIFIED="2013-09-25 20:17:31 +0800" MODIFIED_BY="[Empty name]" NAME="Baughman 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Baughman KL</AU>
+<TI>Diagnosis of myocarditis-death of Dallas Criteria</TI>
+<SO>Circulation</SO>
+<YR>2006</YR>
+<VL>113</VL>
+<NO>4</NO>
+<PG>593-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cabral-2012" MODIFIED="2013-09-25 20:20:02 +0800" MODIFIED_BY="[Empty name]" NAME="Cabral 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Cabral M, Brito MJ, Conde M, Oliveira M, Ferreira G</AU>
+<TI>Fulminant myocarditis associated with pandemic H1N1 influenza A virus</TI>
+<SO>Revista Portuguesa de Cardiologia [Portuguese Journal of Cardiology]</SO>
+<YR>2012</YR>
+<VL>31</VL>
+<NO>7-8</NO>
+<PG>517-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Calderaro-2010" MODIFIED="2013-09-25 20:23:14 +0800" MODIFIED_BY="[Empty name]" NAME="Calderaro 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Calderaro D, Dos Santos Sde S, Tonacio AC, Gualandro DM, Rezende PC, Yu PC, et al</AU>
+<TI>Acute myocarditis in H1N1 influenza A virus infection</TI>
+<SO>Revista Associação da Médica Brasiliera</SO>
+<YR>2010</YR>
+<VL>56</VL>
+<NO>4</NO>
+<PG>394</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chan-1991" MODIFIED="2013-04-15 21:13:49 +0800" MODIFIED_BY="[Empty name]" NAME="Chan 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Chan KY, Iwahara M, Benson LN, Wilson GJ, Freedom RM</AU>
+<TI>Immunosuppressive therapy in the management of acute myocarditis in children: a clinical trial</TI>
+<SO>Journal of the American College of Cardiology</SO>
+<YR>1991</YR>
+<VL>17</VL>
+<NO>2</NO>
+<PG>458-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chen-2008" MODIFIED="2013-09-25 20:25:14 +0800" MODIFIED_BY="[Empty name]" NAME="Chen 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Chen HS, Wen JM, Wu SN</AU>
+<TI>Clinical management and relevant issues of viral myocarditis</TI>
+<SO>Chinese Journal of Practical Internal Medicine</SO>
+<YR>2008</YR>
+<VL>28</VL>
+<NO>6</NO>
+<PG>510-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cheng-2003" MODIFIED="2013-09-25 20:25:37 +0800" MODIFIED_BY="[Empty name]" NAME="Cheng 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Cheng TO</AU>
+<TI>Prevalence of viral myocarditis</TI>
+<SO>Archives of Internal Medicine</SO>
+<YR>2003</YR>
+<VL>163</VL>
+<NO>14</NO>
+<PG>1742</PG>
+<IDENTIFIERS MODIFIED="2013-03-06 16:05:30 +0800" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2013-03-06 16:05:30 +0800" MODIFIED_BY="[Empty name]" TYPE="PUBMED" VALUE="12885693"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Egger-1997" MODIFIED="2013-09-24 20:03:18 +0800" MODIFIED_BY="Kate Cahill" NAME="Egger 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Egger M, Smith GD, Schneider M, Minder C</AU>
+<TI>Bias in meta-analysis detected by a simple, graphical test</TI>
+<SO>BMJ</SO>
+<YR>1997</YR>
+<VL>315</VL>
+<PG>629-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fukae-2000" MODIFIED="2013-09-25 20:29:32 +0800" MODIFIED_BY="[Empty name]" NAME="Fukae 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Fukae S, Ashizawa N, Morikawa S, Yano K</AU>
+<TI>A fatal case of fulminant myocarditis with human herpes virus-6 infection</TI>
+<SO>Internal Medicine</SO>
+<YR>2000</YR>
+<VL>39</VL>
+<NO>8</NO>
+<PG>632-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gagliardi-2004" MODIFIED="2013-03-09 21:04:41 +0800" MODIFIED_BY="[Empty name]" NAME="Gagliardi 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Gagliardi MG, Bevilacqua M, Bassano C, Leonardi B, Boldrini R, Camassei FD</AU>
+<TI>Long term follow up of children with myocarditis treated by immunosuppression and of children with dilated cardiomyopathy</TI>
+<SO>Heart</SO>
+<YR>2004</YR>
+<VL>90</VL>
+<NO>10</NO>
+<PG>1167-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Garg-1998" MODIFIED="2013-09-25 20:34:08 +0800" MODIFIED_BY="[Empty name]" NAME="Garg 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Garg A, Shiau J, Guyatt G</AU>
+<TI>The ineffectiveness of immunosuppressive therapy in lymphocytic myocarditis: an overview</TI>
+<SO>Ann Intern Med</SO>
+<YR>1998</YR>
+<VL>129</VL>
+<NO>4</NO>
+<PG>317-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gdynia-2011" MODIFIED="2013-09-25 20:31:55 +0800" MODIFIED_BY="[Empty name]" NAME="Gdynia 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Gdynia G, Schnitzler P, Brunner E, Kandolf R, Blaker H, Daum E, et al</AU>
+<TI>Sudden death of an immunocompetent young adult caused by novel (swine origin) influenza A/H1N1-associated myocarditis</TI>
+<SO>Virchows Archiv</SO>
+<YR>2011</YR>
+<VL>458</VL>
+<NO>3</NO>
+<PG>371-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Haessler-2011" MODIFIED="2013-09-25 20:36:16 +0800" MODIFIED_BY="[Empty name]" NAME="Haessler 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Haessler S, Paez A, Rothberg M, Higgins T</AU>
+<TI>2009 pandemic H1N1-associated myocarditis in a previously healthy adult</TI>
+<SO>Clinical Microbiology and Infection</SO>
+<YR>2011</YR>
+<VL>17</VL>
+<NO>4</NO>
+<PG>572-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hamilton-2009" MODIFIED="2013-09-25 20:37:25 +0800" MODIFIED_BY="[Empty name]" NAME="Hamilton 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Hamilton TW, Goodman SM, Figgie M</AU>
+<TI>SAS weekly rounds: avascular necrosis</TI>
+<SO>HSS Journal</SO>
+<YR>2009</YR>
+<VL>5</VL>
+<NO>2</NO>
+<PG>99-113</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Heininger-2011" MODIFIED="2013-09-25 20:39:29 +0800" MODIFIED_BY="[Empty name]" NAME="Heininger 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Heininger A, Haeberle HA, Fischer I, Beck R, Riessen R, Rohde F, et al</AU>
+<TI>Cytomegalovirus reactivation and associated outcome of critically ill patients with severe sepsis</TI>
+<SO>Critical Care</SO>
+<YR>2011</YR>
+<VL>15</VL>
+<NO>2</NO>
+<PG>R77</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hia-2004" MODIFIED="2013-09-25 20:40:14 +0800" MODIFIED_BY="[Empty name]" NAME="Hia 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Hia CP, Yip WC, Tai BC, Quek SC</AU>
+<TI>Immunosuppressive therapy in acute myocarditis: an 18 year systematic review</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>2004</YR>
+<VL>89</VL>
+<NO>6</NO>
+<PG>580-4</PG>
+<IDENTIFIERS MODIFIED="2013-03-21 15:58:24 +0800" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2013-03-21 15:58:24 +0800" MODIFIED_BY="[Empty name]" TYPE="PUBMED" VALUE="15155409"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2003" MODIFIED="2013-09-24 23:05:32 +0800" MODIFIED_BY="Kate Cahill" NAME="Higgins 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins JPT, Thompson SG, Deeks JJ, Altman DG</AU>
+<TI>Measuring inconsistency in meta-analyses</TI>
+<SO>BMJ</SO>
+<YR>2003</YR>
+<VL>327</VL>
+<PG>557-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2011" MODIFIED="2013-09-25 20:43:25 +0800" MODIFIED_BY="[Empty name]" NAME="Higgins 2011" TYPE="OTHER">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011</TI>
+<SO>Available from www.cochrane-handbook.org</SO>
+<PB>Wiley -Blackwell</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hosenpud-1985" MODIFIED="2013-08-28 15:40:50 +0800" MODIFIED_BY="[Empty name]" NAME="Hosenpud 1985" TYPE="JOURNAL_ARTICLE">
+<AU>Hosenpud JD, McAnulty JH, Niles NR</AU>
+<TI>Lack of objective improvement in ventricular systolic function in patients with myocarditis treated with azathioprine and prednisone</TI>
+<SO>Journal of the American College of Cardiology</SO>
+<YR>1985</YR>
+<VL>6</VL>
+<NO>4</NO>
+<PG>797-801</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ICH_x002d_GCP-1997" MODIFIED="2008-09-09 05:24:23 +0800" MODIFIED_BY="Karen Hovhannisyan" NAME="ICH-GCP 1997" TYPE="BOOK">
+<AU>International Conference on Harmonisation Expert Working Group</AU>
+<SO>Code of Federal Regulations &amp; International Conference on Harmonisation Guidelines</SO>
+<YR>1997</YR>
+<PB>Barnett International/PAREXEL</PB>
+<CY>Philadelphia</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kalil-2011" MODIFIED="2013-09-25 20:45:49 +0800" MODIFIED_BY="[Empty name]" NAME="Kalil 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Kalil AC, Florescu DF</AU>
+<TI>Is cytomegalovirus reactivation increasing the mortality of patients with severe sepsis?</TI>
+<SO>Critical Care</SO>
+<YR>2011</YR>
+<VL>15</VL>
+<NO>2</NO>
+<PG>138</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kandolf-2011" MODIFIED="2013-09-25 20:47:41 +0800" MODIFIED_BY="[Empty name]" NAME="Kandolf 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Kandolf R</AU>
+<TI>Diagnosis of myocarditis</TI>
+<SO>Deutsche Medizinische Wochenschrift</SO>
+<YR>2011</YR>
+<VL>136</VL>
+<NO>16</NO>
+<PG>829-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kearney-2001" MODIFIED="2013-09-25 20:48:06 +0800" MODIFIED_BY="[Empty name]" NAME="Kearney 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Kearney MT, Cotton JM, Richardson PJ, Shah AM</AU>
+<TI>Viral myocarditis and dilated cardiomyopathy: mechanisms, manifestations, and management</TI>
+<SO>Postgraduate Medical Journal</SO>
+<YR>2001</YR>
+<VL>77</VL>
+<NO>903</NO>
+<PG>4-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kraaij-2011" MODIFIED="2013-09-25 20:48:53 +0800" MODIFIED_BY="[Empty name]" NAME="Kraaij 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Kraaij MD, Van der Kooij SW, Reinders ME, Koekkoek K, Rabelink TJ, Van Kooten C, et al</AU>
+<TI>Dexamethasone increases ROS production and T cell suppressive capacity by anti-inflammatory macrophages</TI>
+<SO>Molecular Immunology</SO>
+<YR>2011</YR>
+<VL>49</VL>
+<NO>3</NO>
+<PG>549-57</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Liu-1996" MODIFIED="2013-07-27 15:37:24 +0800" MODIFIED_BY="[Empty name]" NAME="Liu 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Liu P, Martimo T, Opavsky MA, Penninger J</AU>
+<TI>Viral myocarditis: balance between viral infection and immune response</TI>
+<SO>Canadian Journal of Cardiology</SO>
+<YR>1996</YR>
+<VL>12</VL>
+<NO>10</NO>
+<PG>935-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Liu-2013" MODIFIED="2013-09-25 20:51:56 +0800" MODIFIED_BY="[Empty name]" NAME="Liu 2013" TYPE="COCHRANE_REVIEW">
+<AU>Liu ZL, Liu ZJ, Liu JP, Kwong JSW</AU>
+<TI>Herbal medicines for viral myocarditis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2013</YR>
+<NO>8</NO>
+<IDENTIFIERS MODIFIED="2013-09-25 20:51:28 +0800" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2013-09-25 20:51:28 +0800" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003711.pub5"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Ma-1999" MODIFIED="2013-10-10 23:20:43 +0800" MODIFIED_BY="[Empty name]" NAME="Ma 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Ma WZ, Yu JD, Liu ZQ, Wu N, Li LG, Chen HZ, et al. Committee of Myocarditis and Cardiomyopathy: Dealing meeting of Chinese Journal of Cardiovascular Disease</AU>
+<TI>Viewpoints of diagnostic criteria of adult acute viral myocarditis and introduction to the definition and classification of cardiomyopathy of WHO/IHA workshop</TI>
+<SO>Chinese Journal of Cardiovascular Disease</SO>
+<YR>1999</YR>
+<VL>27</VL>
+<NO>6</NO>
+<PG>405-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Magula-2003" MODIFIED="2013-09-25 20:53:52 +0800" MODIFIED_BY="[Empty name]" NAME="Magula 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Magula NP, Mayosi BM</AU>
+<TI>Cardiac involvement in HIV-infected people living in Africa: a review</TI>
+<SO>Cardiovascular Journal of South Africa</SO>
+<YR>2003</YR>
+<VL>14</VL>
+<NO>5</NO>
+<PG>231-7</PG>
+<IDENTIFIERS MODIFIED="2013-03-21 16:19:51 +0800" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2013-03-21 16:19:51 +0800" MODIFIED_BY="[Empty name]" TYPE="PUBMED" VALUE="14610610"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Mahrholdt-2004" MODIFIED="2013-09-25 20:54:17 +0800" MODIFIED_BY="[Empty name]" NAME="Mahrholdt 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Mahrholdt H, Goedecke C, Wagner A, Meinhardt G, Athanasiadis A, Vogelsberg H, et al</AU>
+<TI>Cardiovascular magnetic resonance assessment of human myocarditis: a comparison to histology and molecular pathology</TI>
+<SO>Circulation</SO>
+<YR>2004</YR>
+<VL>109</VL>
+<NO>10</NO>
+<PG>1250-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mason-2003" MODIFIED="2013-09-25 20:54:41 +0800" MODIFIED_BY="[Empty name]" NAME="Mason 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Mason JW</AU>
+<TI>Myocarditis and dilated cardiomyopathy: An inflammatory link</TI>
+<SO>Cardiovascular Research</SO>
+<YR>2003</YR>
+<VL>60</VL>
+<NO>1</NO>
+<PG>5-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McKenna-1996" MODIFIED="2013-09-25 20:55:07 +0800" MODIFIED_BY="[Empty name]" NAME="McKenna 1996" TYPE="JOURNAL_ARTICLE">
+<AU>McKenna WJ</AU>
+<TI>Report of the 1995 World Health Organization/International Society and Federation of Cardiology Task Force on the Definition and Classification of Cardiomyopathies</TI>
+<SO>Circulation</SO>
+<YR>1996</YR>
+<VL>93</VL>
+<NO>5</NO>
+<PG>841-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McNamara-2002" MODIFIED="2008-09-09 05:24:23 +0800" MODIFIED_BY="Karen Hovhannisyan" NAME="McNamara 2002" TYPE="BOOK_SECTION">
+<AU>McNamara DM</AU>
+<TI>Diagnosis and medical treatment of inflammatory cardiomyopathy</TI>
+<SO>Textbook of Cardiovascular Medicine</SO>
+<YR>2002</YR>
+<PG>1899-1913</PG>
+<EN>2nd</EN>
+<ED>Eric J. Topol</ED>
+<PB>Lippincott Williams &amp; Wilkins; Shangdong Science &amp; Technology Press</PB>
+<CY>Shangdong, China</CY>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="7-5331-3409-5"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Metzger-2011" MODIFIED="2013-09-25 20:55:51 +0800" MODIFIED_BY="[Empty name]" NAME="Metzger 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Metzger TC, Anderson MS</AU>
+<TI>Myocarditis: a defect in central immune tolerance?</TI>
+<SO>Journal of Clinical Investigation</SO>
+<YR>2011</YR>
+<VL>121</VL>
+<NO>4</NO>
+<PG>1251-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Opitz-2011" MODIFIED="2013-09-25 20:56:56 +0800" MODIFIED_BY="[Empty name]" NAME="Opitz 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Opitz E, Koch A, Klingel K, Schmidt F, Prokop S, Rahnefeld A, et al</AU>
+<TI>Impairment of immunoproteasome function by &#946;5i/LMP7 subunit deficiency results in severe enterovirus myocarditis</TI>
+<SO>PLoS Pathogens</SO>
+<YR>2011</YR>
+<VL>7</VL>
+<NO>9</NO>
+<PG>e1002233</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Orinius-1968" MODIFIED="2013-09-25 20:57:38 +0800" MODIFIED_BY="[Empty name]" NAME="Orinius 1968" TYPE="JOURNAL_ARTICLE">
+<AU>Orinius E</AU>
+<TI>The late cardiac prognosis after Coxsackie-B infection</TI>
+<SO>Acta Medica Scandinavica</SO>
+<YR>1968</YR>
+<VL>183</VL>
+<PG>235-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pietra-2012" MODIFIED="2013-09-25 20:58:53 +0800" MODIFIED_BY="[Empty name]" NAME="Pietra 2012" TYPE="JOURNAL_ARTICLE">
+<AU>Pietra BA, Kantor PF, Bartlett HL, Chin C, Canter CE, Larsen RL, et al</AU>
+<TI>Early predictors of survival to and after heart transplantation in children with dilated cardiomyopathy</TI>
+<SO>Circulation</SO>
+<YR>2012</YR>
+<VL>126</VL>
+<NO>9</NO>
+<PG>1079-86</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Salluh-2010" MODIFIED="2013-09-25 21:02:11 +0800" MODIFIED_BY="[Empty name]" NAME="Salluh 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Figueira Salluh JI, Bozza FA, Japiassu AM, Castro Faria Neto HC, Bozza PT, Póvoa P</AU>
+<TI>Corticosteroids in sepsis: pathophysiological rationale and selection of patients</TI>
+<SO>Endocrine, Metabolic &amp; Immune Disorders Drug Targets</SO>
+<YR>2010</YR>
+<VL>10</VL>
+<NO>3</NO>
+<PG>266-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Salvi-1989" MODIFIED="2013-03-09 21:05:45 +0800" MODIFIED_BY="[Empty name]" NAME="Salvi 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Salvi A, Di LA, Dreas L, Silvestri F, Camerini F</AU>
+<TI>Immunosuppressive treatment in myocarditis</TI>
+<SO>International Journal of Cardiology</SO>
+<YR>1989</YR>
+<VL>22</VL>
+<NO>3</NO>
+<PG>329-38</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schultz-2009" MODIFIED="2013-09-25 21:03:50 +0800" MODIFIED_BY="[Empty name]" NAME="Schultz 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Schultz JC, Hilliard AA, Cooper LT, Rihal CS</AU>
+<TI>Diagnosis and treatment of viral myocarditis</TI>
+<SO>Mayo Clinic Proceedings</SO>
+<YR>2009</YR>
+<VL>84</VL>
+<NO>11</NO>
+<PG>1001-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Shauer-2013" MODIFIED="2013-09-25 21:06:13 +0800" MODIFIED_BY="[Empty name]" NAME="Shauer 2013" TYPE="JOURNAL_ARTICLE">
+<AU>Shauer A, Gotsman I, Keren A, Zwas DR, Hellman Y, Durst R, et al</AU>
+<TI>Acute viral myocarditis: current concepts in diagnosis and treatment</TI>
+<SO>Israel Medical Association Journal</SO>
+<YR>2013</YR>
+<VL>15</VL>
+<NO>3</NO>
+<PG>180-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Simon-2008" MODIFIED="2013-09-25 21:07:06 +0800" MODIFIED_BY="[Empty name]" NAME="Simon 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Simon F, Paule P, Oliver M</AU>
+<TI>Case Report: chikungunya virus-induced myopericarditis: toward an increase of dilated cardiomyopathy in countries with epidemics?</TI>
+<SO>American Journal of Tropical Medicine and Hygiene</SO>
+<YR>2008</YR>
+<VL>78</VL>
+<NO>2</NO>
+<PG>212-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sprung-2011" MODIFIED="2013-09-25 21:09:21 +0800" MODIFIED_BY="[Empty name]" NAME="Sprung 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Sprung CL, Goodman S, Weiss YG</AU>
+<TI>Steroid therapy of septic shock</TI>
+<SO>Critical Care Nursing Clinics of North America</SO>
+<YR>2011</YR>
+<VL>23</VL>
+<NO>1</NO>
+<PG>171-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Tong-2011" MODIFIED="2013-09-25 21:10:08 +0800" MODIFIED_BY="[Empty name]" NAME="Tong 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Tong P, Wu C, Jin H, Mao Q, Yu N, Holz JD, et al</AU>
+<TI>Gene expression profile of steroid-induced necrosis of femoral head of rats</TI>
+<SO>Calcified Tissue International</SO>
+<YR>2011</YR>
+<VL>89</VL>
+<NO>4</NO>
+<PG>271-84</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Uemura-2001" MODIFIED="2011-06-16 22:49:07 +0800" MODIFIED_BY="[Empty name]" NAME="Uemura 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Uemura A, Morimoto S, Hiramitsu S, Hishida H</AU>
+<TI>Endomyocardial biopsy findings in 50 patients with idiopathic atrioventricular block: presence of myocarditis</TI>
+<SO>Japanese Heart Journal</SO>
+<YR>2001</YR>
+<VL>42</VL>
+<NO>6</NO>
+<PG>691-700</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ukimura-2012" MODIFIED="2013-09-25 21:12:12 +0800" MODIFIED_BY="[Empty name]" NAME="Ukimura 2012" TYPE="OTHER">
+<AU>Ukimura A, Ooi Y, Kanzaki Y, Inomata T, Izumi T</AU>
+<TI>A national survey on myocarditis associated with influenza H1N1pdm2009 in the pandemic and post-pandemic season in Japan</TI>
+<SO>Journal of Infection and Chemotherapy</SO>
+<YR>2012</YR>
+<VL>19</VL>
+<NO>3</NO>
+<PG>426-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Vester-1997" MODIFIED="2013-03-09 21:07:10 +0800" MODIFIED_BY="[Empty name]" NAME="Vester 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Vester EG, Klein RM, Kuhl U, Schultheiss HP, Perings C, Hennersdorf M</AU>
+<TI>Immunosuppressive therapy for effective suppression of life threatening ventricular tachyarrhythmias in chronic myocarditis</TI>
+<SO>Zeitschrift fur Kardiologie</SO>
+<YR>1997</YR>
+<VL>86</VL>
+<NO>4</NO>
+<PG>298-308</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yang-2011" MODIFIED="2013-09-25 21:14:42 +0800" MODIFIED_BY="[Empty name]" NAME="Yang 2011" TYPE="JOURNAL_ARTICLE">
+<AU>Yang F, Wu WF, Yan YL, Pang Y, Kong Q, Huang YL</AU>
+<TI>Expression of IL-23/Th17 pathway in a murine model of Coxsackie virus B3-induced viral myocarditis</TI>
+<SO>Virology Journal</SO>
+<YR>2011</YR>
+<VL>8</VL>
+<PG>301</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Zahariadis-2003" MODIFIED="2013-09-25 21:15:30 +0800" MODIFIED_BY="[Empty name]" NAME="Zahariadis 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Zahariadis G, Jerome KR, Corey L</AU>
+<TI>Herpes simplex virus-associated sepsis in a previously infected immunocompetent adult</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2003</YR>
+<VL>139</VL>
+<NO>2</NO>
+<PG>153-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Zimmermann-2005" MODIFIED="2011-06-13 23:23:35 +0800" MODIFIED_BY="[Empty name]" NAME="Zimmermann 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Zimmermann O, Kochs M, Zwaka TP, Kaya Z, Lepper PM, Bienek-Ziolkowski M, et al</AU>
+<TI>Myocardial biopsy based classification and treatment in patients with dilated cardiomyopathy</TI>
+<SO>International Journal of Cardiology</SO>
+<YR>2005</YR>
+<VL>104</VL>
+<NO>1</NO>
+<PG>92-100</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2013-09-25 21:17:45 +0800" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Chen-2006" MODIFIED="2013-09-25 21:17:45 +0800" MODIFIED_BY="[Empty name]" NAME="Chen 2006" TYPE="COCHRANE_REVIEW">
+<AU>Chen HS, Yang M, Liu J</AU>
+<TI>Corticosteroids for viral myocarditis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2011-06-14 21:19:00 +0800" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2011-06-14 21:19:00 +0800" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD004471.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2013-10-11 18:42:15 +0800" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2013-10-06 23:30:44 +0800" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2013-09-25 17:28:40 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Aziz-2010">
+<CHAR_METHODS MODIFIED="2013-09-25 17:22:19 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: RCT</P>
+<P>Time frame: July 2001 to February 2007.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 17:28:40 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: Pakistan</LI>
+<LI>Health status:Children with myocarditis, positive viral antibody study, duration of symptoms &gt; 3 months, and continued LVEF reduction. Virus was detected in all participants, while 31 participants were virus-positive.</LI>
+<LI>Number: treatment group (49); control group (31)</LI>
+<LI>Age: treatment group (3.4 ± 2.5 years); control group (4.2 ± 3.4 years)</LI>
+<LI>Sex (M/F): unclear.</LI>
+</UL>
+<P>Exclusion criteria</P>
+<UL>
+<LI>less than 3 months from the onset of symptoms</LI>
+<LI>LVEF &gt; 50</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 17:25:18 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group</P>
+<UL>
+<LI>Prednisolone</LI>
+<UL>
+<LI>2 mg/kg a day for 1 month;</LI>
+<LI>then tapered off over 15 days</LI>
+</UL>
+<LI>Other medicines included:</LI>
+<UL>
+<LI>digoxin</LI>
+<LI>diuretics</LI>
+<LI>captopril</LI>
+<LI>spironolactone</LI>
+</UL>
+</UL>
+<P>Control group</P>
+<UL>
+<LI>Other medicines included:</LI>
+<UL>
+<LI>digoxin</LI>
+<LI>diuretics</LI>
+<LI>captopril</LI>
+<LI>spironolactone</LI>
+</UL>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-09-25 17:25:39 +0800" MODIFIED_BY="[Empty name]">
+<P>Mortality</P>
+<P>Change of LVEF, LVEDD, LVESD</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2013-02-11 19:03:26 +0800" MODIFIED_BY="[Empty name]"/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2013-09-25 17:40:20 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Latham-1989">
+<CHAR_METHODS MODIFIED="2013-02-17 18:51:31 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: RCT</P>
+<P>Time frame: from April 1983 to December 1986.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 17:40:20 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria:</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: USA</LI>
+<LI>Health status:idiopathic dilated cardiomyopathy patients with duration of symptoms &lt; 2 years, a radionuclide LVEF &#8804; 45%, absence of alcohol abuse, hypertension, coronary artery disease, congenital heart disease, primary valvular heart disease, or diabetes mellitus. Virus was detected but the results were not reported.</LI>
+<LI>Number: treatment group (23); control group (29)</LI>
+<LI>Age:41 ± 12 years (range from 20 - 68 years)</LI>
+<LI>Sex (M/F): 42 men, 10 women.</LI>
+</UL>
+<P>Exclusion criteria:</P>
+<UL>
+<LI>Contraindication to prednisone.</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 17:33:19 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group:</P>
+<UL>
+<LI>Prednisone</LI>
+<UL>
+<LI>initial dose 50 mg a day for 2 weeks followed by 40 mg a day for 2 weeks, then 30 mg a day for 4 weeks, 20 mg a day for 2 more weeks.</LI>
+</UL>
+<LI>Conventional therapy</LI>
+<UL>
+<LI>furosemide, captopril, anticoagulants, and digoxin.</LI>
+</UL>
+</UL>
+<P>Control group</P>
+<UL>
+<LI>Conventional therapy</LI>
+<UL>
+<LI>furosemide, captopril, anticoagulants, and digoxin.</LI>
+</UL>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-09-25 17:33:42 +0800" MODIFIED_BY="[Empty name]">
+<P>24-months survival rate<BR/>Number of deaths or cardiac transplantations<BR/>LVEF</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2013-09-25 17:40:08 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Liao-2005">
+<CHAR_METHODS MODIFIED="2013-09-25 17:35:34 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: RCT</P>
+<P>Time frame: January 2002 to June 2004.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 17:40:08 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria:</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: China</LI>
+<LI>Health status: adults diagnosed with viral myocarditis according to National Myocarditis and Myocardiopathy Symposium Critieria in 1995. Virus was not detected.</LI>
+<LI>Number: treatment group (61); control group (61)</LI>
+<LI>Age: treatment group: mean 37.2 years (ranged from 18 - 50 years); control group: mean 36.5 years (ranged from 18 - 52 years).</LI>
+<LI>Sex (M/F): treatment group (40/21); control group (39/22).</LI>
+</UL>
+<P>Exclusion criteria:</P>
+<UL>
+<LI>Coronary heart disease</LI>
+<LI>Hypertensive heart disease</LI>
+<LI>Rheumatic heart disease</LI>
+<LI>Cardiac injury caused by medicines</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 17:37:55 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group:</P>
+<UL>
+<LI>Dexamethasone</LI>
+<UL>
+<LI>20 mg a day for 10 days</LI>
+</UL>
+<LI>Prednisone</LI>
+<UL>
+<LI>30 mg a day after discontinuation of dexamethasone, the dose reduced gradually and finally discontinued at 8 weeks.</LI>
+</UL>
+<LI>Anti-virus therapeutics</LI>
+<UL>
+<LI>Virazole (dose unclear)</LI>
+</UL>
+<LI>Conventional therapeutics (unclear, Astragalus injection 40 ml a day were used)</LI>
+</UL>
+<P>Control group:</P>
+<UL>
+<LI>Anti-virus therapeutics</LI>
+<UL>
+<LI>Virazole (dose unclear)</LI>
+</UL>
+<LI>Conventional therapeutics (unclear, Astragalus injection 40 ml a day were used)</LI>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-09-25 17:38:23 +0800" MODIFIED_BY="[Empty name]">
+<P>Creatine phosphokinase (CK), lactate dehydrogenase (LDH), hydroxybutyrate dehydrogenase (HBDH), glutamine oxaloacetic transaminase (GOT), stroke volume (SV), Cardiac output (CO), Cardiac index (CI), and LVEF.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2013-02-19 20:56:44 +0800" MODIFIED_BY="[Empty name]">
+<P>Funding was not reported.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2013-10-06 23:30:27 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Ma-2001">
+<CHAR_METHODS MODIFIED="2013-02-20 17:02:42 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: RCT</P>
+<P>Time frame: from 1997 to 2001.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 17:39:39 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria:</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: China</LI>
+<LI>Health status: children diagnosed with viral myocarditis according to National Myocarditis and Myocardiopathy Symposium Critieria in 1995. All participants were positive CoxB IgM antibody. Coxsackievirus B was detected in all children.</LI>
+<LI>Number: treatment group (50); control group (50).</LI>
+<LI>Age:3 - 12 years old. (others were unclear).</LI>
+<LI>Sex (M/F): 56/44. (others were unclear).</LI>
+</UL>
+<P>Exclusion criteria:</P>
+<UL>
+<LI>None.</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 17:44:02 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group:</P>
+<UL>
+<LI>Prednisone</LI>
+<UL>
+<LI>1 mg per kg a day for 2 weeks.</LI>
+<LI>dose was reduced to 0.5 mg per kg a day for 1 week, then reduced to 0.25 mg per kg a day for 1 week, before being discontinued.</LI>
+</UL>
+<LI>Conventional therapeutics (unclear)</LI>
+<LI>Vitamin C</LI>
+<UL>
+<LI>150 - 200 mg per kg a day for 20 days</LI>
+</UL>
+<LI>CoQ10</LI>
+<UL>
+<LI>10 mg, twice per day</LI>
+</UL>
+<LI>Chinese Medicines for 30 days:</LI>
+<UL>
+<LI>Astragalus mongholicus 30 g a day</LI>
+<LI>Dansen 10 g a day</LI>
+<LI>Liquorice 5 g a day</LI>
+</UL>
+</UL>
+<P>Control group:</P>
+<UL>
+<LI>Conventional therapeutics (unclear)</LI>
+<LI>Vitamin C</LI>
+<UL>
+<LI>150 - 200mg/kg/d for 20 days</LI>
+</UL>
+<LI>CoQ10</LI>
+<UL>
+<LI>10mg, twice per day</LI>
+</UL>
+<LI>Chinese Medicines for 30 days:</LI>
+<UL>
+<LI>Astragalus mongholicus 30 g a day</LI>
+<LI>Dansen 10 g a day</LI>
+<LI>Liquorice 5 g a day</LI>
+</UL>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-09-25 17:45:55 +0800" MODIFIED_BY="[Empty name]">
+<P>CK-MB, alpha-HBDH</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2013-10-06 23:30:27 +0800" MODIFIED_BY="[Empty name]">
+<P>Research funding by the Science Committee in Shandong</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2013-09-25 21:22:26 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Maisch-1995">
+<CHAR_METHODS MODIFIED="2013-02-28 22:33:38 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: RCT</P>
+<P>Time frame: not stated.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 17:50:34 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: Germany</LI>
+<LI>Health status: participants diagnosed with myocarditis based on endomyocardial biopsy were included, and coronary angiography and right heart catheterisation were performed to exclude ischaemic or valvular heart, or right ventricular disease. Virus was detected with PCR technology in all participants. Twenty participants (10 in each group) were virus-positive.</LI>
+<LI>Number: treatment group (17); control group (21)</LI>
+<LI>Age: treatment group (44.8 ± 8.7 years); control group (49.2 ± 12.8 years)</LI>
+<LI>Sex (M/F): not stated.</LI>
+</UL>
+<P>Exclusion criteria</P>
+<UL>
+<LI>None stated.</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 21:22:26 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group:</P>
+<UL>
+<LI>Prednisone</LI>
+<UL>
+<LI>1.25 mg per kg a day initially for 2 weeks</LI>
+<LI>tapered off to a maintenance dose of 0.3 mg per kg a day for 3 months.</LI>
+</UL>
+<LI>Azathioprine</LI>
+<UL>
+<LI>2 mg per kg initially for 2 weeks</LI>
+<LI>reduced to 0.85 mg per kg for 3 months.</LI>
+</UL>
+<LI>Conventional therapeutics</LI>
+<UL>
+<LI>bed rest</LI>
+<LI>diuretics</LI>
+<LI>digitalis</LI>
+<LI>angiotensin-converting enzyme inhibitors (ACEIs)</LI>
+<LI>anti-arrhythmic medication</LI>
+</UL>
+</UL>
+<P>Control groups:</P>
+<UL>
+<LI>Conventional therapeutics</LI>
+<UL>
+<LI>bed rest,</LI>
+<LI>diuretics,</LI>
+<LI>digitalis,</LI>
+<LI>angiotensin-converting enzyme inhibitors (ACEIs)</LI>
+<LI>anti-arrhythmic medication</LI>
+</UL>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-02-28 15:22:23 +0800" MODIFIED_BY="[Empty name]">
+<P>LVEF, NYHA class, LVEDD, LVEDVI.</P>
+<P>Histological findings: Mean infiltration score, mean fibrosis score, mean hypertrophy score, score for IgG-binding, score for IgA-binding.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2013-09-25 18:01:41 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Mason-1995">
+<CHAR_METHODS MODIFIED="2013-09-25 17:56:43 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: multicentre RCT</P>
+<P>Time frame: October 1986 to October 1990 (follow-up to October 1991).</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 17:59:00 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: USA, Canada, Great Britian, and Japan</LI>
+<LI>Health status: participants with recent (&lt; 2 years) onset of congestive heart failure who underwent endomyocardial biopsy. Those with biopsy considered positive for myocarditis, LVEF &lt; 45% were included. Virus was not detected.</LI>
+<LI>Number: treatment group (64); control group (47)</LI>
+<LI>Age: treatment group (43 ± 14 years); control group (41 ± 13 years)</LI>
+<LI>Sex (M/F): Treatment group (37/27); control group (32/15)</LI>
+</UL>
+<P>Exclusion criteria</P>
+<UL>
+<LI>Age &#8804; 18 years</LI>
+<LI>Current or potential pregnancy</LI>
+<LI>Conditions contraindicating or requiring immunosuppressive therapy</LI>
+<LI>Coronary artery disease</LI>
+<LI>Treatment with investigational drugs, beta-blocker, disopyramide, or calcium antagonist</LI>
+<LI>Limited life expectancy as determined by the enrolling physician, and substance abuse.</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 18:01:41 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group:</P>
+<UL>
+<LI>Prednisone</LI>
+<UL>
+<LI>started at a dose of 1.25 mg per kg a day initially. The dose was decreased by 0.08 mg per kg until 0.33 mg per kg a day at the end of week 12 and maintained through the end of week 20, and discontinued at the end of week 24.</LI>
+</UL>
+<LI>Azathioprine (19 participants)</LI>
+<UL>
+<LI>1 mg per kg</LI>
+<LI>twice per day for 24 weeks</LI>
+</UL>
+<LI>Cyclosporine (45 participants)</LI>
+<UL>
+<LI>5 mg per kg</LI>
+<LI>twice per day</LI>
+<LI>Blood concentration 200 to 300 ng/ml at the end of week 1, then the dose was tapered to achieve a blood level between 100 and 200 ng/ml during week 2 and 4. From week 4 to week 24, the concentration was modulated between 60 and 150 ng/ml.</LI>
+</UL>
+<LI>Conventional therapy</LI>
+</UL>
+<P>Control group:</P>
+<UL>
+<LI>Conventional therapy including:</LI>
+</UL>
+<UL>
+<UL>
+<LI>Reduced salt intake (&lt; 4 g a day)</LI>
+<LI>Digoxin serum concentration of 1 - 2 mg/ml)</LI>
+<LI>Furosemide (doses were increased from 20 to 160 mg a day)</LI>
+<LI>Captopril (doses were increased from 37.5 to 225 mg a day)</LI>
+<LI>Metolazone</LI>
+<LI>Prazosin or hydralazine</LI>
+<LI>Nitrates</LI>
+<LI>Other (e.g. larger doses of listed drugs, intermittent dopamine infusion, experimental inotropic agents).</LI>
+</UL>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-02-17 20:06:11 +0800" MODIFIED_BY="[Empty name]">
+<P>The mean (+/- SE) LVEF improvement<BR/>The mean change in LVEF at 28 weeks<BR/>Survival<BR/>Mortality rate for entire group<BR/>Adverse events (depiction).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2013-02-17 21:32:05 +0800" MODIFIED_BY="[Empty name]">
+<P>Funded by National Institutes of Health of the US.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2013-09-25 18:07:20 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Wojnicz-1999">
+<CHAR_METHODS MODIFIED="2013-09-25 18:03:06 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: RCT</P>
+<P>Time frame: January 1995 to October 1997.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 18:04:55 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: Poland</LI>
+<LI>Health status: participants with chronic heart failure due to dilated cardiomyopathy who underwent endomyocardial biopsies; those with strong expression of HLA in biopsy specimens were included. Virus was not detected.</LI>
+<LI>Number: treatment group (41); control group (43)</LI>
+<LI>Age: treatment group (mean 41 years); control group (mean 39 years)</LI>
+<LI>Sex (M/F): treatment group (32/9); control group (37/6)</LI>
+</UL>
+<P>Exclusion criteria</P>
+<UL>
+<LI>recent (&lt; 6 months) onset of systolic heart failure</LI>
+<LI>all known causes of heart failure (such as hypertension, significant coronary artery disease, valvular heart disease (but not relative mitral regurgitation), endocrine disease, significant renal disease, drug or alcohol abuse, and therapy with steroids within 6 months before the study).</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 18:07:20 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group</P>
+<UL>
+<LI>Prednisone</LI>
+</UL>
+<UL>
+<UL>
+<LI>Started with 1 mg per kg a day for 12 days</LI>
+<LI>The dose was tapered off every 5 days by 5 mg a day until reaching the maintenance dose of 0.2 mg per kg a day for 90 days.</LI>
+</UL>
+</UL>
+<UL>
+<LI>Azathioprine</LI>
+</UL>
+<UL>
+<UL>
+<LI>1 mg per kg a day for 100 days.</LI>
+</UL>
+</UL>
+<UL>
+<LI>Conventional therapy</LI>
+</UL>
+<P>Control group</P>
+<UL>
+<LI>Conventional therapy included:</LI>
+</UL>
+<UL>
+<UL>
+<LI>digitalis</LI>
+<LI>diuretics (furosemide 40 to 80 mg a day and spironolactone 100 mg a day)</LI>
+<LI>ACE inhibitor (captopril 50 to 75 mg a day)</LI>
+<LI>beta-blockers (metoprolol tartrate, 50 to 100 mg a day)</LI>
+<LI>nitrates</LI>
+<LI>anti-arrhythmic drug (amiodarone hydrochloride, 200 to 400 mg a day)</LI>
+<LI>bed rest</LI>
+</UL>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-02-17 21:50:46 +0800" MODIFIED_BY="[Empty name]">
+<P>Death and heart transplantation<BR/>LVEF, LVEDV, LVESV, LVEDD, NYHA class</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2013-02-17 21:51:03 +0800" MODIFIED_BY="[Empty name]">
+<P>Funding was not stated.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2013-09-25 18:10:38 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Yang-2006">
+<CHAR_METHODS MODIFIED="2013-02-20 16:19:12 +0800" MODIFIED_BY="[Empty name]">
+<P>Study design: RCT</P>
+<P>Time frame: from 2002 to 2004.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2013-09-25 18:09:01 +0800" MODIFIED_BY="[Empty name]">
+<P>Inclusion criteria</P>
+<UL>
+<LI>Setting: Inpatients</LI>
+<LI>Country: China.</LI>
+<LI>Health status: children diagnosed with viral myocarditis according to National Myocarditis and Myocardiopathy Symposium Critieria in 1995. Specimens were included. Virus was not detected.</LI>
+<LI>Number: treatment group (69); control group (63)</LI>
+<LI>Age: treatment group (mean 7.2 years); control group (mean 7.8 years)</LI>
+<LI>Sex (M/F): Treatment group (unclear); control group (unclear)</LI>
+</UL>
+<P>Exclusion criteria</P>
+<UL>
+<LI>None.</LI>
+</UL>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2013-09-25 18:10:38 +0800" MODIFIED_BY="[Empty name]">
+<P>Treatment group</P>
+<UL>
+<LI>Dexamethasone</LI>
+<UL>
+<LI>0.2 mg per kg a day injected in week 1</LI>
+<LI>then the doses were reduced to 0.15 mg per kg a day (oral administration) in week 2, then 0.075 mg per kg a day in week 3.</LI>
+</UL>
+<LI>ShenMai injection</LI>
+<UL>
+<LI>0.4 ml per kg a day for 10 days</LI>
+</UL>
+<LI>Conventional therapeutics (unclear).</LI>
+</UL>
+<P>Control group</P>
+<UL>
+<LI>Conventional therapeutics (unclear)</LI>
+</UL>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2013-02-20 17:35:35 +0800" MODIFIED_BY="[Empty name]">
+<P>LVEF, SV, CO, changes of CPK, LDH</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>alpha-HBDH: alpha-hydroxybutyrate dehydrogenase<BR/>CK-MB: creatine phosphokinase-MB<BR/>LDH: lactate dehydrogenase<BR/>Ig: immunoglobulin<BR/>LVEDD: left ventricular end-diastolic diameter<BR/>LVEDVI: left ventricular end-diastolic volume index<BR/>LVESD: left ventricular end-systolic diameter<BR/>LVEF: left ventricular ejection fraction<BR/>NYHA: New York Heart Association<BR/>PCR: polymerase chain reaction<BR/>RCT: randomised controlled trial<BR/>SV: stroke volume</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2013-10-11 18:42:15 +0800" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2013-10-10 20:44:30 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Camargo-1995">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-10 20:44:30 +0800" MODIFIED_BY="[Empty name]">
+<P>This trial was excluded as it is quasi-randomised.<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-09-25 18:24:57 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Chen-1992">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-09-25 18:24:57 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT, but excluded as it applied corticosteroid to both groups.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:41:15 +0800" MODIFIED_BY="Kate Cahill" STUDY_ID="STD-ESETCID-2000">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:41:15 +0800" MODIFIED_BY="Kate Cahill">
+<P>Non-randomised design.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-10 20:46:30 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Frustaci-2009">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-10 20:46:30 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. This RCT was excluded as it excluded patients with virus-positive PCR results.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:41:30 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Kong-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:41:30 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. Experimental group received corticosteroids in addition to traditional Chinese medicines which would result in a confounded comparison between treatment and control group.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:41:46 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Li-1997">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:41:46 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. But both groups were applied with dexamethasone 0.25mg/d or prednisone 1mg/kg/d for two weeks before the doses were reduced. Also HuangQi was applied in treatment group.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:42:15 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Ma-2002">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:42:15 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. The study was excluded becuase: 1) statistical error: Chi square test was used to analysis measurement data. 2) design error: The author subgrouped the patients with positive or negative Anti-cardiolipin lgG, and was not designed to prove that the improvement of ejection fraction (EF) was contributed to corticosteroids or anticardiolipin IgG. </P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:39:42 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Mao-2007">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:39:42 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. Clinical outcomes were not reported. </P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-10 20:57:45 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Sun-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-10 20:57:45 +0800" MODIFIED_BY="[Empty name]">
+<P>This trial was excluded as it is quasi-randomised.<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:40:01 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Wu-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:40:01 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. No concrete outcome measurements in the study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:40:16 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Zhang-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:40:16 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. Both groups were treated with corticosteroids with unknown regimen.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2013-10-11 18:40:32 +0800" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Zhang-2008">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2013-10-11 18:40:32 +0800" MODIFIED_BY="[Empty name]">
+<P>RCT. The regimens were not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2013-10-06 23:30:44 +0800" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2013-09-25 17:34:15 +0800" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:37:45 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Aziz-2010">
+<DESCRIPTION>
+<P>Randomisation method was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 17:34:15 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Latham-1989">
+<DESCRIPTION>
+<P>A block randomisation table.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:37:02 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Liao-2005">
+<DESCRIPTION>
+<P>Random sequence generation was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 17:01:43 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Ma-2001">
+<DESCRIPTION>
+<P>Random sequence generation was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-28 15:22:57 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Maisch-1995">
+<DESCRIPTION>
+<P>Random sequence generation was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-17 20:15:49 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Mason-1995">
+<DESCRIPTION>
+<P>A permuted block randomisation procedure was used.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:36:01 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Wojnicz-1999">
+<DESCRIPTION>
+<P>Randomisation method was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:35:26 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Yang-2006">
+<DESCRIPTION>
+<P>Random sequence generation was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2013-09-25 18:02:31 +0800" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:37:44 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Aziz-2010">
+<DESCRIPTION>
+<P>Allocation concealment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 17:34:18 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Latham-1989">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:37:00 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Liao-2005">
+<DESCRIPTION>
+<P>Allocation concealment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 17:01:44 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Ma-2001">
+<DESCRIPTION>
+<P>Allocation concealment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-28 15:23:11 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Maisch-1995">
+<DESCRIPTION>
+<P>Allocation concealment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 18:02:31 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Mason-1995">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:35:59 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Wojnicz-1999">
+<DESCRIPTION>
+<P>Allocation concealment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:35:28 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Yang-2006">
+<DESCRIPTION>
+<P>Allocation concealment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2013-02-01 22:15:24 +0800" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" MODIFIED="2013-09-25 18:13:29 +0800" MODIFIED_BY="[Empty name]" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-07.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-02-20 16:37:41 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Aziz-2010">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-02-20 16:37:18 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Latham-1989">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-02-20 16:37:04 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Liao-2005">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-02-20 17:01:45 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Ma-2001">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-02-28 15:23:21 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Maisch-1995">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-02-20 16:36:29 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Mason-1995">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-02-20 16:36:03 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Wojnicz-1999">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-07.01" MODIFIED="2013-09-25 18:13:29 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Yang-2006">
+<DESCRIPTION>
+<P>Blinding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" MODIFIED="2013-09-25 18:07:54 +0800" MODIFIED_BY="[Empty name]" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-08.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-02-20 16:37:40 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Aziz-2010">
+<DESCRIPTION>
+<P>Blinding of outcome assessment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-09-25 17:34:55 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Latham-1989">
+<DESCRIPTION>
+<P>Outcome data were analysed by Dr. Gary Clark, not by the authors.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-02-20 16:37:06 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Liao-2005">
+<DESCRIPTION>
+<P>Blinding of outcome assessment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-02-20 17:01:47 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Ma-2001">
+<DESCRIPTION>
+<P>Blinding of outcome assessment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-02-28 15:23:36 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Maisch-1995">
+<DESCRIPTION>
+<P>Blinding of outcome assessment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-02-20 16:36:31 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Mason-1995">
+<DESCRIPTION>
+<P>Blinding of outcome assessment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-09-25 18:07:54 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Wojnicz-1999">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-08.01" MODIFIED="2013-02-20 16:35:34 +0800" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Yang-2006">
+<DESCRIPTION>
+<P>Blinding of outcome assessment was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2013-09-25 18:13:37 +0800" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-09-25 17:27:45 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Aziz-2010">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-02-17 18:49:35 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Latham-1989">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-09-25 17:38:49 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Liao-2005">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-05-22 22:09:06 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Ma-2001">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-09-25 17:56:26 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Maisch-1995">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-02-17 21:53:13 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Mason-1995">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-09-25 18:07:59 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Wojnicz-1999">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2013-09-25 18:13:37 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Yang-2006">
+<DESCRIPTION>
+<P>There were no incomplete outcome data.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2013-09-25 18:08:08 +0800" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 17:28:10 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Aziz-2010">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 17:35:07 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Latham-1989">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-19 20:59:58 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Liao-2005">
+<DESCRIPTION>
+<P>Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 17:46:26 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Ma-2001">
+<DESCRIPTION>
+<P>Unclear.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 17:56:33 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Maisch-1995">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 18:02:42 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Mason-1995">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 18:08:08 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Wojnicz-1999">
+<DESCRIPTION>
+<P>Not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:34:44 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Yang-2006">
+<DESCRIPTION>
+<P>Unclear.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2013-10-06 23:30:44 +0800" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-17 22:17:56 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Aziz-2010">
+<DESCRIPTION>
+<P>Funding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 17:35:11 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Latham-1989">
+<DESCRIPTION>
+<P>None.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-19 20:59:30 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Liao-2005">
+<DESCRIPTION>
+<P>Funding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-10-06 23:30:44 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Ma-2001">
+<DESCRIPTION>
+<P>Research funding by the Science Committee in Shandong.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-28 15:19:49 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Maisch-1995">
+<DESCRIPTION>
+<P>Funding was not reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-09-25 18:02:47 +0800" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Mason-1995">
+<DESCRIPTION>
+<P>Funded by National Institutes of Health of the USA.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-17 21:51:15 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Wojnicz-1999">
+<DESCRIPTION>
+<P>Funding was not stated.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2013-02-20 16:34:52 +0800" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Yang-2006">
+<DESCRIPTION>
+<P>Funding was not reported.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2012-01-27 19:51:21 +0800" MODIFIED_BY="Karen Hovhannisyan"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2013-10-11 22:14:31 +0800" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" MODIFIED="2013-10-11 22:10:08 +0800" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Mortality</NAME>
+<DICH_OUTCOME CHI2="1.238494827928443" CI_END="1.2440318068650502" CI_START="0.7025000021994368" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9348434880015302" ESTIMABLE="YES" EVENTS_1="59" EVENTS_2="50" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.09483148434948403" LOG_CI_START="-0.15335367006316258" LOG_EFFECT_SIZE="-0.02926109285683927" METHOD="MH" MODIFIED="2013-10-11 22:07:08 +0800" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.7437873138038431" P_Q="1.0" P_Z="0.643966225003374" Q="0.0" RANDOM="YES" SCALE="5.45" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="148" TOTAL_2="121" WEIGHT="100.0" Z="0.46216050499404704">
+<NAME>Mortality</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No corticosteroids</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.6934664474893548" CI_START="0.5077364904504295" EFFECT_SIZE="0.9272727272727272" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="10" LOG_CI_END="0.22877659642524323" LOG_CI_START="-0.29436162321785825" LOG_EFFECT_SIZE="-0.03279251339630749" MODIFIED="2013-07-27 21:25:37 +0800" MODIFIED_BY="[Empty name]" ORDER="29" O_E="0.0" SE="0.30729397979430917" STUDY_ID="STD-Aziz-2010" TOTAL_1="44" TOTAL_2="24" VAR="0.0944295900178253" WEIGHT="22.507056427619187"/>
+<DICH_DATA CI_END="2.3712963846041024" CI_START="0.6704316131941118" EFFECT_SIZE="1.2608695652173914" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="11" LOG_CI_END="0.37498583915474026" LOG_CI_START="-0.17364551539201384" LOG_EFFECT_SIZE="0.10067016188136323" MODIFIED="2013-07-27 21:27:10 +0800" MODIFIED_BY="[Empty name]" ORDER="30" O_E="0.0" SE="0.32226877342976773" STUDY_ID="STD-Latham-1989" TOTAL_1="23" TOTAL_2="29" VAR="0.10385716232792695" WEIGHT="20.46399172988614"/>
+<DICH_DATA CI_END="3.1173221783361376" CI_START="0.3132845887174404" EFFECT_SIZE="0.9882352941176471" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="5" LOG_CI_END="0.49378168936149647" LOG_CI_START="-0.5040609686663187" LOG_EFFECT_SIZE="-0.005139639652411056" MODIFIED="2013-07-27 21:27:33 +0800" MODIFIED_BY="[Empty name]" ORDER="33" O_E="0.0" SE="0.5861377167263575" STUDY_ID="STD-Maisch-1995" TOTAL_1="17" TOTAL_2="21" VAR="0.3435574229691877" WEIGHT="6.18625000909601"/>
+<DICH_DATA CI_END="1.233398344263624" CI_START="0.5533978298377922" EFFECT_SIZE="0.826171875" ESTIMABLE="YES" EVENTS_1="27" EVENTS_2="24" LOG_CI_END="0.09110336108586384" LOG_CI_START="-0.25696254828744064" LOG_EFFECT_SIZE="-0.08292959360078841" MODIFIED="2013-07-27 21:27:45 +0800" MODIFIED_BY="[Empty name]" ORDER="34" O_E="0.0" SE="0.20445563811991793" STUDY_ID="STD-Mason-1995" TOTAL_1="64" TOTAL_2="47" VAR="0.04180210795902284" WEIGHT="50.842701833398664"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.3352251206236734" CI_END="1.2376908038675083" CI_START="0.7311399106462819" CI_STUDY="95" CI_TOTAL="95" DF="4" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9512755351355436" ESTIMABLE="YES" EVENTS_1="71" EVENTS_2="62" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.09261216411402524" LOG_CI_START="-0.13599950866795035" LOG_EFFECT_SIZE="-0.021693672276962533" METHOD="MH" MODIFIED="2013-10-11 22:07:31 +0800" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.8553714031503149" P_Q="1.0" P_Z="0.7099120965336689" Q="0.0" RANDOM="YES" SCALE="14.96" SORT_BY="STUDY" STUDIES="5" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="189" TOTAL_2="164" WEIGHT="100.0" Z="0.3719741502072062">
+<NAME>Clinical endpoint (death and heart transplantation rates)</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.6934664474893548" CI_START="0.5077364904504295" EFFECT_SIZE="0.9272727272727272" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="10" LOG_CI_END="0.22877659642524323" LOG_CI_START="-0.29436162321785825" LOG_EFFECT_SIZE="-0.03279251339630749" MODIFIED="2013-02-03 18:04:00 +0800" MODIFIED_BY="[Empty name]" ORDER="9" O_E="0.0" SE="0.30729397979430917" STUDY_ID="STD-Aziz-2010" TOTAL_1="44" TOTAL_2="24" VAR="0.0944295900178253" WEIGHT="19.096945241875098"/>
+<DICH_DATA CI_END="2.3712963846041024" CI_START="0.6704316131941118" EFFECT_SIZE="1.2608695652173914" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="11" LOG_CI_END="0.37498583915474026" LOG_CI_START="-0.17364551539201384" LOG_EFFECT_SIZE="0.10067016188136323" MODIFIED="2013-02-03 15:38:44 +0800" MODIFIED_BY="[Empty name]" ORDER="3" O_E="0.0" SE="0.32226877342976773" STUDY_ID="STD-Latham-1989" TOTAL_1="23" TOTAL_2="29" VAR="0.10385716232792695" WEIGHT="17.363431364407855"/>
+<DICH_DATA CI_END="3.1173221783361376" CI_START="0.3132845887174404" EFFECT_SIZE="0.9882352941176471" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="5" LOG_CI_END="0.49378168936149647" LOG_CI_START="-0.5040609686663187" LOG_EFFECT_SIZE="-0.005139639652411056" MODIFIED="2013-02-03 17:09:10 +0800" MODIFIED_BY="[Empty name]" ORDER="1" O_E="0.0" SE="0.5861377167263575" STUDY_ID="STD-Maisch-1995" TOTAL_1="17" TOTAL_2="21" VAR="0.3435574229691877" WEIGHT="5.248952836466168"/>
+<DICH_DATA CI_END="1.233398344263624" CI_START="0.5533978298377922" EFFECT_SIZE="0.826171875" ESTIMABLE="YES" EVENTS_1="27" EVENTS_2="24" LOG_CI_END="0.09110336108586384" LOG_CI_START="-0.25696254828744064" LOG_EFFECT_SIZE="-0.08292959360078841" MODIFIED="2013-02-03 16:37:13 +0800" MODIFIED_BY="[Empty name]" ORDER="2" O_E="0.0" SE="0.20445563811991793" STUDY_ID="STD-Mason-1995" TOTAL_1="64" TOTAL_2="47" VAR="0.04180210795902284" WEIGHT="43.13937257783397"/>
+<DICH_DATA CI_END="2.0622614052802297" CI_START="0.5333661914944159" EFFECT_SIZE="1.048780487804878" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="12" LOG_CI_END="0.3143437141362946" LOG_CI_START="-0.27297451641659237" LOG_EFFECT_SIZE="0.02068459885985105" MODIFIED="2013-02-03 16:26:33 +0800" MODIFIED_BY="[Empty name]" ORDER="4" O_E="0.0" SE="0.3449936358988949" STUDY_ID="STD-Wojnicz-1999" TOTAL_1="41" TOTAL_2="43" VAR="0.11902060881073927" WEIGHT="15.151297979416915"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="17" EVENTS_2="10" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" MODIFIED="2013-10-11 22:10:08 +0800" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="27.83" SORT_BY="EFFECT_SIZE" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="44" TOTAL_2="24" WEIGHT="0.0" Z="0.0">
+<NAME>Mortality in children</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.6934664474893548" CI_START="0.5077364904504295" EFFECT_SIZE="0.9272727272727272" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="10" LOG_CI_END="0.22877659642524323" LOG_CI_START="-0.29436162321785825" LOG_EFFECT_SIZE="-0.03279251339630749" MODIFIED="2013-03-04 17:58:31 +0800" MODIFIED_BY="[Empty name]" ORDER="21" O_E="0.0" SE="0.30729397979430917" STUDY_ID="STD-Aziz-2010" TOTAL_1="44" TOTAL_2="24" VAR="0.0944295900178253" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" MODIFIED="2013-10-11 22:13:39 +0800" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Myocardial function</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="1.0841614686070788" CI_START="-0.28416146860707914" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.3999999999999999" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.01" MODIFIED="2013-10-11 22:10:28 +0800" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.25183354633431754" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="NaN" TOTALS="SUB" TOTAL_1="17" TOTAL_2="21" UNITS="" WEIGHT="0.0" Z="1.145907259893165">
+<NAME>NYHA class at follow-up</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.0841614686070788" CI_START="-0.28416146860707914" EFFECT_SIZE="0.3999999999999999" ESTIMABLE="YES" MEAN_1="2.3" MEAN_2="1.9" MODIFIED="2013-03-05 16:44:33 +0800" MODIFIED_BY="[Empty name]" ORDER="23" SD_1="0.5" SD_2="1.5" SE="0.3490683879926659" STUDY_ID="STD-Maisch-1995" TOTAL_1="17" TOTAL_2="21" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="9.121385780515567" CI_END="9.786089282987742" CI_START="4.935130701439933" CI_STUDY="95" CI_TOTAL="95" DF="4" EFFECT_MEASURE="MD" EFFECT_SIZE="7.3606099922138375" ESTIMABLE="YES" I2="56.14701432161212" I2_Q="0.0" ID="CMP-002.02" MODIFIED="2013-10-11 22:10:54 +0800" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.05813608388522418" P_Q="1.0" P_Z="2.7158923845684694E-9" Q="0.0" RANDOM="YES" SCALE="24.58" SORT_BY="STUDY" STUDIES="5" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="3.491502093902934" TOTALS="YES" TOTAL_1="230" TOTAL_2="212" UNITS="" WEIGHT="100.0" Z="5.947909159175568">
+<NAME>LVEF at 1 - 3 months follow-up</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="14.174124967264287" CI_START="-0.37412496726428923" EFFECT_SIZE="6.899999999999999" ESTIMABLE="YES" MEAN_1="41.9" MEAN_2="35.0" MODIFIED="2013-02-20 17:32:29 +0800" MODIFIED_BY="[Empty name]" ORDER="5" SD_1="14.3" SD_2="14.8" SE="3.711356445649847" STUDY_ID="STD-Aziz-2010" TOTAL_1="44" TOTAL_2="24" WEIGHT="8.869835285018128"/>
+<CONT_DATA CI_END="7.2445442257256145" CI_START="2.7554557742743855" EFFECT_SIZE="5.0" ESTIMABLE="YES" MEAN_1="58.0" MEAN_2="53.0" MODIFIED="2013-02-20 17:32:29 +0800" MODIFIED_BY="[Empty name]" ORDER="13" SD_1="4.0" SD_2="8.0" SE="1.1451966686277364" STUDY_ID="STD-Liao-2005" TOTAL_1="61" TOTAL_2="61" WEIGHT="31.885145802310525"/>
+<CONT_DATA CI_END="16.60439106384335" CI_START="-6.804391063843353" EFFECT_SIZE="4.899999999999999" ESTIMABLE="YES" MEAN_1="52.0" MEAN_2="47.1" MODIFIED="2013-02-28 15:26:21 +0800" MODIFIED_BY="[Empty name]" ORDER="19" SD_1="22.7" SD_2="10.6" SE="5.971737825881544" STUDY_ID="STD-Maisch-1995" TOTAL_1="17" TOTAL_2="21" WEIGHT="3.911399705856553"/>
+<CONT_DATA CI_END="13.05466249464246" CI_START="4.345337505357538" EFFECT_SIZE="8.7" ESTIMABLE="YES" MEAN_1="35.9" MEAN_2="27.2" MODIFIED="2013-02-20 17:32:29 +0800" MODIFIED_BY="[Empty name]" ORDER="7" SD_1="10.0" SD_2="10.1" SE="2.2218074051316674" STUDY_ID="STD-Wojnicz-1999" TOTAL_1="39" TOTAL_2="43" WEIGHT="18.170966493764265"/>
+<CONT_DATA CI_END="10.654931699811508" CI_START="7.5450683001884915" EFFECT_SIZE="9.1" ESTIMABLE="YES" MEAN_1="22.0" MEAN_2="12.9" MODIFIED="2013-02-20 17:32:29 +0800" MODIFIED_BY="[Empty name]" ORDER="14" SD_1="2.0" SD_2="6.0" SE="0.7933470778425575" STUDY_ID="STD-Yang-2006" TOTAL_1="69" TOTAL_2="63" WEIGHT="37.16265271305052"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.3360278916431802" CI_END="10.524444463331339" CI_START="7.483286613161177" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="9.003865538246258" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.03" MODIFIED="2013-10-11 22:11:25 +0800" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="0.562131186420533" P_Q="1.0" P_Z="3.85907340990642E-31" Q="0.0" RANDOM="YES" SCALE="30.8" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="113" TOTAL_2="87" UNITS="" WEIGHT="100.0" Z="11.60561407597873">
+<NAME>LVEF at 1 - 3 months in children</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="14.174124967264287" CI_START="-0.37412496726428923" EFFECT_SIZE="6.899999999999999" ESTIMABLE="YES" MEAN_1="41.9" MEAN_2="35.0" MODIFIED="2013-03-04 17:56:56 +0800" MODIFIED_BY="[Empty name]" ORDER="22" SD_1="14.3" SD_2="14.8" SE="3.711356445649847" STUDY_ID="STD-Aziz-2010" TOTAL_1="44" TOTAL_2="24" WEIGHT="4.369748261533745"/>
+<CONT_DATA CI_END="10.654931699811508" CI_START="7.5450683001884915" EFFECT_SIZE="9.1" ESTIMABLE="YES" MEAN_1="22.0" MEAN_2="12.9" MODIFIED="2013-03-04 17:58:06 +0800" MODIFIED_BY="[Empty name]" ORDER="23" SD_1="2.0" SD_2="6.0" SE="0.7933470778425575" STUDY_ID="STD-Yang-2006" TOTAL_1="69" TOTAL_2="63" WEIGHT="95.63025173846626"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="18.919880790865278" CI_START="7.08011920913472" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="13.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.04" MODIFIED="2013-10-11 22:11:52 +0800" MODIFIED_BY="[Empty name]" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="1.6769497652023806E-5" Q="0.0" RANDOM="YES" SCALE="28.25" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="NaN" TOTALS="SUB" TOTAL_1="28" TOTAL_2="30" UNITS="" WEIGHT="0.0" Z="4.30406163555474">
+<NAME>LVEF at long-term follow-up</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="18.919880790865278" CI_START="7.08011920913472" EFFECT_SIZE="13.0" ESTIMABLE="YES" MEAN_1="43.9" MEAN_2="30.9" MODIFIED="2013-02-20 17:32:33 +0800" MODIFIED_BY="[Empty name]" ORDER="16" SD_1="9.1" SD_2="13.6" SE="3.0204028428892284" STUDY_ID="STD-Wojnicz-1999" TOTAL_1="28" TOTAL_2="30" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="4.891681597621886" CI_START="3.2965120406796498" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="4.094096819150768" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.05" MODIFIED="2013-10-11 22:13:00 +0800" MODIFIED_BY="[Empty name]" NO="5" P_CHI2="0.0" P_Q="0.0" P_Z="8.238810067878438E-24" Q="0.0" RANDOM="YES" SCALE="24.79" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="NaN" TOTALS="SUB" TOTAL_1="149" TOTAL_2="115" UNITS="" WEIGHT="0.0" Z="10.060726497485522">
+<NAME>LVEDD at the end of observation</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.0668506297102347" CI_START="-4.566850629710235" EFFECT_SIZE="-1.75" ESTIMABLE="YES" MEAN_1="41.05" MEAN_2="42.8" MODIFIED="2013-08-26 15:43:10 +0800" MODIFIED_BY="[Empty name]" ORDER="11" SD_1="7.1" SD_2="4.63" SE="1.437195097424847" STUDY_ID="STD-Aziz-2010" TOTAL_1="43" TOTAL_2="24" WEIGHT="0.0"/>
+<CONT_DATA CI_END="16.992856831558548" CI_START="0.4071431684414417" EFFECT_SIZE="8.699999999999996" ESTIMABLE="YES" MEAN_1="60.8" MEAN_2="52.1" MODIFIED="2013-08-26 15:43:02 +0800" MODIFIED_BY="[Empty name]" ORDER="27" SD_1="15.0" SD_2="9.9" SE="4.231127151810722" STUDY_ID="STD-Maisch-1995" TOTAL_1="17" TOTAL_2="21" WEIGHT="0.0"/>
+<CONT_DATA CI_END="5.850632923450996" CI_START="4.149367076549004" EFFECT_SIZE="5.0" ESTIMABLE="YES" MEAN_1="64.0" MEAN_2="59.0" MODIFIED="2013-08-26 15:43:03 +0800" MODIFIED_BY="[Empty name]" ORDER="10" SD_1="2.0" SD_2="2.0" SE="0.43400436444785706" STUDY_ID="STD-Mason-1995" TOTAL_1="54" TOTAL_2="35" WEIGHT="0.0"/>
+<CONT_DATA CI_END="-3.2000026907371044" CI_START="-12.199997309262901" EFFECT_SIZE="-7.700000000000003" ESTIMABLE="YES" MEAN_1="58.2" MEAN_2="65.9" MODIFIED="2013-08-26 15:43:08 +0800" MODIFIED_BY="[Empty name]" ORDER="15" SD_1="9.3" SD_2="9.9" SE="2.2959591833106643" STUDY_ID="STD-Wojnicz-1999" TOTAL_1="35" TOTAL_2="35" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="1.879362373319275" CI_START="-6.079362373319277" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-2.1000000000000014" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.06" MODIFIED="2013-10-11 22:13:39 +0800" MODIFIED_BY="[Empty name]" NO="6" P_CHI2="0.0" P_Q="0.0" P_Z="0.3009877464859081" Q="0.0" RANDOM="YES" SCALE="22.72" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="NaN" TOTALS="SUB" TOTAL_1="43" TOTAL_2="22" UNITS="" WEIGHT="0.0" Z="1.0343175567850913">
+<NAME>LVESD at one-year follow-up</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.879362373319275" CI_START="-6.079362373319277" EFFECT_SIZE="-2.1000000000000014" ESTIMABLE="YES" MEAN_1="34.4" MEAN_2="36.5" MODIFIED="2013-02-20 17:30:50 +0800" MODIFIED_BY="[Empty name]" ORDER="13" SD_1="8.38" SD_2="7.4" SE="2.030324232847123" STUDY_ID="STD-Aziz-2010" TOTAL_1="43" TOTAL_2="22" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" MODIFIED="2013-10-11 22:14:31 +0800" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Myocardial enzyme</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-92.81944328266823" CI_START="-115.1805567173318" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-104.00000000000001" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-003.01" MODIFIED="2013-10-11 22:13:59 +0800" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="2.9123207913478695E-74" Q="0.0" RANDOM="YES" SCALE="165.15" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="NaN" TOTALS="SUB" TOTAL_1="61" TOTAL_2="61" UNITS="" WEIGHT="0.0" Z="18.23131526860237">
+<NAME>Level of Creatine Phosphokinase</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-92.81944328266822" CI_START="-115.18055671733178" EFFECT_SIZE="-104.0" ESTIMABLE="YES" MEAN_1="126.0" MEAN_2="230.0" MODIFIED="2013-10-06 23:19:34 +0800" MODIFIED_BY="[Empty name]" ORDER="15" SD_1="32.0" SD_2="31.0" SE="5.704470493092008" STUDY_ID="STD-Liao-2005" TOTAL_1="61" TOTAL_2="61" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-8.924498373564315" CI_START="-11.77550162643568" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-10.349999999999998" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-003.02" MODIFIED="2013-10-11 22:14:14 +0800" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="5.924091830353169E-46" Q="0.0" RANDOM="YES" SCALE="33.29" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="NaN" TOTALS="SUB" TOTAL_1="50" TOTAL_2="50" UNITS="" WEIGHT="0.0" Z="14.230518481211158">
+<NAME>Level of Creatine Phosphokinase-MB</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-8.924498373564315" CI_START="-11.77550162643568" EFFECT_SIZE="-10.349999999999998" ESTIMABLE="YES" MEAN_1="18.94" MEAN_2="29.29" MODIFIED="2013-10-06 21:13:46 +0800" MODIFIED_BY="[Empty name]" ORDER="17" SD_1="3.01" SD_2="4.17" SE="0.7273101126754666" STUDY_ID="STD-Ma-2001" TOTAL_1="50" TOTAL_2="50" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-61.188052955863135" CI_START="-80.29348125717004" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-70.74076710651659" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-003.03" MODIFIED="2013-10-11 22:14:31 +0800" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="9.859762183825728E-48" Q="0.0" RANDOM="YES" SCALE="138.99" SORT_BY="EFFECT_SIZE" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="NaN" TOTALS="SUB" TOTAL_1="111" TOTAL_2="111" UNITS="" WEIGHT="0.0" Z="14.514132170282094">
+<NAME>alpha-HBDH</NAME>
+<GROUP_LABEL_1>Corticosteroids</GROUP_LABEL_1>
+<GROUP_LABEL_2>No Corticosteroids</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Corticosteroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>No Corticosteroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-77.86414170077157" CI_START="-104.13585829922843" EFFECT_SIZE="-91.0" ESTIMABLE="YES" MEAN_1="163.0" MEAN_2="254.0" MODIFIED="2013-10-06 20:52:22 +0800" MODIFIED_BY="[Empty name]" ORDER="19" SD_1="38.0" SD_2="36.0" SE="6.70209167252174" STUDY_ID="STD-Liao-2005" TOTAL_1="61" TOTAL_2="61" WEIGHT="0.0"/>
+<CONT_DATA CI_END="-34.082875521883196" CI_START="-61.917124478116804" EFFECT_SIZE="-48.0" ESTIMABLE="YES" MEAN_1="216.0" MEAN_2="264.0" MODIFIED="2013-10-06 20:52:25 +0800" MODIFIED_BY="[Empty name]" ORDER="18" SD_1="35.0" SD_2="36.0" SE="7.100704190430693" STUDY_ID="STD-Ma-2001" TOTAL_1="50" TOTAL_2="50" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2013-10-06 23:30:45 +0800" MODIFIED_BY="[Empty name]">
+<FIGURE FILENAME="Flowchart.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2013-05-22 18:27:39 +0800" MODIFIED_BY="[Empty name]" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Flow diagram</P>
+</CAPTION>
+<FILE>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
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Risk of bias graph.png" FILE_TYPE="PNG" ID="FIG-02" MODIFIED="2013-10-06 23:30:45 +0800" MODIFIED_BY="[Empty name]" NO="2" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_GRAPH_PLOT">
+<CAPTION>
+<P>Risk of bias graph: review authors' judgements about each risk of bias item presented as percentages across all included studies.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAl4AAAEACAMAAABVk4iuAAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD/gADAwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID///8AAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///9BjlLGAAALa0lEQVR42u2dCZabOhBFyT+9AbZUC9eW2EBO8tM2g+YBCSzR92Zw
+GyQQ+Lkk1DxqmgAu49c0cxLgIpb/OAdwHcgLkBcgLwDkBcgLkBcA8oKP8cUpaMvCKdBm6pFXd/3B
+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
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Risk of bias summary.png" FILE_TYPE="PNG" ID="FIG-03" MODIFIED="2013-10-06 23:30:45 +0800" MODIFIED_BY="[Empty name]" NO="3" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_TABLE_PLOT">
+<CAPTION>
+<P>Risk of bias summary: review authors' judgements about each risk of bias item for each included study.</P>
+</CAPTION>
+<FILE>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
+IUTC+C9VPU+T1E2REgAAAABJRU5ErkJggg==
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK MODIFIED="2011-06-16 23:53:05 +0800" MODIFIED_BY="[Empty name]"/>
+<APPENDICES MODIFIED="2013-04-15 20:54:08 +0800" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2013-04-15 20:48:32 +0800" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2013-04-15 20:48:32 +0800" MODIFIED_BY="[Empty name]">Search strategies 2012</TITLE>
+<APPENDIX_BODY MODIFIED="2013-04-15 20:48:20 +0800" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">CENTRAL</HEADING>
+<P>#1 MeSH descriptor Myocarditis, this term only<BR/>#2 (MYOCARDITIS)<BR/>#3 (#1 OR #2)<BR/>#4 MeSH descriptor Anti-Inflammatory Agents explode all trees<BR/>#5 MeSH descriptor Glucocorticoids explode all trees<BR/>#6 MeSH descriptor Immunosuppressive Agents explode all trees<BR/>#7 MeSH descriptor Adrenal Cortex Hormones explode all trees<BR/>#8 (predniso*)<BR/>#9 (dexamethason*)<BR/>#10 (hydrocortiso*)<BR/>#11 (methylprednison*)<BR/>#12 (steroid*)<BR/>#13 (corticostero*)<BR/>#14 (immunosuppress*)<BR/>#15 (glucocorticoid*)<BR/>#16 (mineralocorticoid*)<BR/>#17 (betamethason*)<BR/>#18 (budesonide)<BR/>#19 (cortiso*)<BR/>#20 (fludrocortiso*)<BR/>#21 (#4 OR #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17 OR #18 OR #19 OR #20)<BR/>#22 (#3 AND #21)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">MEDLINE</HEADING>
+<P>1 exp Myocarditis/ <BR/>2 myocarditis.tw. <BR/>3 or/1-2 <BR/>4 exp Anti-Inflammatory Agents/ <BR/>5 exp Glucocorticoids/ <BR/>6 exp Immunosuppressive Agents/ <BR/>7 exp Adrenal Cortex Hormones/ <BR/>8 predniso$.tw.<BR/>9 dexamethason$.tw. <BR/>10 hydrocortiso$.tw. <BR/>11 methylprednison$.tw.<BR/>12 steroid$.tw. <BR/>13 corticostero$.tw. <BR/>14 immunosuppress$.tw. <BR/>15 glucocorticoid$.tw. <BR/>16 mineralocorticoid$.tw. <BR/>17 betamethason$.tw.<BR/>18 budesonide.tw. <BR/>19 cortiso$.tw. <BR/>20 fludrocortiso$.tw. <BR/>21 or/4-20 <BR/>22 randomized controlled trial.pt. <BR/>23 controlled clinical trial.pt. <BR/>24 randomized.ab. <BR/>25 placebo.ab. <BR/>26 drug therapy.fs. <BR/>27 randomly.ab. <BR/>28 trial.ab. <BR/>29 groups.ab. <BR/>30 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 <BR/>31 exp animals/ not humans.sh. <BR/>32 30 not 31 <BR/>33 3 and 21 and 32 <BR/>34 limit 33 to yr="2009 -Current" </P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">EMBASE</HEADING>
+<P>1 exp Myocarditis/ <BR/>2 myocarditis.tw. <BR/>3 or/1-2 <BR/>4 exp Anti-Inflammatory Agents/ <BR/>5 exp Glucocorticoids/ <BR/>6 exp Immunosuppressive Agents/ <BR/>7 exp Adrenal Cortex Hormones/ <BR/>8 predniso$.tw. <BR/>9 dexamethason$.tw. <BR/>10 hydrocortiso$.tw. <BR/>11 methylprednison$.tw. <BR/>12 steroid$.tw. <BR/>13 corticostero$.tw. <BR/>14 immunosuppress$.tw. <BR/>15 glucocorticoid$.tw. <BR/>16 mineralocorticoid$.tw. <BR/>17 betamethason$.tw. <BR/>18 budesonide.tw. <BR/>19 cortiso$.tw. <BR/>20 fludrocortiso$.tw. <BR/>21 or/4-20 <BR/>22 random$.tw. <BR/>23 factorial$.tw. <BR/>24 crossover$.tw. <BR/>25 cross over$.tw. <BR/>26 cross-over$.tw. <BR/>27 placebo$.tw. <BR/>28 (doubl$ adj blind$).tw. <BR/>29 (singl$ adj blind$).tw. <BR/>30 assign$.tw.<BR/>31 allocat$.tw. <BR/>32 volunteer$.tw. <BR/>33 crossover procedure/ <BR/>34 double blind procedure/ <BR/>35 randomized controlled trial/ <BR/>36 single blind procedure/ <BR/>37 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 <BR/>38 (animal/ or nonhuman/) not human/<BR/>39 37 not 38<BR/>40 3 and 21 and 39<BR/>41 limit 40 to yr="2009 -Current"</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">BIOSIS and Web of Science</HEADING>
+<P>#3 #2 AND #1<BR/>#2 Topic=((corticosteroid$ or antiinflammatory or anti-inflammatory or cortiso$ or predniso$ or hydro-cortiso$ or hydrocortiso$ or steroid$ or cortico-steroid$ or corticosteroid$ or methylprednison$ or methyl-prednison$ or budesonide$ or fludro-cortiso$ or fludrocortiso$ or immuno-suppress$ or immunosuppress$ or dexamethason$ or betamethason$ or budesonide))<BR/>#1 Topic=((myocarditis or carditis))<BR/>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">LILACS</HEADING>
+<P>Search on : myocarditis or carditis [Words] and corticosteroid$ or antiinflammatory or anti-inflammatory or cortiso$ or predniso$ or hydro-cortiso$ or hydrocortiso$ or steroid$ or cortico-steroid$ or corticosteroid$ or methylprednison$ or methyl-prednison$ or budesonide$ or fludro-cortiso$ or fludrocortiso$ or immuno-suppress$ or immunosuppress$ or dexamethason$ or betamethason$ or budesonide [Words]<BR/>
+</P>
+</SUBSECTION>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2013-04-15 20:52:22 +0800" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2013-04-15 20:48:43 +0800" MODIFIED_BY="[Empty name]">Search strategies 2009</TITLE>
+<APPENDIX_BODY MODIFIED="2013-04-15 20:52:22 +0800" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">CENTRAL</HEADING>
+<P>#1 MYOCARDITIS*:ME<BR/>#2 MYOCARDITIS<BR/>#3 (#1 or #2)<BR/>#4 ANTI-INFLAMMATORY-AGENTS-STEROIDAL*:ME<BR/>#5 GLUCOCORTICOIDS-SYNTHETIC*:ME<BR/>#6 MINERALO-CORTICOIDS-SYNTHETIC*:ME<BR/>#7 IMMUNO-SUPPRESSIVE-AGENTS*:ME<BR/>#8 ADRENAL-CORTEX-HORMONES*:ME<BR/>#9 STEROID*<BR/>#10 CORTICO-STERO*<BR/>#11 IMMUNO-SUPPRESS*<BR/>#12 GLUCO-CORTICOID*<BR/>#13 MINERALO-CORTICOID*<BR/>#14 PREDNISO*<BR/>#15 DEXAMETHASON*<BR/>#16 HYDRO-CORTISO*<BR/>#17 METHYL-PREDNISON*<BR/>#18 BUDESONIDE*<BR/>#19 CORTISO*<BR/>#20 FLUDRO-CORTISO*<BR/>#21 ((((((((#4 or #5) or #6) or #7) or #8) or #9) or #10) or #11) or #12)<BR/>#22 (((((((#13 or #14) or #15) or #16) or #17) or #18) or #19) or #20)<BR/>#23 (#21 or #22)<BR/>#24 (#23 and #3)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">MEDLINE</HEADING>
+<P>#1 exp Myocarditis/<BR/>#2 myocarditis.tw.<BR/>#3 carditis.tw.<BR/>#4 #1 or #2<BR/>#5 exp Anti-Inflammatory Agents/<BR/>#6 exp Glucocorticoids/<BR/>#7 exp Immunosuppressive Agents/<BR/>#8 exp Adrenal Cortex Hormones/<BR/>#9 predniso$.tw.<BR/>#10 dexamethason$.tw.<BR/>#11 hydrocortiso$.tw.<BR/>#12 methylprednison$.tw.<BR/>#13 steroid$.tw.<BR/>#14 corticostero$.tw.<BR/>#15 immunosuppress$.tw.<BR/>#16 glucocorticoid$.tw.<BR/>#17 mineralocorticoid$.tw.<BR/>#18 betamethason$.tw.<BR/>#19 budesonide.tw.<BR/>#20 cortiso$.tw.<BR/>#21 fludrocortiso$.tw.<BR/>#22 or/5-21<BR/>#23 4 and 22<BR/>#24 randomized controlled trial.pt.<BR/>#25 controlled clinical trial.pt.<BR/>#26 Randomized controlled trials/<BR/>#27 random allocation/<BR/>#28 double blind method/<BR/>#29 single-blind method/<BR/>#30 or/#24-#29<BR/>#31 exp animal/ not humans/<BR/>#32 #30 not #31<BR/>#33 clinical trial.pt.<BR/>#34 exp Clinical Trials as Topic/<BR/>#35 (clin$ adj25 trial$).ti,ab.<BR/>#36 ((singl$ or doubl$ or trebl$ or tripl$) adj (blind$ or mask$)).ti,ab.<BR/>#37 placebos/<BR/>#38 placebo$.ti,ab.<BR/>#39 random$.ti,ab.<BR/>#40 research design/<BR/>#41 or/33-40<BR/>#42 41 not 31<BR/>#43 42 not 32<BR/>#44 comparative study.pt.<BR/>#45 exp evaluation studies/<BR/>#46 follow up studies/<BR/>#47 prospective studies/<BR/>#48 (control$ or prospectiv$ or volunteer$).ti,ab.<BR/>#49 or/#44-#48<BR/>#50 #49 not #31<BR/>#51 #50 not (#32 or #43)<BR/>#52 #32 or# 43 or #51<BR/>#53 #52 and #23<BR/>#54 ae.fs.<BR/>#55 co.fs.<BR/>#56 de.fs.<BR/>#57 (safe or safety or side effect$ or undesirable effect$ or treatment emergent or tolerability or toxicity or adrs or (adverse adj2 (effect or effects or reaction or reactions or event or events or outcome or outcomes))).ti,ab.<BR/>#58 #56 or #55 or #57 or #54<BR/>#59 #58 and #23<BR/>#60 #59 not #31<BR/>#61 #60 or #53<BR/>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">EMBASe</HEADING>
+<P>#1 exp Myocarditis/<BR/>#2 myocarditis.tw.<BR/>#3 #1 or #2<BR/>#4 exp Anti-inflammatory Agent/<BR/>#5 exp Immuno-suppressive Agents/<BR/>#6 exp Cortico-steroid/<BR/>#7 predniso$.tw.<BR/>#8 dexamethason$.tw.<BR/>#9 hydro-cortiso$.tw.<BR/>#10 methyl-prednison$.tw.<BR/>#11 steroid$.tw.<BR/>#12 cortico-stero$.tw.<BR/>#13 immuno-suppress$.tw.<BR/>#14 gluco-corticoid$.tw.<BR/>#15 mineralo-corticoid$.tw.<BR/>#16 beta-methason$.tw.<BR/>#17 budesonide.tw.<BR/>#18 cortiso$.tw.<BR/>#19 fludro-cortiso$.tw.<BR/>#20 or/4-19<BR/>#21 #3 and #20</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Web of Science (Science Citation Index Expanded and Conference Proceedings Citation Index - Science)</HEADING>
+<P># 8 #3 or #7<BR/>Databases=SCI-EXPANDED, CPCI-S Timespan=All Years<BR/># 7 #6 AND Document Type=(Meeting Abstract OR Meeting Summary OR Meeting-Abstract)<BR/>Databases=SCI-EXPANDED, CPCI-S Timespan=All Years<BR/># 6 #4 and #5<BR/>Databases=SCI-EXPANDED, CPCI-S Timespan=All Years<BR/># 5 ts=(corticosteroid$ or antiinflammatory or anti-inflammatory or cortiso$ or predniso$ or hydro-cortiso$ or hydrocortiso$ or steroid$ or cortico-steroid$ or corticosteroid$ or methylprednison$ or methyl-prednison$ or budesonide$ or fludro-cortiso$ or fludrocortiso$ or immuno-suppress$ or immunosuppress$ or dexamethason$ or betamethason$ or budesonide)<BR/>Databases=SCI-EXPANDED, CPCI-S Timespan=All Years<BR/># 4 ts=(myocarditis or carditis)<BR/>Databases=SCI-EXPANDED, CPCI-S Timespan=All Years<BR/># 3 #1 and #2<BR/>Databases=CPCI-S, Timespan=All Years<BR/># 2 ts=(corticosteroid$ or antiinflammatory or anti-inflammatory or cortiso$ or predniso$ or hydro-cortiso$ or hydrocortiso$ or steroid$ or cortico-steroid$ or corticosteroid$ or methylprednison$ or methyl-prednison$ or budesonide$ or fludro-cortiso$ or fludrocortiso$ or immuno-suppress$ or immunosuppress$ or dexamethason$ or betamethason$ or budesonide)<BR/># 1 ts=(myocarditis or carditis)<BR/>Databases=CPCI-S, Timespan=All Years</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">BIOSIS</HEADING>
+<P># 3 #1 and #2 AND Literature Type=(Meeting Abstract OR Meeting Address OR Meeting Paper OR Meeting Poster OR Meeting Report OR Meeting Slide OR Meeting Summary)<BR/># 2 ts=(corticosteroid$ or antiinflammatory or anti-inflammatory or cortiso$ or predniso$ or hydro-cortiso$ or hydrocortiso$ or steroid$ or cortico-steroid$ or corticosteroid$ or methylprednison$ or methyl-prednison$ or budesonide$ or fludro-cortiso$ or fludrocortiso$ or immuno-suppress$ or immunosuppress$ or dexamethason$ or betamethason$ or budesonide)<BR/># 1 ts=(myocarditis or carditis)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">LILACS</HEADING>
+<P>myocarditis or carditis [Palavras] and corticosteroid$ or antiinflammatory or anti-inflammatory or cortiso$ or predniso$ or hydro-cortiso$ or hydrocortiso$ or steroid$ or cortico-steroid$ or corticosteroid$ or methylprednison$ or methyl-prednison$ or budesonide$ or fludro-cortiso$ or fludrocortiso$ or immuno-suppress$ or immunosuppress$ or dexamethason$ or betamethason$ or budesonide [Palavras]</P>
+</SUBSECTION>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-03" MODIFIED="2013-04-15 20:54:05 +0800" MODIFIED_BY="[Empty name]" NO="3">
+<TITLE MODIFIED="2013-04-15 20:53:06 +0800" MODIFIED_BY="[Empty name]">Search strategies for Chinese databases</TITLE>
+<APPENDIX_BODY MODIFIED="2013-04-15 20:54:05 +0800" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Chinese Biology Medicine Database</HEADING>
+<P>&#65288;&#24515;&#32908;&#28814; OR &#30149;&#27602;&#24615;&#24515;&#32908;&#28814; OR &#24515;&#32908;&#30149; OR &#25193;&#24352;&#22411;&#24515;&#32908;&#30149;&#65289;AND &#65288;&#28608;&#32032; OR &#22320;&#22622;&#31859;&#26494; OR &#30002;&#22522;&#24378;&#30340;&#26494;&#40857; OR &#30002;&#24378;&#40857; OR &#24378;&#30340;&#26494;)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">CNKI</HEADING>
+<P>&#65288;&#39064;&#30446;:&#24515;&#32908;&#28814; OR &#39064;&#30446;:&#30149;&#27602;&#24615;&#24515;&#32908;&#28814;) AND (&#28608;&#32032; OR &#22320;&#22622;&#31859;&#26494; OR &#30002;&#22522;&#24378;&#30340;&#26494;&#40857; OR &#30002;&#24378;&#40857; OR &#24378;&#30340;&#26494;)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">WanFang</HEADING>
+<P>(&#24515;&#32908;&#28814; AND (&#28608;&#32032; OR &#22320;&#22622;&#31859;&#26494; OR &#24378;&#30340;&#26494; OR &#30002;&#22522;&#24378;&#30340;&#26494;))<BR/>
+</P>
+</SUBSECTION>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS MODIFIED="2013-05-22 18:16:04 +0800" MODIFIED_BY="[Empty name]">
+<EXTENSION ID="FLOW_1" NAME="FIGURE" REVMAN_VERSION="5.1.0" TYPE="FLOWCHART">
+<ALIAS ALIAS_ID="1">
+<FLOWCHARTBOX TEXT="&lt;p&gt;8 studies (12 references) included&lt;/p&gt;" WIDTH="166">
+<FLOWCHARTBOX TEXT="&lt;p&gt;25 full text papers screened&lt;/p&gt;">
+<FLOWCHARTBOX TEXT="&lt;p&gt;2390 references screened&lt;/p&gt;">
+<FLOWCHARTBOX TEXT="&lt;p&gt;2125 references retrieved by English language searches, de-duplicated&lt;/p&gt;" WIDTH="176"/>
+<FLOWCHARTBOX TEXT="&lt;p&gt;265 Chinese references retrieved in Chinese databases, de-duplicated&lt;/p&gt;" WIDTH="182"/>
+<OUT TEXT="&lt;p&gt;2365 references excluded&lt;/p&gt;"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;12 studies (13 references) excluded&lt;/p&gt;"/>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</ALIAS>
+</EXTENSION>
+</EXTENSIONS>
+</COCHRANE_REVIEW>

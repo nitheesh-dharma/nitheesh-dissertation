@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003963.pub2" GROUP_ID="RENAL" ID="202801041015302467" MERGED_FROM="" MODIFIED="2016-09-26 01:29:46 +0100" MODIFIED_BY="Narelle Willis" REVIEW_NO="007" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="14.0">
+<COVER_SHEET MODIFIED="2016-09-26 10:28:15 +1000" MODIFIED_BY="Narelle Willis">
+<TITLE>Continuous ambulatory peritoneal dialysis (CAPD) versus hospital or home haemodialysis for end-stage renal disease in adults</TITLE>
+<CONTACT>
+<PERSON ID="9285" ROLE="AUTHOR">
+<PREFIX>Mr</PREFIX>
+<FIRST_NAME>Luke</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Vale</LAST_NAME>
+<SUFFIX/>
+<POSITION>Health Foundation Chair in Health Economics</POSITION>
+<EMAIL_1>luke.vale@newcastle.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Institute of Health &amp; Society</DEPARTMENT>
+<ORGANISATION>Newcastle University</ORGANISATION>
+<ADDRESS_1>Baddiley-Clarke Building, Richardson Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Newcastle upon Tyne</CITY>
+<ZIP>NE2 4AX</ZIP>
+<REGION>Tyne &amp; Wear</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>0191 2225590</PHONE_1>
+<PHONE_2/>
+<FAX_1>0191 2226043</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2016-09-26 10:27:11 +1000" MODIFIED_BY="Narelle Willis">
+<PERSON ID="9285" ROLE="AUTHOR">
+<PREFIX>Mr</PREFIX>
+<FIRST_NAME>Luke</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Vale</LAST_NAME>
+<SUFFIX/>
+<POSITION>Health Foundation Chair in Health Economics</POSITION>
+<EMAIL_1>luke.vale@newcastle.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Institute of Health &amp; Society</DEPARTMENT>
+<ORGANISATION>Newcastle University</ORGANISATION>
+<ADDRESS_1>Baddiley-Clarke Building, Richardson Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Newcastle upon Tyne</CITY>
+<ZIP>NE2 4AX</ZIP>
+<REGION>Tyne &amp; Wear</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>0191 2225590</PHONE_1>
+<PHONE_2/>
+<FAX_1>0191 2226043</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="7298" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>June</FIRST_NAME>
+<MIDDLE_INITIALS>D</MIDDLE_INITIALS>
+<LAST_NAME>Cody</LAST_NAME>
+<SUFFIX/>
+<POSITION>Review Author</POSITION>
+<EMAIL_1>djunecody@gmail.com</EMAIL_1>
+<EMAIL_2/>
+<URL>http://www.otago.ac.nz/cure</URL>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Cochrane Incontinence Review Group</DEPARTMENT>
+<ORGANISATION>University of Aberdeen</ORGANISATION>
+<ADDRESS_1>2nd Floor, Health Sciences Building</ADDRESS_1>
+<ADDRESS_2>Health Sciences Building</ADDRESS_2>
+<CITY>Foresterhill</CITY>
+<ZIP>AB25 2ZD</ZIP>
+<REGION>Aberdeen</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1224 438126</PHONE_1>
+<PHONE_2>+44 1224 438128</PHONE_2>
+<FAX_1>+44 1224 438165</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="8261" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Sheila</FIRST_NAME>
+<MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+<LAST_NAME>Wallace</LAST_NAME>
+<SUFFIX/>
+<POSITION>Research Fellow</POSITION>
+<EMAIL_1>s.a.wallace@abdn.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Academic Urology Unit</DEPARTMENT>
+<ORGANISATION>University of Aberdeen</ORGANISATION>
+<ADDRESS_1>2nd Floor, Health Sciences Building</ADDRESS_1>
+<ADDRESS_2>Foresterhill</ADDRESS_2>
+<CITY>Aberdeen</CITY>
+<ZIP>AB25 2ZD</ZIP>
+<REGION>Scotland</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1224 438119</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 1224 438165</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="7342" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Conal</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Daly</LAST_NAME>
+<SUFFIX/>
+<POSITION>Consultant Nephrologist</POSITION>
+<EMAIL_1>Conal.Daly@ggc.scot.nhs.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Renal Unit</DEPARTMENT>
+<ORGANISATION>Western Infirmary Glasgow</ORGANISATION>
+<ADDRESS_1>Dumbarton Rd</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Glasgow</CITY>
+<ZIP>G11 6NT</ZIP>
+<REGION>Scotland</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 141 2116310</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 141 2116308</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="19679" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Marion</FIRST_NAME>
+<MIDDLE_INITIALS>K</MIDDLE_INITIALS>
+<LAST_NAME>Campbell</LAST_NAME>
+<SUFFIX/>
+<POSITION>Programme Director</POSITION>
+<EMAIL_1>m.k.campbell@abdn.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Health Services Research Unit</DEPARTMENT>
+<ORGANISATION>University of Aberdeen</ORGANISATION>
+<ADDRESS_1>Polwarth Building</ADDRESS_1>
+<ADDRESS_2>Foresterhill</ADDRESS_2>
+<CITY>Aberdeen</CITY>
+<ZIP>AB25 2ZD</ZIP>
+<REGION>Scotland</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1224 554480</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="7539" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Adrian</FIRST_NAME>
+<MIDDLE_INITIALS>M</MIDDLE_INITIALS>
+<LAST_NAME>Grant</LAST_NAME>
+<SUFFIX/>
+<POSITION>Professor of Health Services Research</POSITION>
+<EMAIL_1>a.grant@abdn.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>School of Medicine</DEPARTMENT>
+<ORGANISATION>University of Aberdeen</ORGANISATION>
+<ADDRESS_1>2nd Floor, Health Sciences Building</ADDRESS_1>
+<ADDRESS_2>Foresterhill</ADDRESS_2>
+<CITY>Aberdeen</CITY>
+<ZIP>AB25 2ZD</ZIP>
+<REGION>Scotland</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1224 553908</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 1224 554580</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="7742" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Izhar</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Khan</LAST_NAME>
+<SUFFIX/>
+<POSITION>Consultant Nephologist</POSITION>
+<EMAIL_1>izharkhan@nhs.net</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Medicine and Therapeutics</DEPARTMENT>
+<ORGANISATION>University of Aberdeen</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY>Aberdeen</CITY>
+<ZIP>AB25 2ZD</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1224 552122</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="16123" ROLE="AUTHOR">
+<PREFIX>Professor</PREFIX>
+<FIRST_NAME>Alison</FIRST_NAME>
+<MIDDLE_INITIALS>M</MIDDLE_INITIALS>
+<LAST_NAME>MacLeod</LAST_NAME>
+<SUFFIX/>
+<POSITION>Professor</POSITION>
+<EMAIL_1>a.m.macleod@abdn.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Medicine and Therapeutics</DEPARTMENT>
+<ORGANISATION>University of Aberdeen</ORGANISATION>
+<ADDRESS_1>Polwarth Building</ADDRESS_1>
+<ADDRESS_2>Foresterhill</ADDRESS_2>
+<CITY>Aberdeen</CITY>
+<ZIP>AB25 2ZD</ZIP>
+<REGION>Scotland</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1224 553024</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 1224 554761</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2016-09-22 16:49:17 +1000" MODIFIED_BY="Narelle S Willis">
+<UP_TO_DATE>
+<DATE DAY="12" MONTH="1" YEAR="2012"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="12" MONTH="1" YEAR="2012"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2003"/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="2003"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2004"/>
+</DATES>
+<WHATS_NEW MODIFIED="2016-09-26 10:28:15 +1000" MODIFIED_BY="Narelle Willis">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2016-09-26 10:27:40 +1000" MODIFIED_BY="Narelle Willis">
+<DATE DAY="26" MONTH="9" YEAR="2016"/>
+<DESCRIPTION>
+<P>Minor edit to excluded studies</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2016-09-22 16:51:03 +1000" MODIFIED_BY="Narelle S Willis">
+<DATE DAY="22" MONTH="9" YEAR="2016"/>
+<DESCRIPTION>
+<P>No new or ongoing studies since 2003, therefore this review is no longer being updated</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2016-09-26 10:28:15 +1000" MODIFIED_BY="Narelle Willis">
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_OLD_CONCLUSIONS" MODIFIED="2016-09-22 16:49:21 +1000" MODIFIED_BY="Narelle S Willis">
+<DATE DAY="12" MONTH="1" YEAR="2012"/>
+<DESCRIPTION>
+<P>Our conclusions did not change</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2016-09-22 16:49:24 +1000" MODIFIED_BY="Narelle S Willis">
+<DATE DAY="12" MONTH="1" YEAR="2012"/>
+<DESCRIPTION>
+<P>Four reports were identified (1 abstract; 3 ongoing)</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-01-12 12:03:07 +1100" MODIFIED_BY="Narelle S Willis">
+<DATE DAY="13" MONTH="5" YEAR="2009"/>
+<DESCRIPTION>
+<P>Contact details updated.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-05-13 18:02:35 +1000" MODIFIED_BY="Narelle Willis">
+<DATE DAY="23" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="8" MONTH="7" YEAR="2004"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>University of Aberdeen</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Health Services Research Unit</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Health Economics Research Unit</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>NHS Research and Development, Health Technology Assessment Programme</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2016-09-22 16:51:19 +1000" MODIFIED_BY="Narelle S Willis">
+<SUMMARY MODIFIED="2012-01-12 12:56:11 +1100" MODIFIED_BY="Narelle S Willis">
+<TITLE>Insufficient evidence from trials comparing CAPD (home dialysis without a machine) with hospital dialysis for people with kidney failure</TITLE>
+<SUMMARY_BODY MODIFIED="2012-01-12 12:56:11 +1100" MODIFIED_BY="Narelle S Willis">
+<P>When people's kidneys fail (end-stage kidney disease), they need either a transplant or dialysis to keep performing the kidney's functions. Dialysis can involve either regular visits to hospital for time on an artificial kidney machine (haemodialysis), or home dialysis. Home dialysis (CAPD - continuous ambulatory peritoneal dialysis) is a 'do it yourself' option that does not require a machine. It involves a tube permanently inserted through the abdomen to allow a fluid called dialysate to be emptied and replaced every day. The review found only one trial comparing the effects of CAPD and haemodialysis. No conclusions could be drawn.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2012-01-12 13:20:08 +1100" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2012-01-12 12:57:16 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Renal replacement therapy (RRT) with dialysis and transplantation is the only means of sustaining life for patients with end-stage kidney disease (ESKD). Although transplantation is the treatment of choice, the number of donor kidneys are limited and transplants may fail. Hence many patients require long-term or even life-long dialysis. Continuous ambulatory peritoneal dialysis (CAPD) is an alternative to hospital or home haemodialysis for patients with ESKD.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2012-01-12 12:57:20 +1100" MODIFIED_BY="Narelle S Willis">
+<P>To assess the benefits and harms of CAPD versus hospital or home haemodialysis for adults with ESKD.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2012-01-12 13:20:08 +1100" MODIFIED_BY="Narelle S Willis">
+<P>We searched the Cochrane Central Register of Controlled Trials (CENTRAL in <I>The Cochrane Library</I> Issue 12, 2011), the Cochrane Renal Group's specialised register (12 January 2012), MEDLINE (1966 to May 2002), EMBASE (1980 to May 2002), BIOSIS, CINAHL, SIGLE and NRR without language restriction. Reference lists of retrieved articles and conference proceedings were searched and known investigators and biomedical companies were contacted.</P>
+<P>Date of last search: 12 January 2012.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2012-01-12 12:57:24 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Randomised controlled trials (RCTs) or quasi-RCTs comparing CAPD to hospital or home haemodialysis for adults with ESKD were to be included.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2012-01-12 12:58:53 +1100" MODIFIED_BY="[Empty name]">
+<P>Two authors independently assess the methodological quality of studies. Data was abstracted from included studies onto a standard form by one author and checked by another. Statistical analyses were performed using the random-effects model and the results expressed as risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes with 95% confidence intervals (CI).</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2012-01-12 12:59:02 +1100" MODIFIED_BY="Narelle S Willis">
+<P>One trial, reported in abstract form only, was located in the most recent search. There was no statistical difference in death or quality adjusted life years score at two years between peritoneal dialysis or haemodialysis patients.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2012-01-12 12:57:27 +1100" MODIFIED_BY="Narelle S Willis">
+<P>There is Insufficient data to allow conclusions to be drawn about the relative effectiveness of CAPD compared with hospital or home haemodialysis for adults with ESKD. Efforts should be made to start and complete adequately powered RCTs, which compare the different dialysis modalities.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2012-01-12 13:16:16 +1100" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2012-01-12 13:06:26 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Renal replacement therapy (RRT) with dialysis and transplantation is the only means of sustaining life for patients with end-stage kidney disease (ESKD). Although transplantation is the treatment of choice, the number of donor kidneys are limited and transplants may fail. Hence many patients require long-term or even life-long dialysis. Such therapy is not only associated with considerable morbidity and a significantly impaired quality of life (QoL), but also imposes a major economic burden on health services.</P>
+<P>The two principal modes of dialysis for patients with ESKD are haemodialysis (HD) and continuous ambulatory peritoneal dialysis (CAPD).</P>
+<P>An artificial kidney (dialyser) is used in HD, which contains a semi-permeable membrane. Dialysis relies on the principle that small molecules such as urea and creatinine, usually excreted by the kidney, can pass across this membrane down a concentration gradient. Removal of fluid from blood is achieved by applying hydrostatic pressure across the membrane. Acidosis is corrected by acetate or bicarbonate in the dialysis fluid (dialysate), which flows on the other side of the membrane. This procedure, which is most often performed in a hospital although it can be performed in a patients own home, requires the patient to have permanent easy access to the circulation usually obtained by creating an arterio-venous fistula in the arm. HD is performed according to different schedules, ranging from four to eight hours, three times/week to the so-called daily treatments (two to eight hours, six sessions/week) (<LINK REF="REF-Buoncristiani-1998" TYPE="REFERENCE">Buoncristiani 1998</LINK>; <LINK REF="REF-Charra-1992" TYPE="REFERENCE">Charra 1992</LINK>; <LINK REF="REF-Twardowski-2001" TYPE="REFERENCE">Twardowski 2001</LINK>).</P>
+<P>The human peritoneal membrane is semi-permeable and hence can be used as a dialysis membrane. CAPD can be carried out by the patient themselves at home and does not require a machine. Dialysate is left in the peritoneal cavity for six to eight hours allowing for equilibration and then drained out and fresh dialysate instilled. This can then be performed three to four times/day. Fluid removal relies on creating an osmotic gradient across the membrane using varying concentrations of glucose (or a glucose polymer) in the dialysate. This procedure requires a permanent catheter to be inserted into the abdomen.</P>
+<P>In certain patients it may be not be possible to offer both types of dialysis therapy; those who have had extensive abdominal surgery for example may only be suitable for HD and those in whom the creation of vascular access (arterio-venous fistula) has become impossible may be restricted to CAPD. Although medical issues do limit the choice of therapy for some patients, in the majority of cases the choice of dialysis modality is made by the patient and/or health personnel is based on non-medical factors (<LINK REF="REF-Nolph-1993" TYPE="REFERENCE">Nolph 1993</LINK>). This is reflected in the wide variation in the uptake of the two types of dialysis in different countries.</P>
+<P>The current practice of RRT is not standardised and there are wide inter- and intra-national variations, such as in the modality of treatment used and in the choices of membranes and solutions for HD, and of catheters and fluids for CAPD. There are also considerable differences in the length of time and the frequency of dialysis. In the 1980's the criteria for accepting patients for dialysis in the UK and elsewhere were broadened and older patients and those with co-morbid illnesses, such as heart disease and diabetes, were accepted for treatment. Around this time CAPD was introduced which allowed the treatment of the increasing number of patients without the need to create more HD facilities, purchase expensive machines and employ large numbers of highly trained staff. There is variability in the use of peritoneal dialysis (PD) across countries. Fifteen percent of the United States ESKD population is on PD. In other countries, such as Canada and the United Kingdom (35%), New Zealand (55%) and Mexico (90%), the rates are higher (<LINK REF="REF-Heaf-2004" TYPE="REFERENCE">Heaf 2004</LINK>; <LINK REF="REF-Mendelssohn-2001" TYPE="REFERENCE">Mendelssohn 2001</LINK>). It has been suggested that the reimbursement of both the physician and the dialysis facility is the strongest influence on the selection of treatment modality worldwide (<LINK REF="REF-Nissenson-1993" TYPE="REFERENCE">Nissenson 1993</LINK>). In the UK, factors which may influence the choice of treatment include distance of the patient's home from the renal unit (<LINK REF="REF-Dalziel-1987" TYPE="REFERENCE">Dalziel 1987</LINK>) and the presence of co-morbid illnesses (<LINK REF="REF-Feest-1990" TYPE="REFERENCE">Feest 1990</LINK>). Once these factors have been taken into account, informed patient choice should be a major factor in influencing the choice of treatment modality. The two modalities are generally thought of as complementary and indeed patients may move from one treatment to the other if one technique fails. A decision about the choice of modality requires information on the effectiveness, acceptability and cost of the various modalities.</P>
+<P>The aim of this review is to assess the benefits and harms of CAPD versus HD for ESKD.</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2012-01-12 13:06:28 +1100" MODIFIED_BY="Narelle S Willis">
+<P>We aimed to assess the benefits and harms of CAPD versus hospital or home HD for adults with ESKD.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2012-01-12 13:16:16 +1100" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2012-01-12 13:16:16 +1100" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2012-01-12 13:06:32 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Randomised controlled trials (RCTs) (e.g. sealed, opaque sequentially numbered envelopes with third party involvement) and quasi-RCTs (e.g. alternate patients, alternate treatments, allocation according to date of birth or medical record number) comparing CAPD with hospital or home HD for the management of adults with ESKD were to be included.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2012-01-12 13:06:35 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Adults with ESKD who were suitable for both CAPD or hospital or home HD irrespective of sex, race, primary kidney disease or co-morbidity.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2012-01-12 13:06:38 +1100" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>CAPD was designated as the experimental treatment. A variable number (usually four) of manual PD exchanges performed in a 24 hour period by either the patient or an assistant.</LI>
+<LI>HD was designated as control treatment comprising of a variable number (usually three) of dialysis sessions per week, performed in a home or hospital setting.</LI>
+</UL>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2012-01-12 13:16:16 +1100" MODIFIED_BY="Narelle S Willis">
+<UL>
+<LI>Survival (overall mortality and cause-specific mortality)</LI>
+<LI>Haemoglobin/haematocrit</LI>
+<LI>Biochemical indices of kidney disease (serum potassium, calcium, phosphate, albumin, alkaline phosphatase, parathyroid hormone, radiological or histopathological evidence of renal bone disease)</LI>
+<LI>QoL - any scale of measure</LI>
+<LI>Technique failure</LI>
+<LI>Kt/V</LI>
+<LI>Protein Catabolic Rate (PCR)</LI>
+<LI>Systolic blood pressure</LI>
+<LI>Diastolic blood pressure</LI>
+<LI>Mean arterial blood pressure</LI>
+<LI>Hospitalisation rate (days/patient/year)</LI>
+<LI>Patient preference (if cross-over study)</LI>
+<LI>Employment status</LI>
+<LI>costs and cost-effectiveness</LI>
+</UL>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2012-01-12 12:57:55 +1100" MODIFIED_BY="[Empty name]">
+<P>This review has been adapted and updated from a Health Technology Assessment NHS R&amp;D HTA Programme. Because this was one of a number of reviews of the management of ESKD undertaken at the same time, a broad search strategy was employed which attempted to identify all RCTs or quasi-RCTs relevant to the management of ESKD (see additional <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK> - <I>Electronic search strategies</I>). This original search can been seen in full in this report (<LINK REF="REF-MacLeod-1998" TYPE="REFERENCE">MacLeod 1998</LINK>). Date of most recent search January 2004.<BR/>
+<BR/>Additional trials were sought from the following sources:</P>
+<OL>
+<LI>The Cochrane Central Register of Controlled Trials - CENTRAL - and the Cochrane Renal Group specialised register.</LI>
+<LI>
+<I>Handsearching</I>: Kidney International (including supplements) 1980 to 1997 was hand searched. However, conference proceedings, published in abstract form only, were only searched for one year, 1994. Conference proceedings are now searched by the Cochrane Renal Group and additional studies are included in the Specialised Register. Hand-searching was performed by two members of the team, one of whom was a Nephrologist. Two quality assurance controls were implemented. A 'Gold Standard' was devised. This consisted of the 1990 and 1995 volumes of Kidney International which were searched by both hand-searchers independently. After discussion an agreed assessment of all studies in these issues was made; this became the 'Gold Standard'. A sensitivity and precision (specificity) of greater than 90% was required of each searcher. Quality of hand-searching throughout the period of the review was maintained by each author checking 5% of the other author's studies. This 5% was chosen at random. We attempted to identify all possible RCTs and controlled clinical trials regardless of subject matter. All identified trials were notified to the Renal Cochrane Collaborative Group and to the Baltimore Cochrane Centre. Hard copies were made of the complete identified trials relevant to this review.</LI>
+<LI>Bibliographies of all studies included in these reviews, of all other identified relevant studies and of relevant book chapters were examined by subject-experts (nephrologists). We limited this bibliography searching to the 'first generation' studies only. We therefore did not search the bibliographies of studies originally identified from a previous bibliographic search.</LI>
+<LI>Authors of included studies and of studies whose methodology we were seeking clarification were contacted to ascertain if they knew of any further published, unpublished or still-to-be completed RCTs on this particular subject.</LI>
+<LI>Relevant biomedical companies were contacted to identify further published, unpublished or incomplete studies.</LI>
+<LI>We advertised our interest in finding published and unpublished RCTs and quasi-RCTs in any language relevant to this topic at the Exploratory meeting for the Renal Cochrane Collaborative Review Group, in Lyon, in March 1996 and at the Renal Association, UK, April 1996.</LI>
+</OL>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-09-23 14:44:33 +1000" MODIFIED_BY="[Empty name]">
+<P>During an initial pilot project, all abstracts were read by both a subject expert and a methodology expert. There was a high degree of concurrence between them but they were assessed markedly more quickly by the subject experts and it was decided that they alone should assess the abstracts. Hard copies of studies whose title or abstract were assessed as potentially relevant were obtained, and were assessed for subject relevance and methodological quality.</P>
+<P>The assessors were not blinded to author, institution nor journal of the assessed studies. Any differences of opinion was resolved by discussion. If agreement could not be reached, a third assessor would evaluate the study, and, ware of the previous team's deliberations reached a final decision. A single investigator abstracted data from each study describing the characteristics of participants, interventions and outcome measures using a standard form. Only published data in the identified trials was used; no raw data was sought although authors would be contacted to clarify points in the Methods or Results sections of their papers.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Quality assessment</HEADING>
+<P>The quality of included studies were assessed independently without blinding to authorship, using the criteria of the Cochrane Renal Group adapted from <LINK REF="REF-Crowther-1998" TYPE="REFERENCE">Crowther 1998</LINK>. Any difference of opinion was resolved by discussion. The quality items to be assessed were allocation concealment, intention-to-treat analysis, completeness of follow-up and blinding of participants, investigators and outcome assessment.</P>
+<SUBSECTION>
+<HEADING LEVEL="4">Allocation Concealment </HEADING>
+<UL>
+<LI>Adequate: Randomisation method described that would not allow investigator/participant to know or influence intervention group before eligible participant entered in the study.</LI>
+<LI>Unclear: Randomisation stated but no information on method used is available.</LI>
+<LI>Inadequate: Method of randomisation used such as alternate medical record numbers or unsealed envelopes; any information in the study that indicated that investigators or participants could influence intervention group</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Blinding</HEADING>
+<UL>
+<LI>Blinding of investigators: Yes/no/not stated</LI>
+<LI>Blinding of participants: Yes/no/not stated</LI>
+<LI>Blinding of outcome assessor: Yes/no/not stated</LI>
+<LI>Blinding of data analysis: Yes/no/not stated</LI>
+</UL>
+<P>The above were considered not blinded if they knew the treatment group or could identify it in &gt;20% of participants because of side effects of treatment.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Intention-to-treat analysis </HEADING>
+<UL>
+<LI>Yes: Specifically reported by authors that intention-to-treat analysis was undertaken and this was confirmed on study assessment.</LI>
+<LI>Yes: Not reported but confirmed upon study assessment</LI>
+<LI>No: Not reported and lack of intention-to-treat analysis confirmed on study assessment (patients who were randomised were not included in the analysis because they did not receive the study intervention, they withdrew from the study or were not included because of protocol violation).</LI>
+<LI>Unclear: Not reported and not clear from study assessment</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Completeness of follow-up</HEADING>
+<P>Per cent of patients lost to follow up during study</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Economic assessment</HEADING>
+<P>Where economic data (costs, economic measures of effectiveness such as quality adjusted life years, and cost-effectiveness) were reported additional quality assessment was performed. This quality assessment used the Drummond checklist for the critical appraisal of economic evaluations (<LINK REF="REF-Drummond-1997" TYPE="REFERENCE">Drummond 1997</LINK>). This checklist asks a series of questions relating to the quality of the economic component of the study. These were:</P>
+<OL>
+<LI>Was a well-defined question posed in an answerable form? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Was a comprehensive description of the competing alternatives given (i.e. can you tell who, did what, to whom, where, and how often)? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Was there evidence that the programmes effectiveness had been established? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Were all important and relevant costs and consequences for each alternative identified? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Were costs and consequences measured accurately in appropriate physical units? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Were costs valued credibly? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Were consequences valued credibly? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Were costs adjusted for differential timing? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Were consequences adjusted for differential timing? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Was an incremental analysis of costs and consequences of alternatives performed? <I>Yes/No/Cannot tell</I>
+</LI>
+<LI>Did the presentation and discussion of study results include all issues of concern to users? <I>Yes/No/Cannot tell</I>
+</LI>
+</OL>
+<P>Studies that did not present a full economic evaluation (studies that only reported either costs or economic measures of effects) were only assessed against those questions that were relevant. (see additional <LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK> - <I>Quality assessment of economic studies (Questions 1 to 5)</I> and <LINK REF="TBL-03" TYPE="TABLE">Table 3</LINK> - <I>Quality assessment of economic studies (Questions 6 to 11)</I>)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Statistical assessment</HEADING>
+<P>For dichotomous outcomes the risk ratio (RR) was to be calculated with 95% confidence intervals (CI) and summary statistics estimated using the random effects model. Heterogeneity was to be analysed with a threshold value of P &lt; 0.1 used for statistical significance. Where continuous scales of measurement were used to assess the effects of treatment, data was to be analysed in continuous form as the mean difference (MD) or standardised mean difference (SMD) if different scales had been used with 95% CI.</P>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2012-01-12 13:09:04 +1100" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2012-01-12 13:06:48 +1100" MODIFIED_BY="Narelle S Willis">
+<P>The sensitive search strategy (<LINK REF="REF-MacLeod-1998" TYPE="REFERENCE">MacLeod 1998</LINK>) resulted in a large number of abstracts (11,800). Despite this, no RCTs or quasi-RCTs were identified when this study was first published in 2003. One abstract reporting a RCT comparing CAPD to hospital or home HD was identified by the additional search performed in January 2004.</P>
+<P>The one study identified was only reported in abstract form (<LINK REF="STD-Korevaar-2003" TYPE="STUDY">Korevaar 2003</LINK>). The study described a comparison of HD and PD although it was unclear precisely which form of HD or PD were considered.<BR/>
+</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>Details of the methodological quality of the included RCT are outlined in the description of included studies and in the additional tables. The included study appeared to be a multicentred RCT but due to brevity of reporting it was unclear whether allocation was concealed, analysis was on intention to treat basis and how complete the follow-up was of study participants. In terms of blinding it was unclear whether investigators, outcome assessors or data analysts were blinded to treatment allocation. Given the nature of the interventions it is unlikely that participants could have been blinded to treatment allocation. The trial stopped recruitment before the prespecified sample size due to poor recruitment. </P>
+<P>In terms of the economic component of the study the methods used were not well described and it is unclear precisely how quality adjusted life years (QALYs) were assessed. This is a concern as the method of reporting QALYs is not standard (<LINK REF="REF-Drummond-1997" TYPE="REFERENCE">Drummond 1997</LINK>) as it would be expected that the score would be between 0 and 2 (QALYs are calculated by weighting survival, measured in years by a quality of life weight. Typically, full health is given a weight of 1 and death a weight of 0). The authors of the trial have been contacted by the Cochrane Renal Group for clarification of the method/s used.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2012-01-12 13:09:04 +1100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Survival</HEADING>
+<P>At five years 5/20 PD and 9/18 HD patients had died. There was no significant difference in survival between PD and HD (<LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>: RR 0.50, 95% CI 0.21 to 1.22). The trial reported that after adjusting for any baseline differences in age, comorbidity and primary kidney disease the hazard ratio was 3.6 (95% CI 0.8 to 15.4).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Quality of life</HEADING>
+<P>Quality of life was measured in terms of mean QALYs score at two years. There was no significant difference between PD and HD (<LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>: MD -5.10, 95% CI -15.10 to 4.90).</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2012-01-12 13:07:13 +1100" MODIFIED_BY="Narelle S Willis">
+<P>It was chastening that only one small RCT comparing PD and HD (<LINK REF="STD-Korevaar-2003" TYPE="STUDY">Korevaar 2003</LINK>) was identified despite checking approximately 12,000 abstracts identified in the literature searching. As this study report is only available in abstract form, the quality of the study is difficult to determine. Furthermore, the trial was smaller than intended due to the difficulty of recruitment and as a result the results are imprecise as well as being potentially unreliable and the probability of a type II error cannot be excluded. It would be helpful if details of how and why the study failed to achieve its recruitment targets were made available so that future studies can take steps to avoid similar problems.</P>
+<P>The issue facing the health services is not whether to have CAPD or HD but rather the balance of provision between the two modalities. It is known from variations in uptake of these techniques in different countries that a proportion of patients requiring dialysis for ESKD could be managed with either CAPD or HD initially. What is still required is information about the relative costs, benefits and risks of policies that start with one or other modality. Ideally information on benefits and risks should come from comparisons, within a large pragmatic RCT.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2012-01-12 13:07:19 +1100" MODIFIED_BY="Narelle S Willis">
+<IMPLICATIONS_PRACTICE MODIFIED="2012-01-12 13:07:16 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Data from robust RCTs are not available to allow conclusions to be drawn about the relative effectiveness of HD and CAPD and as such changes in practice can not be supported by evidence on effectiveness or efficiency.<BR/>
+</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2012-01-12 13:07:19 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Efforts should be made to undertake adequately powered RCTs or well designed observational studies that compare the different dialysis modalities. Given the development of new techniques in dialysis therapy such as continuous cycling PD (CCPD), additional evaluation is required to investigate their place in the treatment of ESKD alongside HD and CAPD.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>Funded by the NHS Executive R&amp;D Health Technology Assessment Programme. The Health Services Research Unit and Health Economics Research Unit are funded by the Chief Scientist's Office of the Scottish Executive Health Department.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>A MacLeod currently chairs the Standards and Audit Subcommittee of the Renal Association. (UK) </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2012-01-12 12:55:24 +1100" MODIFIED_BY="Narelle S Willis">
+<P>All authors were fully involved in conceiving, designing, and co-ordinating the review. Sheila Wallace conducted the initial searches and organised retrieval of papers. Alison MacLeod, Conal Daly and Marion Campbell screened the search results. Luke Vale wrote the review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES MODIFIED="2016-09-22 16:51:19 +1000" MODIFIED_BY="Narelle S Willis">
+<P>No new or ongoing studies since 2003, therefore this review is no longer being updated</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2016-09-26 01:29:46 +0100" MODIFIED_BY="Narelle Willis">
+<STUDIES MODIFIED="2016-09-26 10:27:13 +1000" MODIFIED_BY="Narelle Willis">
+<INCLUDED_STUDIES MODIFIED="2016-09-26 10:27:13 +1000" MODIFIED_BY="Narelle Willis">
+<STUDY DATA_SOURCE="PUB" ID="STD-Korevaar-2003" MODIFIED="2016-09-26 10:27:13 +1000" MODIFIED_BY="Narelle Willis" NAME="Korevaar 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Korevaar J, Feith G, Dekker F, van Manen J, Boeschoten E, Bossuyt P et al</AU>
+<TI>Effects of starting with hemodialysis compared with peritoneal dialysis in patients new on dialysis treatment: A randomized controlled trial</TI>
+<SO>Nephrology Dialysis Transplantation</SO>
+<YR>2003</YR>
+<VL>18 (Suppl 4)</VL>
+<PG>199</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2844988"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-26 10:27:13 +1000" MODIFIED_BY="Narelle Willis" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Korevaar JC, Feith GW, Dekker FW, van Manen JG, Boeschoten EW, Bossuyt PM et al</AU>
+<TI>Effect of starting with hemodialysis compared with peritoneal dialysis in patients new on dialysis treatment: a randomized controlled trial</TI>
+<SO>Kidney International</SO>
+<YR>2003</YR>
+<VL>84</VL>
+<NO>6</NO>
+<PG>2222-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2844989"/><IDENTIFIER TYPE="MEDLINE" VALUE="14633146"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2844987"/></IDENTIFIERS>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2016-09-23 11:11:45 +1000" MODIFIED_BY="Gail Y Higgins">
+<STUDY DATA_SOURCE="PUB" ID="STD-Ateshkadi-1995" MODIFIED="2008-09-23 14:38:37 +1000" MODIFIED_BY="[Empty name]" NAME="Ateshkadi 1995" YEAR="1995">
+<REFERENCE MODIFIED="2008-09-23 14:38:37 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ateshkadi A, Johnson CA, Founds HW, Zimmerman SW</AU>
+<TI>Serum advanced glycosylation end-products in patients on hemodialysis and CAPD</TI>
+<SO>Peritoneal Dialysis International</SO>
+<YR>1995</YR>
+<VL>15</VL>
+<NO>2</NO>
+<PG>129-33</PG>
+<IDENTIFIERS MODIFIED="2008-09-23 14:38:37 +1000" MODIFIED_BY="[Empty name]"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2844991"/><IDENTIFIER MODIFIED="2008-09-23 14:38:37 +1000" MODIFIED_BY="[Empty name]" TYPE="MEDLINE" VALUE="7612732"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2844990"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dursun-2004" MODIFIED="2008-09-23 14:22:29 +1000" MODIFIED_BY="[Empty name]" NAME="Dursun 2004" YEAR="2004">
+<REFERENCE MODIFIED="2008-09-23 14:22:29 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dursun B, Demircioglu F, Varan HI, Basarici I, Kabukcu M, Ersoy F, Ersel F, Suleymanlar G</AU>
+<TI>Effects of different dialysis modalities on cardiac autonomic dysfunctions in end-stage renal disease patients: one year prospective study</TI>
+<SO>Renal Failure</SO>
+<YR>2004</YR>
+<VL>26</VL>
+<NO>1</NO>
+<PG>35-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2844993"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2844992"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Foley-2004" MODIFIED="2008-09-23 14:34:10 +1000" MODIFIED_BY="[Empty name]" NAME="Foley 2004" YEAR="2004">
+<REFERENCE MODIFIED="2008-09-23 14:34:10 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Foley RN</AU>
+<TI>Comparing the incomparable: hemodialysis versus peritoneal dialysis in observational studies</TI>
+<SO>Peritoneal Dialysis International</SO>
+<YR>2004</YR>
+<VL>24</VL>
+<NO>3</NO>
+<PG>217-21</PG>
+<IDENTIFIERS MODIFIED="2008-09-23 14:34:10 +1000" MODIFIED_BY="[Empty name]"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2844995"/><IDENTIFIER MODIFIED="2008-09-23 14:34:10 +1000" MODIFIED_BY="[Empty name]" TYPE="MEDLINE" VALUE="15185769"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2844994"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gagnon-1983" MODIFIED="2008-09-23 14:22:35 +1000" MODIFIED_BY="[Empty name]" NAME="Gagnon 1983" YEAR="1983">
+<REFERENCE MODIFIED="2008-09-23 14:22:35 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gagnon RF, Shuster J, Kaye M</AU>
+<TI>Auto-immunity in patients with end-stage renal disease maintained on hemodialysis and continuous ambulatory peritoneal dialysis</TI>
+<SO>Journal of Clinical &amp; Laboratory Immunology</SO>
+<YR>1983</YR>
+<VL>11</VL>
+<NO>3</NO>
+<PG>155-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2844997"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2844996"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-IDEAL-Study-2004" MODIFIED="2016-09-23 11:11:45 +1000" MODIFIED_BY="Gail Y Higgins" NAME="IDEAL Study 2004" YEAR="2004">
+<REFERENCE MODIFIED="2016-09-23 11:09:54 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Brunkhorst R</AU>
+<TI>Early versus late initiation of dialysis</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2010</YR>
+<VL>363</VL>
+<NO>24</NO>
+<PG>2368-70</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386343"/><IDENTIFIER TYPE="MEDLINE" VALUE="21142542"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:09:35 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Collins J, Cooper B, Branley P, Bulfone L, Craig J, Fraenkel M, et al</AU>
+<TI>Outcomes of patients with planned initiation of hemodialysis in the IDEAL trial</TI>
+<SO>Contributions to Nephrology</SO>
+<YR>2011</YR>
+<VL>171</VL>
+<PG>1-9</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386344"/><IDENTIFIER TYPE="MEDLINE" VALUE="21625083"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:09:35 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cooper B, Branley P, Bulfone L, Collins J, Craig J, Fraenkel M, et al</AU>
+<TI>The results of the initiating dialysis early and late trial [abstract no: 166]</TI>
+<SO>Nephrology</SO>
+<YR>2010</YR>
+<VL>15</VL>
+<NO>Suppl 4</NO>
+<PG>70</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386345"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:09:35 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cooper BA, Branley P, Bulfone L, Collins JF, Craig JC, Dempster J, et al</AU>
+<TI>The initiating dialysis early and late (IDEAL) study: study rationale and design</TI>
+<SO>Peritoneal Dialysis International</SO>
+<YR>2004 Mar</YR>
+<VL>24</VL>
+<NO>2</NO>
+<PG>176-81</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386346"/><IDENTIFIER TYPE="MEDLINE" VALUE="15119639"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:11:04 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cooper BA, Branley P, Bulfone L, Collins JF, Craig JC, Fraenkel MB, et al</AU>
+<TI>A randomized, controlled trial of early versus late initiation of dialysis</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2010</YR>
+<VL>363</VL>
+<NO>7</NO>
+<PG>609-19</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386347"/><IDENTIFIER TYPE="MEDLINE" VALUE="20581422"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:11:13 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dhaun N, Kluth D</AU>
+<TI>Early versus late initiation of dialysis</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2010</YR>
+<VL>363</VL>
+<NO>24</NO>
+<PG>2369-70</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386348"/><IDENTIFIER TYPE="MEDLINE" VALUE="21142539"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:11:20 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Faust J, Schreiner O</AU>
+<TI>Early versus late initiation of dialysis</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2010</YR>
+<VL>363</VL>
+<NO>24</NO>
+<PG>2368-9</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386349"/><IDENTIFIER TYPE="MEDLINE" VALUE="21142541"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:11:26 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Harris A, Cooper BA, Li JJ, Bulfone L, Branley P, Collins JF, et al</AU>
+<TI>Cost-effectiveness of initiating dialysis early: a randomized controlled trial</TI>
+<SO>American Journal of Kidney Diseases</SO>
+<YR>2011</YR>
+<VL>57</VL>
+<NO>5</NO>
+<PG>707-15</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386350"/><IDENTIFIER TYPE="MEDLINE" VALUE="21349618"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:11:32 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sepe V, Libetta C, Dal Canton A</AU>
+<TI>Early versus late initiation of dialysis</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2010</YR>
+<VL>363</VL>
+<NO>24</NO>
+<PG>2369-70</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386351"/><IDENTIFIER TYPE="MEDLINE" VALUE="21142540"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:11:40 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Whalley GA, Marwick TH, Doughty RN, Cooper BA, Johnson DW, Pilmore A, et al</AU>
+<TI>Effect of early initiation of dialysis on cardiac structure and function: results from the echo substudy of the IDEAL trial</TI>
+<SO>American Journal of Kidney Diseases</SO>
+<YR>2013</YR>
+<VL>61</VL>
+<NO>2</NO>
+<PG>262-70</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386352"/><IDENTIFIER TYPE="MEDLINE" VALUE="23157937"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2016-09-23 11:11:45 +1000" MODIFIED_BY="Gail Y Higgins" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wong MG, Pollock CA, Cooper BA, Branley P, Collins JF, Craig JC, et al</AU>
+<TI>Association between GFR estimated by multiple methods at dialysis commencement and patient survival</TI>
+<SO>Clinical Journal of the American Society of Nephrology: CJASN</SO>
+<YR>2014</YR>
+<VL>9</VL>
+<NO>1</NO>
+<PG>135-42</PG>
+<IDENTIFIERS MODIFIED="2016-09-23 11:09:34 +1000" MODIFIED_BY="Gail Y Higgins"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4386353"/><IDENTIFIER TYPE="MEDLINE" VALUE="24178976"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2845006"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Odor_x002d_Morales-1987" MODIFIED="2008-09-23 14:37:12 +1000" MODIFIED_BY="[Empty name]" NAME="Odor-Morales 1987" YEAR="1987">
+<REFERENCE MODIFIED="2008-09-23 14:37:12 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Odor-Morales A, Castorena G, Jimeno C, Pena JC, Bordes J, de la Rosa C et al</AU>
+<TI>Hemodialysis or continuous ambulatory peritoneal dialysis before transplantation: prospective comparison of clinical and hemodynamic outcome</TI>
+<SO>Transplantation Proceedings</SO>
+<YR>1987</YR>
+<VL>19</VL>
+<NO>1 Pt 3</NO>
+<PG>2197-9</PG>
+<IDENTIFIERS MODIFIED="2008-09-23 14:36:54 +1000" MODIFIED_BY="[Empty name]"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2844999"/><IDENTIFIER MODIFIED="2008-09-23 14:36:54 +1000" MODIFIED_BY="[Empty name]" TYPE="MEDLINE" VALUE="3079075"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2844998"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Selgas-2001" MODIFIED="2008-09-23 14:35:45 +1000" MODIFIED_BY="[Empty name]" NAME="Selgas 2001" YEAR="2001">
+<REFERENCE MODIFIED="2008-09-23 14:35:45 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Selgas R, Cirugeda A, Fernandez-Perpen A, Sanchez-Tomero JA, Barril G, Alvarez V et al</AU>
+<TI>Comparisons of hemodialysis and CAPD in patients over 65 years of age: a meta-analysis</TI>
+<SO>International Urology &amp; Nephrology</SO>
+<YR>2001</YR>
+<VL>33</VL>
+<NO>2</NO>
+<PG>259-64</PG>
+<IDENTIFIERS MODIFIED="2008-09-23 14:35:45 +1000" MODIFIED_BY="[Empty name]"><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2845001"/><IDENTIFIER MODIFIED="2008-09-23 14:35:45 +1000" MODIFIED_BY="[Empty name]" TYPE="MEDLINE" VALUE="12092638"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2845000"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shmueli-1987" MODIFIED="2008-09-23 14:39:14 +1000" MODIFIED_BY="[Empty name]" NAME="Shmueli 1987" YEAR="1987">
+<REFERENCE MODIFIED="2008-09-23 14:39:14 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shmueli D, Yussim A, Nakache R, Eisenstein B, Davidovitz M, Stark H et al</AU>
+<TI>Kidney transplantation in children on continuous ambulatory peritoneal dialysis and haemodialysis [abstract]</TI>
+<SO>Pediatric Nephrology</SO>
+<YR>1987</YR>
+<PG>C32</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2845003"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2845002"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Suzuki-2003" MODIFIED="2008-09-23 14:22:48 +1000" MODIFIED_BY="[Empty name]" NAME="Suzuki 2003" YEAR="2003">
+<REFERENCE MODIFIED="2008-09-23 14:22:48 +1000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Suzuki T, Kanno Y, Nakamoto H, Okada H, Sugahara S, Suzuki H</AU>
+<TI>Peritoneal dialysis versus hemodialysis: a five-year comparison of survival and effects on the cardiovascular system, erythropoiesis, and calcium metabolism</TI>
+<SO>Advances in Peritoneal Dialysis</SO>
+<YR>2003</YR>
+<VL>19</VL>
+<PG>148-54</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2845005"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2845004"/></IDENTIFIERS>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES MODIFIED="2016-09-22 16:48:30 +1000" MODIFIED_BY="Narelle S Willis"/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-09-23 14:28:02 +1000" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2008-09-23 14:28:02 +1000" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Buoncristiani-1998" MODIFIED="2008-09-23 14:23:02 +1000" MODIFIED_BY="[Empty name]" NAME="Buoncristiani 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Buoncristiani U, Quintaliani G, Cozzari M, Giombini LR</AU>
+<TI>Daily dialysis: long term clinical and metabolic results</TI>
+<SO>Kidney International - Supplement</SO>
+<YR>1998</YR>
+<VL>24</VL>
+<PG>137-40</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="3163035"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Charra-1992" MODIFIED="2008-09-23 14:23:04 +1000" MODIFIED_BY="[Empty name]" NAME="Charra 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Charra B, Calemard M, Ruffet M, Chazot C, Terrat JC, Vanel T et al</AU>
+<TI>Survival as an index of adequacy of dialysis</TI>
+<SO>Kidney International</SO>
+<YR>1992</YR>
+<VL>41</VL>
+<NO>5</NO>
+<PG>1286-91</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="1614043"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Crowther-1998" MODIFIED="2008-09-23 14:28:02 +1000" MODIFIED_BY="[Empty name]" NAME="Crowther 1998" TYPE="COCHRANE_REVIEW">
+<AU>Crowther CA, Henderson-Smart DJ</AU>
+<TI>Phenobarbital prior to preterm birth</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>1998</YR>
+<NO>2</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dalziel-1987" MODIFIED="2008-09-23 14:23:16 +1000" MODIFIED_BY="[Empty name]" NAME="Dalziel 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Dalziel M, Garrett C</AU>
+<TI>Intraregional variation in treating end stage renal failure</TI>
+<SO>British Medical Journal Clinical Research Ed</SO>
+<YR>1987</YR>
+<VL>294</VL>
+<NO>6584</NO>
+<PG>1382 -3</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="3109664"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Drummond-1997" NAME="Drummond 1997" TYPE="BOOK">
+<AU>Drummond M, O'Brien B, Stoddart G, Torrance G</AU>
+<SO>Methods for the economic evaluation of healthcare programmes</SO>
+<YR>1997</YR>
+<EN>2nd</EN>
+<PB>Oxford University Press</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Feest-1990" MODIFIED="2008-09-23 14:23:18 +1000" MODIFIED_BY="[Empty name]" NAME="Feest 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Feest TG Mistry CD, Grimes DS, Mallick NP</AU>
+<TI>Incidence of advanced chronic renal failure and the need for end stage renal replacement treatment</TI>
+<SO>BMJ</SO>
+<YR>1990</YR>
+<VL>301</VL>
+<NO>6757</NO>
+<PG>897-900</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="2261533"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Heaf-2004" NAME="Heaf 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Heaf J</AU>
+<TI>Underutilization of peritoneal dialysis</TI>
+<SO>JAMA</SO>
+<YR>2004</YR>
+<VL>291</VL>
+<NO>6</NO>
+<PG>740-2</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="14871920"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Mendelssohn-2001" NAME="Mendelssohn 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Mendelssohn DC. Mullaney SR. Jung B. Blake PG. Mehta RL</AU>
+<TI>What do American nephologists think about dialysis modality selection?</TI>
+<SO>American Journal of Kidney Diseases</SO>
+<YR>2001</YR>
+<VL>37</VL>
+<NO>1</NO>
+<PG>22-9</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="11136163"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Nissenson-1993" MODIFIED="2008-09-23 14:23:20 +1000" MODIFIED_BY="[Empty name]" NAME="Nissenson 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Nissenson AR, Prichard SS, Cheng IK, Gokal R, Kubota M, Maiorca R et al</AU>
+<TI>Non-medical factors that impact on ESRD modality selection</TI>
+<SO>Kidney International - Supplement</SO>
+<YR>1993</YR>
+<VL>43</VL>
+<NO>40</NO>
+<PG>120-7</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="8445833"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Nolph-1993" MODIFIED="2008-09-23 14:23:24 +1000" MODIFIED_BY="[Empty name]" NAME="Nolph 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Nolph KD, Henderson LW</AU>
+<TI>Editorial</TI>
+<SO>Kidney International - Supplement</SO>
+<YR>1993</YR>
+<VL>43</VL>
+<NO>40</NO>
+<PG>1-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Twardowski-2001" MODIFIED="2008-09-23 14:23:26 +1000" MODIFIED_BY="[Empty name]" NAME="Twardowski 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Twardowski ZJ</AU>
+<TI>Daily dialysis: is this a reasonable option for the new millennium?</TI>
+<SO>Nephrology Dialysis Transplantation</SO>
+<YR>2001</YR>
+<VL>16</VL>
+<NO>7</NO>
+<PG>1321-4</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="11427618"/></IDENTIFIERS>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2008-09-23 14:25:55 +1000" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-MacLeod-1998" MODIFIED="2008-09-23 14:23:28 +1000" MODIFIED_BY="[Empty name]" NAME="MacLeod 1998" TYPE="JOURNAL_ARTICLE">
+<AU>MacLeod A, Grant A, Donaldson C, Khan I, Campbell M, Daly C et al</AU>
+<TI>Effectiveness and efficiency of methods of dialysis therapy for end-stage renal disease: systematic reviews</TI>
+<SO>Health Technology Assessment (Winchester, England)</SO>
+<YR>1998</YR>
+<VL>2</VL>
+<NO>5</NO>
+<PG>1-166</PG>
+<IDENTIFIERS><IDENTIFIER TYPE="MEDLINE" VALUE="9621129"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Vale-2002" MODIFIED="2008-09-23 14:25:55 +1000" MODIFIED_BY="[Empty name]" NAME="Vale 2002" TYPE="COCHRANE_REVIEW">
+<AU>Vale L, Cody J, Wallace S, Daly C, Campbell M, Grant A et al</AU>
+<TI>Continuous ambulatory peritoneal dialysis (CAPD) versus hospital or home haemodialysis for end-stage renal disease in adults</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2008-09-23 14:25:44 +1000" MODIFIED_BY="[Empty name]"><IDENTIFIER MODIFIED="2008-09-23 14:25:44 +1000" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003963"/></IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES>
+<REFERENCE ID="REF-Arogundade-2005" NAME="Arogundade 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Arogundade FA, Ishola DA, Jr., Sanusi AA, Akinsola A</AU>
+<TI>An analysis of the effectiveness and benefits of peritoneal dialysis and haemodialysis using Nigerian made PD fluids</TI>
+<SO>African Journal of Medicine &amp; Medical Sciences</SO>
+<YR>2005</YR>
+<VL>34</VL>
+<NO>3</NO>
+<PG>227-233</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gutman-1984" NAME="Gutman 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Gutman RA, Blumenkrantz MJ, Chan YK, Barbour GL, Gandhi VC, Shen FH, Tucker T, Murawski BJ, Coburn JW, Curtis FK</AU>
+<TI>Controlled comparison of hemodialysis and peritoneal dialysis: Veterans Administration multicenter study</TI>
+<YR>1984</YR>
+<VL>26</VL>
+<NO>4</NO>
+<PG>459-470</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Liu-2001" NAME="Liu 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Liu HN, Li GG</AU>
+<TI>Comparison of mortality rates between peritoneal dialysis and hemodialysis in diabetic nephropathy patients</TI>
+<YR>2001</YR>
+<VL>40</VL>
+<NO>11</NO>
+<PG>737-739</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</PENDING_REFERENCES>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2016-09-22 16:49:07 +1000" MODIFIED_BY="Narelle S Willis">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2012-01-12 13:08:10 +1100" MODIFIED_BY="Narelle S Willis" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2012-01-12 13:08:10 +1100" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Korevaar-2003">
+<CHAR_METHODS>
+<P>Method of random allocation: not described</P>
+<P>Unclear whether investigators, outcome assessors or data analysis was blinded. It is not stated whether participants were blinded but the nature of the interventions makes it unlikely</P>
+<P>Description of withdrawals/dropouts: not mentioned</P>
+<P>Analysis on intention to treat basis: unclear</P>
+<P>Completeness of follow-up: unclear</P>
+<P>Duration of follow-up</P>
+<P>5 years</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2012-01-12 12:58:04 +1100" MODIFIED_BY="Narelle S Willis">
+<P>38 patients receiving dialysis treatment for ESKD. 18 randomised to HD and 20 to PD</P>
+<P>Inclusion criteria:</P>
+<P>Exclusion criteria:<BR/>Patients from 38 Dutch dialysis units with no medical, social or logistic objections. Further details not provided</P>
+<P>Proportion male: 58%</P>
+<P>Age (mean, SD)<BR/>Overall 59 (12)</P>
+<P>Primary kidney disease:<BR/>Overall 24% diabetes mellitus, 18% renal vascular disease</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2012-01-12 13:07:27 +1100" MODIFIED_BY="Narelle S Willis">
+<P>PD vs HD</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Quality of life (measured in quality adjusted life years [QALYs] at 2 years)</P>
+<P>Survival (at five years)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2012-01-12 13:08:10 +1100" MODIFIED_BY="Narelle S Willis">
+<P>Trial recruitment stopped early due to problems with recruitment.<BR/>QALYs are measure of effectiveness used in economic evaluations. further quality assessment is described in the additional tables</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2016-09-22 16:49:07 +1000" MODIFIED_BY="Narelle S Willis" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:39 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Ateshkadi-1995">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:39 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:41 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Dursun-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:41 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:41 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Foley-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:41 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:42 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Gagnon-1983">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:42 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:49:07 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-IDEAL-Study-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:49:07 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Randomised to early versus late referral</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:43 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Odor_x002d_Morales-1987">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:43 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:44 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Selgas-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:44 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:45 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Shmueli-1987">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:45 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT, study in children</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2016-09-22 16:48:46 +1000" MODIFIED_BY="Narelle S Willis" STUDY_ID="STD-Suzuki-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2016-09-22 16:48:46 +1000" MODIFIED_BY="Narelle S Willis">
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES MODIFIED="2016-09-22 16:48:30 +1000" MODIFIED_BY="Narelle S Willis" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Korevaar-2003">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2012-01-12 13:07:35 +1100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2012-01-12 12:08:32 +1100" MODIFIED_BY="Narelle S Willis" NO="1">
+<TITLE>Electronic search strategies</TITLE>
+<TABLE COLS="2" ROWS="18">
+<TR>
+<TH>
+<P>Database/year</P>
+</TH>
+<TH>
+<P>Search strategy</P>
+</TH>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>MEDLINE<BR/>(1980 to Nov 1997)</P>
+</TD>
+<TD>
+<P>001 controlled clinical trial.pt.<BR/>002 randomized controlled trial.pt.<BR/>003 randomized controlled trials/<BR/>004 random allocation/<BR/>005 double blind method/<BR/>006 single blind method/<BR/>007 clinical trial.pt.<BR/>008 exp clinical trials/<BR/>009 placebos/<BR/>010 placebo$.tw.<BR/>011 random$.tw.<BR/>012 research design/<BR/>013 volunteer$.tw.<BR/>014 (clin$ adj25 trial$).tw.<BR/>015 ((singl$ or doubl$ or trebl$ or tripl$) adj25 (blind$ or mask$)).tw.<BR/>016 factorial.tw.<BR/>017 cross-over studies/<BR/>018 crossover.tw.<BR/>019 latin square.tw.<BR/>020 (balance$ adj2 block$).tw.<BR/>021 (animal not human).sh.<BR/>022 renal replacement therapy/<BR/>023 exp hemodialysis/<BR/>024 exp hemofiltration/<BR/>025 kidney, artificial/<BR/>026 exp peritoneal dialysis/<BR/>027 ultrafiltration/<BR/>028 dialysis/<BR/>029 kidney failure, chronic/<BR/>030 kidney failure, acute/<BR/>031 uremia/<BR/>032 (ultrafiltrat$ or dialy$).tw.<BR/>033 ((kidney$ or renal) adj2 (replac$ or artificial or extracorpeal)).tw.<BR/>034 ((kidney$ or renal) adj2 (disease$ or failure$ or sufficien$ or insufficien$)).tw.<BR/>035 ESRD.tw.<BR/>036 ur?emi$.tw.<BR/>037 biofilt$.tw.<BR/>038 (hemodia$ or haemodia$ or hemofilt$ or haemofilt$ or diafilt$)).tw.<BR/>039 predialy$.tw.<BR/>040 pre-dialy$.tw.<BR/>041 or/23-41<BR/>042 "erythropoietin"/<BR/>043 epo.tw.<BR/>044 erythropoietin.tw.<BR/>045 epoetin.tw.<BR/>046 epogen.tw.<BR/>047 11096 26 7 erythropoietin.rn.<BR/>048 erythropoetin$.tw.<BR/>049 eprex.tw.<BR/>050 recormon.tw.<BR/>051 huepo.tw.<BR/>052 r-HuEPO.tw.<BR/>053 "r.HuEPO".tw.<BR/>054 (r adj HuEPO).tw.<BR/>055 erythropoietin-alpha.tw.<BR/>056 erythropoietin-alfa.tw.<BR/>057 erythropoietin-beta.tw.<BR/>058 erythropoietin$.tw.<BR/>059 rhEPO.tw.<BR/>060 epoietin.tw.<BR/>061 rHuEPO.tw.<BR/>062 or/42-61<BR/>063 or/1-20<BR/>064 63 not 21<BR/>065 41 and 62 and 64<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>MEDLINE<BR/>(Nov 1997 to Jun 2001)</P>
+</TD>
+<TD>
+<P>1. controlled clinical trial.pt.<BR/>2. randomized controlled trial.pt.<BR/>3. randomized controlled trials/<BR/>4. random allocation/<BR/>5. double blind method/<BR/>6. single blind method/<BR/>7. clinical trial.pt.<BR/>8. exp clinical trials/<BR/>9. placebos/<BR/>10. placebo$.tw.<BR/>11. random$.tw.<BR/>12. research design/<BR/>13. volunteer$.tw.<BR/>14. (clin$ adj25 trial$).tw.<BR/>15. ((singl$ or doubl$ or trebl$ or tripl$) adj25 (blind$ or mask$)).tw.<BR/>16. factorial.tw.<BR/>17. cross-over studies/<BR/>18. crossover.tw.<BR/>19. latin square.tw.<BR/>20. (balance$ adj2 block$).tw.<BR/>21. (animal not human).sh.<BR/>22. or/1-20<BR/>23. 22 not 21<BR/>24. renal replacement therapy/<BR/>25. exp Renal Dialysis/<BR/>26. exp hemofiltration/<BR/>27. kidney, artificial/<BR/>28. exp peritoneal dialysis/<BR/>29. ultrafiltration/<BR/>30. dialysis/<BR/>31. exp kidney failure/<BR/>32. exp dialysis solutions/<BR/>33. hemodialysis units, hospital/<BR/>34. uremia/<BR/>35. (ultrafiltrat$ or dialy$).tw.<BR/>36. ((kidney$ or renal) adj2 (replac$ or artificial or extracorpeal)).tw.<BR/>37. ((kidney$ or renal) adj2 (diseases$ or failure$ or sufficien$ or insufficien$)).tw.<BR/>38. esrd.tw.<BR/>39. ur?emi$.tw.<BR/>40. biofilt$.tw.<BR/>41. (hemodia$ or haemodia$ or hemofilt$ or haemofilt$ or diafilt$).tw.<BR/>42. predialy$.tw.<BR/>43. pre-dialy$.tw.<BR/>44. ESRF.tw.<BR/>45. Pre-ESRF.tw.<BR/>46. Pre-ESRD.tw.<BR/>47. ARF.tw.<BR/>48. CRF.tw.<BR/>49. or/24-48<BR/>50. "erythropoietin"/<BR/>51. epo.tw.<BR/>52. erythropoietin.tw.<BR/>53. epoetin.tw.<BR/>54. epogen.tw.<BR/>55. 11096 26 7 erythropoietin.rn.<BR/>56. erythropoetin$.tw.<BR/>57. eprex.tw.<BR/>58. recormon.tw.<BR/>59. huepo.tw.<BR/>60. r-HuEPO.tw.<BR/>61. "r.HuEPO".tw.<BR/>62. (r adj HuEPO).tw.<BR/>63. erythropoietin-alpha.tw.<BR/>64. erythropoietin-alfa.tw.<BR/>65. erythropoietin-beta.tw.<BR/>66. erythropoietin$.tw.<BR/>67. rhEPO.tw.<BR/>68. epoietin.tw.<BR/>69. rhuEPO.tw.<BR/>70. marogen.tw.<BR/>71. procrit.tw.<BR/>72. repotin.tw.<BR/>73. or/50-72<BR/>74. 23 and 49 and 73<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>EMBASE<BR/>(1984 to Nov 1997)</P>
+</TD>
+<TD>
+<P>(((controlled study)@KMAJOR,KMINOR,(randomised controlled trial) @KMAJOR, KMINOR,(clinical study)@KMAJOR,KMINOR,(clinical trial)@KMAJOR, KMINOR, (major clinical study)@KMAJOR,KMINOR,(prospective study)@KMAJOR, KMINOR,(multicenter study)@KMAJOR,KMINOR,(randomization)@KMAJOR, KMINOR,(double blind procedure)@KMAJOR,KMINOR,(single blind procedure) @KMAJOR,KMINOR,(crossover procedure) @KMAJOR,KMINOR, (placebo) @KMAJOR,KMINOR),(random*, volunteer*, latin square*, (clin* + trial*), ((singl*, doubl*, trebl*, tripl*) + (blind*, mask*)), (balanced* + block*), (factorial + (design*, trial*)), "cross-over", crossover)@(TI,AB,KWDS))+ ((kidney failure)@EX,(hemodialysis) @EX,(hemofiltration)@EX,(artificial kidney)@KMAJOR,KMINOR,(ultrafiltration)@KMAJOR,KMINOR, (dialysis)@EX),(uremi*, uraemi*, renal disease*, renal failure*, renal sufficien*, renal insufficien*, biofilt*, predialy*, "pre-dialy*", ESRD, esrf, "pre-esrf", "pre-ESRD", arf, crf, kidney* disease*, kidney* failure*, kidney* sufficien*, kidney insufficien*, ((kidney*, renal) + (replac*, artificial, extracorporeal)), haemodia*, hemodia*, hemofilt*, haemofilt*, diafilt*, ultrafilt*, dialy*)@(TI,AB,KWDS)) + ((erythropoietin)@KMAJOR,KMINOR,(epo, erythropoietin*, epoetin, epogen, erythropoetin, eprex, recormon, rhepo, epoietin, rhuepo, huepo, "r-huepo", "r.huepo", "erythropoietin-alpha", "erythropoietin-alfa", "erythropoietin-beta", r huepo)@(TI,AB,KWDS))) - ((nonhuman)@KW-((human)@KW+(nonhuman)@KW)))</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>EMBASE<BR/>(Nov 1997 to Jun 2001)</P>
+</TD>
+<TD>
+<P>1. controlled clinical trial.pt.<BR/>2. randomized controlled trial.pt.<BR/>3. randomized controlled trials/<BR/>4. random allocation/<BR/>5. double blind method/<BR/>6. single blind method/<BR/>7. clinical trial.pt.<BR/>8. exp clinical trials/<BR/>9. placebos/<BR/>10. placebo$.tw.<BR/>11. random$.tw.<BR/>12. research design/<BR/>13. volunteer$.tw.<BR/>14. (clin$ adj25 trial$).tw.<BR/>15. ((singl$ or doubl$ or trebl$ or tripl$) adj25 (blind$ or mask$)).tw.<BR/>16. factorial.tw.<BR/>17. cross-over studies/<BR/>18. crossover.tw.<BR/>19. latin square.tw.<BR/>20. (balance$ adj2 block$).tw.<BR/>21. (animal not human).sh.<BR/>22. or/1-20<BR/>23. 22 not 21<BR/>24. renal replacement therapy/<BR/>25. exp Renal Dialysis/<BR/>26. exp hemofiltration/<BR/>27. kidney, artificial/<BR/>28. exp peritoneal dialysis/<BR/>29. ultrafiltration/<BR/>30. dialysis/<BR/>31. exp kidney failure/<BR/>32. exp dialysis solutions/<BR/>33. hemodialysis units, hospital/<BR/>34. uremia/<BR/>35. (ultrafiltrat$ or dialy$).tw.<BR/>36. ((kidney$ or renal) adj2 (replac$ or artificial or extracorporeal)).tw.<BR/>37. ((kidney$ or renal) adj2 (diseases$ or failure$ or sufficien$ or insufficien$)).tw.<BR/>38. esrd.tw.<BR/>39. ur?emi$.tw.<BR/>40. biofilt$.tw.<BR/>41. (hemodia$ or haemodia$ or hemofilt$ or haemofilt$ or diafilt$).tw.<BR/>42. predialy$.tw.<BR/>43. pre-dialy$.tw.<BR/>44. ESRF.tw.<BR/>45. Pre-ESRF.tw.<BR/>46. Pre-ESRD.tw.<BR/>47. ARF.tw.<BR/>48. CRF.tw.<BR/>49. or/24-48<BR/>50. "erythropoietin"/<BR/>51. epo.tw.<BR/>52. erythropoietin.tw.<BR/>53. epoetin.tw.<BR/>54. epogen.tw.<BR/>55. 11096 26 7 erythropoietin.rn.<BR/>56. erythropoetin$.tw.<BR/>57. eprex.tw.<BR/>58. recormon.tw.<BR/>59. huepo.tw.<BR/>60. r-HuEPO.tw.<BR/>61. "r.HuEPO".tw.<BR/>62. (r adj HuEPO).tw.<BR/>63. erythropoietin-alpha.tw.<BR/>64. erythropoietin-alfa.tw.<BR/>65. erythropoietin-beta.tw.<BR/>66. erythropoietin$.tw.<BR/>67. rhEPO.tw.<BR/>68. epoietin.tw.<BR/>69. rhuEPO.tw.<BR/>70. marogen.tw.<BR/>71. procrit.tw.<BR/>72. repotin.tw.<BR/>73. exp Erythropoietin/<BR/>74. or/50-73<BR/>75. 23 and 49 and 74<BR/>76. 19971$.em.<BR/>77. 1998$.em.<BR/>78. 1999$.em.<BR/>79. 200$.em.<BR/>80. 76 or 77 or 78 or 79<BR/>81. 2001$.em.<BR/>82. 2000$.em.<BR/>83. 76 or 77 or 81 or 82<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>BIOSIS<BR/>(1985 to Jan 1997)</P>
+</TD>
+<TD>
+<P>#1: hemodia*<BR/>#2: haemodia*<BR/>#3: hemofilt*<BR/>#4: haemofilt*<BR/>#5: diafilt*<BR/>#6: ultrafilt*<BR/>#7: dialy*<BR/>#8: biofilt*<BR/>#9: (kidney* or renal) and (replac* or artificial or extracorporeal)<BR/>#10: (renal or kidney*) and (disease* or failure* or sufficien* or insufficien*)<BR/>#11: ESRD or esrf or "pre-ESRD" or "pre-esrf" or arf or crf<BR/>#12: uremi* or uraemi*<BR/>#13: #1or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12<BR/>#14: BC86215<BR/>#15: clin* and trial*<BR/>#16: singl* and (blind* or mask*)<BR/>#17: doubl* and (blind* or mask*)<BR/>#18: trebl* and (blind* or mask*)<BR/>#19: tripl*) and (blind* or mask*)<BR/>#20: placebo*<BR/>#21: random*<BR/>#22: volunteer* or factorial*<BR/>#23: crossover or latin square<BR/>#24: #15 or #16 or #17 or #18 or #19 or #20 or #21 or #22 or #23<BR/>#25: epo or erythropoietin* or epoetin or epogen or erythropoetin or eprex<BR/>#26: recormon or rhepo or epoietin or rhuepo or huepo or "r-huepo" or "r.huepo"<BR/>#27: "erythropoietin-alpha" or "erythropoietin-alfa" or "erythropoietin-beta"<BR/>#28: r huepo<BR/>#29: #25 or #26 or #27 or #28<BR/>#30: #13 and #14 and #24 and #29<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>CINAHL<BR/>(1982 to Oct 1997)</P>
+</TD>
+<TD>
+<P>001 "erythropoietin"/<BR/>002 epo.tw.<BR/>003 erythropoietin.tw.<BR/>004 epoetin.tw.<BR/>005 epogen.tw.<BR/>006 erythropoetin$.tw.<BR/>007 eprex.tw.<BR/>008 recormon.tw.<BR/>009 huepo.tw.<BR/>010 r-HuEPO.tw.<BR/>011 "r.HuEPO".tw.<BR/>012 (r adj HuEPO).tw.<BR/>013 erythropoietin-alpha.tw.<BR/>014 erythropoietin-alfa.tw.<BR/>015 erythropoietin-beta.tw.<BR/>016 erythropoietin$.tw.<BR/>017 rhEPO.tw.<BR/>018 epoietin.tw.<BR/>019 rHuEPO.tw.<BR/>020 or/1-19<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>CHEMABS<BR/>(1984 to Nov 1996)</P>
+</TD>
+<TD>
+<P>renal terms - hemodia*, haemodia*, hemofilt*, haemofilt*, dialy*, diafilt*, biofilt*, (kidney? or renal)(2w)(artificial or replac? or extracorporeal), (kidney? or renal)(2w)(disease? or failure? or sufficien? or insuffic?), uremi?, uraemi?, predialy?, pre(w)dialy?, esrf, pre(w)esrf, ESRD, pre(w)ESRD, arf, crf; Erythropoietin terms - erythropoietin, 11096-26-7; Limits - human, patient?.</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>HealthSTAR<BR/>(1995 to Oct 1997)</P>
+</TD>
+<TD>
+<P>01 controlled clinical trial.pt.<BR/>02 randomized controlled trial.pt.<BR/>03 randomized controlled trials/<BR/>04 random allocation/<BR/>05 double blind method/<BR/>06 single blind method/<BR/>07 clinical trial.pt.<BR/>08 exp clinical trials/<BR/>09 placebos/<BR/>10 placebo$.tw.<BR/>11 random$.tw.<BR/>12 research design/<BR/>13 volunteer$.tw.<BR/>14 (clin$ adj25 trial$).tw.<BR/>15 ((singl$ or doubl$ or trebl$ or tripl$) adj25 (blind$ or mask$)).tw.<BR/>16 factorial.tw.<BR/>17 cross-over studies/<BR/>18 crossover.tw.<BR/>19 latin square.tw.<BR/>20 (balance$ adj2 block$).tw.<BR/>21 (animal not human).sh.<BR/>22 or/1-20<BR/>23 not 21<BR/>24 renal replacement therapy/<BR/>25 exp hemodialysis/<BR/>26 exp hemofiltration/<BR/>27 kidney, artificial/<BR/>28 exp peritoneal dialysis/<BR/>29 ultrafiltration/<BR/>30 dialysis/<BR/>31 kidney failure, chronic/<BR/>32 kidney failure, acute/<BR/>33 uremia/<BR/>34 (ultrafiltrat$ or dialy$).tw.<BR/>35 ((kidney$ or renal) adj2 (replac$ or artificial or extracorpeal)).tw.<BR/>36 ((kidney$ or renal) adj2 (disease$ or failure$ or sufficien$ or insufficien$)).tw.<BR/>37 esrd.tw.<BR/>38 ur?emi$.tw.<BR/>39 biofilt$.tw.<BR/>40 (hemodia$ or haemodia$ or hemofilt$ or haemofilt$ or diafilt$)).tw.<BR/>41 predialy$.tw.<BR/>42 pre-dialy$.tw.<BR/>43 ESRF.tw.<BR/>44 Pre-ESRF.tw.<BR/>45 Pre-ESRD.tw.<BR/>46 ARF.tw.<BR/>47 CRF.tw.<BR/>48 or/24-47<BR/>49 "erythropoietin"/<BR/>50 epo.tw.<BR/>51 erythropoietin.tw.<BR/>52 epoetin.tw.<BR/>53 epogen.tw.<BR/>54 11096 26 7 erythropoietin.rn.<BR/>55 erythropoetin$.tw.<BR/>56 eprex.tw.<BR/>57 recormon.tw.<BR/>58 huepo.tw.<BR/>59 r-HuEPO.tw.<BR/>60 "r.HuEPO".tw.<BR/>61 (r adj HuEPO).tw.<BR/>62 erythropoietin-alpha.tw.<BR/>63 erythropoietin-alfa.tw.<BR/>64 erythropoietin-beta.tw.<BR/>65 erythropoietin$.tw.<BR/>66 rhEPO.tw.<BR/>67 epoietin.tw.<BR/>68 rHuEPO.tw.<BR/>69 marogen.tw.<BR/>70 procrit.tw.<BR/>71 repotin.tw.<BR/>72 or/49-71<BR/>73 23 and 48 and 72<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>SIGLE<BR/>(1980 to Jun 1996)</P>
+</TD>
+<TD>
+<P>search term: renal<BR/>SIGLE was searched in order to try to identify RCTs in the grey literature in this field</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>CRIB<BR/>(1995)</P>
+</TD>
+<TD>
+<P>search term: nephrology<BR/>This database was searched in order to identify ongoing trials in the field of dialysis and end stage renal disease. Authors of ongoing trials relevant to the six topics were contacted to ascertain if the study was to be randomised.</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>UK NNR<BR/>(1996)</P>
+</TD>
+<TD>
+<P>Search terms (textword only): renal, haemodialy, haemofilt*, dialy, kidney*.<BR/>This database was searched in order to identify ongoing trials in the field of dialysis and end stage renal disease. Authors of ongoing trials relevant to the six topics were contacted to ascertain if the treatment allocation was randomised<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>CCTR<BR/>(Issue 1, 1997)</P>
+</TD>
+<TD>
+<P>renal replacement therapy/;<BR/>exp hemodialysis/<BR/>exp hemofiltration/<BR/>kidney<BR/>artificial/<BR/>exp peritoneal dialysis/<BR/>ultrafiltration/<BR/>dialysis/<BR/>kidney failure<BR/>chronic/<BR/>kidney failure<BR/>acute/<BR/>uremia/<BR/>(ultrafiltrat* or dialy*).tw.<BR/>((kidney* or renal) adj2 (replac* or artificial or extracorporeal)).tw.<BR/>((kidney* or renal) adj2 (disease* or failure* or sufficien* or insufficien*)).tw.<BR/>ESRD.tw.<BR/>ur?emi*.tw.<BR/>biofilt*.tw.<BR/>(hemodia* or haemodia* or hemofilt* or haemofilt* or diafilt*)).tw.<BR/>predialy*.tw.<BR/>pre-dialy*.tw.<BR/>(these terms were combined together using the Boolean operator 'OR').<BR/>Erythropoietin terms:<BR/>"erythropoietin"/<BR/>epo.tw.<BR/>erythropoietin.tw.<BR/>epoetin.tw.<BR/>epogen.tw.<BR/>11096 26 7 erythropoietin.rn.<BR/>erythropoetin*.tw.<BR/>eprex.tw.<BR/>recormon.tw.<BR/>huepo.tw.<BR/>r-HuEPO.tw.<BR/>"r.HuEPO".tw.<BR/>(r adj HuEPO).tw.<BR/>erythropoietin-alpha.tw.<BR/>erythropoietin-alfa.tw.<BR/>erythropoietin-beta.tw.<BR/>erythropoietin*.tw.<BR/>rhEPO.tw.<BR/>epoietin.tw.<BR/>rHuEPO.tw.<BR/>(these terms were combined together using the Boolean operator 'OR').<BR/>The 2 sets of search terms were combined with the Boolean operator AND.</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>CENTRAL<BR/>Most recent search: Issue 11, 2012</P>
+</TD>
+<TD>
+<P>Renal replacement<BR/>Haemodia*<BR/>Hemodia*<BR/>Dial*<BR/>CAPD<BR/>Peritoneal dialysis<BR/>Artificial kidney<BR/>Renal failure<BR/>Kidney failure<BR/>Uraemia<BR/>Uremia<BR/>CRF<BR/>End stage renal disease<BR/>End stage renal failure<BR/>ESRD<BR/>ESRF</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>RSC (on BIDS)<BR/>(1980 to Feb 1997)</P>
+</TD>
+<TD>
+<P>epo; erythropoietin*; epoetin; epogen;; erythropoetin*; eprex; recormon; huepo; "r-HuEPO"; "r.HuEPO"; "erythropoietin-alpha"; "erythropoietin-alfa"; "erythropoietin-beta"; epoietin; rHuEPO (all in title, abstract and keywords) and 11096-26-7 in the CAS registry number.</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>IBSS (British Library of Political and Economic Science)<BR/>(1984 to Jul 1997)</P>
+</TD>
+<TD>
+<P>erythropoietin*, erythropoetin*, epo, epoetin, epogen*, eprex*, recormon*, "r.huepo", "r-huepo", rhepo, rhuepo, huepo</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>NHS Economic Evaluation Database NEED<BR/>(Jul 1997)</P>
+</TD>
+<TD>
+<P>erythropoietin$, erythropoetin$, epo, epoetin, epoietin, epogen, eprex$, recormon$, "r.huepo", "r-huepo", rhepo, rhuepo</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>http://www.hotbot.com/<BR/>(August 1997)</P>
+</TD>
+<TD>
+<P>(erythropoietin OR "erythropoietinalfa" OR "erythropoietinalpha"OR<BR/>"erythropoietinbeta" OR epo OR eprex OR epogen OR recormon OR epoetin OR<BR/>huepo OR marogen OR procrit OR repotin OR "rhuepo" OR rhuepo OR "rhuepo"<BR/>OR "rhuepo") AND ((trial AND (clinical OR controlled OR randomized OR<BR/>randomised)) OR blind) AND (kidney OR renal OR hemodialysis OR<BR/>hemofiltration OR haemodialysis OR haemofiltration OR diafiltration OR<BR/>predialysis OR "predialysis" OR uremia OR uraemia) AND NOT (hiv OR aids OR<BR/>autologous)<BR/>In order to get round length limitations, this was manually converted to a web address and submitted as:<BR/>http://www.hotbot.com/?MT=%28erythropoietin+OR+%22erythropoietinalfa%22+OR+<BR/>%22erythropoietinalpha%22+OR+%22erythropoietinbeta%22+OR+epo+OR+eprex+OR+e<BR/>pogen+OR+recormon+OR+epoetin+OR+huepo+OR+marogen+OR+procrit+OR+repotin+OR+%2<BR/>2rhuepo%22+OR+rhuepo+OR+%22rhuepo%22+OR+%22rhuepo%22%29+AND+%28%28trial+<BR/>AND+%28clinical+OR+controlled+OR+randomized+OR+randomised%29%29+OR+blind%29+<BR/>AND+%28kidney+OR+renal+OR+hemodialysis+OR+hemofiltration+OR+haemodialysis+OR<BR/>+haemofiltration+OR+diafiltration+OR+predialysis+OR+%22predialysis%22+OR+ur<BR/>emia+OR+uraemia%29+AND+NOT+%28hiv+OR+aids+OR+autologous%29&amp;SW=web&amp;SM=B&amp;RG=NA<BR/>&amp;_v=2&amp;DC=100&amp;DE=0&amp;act.search.x=1&amp;act.search.y=1</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2012-01-12 13:07:35 +1100" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE>Quality assessment of economic studies (Questions 1 to 5)</TITLE>
+<TABLE COLS="7" ROWS="2">
+<TR>
+<TH>
+<P>Study ID</P>
+</TH>
+<TH>
+<P>Defined question</P>
+</TH>
+<TH>
+<P>Desc of alternatives</P>
+</TH>
+<TH>
+<P>Effects established</P>
+</TH>
+<TH>
+<P>Relevant C &amp; E</P>
+</TH>
+<TH>
+<P>Natural units</P>
+</TH>
+<TH>
+<P>Credible costs</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>
+<LINK REF="STD-Korevaar-2003" TYPE="STUDY">Korevaar 2003</LINK>
+</P>
+</TD>
+<TD>
+<P>Yes. Are HD and PD equivalent in terms of survival and quality of life</P>
+</TD>
+<TD>
+<P>No. It is unclear which types of HD and peritoneal dialysis were given</P>
+</TD>
+<TD>
+<P>No. Although based on an RCT the methods used to calculate QALYs were not reported</P>
+</TD>
+<TD>
+<P>NA. Costs not considered as part of the study</P>
+</TD>
+<TD>
+<P>Yes. Given the aims of the study</P>
+</TD>
+<TD>
+<P>NA costs not considered</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-03" MODIFIED="2008-09-23 14:21:55 +1000" MODIFIED_BY="[Empty name]" NO="3">
+<TITLE>Quality assessment of economic studies (Questions 6 to 11)</TITLE>
+<TABLE COLS="7" ROWS="2">
+<TR>
+<TH>
+<P>Study ID</P>
+</TH>
+<TH>
+<P>Credible effects</P>
+</TH>
+<TH>
+<P>Discounting costs</P>
+</TH>
+<TH>
+<P>Discounting effects</P>
+</TH>
+<TH>
+<P>Incremental analysis</P>
+</TH>
+<TH>
+<P>Disc of concerns</P>
+</TH>
+<TH>
+<P>Q 11</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>
+<LINK REF="STD-Korevaar-2003" TYPE="STUDY">Korevaar 2003</LINK>
+</P>
+</TD>
+<TD>
+<P>No.<BR/>Source of quality of life scoring system not provided.<BR/>Description of derivation of QALYs is also not explained and the method of presentation is unusual</P>
+</TD>
+<TD>
+<P>NA</P>
+</TD>
+<TD>
+<P>No</P>
+</TD>
+<TD>
+<P>Yes</P>
+</TD>
+<TD>
+<P>No.<BR/>Study report is brief although interpretation of data presented appears appropriate</P>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2008-09-23 14:26:38 +1000" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" MODIFIED="2008-09-23 14:26:38 +1000" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Peritoneal dialysis versus haemodialysis</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="5" EVENTS_2="9" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" MODIFIED="2008-09-23 14:26:27 +1000" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="YES" SCALE="6.403916863411801" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="NaN" TOTALS="NO" TOTAL_1="20" TOTAL_2="18" WEIGHT="0.0" Z="0.0">
+<NAME>Survival</NAME>
+<GROUP_LABEL_1>Peritoneal dialysis</GROUP_LABEL_1>
+<GROUP_LABEL_2>Haemodialysis</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PD</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours HD</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.2158773284386328" CI_START="0.20561284773772132" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="9" LOG_CI_END="0.08488976057025086" LOG_CI_START="-0.6869497518982133" LOG_EFFECT_SIZE="-0.3010299956639812" ORDER="21035" O_E="0.0" SE="0.45338235029118146" STUDY_ID="STD-Korevaar-2003" TOTAL_1="20" TOTAL_2="18" VAR="0.20555555555555557" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.02" MODIFIED="2008-09-23 14:26:38 +1000" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="YES" SCALE="22.324359326958746" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="NaN" TOTALS="NO" TOTAL_1="20" TOTAL_2="18" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Quality of life - QALYs score at 2 years</NAME>
+<GROUP_LABEL_1>Peritoneal dialysis</GROUP_LABEL_1>
+<GROUP_LABEL_2>Haemodialysis</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PD</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours HD</GRAPH_LABEL_2>
+<CONT_DATA CI_END="4.903499501628515" CI_START="-15.103499501628518" EFFECT_SIZE="-5.100000000000001" ESTIMABLE="YES" MEAN_1="54.0" MEAN_2="59.1" ORDER="21036" SD_1="19.0" SD_2="12.0" SE="5.103920062069938" STUDY_ID="STD-Korevaar-2003" TOTAL_1="20" TOTAL_2="18" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

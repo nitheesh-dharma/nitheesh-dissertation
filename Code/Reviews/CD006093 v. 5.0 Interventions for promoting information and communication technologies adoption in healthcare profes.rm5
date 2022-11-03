@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD006093.pub2" GROUP_ID="EPOC" ID="811106041323245322" MERGED_FROM="" MODIFIED="2009-02-05 19:55:44 +0100" MODIFIED_BY="Lev Bubis" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.8&lt;/p&gt;" NOTES_MODIFIED="2009-02-05 13:52:36 -0500" NOTES_MODIFIED_BY="Lev Bubis" REVIEW_NO="" REVMAN_SUB_VERSION="5.0.16" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="5.0">
+<COVER_SHEET MODIFIED="2009-02-05 19:55:44 +0100" MODIFIED_BY="Lev Bubis">
+<TITLE>Interventions for promoting information and communication technologies adoption in healthcare professionals</TITLE>
+<CONTACT MODIFIED="2009-02-05 19:55:44 +0100" MODIFIED_BY="Lev Bubis"><PERSON ID="9522974D82E26AA200831C19739D171E" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Marie-Pierre</FIRST_NAME><LAST_NAME>Gagnon</LAST_NAME><POSITION>Associate Professor</POSITION><EMAIL_1>Marie-Pierre.Gagnon@fsi.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Faculté des sciences infirmières, Université Laval</DEPARTMENT><ORGANISATION>Centre hospitalier universitaire de Québec - Hôpital St-François d'Assise</ORGANISATION><ADDRESS_1>10, rue de l'Espinay, D6-726</ADDRESS_1><CITY>Québec</CITY><ZIP>G1L 3L5</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 525-4444 ext. 53169</PHONE_1><FAX_1>418 525-4194</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2009-02-05 19:55:44 +0100" MODIFIED_BY="Lev Bubis" NOTES="&lt;p&gt;Centre for Population Health Sciences&lt;/p&gt;" NOTES_MODIFIED="2009-02-05 13:52:36 -0500" NOTES_MODIFIED_BY="Lev Bubis"><PERSON ID="9522974D82E26AA200831C19739D171E" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Marie-Pierre</FIRST_NAME><LAST_NAME>Gagnon</LAST_NAME><POSITION>Associate Professor</POSITION><EMAIL_1>Marie-Pierre.Gagnon@fsi.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Faculté des sciences infirmières, Université Laval</DEPARTMENT><ORGANISATION>Centre hospitalier universitaire de Québec - Hôpital St-François d'Assise</ORGANISATION><ADDRESS_1>10, rue de l'Espinay, D6-726</ADDRESS_1><CITY>Québec</CITY><ZIP>G1L 3L5</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 525-4444 ext. 53169</PHONE_1><FAX_1>418 525-4194</FAX_1></ADDRESS></PERSON><PERSON ID="13479" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>France</FIRST_NAME><LAST_NAME>Légaré</LAST_NAME><POSITION>Professeur agrégée</POSITION><EMAIL_1>france.legare@mfa.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Département de médecine familiale</DEPARTMENT><ORGANISATION>Centre hospitalier universitaire de Québec - Hôpital St-François d'Assise</ORGANISATION><ADDRESS_1>10, rue l"Espinay</ADDRESS_1><CITY>Québec</CITY><ZIP>G1L 3L5</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 525-4425</PHONE_1><PHONE_2>418 525-4437</PHONE_2><FAX_1>418 525-4322</FAX_1></ADDRESS></PERSON><PERSON ID="17013" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Michel</FIRST_NAME><LAST_NAME>Labrecque</LAST_NAME><POSITION>Professeur titulaire</POSITION><EMAIL_1>michel.labrecque@mfa.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Département de médecine familiale, Université Laval</DEPARTMENT><ORGANISATION>Centre hospitalier universitaire de Québec - Hôpital St-François d'Assise</ORGANISATION><ADDRESS_1>10, rue l"Espinay</ADDRESS_1><CITY>Québec</CITY><ZIP>G1L 3L5</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 525-4444 ext. 52419</PHONE_1></ADDRESS></PERSON><PERSON ID="9531A22282E26AA200831C193457416E" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Pierre</FIRST_NAME><LAST_NAME>Frémont</LAST_NAME><POSITION>Professeur agrégé</POSITION><EMAIL_1>pierre.fremont@crchul.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Réadaptation</DEPARTMENT><ORGANISATION>Université Laval</ORGANISATION><ADDRESS_1>Edifice Delta II, 2875 Boulevard Laurier</ADDRESS_1><CITY>Québec</CITY><ZIP>G1V 2M2</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 654-2701</PHONE_1></ADDRESS></PERSON><PERSON ID="17016" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Pierre</FIRST_NAME><LAST_NAME>Pluye</LAST_NAME><POSITION>Professeur adjoint</POSITION><EMAIL_1>pierre.pluye@mail.mcgill.ca</EMAIL_1><ADDRESS><DEPARTMENT>Département de médecine familiale</DEPARTMENT><ORGANISATION>Université McGill</ORGANISATION><ADDRESS_1>517, Avenue des pins ouest</ADDRESS_1><CITY>Montréal</CITY><ZIP>H2W 1S4</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>514 398-8483</PHONE_1></ADDRESS></PERSON><PERSON ID="9532D0AF82E26AA200831C19F8701F4B" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Johanne</FIRST_NAME><LAST_NAME>Gagnon</LAST_NAME><POSITION>Professeur agrégée</POSITION><EMAIL_1>johanne.gagnon@fsi.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Faculté des sciences infirmières</DEPARTMENT><ORGANISATION>Université Laval </ORGANISATION><ADDRESS_1>Pavillon Paul-Comtois, #4106</ADDRESS_1><CITY>Québec</CITY><ZIP>G1K 7P4</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 656-2131 ext 12728</PHONE_1></ADDRESS></PERSON><PERSON ID="684C05B982E26AA20003EB8AC34C937D" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Josip</FIRST_NAME><LAST_NAME>Car</LAST_NAME><POSITION>Director, eHealth Unit</POSITION><EMAIL_1>josip.car@imperial.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Department of Primary Care and Social Medicine, Faculty of Medicine</DEPARTMENT><ORGANISATION>Imperial College London</ORGANISATION><ADDRESS_1>Reynolds Building</ADDRESS_1><ADDRESS_2>St Dunstan's Road</ADDRESS_2><CITY>London</CITY><ZIP>W6 8RP</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 20 7594 0799</PHONE_1><FAX_1>+44 20 7594 0854</FAX_1></ADDRESS></PERSON><PERSON ID="12469" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Claudia</FIRST_NAME><LAST_NAME>Pagliari</LAST_NAME><POSITION>Senior Lecturer in Primary Care (Chair eHealth IDG) </POSITION><EMAIL_1>claudia.pagliari@ed.ac.uk </EMAIL_1><URL>http://www.chs.med.ed.ac.uk/gp/staffprofile.cfm?profile=hpagliar </URL><ADDRESS><DEPARTMENT>Centre for Population Health Sciences</DEPARTMENT><ORGANISATION>University of Edinburgh </ORGANISATION><ADDRESS_1>20 West Richmond St  </ADDRESS_1><CITY>Edinburgh</CITY><ZIP>EH8 9DX </ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+ 44 131 650 9464 </PHONE_1><FAX_1>+ 44 131 650 9119 </FAX_1></ADDRESS></PERSON><PERSON ID="06776B8D82E26AA200C04FC1FDA4C8E9" ROLE="AUTHOR"><PREFIX>Mrs</PREFIX><FIRST_NAME>Marie </FIRST_NAME><LAST_NAME>Desmartis</LAST_NAME><POSITION>Professionelle de recherche</POSITION><EMAIL_1>Marie.Desmartis@crsfa.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Centre de recherche du CHUQ</DEPARTMENT><ORGANISATION>Hôpital St-François D'Assise</ORGANISATION><ADDRESS_1>10, rue l"Espinay</ADDRESS_1><ADDRESS_2>D6-734</ADDRESS_2><CITY>Québec</CITY><ZIP>G1L 3L5</ZIP><REGION>Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 525-4444 ext. 53700</PHONE_1><FAX_1>418 525-4194</FAX_1></ADDRESS></PERSON><PERSON ID="16045" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Lucile</FIRST_NAME><LAST_NAME>Turcot</LAST_NAME><POSITION>Coordinator for Biostatistics and Data Management</POSITION><EMAIL_1>lucile.turcot-lemay@crsfa.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Research Center</DEPARTMENT><ORGANISATION>CHUQ, St-François D'Assise Hospital</ORGANISATION><ADDRESS_1>10 rue de l'Espinay</ADDRESS_1><ADDRESS_2>Local D1-724</ADDRESS_2><CITY>Québec</CITY><ZIP>G1L 3L5</ZIP><REGION>Province de Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 418 525 4437</PHONE_1><PHONE_2>+1 418 525 4444 ext: 2423</PHONE_2><FAX_1>+1 418 525 4194</FAX_1></ADDRESS></PERSON><PERSON ID="953381CF82E26AA200831C19A3DE4CC7" ROLE="AUTHOR"><PREFIX>Mrs</PREFIX><FIRST_NAME>Karine</FIRST_NAME><LAST_NAME>Gravel</LAST_NAME><POSITION>Chair for integrated approach to health</POSITION><EMAIL_1>karine.gravel@crsfa.ulaval.ca</EMAIL_1><ADDRESS><DEPARTMENT>Research Center</DEPARTMENT><ORGANISATION>CHUQ, St-François D'Assise Hospital</ORGANISATION><ADDRESS_1>10, rue de l'Espinay</ADDRESS_1><ADDRESS_2>Local, D6-717</ADDRESS_2><CITY>Québec</CITY><ZIP>G1L 3L5</ZIP><REGION>Province de Québec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>418 525-4437</PHONE_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-12-09 09:16:29 -0500" MODIFIED_BY="Lev Bubis">
+<UP_TO_DATE>
+<DATE DAY="28" MONTH="1" YEAR="2008"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="28" MONTH="1" YEAR="2008"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="2006"/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="2009"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2009"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="16" MONTH="10" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="28" MONTH="1" YEAR="2008"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Centre de recherche du CHUQ</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Canadian Institutes of Health Research</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>NHS Connecting for Health Evaluation Programme (Project NHS CFHEP 001)</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2009-01-20 12:13:57 -0500" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-11-17 11:14:41 -0500" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-11-17 11:12:01 -0500" MODIFIED_BY="[Empty name]">Promoting the use of information and communication technologies (ICTs) by health care professionals</TITLE>
+<SUMMARY_BODY MODIFIED="2008-11-17 11:14:41 -0500" MODIFIED_BY="[Empty name]">
+<P>Information and communication technologies (ICTs) are technologies that help gather, store, process and share information electronically.  Examples of ICTs are electronic medical records, medical journals and databases on the internet, videoconferencing for doctor appointments, or systems on the internet to give feedback to doctors so they can improve the care they provide.  ICTs have the potential to improve health care and the health of patients.  But even though computers are being used more and more in hospitals, not all health care professionals use ICTs.   For this reason, there are many strategies to try and promote the use of ICTs.  Strategies can include training groups of health care professionals to use a specific ICT, or teaching someone one-on-one to use an ICT, or simply providing training materials.   </P>
+<P>A review of the effects of different strategies to promote the use of ICTs was conducted.  After searching for all relevant studies, 10 studies were found.  The evidence shows that some ways, such as group training, or one-on-one training sessions, or providing training materials, may improve the use of ICTs.  But overall, it is still uncertain whether some strategies are effective.  More research is needed.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-11-12 19:04:28 -0500" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2008-11-10 14:39:00 -0500" MODIFIED_BY="[Empty name]">
+<P>Information and communication technologies (ICT) are defined as digital and analogue technologies that facilitate the capturing, processing, storage and exchange of information via electronic communication. ICTs have the potential to improve information management, access to health services, quality of care, continuity of services, and cost containment. Knowledge is lacking on conditions for successful ICT integration into practice.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2008-11-10 14:38:20 -0500" MODIFIED_BY="[Empty name]">
+<P>To carry out a systematic review of the effectiveness of interventions to promote the adoption of ICT by healthcare professionals.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Specific strategies, defined with the help of an information specialist, were used to search the Cochrane Effective Practice and Organisation of Care Group (EPOC) register and additional relevant databases. We considered studies published from January 1990 until October 2007.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Randomised controlled trials (RCTs), controlled clinical trials (CCTs), controlled before/after studies (CBAs), and interrupted time series (ITS) that reported objectively measured outcomes concerning the effect of interventions to promote adoption of ICT in healthcare professionals' practices.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2008-11-12 19:04:28 -0500" MODIFIED_BY="[Empty name]">
+<P>Two reviewers independently assessed each potentially relevant study for inclusion. We resolved discrepancies by discussion or a third reviewer. Two teams of two reviewers independently extracted data and assessed the quality of included studies. A meta-analysis of study outcomes was not possible, given the small number of included studies and the heterogeneity of intervention and outcomes measures. We conducted qualitative analyses, and have presented the results in a narrative format.<BR/>
+</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Ten studies met the inclusion criteria. Nine of them were RCTs. All studies involved physicians as participants (including postgraduate trainees), and one study also included other participants. Only two studies measured patient outcomes. Searching skills and/or frequency of use of electronic databases, mainly MEDLINE, were targeted in eight studies. Use of Internet for audit and feedback, and email for provider-patient communication, were targeted in two studies. Four studies showed small to moderate positive effects of the intervention on ICT adoption. Four studies were unable to demonstrate significant positive effects, and the two others showed mixed effects. No studies looked at the long-term effect or sustainability of the intervention.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2008-11-10 14:41:46 -0500" MODIFIED_BY="[Empty name]">
+<P>There is very limited evidence on effective interventions promoting the adoption of ICTs by healthcare professionals. Small effects have been reported for interventions targeting the use of electronic databases and digital libraries. The effectiveness of interventions to promote ICT adoption in healthcare settings remains uncertain, and more well designed trials are needed.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2009-01-20 12:13:57 -0500" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2009-01-06 11:52:49 -0500" MODIFIED_BY="[Empty name]">
+<P>Information and communication technologies (ICTs) have the potential to address many of the challenges that healthcare systems are currently confronting. Globally, "ICT encompasses all those digital and analogue technologies that facilitate the capturing, processing, storage and exchange of information via electronic communication" (<LINK REF="REF-Health-Canada-2006" TYPE="REFERENCE">Health Canada 2006</LINK>). The term eHealth is also increasingly used to refer to ICT in the healthcare domain (<LINK REF="REF-Eysenbach-2001" TYPE="REFERENCE">Eysenbach 2001</LINK>; <LINK REF="REF-Oh-2005" TYPE="REFERENCE">Oh 2005</LINK>). Thus, this review considers healthcare ICT and eHealth as equivalent.<BR/>
+<BR/>The following classification identifies the five broad categories of ICT (<LINK REF="REF-Open-Clinical-2006" TYPE="REFERENCE">Open Clinical 2006</LINK>):<BR/>1. Electronic Medical Records (including patient records, clinical administration systems, digital imaging &amp; archiving systems, e-prescribing, e-booking);<BR/>2. telemedicine and telecare services;<BR/>3. health information networks;<BR/>4. decision support tools for healthcare professionals;<BR/>5. internet-based technologies and services.</P>
+<P>Each of these ICT categories encompasses various applications that have specific functions in healthcare settings. Those applications have the potential to improve information management, access to health services, quality and safety of care, continuity of services, and cost containment (<LINK REF="REF-Gov.-Canada-1999" TYPE="REFERENCE">Gov. Canada 1999</LINK>). The evidence on the efficacy of some applications, such as teleconsultations (<LINK REF="REF-Currell-2000" TYPE="REFERENCE">Currell 2000</LINK>), email consultations (Car 2004a), computerised health records (<LINK REF="REF-Erstad-2003" TYPE="REFERENCE">Erstad 2003</LINK>), and clinical information retrieval technologies <LINK REF="REF-Pluye-2005" TYPE="REFERENCE">Pluye 2005</LINK>), is limited or shows limited effect. However, other ICT applications, such as some decision support systems (<LINK REF="REF-Garg-2005" TYPE="REFERENCE">Garg 2005</LINK>; <LINK REF="REF-Kawamoto-2005" TYPE="REFERENCE">Kawamoto 2005</LINK>), computerised reminders (<LINK REF="REF-Bennett-2003" TYPE="REFERENCE">Bennett 2003</LINK>), computerised advice on drug dosage (<LINK REF="REF-Durieux-2008" TYPE="REFERENCE">Durieux 2008</LINK>), and interactive health communication applications (<LINK REF="REF-Murray-2005" TYPE="REFERENCE">Murray 2005</LINK>) have shown benefits for the healthcare system and may improve patient health outcomes. Furthermore, patients want clinicians to use ICT (<LINK REF="REF-Car-2004b" TYPE="REFERENCE">Car 2004b</LINK>).With increasing computerisation in every sector of activity, ICTs are expected to become tools that are part of healthcare professional practice. Nonetheless, it appears that ICTs such as electronic medical records and the Internet remain underused by healthcare professionals (<LINK REF="REF-Berner-2005" TYPE="REFERENCE">Berner 2005</LINK>; <LINK REF="REF-Brooks-2006" TYPE="REFERENCE">Brooks 2006</LINK>). Human and organisational factors have been identified as the main causes of ICT implementation failure (<LINK REF="REF-Aarts-2004" TYPE="REFERENCE">Aarts 2004</LINK>; <LINK REF="REF-Lorenzi-1997" TYPE="REFERENCE">Lorenzi 1997</LINK>; <LINK REF="REF-Pagliari-2005" TYPE="REFERENCE">Pagliari 2005</LINK>).</P>
+<P>The optimal integration of ICT into healthcare professionals' practices should be based upon the highest level of scientific evidence available with respect to implementation strategies (<LINK REF="REF-Grimshaw-2004" TYPE="REFERENCE">Grimshaw 2004</LINK>; <LINK REF="REF-Moehr-2000" TYPE="REFERENCE">Moehr 2000</LINK>). Previous studies have found that training is a major determinant of ICT adoption by healthcare profession and influences the integration of these technologies into clinical practices (<LINK REF="REF-Allen-2000" TYPE="REFERENCE">Allen 2000</LINK>; <LINK REF="STD-Kronick-2003" TYPE="STUDY">Kronick 2003</LINK>). However, many factors may influence the effectiveness of educational strategies, such as characteristics of the learner, the intervention itself, characteristics of the behaviour that the intervention is trying to change, and the context in which the intervention is conducted (<LINK REF="REF-Farmer-2003" TYPE="REFERENCE">Farmer 2003</LINK>).</P>
+<P>Characteristics of the intervention include the source of the information, the content, and the channel by which it is delivered (<LINK REF="REF-Kanouse-1995" TYPE="REFERENCE">Kanouse 1995</LINK>; Marriott 2000). The credibility of the information source is based on several elements, such as expertise and knowledge, trustworthiness, and message attributes (<LINK REF="REF-Tseng-1999" TYPE="REFERENCE">Tseng 1999</LINK>; <LINK REF="REF-Wathen-2002" TYPE="REFERENCE">Wathen 2002</LINK>). Research on the specific characteristics of successful interventions to promote ICT adoption into clinical practice is limited. Nevertheless, some studies on effective strategies to change clinical practice indicate that training interventions need to be sufficiently persuasive, informative, and relevant to the learner (<LINK REF="REF-Davis-1999" TYPE="REFERENCE">Davis 1999</LINK>). Personalised feedbacks and/or tailored messages may be more useful for changing behaviour than non-tailored messages (<LINK REF="REF-Bull-2001" TYPE="REFERENCE">Bull 2001</LINK> <LINK REF="REF-Kreuter-1996" TYPE="REFERENCE">Kreuter 1996</LINK>; <LINK REF="REF-Kreuter-2001" TYPE="REFERENCE">Kreuter 2001</LINK>).</P>
+<P>Characteristics of professional groups, organisations, and context also influence the success of ICT implementation. At the group level, the introduction of ICT can advance corresponding modifications to roles and responsibilities of healthcare professionals, which represents a potential source of resistance to adoption (<LINK REF="REF-Markus-1983" TYPE="REFERENCE">Markus 1983</LINK>). Likewise, conflicts can be present with respect to the delimitation of professional boundaries (<LINK REF="REF-Massaro-1993" TYPE="REFERENCE">Massaro 1993</LINK>; <LINK REF="REF-McLaughlin-1998" TYPE="REFERENCE">McLaughlin 1998</LINK>). Furthermore, structural and contextual characteristics of healthcare organisations can influence the integration of ICT into clinical practices (<LINK REF="REF-Kimberly-1981" TYPE="REFERENCE">Kimberly 1981</LINK>). Factors such as hospital location and size, participation of professionals in decision making, and management support, have been found to impact on ICT adoption (<LINK REF="REF-Carman-1996" TYPE="REFERENCE">Carman 1996</LINK>; <LINK REF="REF-Gagnon-2005" TYPE="REFERENCE">Gagnon 2005</LINK>; <LINK REF="REF-Lapointe-1999" TYPE="REFERENCE">Lapointe 1999</LINK>).</P>
+<P>The effectiveness of interventions aiming at the integration of ICT applications into healthcare professionals' practices are likely to be influenced by various factors pertaining to individual, group, organisational, and contextual characteristics, and by the very nature of the intervention (<LINK REF="REF-Grol-2004" TYPE="REFERENCE">Grol 2004</LINK>; <LINK REF="REF-Grol-2007" TYPE="REFERENCE">Grol 2007</LINK>). Furthermore, interrelations between these factors are important to consider, as they can influence how scientific evidence is integrated into practice (<LINK REF="REF-Street-1997" TYPE="REFERENCE">Street 1997</LINK>). However, ICTs remain underused by healthcare professionals, and knowledge is lacking on the best strategies to integrate them into their practice. Furthermore, existing literature appears to be conflicting with respect to effective interventions for promoting ICT adoption by healthcare professionals. In summary, it is imperative to synthesise knowledge regarding ICT adoption by healthcare professionals in order to inform decision-makers about effective strategies to promote the integration of these technologies in healthcare systems.</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2008-11-10 14:44:27 -0500" MODIFIED_BY="[Empty name]">
+<P>The objective of this systematic review was to assess the effectiveness of interventions to promote the adoption of ICT by healthcare professionals.</P>
+<P>To address this question, we considered two comparisons:</P>
+<P>(1) any particular type of intervention specifically designed to promote ICT adoption in healthcare professionals compared to no intervention, standard practice or any other particular type of intervention;</P>
+<P>(2) multifaceted intervention specifically designed to promote ICT adoption in healthcare professionals compared to no intervention, standard practice or any single intervention specifically designed to promote ICT adoption in healthcare professionals.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-11-10 14:48:00 -0500" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2008-11-10 14:45:41 -0500" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2008-11-10 14:44:45 -0500" MODIFIED_BY="[Empty name]">
+<P>We considered the following study designs: randomised controlled trials (RCTs); controlled clinical trials (CCTs); controlled before/after studies (CBAs); and interrupted time series analyses (ITS) with a clearly defined point in time when the intervention occurred and at least three data points before and three after the intervention (<LINK REF="REF-Ramsay-2003" TYPE="REFERENCE">Ramsay 2003</LINK>). We considered studies published in all languages from January 1990 to October 2007.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2008-11-10 14:44:53 -0500" MODIFIED_BY="[Empty name]">
+<P>Study participants were healthcare professionals providing clinical care to patients, including professionals in training (residents, fellows, and other registered healthcare professionals), exposed to an intervention aimed at promoting the adoption or use of any type of ICT in their practice. We excluded studies that included only students who did not provide clinical care to patients.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2008-11-10 14:44:59 -0500" MODIFIED_BY="[Empty name]">
+<P>We included any type of intervention described in the EPOC data collection checklist (<LINK REF="REF-EPOC-2007" TYPE="REFERENCE">EPOC 2007</LINK>) to promote the adoption and use of any type of ICT (electronic medical record, telemedicine/telehealth, health information networks, decision support tools, Internet-based technologies and services).</P>
+<P>The intervention had to go beyond the simple provision of, or access to, an ICT application; i.e. a planned strategy to promote the adoption or use of the ICT application should have been implemented.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-11-10 14:45:41 -0500" MODIFIED_BY="[Empty name]">
+<P>Two types of outcome measures were of interest in this review. First, we considered objective measures of the adoption or use of the ICT application by healthcare professionals (e.g. the number of teleconsultations conducted by a physician via videoconference, the frequency of use of information retrieval systems). We excluded studies with only self-reported measures. We selected healthcare professionals' performance, in terms of ICT adoption and use, as the primary outcome of interest for this review as it is hypothesised to directly influence process outcomes, and, ultimately, health and cost outcomes.</P>
+<P>Second, we considered any objective measure of general clinical performance or process outcome (e.g. number of tests ordered or decision to prescribe a particular drug), or patient health outcomes (e.g. blood pressure, length of hospital stay). We also included measures of healthcare professionals' knowledge, attitudes or satisfaction as secondary outcomes, as they may provide useful complementary information. However, we did not include studies reporting only knowledge, attitudes or satisfaction, with no objective measure of our main outcome of interest -- namely, adoption or use of ICT-- in accordance with the methodology of the Cochrane Effective Practice and Organisation of Care Review Group (EPOC).</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-11-10 14:46:51 -0500" MODIFIED_BY="[Empty name]">
+<P>We used specific strategies defined with the help of an information specialist to search the EPOC register (See SPECIALISED REGISTER under GROUP DETAILS) and the database of studies awaiting assessment. We conducted additional searches on Cochrane Database of Systematic Reviews, MEDLINE, EMBASE, Ovid, Database of Abstracts of Reviews of Effects (DARE), Cumulative Index of Nursing and Allied Health Literature (CINAHL), Biosis Previews, Psychological Abstracts (PsycINFO), Current Content, Health Services/Technology Assessment Text (HSTAT), Dissertation Abstracts, Educational Resources Information Center (ERIC), Proquest, ISI Web of Knowledge, Latin American and Caribbean Health Sciences (LILACS), and Ingenta.<BR/>
+<BR/>We developed search strategies for electronic databases using the methodological component of the EPOC search strategy combined with selected ICT terms and free text terms relating to ICT. The following are the ICT data terms that have been used in the MEDLINE search strategy. This search strategy was translated for searching the other databases, using the appropriate controlled vocabulary as applicable.</P>
+<P>1. Local Area Networks/<BR/>2. exp Telemedicine/<BR/>3. (telemedicine or telehealth).tw.<BR/>4. exp computer communication networks/<BR/>5. internet/<BR/>6. (ict or information communication technolog$).tw.<BR/>7. (remote communication$ or remote consultation$).tw.<BR/>8. Information Services/<BR/>9. (ehealth or e-health).tw.<BR/>10. (digital divide or information poverty).tw.<BR/>11. (internet or email or www or world wide web or virtual or web site or website).tw.<BR/>12. (e-learning or elearning or telecommunicat$).tw.<BR/>13. Databases, Bibliographic/<BR/>14. exp Medical Informatics Applications/<BR/>15. Medical Records Systems, Computerized/<BR/>16. Reminder Systems/<BR/>17. (computerised reminder$ or computerised reminder$).tw.<BR/>18. Patient Identification Systems/<BR/>19. or/1-17</P>
+<P>We followed up and obtained for assessment any relevant references from studies found through the above strategies. We also searched publications citing the retrieved articles through the ISI Science Citation Index.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-11-10 14:48:00 -0500" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Screening</HEADING>
+<P>We screened all titles and abstracts and retrieved full text copies of all potentially relevant studies. Two reviewers, randomly chosen among six members of the research team (MPG, FL, ML, PF, PP, JG) then independently assessed each study for eligibility. We resolved discrepancies by consensus or involvement of a third reviewer.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Data abstraction and quality assessment of included studies</HEADING>
+<P>Two teams of reviewers (MPG/MD and JC/CP) independently and systematically assessed characteristics of the studies and extracted data using the EPOC Data Collection Checklist (<LINK REF="REF-EPOC-2007" TYPE="REFERENCE">EPOC 2007</LINK>). We contacted study authors if data were missing or needed clarification; all contacted authors replied. We resolved discrepancies in ratings by consensus and involvement of a third reviewer where necessary. We assessed the methodological quality of eligible studies using the criteria of the Cochrane Effective Practice and Organisation of Care Review Group (EPOC) (see 'Editorial information' under 'Group details' for 'Methods used in review') for RCT, CCT, CBA or ITS. Given the limited number of identified studies in this review, we did not set a minimum cut-off for study inclusion based on methodological quality.</P>
+<P>Two independent reviewers rated each RCT study included in the review (high, moderate or low protection against bias) based on three main criteria: concealment of allocation, blinded or objective assessment of primary outcome(s), and follow up of participants (at least 80%). We also considered three other criteria: baseline measurement, reliable primary outcome measure, and protection against contamination. We assigned a rating of 'High' protection against bias if the first three criteria were met and there were no important concerns related to the last three criteria; 'Moderate' if one or two of the three first criteria were scored as "not clear" or "not done"; and 'Low' if more than two of the first criteria were scored as "not clear" or "not done" (<LINK REF="REF-Jamtvedt-2006" TYPE="REFERENCE">Jamtvedt 2006</LINK>). We resolved discrepancies by consensus.</P>
+<P>For ITS, we assessed the methodological quality of the included study using specific criteria (<LINK REF="REF-Ramsay-2003" TYPE="REFERENCE">Ramsay 2003</LINK>): 1) intervention occurred independently of other changes; 2) intervention was unlikely to affect data collection; 3) the primary outcome was assessed blindly or was measured objectively; 4) the primary outcome was reliable or was measured objectively; 5) the composition of the data set at each time point covered at least 80% of the participants; 6) the shape of the intervention effect was prespecified; 7) a rationale for the number and spacing of data points was described; 8) the study was analysed appropriately using time series techniques.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Analysis</HEADING>
+<P>We used methods proposed by Grimshaw (<LINK REF="REF-Grimshaw-2004a" TYPE="REFERENCE">Grimshaw 2004a</LINK>) to guide data analysis and presentation. Statistical analysis considered both dichotomous and continuous process outcome measures. We calculated relative risk differences for dichotomous variables and standardised mean differences (SMD) for continuous variables. In cases where there was insufficient data to calculate effect sizes for these outcome measures, we presented results of studies as reported by the authors.</P>
+<P>For each study, we reported the main results in natural units (for example, mean number of log-ons per physician). When baseline data were not available, we expressed results as the relative percentage change (the difference between post-intervention values in the experimental and control groups divided by the post-intervention values in the control group). This score allows estimation of a standardised effect for each outcome, which can be interpreted and pooled across studies regardless of the original measurement scale (<LINK REF="REF-Laird-1990" TYPE="REFERENCE">Laird 1990</LINK>). In addition, in studies that reported pre- and post-intervention mean or proportion for both experimental and control groups, we calculated the absolute change from baseline (change in experimental group values minus change in control group values), with 95% confidence interval (CI) where possible.</P>
+<P>For ITS, we reported the main outcomes in natural units and one or two parameters: the change in the level of outcome immediately after the introduction of the intervention and/or the change in the regression slopes (<LINK REF="REF-Ramsay-2003" TYPE="REFERENCE">Ramsay 2003</LINK>). At least one of these estimates is necessary for interpreting the results of each comparison. For example, there could have been no change in the level of outcome immediately after the intervention, but there could have been a significant change in the slope.</P>
+<P>We classified interventions according to the EPOC Data Collection Checklist, which includes four broad types of interventions: professional, financial, organisational, and regulatory. We have categorised factors that may impact on their effectiveness (effect modifiers) as described below. These factors have been identified as effect modifier in previous studies aiming at changing healthcare professional practices (<LINK REF="REF-Burgers-2003" TYPE="REFERENCE">Burgers 2003</LINK>; <LINK REF="REF-Foy-2002" TYPE="REFERENCE">Foy 2002</LINK>; <LINK REF="REF-Grilli-1994" TYPE="REFERENCE">Grilli 1994</LINK>; <LINK REF="REF-Grol-1998" TYPE="REFERENCE">Grol 1998</LINK>; <LINK REF="REF-Kanouse-1995" TYPE="REFERENCE">Kanouse 1995</LINK>; <LINK REF="REF-Kreuter-1996" TYPE="REFERENCE">Kreuter 1996</LINK>; <LINK REF="REF-Marriott-2000" TYPE="REFERENCE">Marriott 2000</LINK>; <LINK REF="REF-Wathen-2002" TYPE="REFERENCE">Wathen 2002</LINK>).</P>
+<P>Factors that may influence the effectiveness of an intervention to promote ICT adoption/use in healthcare settings are:<BR/>(1) type of technology: electronic medical record, telemedicine/telehealth, health information networks, decision support tools, Internet-based technologies and services;<BR/>(2) potential adopter: target group of healthcare professionals;<BR/>(3) practice setting: academic hospital, general or community-based practices;<BR/>(4) intervention design: tailored versus non-tailored intervention (e.g., personalised versus generic);<BR/>(5) mode of delivery: a) intervention delivered individually versus intervention delivered in group; b) intervention delivered by a person versus intervention delivered by any other mode (e.g. online instructions, printed material);<BR/>(6) timing/frequency: intervention given only once versus continuous intervention.</P>
+<P>We identified these factors as potential effect modifiers. Given the limited number of studies included in the review, we only explored the heterogeneity by considering comparisons relative to the first category of factors (type of technology) in relationship to the effect size (effect modifier).</P>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2009-01-20 12:13:57 -0500" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2009-01-08 14:32:53 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<BR/>The search generated a total of 47,979 references. From these references, we excluded 47,916 based on title alone or on the title and abstract, and selected 63 studies for detailed evaluation. Following the evaluation by two independent reviewers, we included 10 studies (see 'Characteristics of included studies' table). Nine studies were RCTs (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) and one was an ITS (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). Eight studies were conducted in North America--three in Canada (<LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>;<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>) and five in the USA (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). Of the remaining two, one was conducted in Hong Kong, China (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>), and one in Australia (<LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>). All studies included physicians as participants (including postgraduate trainees), and one study also included other healthcare professionals (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>).<BR/>
+<BR/>The behaviour of healthcare professionals was measured objectively in all studies, with the exception of one study that measured change in structure of service delivery. In this last study (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>), the use of a triage-based email communication system between patient and physicians was measured as well as its effect on phone communication volume and rates of patient visits. Two studies measured patient outcomes (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>), but only one study (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) used an objective measure of patient outcome.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Targeted ICT and outcome measures</HEADING>
+<P>Eight studies targeted use of electronic databases and digital libraries, often MEDLINE, in clinical settings (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>). Five of these studies used frequency of use of information retrieval systems and searching skills as the main outcome measures (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>). One of them measured frequency of use, usefulness, and satisfaction with the system (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>). A sixth study (<LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) considered the frequency of system use as the main outcome measure, but was also interested in factors that influenced usage. Two studies focused on improving searching skills, but also measured frequency of use (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>).</P>
+<P>An Internet-based audit and feedback (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) and a triage-based email system for communication between patient and physician (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>) were the other ICTs studied. One of the studies (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) assessed the effectiveness of providing Internet-based audit and feedback to physicians in order to improve care of patients with diabetes and hypertension. The other study (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>) assessed the utilisation of an email triage system and its effect on the use of resources in two university-affiliated primary care centres.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Interventions for promoting ICT use or adoption</HEADING>
+<P>Eight out of 10 studies evaluated interventions categorised as "professional" according to the EPOC Checklist (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). Two studies evaluated other types of intervention: a financial intervention (targeted to healthcare professionals) (<LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>) and an organisational intervention (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="4">Professional interventions</HEADING>
+<P>There were four types of professional interventions reported: educational meetings; distribution of educational materials; educational outreach visits; and audit and feedback.</P>
+<P>Educational meetings were the sole intervention in two studies (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>) and a component of a multifaceted intervention in one study (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>). In the first two studies (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>) the intervention was a basic training in information retrieval including practical sessions. However, the mode of delivery and the duration varied between those studies. One study (<LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>) used an intervention that consisted of individual tutoring and hands-on instruction, with medical residents performing searches on MEDLINE in one group, and all searches performed by the instructor in the other group. In the second study (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>), the intervention was a three-hour training workshop with supervised hands-on practice. The third study combined a one-hour didactic session in small group with other types of intervention (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>).</P>
+<P>Two studies (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) evaluated the effect of access to educational material only. In one study (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>), the intervention consisted of access to an Internet-based addition to an existing digital library; this addition provided alerts to new articles and maintained a cumulative database of alerts. In the other study (<LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>), the intervention group received advanced-level online training in the use of an evidence retrieval system in addition to a basic-level training provided to all participants before randomisation. Three other studies also used educational material as a component of a multifaceted intervention. One of them (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>) used well-built clinical question cards; another (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>) distributed a floppy disk containing EBM search hedges. In the third study (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>), participants were encouraged to access a website to obtain audit and feedback on their practice, with accompanying educational material.</P>
+<P>Educational outreach visits were used in three studies (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>). They were one of many components in a multifaceted intervention in two studies (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>) and the main component of the intervention in the third (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>). In this last study (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>), the intervention was real-time instruction given by a librarian on how to retrieve information from online resources. In another study (<LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>), the intervention combined access to a clinical preceptor and individualised feedback given by a librarian. In this same study, all participants (intervention and control groups) were also provided a two-hour basic training before randomisation. Individual practical sessions in clinical question building and searching the medical literature were used with two other types of intervention (didactic session and educational material) in the last study (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>).<BR/>
+<BR/>The fourth type of professional intervention, audit and feedback, was used in one study as the main intervention (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). This intervention consisted in encouragement to use a website that provided audit and feedback on physician's application of guidelines recommendations.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Financial interventions</HEADING>
+<P>Only one study (<LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>) described a financial intervention. This study aimed to assess the effect of introducing user fees for MEDLINE searching in clinical settings. This intervention differed from the others since it tested the negative effect of introducing user fees on ICT use by healthcare professionals. As such, the main outcome expected was a decrease in the use of ICT.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Organisational intervention</HEADING>
+<P>In the last study (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>), the main intervention was providing access to a triage-based email system for communication between patients and their providers in primary care. Patients of the physicians in the intervention group were encouraged to use this new system in several ways. Effect of this triage-based email system on clinical resource use and patient and physician satisfaction was assessed.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Multifaceted intervention versus single intervention</HEADING>
+<P>Half of the studies (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) evaluated a multifaceted intervention that included professional intervention in four of these studies (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). The remaining multifaceted intervention was organisational and included structural intervention (access to a triage-based email system) and patient-oriented interventions (incentive to use the system) (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>). One study (<LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>) compared two interventions but at the outset, the two intervention groups were combined and compared with a control group (no intervention). The other studies (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) presented comparisons between one single intervention specifically designed to promote ICT adoption in healthcare professionals and no intervention (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>) or standard practice (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>).<U>
+<BR/>
+<BR/>
+</U>
+</P>
+</SUBSECTION>
+</SUBSECTION>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2009-01-20 12:13:57 -0500" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Randomised Controlled Trials (RCT)</HEADING>
+<P>We included nine RCTs in the review, including four cluster randomised controlled trials (C-RCT) (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) and five professional randomised controlled trials (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>).</P>
+<P>The methodological quality of selected studies is presented in <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>. Of the nine RCTs, only one had a low risk of bias (high quality) (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>). The remaining studies were of moderate quality, except for one of them (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>) which had a high risk of bias (low quality). Four studies had adequately concealed allocation (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>) whereas, in the remaining studies (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>), it was unclear. Six studies reported blinded assessment of main outcomes (or objective outcome variables) (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>). The remaining studies were assessed as "not clear" or "partially met". Follow up of participants was good for main outcomes in six studies (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>, <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK> inadequate or "not met" in two studies (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>) and assessed as "not clear" in another one (<LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>).</P>
+<P>The C-RCTs were conducted to minimise contamination between the study groups, but in two (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>) of the four C-RCTs, authors mentioned that they could not be certain that contamination between groups was totally prevented. In two RCTs (<LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>), it was also not possible to know if contamination between groups was totally prevented. In one study (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>), the investigators identified a possible misclassification bias since some patients categorised as "intervention patients" could be patients of control physicians and vice versa.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Interrupted Time Series (ITS)</HEADING>
+<P>One study was an interrupted time series (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) in which data were collected every month during the study (24 months) to determine whether the intervention was associated with a change in practice, controlling for pre-intervention level. According to quality criteria for ITS (<LINK REF="REF-Ramsay-2003" TYPE="REFERENCE">Ramsay 2003</LINK>), this study has good methodological quality (five quality criteria were met, and three were classified as "not clear"). However, the lack of participation of residents in the Internet-based intervention impeded detecting impact of the main intervention (audit and feedback) on practice.<U>
+<BR/>
+</U>
+</P>
+</SUBSECTION>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2009-01-06 12:04:02 -0500" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Comparison 1. Any particular type of intervention specifically designed to promote ICT adoption in healthcare professionals compared to no intervention, standard practice, or any other particular type of intervention.</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">1.1. Educational meetings compared to no intervention, standard practice, or any other intervention.</HEADING>
+<P>Two RCTs evaluated educational meetings alone (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Dichotomous process outcome measures</HEADING>
+<P>There were three dichotomous comparisons of healthcare professional behaviour reported in two RCTs (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>). Cheng 2003 reported that the educational intervention increased the proportion of clinicians able to provide an adequate clinical question (relative difference = 0.31, 95% CI: 0.22, 0.39; P &lt; 0.00001). Erickson 1998 found no effect of the intervention on the proportion of residents performing two assigned searches (third search: relative difference = -0.05; ns; fourth search: relative difference = -0.06; ns).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Continuous process outcome measures</HEADING>
+<P>One continuous process outcome comparison was reported in one trial (<LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>). Erickson 1998 reported a non-significant increase of 0.22 in the mean number of log-ons in the intervention group but no post-intervention data were provided for the control group.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">1.2 Distribution of educational materials compared to no intervention, standard practice, or any other intervention</HEADING>
+<P>Two C-RCTs evaluated access to educational materials alone (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Dichotomous process outcome measure</HEADING>
+<P>One study (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>) reported that the proportion of physicians using the digital library service was significantly higher in the intervention group (relative difference = 0.13, 95% CI 0.02 to 0.23; P = 0.02).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Continuous process outcome measure</HEADING>
+<P>Two continuous process outcome comparisons were reported in two trials. In one study (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>), the intervention increased the mean number of log-ons per month per user among those who used the digital library service SMD = 0.34, 95% CI 0.03 to 0.65; P = 0.03). In the other study (<LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>), the frequency of searches in a digital database did not increase in the group that had received an advanced training compared to basic training (SMD = -0.07; ns). Indeed, the mean number of searches was higher among participants who received only a basic training, but this effect was not significant.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">1.3 Financial interventions</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="5">Dichotomous process outcome measure</HEADING>
+<P>The only RCT that assessed a financial intervention (<LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>) found a significant negative impact of introducing user fees on ICT use by healthcare professionals. Introducing user fees to access MEDLINE was found to significantly reduce the proportion of participants who conducted a search (relative difference = -0.35, 95% CI: -0.57 to -0.13; P = 0.002).<BR/>
+</P>
+</SUBSECTION>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Comparison 2. Multifaceted intervention specifically designed to promote ICT adoption in healthcare professionals compared to no intervention, standard practice, or any single intervention specifically designed to promote ICT adoption in healthcare professionals.</HEADING>
+<P>
+<BR/>Five studies (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) tested the effect of a multifaceted intervention versus no intervention or standard practice. There were no studies testing multifaceted versus single intervention.</P>
+<SUBSECTION>
+<HEADING LEVEL="4">Dichotomous process outcome measures</HEADING>
+<P>There were three dichotomous comparisons reported in one RCT (<LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>) and one ITS (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). The RCT (<LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>) used a multifaceted intervention combining educational outreach visits and audit and feedback, and the ITS (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) used audit and feedback as the main component of the multifaceted intervention. Haynes did not report any significant improvement in the proportion of participants who conducted a successful search (defined as a search retrieving at least one relevant reference) for either of the two searches assessed (fourth search: relative difference = -0.05; ns; eighth search: relative difference = 0.08; ns). However, in this study (<LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>), clinicians in both groups improved their search performance compared to baseline data (first search); this effect could be related, according to the authors, to the basic introduction given to all participants. The ITS (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) reported no effect of the intervention on residents' utilisation of the audit and feedback website. Over a one-year period, only four of the twelve residents accessed their profiles on the website; three of them visited their site only once.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Continuous process outcome measures</HEADING>
+<P>There were three continuous process outcomes comparisons in two C-RCTs (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>) and another in a RCT (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>). One of the C-RCTs (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>) reported a significant positive effect of the multifaceted intervention versus no intervention on residents' use of a digital library. This study found that the median number of log-ons significantly increased by 2.1 fold in the intervention group. However, it was not possible to compute a SMD for this outcome, since only medians were reported in the article and the authors could not provide complementary data. The other C-RCT (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>) used educational outreach visits as the main component of the intervention and reported mixed effects of this intervention on resident searching skills. This study used a scale to rate the quality of the search strategy, with 1 representing the highest score and 5 the lowest; a negative difference should be interpreted as an increase in search quality. The post-intervention data did not show a significant effect of the intervention on the quality of the search strategy (SMD = -0.08; ns). We obtained complementary data from the authors regarding the quality of the search strategy six months post-intervention. A significant increase in the quality of the search strategy was found (SMD = -2.75, 95% CI -4.73 to -0 .77; P = 0.007). The study by Katz (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>) showed a positive effect of the intervention on the volume of emails (incident rate ratio 3.6, 95% CI 2.1 to 6.2). However, email volume increase did not reduce phone communication or visit no-shows, as hypothetised by researchers. Furthermore an additional mail intervention provided to a portion of the patients treated by physicians in the intervention group may have acted as a co-intervention and affected the outcomes.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Patient outcome measures</HEADING>
+<P>The impact of ICT adoption on patient outcomes was only measured in two studies (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). In one of these studies (<LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>), the intervention had no discernible effect on adherence to practice guidelines for diabetes or hypertension. In the second study (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>), patients outcomes were self-reported and consisted in perceptions of email benefits, barriers, and general communication with physician. The study reported few between-group differences in patients' attitudes toward electronic communication and communication in general.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Subgroup analysis: Interventions for promoting adoption or use of information retrieval systems</HEADING>
+<P>
+<BR/>Among the ten studies included, eight studies (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) focused on information retrieval systems (digital libraries and electronic databases). One of these studies (<LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>) used a financial intervention which was distinct from the others that all used professional interventions. Among the seven studies using professional interventions, three (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>) reported significant positive effect of the intervention on ICT adoption. Two of the three studies (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>) that used educational meetings and one of the two studies (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) that provided access to educational materials showed positive effects of the intervention. One study (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>) that used educational outreach visits and educational material showed a positive impact but only six months after the intervention. Another study (<LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>) that used educational outreach visits and audit and feedback did not report positive effect of the multifaceted intervention.<BR/>
+<U>
+<BR/>
+</U>
+</P>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2009-01-14 14:18:09 -0500" MODIFIED_BY="[Empty name]">
+<P>There are very few experimental studies on interventions promoting the integration of ICT in the practice of healthcare professionals. Although this review aimed at a wide range of ICT applications, we found only 10 eligible studies. Seven of these studies were published after 2000, and five of them since 2003. One explanation for the limited research in this area could be that ICT use is a relatively new phenomenon in health care. In addition, many potentially relevant studies were rejected because of their non-experimental design as required by the Cochrane Effective Practice and Organisation of Care Group.</P>
+<P>Studies included in this review focused mainly on electronic databases and digital libraries (eight out of 10). A plausible explanation for that is the fact that information retrieval systems are among the first applications that have penetrated the healthcare sphere with the development of digital versions of MEDLINE in the 1980's. There are several studies about trials of implementation of other types of technology (e.g. electronic health records, telemedicine, computerised order entry). However, these studies were excluded because they did not describe explicitly strategies for adoption of the technology. Most studies that focused on other types of technology were also rejected because of the lack of experimental designs assessing their implementation. In a review about the effectiveness of training health professionals in literature search skills using electronic health databases, Garg (<LINK REF="REF-Garg-2003" TYPE="REFERENCE">Garg 2003</LINK>) proposes an explanation to the scarcity of research in this area, arguing that research on educational aspects in the healthcare field neither attracts high levels of funding nor has the prestige associated with the research effort in clinical sciences.</P>
+<P>Results from the reviewed studies are mixed and only a few found that the intervention implemented was successful in promoting ICT adoption in healthcare professionals. Most of the interventions included in this review were at the level of healthcare professionals (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). Among them, only three studies (<LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>) reported a significant positive effect of the intervention on ICT adoption among healthcare professionals. One study (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>) showed a positive impact, but only six months after the intervention. In the light of these mixed results, we could not draw conclusions about the effectiveness of one type of intervention over another.<BR/>
+<BR/>The impact of ICT adoption on patient outcomes was measured in only two studies (<LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>). In these two studies, the intervention had no discernible effect on patient outcomes. Despite some positive effects of reported interventions on healthcare professional behaviour, there is no guarantee that increasing the use of ICT by healthcare professionals will lead to better patient outcomes.</P>
+<P>All studies included were targeted at physicians or physicians in training (residents and clinical clerks). Only one study (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>) also included other participants (nurses and other hospital clinicians). Studies targeted at other healthcare professionals (nurses mainly) were located in the literature, but they have been excluded from this review because of their design. Most of the studies reviewed (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Erickson-1998" TYPE="STUDY">Erickson 1998</LINK>; <LINK REF="STD-Haynes-1991" TYPE="STUDY">Haynes 1991</LINK>; <LINK REF="STD-Haynes-1993" TYPE="STUDY">Haynes 1993</LINK>; <LINK REF="STD-Katz-2003" TYPE="STUDY">Katz 2003</LINK>; <LINK REF="STD-Simon-2005" TYPE="STUDY">Simon 2005</LINK>) have been conducted in hospital training settings. This setting allows for a better control of the experimentation than in the context of a busy practice. Conversely, two studies (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>) focused only on practising physicians in rural (<LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) or urban (<LINK REF="STD-Cheng-2003" TYPE="STUDY">Cheng 2003</LINK>) areas. Only one study (<LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>) have been conducted in various locations (rural and urban). However, results are too heterogeneous between studies for drawing any conclusion about effectiveness of intervention. In addition, some of the included studies involved small samples which limited the strength of the conclusions that can be drawn about the effects of the interventions.</P>
+<P>Finally, no cut-off was set to exclude studies based on their quality. Many included studies may present methodological limitations that could affect the validity of reported outcomes. For instance, some studies have used multiple comparisons for the same sample without adjusting their p-value which could affect the significance of the results. Also, some studies used a cluster randomised trials design in order to overcome the contamination between study groups (<LINK REF="STD-Bradley-2002" TYPE="STUDY">Bradley 2002</LINK>; <LINK REF="STD-Cabell-2001" TYPE="STUDY">Cabell 2001</LINK>; <LINK REF="STD-Haynes-2006" TYPE="STUDY">Haynes 2006</LINK>; <LINK REF="STD-Magrabi-2007" TYPE="STUDY">Magrabi 2007</LINK>). The consequence of adopting a C-RCT is that it has lower statistical power than a RCT of equivalent size (<LINK REF="REF-Donner-1981" TYPE="REFERENCE">Donner 1981</LINK>). More rigorous research is needed in the evaluation of the various effects of ICT applications and in exploring how to optimise the implementation of these technologies in the healthcare system.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>The limited evidence presented in this review did not allow identifying one best strategy for promoting the adoption of ICT applications in healthcare professionals. Most interventions that have been applied in the field of ICT implementation are educational in nature but present a great heterogeneity in their mode of delivery and their timing and frequency. Among these interventions, the effectiveness of individual or group training showed mixed results. The effectiveness of interventions providing feedback and instructions is also divergent across studies. Furthermore, other types of interventions, consisting mainly in patient and economic incentives, were not common and their effectiveness appears limited to specific outcomes. Another major limitation to this review is the fact that healthcare professionals targeted by the interventions consisted almost exclusively of physicians. Evidence is thus lacking regarding interventions aimed at other groups of healthcare professionals. Given the scarcity of available research in the field of ICT implementation, there is an urgent need to develop a knowledge base to support the design, implementation and evaluation of interventions aimed at promoting the optimal integration of ICT in all groups of healthcare professionals' practice.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Despite the inconclusive evidence found on the effectiveness of interventions for promoting ICT adoption in healthcare professionals, this review provides a basis to guide further research into the development of such interventions and their evaluation. It is thus important for researchers to advance their understanding of factors affecting ICT adoption in healthcare settings. Identifying key issues with respect to individual, professional, organisational, or systemic factors influencing ICT adoption would help to design more specific and tailored interventions. A complementary review assessing obstacles and facilitators to ICT adoption by healthcare professionals is being conducted by the team of reviewers and might provide relevant insight. This review will allow for considering other types of study designs that were rejected in the present review such as longitudinal, cohort, cross-sectional, and qualitative studies. It will also potentially cover other professional groups and other types of technology that are typically included in these study designs.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank Martin Eccles and Jessie McGowan for their assistance with the development of the search strategy. We are grateful to Alan Card for his contribution to the extraction of data. We are also grateful to Martin Eccles for his input throughout the development of the protocol and the review. We wish to thank all the authors who have been very helpful in providing information complements and unpublished data, particularly D. Bradley, C. Cabell, R. Brilla, B. Haynes, R. Gurpreet, J. McKinlay, F. Magrabi. We also thank Annie Leblanc for her contribution to editing. This work was supported in part by a synthesis grant from CIHR (project number: SRR - 79141) and also by a seed grant from the CHUQ research centre to Marie-Pierre Gagnon.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>No conflicts of interest identified.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>MPG and FL prepared the protocol with imput from ML, PF, PP and JG. KG was responsible for the search strategy.<BR/>KG and MD applied inclusion criteria to the screening of search results and were responsible for obtaining full articles.<BR/>MPG, FL, ML, PP, PF, JG, MD and KG participated at the final appraising and retrieved papers against inclusion critera.<BR/>MPG/MD and JC/CP extracted data and appraised quality of papers.<BR/>MPG and LTL were responsible for the statistical analysis.<BR/>MPG and MD drafted the manuscript with input from FL, ML, PF, PP and JG.<BR/>MPG, FL, ML, PF, PP and JG obtained CIHR funding (Synthesis Grants: Knowledge Translation).</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-11-10 14:58:17 -0500" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2008-11-10 14:58:17 -0500" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2008-11-10 14:58:17 -0500" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="MIX" ID="STD-Bradley-2002" NAME="Bradley 2002" YEAR="2002">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Bradley DR, Rana GK, Martin PW, Schumacher RE</AU>
+<TI>Real-time evidence-based medicine instruction: a randomized controlled trial in a neonatal intensive care unit</TI>
+<SO>Journal of the Medical Library Association</SO>
+<YR>2002</YR>
+<VL>90</VL>
+<NO>2</NO>
+<PG>194-201</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cabell-2001" MODIFIED="2008-11-10 14:58:17 -0500" MODIFIED_BY="[Empty name]" NAME="Cabell 2001" YEAR="2001">
+<REFERENCE MODIFIED="2008-11-10 14:58:17 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cabell CH, Schardt C, Sanders L, Corey GR, Keitz SA</AU>
+<TI>Resident utilization of information technology: A randomized trial of clinical question formation</TI>
+<SO>Journal of General Internal Medicine</SO>
+<YR>2001</YR>
+<VL>16</VL>
+<NO>12</NO>
+<PG>838-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cheng-2003" MODIFIED="2008-11-10 14:58:06 -0500" MODIFIED_BY="[Empty name]" NAME="Cheng 2003" YEAR="2003">
+<REFERENCE MODIFIED="2008-11-10 14:58:06 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="OTHER">
+<AU>Cheng G</AU>
+<TI>Measuring electronic information services: the use of the information behaviour model</TI>
+<SO>Doctoral Dissertation. Canberra, ACT: University of Canberra</SO>
+<YR>2002</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Cheng GY</AU>
+<TI>Educational workshop improved information-seeking skills, knowledge, attitudes and the seaarch outcome of hospital clinnicians: a randomised controlled trial</TI>
+<SO>Health Information and Libraries Journal</SO>
+<YR>2003</YR>
+<VL>20</VL>
+<NO>Suppl 1</NO>
+<PG>22-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Erickson-1998" MODIFIED="2008-11-10 14:57:51 -0500" MODIFIED_BY="[Empty name]" NAME="Erickson 1998" YEAR="1998">
+<REFERENCE MODIFIED="2008-11-10 14:57:51 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Erickson S, Warner ER</AU>
+<TI>The impact of an individual tutorial session on MEDLINE use among obstetrics and gynaecology residents in an academic training programme: a randomized trial</TI>
+<SO>Medical Education</SO>
+<YR>1998</YR>
+<VL>32</VL>
+<PG>269-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Haynes-1991" MODIFIED="2008-11-10 14:57:42 -0500" MODIFIED_BY="[Empty name]" NAME="Haynes 1991" YEAR="1991">
+<REFERENCE MODIFIED="2008-11-10 14:57:42 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Haynes RB, Ramsden MF, McKibbon KA, Walker CJ</AU>
+<TI>Online access to MEDLINE in clinical settings: impact of user fees</TI>
+<SO>Bulletin of the Medical Library Association</SO>
+<YR>1991</YR>
+<VL>79</VL>
+<NO>4</NO>
+<PG>377-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Haynes-1993" MODIFIED="2008-11-10 14:57:34 -0500" MODIFIED_BY="[Empty name]" NAME="Haynes 1993" YEAR="1993">
+<REFERENCE MODIFIED="2008-11-10 14:57:34 -0500" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Haynes RB, Johnston ME, McKibbon KA, Walker CJ, Wilan AR</AU>
+<TI>A program to enhance clinical use of MEDLINE. A randomized controlled trial</TI>
+<SO>The Online Journal of Clinical Current Clinical Trials</SO>
+<YR>1993</YR>
+<VL>56</VL>
+<PG>[4005 words; 39 paragraphs]</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2008-11-10 14:57:27 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>McKibbon KA, Haynes RB, Johnston ME, Walker CJ</AU>
+<TI>A study to enhance clinical end-user MEDLINE search skills: design and baseline findings</TI>
+<SO>Proceedings of the Annual Symposium on Computer Application on Medical Care</SO>
+<YR>1991</YR>
+<PG>73-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Haynes-2006" MODIFIED="2008-11-10 14:57:21 -0500" MODIFIED_BY="[Empty name]" NAME="Haynes 2006" YEAR="2006">
+<REFERENCE MODIFIED="2008-11-10 14:57:21 -0500" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Haynes RB, Holland J, Cotoi C, McKinlay RJ, Wilczynski NL, Walters LA, et al</AU>
+<TI>McMaster PLUS: a cluster randomized clinical trial of an intervention to accelerate clinical use of evidence-based information from digital libraries</TI>
+<SO>Journal of American Medical Informatics Association</SO>
+<YR>2006</YR>
+<VL>13</VL>
+<NO>6</NO>
+<PG>593-600</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Katz-2003" MODIFIED="2008-11-10 14:57:09 -0500" MODIFIED_BY="[Empty name]" NAME="Katz 2003" YEAR="2003">
+<REFERENCE MODIFIED="2008-11-10 14:57:09 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Katz SJ, Moyer CA, Cox DT, Stern DT</AU>
+<TI>Effect of a triage-based e-mail system onn clinic resource use and patient and physician satisfaction in primary care. A randomized controlled trial</TI>
+<SO>Journal of General Internal Medicine</SO>
+<YR>2003</YR>
+<VL>18</VL>
+<NO>9</NO>
+<PG>736-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Magrabi-2007" MODIFIED="2008-11-10 14:56:55 -0500" MODIFIED_BY="[Empty name]" NAME="Magrabi 2007" YEAR="2007">
+<REFERENCE MODIFIED="2008-11-10 14:56:55 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Magrabi F, Westbrook JI, Coiera EW</AU>
+<TI>What factors are associated with the integration of evidence retrieval technology into routine general practice settings?</TI>
+<SO>International Journal of Medical Informatics</SO>
+<YR>2007</YR>
+<VL>76</VL>
+<NO>10</NO>
+<PG>701-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Simon-2005" MODIFIED="2008-11-10 14:56:49 -0500" MODIFIED_BY="[Empty name]" NAME="Simon 2005" YEAR="2005">
+<REFERENCE MODIFIED="2008-11-10 14:56:49 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Simon SR, Soumerai SB</AU>
+<TI>Failure of Internet-based audit and feedback to improve quality of care delivered by primary care residents</TI>
+<SO>International Journal of Quality in Health Care</SO>
+<YR>2005</YR>
+<VL>17</VL>
+<NO>5</NO>
+<PG>427-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-11-10 14:56:42 -0500" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Brilla-2004" MODIFIED="2008-11-10 14:56:42 -0500" MODIFIED_BY="[Empty name]" NAME="Brilla 2004" YEAR="2004">
+<REFERENCE MODIFIED="2008-11-10 14:56:42 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Brilla R, Wartenberg KE</AU>
+<TI>Introducing new technology: handheld computers and drug databases. A comparison between two residency programs</TI>
+<SO>Journal of Medical Systems</SO>
+<YR>2004 Feb</YR>
+<VL>28</VL>
+<NO>1</NO>
+<PG>57-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Butzlaff-2004" MODIFIED="2008-11-10 14:56:30 -0500" MODIFIED_BY="[Empty name]" NAME="Butzlaff 2004" YEAR="2004">
+<REFERENCE MODIFIED="2008-11-10 14:56:30 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Butzlaff M, Vollmar HC, Floer B, Koneczny N, Isfort J, Lange S</AU>
+<TI>Learning with computerized guidelines in general practice?: a randomized controlled trial</TI>
+<SO>Family Practice</SO>
+<YR>2004</YR>
+<VL>21</VL>
+<NO>2</NO>
+<PG>133-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Casebeer-2003" MODIFIED="2008-11-10 14:56:23 -0500" MODIFIED_BY="[Empty name]" NAME="Casebeer 2003" YEAR="2003">
+<REFERENCE MODIFIED="2008-11-10 14:56:23 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Casebeer LL, Strasser SM, Spettell CM, Wall TC, Weissman N, Ray MN, et al</AU>
+<TI>Designing tailored Web-based instruction to improve practicing physicians' preventive practices.</TI>
+<SO>Journal of Medical Internet Research</SO>
+<YR>2003</YR>
+<VL>5</VL>
+<NO>3</NO>
+<PG>e20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-D_x0027_Alessandro-2004" NAME="D'Alessandro 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>D'Alessandro DM, Kreiter CD, Peterson MW</AU>
+<TI>An evaluation of information-seeking behaviors of general pediatricians.</TI>
+<SO>Pediatrics</SO>
+<YR>2004</YR>
+<VL>113</VL>
+<NO>1 Pt 1</NO>
+<PG>64-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Eccles-2002" MODIFIED="2008-11-10 14:56:12 -0500" MODIFIED_BY="[Empty name]" NAME="Eccles 2002" YEAR="2002">
+<REFERENCE MODIFIED="2008-11-10 14:56:12 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Eccles M, McColl E, Steen N, Rousseau N, Grimshaw J, Parkin D, et al</AU>
+<TI>Effect of computerised evidence based guidelines on management of asthma and angina in adults in primary care: cluster randomised controllled trial</TI>
+<SO>BMJ</SO>
+<YR>2002</YR>
+<VL>26</VL>
+<NO>325(7370)</NO>
+<PG>941-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kronick-2003" MODIFIED="2008-11-10 14:55:46 -0500" MODIFIED_BY="[Empty name]" NAME="Kronick 2003" YEAR="2003">
+<REFERENCE MODIFIED="2008-11-10 14:55:46 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kronick J, Blake C, Munoz E, Heilbrunn L, Dunikowski L, Milne WK</AU>
+<TI>Improving on-line skills and knowledge. A randomized trial of teaching rural physicians to use on-line medical information</TI>
+<SO>Canadian Family Physician</SO>
+<YR>2003</YR>
+<VL>49</VL>
+<PG>312-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lai-2006" MODIFIED="2008-11-10 14:55:40 -0500" MODIFIED_BY="[Empty name]" NAME="Lai 2006" YEAR="2006">
+<REFERENCE MODIFIED="2008-11-10 14:55:40 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lai F, Macmillan J, Daudelin DH, Kent DM</AU>
+<TI>The potential of training to increase acceptance and use of computerized decision support systems for medical diagnosis</TI>
+<SO>Human Factors</SO>
+<YR>2006</YR>
+<VL>48</VL>
+<NO>1</NO>
+<PG>95-108</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lapinsky-2001" NAME="Lapinsky 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lapinsky SE, Weshler J, Mehta S, Varkul M, Hallett D, Stewart TE</AU>
+<TI>Handheld computers in critical care</TI>
+<SO>Critical Care</SO>
+<YR>2001</YR>
+<VL>5</VL>
+<NO>4</NO>
+<PG>227-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Levick-2005" NAME="Levick 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Levick D, Lukens HF, Stillman PL</AU>
+<TI>You've led the horse to water, now how do you get him to drink: managing change and increasing utilization of computerized provider order entry</TI>
+<SO>Journal of Healthcare Information Management</SO>
+<YR>2005</YR>
+<VL>19</VL>
+<NO>1</NO>
+<PG>70-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Liaw-2000" NAME="Liaw 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Liaw ST, Ugoni AM, Cairns C</AU>
+<TI>Computer education. Don't forget the older GPs</TI>
+<SO>Australian Family Physician</SO>
+<YR>2000</YR>
+<VL>29</VL>
+<NO>8</NO>
+<PG>802-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Marshall-2001" NAME="Marshall 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Marshall JN, Stewart M</AU>
+<TI>Small-group CME using e-mail discussions. Can it work?</TI>
+<SO>Canadian Family Physician</SO>
+<YR>2001</YR>
+<VL>47</VL>
+<PG>557-63</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tai-1999" MODIFIED="2008-11-10 14:55:26 -0500" MODIFIED_BY="[Empty name]" NAME="Tai 1999" YEAR="1999">
+<REFERENCE MODIFIED="2008-11-10 14:55:26 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tai SS, Nazareth I, Donegan C, Haines A</AU>
+<TI>Evaluation of general practice computer templates. Lessons from a pilot randomised controlled trial</TI>
+<SO>Methods of Information in Medicine</SO>
+<YR>1999</YR>
+<VL>38</VL>
+<NO>3</NO>
+<PG>177-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2008-11-10 14:55:32 -0500" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Stark-2007" MODIFIED="2008-11-10 14:55:32 -0500" MODIFIED_BY="[Empty name]" NAME="Stark 2007" YEAR="2007">
+<REFERENCE MODIFIED="2008-11-10 14:55:32 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stark R, Helenius IM, Schimming LM, Takahara N, Kronish I, Korenstein D</AU>
+<TI>Real-time EBM: From bed board to keyboard and back</TI>
+<SO>Journal of General Internal Medicine</SO>
+<YR>2007</YR>
+<VL>22</VL>
+<NO>12</NO>
+<PG>1656-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-11-10 14:55:18 -0500" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2008-11-10 14:55:18 -0500" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Aarts-2004" NAME="Aarts 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Aarts J, Doorewaard H, Berg M</AU>
+<TI>Understanding implementation: The case of a computerized physician order entry system in a large Dutch university medical center</TI>
+<SO>Journal of American Medical Informatics Association</SO>
+<YR>2004</YR>
+<VL>11</VL>
+<NO>3</NO>
+<PG>207-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Allen-2000" MODIFIED="2008-11-10 14:55:18 -0500" MODIFIED_BY="[Empty name]" NAME="Allen 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Allen M, Kaufman D, Barrett A, Paterson G, Sargent J, Mcleod R</AU>
+<TI>Self-reported effects of computer workshops on physician's computer use</TI>
+<SO>Journal of Continuing Education for Health Professionals</SO>
+<YR>2000</YR>
+<VL>20</VL>
+<PG>20-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bennett-2003" NAME="Bennett 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Bennett JW, Glasziou PP</AU>
+<TI>Computerised reminders and feedback in medication management: a systematic review of randomised controlled trials</TI>
+<SO>The Medical Journal of Australia</SO>
+<YR>2003</YR>
+<VL>178</VL>
+<NO>5</NO>
+<PG>217-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Berner-2005" NAME="Berner 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Berner ES, Detmer DE, Simborg D</AU>
+<TI>Will the wave finally break ? A brief view of the adoption of electronic medical records in the United States</TI>
+<SO>Journal of American Medical Informatics Association</SO>
+<YR>2005</YR>
+<VL>12</VL>
+<NO>1</NO>
+<PG>3-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brooks-2006" NAME="Brooks 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Brooks RG, Menachemi N</AU>
+<TI>Physicians' use of email with patients: Factors influencing electronic communication and adherence to best practices</TI>
+<SO>Journal of Medical Internet Research</SO>
+<YR>2006</YR>
+<VL>8</VL>
+<NO>1</NO>
+<PG>e2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bull-2001" NAME="Bull 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Bull FC, Holt CL, Kreuter MW, Clark EM, Scharff D</AU>
+<TI>Understanding the effects of printed health education material: Which features lead to which outcomes?</TI>
+<SO>Journal of Health Communication</SO>
+<YR>2001</YR>
+<VL>6</VL>
+<NO>3</NO>
+<PG>265-79</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Burgers-2003" NAME="Burgers 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Burgers J, Grol R, Zaat J, Spies T, van der Bij A, Mokkink H</AU>
+<TI>Characteristics of effective guidelines for general practice</TI>
+<SO>British Journal of General Practice</SO>
+<YR>2003</YR>
+<VL>53</VL>
+<NO>486</NO>
+<PG>15-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Car-2004a" MODIFIED="2008-11-10 14:54:47 -0500" MODIFIED_BY="[Empty name]" NAME="Car 2004a" TYPE="JOURNAL_ARTICLE">
+<AU>Car J, Sheikh A</AU>
+<TI>Email consultations in health care: 1-scope and effectiveness</TI>
+<SO>BMJ</SO>
+<YR>2004</YR>
+<VL>329</VL>
+<PG>435-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Car-2004b" MODIFIED="2008-11-10 14:54:37 -0500" MODIFIED_BY="[Empty name]" NAME="Car 2004b" TYPE="JOURNAL_ARTICLE">
+<AU>Car J, Sheikh A</AU>
+<TI>Email consultations in health care: 2-acceptability and safe application</TI>
+<SO>BMJ</SO>
+<YR>2004</YR>
+<VL>329</VL>
+<PG>439-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Carman-1996" NAME="Carman 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Carman J, Shortell S, Foster R, Hughes E, Boerstler H, O'Connor EJ et al</AU>
+<TI>Keys for successful implementation of TQM in hospitals</TI>
+<SO>Health Care Management Review</SO>
+<YR>1996</YR>
+<VL>2</VL>
+<NO>1</NO>
+<PG>48-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Currell-2000" MODIFIED="2008-11-10 14:54:18 -0500" MODIFIED_BY="[Empty name]" NAME="Currell 2000" TYPE="COCHRANE_REVIEW">
+<AU>Currell R, Urquhart C, Wainwright P, Lewis R</AU>
+<TI>Telemedicine versus face-to-face patient care: effects on professional practice and healthcare outcomes (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2000</YR>
+<NO>2</NO>
+<PB>John Wiley and Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2008-10-16 15:18:24 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-10-16 15:18:24 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD002098"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Davis-1999" MODIFIED="2008-11-10 14:54:07 -0500" MODIFIED_BY="[Empty name]" NAME="Davis 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Davis D, O'Brien MA, Freemantle N, Wolf FM, Mazmanian P, Vaisey-Taylor A</AU>
+<TI>Impact of formal continuing education: Do conferences, workshops, rounds, and other traditional continuing education activities change physician behaviour or health care outcomes?</TI>
+<SO>JAMA</SO>
+<YR>1999</YR>
+<VL>282</VL>
+<NO>9</NO>
+<PG>867-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Donner-1981" MODIFIED="2008-11-10 14:54:27 -0500" MODIFIED_BY="[Empty name]" NAME="Donner 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Donner A, Birkett N, Buck C</AU>
+<TI>Randomization by cluster. Sample size requirements and analysis</TI>
+<SO>American Journal of Epidemiology</SO>
+<YR>1981</YR>
+<VL>114</VL>
+<PG>906-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Durieux-2008" MODIFIED="2008-11-10 14:53:59 -0500" MODIFIED_BY="[Empty name]" NAME="Durieux 2008" TYPE="COCHRANE_REVIEW">
+<AU>Durieux P, Trinquart L, Colombet I, Niès J, Walton R, Rajeswaran A, et al</AU>
+<TI>Computerized advice on drug dosage to improve prescribing practice</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2008</YR>
+<NO>2</NO>
+<PB>John Wiley and Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2008-10-16 14:19:34 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-10-16 14:19:34 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD002894.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-EPOC-2007" NAME="EPOC 2007" TYPE="OTHER">
+<AU>Cochrane Effective Practice and Organisation of Care Group</AU>
+<TI>Data Collection Checklist - EPOC Cochrane Effective Practice and Organisation of Care Group</TI>
+<SO>http://www.epoc.cochrane.org/en/handsearchers.html</SO>
+<YR>2007 - Feb 27</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Erstad-2003" MODIFIED="2008-11-10 14:53:45 -0500" MODIFIED_BY="[Empty name]" NAME="Erstad 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Erstad TL</AU>
+<TI>Analyzing computer-based patient records: a review of literature</TI>
+<SO>Journal of Healthcare Information Management</SO>
+<YR>2003</YR>
+<VL>17</VL>
+<NO>4</NO>
+<PG>51-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Eysenbach-2001" NAME="Eysenbach 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Eysenbach G</AU>
+<TI>What is e-health?</TI>
+<SO>Journal of Medical Internet Research</SO>
+<YR>2001</YR>
+<VL>3</VL>
+<NO>2</NO>
+<PG>e20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Farmer-2003" MODIFIED="2008-11-10 14:53:37 -0500" MODIFIED_BY="[Empty name]" NAME="Farmer 2003" TYPE="COCHRANE_REVIEW">
+<AU>Farmer AP, Légaré F, McAuley LM, Thomas R, Harvey EL, McGowan J, et al</AU>
+<TI>Printed educational materials: effects on professional practice and health care outcomes (Protocol)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2003</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2008-10-16 14:07:57 -0400" MODIFIED_BY="[Empty name]"/>
+</REFERENCE>
+<REFERENCE ID="REF-Foy-2002" NAME="Foy 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Foy R, McLennan G, Grimshaw J, Penney G, Campbell M, Grol R</AU>
+<TI>Attributes of clinical recommendations that influcence change in practice following audit and feedback</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>2002</YR>
+<VL>55</VL>
+<PG>717-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gagnon-2005" MODIFIED="2008-11-10 14:53:19 -0500" MODIFIED_BY="[Empty name]" NAME="Gagnon 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Gagnon M-P, Lamothe L, Fortin J-P, Godin G, Gagné C, Reinharz D et al</AU>
+<TI>Telehealth adoption in hospitals: an organisational perspective</TI>
+<SO>Journal of Health Organization and Management</SO>
+<YR>2005</YR>
+<VL>19</VL>
+<NO>1</NO>
+<PG>32-56</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Garg-2003" NAME="Garg 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Garg A, Turtle KM</AU>
+<TI>Effectiveness of training health professionals in literature search skills using electronic health databases - a critical appraisal</TI>
+<SO>Health Information and Libraries Journal</SO>
+<YR>2003</YR>
+<VL>20</VL>
+<PG>33-41</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Garg-2005" MODIFIED="2008-11-10 14:53:13 -0500" MODIFIED_BY="[Empty name]" NAME="Garg 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Garg AX, Adhikari NKJ, McDonald H, Rosas-Arellano MP, Devereaux PJ, Beyene J, et al</AU>
+<TI>Effects of computerized clinical decision support systems on practitioner performance and patient outcomes. A systematic review</TI>
+<SO>JAMA</SO>
+<YR>2005</YR>
+<VL>293</VL>
+<PG>1223-38</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gov.-Canada-1999" NAME="Gov. Canada 1999" TYPE="OTHER">
+<AU>Governement of Canada</AU>
+<TI>Federal, Provincial and Territorial Advisory Committee on Population Health. Towards a healthy future. Second report on the health of Canadians</TI>
+<SO>Ottawa</SO>
+<YR>1999</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grilli-1994" NAME="Grilli 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Grilli R, Lomas J</AU>
+<TI>Evaluating the message: The relationship between compliance rate and the subject of a practice guideline</TI>
+<SO>Medical Care</SO>
+<YR>1994</YR>
+<VL>32</VL>
+<PG>202-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grimshaw-2004" NAME="Grimshaw 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Grimshaw JM, Eccles MP</AU>
+<TI>Is evidence-based implementation of evidence-based care possible?</TI>
+<SO>Medical Journal of Australia</SO>
+<YR>2004</YR>
+<VL>180</VL>
+<NO>6 Suppl</NO>
+<PG>S50-1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grimshaw-2004a" MODIFIED="2008-11-10 14:53:01 -0500" MODIFIED_BY="[Empty name]" NAME="Grimshaw 2004a" TYPE="JOURNAL_ARTICLE">
+<AU>Grimshaw JM, Thomas RE, MacLennan G, Fraser C, Ramsay CR, Vale L, et al</AU>
+<TI>Effectiveness and efficiency of guideline dissemination and implementation strategies</TI>
+<SO>Health Technology Assessment</SO>
+<YR>2004</YR>
+<VL>8</VL>
+<NO>6</NO>
+<PG>iii-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grol-1998" MODIFIED="2008-11-10 14:52:41 -0500" MODIFIED_BY="[Empty name]" NAME="Grol 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Grol R, Dalhuijsen J, Thomas S, Veld C, Rutten G, Mokkink H</AU>
+<TI>Attributes of clinical guidelines that influence of guidelines in general practice: Observational study</TI>
+<SO>BMJ</SO>
+<YR>1998</YR>
+<VL>317</VL>
+<PG>858-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grol-2004" NAME="Grol 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Grol R, Wensing M</AU>
+<TI>What drives change? Barriers to and incentives for achieving evidence-based practice</TI>
+<SO>Medical Journal of Australia</SO>
+<YR>2004</YR>
+<VL>180</VL>
+<NO>6 Suppl</NO>
+<PG>S57-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grol-2007" NAME="Grol 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Grol R, Bosch MC, Hulsher M, Eccles MP, Wensing M</AU>
+<TI>Planning and studying improvement in patient care: The use of theoretical perspectives</TI>
+<SO>The Milbank Quarterly</SO>
+<YR>2007</YR>
+<VL>85</VL>
+<NO>1</NO>
+<PG>93-138</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="doi:10.1111/j.1468-0009.2007.00478.x"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Health-Canada-2006" NAME="Health Canada 2006" TYPE="OTHER">
+<AU>Health Canada</AU>
+<TI>eHealth Thesaurus</TI>
+<SO>http://www.hc-sc.gc.ca/hcs-sss/ehealth-esante/res/thesaurus/index_e.html</SO>
+<YR>(last checked 03-27-2006)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jamtvedt-2006" MODIFIED="2008-10-16 15:19:19 -0400" MODIFIED_BY="[Empty name]" NAME="Jamtvedt 2006" TYPE="COCHRANE_REVIEW">
+<AU>Jamtvedt G, Young JM, Kristoffersen DT, O'Brien MA, Oxman AD</AU>
+<TI>Audit and feedback: effects on professional practice and healt care outcomes</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>2</NO>
+<PB>John Wiley and Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2008-10-16 15:19:19 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-10-16 15:19:19 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000259.pub2."/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Kanouse-1995" NAME="Kanouse 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Kanouse D, Kallich J, Kahan J</AU>
+<TI>Dissemination of effectiveness and outcomes research</TI>
+<SO>Health Policy</SO>
+<YR>1995</YR>
+<VL>34</VL>
+<PG>167-192</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kawamoto-2005" MODIFIED="2008-11-10 14:52:28 -0500" MODIFIED_BY="[Empty name]" NAME="Kawamoto 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Kawamoto K, Houlihan CA, Balas EA, Lobach DF</AU>
+<TI>Improving clinical practice using clinical decision support system: a systematic review of trials to identify features critical to success</TI>
+<SO>BMJ</SO>
+<YR>2005</YR>
+<VL>330</VL>
+<NO>7494</NO>
+<PG>765</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kimberly-1981" NAME="Kimberly 1981" TYPE="JOURNAL_ARTICLE">
+<AU>Kimberly JR, Evanisko MJ</AU>
+<TI>Organizational innovation: The influence of individual, organizational and contextual factors on hospital adoption of technological and administrative innovations</TI>
+<SO>Academy of Management Journal</SO>
+<YR>1981</YR>
+<VL>24</VL>
+<NO>4</NO>
+<PG>689-713</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kreuter-1996" NAME="Kreuter 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Kreuter MW, Strecher VJ</AU>
+<TI>Do tailored behaviour change messages enhance the effectiveness of health risk appraisals? Results from a randomized controlled trial</TI>
+<SO>Health Education Research</SO>
+<YR>1996</YR>
+<VL>11</VL>
+<NO>1</NO>
+<PG>97-105</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kreuter-2001" NAME="Kreuter 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Kreuter M, Holt C</AU>
+<TI>How do people process health information? Applications in an age of individualized communication</TI>
+<SO>Current Directions in Psychological Science</SO>
+<YR>2001</YR>
+<VL>10</VL>
+<NO>6</NO>
+<PG>206-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Laird-1990" NAME="Laird 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Laird N, Mosteller F</AU>
+<TI>Some statistical methods for combining experimental results</TI>
+<SO>International Journal of Technology Assessment in Health Care</SO>
+<YR>1990</YR>
+<VL>6</VL>
+<NO>5</NO>
+<PG>30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lapointe-1999" NAME="Lapointe 1999" TYPE="CONFERENCE_PROC">
+<AU>Lapointe L, Rivard S</AU>
+<TO>L'implantation d'un système d'information clinique</TO>
+<SO>ASAC Conference, St-John (N.-B.)</SO>
+<YR>1999</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lorenzi-1997" NAME="Lorenzi 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Lorenzi NM, Riley RT, Blyth AJ, Southon G, Dixon BJ</AU>
+<TI>Antecedents of the people and organizational aspects of medical informatics: Reviews of the literature</TI>
+<SO>Journal of American Medical Informatics Association</SO>
+<YR>1997</YR>
+<VL>4</VL>
+<NO>2</NO>
+<PG>79-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Markus-1983" NAME="Markus 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Markus ML</AU>
+<TI>Power, politics and MIS implementation</TI>
+<SO>Communications of the ACM</SO>
+<YR>1983</YR>
+<VL>26</VL>
+<NO>6</NO>
+<PG>430-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Marriott-2000" NAME="Marriott 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Marriott S, Palmer C, Lelliott P</AU>
+<TI>Disseminating healthcare information: Getting the message across</TI>
+<SO>Quality in Health Care</SO>
+<YR>2000</YR>
+<VL>9</VL>
+<PG>58-62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Massaro-1993" NAME="Massaro 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Massaro T</AU>
+<TI>Introducing physician order entry at a major academic medical center: I. Impact on organizational culture and behavior</TI>
+<SO>Academic Medicine</SO>
+<YR>1993</YR>
+<VL>68</VL>
+<NO>1</NO>
+<PG>20-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McLaughlin-1998" NAME="McLaughlin 1998" TYPE="JOURNAL_ARTICLE">
+<AU>McLaughlin J, Webster A</AU>
+<TI>Rationalising knowledge: IT systems, professional identities and power</TI>
+<SO>Sociological Review</SO>
+<YR>1998</YR>
+<VL>46</VL>
+<PG>781-802</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Moehr-2000" MODIFIED="2008-11-10 14:51:50 -0500" MODIFIED_BY="[Empty name]" NAME="Moehr 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Moehr J, Grant A</AU>
+<TI>Medical informatics and medical education in Canada in the 21st Century</TI>
+<SO>Clinical and Investigative Medicine</SO>
+<YR>2000</YR>
+<VL>23</VL>
+<NO>4</NO>
+<PG>275-280</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Murray-2005" MODIFIED="2008-10-16 15:19:36 -0400" MODIFIED_BY="[Empty name]" NAME="Murray 2005" TYPE="COCHRANE_REVIEW">
+<AU>Murray E, Burns J, See Tai S, Lai R, Nazareth I</AU>
+<TI>Interactive Health Communication Applications for people with chronic disease</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2005</YR>
+<NO>3</NO>
+<PB>John Wiley and Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2008-10-16 15:19:36 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-10-16 15:19:36 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD004274.pub4"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Oh-2005" NAME="Oh 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Oh H, Rizo C, Enkin M, Jadad A</AU>
+<TI>What is eHealth (3): A systematic review of published definitions</TI>
+<SO>Journal of the Medical Internet Research</SO>
+<YR>2005</YR>
+<VL>7</VL>
+<NO>1</NO>
+<PG>e1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Open-Clinical-2006" NAME="Open Clinical 2006" TYPE="OTHER">
+<TI>Open Clinical. E-Health</TI>
+<SO>http://www.openclinical.org/e-Health.html</SO>
+<YR>(last checked 03-27-2006)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pagliari-2005" NAME="Pagliari 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Pagliari C</AU>
+<TI>Implementing the National Programme for IT: what can we learn from the Scottish experience?</TI>
+<SO>Informatics in primary care</SO>
+<YR>2005</YR>
+<VL>13</VL>
+<PG>105-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pluye-2005" NAME="Pluye 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Pluye P, Grad R, Dunikowski LG, Stephenson R</AU>
+<TI>The impact of clinical information-retrieval technology on physicians: A literature review of quantitative, qualitative and mixed-method studies</TI>
+<SO>International Journal of Medical Informatics</SO>
+<YR>2005</YR>
+<VL>74</VL>
+<PG>745-68</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ramsay-2003" NAME="Ramsay 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Ramsay CR, Grilli R, Thomas RE, Matowe L, Grimshaw JM</AU>
+<TI>Interrupted time series designs in health technology assessment: Lessons from two systematic reviews of behavior change strategies</TI>
+<SO>International Journal of Technology Assessment in Health Care</SO>
+<YR>2003</YR>
+<VL>19</VL>
+<NO>4</NO>
+<PG>613-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Street-1997" NAME="Street 1997" TYPE="BOOK_SECTION">
+<AU>Street R, Rimal R</AU>
+<TI>Health promotion and interactive technology: A conceptual foundation</TI>
+<SO>Health promotion and interactive technology: Theoretical applications and future directions</SO>
+<YR>1997</YR>
+<PG>19-38</PG>
+<ED>Street R, Gold W, Manning T</ED>
+<PB>New Jersey: Lawrence Erlbaum Associates</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Tseng-1999" NAME="Tseng 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Tseng S, Fogg B</AU>
+<TI>Credibility and computing technology</TI>
+<SO>Communications of the ACM</SO>
+<YR>1999</YR>
+<VL>42</VL>
+<NO>5</NO>
+<PG>39-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wathen-2002" NAME="Wathen 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Wathen CN, Burkell J</AU>
+<TI>Believe it or not: Factors influencing credibility on the web</TI>
+<SO>Journal of the American Society for Information Science and Technology</SO>
+<YR>2002</YR>
+<VL>3</VL>
+<NO>2</NO>
+<PG>134-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2009-01-20 12:15:19 -0500" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2009-01-20 12:15:19 -0500" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:27:54 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bradley-2002">
+<CHAR_METHODS MODIFIED="2009-01-06 14:27:54 -0500" MODIFIED_BY="[Empty name]">
+<P>C-RCT.<BR/>Follow up of professionals: DONE<BR/>Blinded assessment: UNCLEAR<BR/>Overall protection against bias:<BR/>MODERATE</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>10 residents in a neonatal intensive care unit.<BR/>Country: USA.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. Real-time librarian instruction about EBM searching (during one month) + educational material.<BR/>2. Control.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Search strategy, perceptions, satisfaction and opinion about use of MEDLINE.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: electronic databases (MEDLINE).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:28:05 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Cabell-2001">
+<CHAR_METHODS MODIFIED="2009-01-06 14:28:05 -0500" MODIFIED_BY="[Empty name]">
+<P>C-RCT.<BR/>Follow-up of professionals: DONE.<BR/>Blinded assessment: DONE.<BR/>Overall protection against bias: MODERATE.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>48 residents in a university hospital-based internal medicine training program.<BR/>Country: USA.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. One-hour didactic session + use of well-built clinical question cards + practical sessions in clinical question building.<BR/>2. Control.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Use of library information system: number of log-ons, time spent searching, total searching volume, abstracts viewed, and full-text articles viewed.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: electronic databases (MEDLINE).</P>
+<P>Data missed to perform effect size calculation.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:28:10 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Cheng-2003">
+<CHAR_METHODS MODIFIED="2009-01-06 14:28:10 -0500" MODIFIED_BY="[Empty name]">
+<P>RCT.<BR/>Follow-up of professionals: NOT DONE.<BR/>Blinded assessment: UNCLEAR.<BR/>Overall protection against bias: MODERATE.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>800 hospital clinicians.<BR/>Country: Hong Kong (China).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. Three-hour training workshop (with supervised hands-on practice).<BR/>2. Control.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Clinical question formulation, awareness, knowledge, confidence and use of databases, attitude towards the use of electronic information services, searching skills.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: Internet, electronic databases</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:28:14 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Erickson-1998">
+<CHAR_METHODS MODIFIED="2009-01-06 14:28:14 -0500" MODIFIED_BY="[Empty name]">
+<P>RCT.<BR/>Follow-up of professionals: NOT DONE.<BR/>Blinded assessment: DONE.<BR/>Overall protection against bias:<BR/>MODERATE.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>31 obstetrics and gynecology residents training at an academic medical centre.<BR/>Country: USA.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. One-hour individual tutorial on MEDLINE with hands-on instruction: resident performing the searches.<BR/>2. One-hour individual tutorial with all searching conducted by the instructor.<BR/>3. Control.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>MEDLINE search frequency, duration, recall, precision and searcher satisfaction.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: electronic databases (MEDLINE).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:28:17 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Haynes-1991">
+<CHAR_METHODS MODIFIED="2009-01-06 14:28:17 -0500" MODIFIED_BY="[Empty name]">
+<P>RCT.<BR/>Follow-up of professionals: DONE (for main outcomes).<BR/>Blinded assessment: DONE (for main outcomes).<BR/>Overall protection against bias:<BR/>MODERATE.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>59 physicians and physicians-in-training of a teaching hospital.<BR/>Country: Canada.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. Introducing user fees for MEDLINE searching in clinical settings (pay group).<BR/>2. Continue searching without charge (no pay group).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Frequency and quality (number of citations per search, search recall, precision) of MEDLINE searching; effect on decision.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: electronic databases (MEDLINE).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:28:21 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Haynes-1993">
+<CHAR_METHODS MODIFIED="2009-01-06 14:28:21 -0500" MODIFIED_BY="[Empty name]">
+<P>RCT.<BR/>Follow-up of professionals: UNCLEAR.<BR/>Blinded assessment: DONE (for main outcomes).<BR/>Overall protection against bias: MODERATE.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>308 physicians and physicians-in-training from 6 departments of a teaching hospital.<BR/>Country: Canada.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Before randomisation: 2 hours of basic training.<BR/>1. Access to a clinical perceptor experienced in MEDLINE searching + audit &amp; feedback about search quality from a study librarian.<BR/>2. Control.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Nb of searches, search performance (nb relevant citations, precision, recall), cost and time/session, perception of searches worth and other perceptions.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: electronic databases (MEDLINE).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:28:25 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Haynes-2006">
+<CHAR_METHODS MODIFIED="2009-01-06 14:28:25 -0500" MODIFIED_BY="[Empty name]">
+<P>C-RCT.<BR/>Follow-up of professionals: DONE (for relevant outcomes).<BR/>Blinded assessment: DONE (for main outcomes).<BR/>Overall protection against bias: HIGH.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>203 physicians in a relatively sparsely populated area.<BR/>Country: Canada.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. Access to a full-serve version (of an existing digital library): included discipline-specific alerts to new articles and database of accumulated alerts.<BR/>2. A self-serve version: included a passive guide to evidence-based literature.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Utilisation of the service, utility, use of relevant evidence-based information, clinical usefulness.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: electronic databases, email for alerts.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-06 14:28:38 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Katz-2003">
+<CHAR_METHODS MODIFIED="2009-01-06 14:28:38 -0500" MODIFIED_BY="[Empty name]">
+<P>RCT.<BR/>Follow-up of professionals: DONE.<BR/>Blinded assessment: NOT DONE (for main outcomes).<BR/>Unit of analysis error.<BR/>Overall protection against bias:<BR/>LOW.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>98 physicians and residents in 2 university-affiliated primary care centers.<BR/>Country: USA.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. Access to a Triage-based email system promoted to the patients of intervention physicians (by cards given during clinic visits + flyers mailed + automatic response to each email) .<BR/>2. Control (no access to this triage-based email system).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Patient email use, phone calls, and visit distribution by physician; attitude about communication (physician and patient).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: email for provider-patient communication.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-20 12:15:19 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Magrabi-2007">
+<CHAR_METHODS MODIFIED="2009-01-20 12:15:19 -0500" MODIFIED_BY="[Empty name]">
+<P>C-RCT.<BR/>Follow-up of professionals: DONE (for relevant outcome).<BR/>Blinded assessment: DONE.<BR/>Overall protection against bias:<BR/>MODERATE.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>227 physicians (general practice) from across Australia.<BR/>Country: Australia.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. Advanced online training which provided additional guidance to answer clinical questions.<BR/>2. Control (standard tutorial).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Frequency of system use (associated with training); other outcomes not relevant here.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of technology: Online evidence retrieval system.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Simon-2005">
+<CHAR_METHODS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>ITS.<BR/>Methodology quality: good.<BR/>5 criteria: DONE.<BR/>3 criteria: NOT CLEAR.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>12 primary care internal medicine residents.<BR/>Country: USA.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>1. Residents were encouraged to access the Internet to obtain audit and feedback on their practice, with accompanying pertinent educational material (through a personal letter + a face-to face meeting).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Proportion of residents who accessed their profiles and change following the intervention in the proportion of patients whose care followed national guidelines.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of Technology: Internet for audit and feedback.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>Allocation concealment: A - Adequate B - Unclear C - Inadequate D - Not used</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Brilla-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of design other than those included.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Butzlaff-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Intervention not targeted at promoting adoption and use of a ICT.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Casebeer-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Primary outcomes do not mainly concern the adoption or use of the ICT application.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-D_x0027_Alessandro-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of design other than those included.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Eccles-2002">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Intervention not targeted to promoting adoption and use of a ICT.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Kronick-2003">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Outcomes: self-reported measures only.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lai-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Primary outcomes do not mainly concern the adoption or use of the ICT application.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lapinsky-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Intervention not targeted to promoting adoption and use of a ICT.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Levick-2005">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of design other than those included.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Liaw-2000">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Type of design other than those included.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Marshall-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Outcomes: no objective measure of clinical performance or process outcome.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Tai-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-10 14:49:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Outcomes do not concern the adoption or use of the ICT application.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Stark-2007">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Bradley-2002">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Cabell-2001">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Cheng-2003">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Erickson-1998">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Haynes-1991">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Haynes-1993">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Haynes-2006">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Katz-2003">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Magrabi-2007">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Simon-2005">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2009-02-04 15:08:48 -0500" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2009-02-04 15:08:48 -0500" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE>Interventions for promoting ICT adoption: effects on utilization</TITLE>
+<TABLE COLS="5" ROWS="17">
+<TR>
+<TH>
+<P>Study ID</P>
+</TH>
+<TH>
+<P>Type of intervention</P>
+</TH>
+<TH>
+<P>Primary outcome(s)</P>
+</TH>
+<TH>
+<P>Effect size</P>
+</TH>
+<TH>
+<P>Conclusion</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Bradley 2002</P>
+</TD>
+<TD>
+<P>Educational outreach visits; educational materials</P>
+</TD>
+<TD>
+<P>(1) Quality of the search strategy (post intervention): mean average (1 = hightest )</P>
+</TD>
+<TD>
+<P>(1) Score difference: - 0.08, 95% CI = -1.32 to 1.16, P = 0.90</P>
+</TD>
+<TD>
+<P>No significant effect of the intervention on quality of the search strategy immediately after intervention</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>(2) Quality of the search strategy (6-month follow-up): mean average (1= hightest )</P>
+</TD>
+<TD>
+<P>(2) Score difference : -2.75, 95% CI = -4.73 to -0.77, P = 0.007</P>
+</TD>
+<TD>
+<P>Intervention improved quality of the search strategy 6 months after the intervention</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Cabell 2001</P>
+</TD>
+<TD>
+<P>Didactic meetings; educational materials; Educational outreach visits</P>
+</TD>
+<TD>
+<P>(1) Search frequency (number of log-ons)</P>
+</TD>
+<TD>
+<P>No data for effect size calculations. Median: 2.1 vs 4.4, P &lt; 0.001</P>
+</TD>
+<TD>
+<P>A simple educational intervention increased resident searching activity</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Cheng 2003</P>
+</TD>
+<TD>
+<P>Educational meeting (workshop)</P>
+</TD>
+<TD>
+<P>(1) Proportion of professionals able to provide adequate clinical question</P>
+</TD>
+<TD>
+<P>(1) Intervention effect: 31%, 95% CI = 22% to 39%, P &lt; 0.00001</P>
+</TD>
+<TD>
+<P>The intervention increased the proportion of clinicians able to provide adequate clinical question</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Erickson 1998</P>
+</TD>
+<TD>
+<P>Educational meeting (individual tutorial)</P>
+</TD>
+<TD>
+<P>(1) Proportion of professionals who performed 3rd search</P>
+</TD>
+<TD>
+<P>(1) Intervention effect: -5%, 95% CI = -41% to 30%, P = 0.76</P>
+</TD>
+<TD>
+<P>No effect of the intervention on the proportion of residents performing the search</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>(2) Proportion of professional who performed 4th search</P>
+</TD>
+<TD>
+<P>(2) Intervention effect: -6%, 95% CI = -45% to 33%, P = 0.76</P>
+</TD>
+<TD>
+<P>No effect of the intervention on the proportion of residents performing the search</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>(3) Search frequency (mean number of log-ons)</P>
+</TD>
+<TD>
+<P>(3) Intervention effect: 0.22, 95% CI = -0.36 to 0.80, P = 0.45</P>
+</TD>
+<TD>
+<P>No significant difference was found as the result of the teaching intervention on search frequency</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Haynes 1991</P>
+</TD>
+<TD>
+<P>Financial interventions</P>
+</TD>
+<TD>
+<P>(1) Proportion of professionals who searched MEDLINE</P>
+</TD>
+<TD>
+<P>(1) Intervention effect: -35%, 95% CI = -57% to -13%, P = 0.002</P>
+</TD>
+<TD>
+<P>An economic intervention (introducing user fees for MEDLINE searching) was found to significantly reduce the proportion of professionals who conducted a search</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Haynes 1993</P>
+</TD>
+<TD>
+<P>Educational outreach visits; audit and feedback</P>
+</TD>
+<TD>
+<P>(1) Proportion of professionals successful at the 4th search.</P>
+</TD>
+<TD>
+<P>(1) Intervention effect: -5%, 95% CI = -24% to 14%, P = 0.62</P>
+</TD>
+<TD>
+<P>No significant effect of the intervention on the proportion of participants who conducted a successful search</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>(2) Proportion of professionals successful at the 8th search</P>
+</TD>
+<TD>
+<P>(2) Intervention effect: 8%, 95%CI = -11% to 27%, P = 0.39</P>
+</TD>
+<TD>
+<P>No significant effect of the intervention on the proportion of participants who conducted a successful search</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Haynes 2006</P>
+</TD>
+<TD>
+<P>Educational material (Internet)</P>
+</TD>
+<TD>
+<P>(1) Proportion of professionals using the digital library</P>
+</TD>
+<TD>
+<P>(1) Intervention effect: 13%, 95% CI = 2% to 23%, P = 0.02</P>
+</TD>
+<TD>
+<P>Significant benefits ot intervention on proportion of professionals using the digital library</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>(2) Search frequency (mean log-ons/month/user)</P>
+</TD>
+<TD>
+<P>(2) Intervention effect : 0.34, 95% CI = 0.03 to 0.65, P = 0.03</P>
+</TD>
+<TD>
+<P>The intervention increased the search frequency among those who used the digital library service</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Katz 2003</P>
+</TD>
+<TD>
+<P>Organisational intervention (access to a triage-based email system)</P>
+</TD>
+<TD>
+<P>(1) Average number of weekly patient emails per 100 scheduled visits</P>
+</TD>
+<TD>
+<P>No data for effect size calculations<BR/>Adusted IRR for differences in trends = 3.6, 95% CI = 2.1 to 6.2, P &lt; 0.001 (trend of increased email volume)</P>
+</TD>
+<TD>
+<P>Intervention increased the volume of email but without decrease in phone volume and visit no-shows</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Magrabi 2007</P>
+</TD>
+<TD>
+<P>Educational material (online training)</P>
+</TD>
+<TD>
+<P>(1) Frequency of use (mean number of searches)</P>
+</TD>
+<TD>
+<P>(1) Intervention effect: -0.07, 95% CI = -0.37 to 0.23, P = 0.64</P>
+</TD>
+<TD>
+<P>No significant effect of the intervention on frequency of use</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Simon 2005</P>
+</TD>
+<TD>
+<P>Audit and feedback</P>
+</TD>
+<TD>
+<P>(1) Frequency of residents accessing website</P>
+</TD>
+<TD>
+<P>4/12 residents accessed the website</P>
+</TD>
+<TD>
+<P>The study reported no effect of the intervention given to all participants</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2008-11-10 14:59:19 -0500" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Dichotomous data</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.39153326633982655" CI_START="0.22333529641285244" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.3074342813763395" ESTIMABLE="YES" EVENTS_1="175" EVENTS_2="103" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.407231332522905" LOG_CI_START="-0.6510426346269444" LOG_EFFECT_SIZE="-0.5122477068347507" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="0.0" P_Z="7.784807346595428E-13" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="237" TOTAL_2="239" WEIGHT="100.0" Z="7.16489169723261">
+<NAME>Proportion of professionals able to provide adequate clinical question</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.39153326633982655" CI_START="0.22333529641285244" EFFECT_SIZE="0.3074342813763395" ESTIMABLE="YES" EVENTS_1="175" EVENTS_2="103" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1" O_E="0.0" SE="0.04290843384207522" STUDY_ID="STD-Cheng-2003" TOTAL_1="237" TOTAL_2="239" VAR="0.0018411336947797457" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.29976471611054123" CI_START="-0.4084603682844543" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.05434782608695654" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="6" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.5232194872325387" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" NO="2" P_CHI2="1.0" P_Q="0.0" P_Z="0.7635611316763354" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="23" TOTAL_2="8" WEIGHT="100.00000000000001" Z="0.3008077068026368">
+<NAME>Proportion of professionals who performed 3rd search</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.29976471611054123" CI_START="-0.4084603682844543" EFFECT_SIZE="-0.05434782608695654" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="6" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="2" O_E="0.0" SE="0.1806729842949627" STUDY_ID="STD-Erickson-1998" TOTAL_1="23" TOTAL_2="8" VAR="0.032642727254047835" WEIGHT="100.00000000000001"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.2042627719952687E-33" CI_END="0.3321195969162025" CI_START="-0.45168481430750695" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.05978260869565221" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="5" I2="100.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-0.4787054978389206" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.7649536735611306" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="23" TOTAL_2="8" WEIGHT="100.00000000000001" Z="0.29898213959371767">
+<NAME>Proportion of professionals who performed 4th search</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.3321195969162025" CI_START="-0.45168481430750695" EFFECT_SIZE="-0.05978260869565222" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="5" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="3" O_E="0.0" SE="0.1999537791016209" STUDY_ID="STD-Erickson-1998" TOTAL_1="23" TOTAL_2="8" VAR="0.039981513777019806" WEIGHT="100.00000000000001"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.23018471765683562" CI_START="0.02015541839758611" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.12517006802721087" ESTIMABLE="YES" EVENTS_1="86" EVENTS_2="79" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="-0.63792351327627" LOG_CI_START="-1.6956081820866244" LOG_EFFECT_SIZE="-0.9024995117386397" METHOD="MH" NO="4" P_CHI2="1.0" P_Q="0.0" P_Z="0.0194839949422942" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="98" TOTAL_2="105" WEIGHT="100.0" Z="2.336139063844996">
+<NAME>Proportion of professionals using the digital library service</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.23018471765683562" CI_START="0.02015541839758611" EFFECT_SIZE="0.12517006802721087" ESTIMABLE="YES" EVENTS_1="86" EVENTS_2="79" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="4" O_E="0.0" SE="0.05357988741526217" STUDY_ID="STD-Haynes-2006" TOTAL_1="98" TOTAL_2="105" VAR="0.0028708043354321693" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="-0.1306254298895153" CI_START="-0.5682251448231284" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.34942528735632183" ESTIMABLE="YES" EVENTS_1="15" EVENTS_2="26" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="NaN" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" NO="5" P_CHI2="1.0" P_Q="0.0" P_Z="0.001747589190127359" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="29" TOTAL_2="30" WEIGHT="100.0" Z="3.130079637322653">
+<NAME>Proportion of professionals who searched MEDLINE</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="-0.1306254298895153" CI_START="-0.5682251448231284" EFFECT_SIZE="-0.34942528735632183" ESTIMABLE="YES" EVENTS_1="15" EVENTS_2="26" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="5" O_E="0.0" SE="0.1116346316527609" STUDY_ID="STD-Haynes-1991" TOTAL_1="29" TOTAL_2="30" VAR="0.012462290984247604" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.1427267766568628" CI_START="-0.240287752266619" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.04878048780487809" ESTIMABLE="YES" EVENTS_1="29" EVENTS_2="31" I2="0.0" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="-0.8454945422083395" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" NO="6" P_CHI2="1.0" P_Q="0.0" P_Z="0.6176106419513483" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="41" TOTAL_2="41" WEIGHT="100.0" Z="0.4992395432861339">
+<NAME>Proportion of professionals successful at the 4th search</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.1427267766568628" CI_START="-0.240287752266619" EFFECT_SIZE="-0.04878048780487809" ESTIMABLE="YES" EVENTS_1="29" EVENTS_2="31" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="6" O_E="0.0" SE="0.09770958342720874" STUDY_ID="STD-Haynes-1993" TOTAL_1="41" TOTAL_2="41" VAR="0.009547162693518666" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.272713473523177" CI_START="-0.10740182040664567" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.08265582655826564" ESTIMABLE="YES" EVENTS_1="33" EVENTS_2="26" I2="0.0" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="-0.5642934050278683" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-1.0827265268122743" METHOD="MH" NO="7" P_CHI2="1.0" P_Q="0.0" P_Z="0.3939999966516713" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="41" TOTAL_2="36" WEIGHT="100.0" Z="0.8523858195324235">
+<NAME>Proportion of professionals successful at the 8th search</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.272713473523177" CI_START="-0.10740182040664567" EFFECT_SIZE="0.08265582655826564" ESTIMABLE="YES" EVENTS_1="33" EVENTS_2="26" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="7" O_E="0.0" SE="0.09696996907293286" STUDY_ID="STD-Haynes-1993" TOTAL_1="41" TOTAL_2="36" VAR="0.009403174902005556" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" MODIFIED="2008-11-10 14:59:19 -0500" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Continuous data</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="1.159788676104536" CI_START="-1.3210532889021886" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.08063230639882626" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.8986194882246998" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="5" TOTAL_2="5" UNITS="" WEIGHT="100.0" Z="0.12740546859595683">
+<NAME>Quality of the search strategy (post-intervention)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.159788676104536" CI_START="-1.3210532889021886" EFFECT_SIZE="-0.08063230639882626" ESTIMABLE="YES" MEAN_1="3.3" MEAN_2="3.4" ORDER="8" SD_1="1.1" SD_2="1.14" SE="0.6328794775249161" STUDY_ID="STD-Bradley-2002" TOTAL_1="5" TOTAL_2="5" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-0.765519229214789" CI_START="-4.730317184843208" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-2.7479182070289982" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" MODIFIED="2008-11-10 14:59:19 -0500" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.006591249109035855" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="5" TOTAL_2="5" UNITS="" WEIGHT="100.0" Z="2.716819761568439">
+<NAME>Quality of the search strategy (6-month follow up)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.765519229214789" CI_START="-4.730317184843208" EFFECT_SIZE="-2.7479182070289982" ESTIMABLE="YES" MEAN_1="2.0" MEAN_2="3.8" ORDER="9" SD_1="0.35" SD_2="0.76" SE="1.011446635474488" STUDY_ID="STD-Bradley-2002" TOTAL_1="5" TOTAL_2="5" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="8.79999063245475E-33" CI_END="0.8018987377344271" CI_START="-0.3579122537985404" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.22199324196794332" ESTIMABLE="YES" I2="99.99999999999999" I2_Q="0.0" ID="CMP-002.03" NO="3" P_CHI2="0.0" P_Q="1.0" P_Z="0.45307854923744295" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="23" TOTAL_2="23" UNITS="" WEIGHT="99.99999999999999" Z="0.750292525669838">
+<NAME>Mean signs-on</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.8018987377344271" CI_START="-0.35791225379854047" EFFECT_SIZE="0.2219932419679433" ESTIMABLE="YES" MEAN_1="3.2" MEAN_2="2.5" ORDER="10" SD_1="3.6" SD_2="2.5" SE="0.2958755876846229" STUDY_ID="STD-Erickson-1998" TOTAL_1="23" TOTAL_2="23" WEIGHT="99.99999999999999"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.6481264742227795" CI_START="0.03273625340814584" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.34043136381546263" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.030121562409971162" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="86" TOTAL_2="79" UNITS="" WEIGHT="100.0" Z="2.168488187553248">
+<NAME>Mean logins/month/user</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.6481264742227795" CI_START="0.03273625340814584" EFFECT_SIZE="0.34043136381546263" ESTIMABLE="YES" MEAN_1="0.23" MEAN_2="-0.69" ORDER="11" SD_1="2.69" SD_2="2.69" SE="0.15699018595973016" STUDY_ID="STD-Haynes-2006" TOTAL_1="86" TOTAL_2="79" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.22831982345386537" CI_START="-0.37360652290214535" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.07264334972414001" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.05" NO="5" P_CHI2="1.0" P_Q="1.0" P_Z="0.6361592089923132" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="63" TOTAL_2="130" UNITS="" WEIGHT="100.0" Z="0.47307565132379864">
+<NAME>Mean number of searches</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.22831982345386537" CI_START="-0.37360652290214535" EFFECT_SIZE="-0.07264334972414001" ESTIMABLE="YES" MEAN_1="8.98" MEAN_2="9.77" ORDER="12" SD_1="7.96" SD_2="11.97" SE="0.1535554609941634" STUDY_ID="STD-Magrabi-2007" TOTAL_1="63" TOTAL_2="130" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

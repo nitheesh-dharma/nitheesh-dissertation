@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003537" GROUP_ID="AIRWAYS" ID="796100051811212538" MERGED_FROM="" MODIFIED="2008-07-30 15:10:57 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Exported from Review Manager 4.2.1&lt;br&gt;25/11/01 Co-Ed by Paul Jones:&lt;br&gt;In a number of analyses, data from bone density from Euroscop and Tattersfield neck of femur and lumbar spine were combined in the same total metaanalysis result, which is incorrect. The same patients were being assessed and the outcomes would have been highly correlated. There are also a number of incorrect analyses for example combining crossover and parallel group trials. &lt;br&gt;The abstract has 540 words. The collaboration specifies 250. I have cut it down to around 350. I have also discussed the low mean age and male predominance (ie the trials were done in lower risk patients). The Euroscop patients did have mild COPD, but were perhaps closer to asthmatics in terms of age than ISOLDE and the Lung Health 2 study.  I have included them in the reference list and referred to them in the text. (1. Burge et alRandomised, double blind, placebo controlled study of fluticasone propionate in patients with moderate to severe chronic obstructive pulmonary disease: the ISOLDE trial. Bmj 2000;320:1297-303.  2. Wise et al. Effect of inhaled triamcinolone on the decline in pulmonary function in chronic obstructive pulmonary disease. New England Journal of Medicine 2000;343:1902-9.) I think the review needs to be up dated to bring these in.&lt;/p&gt;&lt;p&gt;&lt;br&gt;8/5/2001 Technical editing by CJC. 7/6/01 COMMENTS BY JKF&lt;br&gt;1. The contributions section needs to be completed please as does the synopsis  COMPLETED &lt;br&gt;2. Methods of the review have been pasted from elsewhere, please check this (proposed analysis to be carried out and how etc) SOME ALTERATIONS MADE.&lt;br&gt;3. Which of the studies falls into the Cochrane and Jadad scores given ( please insert as links!) THIS WAS IN THE TABLE OF CHARACTERISTICS OF INCLUDED STUDIES&lt;br&gt;4. The included studies have been renamed with their dates and links activated for them THANKS&lt;br&gt;5.  I have started to alter the labels on the graphs for the first outcome but am unsure whether Alk Phos and PTH are good or bad outcomes.  The results section is muddled on this SEE SENTENCE AT END OF METHOD WHICH SAID &amp;quot;FALLS IN ALK PHOS AND OSTEOCALCIN WERE HARMFUL, AS WERE RISES IN PTH OR URINARY HYDROXYPROLINE&amp;quot; - I HAVE MADE A FEW SMALL ADDITIONS TO THE TWO PARAS 2ND AND 3RD FROM THE END OF THE BACKGROUND TO TRY AND MAKE THIS CLEARER. dO WE NEED TO REPEAT THIS SOMEWHERE ELSE DO YOU THINK? and does seem to fit with the background which suggests that Alk Phos is a marker of bone deposition (hence good) yet the higher levels in the treatment group are reported as favouring control?  Please could this be clarified and then could the graph labels be altered so that favours treatment and favours control are the other way around for beneficial outcomes (such as bone density and osteocalcin levels). LABELS AND SCALES ALL clarified ALTERED, AS PER OUR EMAIL CORRESPONDENCE.  &lt;br&gt;6.  Sub-totals only should be used for Bone Mineral Density to avoid counting EUROSCOP patients twice in the analysis ( I have done this). THANKS&lt;br&gt;7.  Odds Ratio for Fractures was wrongly recorded as ?0.59; I have changed this to 1.70 as shown in Meta-view. THANKS&lt;br&gt;8.  One reason for the difference in the PTH and osteocalcin for the lower dose patients is that the standard deviation is much less for the treated 10 patients at lower dose than for the total 20 patients on high and low doses.  Please check the original data (NOTED &amp;amp; CHECKED PREVIOUSLY BY KH (STATISTICIAN) and maybe comment on why this might be in your discussion SIMPLY BASELINE DIFFERENCES?&lt;/p&gt;&lt;p&gt;Tech edit 12/6/01 CJC&lt;br&gt;Thanks for altering all this.  Residual labelling of graph for BMD has been corrected I'M NOT SURE ABOUT THIS cHRIS. i THINK THEY WERE RIGHT BEFORE. A FALL IN BMD IS A BAD THING (LOWER NUMBER WORSE). HOWEVER IT HAS BEEN MEASURED AS A PERCENTAGE FALL, SO THE HIGHER THE PERCENTAGE, THE WORSE THE RESULT, THUS WHY I LABELLED THEM THE OTHER WAY ROUND. CAN YOU CHECK? I HAVE NOT CHANGED THEM BACK YET. and the text results amended to those shown on Meta-view.  Could you confirm that the new text results are correct from your point of view please Jeanne (or else why are they not the same as those in Metaview?)THANKS. I'M NOT SURE WHAT HAPPENED THERE AS I'M SURE I'D CHANGED THEM ALL LAST TIME ROUND - PERHAPS I DIDN'T SAVE THEM OR DID IT ON AN OLD VERSION.  THEY SEEM FINE NOW   Please return to me when you are happy with this and I will pass the review on.  I have also run spell check (Osteocalcin is the correct spelling isn't it? YES If not please remedy!!)&lt;br&gt;Chris.&lt;/p&gt;" NOTES_MODIFIED="2008-07-30 14:08:14 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" REVIEW_NO="BONE-AST/COP" REVMAN_SUB_VERSION="5.0.14" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="4.0">
+<COVER_SHEET MODIFIED="2008-07-30 15:10:57 +0200" MODIFIED_BY="Toby Lasserson">
+<TITLE>Inhaled corticosteroid effects on bone metabolism in asthma and mild chronic obstructive pulmonary disease</TITLE>
+<CONTACT MODIFIED="2008-07-30 15:10:57 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="7708" ROLE="AUTHOR"><PREFIX>Dr.</PREFIX><FIRST_NAME>Alan</FIRST_NAME><LAST_NAME>Jones</LAST_NAME><EMAIL_1>airways@sgul.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Department of General Practice</DEPARTMENT><ORGANISATION>University of Wales College of Medicine</ORGANISATION><CITY>Cardiff</CITY><REGION>Wales</REGION><COUNTRY CODE="GB">UK</COUNTRY></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2008-07-30 15:10:57 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="7708" ROLE="AUTHOR"><PREFIX>Dr.</PREFIX><FIRST_NAME>Alan</FIRST_NAME><LAST_NAME>Jones</LAST_NAME><EMAIL_1>airways@sgul.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Department of General Practice</DEPARTMENT><ORGANISATION>University of Wales College of Medicine</ORGANISATION><CITY>Cardiff</CITY><REGION>Wales</REGION><COUNTRY CODE="GB">UK</COUNTRY></ADDRESS></PERSON><PERSON ID="12413" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Jeanne</FIRST_NAME><MIDDLE_INITIALS>K</MIDDLE_INITIALS><LAST_NAME>Fay</LAST_NAME><POSITION>GP Principal</POSITION><EMAIL_1>jeanne.fay@gp-K84013.nhs.uk</EMAIL_1><ADDRESS><ORGANISATION>St Bartholomew's Medical Centre</ORGANISATION><ADDRESS_1>Manzil Way</ADDRESS_1><ADDRESS_2>Cowley Road</ADDRESS_2><CITY>Oxford</CITY><ZIP>OX4 1XB</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44  01865 242334</PHONE_1><FAX_1>+44  01865 204018</FAX_1></ADDRESS></PERSON><PERSON ID="7247" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Michael</FIRST_NAME><MIDDLE_INITIALS>L</MIDDLE_INITIALS><LAST_NAME>Burr</LAST_NAME><POSITION>Reader and Consultant in Public Health Medicine</POSITION><EMAIL_1>BurrML@cf.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Centre for Applied Public Health Medicine</DEPARTMENT><ORGANISATION>University College of Medicine</ORGANISATION><ADDRESS_1>Temple of Peace and Health</ADDRESS_1><ADDRESS_2>Cathays Park</ADDRESS_2><CITY>Cardiff</CITY><ZIP>CF14 4XN</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 (0)29 2074 2321</PHONE_1><FAX_1>+44 (0)29 2074 2898</FAX_1></ADDRESS></PERSON><PERSON ID="12508" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Mike</FIRST_NAME><LAST_NAME>Stone</LAST_NAME><POSITION>Consultant Physician</POSITION><EMAIL_1>stonemd@cardiff.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>The Bone Research Unit,</DEPARTMENT><ORGANISATION>University of Wales College of Medicine</ORGANISATION><ADDRESS_1>Academic Centre</ADDRESS_1><ADDRESS_2>Llandough Hospital</ADDRESS_2><CITY>Penarth</CITY><ZIP>CF64 2XX</ZIP><REGION>Cardiff</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+ 44 29 2071 6957</PHONE_1><FAX_1>+ 44 29 2070 7628</FAX_1></ADDRESS></PERSON><PERSON ID="12430" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Kerry</FIRST_NAME><LAST_NAME>Hood</LAST_NAME><POSITION>Director, South East Wales Trials Unit (SEWTU) </POSITION><EMAIL_1>hoodk1@cf.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Department of Primary Care and Public Health, School of Medicine</DEPARTMENT><ORGANISATION>Cardiff University</ORGANISATION><ADDRESS_1>2nd Floor Neuadd Meirionnydd </ADDRESS_1><ADDRESS_2>Heath Park </ADDRESS_2><CITY>Cardiff</CITY><ZIP>CF14 4YS</ZIP><REGION>Wales</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+ 44 29 2068 7195 </PHONE_1></ADDRESS></PERSON><PERSON ID="12484" ROLE="AUTHOR"><PREFIX>Mr</PREFIX><FIRST_NAME>Gwyn</FIRST_NAME><LAST_NAME>Roberts</LAST_NAME><POSITION>Research Officer</POSITION><ADDRESS><DEPARTMENT>Dept. of General Practice at Gorseinon</DEPARTMENT><ORGANISATION>University of Wales College of Medicine</ORGANISATION><ADDRESS_1>General Practice Research Unit</ADDRESS_1><ADDRESS_2>Princess Street Surgery</ADDRESS_2><CITY>Gorseinon</CITY><ZIP>SA4  4US</ZIP><REGION>Swansea</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>0044 1792 898456</PHONE_1><FAX_1>0044 1792 899675</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-07-30 15:10:57 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Minor update: 25/11/01&lt;/p&gt;">
+<UP_TO_DATE>
+<DATE DAY="11" MONTH="10" YEAR="2001"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="11" MONTH="10" YEAR="2001"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="1999"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2002"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2002"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="30" MONTH="7" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="11" MONTH="10" YEAR="2001"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Department of General Practice, University of Wales College of Medicine</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Wales Office of Research &amp; Development for Health and Social Care, The National Assembly for Wales</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Garfield Weston Foundation</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-07-30 13:56:44 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2008-07-30 13:47:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-07-30 13:47:32 +0100" MODIFIED_BY="Toby J Lasserson">Inhaled corticosteroid effects on bone metabolism in asthma and mild chronic obstructive pulmonary disease</TITLE>
+<SUMMARY_BODY>
+<P>Usual doses of corticosteroids for two or three years for asthma does not weaken bones in younger patients, although long term outcomes and after high doses need more research.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Inhaled corticosteroids form the main therapy for asthma, but there is increasing concern about the potential systematic effects of long-term inhaled corticosteroids including their effect on bone metabolism and bone loss. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine the effect of inhaled corticosteroids use on biochemical markers of bone turnover, bone mineral density and the development of fractures.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Airways Group trials register, electronic reference databases, UK National Research Register, bibliographies of included studies, and contacted pharmaceutical companies.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised trials of the effect of inhaled steroid versus placebo on markers of bone function and metabolism, in adults with asthma or mild COPD.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Trial quality was assessed and data extracted from the papers included (2 reviewers per paper) and from additional data supplied by the authors.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Of 438 references found, seven met the inclusion criteria. Three studies were in healthy subjects asthma or COPD. The patients were generally less than 60 years old and the male:female ratio was 2:1. There was no evidence of increased risk of loss of bone mineral density (BMD) or fractures. There was no significant change in osteocalcin at conventional doses of inhaled corticosteroids (Standardised Mean Difference [SMD] -0.34 (95% Confidence Interval [CI] -0.72, 0.04), although a statistically significant change was seen in those studies using experimental doses of inhaled steroid in excess of the doses recommended by the British Thoracic Society SMD 0.97 (95% CI -1.61, -0.34). A statistically significant change in parathyroid hormone seen in one small short trial (n=10, 6 weeks) may have been due to the trial design and outcome measurements used.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>In patients with asthma or mild COPD, there is no evidence of an effect of inhaled corticosteroid at conventional doses given for two or three years on BMD or vertebral fracture. Higher doses were associated with biochemical markers of increased bone turnover, but data on BMD and fractures at these doses are not available. There is a need for further, even longer term prospective studies of conventional and high doses of inhaled corticosteroids. </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-07-30 13:56:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND>
+<P>Inhaled corticosteroids form the main therapy for asthma, but there is increasing concern about the potential systematic effects of long term inhaled corticosteroids including: bone loss, adrenal suppression, skin thinning, increased cataract formation, decreased linear growth in children, metabolic changes and behavioural abnormalities (<LINK REF="REF-Hanania-1995" TYPE="REFERENCE">Hanania 1995</LINK>). </P>
+<P>There is evidence that inhaled steroids affect bone metabolism (<LINK REF="REF-Agertoft-1994" TYPE="REFERENCE">Agertoft 1994</LINK>), reduces osteocalcin concentrations in health volunteers (<LINK REF="REF-Teelucksingh-1991" TYPE="REFERENCE">Teelucksingh 1991</LINK>) and reduce lumbar spine density (<LINK REF="REF-Anderson-1994" TYPE="REFERENCE">Anderson 1994</LINK>). Evidence of the potential risk of bone fractures in patients receiving long-term inhaled steroid therapy (<LINK REF="REF-Toogood-1995" TYPE="REFERENCE">Toogood 1995</LINK>) could be greater than is suggested by the loss in bone mineral density (<LINK REF="REF-Luengo-1991" TYPE="REFERENCE">Luengo 1991</LINK>).</P>
+<P>Disturbances of bone metabolism are important because of their potential to cause fractures, but fractures are infrequent, requiring extended periods of follow up and long study periods. For this reason biochemical markers of bone metabolism have often been used as surrogate measurements of effects on the bones. Osteoporosis results from an imbalance between bone resorption (measured by, for example, parathyroid hormone and urinary hydroxyproline) and bone formation (measured by, for example, alkaline phosphatase and osteocalcin), with a relative excess of bone resorption causing bone loss in age related osteoporosis. The effect of corticosteroids on bone is primarily to reduce bone formation by a negative effect on osteoblastic function and life span. This is reflected by reductions in markers of bone formation, particularly in osteocalcin concentrations. </P>
+<P>Several publications now confirm the validity of biochemical markers in predicting changes in bone turnover (<LINK REF="REF-Garnero-1998" TYPE="REFERENCE">Garnero 1998</LINK>, <LINK REF="REF-Miller-1999" TYPE="REFERENCE">Miller 1999</LINK>). The bone turnover value of biochemical markers partly reflects the strong correlation with bone mineral density but evidence also exists for an effect independent and additive to bone density measurements. The best validated biochemical markers of bone formation include serum alkaline phosphatase (both total and bone specific), osteocalcin and carboxyterminal propeptide of type 1 procollagen (PICP). Whilst the best validated resorption markers encompass urinary pyridinoline cross links of type I collagen, hydroxyproline, C-terminal and N-terminal telopeptides of collagen. Although anti resorptive therapy reduces bone turnover, at present it is not certain whether biochemical markers are clinically useful for individual patients (<LINK REF="REF-Riggs-2000" TYPE="REFERENCE">Riggs 2000</LINK>).</P>
+<P>This review was planned as a review of inhaled corticosteroids in asthma supported by data from studies in healthy people. Since then, three large 3-year studies of inhaled corticosteroids in COPD have been published. In one of these (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>), the patients had mild disease (FEV1 73% predicted) and were quite young (mean 52 years). The patients in the other two (<LINK REF="REF-Burge-2000b" TYPE="REFERENCE">Burge 2000b</LINK>, <LINK REF="REF-Wise-2000b" TYPE="REFERENCE">Wise 2000b</LINK>) were older (mean 56-65 years) and with more severe airways obstruction (FEV1 50 - 65% predicted). For this review, we have included just <LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>, the other trials will be considered in a revised version of this review.<BR/>
+</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To determine whether use of inhaled corticosteroids has a harmful effect on bone, in terms of development of fractures, a reduction in bone mineral density (BMD), or changes in specified biochemical markers.<BR/>A secondary objective was to explore the potential for biochemical markers to predict patients at increased risk of osteoporosis and fractures.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-07-30 13:55:29 +0100" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA MODIFIED="2008-07-30 13:55:15 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>Randomised controlled trials</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Adults with or without a clinical diagnosis of asthma or chronic obstructive pulmonary disease (COPD).</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Randomisation to an inhaled corticosteroid or matching placebo.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-07-30 13:55:15 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Osteoporosis as suggested by:</P>
+<P>Bone fracture (by type)<BR/>Bone Mineral Density<BR/>Bone Metabolism measures:<BR/>total alkaline phosphatase<BR/>bone-specific alkaline phosphatase<BR/>serum osteocalcin<BR/>amino terminal propeptide of type I procollagen (PINP)<BR/>carboxyterminal propeptide of type 1 procollagen (PICP)<BR/>urinary hydroxyproline/creatinine<BR/>urinary calcium:creatine ratio<BR/>urinary galactosyl hydroxylysine<BR/>pyridinium (cross-links)<BR/>pyridinoline (PYD)<BR/>deoxypyridinoline (DPD)<BR/>N-terminal cross-linked telopeptide (NTX)<BR/>C-terminal cross-linked telopeptide (CTX)<BR/>type I collagen C-telopeptide (ICTP)<BR/>tartrate resistant acid phosphatase (TRAP)<BR/>plasma parathyroid hormone</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-07-30 13:55:29 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>An advanced search was carried out on the following databases: MEDLINE, EMBASE, CINAHL, SCIENCE CITATION INDEX (BIDS ISI) and the COCHRANE TRIALS REGISTER (CCTR).</P>
+<P>The studies were identified using the following search strategy:</P>
+<P>1. STEROID$.tw.<BR/>2. CORTICOSTEROID$.tw.<BR/>3. CORTICO-STEROID$.tw.<BR/>4. (BECLOMETHASONE or BECONASE or BECLOVENT or VANCENASE or VANCERIL OR AEROBEC or BECLAZONE or BECOTIDE or BECLOFORTE or BUDESONIDE or PULMICORT or RHINOCORT or FLUTICASONE or FLOVENT or FLONASE or CUTIVATE or FLIXOTIDE or FLIXONASWE or QVAR or ZONIVENT or FILAIR OR ASMABEC or BECODISK$).tw.<BR/>5. 1OR 2 OR 3 OR 4<BR/>6. INHAL$.tw.<BR/>7. 5 AND 6<BR/>8. (OSTEO$ or BONE$ or FRACTURE$ or BMD or CALCITONIN or CREATININE or CREATINE or CALCIUM or OSTEOCALCIN or HYDROXYPROLINE or PYRIDINIUM or PYRIDINOLINE or DEOXYPYRIDINOLINE or TELOPEPTIDE or (PROPEPTIDE$ OF TYPE I PROCOLLAGEN) OR (ALKALINE PHOSPHATASE) or (ACID PHOSPHATASE) or (GALACTOSYL HYDROXYLYSINE) OR (PARATHYROID HORMONE$)).tw.<BR/>9. 7 AND 8<BR/>10. LIMIT TO HUMAN</P>
+<P>ALL TIME PERIODS UP To 1st November 1999 CONSIDERED initially. The search was updated in July 2001.<BR/>ALL COUNTRIES AND LANGUAGES CONSIDERED.</P>
+<P>Other potential studies were identified by:</P>
+<UL>
+<LI>Checking the bibliographies of the included studies</LI>
+<LI>Searching key journals (electronically, and by hand)</LI>
+<LI>Contacting key authors to locate other suitable data (unpublished or ongoing)</LI>
+<LI>Contacting pharmaceutical companies (3M, Medeva, AstraZeneca, GlaxoWelcome) for RCT's (unpublished or ongoing)</LI>
+</UL>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>Data were extracted from the selected studies and entered into Review Manager. Trials were combined using the Review Manager software. For continuous variables, the results of the individual studies were calculated as fixed effects weighted mean difference (WMD) or standardised mean difference (SMD) and a 95% confidence interval (CI) was calculated for each study. The impact of different dosing regimes was assessed using subgroup analysis. Where two outcomes have been assessed in different units (e.g. nmol/L and mcg/L) these were combined using a SMD. For dichotomous variables (bone fractures), a random effects odds ratio (OR) with 95% confidence intervals (95% CI) was calculated for individual studies. Sub-group analyses was planned categorising the participants into healthy subjects or those with asthma or chronic obstructive pulmonary disease. An additional analysis was planned when the primary trial data showed that some studies had used doses of inhaled corticosteroids above the currently recommended dosing regimes. These doses were termed 'conventional' and 'experimental'. </P>
+<P>We were examining inhaled steroids for a harmful rather than a treatment effect. Falls in alkaline phosphatase and osteocalcin were harmful, as were rises in PTH or urinary hydroxyproline.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-07-30 13:56:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-07-30 13:56:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The search of the Cochrane database provided 226 abstracts, and a further 189 came from running the search in MEDLINE CINAHL, EMBASE and BIDS ISI, giving a total of 415 references, which reduced to 288 on removal of duplicates. Two reviewers independently ascertained the relevance of each title and abstract (MB, KH, AJ, GR). Five relevant abstracts were found in the National Research Register and details of 18 studies were obtained from the pharmaceutical companies. From all of these, 18 full papers were considered in detail, each by 2 reviewers (MB, JF, KH, AJ, MS) and where there was discrepancy between reviewers, this was adjudicated at a team meeting. Seven studies were included in the final analysis. Contact was successfully made with the authors of all except <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK> (despite two mailings to the first author, and e-mail correspondence to the second author), and AstraZeneca were able to provide additional data on the EUROSCOP study. The search was updated in July 2001, leading to the inclusion of the <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>study.</P>
+<P>Seven studies met the inclusion criteria. Four (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>; <LINK REF="STD-Kerstjens-1994" TYPE="STUDY">Kerstjens 1994</LINK>; <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK>; <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>) recruited subjects with "mild" asthma or chronic obstructive pulmonary disease (total 1256 men and 614 women), and three (<LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK>; <LINK REF="STD-Leech-1993" TYPE="STUDY">Leech 1993</LINK>; <LINK REF="STD-Toogood-1991" TYPE="STUDY">Toogood 1991</LINK>) recruited healthy volunteers (total 41 men and 78 women), although in one of these (<LINK REF="STD-Leech-1993" TYPE="STUDY">Leech 1993</LINK>), 4 out of 21 subjects had mild asthma. Duration of follow-up varied from 9 weeks to 3 years. In <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK>, <LINK REF="STD-Toogood-1991" TYPE="STUDY">Toogood 1991</LINK> and <LINK REF="STD-Leech-1993" TYPE="STUDY">Leech 1993</LINK>, follow-up was up to 12 weeks, and the other studies, 104 weeks or more. In both <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK> and <LINK REF="STD-Toogood-1991" TYPE="STUDY">Toogood 1991</LINK>, data were extracted from the first half of the studies, in which inhaled steroid was compared with placebo.</P>
+<P>The numbers of participants in the trials ranged from 21 to 1277, with a total of 1989 in the seven studies. <LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK> was the largest trial, and also had the highest average age (52 years); the other 6 studies all had average ages of 40 or below. One study recruited smokers (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>), one reported 20% of participants smoked (<LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>), two recruited non-smokers, and in 3 smoking status was not stated.</P>
+<P>Only <LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK> and <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK> formally looked for bone fractures as an outcome measure. <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK>, <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>and <LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK> considered bone mineral density. Data from <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK>, <LINK REF="STD-Toogood-1991" TYPE="STUDY">Toogood 1991</LINK> and <LINK REF="STD-Leech-1993" TYPE="STUDY">Leech 1993</LINK> has been included for osteocalcin. <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK> reported that "Mean serum osteocalcin . . . did not differ significantly at any time point", but the actual figures were not reported, and we were unable to make contact with the first or second authors. <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK> also reported osteocalcin and urinary pyridinoline, but as % change from baseline of geometric mean values of the area under the curve. There was a significant change (p&lt;0.05) in serum osteocalcin in the beclomethasone group, but not budesonide group, compared with the reference group. <LINK REF="STD-Kerstjens-1994" TYPE="STUDY">Kerstjens 1994</LINK> reported on procollagen type 1 carboxy terminal propeptide (PICP). Data from <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK> on alkaline phosphatase, parathyroid hormone, and urinary hydroxyproline is included.</P>
+<P>Beclomethasone, budesonide and fluticasone were the inhaled steroids used. "Conventional doses" were interpreted as those up to the maximum dose of beclomethasone or budesonide (22000 mmcg daily, or fluticasone (11000 mmcg daily recommended in the British Thoracic Society Asthma Guidelines (<LINK REF="REF-BTS-1997" TYPE="REFERENCE">BTS 1997</LINK>). Both <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK> (budesonide 3.2 mg daily) and <LINK REF="STD-Toogood-1991" TYPE="STUDY">Toogood 1991</LINK> (budesonide 22.4 mmg daily used doses in excess of this in one arm of their studies, and these are referred to in the comparisons as "experimental dose".</P>
+<P>A wide variety of outcome measures were reported; where these corresponded with the outcome measures detailed in our protocol, the figures were included for the meta-analysis (except where raw data could not be obtained to facilitate this process).</P>
+<P>Effect modifiers are detailed in the table of Characteristics of Included Studies and include the list below. We have included sub-group analyses of; conventional maintenance dose vs high dose inhaled steroids; trials in asthma or COPD patients vs those in healthy volunteers, and those where duration of treatment was greater or less than 3 months.<BR/>Asthma therapy (exposure to inhaled steroids)<BR/>Strength of inhaled steroid drug(s) taken<BR/>Duration of treatment<BR/>Age<BR/>Lifestyle data - e.g. height, weight, BMI, smoking, alcohol, exercise<BR/>Other asthma medication - e.g. oral steroids and bronchodilators<BR/>Non-asthma medication - e.g. HRT, calcium, Vitamin D<BR/>Compliance<BR/>Delivery system (e.g. clickhaler, turbohaler, spacer device)<BR/>Duration of follow-up</P>
+<P>In terms of one important risk factor (age), the mean age of the study populations was quite low , in the range 20 - 60 years, with a mean age of 30-40 in most studies, but in <LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK> the mean age was 52 years. Sex is another important risk factor, summing the number of patients across the studies, the male:female ratio was 2:1.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>KH and JF independently assessed the methodological quality of the included RCTs using the Cochrane approach to quality assessment of allocation concealment. Trials were scored using the following principles:</P>
+<P>Grade A: Adequate concealment.<BR/>Grade B: Uncertain concealment.<BR/>Grade C: Clearly Inadequate concealment.</P>
+<P>Each study was also assessed for validity on a 0 - 5 scale described by Jadad as follows:</P>
+<P>1. Was the study described as randomised ? (1 = yes; 0 = no).<BR/>2. Was the study described as double-blind? (1 = yes; 0= no).<BR/>3. Was there a description of withdrawals and drop-out? ( 1 = yes; 0 = no)<BR/>4. Was the method of randomisation well described and appropriate? ( 1 = yes; 0 = no)<BR/>5. Was the method of double-blinding well described and appropriate? ( 1 = yes; 0 = no)<BR/>6. Deduct 1 point if methods for randomisation or blinding were inappropriate.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-07-30 13:56:10 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Using the Cochrane concealment allocation criteria, there was on A grade trial (<LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK>), four Grade B (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>, <LINK REF="STD-Kerstjens-1994" TYPE="STUDY">Kerstjens 1994</LINK>, <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK>, <LINK REF="STD-Toogood-1991" TYPE="STUDY">Toogood 1991</LINK>) and two Grade C (<LINK REF="STD-Leech-1993" TYPE="STUDY">Leech 1993</LINK>, <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>). There was agreement between the two reviewers on all studies. Using the Jadad criteria, three studies were graded 3 - 5 (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>, <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK>, <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK>) and four were graded 0 - 2 (<LINK REF="STD-Kerstjens-1994" TYPE="STUDY">Kerstjens 1994</LINK>, <LINK REF="STD-Leech-1993" TYPE="STUDY">Leech 1993</LINK>, <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>, <LINK REF="STD-Toogood-1991" TYPE="STUDY">Toogood 1991</LINK>). The reviewers disagreed over one paper only, and then by 1 only point.</P>
+<P>BONE FRACTURES<BR/>The two studies that collected fracture data prospectively (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>, <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>) showed no significant effect of inhaled steroids on vertebral fractures at conventional therapeutic doses (Peto OR 1.87, 95% CI 0.5, 7.03).</P>
+<P>BONE MINERAL DENSITY<BR/>The pooled results from three studies (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>, <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK>, <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>) showed no significant effect of inhaled steroids in patients with asthma or COPD on bone mineral density measured by Dual Energy Xray Absorptiometry (DEXA) at lumber spine WMD 0.01(95%CI -0.08, 0.10), or femoral neck, (<LINK REF="STD-EUROSCOP-1999" TYPE="STUDY">EUROSCOP 1999</LINK>, <LINK REF="STD-Tattersfield-2001" TYPE="STUDY">Tattersfield 2001</LINK>) WMD 0.61 (95% CI -0.34, 1.56).</P>
+<P>BIOCHEMICAL MARKERS</P>
+<P>1. Osteocalcin<BR/>Overall, with all data at all doses of inhaled corticosteroids combined in meta-analyses, there is no significant effect on osteocalcin SMD -0.34 (95%CI -0.72, 0.04). <LINK REF="STD-Li-1999" TYPE="STUDY">Li 1999</LINK> also considered osteocalcin after two years, but we were unable to obtain details of their results, the paper only reporting a graph. Indications from the graph would give an approximate effect size of -0.025, i.e. small effect favouring treatment. When considering the arms of those studies that used 'experimental' doses of inhaled corticosteroid (i.e. those in excess of those recommended in the BTS guidelines), there was a statistically significant lowering (i.e. worsening of osteocalcin SMD 0.97 (95%CI -1.61, -0.34).</P>
+<P>2. Other biochemical markers<BR/>A statistically significant fall (iDixie in parathyroid hormone WMD -10.0 (95%CI -17.7, -2.3) in favour of the treatment group, and alkaline phosphatase WMD -13.0 (95%CI -24.0, -2.0) in favour of the control group, was seen at conventional dosing only, in the <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK> study, but this may be spurious for reasons explored below. The differences did not reach significance when the higher dosage regimens were included. There were no statistically significant results included from among the studies looking at patients with a history of asthma or COPD. These were also the papers with the longer follow-up. No significant effect was shown on urinary hydroxyproline (p=0.7, WMD -0.08, 95%CI -0.5, 0.36) or C-terminal propeptide of type one procollagen WMD 11.6, 95%CI -3.1, 26.3).</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>This review has systematically evaluated seven papers which met our entry criteria aimed at determining whether inhaled corticosteroids have a harmful effect on bone in terms of fractures, bone mineral density or specific biochemical markers of bone turnover. At conventional doses of inhaled steroid there appears to be no significant effect on bone metabolism as measured by osteocalcin, bone mineral density, or clinical fracture rate. The effect on alkaline phosphatase and parathyroid hormone seen at conventional doses was not seen at the higher doses. The data for both sets of results comes from the very small study of <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK>. The alkaline phosphatase analyses is reported to have been "standard" suggesting that it was not bone specific, so would have varied with changes in serum alkaline phosphatase from muscular and hepatic sources, as well as bone. <LINK REF="STD-Hodsman-1991" TYPE="STUDY">Hodsman 1991</LINK> has explained the parathyroid hormone result (which suggested that treatment with conventional doses of inhaled steroid was better than placebo) by pointing out that the recruits were placed on a calcium restricted diet for the study, and that this may have given rise to the slight rise in PTH seen in the control group.</P>
+<P>Comparison of serum osteocalcin measured by different immunoassay kits is difficult in the absence of an internationally agreed standard (<LINK REF="REF-Swaminathan-1997" TYPE="REFERENCE">Swaminathan 1997</LINK>). Additionally, samples should be collected on ice, stored at -70 degrees, and thawed only once. The effect of prolonged freezing on degradation and reliability is unclear. The studies included here used a variety of collecting and storage regimens.</P>
+<P>The evidence available for this review suggest that inhaled steroids in currently recommended doses incur little risk of osteoporosis and fractures over the medium term (months to a few years), however there are important qualifications attached to this conclusion. First, asthma is life-long so the period of these studies is small compared to the potential period of exposure to inhaled corticosteroids. Second, the studies have been carried out in relatively low-risk patients (mainly under the age of 60 years and predominantly males). In the 3-year studies in moderate-severe COPD patients not yet included in this review (<LINK REF="REF-Burge-2000b" TYPE="REFERENCE">Burge 2000b</LINK>, <LINK REF="REF-Wise-2000b" TYPE="REFERENCE">Wise 2000b</LINK>), no increase in the risk of bone fractures was reported in either trial, although there was a small fall in bone mineral density in <LINK REF="REF-Wise-2000b" TYPE="REFERENCE">Wise 2000b</LINK> after three years, but not before.<BR/>
+<BR/>The available trials provided no opportunity to assess the role of routine monitoring of biochemical markers of the bone turnover to identify patients potentially at greater risk of inhaled steroid-induced fractures or osteoporosis.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Treatment with inhaled corticosteroids at conventional doses over two or three years has not shown a significant effect on bone mineral density or increased risk of fracture in younger patients with asthma or mild COPD (i.e. at lower risk of osteoporosis and fractures). At present, current evidence also does not support the use of biochemical markers in the clinical setting.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>There is a need for further long term studies on both conventional and experimental doses of inhaled steroid, using fractures, bone mineral density and biochemical markers as outcomes. Such studies would ideally be prospective but could be supported by retrospective case control and cohort studies, looking particularly for fractures, comparing different steroids in different dosages. The role of biochemical markers in determining bone turnover in the clinical setting is at present uncertain. Our evidence suggests further research in this area may provide useful information in evaluating clinical outcomes and response to therapy. In studies using biochemical markers, careful attention needs to be paid to confounding factors (such as diet or time of specimen collection) and technical details (such as assay used, and specimen storage temperature) when planning further research in this area.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank the following authors for corresponding with us about their trials. Included trials:- Dr RA Pauwels, Dr AB Hodsman<BR/>Dr HAM Kerstjens; Dr JA Leech; Dr JH Toogood. </P>
+<P>Thank you also to:-<BR/>DR M Roshan of 3M Health Care Limited; Ms Sophie Hadlow of AstraZeneca; Dr Gerry Hagan of GSK; Dr Francis Upchurch of Medeva for helping with the search for "grey literature".</P>
+<P>Special thanks to Mrs Anne Powell, Library Services Manager and her team, The Post-Graduate Library, Morriston Hospital, Swansea NHS Trust, Wales UK, for their help with searches and obtaining papers.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2008-07-30 13:56:44 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>AJ and MB developed the original idea and protocol. All reviewers were involved in selecting abstracts and final papers for inclusion. GR searched alternative databases and JF contacted authors and pharmaceutical companies. MS advised on relevance of outcome measures. KH gave statistical advice and data extraction. JF did data extraction, all entry into Review Manager and analysis. All members contributed to the final document.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-07-30 13:59:17 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDIES MODIFIED="2008-07-30 13:57:54 +0100" MODIFIED_BY="Toby J Lasserson">
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="MIX" ID="STD-EUROSCOP-1999" NAME="EUROSCOP 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Johnell O, Pauwels RA, Ohlsson SV, Ekelund J</AU>
+<TI>Long-term treatment with inhaled budesonide did not effect bone mineral density or bone markers in patients with chronic obstructive pulmonary disease</TI>
+<SO>American Society for Bone and Mineral Research Meeting</SO>
+<YR>1999</YR>
+<VL>Poster Presentation</VL>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Pauwels RA, Lofdahl C-G, Laitinen LA, Schouten JP, Postma DS, Pride NB, et al</AU>
+<TI>Long-term treatment with inhaled budesonide in persons with mild chronic obstructive pulmonary disease who continue to smoke</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>1999</YR>
+<VL>340</VL>
+<PG>1948-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Hodsman-1991" NAME="Hodsman 1991" YEAR="1991">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Hodsman AB, Toogood JH, Jennings B, Fraher LJ, Baskerville JC</AU>
+<TI>Differential effects of inhaled budesonide and oral prednisolone on serum osteocalcin</TI>
+<SO>Journal of Clinical Endocrinology and Metabolism</SO>
+<YR>1991</YR>
+<VL>72</VL>
+<PG>530-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Kerstjens-1994" NAME="Kerstjens 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kerstjens HAM, Postma DS, van Doormaal JJ, van Zanten AK, Brand PLP, Dekhuijzen PNR, et al</AU>
+<TI>Effects of short term and long term treatment with inhaled corticosteroids on bone metabolism in patients with airways obstruction</TI>
+<SO>Thorax</SO>
+<YR>1994</YR>
+<VL>49</VL>
+<PG>652-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Leech-1993" NAME="Leech 1993" YEAR="1993">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Leech JA, Hodder RV, Ooi DS, Gay J</AU>
+<TI>Effects of short-term inhaled budesonide and beclomethasone dipropionate on serum osteocalcin in premenopausal women</TI>
+<SO>Americal Review of Respiratory Disease</SO>
+<YR>1993</YR>
+<VL>148</VL>
+<PG>113-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Li-1999" NAME="Li 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Li JTC, Ford LB, Chervinsky P, Weisberg SC, Kellerman DJ, Faulkner KG, et al</AU>
+<TI>Fluticasone propionate powder and lack of clinically significant effects on hypothalmic-pituitary-adrenal axis and bone mineral density over 2 years in adults with mild asthma</TI>
+<SO>Journal of Allergy Clinical Immunology</SO>
+<YR>1999</YR>
+<VL>103</VL>
+<PG>1062-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tattersfield-2001" NAME="Tattersfield 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tattersfield AE, Town GI, Johnell O, Picado C, Aubier M, Braillon P et al</AU>
+<TI>Bone mineral density in subjects with mild asthma randomised to treatment with inhaled corticosteroids or non-corticosteroid treatment for two years</TI>
+<SO>Thorax</SO>
+<YR>2001</YR>
+<VL>56</VL>
+<PG>272-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Toogood-1991" NAME="Toogood 1991" YEAR="1991">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Toogood JH, Jennings B, Hodsman AB, Baskerville J, Fraher LJ</AU>
+<TI>Effects of dose and dosing schedule of inhaled budesonide on bone turnover</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>1991</YR>
+<VL>88</VL>
+<PG>572-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-07-30 13:57:54 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Barnes-1996" NAME="Barnes 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="UNPUBLISHED">
+<AU>Barnes PJ, National Heart and Lung Institute</AU>
+<TI>Assessment of long-term efficacy of early introduction of inhaled steroids in asthma (ELSAT) a pilot study in general practice</TI>
+<SO>NRR</SO>
+<YR>1996</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bootsma-1996" NAME="Bootsma 1996" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Bootsma GP, Dekhuijzen PNR, Festen J, Mulder PGH, Swinkles LMJW, van Herwaarden CLA</AU>
+<TI>Fluticasone propionate does not influence bone metabolism in contrast to beclomethasone dipropionate</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1996</YR>
+<VL>153</VL>
+<PG>924-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Clark-1997" NAME="Clark 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Clark DJ, Lipworth BJ</AU>
+<TI>Adrenal suppression with chronic dosing of fluticasone propionate compared with budesonide in adult asthmatic patients</TI>
+<SO>Thorax</SO>
+<YR>1997</YR>
+<VL>52</VL>
+<PG>55-8</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="osteo RM 37; asthma RM 1036"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dempsey-1999" NAME="Dempsey 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Dempsey OJ, Coutie WJR, Wilson AM, Williams P, Lipworth BJ</AU>
+<TI>Evaluation of the buccal component of systematic absorption with inhaled fluticasone propionate</TI>
+<SO>Thorax</SO>
+<YR>1999</YR>
+<VL>54</VL>
+<PG>614-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Egan-1999" NAME="Egan 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Egan JJ, Maden C, Kalra S, Adams JE, Eastell R, Woodcock AA</AU>
+<TI>A randomized, double-blind study comparing the effects of beclomethasone and fluticasone on bone density over two years</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1999</YR>
+<VL>13</VL>
+<NO>6</NO>
+<PG>1267-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gross-1999" NAME="Gross 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gross G, Thompson PJ, Chervinsky P, Vanden Burgt J</AU>
+<TI>Hydrofluoroalkane-134a beclomethasone dipropionate, 400 microg, for the treatment of moderate asthma</TI>
+<SO>Chest</SO>
+<YR>1999</YR>
+<VL>115</VL>
+<NO>2</NO>
+<PG>343-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Harmanci-1998" NAME="Harmanci 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Harmanco E, Colak O, Ozdemir N, Alatas O, Isik R</AU>
+<TI>Fluticasone propionate and budesonide does not influence bone metabolism in the long term treatment of asthma</TI>
+<TO>(abstract funded by Glaxo Welcome)</TO>
+<SO>European Respiratory Journal</SO>
+<YR>1998</YR>
+<VL>12</VL>
+<NO>Suppl. 28</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Herrala-1994" NAME="Herrala 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Herrala J, Puolijoki H, Impivaara O, Liippo K, Tala E, Nieminen MN</AU>
+<TI>Bone mineral density in asthmatic women on high-dose inhaled beclomethasone dipropionate</TI>
+<SO>Bone</SO>
+<YR>1994</YR>
+<VL>15</VL>
+<NO>6</NO>
+<PG>621-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hughes-1999" NAME="Hughes 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Hughes JA, Conry BG, Male SM, Eastell R</AU>
+<TI>One year prospective open study of the effect of high dose inhaled steroids, fluticasone propionate and budesonide on bone markers and bone mineral density</TI>
+<SO>Thorax</SO>
+<YR>1999</YR>
+<VL>54</VL>
+<PG>223-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Johnell-1999" NAME="Johnell 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="OTHER">
+<AU>Johnell O, Aubier M, BrallionP, Karlstrom R, Picado C,Tattersfield AE, et al</AU>
+<TI>Long-term effects on bone markers by inhaled steroids compared with non-steroid reference therapy. A randomised trial</TI>
+<SO>American Society for Bone and Mineral Research Meeting</SO>
+<YR>1999</YR>
+<VL>Poster presentation</VL>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kos_x002d_Kudla-1997" NAME="Kos-Kudla 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kos-Kudla B, Pluskiewicz W</AU>
+<TI>Quantitative ultrasound of the heel and serum and urinary cortisol values in assessment of long-term corticotherapy side effects in female bronchial asthma patients</TI>
+<SO>Ultrasound in Medicine and Biology</SO>
+<YR>1997</YR>
+<VL>23</VL>
+<NO>9</NO>
+<PG>1325-30</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="26"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Malo-1999" NAME="Malo 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Malo J-L, Cartier A, Ghezzo H, Mark S, Brown J, Laviolette M, Boulet L-P</AU>
+<TI>Skin bruising, adrenal function and markers of bone metabolism in asthmatics using inhaled beclomethasone and fluticasone</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1999</YR>
+<VL>13</VL>
+<PG>993-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nikolaizik-1996" NAME="Nikolaizik 1996" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Nikolaizik WH, Marchant JL, Preece MA, Warner JO</AU>
+<TI>Nocturnal cortisol secretion in healthy adults before and after inhalation of budesonide</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1996</YR>
+<VL>153</VL>
+<PG>97-101</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="33"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Padfield-1993" NAME="Padfield 1993" YEAR="1993">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Padfield PL, Teelucksingh S</AU>
+<TI>Inhaled steroids: the endocrinologist's view</TI>
+<SO>European Respiratory Review</SO>
+<YR>1993</YR>
+<VL>3</VL>
+<PG>494-500</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="43"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Paggiaro-1998" MODIFIED="2008-07-30 13:57:54 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Paggiaro 1998" YEAR="1998">
+<REFERENCE MODIFIED="2008-07-30 13:57:54 +0100" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Paggiaro PL, Dahle R, Bakran I, Frith L, Hollingworth K, Efthimiou J</AU>
+<TI>Multicentre randomised placebo-controlled trial of inhaled fluticasone propionate in patients with chronic obstructive pulmonary disease</TI>
+<SO>Lancet</SO>
+<YR>1998</YR>
+<VL>351</VL>
+<PG>773-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pauwels-1998" NAME="Pauwels 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Pauwels RA, Yernault JC, Demedts MG, Geusens P, Belgian Multicenter Group</AU>
+<TI>Safety and efficacy of fluticasone and beclomethasone in moderate to severe asthma</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1998</YR>
+<VL>157</VL>
+<PG>827-832</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Struijs-1997" NAME="Struijs 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Struijs A, Mulder H</AU>
+<TI>The effects of inhaled glucocorticosteroids on bone mass and biochemical markers of bone homeostasis: a 1-year study of beclomethasone versus budesonide</TI>
+<SO>The Netherlands Journal of Medicine</SO>
+<YR>1997</YR>
+<VL>50</VL>
+<PG>233-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Suissa-2000" NAME="Suissa 2000" YEAR="2000">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Suissa S, Ernst P, Benaynon S, Baltzan M, Chai B</AU>
+<TI>Low-dose inhaled corticosteroids and the prevention of death from asthma</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>2000</YR>
+<VL>343</VL>
+<NO>5</NO>
+<PG>332-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Toogood-1988" MODIFIED="2008-07-30 13:57:49 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Toogood 1988" YEAR="1988">
+<REFERENCE MODIFIED="2008-07-30 13:57:49 +0100" MODIFIED_BY="Toby J Lasserson" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Toogood JH, Crilly RG, Jones G, Nadeau J, Wells GA</AU>
+<TI>Effect of high-dose inhaled budesonide on calcium and phosphate metabolism and the risk of osteoporosis</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1988</YR>
+<VL>138</VL>
+<PG>57-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="SOUGHT" ID="STD-Vickers-1999" NAME="Vickers 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="UNPUBLISHED">
+<AU>Vickers M, MRC Epidemiology and Medical Care Unit</AU>
+<TI>An assessment of long-term efficacy of early introduction of inhaled steroids in asthma</TI>
+<SO>NRR</SO>
+<YR>1999</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-1997" NAME="Wilson 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson AM, Clark DJ, McFarlane L, Lipworth BJ</AU>
+<TI>Adrenal suppression with high doses of inhaled fluticasone propionate and triamcinolone acetonide in healthy volunteers</TI>
+<SO>European Journal of Clinical Pharmacology</SO>
+<YR>1997</YR>
+<VL>53</VL>
+<PG>33-7</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="27"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-1997b" NAME="Wilson 1997b" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson AM, McFarlane LC, Lipworth BJ</AU>
+<TI>Dose-response effect for adrenal suppression with repeated twice daily inhaled fluticasone propionate and triamcinolone acetonide in adult asthmatics</TI>
+<SO>Americal Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1997</YR>
+<VL>156</VL>
+<PG>1274-7</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="41"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-1998" NAME="Wilson 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson AM, Brewester HJA, Lipworth BJ</AU>
+<TI>Dose-response comparison of systematic bioactivity with inhaled budesonide and triamcinolone acetonide in asthmatic adults</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1998</YR>
+<VL>102</VL>
+<PG>751-6</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="Osteo Ref Man 28"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-1998c" NAME="Wilson 1998c" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson AM, McFarlane LC, Lipworth BJ</AU>
+<TI>Systematic bioactivity profiles of oral prednisolone and nebulised budesonide in adult asthmatics</TI>
+<SO>Chest</SO>
+<YR>1998</YR>
+<VL>114</VL>
+<PG>1022-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Wilson-1999" NAME="Wilson 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson AM, Lipworth BJ</AU>
+<TI>24 hour fractionated profiles of adrenocortical activity in asthmatic patients receiving inhaled and intranasal corticosteroids</TI>
+<SO>Thorax</SO>
+<YR>1999</YR>
+<VL>54</VL>
+<PG>20-6</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="42"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson1998b" NAME="Wilson1998b" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson AM, Clark DJ, Devlin MM, McFarlane LC, Lipworth BJ</AU>
+<TI>Adrenocortical activity with repeated administration of one-daily inhaled fluticasone propionate and budesonide in asthmatic adults</TI>
+<SO>European Journal of Clinical Pharmacology</SO>
+<YR>1998</YR>
+<VL>53</VL>
+<PG>317-20</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="29"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wood-1999" NAME="Wood 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Wood LJ, Sehmi R, Gauvreau GM, Watson RM, Foley R, Denburg JA, et al</AU>
+<TI>Inhaled corticosteroid, budesonide, reduces baseline but not allergen-induced increases in bone marrow inflammatory cell progenitors in asthmatic subjects</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<PG>1457-63</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="38"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Burge-2000" NAME="Burge 2000" YEAR="2000">
+<REFERENCE NOTES="&lt;p&gt;Burge PS, Calverley PM, Jones PW, Spencer S, Anderson JA, Maslen TK. Randomised, double blind, placebo controlled study of fluticasone propionate in patients with moderate to severe chronic obstructive pulmonary disease: the ISOLDE trial. Bmj 2000;320:1297-303.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Burge PS, Calverley PM, Jones PW, Spencer S, Anderson JA, Maslen TK</AU>
+<TI>Randomised, double blind, placebo controlled study of fluticasone propionate in patients with moderate to severe chronic obstructive pulmonary disease: the ISOLDE trial</TI>
+<SO>BMJ</SO>
+<YR>2000</YR>
+<VL>320</VL>
+<PG>1297-303</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Osur-1998" NAME="Osur 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Osur S, Chervinsky P, Herje N, Harding S, Kellerman D</AU>
+<TI>Long term effects of fluticasone propionate inhalation aerosol in subjects with asthma</TI>
+<TO>(Abstract funded by Glaxo Wellcome) (Requested 22 /9 /00 Morriston)</TO>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1998</YR>
+<VL>157</VL>
+<NO>3</NO>
+<PG>A405</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wise-2000" NAME="Wise 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wise R, Connett J, Weinmann G, Scanlon P, Skeans M</AU>
+<TI>Effect of inhaled triamcinolone on the decline in pulmonary function in chronic obstructive pulmonary disease</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2000</YR>
+<VL>343</VL>
+<PG>1902-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Yernault-2000" NAME="Yernault 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Yernault JC, Geusens P, Van Wilder P, Belgian Multi-Center Group</AU>
+<TI>Lack of negative effect of a daily dose of 500 - 1000mcg inhaled fluticasone on bone mineral density in asthmatics</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2000</YR>
+<VL>161</VL>
+<NO>3</NO>
+<PG>Abstract funded by Glaxo Welcome</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-07-30 13:59:17 +0100" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2008-07-30 13:59:17 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Agertoft-1994" MODIFIED="2008-07-30 13:59:11 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Agertoft 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Agertoft L, Pedersen S</AU>
+<TI>Effects of long term treatment with an inhaled corticosteroid on growth and pulmonary function in asthmatic children</TI>
+<SO>Respiratory Medicine</SO>
+<YR>1994</YR>
+<VL>88</VL>
+<PG>373 - 81</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="915"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Anderson-1994" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Anderson 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Anderson HR, Butland BK, Strachan DP</AU>
+<TI>Trends in prevalence and severity of childhood asthma</TI>
+<SO>BMJ</SO>
+<YR>1994</YR>
+<VL>308</VL>
+<PG>1600-4</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="685"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-BTS-1997" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="BTS 1997" TYPE="JOURNAL_ARTICLE">
+<AU>British Thoracic Society</AU>
+<TI>British Thoracic Society Asthma Guidelines</TI>
+<SO>Thorax</SO>
+<YR>1997</YR>
+<VL>52</VL>
+<NO>Supplement 1</NO>
+<PG>S11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Garnero-1998" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Garnero 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Garnero P, Delmas PD</AU>
+<TI>Biochemical markers of bone turnover</TI>
+<SO>Endocrinology &amp; Metabolism Clinics of North America</SO>
+<YR>1998</YR>
+<VL>27</VL>
+<NO>2</NO>
+<PG>303-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Geddes-1992" NAME="Geddes 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Geddes DM</AU>
+<TI>Inhaled corticosteroids: benefits and risks</TI>
+<SO>Thorax</SO>
+<YR>1992</YR>
+<VL>47</VL>
+<PG>404-7</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="911"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Hanania-1995" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Hanania 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Hanania NA, Chapman KR</AU>
+<TI>Dose related decrease in bone density among asthmatic patients treated with inhaled corticosteroids</TI>
+<SO>Journal of Allergy and Clnical Immunology</SO>
+<YR>1995</YR>
+<VL>96</VL>
+<NO>5 part 1</NO>
+<PG>571-9</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="1501"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Luengo-1991" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Luengo 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Luengo M, Picardo C, Rio LD, Guanabens N, Monserrat JM, Setoain J</AU>
+<TI>Vertebral fractures in steroid dependent asthma and involutional osteoporosis: a comparative study</TI>
+<SO>Thorax</SO>
+<YR>1991</YR>
+<VL>46</VL>
+<PG>803-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Miller-1999" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Miller 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Miller PD, Baram DT, Bilezikian JP, et al</AU>
+<TI>Practical clinical application of biochemical markers of bone turnover (consensus of an expert panel)</TI>
+<SO>Journal of Clinical Densitometry</SO>
+<YR>1999</YR>
+<VL>2</VL>
+<PG>323-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pauwels-1995" NAME="Pauwels 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Pauwels P</AU>
+<TI>The current status of asthma guidelines</TI>
+<SO>European Respiratory Review</SO>
+<YR>1995</YR>
+<VL>4</VL>
+<NO>26</NO>
+<PG>105-7</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="786"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Riggs-2000" MODIFIED="2008-07-30 13:59:17 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Riggs 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Riggs BL</AU>
+<TI>Are biochemical markers for bone turnover clinically useful for monitoring therapy in individual osteoporotic patients?</TI>
+<SO>Bone</SO>
+<YR>June 2000</YR>
+<VL>26</VL>
+<NO>6</NO>
+<PG>551-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Swaminathan-1997" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Swaminathan 1997" TYPE="BOOK_SECTION">
+<AU>Swaminathan R</AU>
+<TI>Biochemical Markers for Osteoporosis</TI>
+<SO>Osteoporosis Illustrated. A comprehensive illustrated guide to osteoporosis</SO>
+<YR>1997</YR>
+<PG>75</PG>
+<ED>Arden NK, Spector TD</ED>
+<PB>Current Medical Literature Ltd</PB>
+<CY>London</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Tattersfield-1997" NAME="Tattersfield 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Tattersfield AE</AU>
+<TI>Limitations of current treatment</TI>
+<SO>Lancet</SO>
+<YR>1997</YR>
+<VL>350</VL>
+<NO>Suppl. 11</NO>
+<PG>24-7</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="1198"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Teelucksingh-1991" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Teelucksingh 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Teelucksingh S</AU>
+<TI>Inhaled corticosteroids, bone formation and osteocalcin</TI>
+<SO>Lancet</SO>
+<YR>1991</YR>
+<VL>338</VL>
+<PG>60-1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Toogood-1995" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Toogood 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Toogood JH, Baskerville JC, Markov AE, Hodsman AB, Frayer LJ, Jennings B, et al</AU>
+<TI>Bone mineral density and the risk of fracture in patients receiving long-term inhaled steroid therapy for asthma</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>1995</YR>
+<VL>96</VL>
+<NO>2</NO>
+<PG>157-66</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Burge-2000b" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Burge 2000b" NOTES="&lt;p&gt;Burge PS, Calverley PM, Jones PW, Spencer S, Anderson JA, Maslen TK. Randomised, double blind, placebo controlled study of fluticasone propionate in patients with moderate to severe chronic obstructive pulmonary disease: the ISOLDE trial. Bmj 2000;320:1297-303.&lt;/p&gt;" NOTES_MODIFIED="2008-07-30 13:43:39 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Burge PS, Calverley PM, Jones PW, Spencer S, Anderson JA, Maslen TK</AU>
+<TI>Randomised, double blind, placebo controlled study of fluticasone propionate in patients with moderate to severe chronic obstructive pulmonary disease: the ISOLDE trial</TI>
+<SO>BMJ</SO>
+<YR>2000</YR>
+<VL>320</VL>
+<PG>1297-303</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wise-2000b" MODIFIED="2008-07-30 13:43:39 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Wise 2000b" TYPE="JOURNAL_ARTICLE">
+<AU>Wise R, Connett J, Weinmann G, Scanlon P, Skeans M</AU>
+<TI>Effect of inhaled triamcinolone on the decline in pulmonary function in chronic obstructive pulmonary disease</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2000</YR>
+<VL>343</VL>
+<PG>1902-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</PENDING_REFERENCES>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-07-30 13:57:37 +0100" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-07-30 13:57:37 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-EUROSCOP-1999">
+<CHAR_METHODS>
+<P>randomised, double blind<BR/>duration: 3 years<BR/>follow-up: 71%</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>"mild COPD patients who continue to smoke"<BR/>male / female: 932 / 345<BR/>Av age: 52.4yr +/- 7.7 (placebo)<BR/>52.5 +/- 7.5 (budesonide)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>budesonide 400mcg or placebo twice daily.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>after 104 weeks: vertebral fracture; bone mineral density (BMD); adverse effects; spirometry;</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad score 3. smoking education and inhaler compliance prior to randomisation. BMD data to be published soon.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Hodsman-1991">
+<CHAR_METHODS>
+<P>"random allocation"<BR/>double blind double dummy<BR/>Duration: 6 weeks<BR/>Follow up: 100%</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>healthy subjects<BR/>male / female: 17 / 33<BR/>Av Age: 33, SD 9<BR/>Smoking status not stated.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>5 groups, each n=10; oral prednisolone 10mg or 40mg daily; inhaled budesonide 3.2mg or 0.8mg daily; or placebo; ethics committee stipulation that participants to be on a calcium restricted diet.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>measured at 1 week; serum osteocalcin;<BR/>calcium, phosphate, creatinine, alk.phos.,24hr urinary Ca, Pi &amp; creatinine; i-PTH; 1,25-(OH)2D3; cortisol; urinary hydroxyproline; urinary cAMP;</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad score 4. pill counting + inhaler weights to assess compliance. Authors provided raw data from the end of week one before cross-over for inclusion in meta-analysis.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Kerstjens-1994">
+<CHAR_METHODS>
+<P>double blind<BR/>Duration: 2.5 yrs (retrospective)<BR/>Follow-up: 100%</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>"airways obstruction"<BR/>male / female: 101 / 54<BR/>Av Age: 40.0, SD 12<BR/>Smoking status not stated.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>terbutaline 200mcg plus either<BR/>beclomethasone 200mcg qds, n = 70, or<BR/>ipratropium bromide 160mcg od, n = 44, or<BR/>placebo, n = 41 (placebo &amp; ipratropium pooled for analysis)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>
+<BR/>PICP, ICTP;</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad score 2.<BR/>No measure of compliance.<BR/>No samples taken within 1 month of oral steroids.<BR/>Authors provided raw data, including separate figures for ipratropium group, and for placebo (pooled in original paper). From phase 2 of a study.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Leech-1993">
+<CHAR_METHODS>
+<P>randomised crossover.<BR/>Unmarked inhalers not identical.<BR/>duration: 9 weeks<BR/>Follow up: 100%<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>healthy non-smoker volunteers (4 mild asthma)<BR/>21 women<BR/>Age: 21 - 41</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>3 cycles of 2 weeks inhaler use then 1 week no inhaler. 1st week of each cycle 2 puffs bd; 2nd week 4 puffs bd; inhalers were placebo or budesonide 200mcg/puff, or beclomethasone 250mcg/puff.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>serum osteocalcin;</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad score 2. All original raw data destroyed in a flood. Therefore unable to take pre-cross over data for the meta-analysis.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Li-1999">
+<CHAR_METHODS>
+<P>randomised, double blind<BR/>duration: 104 weeks<BR/>Follow-up: 66% fluticasone,<BR/>53% placebo</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>"mild persistent asthma" <BR/>male / female: 55 / 9<BR/>Av Age: 29.55, range 18-49.<BR/>Smoking status not stated.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>fluticasone 500mcg or placebo twice daily.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>bone mineral density; serum osteocalcin; HPA-axis function evaluations; urinary N-telopeptide; ophthalmic exams.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad score 3. Less than 1 years total ever oral steroid use, + no oral steroids in month prior to recruitment; up to 2 x 10 day courses oral steroid use allowed during trial. Raw data for osteocalcin not obtained from authors.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-30 13:57:37 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Tattersfield-2001">
+<CHAR_METHODS>
+<P>randomised, open study.<BR/>Duration 2 years.<BR/>follow-up 64%</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>"mild asthma" (FEV1 86% predicted) male / female<BR/>168 / 206<BR/>Age 20 - 60, Av 35 years<BR/>Smokers 20%</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>beclomethasone 500mcg daily(rising to 2000mcg if required), budesonide 400mcg daily (rising to 1600mcg daily if required) or non-corticosteroid asthma treatment alone.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Fracture, bone mineral density; serum osteocalcin; urinary pyridinoline; urinary deoxypyridinoline</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-07-30 13:57:37 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Jadad score 2.<BR/>Results presented on those completing follow-up, rather than intention to treat, although it was commented that analysis on basis of intention to treat would not make significant difference to results.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Toogood-1991">
+<CHAR_METHODS>
+<P>placebo controlled, double blind, cross-over.<BR/>duration: 4 weeks 1st intervention, 2 wks wash out, 4 wks 2nd intervention.<BR/>follow-up: 100%</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>healthy, non-smoking adults<BR/>male / female: 24 / 24<BR/>Av age: 32.1, SD 8.8</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>budesonide 1.2mg (n=20) or 2.4mg (n=20) or placebo(n=8)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>serum osteocalcin;<BR/>24hr urinary free cortisol; plasma cortisol; urinary calcium; urinary hydroxyproline; urinary phosphate; candida counts.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad score 2. further sub-group analysis comparing 8am/8pm dosing with 8am/noon. Authors provided detailed raw data. Baseline data only available for ur. hydroxyproline placebo group, so not included in meta-analysis.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Barnes-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>trial abandoned as it was impossible to find enough patients in general practice in the UK with mild asthma who had not already been started on inhaled steroids.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bootsma-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>cross-over trial comparing two different steroids, with placebo in the run-in and wash-out periods only</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Clark-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>different outcome measures - plasma cortisol</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dempsey-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>different outcome measures (urinary cortisol:creatinine ratios)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Egan-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>randomisation to different inhaled steroid products, no placebo inhaler</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gross-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>compared inhaled steroid and placebo in their effect on the RECOVERY of osteocalcin levels after suppression by oral steroids</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Harmanci-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison between two steroids, no placebo group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Herrala-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No randomisation to a placebo group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hughes-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Two steroids; no placebo</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Johnell-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>inhaled steroids compared with a reference group given theophylline, nedocromil and ipratropium, the effect of which on bone metabolism is not known</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kos_x002d_Kudla-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>used oral steroid</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Malo-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison of two steroids; no placebo group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nikolaizik-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>different outcome measures - cortisol and adreno-corticotrophic hormone</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Padfield-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Paggiaro-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>used cortisol as the out come measure</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Pauwels-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>comparison between two steroids; no placebo group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Struijs-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>COPD patients who needed steroids were randomised to beclomethasone or budesonide. Patients not requiring corticosteroids were the comparison group. BMD, alkaline phosphatase, osteocalcin, PICP and ICTP were measured.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Suissa-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Cohort study looking at inhaled steroid use and death rates.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Toogood-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Vickers-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>trial discontinued at the end of the feasibility phase because of the difficulties with recruitment - the majority of patients were given steroids at time of diagnosis of asthma, making it difficult to recruit for randomisation.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>different outcomes - plasma cortisol and urinary cortisol and creatinine excretion</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1997b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>different outcome measures - creatinine excretion</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>randomisation to budesonide (via turbohaler) OR triamcinolone (via integrated actuator/spacer), but not to a placebo group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1998c">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>randomisation to oral prednisolone OR nebulised budesonide<BR/>no placebo group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>different outcomes - plasma cortisol and urinary cortisol/creatinine excretion</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson1998b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>different outcomes - plasma cortisol and urinary cortisol creatinine ratios</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wood-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>no randomisation to placebo</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Burge-2000">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Osur-1998">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Wise-2000">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Yernault-2000">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-07-30 13:57:23 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-07-30 13:57:23 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-30 13:57:23 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-EUROSCOP-1999">
+<DESCRIPTION>
+<P>B - Unclear </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-30 13:57:19 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Hodsman-1991">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Kerstjens-1994">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-Leech-1993">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Li-1999">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-Tattersfield-2001">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Toogood-1991">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>inhaled steroid vs placebo - all outcomes</NAME>
+<DICH_OUTCOME CHI2="0.17897428859870182" CI_END="7.032409387666425" CI_START="0.49983006811677716" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.8748359030225479" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.8471041450050323" LOG_CI_START="-0.3011776217101407" LOG_EFFECT_SIZE="0.27296326164744583" METHOD="PETO" NO="1" P_CHI2="0.6722562119819417" P_Q="1.0" P_Z="0.35142758369876015" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="483" TOTAL_2="409" WEIGHT="100.0" Z="0.9318238387813426">
+<NAME>vertebral fractures</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.868379658465541" CI_START="0.4231009894521115" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" ORDER="49" O_E="1.0551301684532923" SE="0.7110009738716679" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="322" TOTAL_2="331" VAR="1.9781517692905428" WEIGHT="89.99777042303216"/>
+<DICH_DATA CI_END="288.46195502882233" CI_START="0.06750057880693158" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" ORDER="50" O_E="0.3263598326359832" SE="2.1327387589182143" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="161" TOTAL_2="78" VAR="0.21984909227779625" WEIGHT="10.002229576967835"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="3.832762018740179" CI_END="0.04294457873770108" CI_START="-0.7172529688312413" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.33715419504677013" ESTIMABLE="YES" I2="47.81830987102622" I2_Q="72.88955929438163" ID="CMP-001.02" NO="2" P_CHI2="0.1471386210859833" P_Q="0.05478528885531586" P_Z="0.08211887744931752" Q="3.6886158025190645" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="102" TOTAL_2="39" UNITS="" WEIGHT="100.0" Z="1.738521997713583">
+<NAME>Osteocalcin</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.1441462162211144" CI_END="-0.17753211868090701" CI_START="-1.282306986289107" DF="1.0" EFFECT_SIZE="-0.7299195524850071" ESTIMABLE="YES" I2="0.0" ID="CMP-001.02.01" NO="1" P_CHI2="0.7041935462524627" P_Z="0.009600996509798405" STUDIES="2" TAU2="0.0" TOTAL_1="60" TOTAL_2="18" WEIGHT="47.34840529977585" Z="2.589877949666691">
+<NAME>Parallel studies</NAME>
+<CONT_DATA CI_END="-0.0474193916107335" CI_START="-1.6326359410126137" EFFECT_SIZE="-0.8400276663116736" ESTIMABLE="YES" MEAN_1="0.81" MEAN_2="1.25" ORDER="51" SD_1="0.61" SD_2="0.15" SE="0.40439940782225237" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="22.9972408250597"/>
+<CONT_DATA CI_END="0.14432523600476632" CI_START="-1.3961921256752534" EFFECT_SIZE="-0.6259334448352435" ESTIMABLE="YES" MEAN_1="0.53" MEAN_2="0.68" ORDER="52" SD_1="0.25" SD_2="0.13" SE="0.3929963442776051" STUDY_ID="STD-Toogood-1991" TOTAL_1="40" TOTAL_2="8" WEIGHT="24.351164474716146"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.5398813407346328" CI_START="-0.5077794715538115" DF="0.0" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" I2="0.0" ID="CMP-001.02.02" NO="2" P_CHI2="1.0" P_Z="0.9521108893807485" STUDIES="1" TAU2="0.0" TOTAL_1="42" TOTAL_2="21" WEIGHT="52.651594700224145" Z="0.060056181058629955">
+<NAME>Cross-over study</NAME>
+<CONT_DATA CI_END="0.5398813407346328" CI_START="-0.5077794715538115" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" MEAN_1="2.34" MEAN_2="2.32" ORDER="53" SD_1="1.25" SD_2="1.19" SE="0.2672653223610891" STUDY_ID="STD-Leech-1993" TOTAL_1="42" TOTAL_2="21" WEIGHT="52.651594700224145"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="2.430350579159387" CI_END="0.11016111665651034" CI_START="-0.0784634346024236" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.01584884102704337" ESTIMABLE="YES" I2="0.0" I2_Q="34.44220519591866" ID="CMP-001.03" NO="3" P_CHI2="0.657149560763878" P_Q="0.21680883731262024" P_Z="0.7418798602578867" Q="1.5253716251263296" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="475" TOTAL_2="317" UNITS="" WEIGHT="100.0" Z="0.32936494642273717">
+<NAME>Bone mineral density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.7872992217842869" CI_END="0.10468842183825604" CI_START="-0.0848769258035446" DF="2.0" EFFECT_SIZE="0.009905748017355723" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.01" NO="1" P_CHI2="0.6745905900990257" P_Z="0.8377002135175193" STUDIES="3" TAU2="0.0" TOTAL_1="248" TOTAL_2="171" WEIGHT="99.009880393114" Z="0.20483605886274467">
+<NAME>Change at lumbar spine (% fall)</NAME>
+<CONT_DATA CI_END="1.9135324912808684" CI_START="-0.8735324912808684" EFFECT_SIZE="0.52" ESTIMABLE="YES" MEAN_1="0.66" MEAN_2="0.14" ORDER="54" SD_1="4.51" SD_2="4.51" SE="0.710999029713237" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="82" TOTAL_2="79" WEIGHT="0.4580387804828711"/>
+<CONT_DATA CI_END="0.10545625847020747" CI_START="-0.08545625847020745" EFFECT_SIZE="0.010000000000000009" ESTIMABLE="YES" MEAN_1="1.23" MEAN_2="1.22" ORDER="55" SD_1="0.16" SD_2="0.14" SE="0.04870306761917782" STUDY_ID="STD-Li-1999" TOTAL_1="21" TOTAL_2="17" WEIGHT="97.61748909119002"/>
+<CONT_DATA CI_END="0.7256922221411465" CI_START="-1.2256922221411464" EFFECT_SIZE="-0.25" ESTIMABLE="YES" MEAN_1="0.15" MEAN_2="0.4" ORDER="56" SD_1="3.5" SD_2="3.5" SE="0.4978113015531317" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="145" TOTAL_2="75" WEIGHT="0.934352521441111"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.11767973224877024" CI_END="1.5579624362095523" CI_START="-0.33767112574531655" DF="1.0" EFFECT_SIZE="0.6101456552321178" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.02" NO="2" P_CHI2="0.7315648129751875" P_Z="0.20705561316801413" STUDIES="2" TAU2="0.0" TOTAL_1="227" TOTAL_2="146" WEIGHT="0.9901196068859921" Z="1.261703246428399">
+<NAME>Change at femoral neck (% fall)</NAME>
+<CONT_DATA CI_END="2.5735309714350247" CI_START="-0.8535309714350252" EFFECT_SIZE="0.8599999999999999" ESTIMABLE="YES" MEAN_1="1.17" MEAN_2="0.31" ORDER="57" SD_1="5.33" SD_2="5.33" SE="0.8742665604833245" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="78" TOTAL_2="71" WEIGHT="0.3029371468295124"/>
+<CONT_DATA CI_END="1.6377116127591882" CI_START="-0.6377116127591882" EFFECT_SIZE="0.5" ESTIMABLE="YES" MEAN_1="0.9" MEAN_2="0.4" ORDER="58" SD_1="4.1" SD_2="4.1" SE="0.5804757749291886" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="149" TOTAL_2="75" WEIGHT="0.6871824600564798"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="3.3015846993130733" CI_START="-25.301584699313075" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-11.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.1316831725321399" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.507497545427685">
+<NAME>alkaline phosphatase IU/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="3.3015846993130733" CI_START="-25.301584699313075" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="43.0" MEAN_2="54.0" ORDER="59" SD_1="25.94" SD_2="14.0" SE="7.29686096893726" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.7337571454468872" CI_START="-15.733757145446887" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-7.5" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.05" NO="5" P_CHI2="1.0" P_Q="1.0" P_Z="0.0742126048388153" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.7853003949939283">
+<NAME>Parathyroid hormone (ng/l)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.7337571454468872" CI_START="-15.733757145446887" EFFECT_SIZE="-7.5" ESTIMABLE="YES" MEAN_1="10.5" MEAN_2="18.0" ORDER="60" SD_1="8.06" SD_2="12.0" SE="4.2009736966565265" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.36495931007067983" CI_START="-0.5249593100706795" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.06" NO="6" P_CHI2="1.0" P_Q="1.0" P_Z="0.7245493274803423" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.352385297294482">
+<NAME>urinary hydroxyproline (umol/L GF)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.36495931007067983" CI_START="-0.5249593100706795" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" MEAN_1="1.59" MEAN_2="1.67" ORDER="61" SD_1="0.46" SD_2="0.64" SE="0.22702422778197046" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="26.24969297120494" CI_START="-3.1096929712049537" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.07" NO="7" P_CHI2="1.0" P_Q="1.0" P_Z="0.12240134592383402" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="38" UNITS="" WEIGHT="100.0" Z="1.5447723154435324">
+<NAME>PICP mcg/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="26.24969297120494" CI_START="-3.1096929712049537" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" MEAN_1="128.54" MEAN_2="116.97" ORDER="62" SD_1="45.79" SD_2="30.7" SE="7.48977689743102" STUDY_ID="STD-Kerstjens-1994" TOTAL_1="67" TOTAL_2="38" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>inhaled steroid vs placebo - Jadad scores 0-2</NAME>
+<CONT_OUTCOME CHI2="1.824639799226989" CI_END="0.24618635562387162" CI_START="-0.6201236305229755" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.18696863744955192" ESTIMABLE="YES" I2="45.19466250688759" I2_Q="45.19466250688759" ID="CMP-002.01" NO="1" P_CHI2="0.1767621420940585" P_Q="0.1767621420940585" P_Z="0.39754931210856514" Q="1.824639799226989" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="82" TOTAL_2="29" UNITS="" WEIGHT="99.99999999999999" Z="0.8460061675371979">
+<NAME>Osteocalcin</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.14432523600476632" CI_START="-1.3961921256752534" DF="0.0" EFFECT_SIZE="-0.6259334448352435" ESTIMABLE="YES" I2="0.0" ID="CMP-002.01.01" NO="1" P_CHI2="1.0" P_Z="0.11122284324726615" STUDIES="1" TAU2="0.0" TOTAL_1="40" TOTAL_2="8" WEIGHT="31.62375574022413" Z="1.5927207821381058">
+<NAME>Parallel study</NAME>
+<CONT_DATA CI_END="0.14432523600476632" CI_START="-1.3961921256752534" EFFECT_SIZE="-0.6259334448352435" ESTIMABLE="YES" MEAN_1="0.53" MEAN_2="0.68" ORDER="63" SD_1="0.25" SD_2="0.13" SE="0.3929963442776051" STUDY_ID="STD-Toogood-1991" TOTAL_1="40" TOTAL_2="8" WEIGHT="31.62375574022413"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.5398813407346328" CI_START="-0.5077794715538115" DF="0.0" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" I2="0.0" ID="CMP-002.01.02" NO="2" P_CHI2="1.0" P_Z="0.9521108893807485" STUDIES="1" TAU2="0.0" TOTAL_1="42" TOTAL_2="21" WEIGHT="68.37624425977586" Z="0.060056181058629955">
+<NAME>Cross-over study</NAME>
+<CONT_DATA CI_END="0.5398813407346328" CI_START="-0.5077794715538115" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" MEAN_1="2.34" MEAN_2="2.32" ORDER="64" SD_1="1.25" SD_2="1.19" SE="0.2672653223610891" STUDY_ID="STD-Leech-1993" TOTAL_1="42" TOTAL_2="21" WEIGHT="68.37624425977586"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="26.24969297120494" CI_START="-3.1096929712049537" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.12240134592383402" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="38" UNITS="" WEIGHT="100.0" Z="1.5447723154435324">
+<NAME>PICP mcg/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="26.24969297120494" CI_START="-3.1096929712049537" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" MEAN_1="128.54" MEAN_2="116.97" ORDER="65" SD_1="45.79" SD_2="30.7" SE="7.48977689743102" STUDY_ID="STD-Kerstjens-1994" TOTAL_1="67" TOTAL_2="38" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="288.46195502882233" CI_START="0.06750057880693158" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-002.03" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" METHOD="PETO" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.48640361920518616" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="161" TOTAL_2="78" WEIGHT="100.0" Z="0.696040264416823">
+<NAME>Vertebral fracture</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="288.46195502882233" CI_START="0.06750057880693158" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" ORDER="66" O_E="0.3263598326359832" SE="2.1327387589182143" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="161" TOTAL_2="78" VAR="0.21984909227779625" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.9619195835590926" CI_END="0.8084752869675252" CI_START="-0.6727975483764438" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.06783886929554075" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.04" NO="4" P_CHI2="0.3267039062119461" P_Q="0.3267039062119461" P_Z="0.8575265622428475" Q="0.9619195835590926" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="294" TOTAL_2="150" UNITS="" WEIGHT="100.0" Z="0.17952363318713627">
+<NAME>Bone Mineral Density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.7256922221411465" CI_START="-1.2256922221411464" DF="0.0" EFFECT_SIZE="-0.25" ESTIMABLE="YES" I2="0.0" ID="CMP-002.04.01" NO="1" P_CHI2="1.0" P_Z="0.6155280255088201" STUDIES="1" TAU2="0.0" TOTAL_1="145" TOTAL_2="75" WEIGHT="57.6214840939279" Z="0.5021983213720136">
+<NAME>lumber spine (% fall)</NAME>
+<CONT_DATA CI_END="0.7256922221411465" CI_START="-1.2256922221411464" EFFECT_SIZE="-0.25" ESTIMABLE="YES" MEAN_1="0.15" MEAN_2="0.4" ORDER="67" SD_1="3.5" SD_2="3.5" SE="0.4978113015531317" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="145" TOTAL_2="75" WEIGHT="57.6214840939279"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.6377116127591882" CI_START="-0.6377116127591882" DF="0.0" EFFECT_SIZE="0.5" ESTIMABLE="YES" I2="0.0" ID="CMP-002.04.02" NO="2" P_CHI2="1.0" P_Z="0.389038493098378" STUDIES="1" TAU2="0.0" TOTAL_1="149" TOTAL_2="75" WEIGHT="42.378515906072096" Z="0.8613623885699525">
+<NAME>neck of femur (% fall)</NAME>
+<CONT_DATA CI_END="1.6377116127591882" CI_START="-0.6377116127591882" EFFECT_SIZE="0.5" ESTIMABLE="YES" MEAN_1="0.9" MEAN_2="0.4" ORDER="68" SD_1="4.1" SD_2="4.1" SE="0.5804757749291886" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="149" TOTAL_2="75" WEIGHT="42.378515906072096"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>inhaled steroid vs placebo Jadad scores 3-5</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-0.03072403945947738" CI_START="-0.8492759605405225" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.43999999999999995" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.035109171367463894" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="99.99999999999999" Z="2.1070970111674536">
+<NAME>osteocalcin</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.03072403945947738" CI_START="-0.8492759605405225" EFFECT_SIZE="-0.43999999999999995" ESTIMABLE="YES" MEAN_1="0.81" MEAN_2="1.25" ORDER="69" SD_1="0.61" SD_2="0.5" SE="0.20881810266353826" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="99.99999999999999"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.36495931007067983" CI_START="-0.5249593100706795" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.7245493274803423" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.352385297294482">
+<NAME>urinary hydroxyproline (umol/L GF)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.36495931007067983" CI_START="-0.5249593100706795" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" MEAN_1="1.59" MEAN_2="1.67" ORDER="70" SD_1="0.46" SD_2="0.64" SE="0.22702422778197046" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.7337571454468872" CI_START="-15.733757145446887" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-7.5" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.0742126048388153" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.7853003949939283">
+<NAME>parathyroid hormone ng/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.7337571454468872" CI_START="-15.733757145446887" EFFECT_SIZE="-7.5" ESTIMABLE="YES" MEAN_1="10.5" MEAN_2="18.0" ORDER="71" SD_1="8.06" SD_2="12.0" SE="4.2009736966565265" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="3.3015846993130733" CI_START="-25.301584699313075" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-11.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.1316831725321399" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.507497545427685">
+<NAME>alkaline phosphatase</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="3.3015846993130733" CI_START="-25.301584699313075" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="43.0" MEAN_2="54.0" ORDER="72" SD_1="25.94" SD_2="14.0" SE="7.29686096893726" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="1.3798425710140243" CI_END="0.3089589691896174" CI_START="-0.2135816919162814" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.047688638636667995" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.05" NO="5" P_CHI2="0.5016156044839728" P_Q="0.3471524078936177" P_Z="0.7205345559555832" Q="0.8838392110978415" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="181" TOTAL_2="167" UNITS="" WEIGHT="100.0" Z="0.35774446337553906">
+<NAME>Bone mineral density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="1.612622535623896E-32" CI_END="2.573530971435025" CI_START="-0.8535309714350251" DF="0.0" EFFECT_SIZE="0.86" ESTIMABLE="YES" I2="99.99999999999999" ID="CMP-003.05.01" NO="1" P_CHI2="0.0" P_Z="0.3252720624553599" STUDIES="1" TAU2="0.0" TOTAL_1="78" TOTAL_2="71" WEIGHT="2.324857146706733" Z="0.9836816811620503">
+<NAME>Change at femoral neck (% fall)</NAME>
+<CONT_DATA CI_END="2.5735309714350247" CI_START="-0.8535309714350252" EFFECT_SIZE="0.8599999999999999" ESTIMABLE="YES" MEAN_1="1.17" MEAN_2="0.31" ORDER="73" SD_1="5.33" SD_2="5.33" SE="0.8742665604833245" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="78" TOTAL_2="71" WEIGHT="2.324857146706733"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.4960033599161828" CI_END="0.2927154731789037" CI_START="-0.2360073561166386" DF="1.0" EFFECT_SIZE="0.028354058531132532" ESTIMABLE="YES" I2="0.0" ID="CMP-003.05.02" NO="2" P_CHI2="0.4812615447972801" P_Z="0.8334992861846291" STUDIES="2" TAU2="0.0" TOTAL_1="103" TOTAL_2="96" WEIGHT="97.67514285329327" Z="0.21021575183581345">
+<NAME>Change at lumbar spine (% fall)</NAME>
+<CONT_DATA CI_END="1.9135324912808684" CI_START="-0.8735324912808684" EFFECT_SIZE="0.52" ESTIMABLE="YES" MEAN_1="0.66" MEAN_2="0.14" ORDER="74" SD_1="4.51" SD_2="4.51" SE="0.710999029713237" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="82" TOTAL_2="79" WEIGHT="3.5151672332668134"/>
+<CONT_DATA CI_END="0.27925075268712646" CI_START="-0.25925075268712644" EFFECT_SIZE="0.010000000000000009" ESTIMABLE="YES" MEAN_1="1.23" MEAN_2="1.22" ORDER="75" SD_1="0.61" SD_2="0.14" SE="0.13737535730806383" STUDY_ID="STD-Li-1999" TOTAL_1="21" TOTAL_2="17" WEIGHT="94.15997562002646"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="6.868379658465541" CI_START="0.4231009894521115" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-003.06" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" METHOD="PETO" NO="6" P_CHI2="1.0" P_Q="1.0" P_Z="0.4531351215366879" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="322" TOTAL_2="331" WEIGHT="100.0" Z="0.7501985773316678">
+<NAME>Vertebral fracture</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.868379658465541" CI_START="0.4231009894521115" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" ORDER="76" O_E="1.0551301684532923" SE="0.7110009738716679" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="322" TOTAL_2="331" VAR="1.9781517692905428" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-004" NO="4">
+<NAME>inhaled steroid vs placebo - Conventional therapeutic dose of steroid</NAME>
+<DICH_OUTCOME CHI2="0.17897428859870182" CI_END="7.032409387666425" CI_START="0.49983006811677716" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.8748359030225479" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-004.01" LOG_CI_END="0.8471041450050323" LOG_CI_START="-0.3011776217101407" LOG_EFFECT_SIZE="0.27296326164744583" METHOD="PETO" NO="1" P_CHI2="0.6722562119819417" P_Q="1.0" P_Z="0.35142758369876015" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="483" TOTAL_2="409" WEIGHT="100.0" Z="0.9318238387813426">
+<NAME>Vertebral fracture</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.868379658465541" CI_START="0.4231009894521115" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" ORDER="77" O_E="1.0551301684532923" SE="0.7110009738716679" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="322" TOTAL_2="331" VAR="1.9781517692905428" WEIGHT="89.99777042303216"/>
+<DICH_DATA CI_END="288.46195502882233" CI_START="0.06750057880693158" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" ORDER="78" O_E="0.3263598326359832" SE="2.1327387589182143" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="161" TOTAL_2="78" VAR="0.21984909227779625" WEIGHT="10.002229576967835"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="2.430350579159387" CI_END="0.11016111665651034" CI_START="-0.0784634346024236" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.01584884102704337" ESTIMABLE="YES" I2="0.0" I2_Q="34.44220519591866" ID="CMP-004.02" NO="2" P_CHI2="0.657149560763878" P_Q="0.21680883731262024" P_Z="0.7418798602578867" Q="1.5253716251263296" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="475" TOTAL_2="317" UNITS="" WEIGHT="100.0" Z="0.32936494642273717">
+<NAME>Bone mineral density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.7872992217842869" CI_END="0.10468842183825604" CI_START="-0.0848769258035446" DF="2.0" EFFECT_SIZE="0.009905748017355723" ESTIMABLE="YES" I2="0.0" ID="CMP-004.02.01" NO="1" P_CHI2="0.6745905900990257" P_Z="0.8377002135175193" STUDIES="3" TAU2="0.0" TOTAL_1="248" TOTAL_2="171" WEIGHT="99.009880393114" Z="0.20483605886274467">
+<NAME>Change at lumbar spine (% fall)</NAME>
+<CONT_DATA CI_END="1.9135324912808684" CI_START="-0.8735324912808684" EFFECT_SIZE="0.52" ESTIMABLE="YES" MEAN_1="0.66" MEAN_2="0.14" ORDER="79" SD_1="4.51" SD_2="4.51" SE="0.710999029713237" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="82" TOTAL_2="79" WEIGHT="0.4580387804828711"/>
+<CONT_DATA CI_END="0.10545625847020747" CI_START="-0.08545625847020745" EFFECT_SIZE="0.010000000000000009" ESTIMABLE="YES" MEAN_1="1.23" MEAN_2="1.22" ORDER="80" SD_1="0.16" SD_2="0.14" SE="0.04870306761917782" STUDY_ID="STD-Li-1999" TOTAL_1="21" TOTAL_2="17" WEIGHT="97.61748909119002"/>
+<CONT_DATA CI_END="0.7256922221411465" CI_START="-1.2256922221411464" EFFECT_SIZE="-0.25" ESTIMABLE="YES" MEAN_1="0.15" MEAN_2="0.4" ORDER="81" SD_1="3.5" SD_2="3.5" SE="0.4978113015531317" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="145" TOTAL_2="75" WEIGHT="0.934352521441111"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.11767973224877024" CI_END="1.5579624362095523" CI_START="-0.33767112574531655" DF="1.0" EFFECT_SIZE="0.6101456552321178" ESTIMABLE="YES" I2="0.0" ID="CMP-004.02.02" NO="2" P_CHI2="0.7315648129751875" P_Z="0.20705561316801413" STUDIES="2" TAU2="0.0" TOTAL_1="227" TOTAL_2="146" WEIGHT="0.9901196068859921" Z="1.261703246428399">
+<NAME>Change at femoral neck (% fall)</NAME>
+<CONT_DATA CI_END="2.5735309714350247" CI_START="-0.8535309714350252" EFFECT_SIZE="0.8599999999999999" ESTIMABLE="YES" MEAN_1="1.17" MEAN_2="0.31" ORDER="82" SD_1="5.33" SD_2="5.33" SE="0.8742665604833245" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="78" TOTAL_2="71" WEIGHT="0.3029371468295124"/>
+<CONT_DATA CI_END="1.6377116127591882" CI_START="-0.6377116127591882" EFFECT_SIZE="0.5" ESTIMABLE="YES" MEAN_1="0.9" MEAN_2="0.4" ORDER="83" SD_1="4.1" SD_2="4.1" SE="0.5804757749291886" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="149" TOTAL_2="75" WEIGHT="0.6871824600564798"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="26.24969297120494" CI_START="-3.1096929712049537" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-004.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.12240134592383402" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="38" UNITS="" WEIGHT="100.0" Z="1.5447723154435324">
+<NAME>PICP mcg/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="26.24969297120494" CI_START="-3.1096929712049537" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" MEAN_1="128.54" MEAN_2="116.97" ORDER="84" SD_1="45.79" SD_2="30.7" SE="7.48977689743102" STUDY_ID="STD-Kerstjens-1994" TOTAL_1="67" TOTAL_2="38" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-1.9648631809114487" CI_START="-24.03513681908855" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-13.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-004.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.02094659413927107" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="10" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="2.308945708307511">
+<NAME>Alkaline phosphatase IU/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-1.9648631809114487" CI_START="-24.03513681908855" EFFECT_SIZE="-13.0" ESTIMABLE="YES" MEAN_1="41.0" MEAN_2="54.0" ORDER="85" SD_1="11.0" SD_2="14.0" SE="5.630275304103699" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-2.3335588467255466" CI_START="-17.666441153274455" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-10.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-004.05" NO="5" P_CHI2="1.0" P_Q="1.0" P_Z="0.010571588827903133" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="10" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="2.556549962824568">
+<NAME>Parathyroid hormone ng/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-2.3335588467255466" CI_START="-17.666441153274455" EFFECT_SIZE="-10.0" ESTIMABLE="YES" MEAN_1="8.0" MEAN_2="18.0" ORDER="86" SD_1="3.0" SD_2="12.0" SE="3.9115214431215892" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.5630203462788315" CI_START="-0.4830203462788314" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.040000000000000036" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-004.06" NO="6" P_CHI2="1.0" P_Q="1.0" P_Z="0.8808468161463469" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="10" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.1498958117774764">
+<NAME>urinary hydroxyproline</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.5630203462788315" CI_START="-0.4830203462788314" EFFECT_SIZE="0.040000000000000036" ESTIMABLE="YES" MEAN_1="1.71" MEAN_2="1.67" ORDER="87" SD_1="0.55" SD_2="0.64" SE="0.2668520189168521" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="1.3174988215271408" CI_END="0.21315973711140468" CI_START="-0.5799253101198673" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.1833827865042313" ESTIMABLE="YES" I2="0.0" I2_Q="23.324338499268762" ID="CMP-004.07" NO="7" P_CHI2="0.5174981431945358" P_Q="0.25344853585826743" P_Z="0.364727500723075" Q="1.3041948128357044" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="72" TOTAL_2="39" UNITS="" WEIGHT="100.0" Z="0.9063937296199698">
+<NAME>Osteocalcin</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.013304008691436414" CI_END="0.15581331464505133" CI_START="-1.0579528207350248" DF="1.0" EFFECT_SIZE="-0.45106975304498675" ESTIMABLE="YES" I2="0.0" ID="CMP-004.07.01" NO="1" P_CHI2="0.9081732551808269" P_Z="0.14518378177426852" STUDIES="2" TAU2="0.0" TOTAL_1="30" TOTAL_2="18" WEIGHT="42.6942600432003" Z="1.4567558687188311">
+<NAME>Parallel studies</NAME>
+<CONT_DATA CI_END="0.475164328176725" CI_START="-1.3009919823183427" EFFECT_SIZE="-0.41291382707080887" ESTIMABLE="YES" MEAN_1="1.0" MEAN_2="1.25" ORDER="88" SD_1="0.65" SD_2="0.5" SE="0.45310942560811374" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="19.93779642157759"/>
+<CONT_DATA CI_END="0.34676135119585383" CI_START="-1.3157605501624567" EFFECT_SIZE="-0.48449959948330146" ESTIMABLE="YES" MEAN_1="0.56" MEAN_2="0.68" ORDER="89" SD_1="0.27" SD_2="0.13" SE="0.42412052325248606" STUDY_ID="STD-Toogood-1991" TOTAL_1="20" TOTAL_2="8" WEIGHT="22.756463621622714"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.5398813407346328" CI_START="-0.5077794715538115" DF="0.0" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" I2="0.0" ID="CMP-004.07.02" NO="2" P_CHI2="1.0" P_Z="0.9521108893807485" STUDIES="1" TAU2="0.0" TOTAL_1="42" TOTAL_2="21" WEIGHT="57.3057399567997" Z="0.060056181058629955">
+<NAME>Cross-over study</NAME>
+<CONT_DATA CI_END="0.5398813407346328" CI_START="-0.5077794715538115" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" MEAN_1="2.34" MEAN_2="2.32" ORDER="90" SD_1="1.25" SD_2="1.19" SE="0.2672653223610891" STUDY_ID="STD-Leech-1993" TOTAL_1="42" TOTAL_2="21" WEIGHT="57.3057399567997"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-005" NO="5">
+<NAME>inhaled steroid vs placebo - experimental dose of steroid</NAME>
+<CONT_OUTCOME CHI2="0.21267958337594095" CI_END="-0.33569974819934123" CI_START="-1.6124436451789106" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.974071696689126" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-005.01" NO="1" P_CHI2="0.6446752461492774" P_Q="1.0" P_Z="0.002783866857384298" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="18" UNITS="" WEIGHT="100.0" Z="2.9906474562158185">
+<NAME>Osteocalcin - parallel studies</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.18170325323277137" CI_START="-2.1048397685995273" EFFECT_SIZE="-1.1432715109161493" ESTIMABLE="YES" MEAN_1="0.61" MEAN_2="1.25" ORDER="91" SD_1="0.57" SD_2="0.5" SE="0.49060506482165267" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="44.07449581549578"/>
+<CONT_DATA CI_END="0.012901855916578109" CI_START="-1.6943548863602784" EFFECT_SIZE="-0.8407265152218502" ESTIMABLE="YES" MEAN_1="0.5" MEAN_2="0.68" ORDER="92" SD_1="0.23" SD_2="0.13" SE="0.43553268216749896" STUDY_ID="STD-Toogood-1991" TOTAL_1="20" TOTAL_2="8" WEIGHT="55.92550418450423"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="14.363888769223227" CI_START="-32.36388876922322" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-9.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-005.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.4502505333229446" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="10" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.7549974250903331">
+<NAME>Alkaline phosphatase</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="14.363888769223227" CI_START="-32.36388876922322" EFFECT_SIZE="-9.0" ESTIMABLE="YES" MEAN_1="45.0" MEAN_2="54.0" ORDER="93" SD_1="35.0" SD_2="14.0" SE="11.92057045614848" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="5.089532137239781" CI_START="-15.08953213723978" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-5.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-005.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.33140595931902994" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="10" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.9712858623572641">
+<NAME>Parathyroid hormone</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="5.089532137239781" CI_START="-15.08953213723978" EFFECT_SIZE="-5.0" ESTIMABLE="YES" MEAN_1="13.0" MEAN_2="18.0" ORDER="94" SD_1="11.0" SD_2="12.0" SE="5.1478150704935" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.25211063231153336" CI_START="-0.6521106323115333" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.19999999999999996" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-005.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.38592641119208404" Q="0.0" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="10" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.8670284857134316">
+<NAME>Urinary hydroxyproline</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.25211063231153336" CI_START="-0.6521106323115333" EFFECT_SIZE="-0.19999999999999996" ESTIMABLE="YES" MEAN_1="1.47" MEAN_2="1.67" ORDER="95" SD_1="0.35" SD_2="0.64" SE="0.23067292862405853" STUDY_ID="STD-Hodsman-1991" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-006" NO="6">
+<NAME>inhaled steroid vs placebo - healthy recruits</NAME>
+<CONT_OUTCOME CHI2="3.295958970257998" CI_END="0.06285903570094514" CI_START="-0.6957244017051594" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.3164326830021071" ESTIMABLE="YES" I2="39.31963297942857" I2_Q="69.26070492641232" ID="CMP-006.01" NO="1" P_CHI2="0.19243852494080604" P_Q="0.07128574015061362" P_Z="0.10201881774441872" Q="3.253165037148937" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="102" TOTAL_2="39" UNITS="" WEIGHT="100.0" Z="1.6351442218042787">
+<NAME>Osteocalcin</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.042793933109061155" CI_END="-0.13293971217678868" CI_START="-1.2327778264826499" DF="1.0" EFFECT_SIZE="-0.6828587693297192" ESTIMABLE="YES" I2="0.0" ID="CMP-006.01.01" NO="1" P_CHI2="0.836113893002471" P_Z="0.014942329590697224" STUDIES="2" TAU2="0.0" TOTAL_1="60" TOTAL_2="18" WEIGHT="47.571755797300156" Z="2.433773801807701">
+<NAME>Parallel studies</NAME>
+<CONT_DATA CI_END="0.04332820551314143" CI_START="-1.5274065852378083" EFFECT_SIZE="-0.7420391898623334" ESTIMABLE="YES" MEAN_1="0.81" MEAN_2="1.25" ORDER="96" SD_1="0.61" SD_2="0.5" SE="0.40070501375043244" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="23.323890087449353"/>
+<CONT_DATA CI_END="0.14432523600476632" CI_START="-1.3961921256752534" EFFECT_SIZE="-0.6259334448352435" ESTIMABLE="YES" MEAN_1="0.53" MEAN_2="0.68" ORDER="97" SD_1="0.25" SD_2="0.13" SE="0.3929963442776051" STUDY_ID="STD-Toogood-1991" TOTAL_1="40" TOTAL_2="8" WEIGHT="24.247865709850803"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.5398813407346328" CI_START="-0.5077794715538115" DF="0.0" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" I2="0.0" ID="CMP-006.01.02" NO="2" P_CHI2="1.0" P_Z="0.9521108893807485" STUDIES="1" TAU2="0.0" TOTAL_1="42" TOTAL_2="21" WEIGHT="52.42824420269985" Z="0.060056181058629955">
+<NAME>Cross-over studies</NAME>
+<CONT_DATA CI_END="0.5398813407346328" CI_START="-0.5077794715538115" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" MEAN_1="2.34" MEAN_2="2.32" ORDER="98" SD_1="1.25" SD_2="1.19" SE="0.2672653223610891" STUDY_ID="STD-Leech-1993" TOTAL_1="42" TOTAL_2="21" WEIGHT="52.42824420269985"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.36495931007067983" CI_START="-0.5249593100706795" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-006.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.7245493274803423" Q="0.0" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.352385297294482">
+<NAME>Urinary hydroxyproline (umol/L GF)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.36495931007067983" CI_START="-0.5249593100706795" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" MEAN_1="1.59" MEAN_2="1.67" ORDER="99" SD_1="0.46" SD_2="0.64" SE="0.22702422778197046" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.7337571454468872" CI_START="-15.733757145446887" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-7.5" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-006.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.0742126048388153" Q="0.0" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.7853003949939283">
+<NAME>Parathyroid hormone (ng/L)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.7337571454468872" CI_START="-15.733757145446887" EFFECT_SIZE="-7.5" ESTIMABLE="YES" MEAN_1="10.5" MEAN_2="18.0" ORDER="100" SD_1="8.06" SD_2="12.0" SE="4.2009736966565265" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="3.3015846993130733" CI_START="-25.301584699313075" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-11.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-006.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.1316831725321399" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.507497545427685">
+<NAME>Alkaline phosphatase</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="3.3015846993130733" CI_START="-25.301584699313075" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="43.0" MEAN_2="54.0" ORDER="101" SD_1="25.94" SD_2="14.0" SE="7.29686096893726" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-007" NO="7">
+<NAME>inhaled steroid vs placebo - asthmatic or COPD recruits</NAME>
+<DICH_OUTCOME CHI2="0.17897428859870182" CI_END="7.032409387666425" CI_START="0.49983006811677716" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.8748359030225479" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-007.01" LOG_CI_END="0.8471041450050323" LOG_CI_START="-0.3011776217101407" LOG_EFFECT_SIZE="0.27296326164744583" METHOD="PETO" NO="1" P_CHI2="0.6722562119819417" P_Q="1.0" P_Z="0.35142758369876015" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="483" TOTAL_2="409" WEIGHT="100.0" Z="0.9318238387813426">
+<NAME>Vertebral fracture</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.868379658465541" CI_START="0.4231009894521115" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" ORDER="102" O_E="1.0551301684532923" SE="0.7110009738716679" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="322" TOTAL_2="331" VAR="1.9781517692905428" WEIGHT="89.99777042303216"/>
+<DICH_DATA CI_END="288.46195502882233" CI_START="0.06750057880693158" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" ORDER="103" O_E="0.3263598326359832" SE="2.1327387589182143" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="161" TOTAL_2="78" VAR="0.21984909227779625" WEIGHT="10.002229576967835"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="2.430350579159388" CI_END="0.11016111665651034" CI_START="-0.0784634346024236" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.015848841027043366" ESTIMABLE="YES" I2="0.0" I2_Q="34.4422051959187" ID="CMP-007.02" NO="2" P_CHI2="0.6571495607638778" P_Q="0.2168088373126199" P_Z="0.7418798602578867" Q="1.5253716251263305" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="475" TOTAL_2="317" UNITS="" WEIGHT="100.0" Z="0.3293649464227371">
+<NAME>Bone MIneral Density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.7872992217842869" CI_END="0.10468842183825604" CI_START="-0.0848769258035446" DF="2.0" EFFECT_SIZE="0.009905748017355722" ESTIMABLE="YES" I2="0.0" ID="CMP-007.02.01" NO="1" P_CHI2="0.6745905900990257" P_Z="0.8377002135175193" STUDIES="3" TAU2="0.0" TOTAL_1="248" TOTAL_2="171" WEIGHT="99.009880393114" Z="0.20483605886274464">
+<NAME>Change at lumbar spine (% fall)</NAME>
+<CONT_DATA CI_END="1.9135324912808684" CI_START="-0.8735324912808684" EFFECT_SIZE="0.52" ESTIMABLE="YES" MEAN_1="0.66" MEAN_2="0.14" ORDER="104" SD_1="4.51" SD_2="4.51" SE="0.710999029713237" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="82" TOTAL_2="79" WEIGHT="0.4580387804828711"/>
+<CONT_DATA CI_END="0.10545625847020747" CI_START="-0.08545625847020745" EFFECT_SIZE="0.010000000000000009" ESTIMABLE="YES" MEAN_1="1.23" MEAN_2="1.22" ORDER="105" SD_1="0.16" SD_2="0.14" SE="0.04870306761917782" STUDY_ID="STD-Li-1999" TOTAL_1="21" TOTAL_2="17" WEIGHT="97.61748909119002"/>
+<CONT_DATA CI_END="0.7256922221411465" CI_START="-1.2256922221411464" EFFECT_SIZE="-0.25" ESTIMABLE="YES" MEAN_1="0.15" MEAN_2="0.4" ORDER="106" SD_1="3.5" SD_2="3.5" SE="0.4978113015531317" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="145" TOTAL_2="75" WEIGHT="0.934352521441111"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.11767973224877024" CI_END="1.5579624362095523" CI_START="-0.33767112574531655" DF="1.0" EFFECT_SIZE="0.6101456552321178" ESTIMABLE="YES" I2="0.0" ID="CMP-007.02.02" NO="2" P_CHI2="0.7315648129751875" P_Z="0.20705561316801413" STUDIES="2" TAU2="0.0" TOTAL_1="227" TOTAL_2="146" WEIGHT="0.9901196068859921" Z="1.261703246428399">
+<NAME>Change at femoral neck (% fall)</NAME>
+<CONT_DATA CI_END="2.5735309714350247" CI_START="-0.8535309714350252" EFFECT_SIZE="0.8599999999999999" ESTIMABLE="YES" MEAN_1="1.17" MEAN_2="0.31" ORDER="107" SD_1="5.33" SD_2="5.33" SE="0.8742665604833245" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="78" TOTAL_2="71" WEIGHT="0.3029371468295124"/>
+<CONT_DATA CI_END="1.6377116127591882" CI_START="-0.6377116127591882" EFFECT_SIZE="0.5" ESTIMABLE="YES" MEAN_1="0.9" MEAN_2="0.4" ORDER="108" SD_1="4.1" SD_2="4.1" SE="0.5804757749291886" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="149" TOTAL_2="75" WEIGHT="0.6871824600564798"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-007.03" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="0" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="0" TOTAL_2="0" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>PICP (mcg/L)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-008" NO="8">
+<NAME>inhaled steroid vs placebo - treatment &amp; follow-up &lt;/= 12 weeks</NAME>
+<CONT_OUTCOME CHI2="3.295958970257998" CI_END="0.06285903570094514" CI_START="-0.6957244017051594" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.3164326830021071" ESTIMABLE="YES" I2="39.31963297942857" I2_Q="69.26070492641232" ID="CMP-008.01" NO="1" P_CHI2="0.19243852494080604" P_Q="0.07128574015061362" P_Z="0.10201881774441872" Q="3.253165037148937" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="102" TOTAL_2="39" UNITS="" WEIGHT="100.0" Z="1.6351442218042787">
+<NAME>Osteocalcin</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.042793933109061155" CI_END="-0.13293971217678868" CI_START="-1.2327778264826499" DF="1.0" EFFECT_SIZE="-0.6828587693297192" ESTIMABLE="YES" I2="0.0" ID="CMP-008.01.01" NO="1" P_CHI2="0.836113893002471" P_Z="0.014942329590697224" STUDIES="2" TAU2="0.0" TOTAL_1="60" TOTAL_2="18" WEIGHT="47.571755797300156" Z="2.433773801807701">
+<NAME>Parallel studies</NAME>
+<CONT_DATA CI_END="0.04332820551314143" CI_START="-1.5274065852378083" EFFECT_SIZE="-0.7420391898623334" ESTIMABLE="YES" MEAN_1="0.81" MEAN_2="1.25" ORDER="109" SD_1="0.61" SD_2="0.5" SE="0.40070501375043244" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="23.323890087449353"/>
+<CONT_DATA CI_END="0.14432523600476632" CI_START="-1.3961921256752534" EFFECT_SIZE="-0.6259334448352435" ESTIMABLE="YES" MEAN_1="0.53" MEAN_2="0.68" ORDER="110" SD_1="0.25" SD_2="0.13" SE="0.3929963442776051" STUDY_ID="STD-Toogood-1991" TOTAL_1="40" TOTAL_2="8" WEIGHT="24.247865709850803"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.5398813407346328" CI_START="-0.5077794715538115" DF="0.0" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" I2="0.0" ID="CMP-008.01.02" NO="2" P_CHI2="1.0" P_Z="0.9521108893807485" STUDIES="1" TAU2="0.0" TOTAL_1="42" TOTAL_2="21" WEIGHT="52.42824420269985" Z="0.060056181058629955">
+<NAME>Cross-over studies</NAME>
+<CONT_DATA CI_END="0.5398813407346328" CI_START="-0.5077794715538115" EFFECT_SIZE="0.016050934590410668" ESTIMABLE="YES" MEAN_1="2.34" MEAN_2="2.32" ORDER="111" SD_1="1.25" SD_2="1.19" SE="0.2672653223610891" STUDY_ID="STD-Leech-1993" TOTAL_1="42" TOTAL_2="21" WEIGHT="52.42824420269985"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.36495931007067983" CI_START="-0.5249593100706795" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-008.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.7245493274803423" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.352385297294482">
+<NAME>urinary hydroxyproline umol/L GF</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.36495931007067983" CI_START="-0.5249593100706795" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" MEAN_1="1.59" MEAN_2="1.67" ORDER="112" SD_1="0.46" SD_2="0.64" SE="0.22702422778197046" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.7337571454468872" CI_START="-15.733757145446887" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-7.5" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-008.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.0742126048388153" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.7853003949939283">
+<NAME>Parathyroid ng/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.7337571454468872" CI_START="-15.733757145446887" EFFECT_SIZE="-7.5" ESTIMABLE="YES" MEAN_1="10.5" MEAN_2="18.0" ORDER="113" SD_1="8.06" SD_2="12.0" SE="4.2009736966565265" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="3.3015846993130733" CI_START="-25.301584699313075" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-11.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-008.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.1316831725321399" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.507497545427685">
+<NAME>Alkaline Phosphatase IU/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="3.3015846993130733" CI_START="-25.301584699313075" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="43.0" MEAN_2="54.0" ORDER="114" SD_1="25.94" SD_2="14.0" SE="7.29686096893726" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-009" NO="9">
+<NAME>inhaled steroid vs placebo - treatment &amp; follow-up &gt; 12 weeks</NAME>
+<DICH_OUTCOME CHI2="0.17897428859870182" CI_END="7.032409387666425" CI_START="0.49983006811677716" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.8748359030225479" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-009.01" LOG_CI_END="0.8471041450050323" LOG_CI_START="-0.3011776217101407" LOG_EFFECT_SIZE="0.27296326164744583" METHOD="PETO" NO="1" P_CHI2="0.6722562119819417" P_Q="1.0" P_Z="0.35142758369876015" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="483" TOTAL_2="409" WEIGHT="100.0" Z="0.9318238387813426">
+<NAME>Vertebral fractures</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.868379658465541" CI_START="0.4231009894521115" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" ORDER="115" O_E="1.0551301684532923" SE="0.7110009738716679" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="322" TOTAL_2="331" VAR="1.9781517692905428" WEIGHT="89.99777042303216"/>
+<DICH_DATA CI_END="288.46195502882233" CI_START="0.06750057880693158" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" ORDER="116" O_E="0.3263598326359832" SE="2.1327387589182143" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="161" TOTAL_2="78" VAR="0.21984909227779625" WEIGHT="10.002229576967835"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="2.4303505791593873" CI_END="0.11016111665651034" CI_START="-0.0784634346024236" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.01584884102704337" ESTIMABLE="YES" I2="0.0" I2_Q="34.442205195918675" ID="CMP-009.02" NO="2" P_CHI2="0.657149560763878" P_Q="0.21680883731262013" P_Z="0.7418798602578867" Q="1.52537162512633" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="475" TOTAL_2="317" UNITS="" WEIGHT="100.0" Z="0.32936494642273717">
+<NAME>Bone mineral density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.11767973224877024" CI_END="1.5579624362095523" CI_START="-0.33767112574531655" DF="1.0" EFFECT_SIZE="0.6101456552321178" ESTIMABLE="YES" I2="0.0" ID="CMP-009.02.01" NO="1" P_CHI2="0.7315648129751875" P_Z="0.20705561316801413" STUDIES="2" TAU2="0.0" TOTAL_1="227" TOTAL_2="146" WEIGHT="0.9901196068859921" Z="1.261703246428399">
+<NAME>Change at femoral neck (% fall)</NAME>
+<CONT_DATA CI_END="2.5735309714350247" CI_START="-0.8535309714350252" EFFECT_SIZE="0.8599999999999999" ESTIMABLE="YES" MEAN_1="1.17" MEAN_2="0.31" ORDER="117" SD_1="5.33" SD_2="5.33" SE="0.8742665604833245" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="78" TOTAL_2="71" WEIGHT="0.3029371468295124"/>
+<CONT_DATA CI_END="1.6377116127591882" CI_START="-0.6377116127591882" EFFECT_SIZE="0.5" ESTIMABLE="YES" MEAN_1="0.9" MEAN_2="0.4" ORDER="118" SD_1="4.1" SD_2="4.1" SE="0.5804757749291886" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="149" TOTAL_2="75" WEIGHT="0.6871824600564798"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.7872992217842869" CI_END="0.10468842183825604" CI_START="-0.0848769258035446" DF="2.0" EFFECT_SIZE="0.009905748017355723" ESTIMABLE="YES" I2="0.0" ID="CMP-009.02.02" NO="2" P_CHI2="0.6745905900990257" P_Z="0.8377002135175193" STUDIES="3" TAU2="0.0" TOTAL_1="248" TOTAL_2="171" WEIGHT="99.009880393114" Z="0.20483605886274467">
+<NAME>Change at lumber spine (% fall)</NAME>
+<CONT_DATA CI_END="1.9135324912808684" CI_START="-0.8735324912808684" EFFECT_SIZE="0.52" ESTIMABLE="YES" MEAN_1="0.66" MEAN_2="0.14" ORDER="119" SD_1="4.51" SD_2="4.51" SE="0.710999029713237" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="82" TOTAL_2="79" WEIGHT="0.4580387804828711"/>
+<CONT_DATA CI_END="0.10545625847020747" CI_START="-0.08545625847020745" EFFECT_SIZE="0.010000000000000009" ESTIMABLE="YES" MEAN_1="1.23" MEAN_2="1.22" ORDER="120" SD_1="0.16" SD_2="0.14" SE="0.04870306761917782" STUDY_ID="STD-Li-1999" TOTAL_1="21" TOTAL_2="17" WEIGHT="97.61748909119002"/>
+<CONT_DATA CI_END="0.7256922221411465" CI_START="-1.2256922221411464" EFFECT_SIZE="-0.25" ESTIMABLE="YES" MEAN_1="0.15" MEAN_2="0.4" ORDER="121" SD_1="3.5" SD_2="3.5" SE="0.4978113015531317" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="145" TOTAL_2="75" WEIGHT="0.934352521441111"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="26.24969297120494" CI_START="-3.1096929712049537" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-009.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.12240134592383402" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="38" UNITS="" WEIGHT="100.0" Z="1.5447723154435324">
+<NAME>PICP mcg/l</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="26.24969297120494" CI_START="-3.1096929712049537" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" MEAN_1="128.54" MEAN_2="116.97" ORDER="122" SD_1="45.79" SD_2="30.7" SE="7.48977689743102" STUDY_ID="STD-Kerstjens-1994" TOTAL_1="67" TOTAL_2="38" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-010" NO="10">
+<NAME>inhaled steroid vs placebo - Cochrane Concealment A</NAME>
+<CONT_OUTCOME CHI2="7.066822408025633E-32" CI_END="-0.040724039459477335" CI_START="-0.8592759605405225" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.4499999999999999" ESTIMABLE="YES" I2="100.0" I2_Q="0.0" ID="CMP-010.01" NO="1" P_CHI2="0.0" P_Q="1.0" P_Z="0.031162962680792456" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="99.99999999999999" Z="2.1549855796030775">
+<NAME>Osteocalcin mcg/l</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.04072403945947739" CI_START="-0.8592759605405225" EFFECT_SIZE="-0.44999999999999996" ESTIMABLE="YES" MEAN_1="0.8" MEAN_2="1.25" ORDER="123" SD_1="0.61" SD_2="0.5" SE="0.20881810266353826" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="99.99999999999999"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.36495931007067983" CI_START="-0.5249593100706795" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-010.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.7245493274803423" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="0.352385297294482">
+<NAME>urinary hydroxyproline (umol/L GF)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.36495931007067983" CI_START="-0.5249593100706795" EFFECT_SIZE="-0.07999999999999985" ESTIMABLE="YES" MEAN_1="1.59" MEAN_2="1.67" ORDER="124" SD_1="0.46" SD_2="0.64" SE="0.22702422778197046" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.7337571454468872" CI_START="-15.733757145446887" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-7.5" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-010.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.0742126048388153" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.7853003949939283">
+<NAME>Parathyroid hormone ng/l</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.7337571454468872" CI_START="-15.733757145446887" EFFECT_SIZE="-7.5" ESTIMABLE="YES" MEAN_1="10.5" MEAN_2="18.0" ORDER="125" SD_1="8.06" SD_2="12.0" SE="4.2009736966565265" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="3.3015846993130733" CI_START="-25.301584699313075" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-11.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-010.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.1316831725321399" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="10" UNITS="" WEIGHT="100.0" Z="1.507497545427685">
+<NAME>Alkaline phosphatase IU/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="3.3015846993130733" CI_START="-25.301584699313075" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="43.0" MEAN_2="54.0" ORDER="126" SD_1="25.94" SD_2="14.0" SE="7.29686096893726" STUDY_ID="STD-Hodsman-1991" TOTAL_1="20" TOTAL_2="10" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-011" NO="11">
+<NAME>inhaled steroid vs placebo - Cochrane Concealment B</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="6.868379658465541" CI_START="0.4231009894521115" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-011.01" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" METHOD="PETO" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.4531351215366879" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="322" TOTAL_2="331" WEIGHT="100.0" Z="0.7501985773316678">
+<NAME>Vertebral fractures</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.868379658465541" CI_START="0.4231009894521115" EFFECT_SIZE="1.7047047337968901" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.8368542933350398" LOG_CI_START="-0.37355595903861866" LOG_EFFECT_SIZE="0.23164916714821054" ORDER="127" O_E="1.0551301684532923" SE="0.7110009738716679" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="322" TOTAL_2="331" VAR="1.9781517692905428" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="1.3798425710140243" CI_END="0.3089589691896174" CI_START="-0.2135816919162814" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.047688638636667995" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-011.02" NO="2" P_CHI2="0.5016156044839728" P_Q="0.3471524078936177" P_Z="0.7205345559555832" Q="0.8838392110978415" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="181" TOTAL_2="167" UNITS="" WEIGHT="100.0" Z="0.35774446337553906">
+<NAME>Bone mineral density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="1.612622535623896E-32" CI_END="2.573530971435025" CI_START="-0.8535309714350251" DF="0.0" EFFECT_SIZE="0.86" ESTIMABLE="YES" I2="99.99999999999999" ID="CMP-011.02.01" NO="1" P_CHI2="0.0" P_Z="0.3252720624553599" STUDIES="1" TAU2="0.0" TOTAL_1="78" TOTAL_2="71" WEIGHT="2.324857146706733" Z="0.9836816811620503">
+<NAME>Change at femoral neck (% fall)</NAME>
+<CONT_DATA CI_END="2.5735309714350247" CI_START="-0.8535309714350252" EFFECT_SIZE="0.8599999999999999" ESTIMABLE="YES" MEAN_1="1.17" MEAN_2="0.31" ORDER="128" SD_1="5.33" SD_2="5.33" SE="0.8742665604833245" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="78" TOTAL_2="71" WEIGHT="2.324857146706733"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.4960033599161828" CI_END="0.2927154731789037" CI_START="-0.2360073561166386" DF="1.0" EFFECT_SIZE="0.028354058531132532" ESTIMABLE="YES" I2="0.0" ID="CMP-011.02.02" NO="2" P_CHI2="0.4812615447972801" P_Z="0.8334992861846291" STUDIES="2" TAU2="0.0" TOTAL_1="103" TOTAL_2="96" WEIGHT="97.67514285329327" Z="0.21021575183581345">
+<NAME>Change at lumbar spine (% fall)</NAME>
+<CONT_DATA CI_END="1.9135324912808684" CI_START="-0.8735324912808684" EFFECT_SIZE="0.52" ESTIMABLE="YES" MEAN_1="0.66" MEAN_2="0.14" ORDER="129" SD_1="4.51" SD_2="4.51" SE="0.710999029713237" STUDY_ID="STD-EUROSCOP-1999" TOTAL_1="82" TOTAL_2="79" WEIGHT="3.5151672332668134"/>
+<CONT_DATA CI_END="0.27925075268712646" CI_START="-0.25925075268712644" EFFECT_SIZE="0.010000000000000009" ESTIMABLE="YES" MEAN_1="1.23" MEAN_2="1.22" ORDER="130" SD_1="0.61" SD_2="0.14" SE="0.13737535730806383" STUDY_ID="STD-Li-1999" TOTAL_1="21" TOTAL_2="17" WEIGHT="94.15997562002646"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="26.24969297120494" CI_START="-3.1096929712049537" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-011.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.12240134592383402" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="38" UNITS="" WEIGHT="100.0" Z="1.5447723154435324">
+<NAME>PICP mcg/L</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="26.24969297120494" CI_START="-3.1096929712049537" EFFECT_SIZE="11.569999999999993" ESTIMABLE="YES" MEAN_1="128.54" MEAN_2="116.97" ORDER="131" SD_1="45.79" SD_2="30.7" SE="7.48977689743102" STUDY_ID="STD-Kerstjens-1994" TOTAL_1="67" TOTAL_2="38" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-0.03118349792200198" CI_START="-0.26881650207799807" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.15000000000000002" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-011.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.013347575926358473" Q="0.0" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="40" TOTAL_2="8" UNITS="" WEIGHT="100.0" Z="2.474358296526968">
+<NAME>Osteocalcin nmol/l</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.03118349792200198" CI_START="-0.26881650207799807" EFFECT_SIZE="-0.15000000000000002" ESTIMABLE="YES" MEAN_1="0.53" MEAN_2="0.68" ORDER="132" SD_1="0.25" SD_2="0.13" SE="0.060621778264910706" STUDY_ID="STD-Toogood-1991" TOTAL_1="40" TOTAL_2="8" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-012" NO="12">
+<NAME>inhaled steroid vs placebo - Cochrane Concealment C</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.6539982552046081" CI_START="-0.613998255204608" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.020000000000000018" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-012.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.9506992582472634" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="42" TOTAL_2="21" UNITS="" WEIGHT="100.0" Z="0.06182868701768031">
+<NAME>Osteocalcin mcg/l, cross-over</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.6539982552046082" CI_START="-0.6139982552046082" EFFECT_SIZE="0.020000000000000018" ESTIMABLE="YES" MEAN_1="2.34" MEAN_2="2.32" ORDER="133" SD_1="1.25" SD_2="1.19" SE="0.3234744414721421" STUDY_ID="STD-Leech-1993" TOTAL_1="42" TOTAL_2="21" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="288.46195502882233" CI_START="0.06750057880693158" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-012.02" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" METHOD="PETO" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.48640361920518616" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="161" TOTAL_2="78" WEIGHT="100.0" Z="0.696040264416823">
+<NAME>Vertebral fracture</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="288.46195502882233" CI_START="0.06750057880693158" EFFECT_SIZE="4.4126351456045585" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.4600885425850545" LOG_CI_START="-1.1706925031455864" LOG_EFFECT_SIZE="0.644698019719734" ORDER="134" O_E="0.3263598326359832" SE="2.1327387589182143" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="161" TOTAL_2="78" VAR="0.21984909227779625" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.9619195835590926" CI_END="0.8084752869675252" CI_START="-0.6727975483764438" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.06783886929554075" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-012.03" NO="3" P_CHI2="0.3267039062119461" P_Q="0.3267039062119461" P_Z="0.8575265622428475" Q="0.9619195835590926" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="294" TOTAL_2="150" UNITS="" WEIGHT="100.0" Z="0.17952363318713627">
+<NAME>Bone mineral density</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.7256922221411465" CI_START="-1.2256922221411464" DF="0.0" EFFECT_SIZE="-0.25" ESTIMABLE="YES" I2="0.0" ID="CMP-012.03.01" NO="1" P_CHI2="1.0" P_Z="0.6155280255088201" STUDIES="1" TAU2="0.0" TOTAL_1="145" TOTAL_2="75" WEIGHT="57.6214840939279" Z="0.5021983213720136">
+<NAME>lumbar spine (% fall)</NAME>
+<CONT_DATA CI_END="0.7256922221411465" CI_START="-1.2256922221411464" EFFECT_SIZE="-0.25" ESTIMABLE="YES" MEAN_1="0.15" MEAN_2="0.4" ORDER="135" SD_1="3.5" SD_2="3.5" SE="0.4978113015531317" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="145" TOTAL_2="75" WEIGHT="57.6214840939279"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.6377116127591882" CI_START="-0.6377116127591882" DF="0.0" EFFECT_SIZE="0.5" ESTIMABLE="YES" I2="0.0" ID="CMP-012.03.02" NO="2" P_CHI2="1.0" P_Z="0.389038493098378" STUDIES="1" TAU2="0.0" TOTAL_1="149" TOTAL_2="75" WEIGHT="42.378515906072096" Z="0.8613623885699525">
+<NAME>Neck of femur (% fall)</NAME>
+<CONT_DATA CI_END="1.6377116127591882" CI_START="-0.6377116127591882" EFFECT_SIZE="0.5" ESTIMABLE="YES" MEAN_1="0.9" MEAN_2="0.4" ORDER="136" SD_1="4.1" SD_2="4.1" SE="0.5804757749291886" STUDY_ID="STD-Tattersfield-2001" TOTAL_1="149" TOTAL_2="75" WEIGHT="42.378515906072096"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

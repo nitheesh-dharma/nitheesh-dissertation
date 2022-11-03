@@ -1,0 +1,1863 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD006316.pub3" GROUP_ID="AIRWAYS" ID="418706042321052107" MERGED_FROM="" MODIFIED="2017-08-21 16:35:54 +0100" MODIFIED_BY="Emma Dennett" NOTES="&lt;p&gt;CJC Jan 12th&lt;/p&gt;&lt;p&gt;Thanks to Anne for the clarifications. This is now ready to proceed.&lt;/p&gt;&lt;p&gt;Chris&lt;/p&gt;&lt;p&gt;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&lt;/p&gt;&lt;p&gt;CJC Edit of update Jan 2008&lt;/p&gt;&lt;p&gt;I am happy with this update and the conclusions drawn from the single new study. Are there comments to be inserted into the last 3 boxes of the Risk of Bias table? Also the NNT(B) should be listed alongside the duration of follow-up in this trial (as NNT is time dependent) please.&lt;/p&gt;&lt;p&gt;Chris&lt;/p&gt;&lt;p&gt;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~&lt;/p&gt;&lt;p&gt;CJC Editing Feb 2007&lt;br&gt;This review has been published on the module but I have made a few grammatical changes so please use this version for updates.&lt;br&gt;Could you also document how many of the controls has Strep pneumonia in sputum isolates from the non-randomised study when you update this. What about other serotypes?&lt;br&gt;Thanks for your work on this review.&lt;br&gt;Chris&lt;br&gt;=================================&lt;br&gt;CJC Editing Oct 2006&lt;br&gt;I have taken out the Jadad scale as it will not add anything to your measures of quality in different domains. The latter fits better with the proposed bias protection which will be in RevMan 5. Risk ratio changed to Odds ratio in statistics section and GIV can be used to combine both arms of cross-overs but in this review cross-over studies are not appropriate anyway (except for short term adverse events).&lt;br&gt;If you are happy with this it can now be submitted.&lt;br&gt;Chris.&lt;/p&gt;" NOTES_MODIFIED="2017-08-09 17:27:19 +0100" NOTES_MODIFIED_BY="Emma J Dennett" REVIEW_NO="PNE-BRO" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="8.0">
+<COVER_SHEET MODIFIED="2017-08-09 17:27:19 +0100" MODIFIED_BY="Emma J Dennett">
+<TITLE>Pneumococcal vaccines for children and adults with bronchiectasis</TITLE>
+<CONTACT>
+<PERSON ID="0CB8362682E26AA2004A583DCFB585F0" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Christina</FIRST_NAME>
+<MIDDLE_INITIALS>C</MIDDLE_INITIALS>
+<LAST_NAME>Chang</LAST_NAME>
+<SUFFIX/>
+<POSITION>PhD student</POSITION>
+<EMAIL_1>christina.chang@monash.edu</EMAIL_1>
+<EMAIL_2>christina.chang@med.monash.edu.au ccchang339@hotmail.com</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Infectious Diseases</DEPARTMENT>
+<ORGANISATION>The Alfred Hospital, Monash University</ORGANISATION>
+<ADDRESS_1>Commercial Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Prahran</CITY>
+<ZIP>3181</ZIP>
+<REGION>Victoria</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61 3 92071497</PHONE_1>
+<PHONE_2/>
+<FAX_1>+61 3 90762431</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2017-08-09 17:24:30 +0100" MODIFIED_BY="Emma Dennett">
+<PERSON ID="0CB8362682E26AA2004A583DCFB585F0" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Christina</FIRST_NAME>
+<MIDDLE_INITIALS>C</MIDDLE_INITIALS>
+<LAST_NAME>Chang</LAST_NAME>
+<SUFFIX/>
+<POSITION>PhD student</POSITION>
+<EMAIL_1>christina.chang@monash.edu</EMAIL_1>
+<EMAIL_2>christina.chang@med.monash.edu.au ccchang339@hotmail.com</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Infectious Diseases</DEPARTMENT>
+<ORGANISATION>The Alfred Hospital, Monash University</ORGANISATION>
+<ADDRESS_1>Commercial Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Prahran</CITY>
+<ZIP>3181</ZIP>
+<REGION>Victoria</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61 3 92071497</PHONE_1>
+<PHONE_2/>
+<FAX_1>+61 3 90762431</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="EEDB3C0982E26AA2009C393DD340A170" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Rosalyn</FIRST_NAME>
+<MIDDLE_INITIALS>J</MIDDLE_INITIALS>
+<LAST_NAME>Singleton</LAST_NAME>
+<SUFFIX/>
+<POSITION>Consultant in Immunzation and Paediatrician</POSITION>
+<EMAIL_1>ris2@cdc.gov</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Arctic Investigations Program and Alaska Native Tribal Health Consortium</DEPARTMENT>
+<ORGANISATION>Centers for Disease Control and Prevention, National Center for Infectious Diseases,</ORGANISATION>
+<ADDRESS_1>4055 Tudor Centre Dr.</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Anchorage</CITY>
+<ZIP>AK 99508</ZIP>
+<REGION>Alaska</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>1-907 729 3418</PHONE_1>
+<PHONE_2/>
+<FAX_1>1-907 729 3429</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="4854" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Peter</FIRST_NAME>
+<MIDDLE_INITIALS>S</MIDDLE_INITIALS>
+<LAST_NAME>Morris</LAST_NAME>
+<SUFFIX/>
+<POSITION>Paediatrician, Royal Darwin Hospital and Deputy Head</POSITION>
+<EMAIL_1>Peter.Morris@menzies.edu.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Child Health Division</DEPARTMENT>
+<ORGANISATION>Menzies School of Health Research, Charles Darwin University</ORGANISATION>
+<ADDRESS_1>PO Box 41096</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Darwin</CITY>
+<ZIP>0811</ZIP>
+<REGION>Northern Territory</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61 8 8922 8196 ext: 28371</PHONE_1>
+<PHONE_2>+61 8 8948 2291</PHONE_2>
+<FAX_1>+61 8 8922 5187</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12396" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Anne</FIRST_NAME>
+<MIDDLE_INITIALS>B</MIDDLE_INITIALS>
+<LAST_NAME>Chang</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Research Principal Fellow, NHMRC Practitioner Fellow</POSITION>
+<EMAIL_1>Anne.Chang@menzies.edu.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Child Health Division</DEPARTMENT>
+<ORGANISATION>Menzies School of Health Research, Charles Darwin University</ORGANISATION>
+<ADDRESS_1>PO Box 41096</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Darwin</CITY>
+<ZIP>0811</ZIP>
+<REGION>Northern Territories</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61 411 699022</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2009-03-12 11:06:18 +0000" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Minor update: 27/02/07&lt;/p&gt;&lt;p&gt;New studies sought but none found: 20/11/07&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 17/10/06&lt;/p&gt;" NOTES_MODIFIED="2009-03-12 11:06:18 +0000" NOTES_MODIFIED_BY="Toby Lasserson">
+<UP_TO_DATE>
+<DATE DAY="4" MONTH="12" YEAR="2008"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="12" MONTH="11" YEAR="2008"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="12" MONTH="11" YEAR="2009"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2007"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2007"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2009"/>
+</DATES>
+<WHATS_NEW MODIFIED="2017-08-09 17:27:19 +0100" MODIFIED_BY="Emma J Dennett">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2017-08-09 17:27:19 +0100" MODIFIED_BY="Emma J Dennett">
+<DATE DAY="5" MONTH="7" YEAR="2017"/>
+<DESCRIPTION>
+<P>New literature search run to assess the need to update this review. One potentially eligible study protocol identified and added to <LINK TAG="AWAITING_STUDIES" TYPE="SECTION">Studies awaiting classification</LINK>.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2017-08-09 17:25:01 +0100" MODIFIED_BY="Emma J Dennett">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2017-08-09 17:25:01 +0100" MODIFIED_BY="Emma J Dennett">
+<DATE DAY="5" MONTH="6" YEAR="2014"/>
+<DESCRIPTION>
+<P>PLS title amended</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2014-06-05 17:17:14 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="12" MONTH="3" YEAR="2009"/>
+<DESCRIPTION>
+<P>Contact details changed</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2009-03-12 11:06:41 +0000" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="4" MONTH="12" YEAR="2008"/>
+<DESCRIPTION>
+<P>Study on 167 people added to review</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2009-03-12 11:06:39 +0000" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="12" MONTH="11" YEAR="2008"/>
+<DESCRIPTION>
+<P>Literature search re-run</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-01-05 14:40:44 +0000" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="16" MONTH="4" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="10" MONTH="12" YEAR="2006"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Royal Children's Hospital Foundation, Brisbane</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>National Health and Medical Research Council</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2014-06-05 17:18:40 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2014-06-05 17:18:11 +0100" MODIFIED_BY="Christopher J Cates">
+<TITLE MODIFIED="2014-06-05 17:17:37 +0100" MODIFIED_BY="Toby J Lasserson">Pneumonia (pneumococcal) vaccines for children and adults with bronchiectasis</TITLE>
+<SUMMARY_BODY MODIFIED="2014-06-05 17:18:11 +0100" MODIFIED_BY="Christopher J Cates">
+<P>In many countries pneumonia vaccination (for the protection against infection of the bacteria pneumococcus), is part of the immunisation schedule for infants as well as for people with bronchiectasis. In this review, our search for randomised control trials that examined the effectiveness of pneumococcal vaccines for people with bronchiectasis revealed one randomised and one quasi-controlled trial. We conclude that, albeit the limitations of the review, adults and children (when age appropriate) with bronchiectasis should be vaccinated with the 23-valent polysaccharide pneumococcal vaccine as suggested in many national guidelines. Due to absence of data on how often the vaccine should be given, we recommend that national guidelines be followed until further evidence is available.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates">
+<ABS_BACKGROUND>
+<P>Bronchiectasis is increasingly recognized as a major cause of respiratory morbidity especially in developing countries. Even in affluent countries, bronchiectasis is increasingly seen in some community subsections (e.g. Aboriginal communities) and occurs as a comorbidity and disease modifier in respiratory diseases such as chronic obstructive pulmonary disease (COPD). Respiratory exacerbations in people with bronchiectasis are associated with reduced quality of life, accelerated pulmonary decline, hospitalisation and even death. Conjugate pneumococcal vaccine is part of the routine infant immunisation schedule in many countries. Current recommendations for additional pneumococcal vaccination include children and adults with chronic suppurative disease. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To evaluate the effectiveness of pneumococcal vaccine as routine management in children and adults with bronchiectasis in (a) reducing the severity and frequency of respiratory exacerbations and (b) pulmonary decline.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>The Cochrane Register of Controlled Trials (CENTRAL), the Cochrane Airways Group Specialised Register, MEDLINE and EMBASE databases were searched by the Cochrane Airways Group. Pharmaceutical manufacturers of pneumococcal vaccines were also contacted. The latest searches were performed in November 2008.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomised controlled trials that utilised pneumococcal vaccine on children and adults with bronchiectasis. All types of pneumococcal vaccines were included.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Results of searches were reviewed against pre-determined criteria for inclusion. No eligible trials were identified and thus no data was available for analysis. One small non-randomised controlled trial in children was reported. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates">
+<P>One randomised controlled open label study in 167 adults with chronic lung disease (bronchiectasis and other diseases associated with bronchiectasis) compared 23-valent pneumococcal (PV) and influenza vaccine with influenza vaccine alone (control group). The study found a significant reduction in acute infective respiratory exacerbations in the PV group compared to the control group, OR=0.48 (95%CI 0.26, 0.88); number needed to treat to benefit = 6 (95%CI 4, 32) over 2-years. There was however no difference in episodes of pneumonia between groups and no data on pulmonary decline was available. In another study, a benefit in elimination of Strep. pneumoniae in the sputum was found in a non-randomised trial in children but no clinical effect was described.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Current but limited evidence support the use of 23-valent pneumococcal vaccine as routine management in adults with bronchiectasis. Circumstantial evidence also support the use of routine 23-valent pneumococcal vaccination in children with bronchiectasis. Further randomised controlled trials examining the efficacy of this intervention using various vaccine types in different age groups are needed. There is no data on the efficacy of pneumococcal vaccine on pulmonary decline. With the lack of evidence in how often the vaccine should be given, it is recommended that health providers adhere to national guidelines. </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2014-06-05 17:18:40 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Bronchiectasis, sometimes termed an 'orphan's disease' (<LINK REF="REF-Callahan-2002" TYPE="REFERENCE">Callahan 2002</LINK>) is increasingly recognized as a major cause of respiratory morbidity especially in developing countries (<LINK REF="REF-Karadag-2005" TYPE="REFERENCE">Karadag 2005</LINK>) and in pockets of affluent countries (<LINK REF="REF-Chang-2003" TYPE="REFERENCE">Chang 2003</LINK>, <LINK REF="REF-Singleton-2000" TYPE="REFERENCE">Singleton 2000</LINK>). Of diverse aetiology, bronchiectasis is often a result of repeated respiratory infections or may be due to rare immune deficiencies. Increasingly recognised as a common final pathway for a variety of diseases, it is seen to complicate both common and uncommon respiratory illnesses such as COPD, bronchiolitis obliterans, pan bronchiolitis (<LINK REF="REF-Poletti-2006" TYPE="REFERENCE">Poletti 2006</LINK>), pneumoconiosis (<LINK REF="REF-Altin-2004" TYPE="REFERENCE">Altin 2004</LINK>), interstitial lung disease and sarcoidosis (<LINK REF="REF-Patel-2004" TYPE="REFERENCE">Patel 2004</LINK>, <LINK REF="REF-Chang-1998" TYPE="REFERENCE">Chang 1998</LINK>, <LINK REF="REF-Lewis-2002" TYPE="REFERENCE">Lewis 2002</LINK>) and also secondary pulmonary illnesses such as autoimmune diseases and post tuberculosis (TB) (<LINK REF="REF-Buckles-1951" TYPE="REFERENCE">Buckles 1951</LINK>). Its coexistence increases the morbidity and mortality of the underlying disease (<LINK REF="REF-Patel-2004" TYPE="REFERENCE">Patel 2004</LINK>, <LINK REF="REF-Lewis-2002" TYPE="REFERENCE">Lewis 2002</LINK>, <LINK REF="REF-Keistinen-1997" TYPE="REFERENCE">Keistinen 1997</LINK>). For instance, bronchiectasis is reported to occur in 29-50% of COPD (<LINK REF="REF-Patel-2004" TYPE="REFERENCE">Patel 2004</LINK>, <LINK REF="REF-O_x0027_Brien-2000" TYPE="REFERENCE">O'Brien 2000</LINK>) and when present, increases the severity and frequency of respiratory exacerbations (<LINK REF="REF-Patel-2004" TYPE="REFERENCE">Patel 2004</LINK>, <LINK REF="REF-Gursel-2006" TYPE="REFERENCE">Gursel 2006</LINK>). Thus, management of the symptoms and prevention of progression of bronchiectasis is important.</P>
+<P>The dominant symptoms and signs of bronchiectasis are a productive or wet cough, dyspnoea on exertion and presence of other respiratory signs (clubbing, chest wall deformity, respiratory noises such as wheeze or crepitations on auscultation). In the long term, pulmonary decline may occur (<LINK REF="REF-Keistinen-1997" TYPE="REFERENCE">Keistinen 1997</LINK>, <LINK REF="REF-Twiss-2006" TYPE="REFERENCE">Twiss 2006</LINK>). Children and adults with bronchiectasis suffer from recurrent acute exacerbations, some necessitating inpatient care. Effective management regimes for bronchiectasis should improve quality of life, reduce the frequency and severity of respiratory exacerbations and rate of pulmonary decline. Cole's 'vicious circle hypothesis' suggests microbial colonization or infection as a key factor in its pathophysiology as this often leads to bronchial obstruction and a normal or exaggerated inflammatory response (<LINK REF="REF-Cole-1986" TYPE="REFERENCE">Cole 1986</LINK>). Treatment modalities that prevent or limit respiratory infections should thus, prevent or reduce respiratory decline. Respiratory infection alone increases morbidity and reduces the quality of life in those with bronchiectasis (<LINK REF="REF-Martinez_x002d_Garcia-2005" TYPE="REFERENCE">Martinez-Garcia 2005</LINK>). Pneumococcal respiratory infections is a common respiratory pathogen in acute (<LINK REF="REF-Lucero-2004" TYPE="REFERENCE">Lucero 2004</LINK>) and chronic respiratory diseases (<LINK REF="REF-Devitt--1977" TYPE="REFERENCE">Devitt 1977</LINK>). Prevention of pneumococcal infections through the use of pneumococcal vaccine should in turn, be a useful routine management modality for children and adults with bronchiectasis. Indeed 5-yearly pneumococcal vaccination is recommended for patients with bronchiectasis (<LINK REF="REF-Chang-2002" TYPE="REFERENCE">Chang 2002</LINK>).</P>
+<P>Pneumococcal vaccines are available in two major types; the older pneumococcal polysaccharide vaccine and the more recent pneumococcal conjugate vaccine. The 23-valent polysaccharide vaccine (PPV23) contains polysaccharide antigen from 23 serotypes and vaccine efficacy against invasive disease is estimated at 38-53% (<LINK REF="REF-Conaty--2004" TYPE="REFERENCE">Conaty 2004</LINK>). Although clinical trials in younger adults have generally shown efficacy against pneumococcal pneumonia and, or bacteraemia, the trial evidence in the elderly is less robust (<LINK REF="REF-Honkanen-1999" TYPE="REFERENCE">Honkanen 1999</LINK>). Effectiveness in case-control studies generally range from 56-81% except Forrester et al who demonstrated no effectiveness (<LINK REF="REF-Forrester-1987" TYPE="REFERENCE">Forrester 1987</LINK>). The PPV23 vaccine is relatively ineffective in young children aged under 2 years (<LINK REF="REF-Lee-2003" TYPE="REFERENCE">Lee 2003</LINK>). The heptavalent pneumococcal conjugated vaccine (PCV7) is directed against seven serotypes and recommended for use in children less than 5 years of age (<LINK REF="REF-McEllistrem-2005" TYPE="REFERENCE">McEllistrem 2005</LINK>). Universal childhood vaccination in the United States has resulted in 70% decrease in invasive pneumococcal disease (IPD) in children &lt;2 years and indirectly, contributed to prevention of adult IPD (<LINK REF="REF-Lexau-2005" TYPE="REFERENCE">Lexau 2005</LINK>). The possibility of replacement serotype disease mandates continued data surveillance (<LINK REF="REF-McEllistrem-2005" TYPE="REFERENCE">McEllistrem 2005</LINK>). Vaccines also incur cost and can result in adverse reactions, mostly occurring as local pain and swelling (<LINK REF="REF-Walker-2005" TYPE="REFERENCE">Walker 2005</LINK>, <LINK REF="REF-Jackson-2006" TYPE="REFERENCE">Jackson 2006</LINK>). A review on the efficacy of pneumococcal vaccines for bronchiectasis will help guide clinical practice.</P>
+<P>Efficacy of pneumococcal vaccines for other chronic respiratory diseases (<LINK REF="REF-Sheikh-2002" TYPE="REFERENCE">Sheikh 2002</LINK>, <LINK REF="REF-Granger-2006" TYPE="REFERENCE">Granger 2006</LINK>) and otitis media (<LINK REF="REF-Straetemans-2004" TYPE="REFERENCE">Straetemans 2004</LINK>) are covered in other Cochrane reviews. This systematic review will evaluate the evidence of efficacy of pneumococcal vaccination in children and adults with bronchiectasis.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To evaluate the effectiveness of pneumococcal vaccine as routine management in children and adults with bronchiectasis in (a) reducing the severity and frequency of respiratory exacerbations and (b) pulmonary decline.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2014-06-05 17:18:39 +0100" MODIFIED_BY="Christopher J Cates">
+<SELECTION_CRITERIA MODIFIED="2014-06-05 17:18:39 +0100" MODIFIED_BY="Emma J Welsh">
+<CRIT_STUDIES>
+<P>All randomised controlled trials using pneumococcal vaccine in patients with bronchiectasis.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Adults or children with bronchiectasis (defined clinically or radiologically).<BR/>Exclusion criteria: Participants with other diseases where bronchiectasis is not present.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>All randomised controlled trials that utilised pneumococcal vaccine on children and adults with bronchiectasis. All types of pneumococcal vaccines were included.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2014-06-05 17:18:39 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Attempts were made to obtain data on at least one of the following outcome measures:</P>
+<P>(A) for short term effectiveness (12 months or less)<BR/>a) proportions of participants who had respiratory exacerbations<BR/>b) proportions of participants who were hospitalised,<BR/>c) total numbers of days with respiratory symptoms<BR/>d) total number of hospitalised days<BR/>e) mean difference in bronchiectasis severity control (QOL, cough diary, Likert scale, visual analogue scale, level of interference of cough, cough diary, etc),<BR/>f) proportions experiencing adverse effects of the intervention, (e.g. local reaction, exacerbation immediately post vaccination, systemic effects (myalgia, fever, fatigue), etc)<BR/>Outcomes (a) to (e) will be examined globally as well as also specifically to proven pneumococcal infections (from airway specimens or rising titres)</P>
+<P>(B) for medium to long term outcomes (more than 1 year)<BR/>g) radiology scores (high resolution computed tomography scans or chest radiograph)<BR/>h) lung function<BR/>I) bronchiectasis severity control (QOL, cough diary, Likert scale, visual analogue scale, level of interference of cough, cough diary, etc),<BR/>j) relevant airway markers of inflammation.<BR/>k) other non-respiratory outcomes (otitis media, bacteraemia, meningitis, etc) caused by pneumococcus.</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>The following topic search strategy was used to identify relevant randomised controlled trials from electronic databases:<BR/>
+<BR/>("bronchiectasis" OR "suppurative lung disease") AND ((vaccin* OR immunis*) AND (pneum*)) (all as textword or index terms). For the full strategies see <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+<P>Trials were identified from the following sources:<BR/>1. The Cochrane Airways Group Specialised Trials Register<BR/>2. The Cochrane Central Register of Controlled Trials (CENTRAL)<BR/>3. MEDLINE (1966 to Nov 2008). Topic search strategy combined with the RCT search filter as outlined in the Airways Group module.<BR/>4. OLDMEDLINE (1950 to 1965). Topic search strategy combined with the RCT search filter as outlined in the Airways Group module.<BR/>5. EMBASE (1980 to Nov 2008).Topic search strategy combined with the RCT search filter as outlined in the Airways Group module.<BR/>6. The list of references in relevant publications.<BR/>7. Written communication with the authors of trials would have been included in the review if necessary.<BR/>7. Pharmaceutical companies that manufacture pneumococcal vaccines.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Retrieval of studies: From the title, abstract, or descriptors, two reviewers (CC, AC) independently reviewed literature searches to identify potentially relevant trials for full review. Searches of bibliographies and texts were conducted to identify additional studies. From the full text using specific criteria, the same two reviewers independently selected trials for inclusion. Agreement would have been measured using kappa statistics. Disagreement would have been resolved by adjudication (RS and PM).</P>
+<P>It was planned that trials that satisfied the inclusion criteria would have been reviewed and the following information recorded: study setting, year of study, source of funding, patient recruitment details (including number of eligible subjects), inclusion and exclusion criteria, other symptoms, randomisation and allocation concealment method, numbers of participants randomised, blinding (masking) of participants, care providers and outcome assessors, dose and type of intervention, duration of therapy, co-interventions, numbers of patients not followed up, reasons for withdrawals from study protocol (clinical, side-effects, refusal and other), details on side-effects of therapy, and whether intention-to-treat analyses were possible. Data would have been extracted on the outcomes described previously. Further information would have been requested from the authors when required.</P>
+<P>The Revman 5 'risk of bias tool' as outlined in the Cochrane handbook (<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>) was utilised. </P>
+<P>STATISTICS<BR/> Results from studies that met the inclusion criteria and reported any of the outcomes of interest were included in the meta-analyses when possible. For continuous variables, the summary weighted odds ratio and 95% confidence interval (fixed effects model) would have been calculated (Cochrane statistical package, RevMan version 5). Studies using cross-over designs would be of limited value and it was planned that only the first arm of the cross-study (if any) would be utilised. Numbers needed to treat for benefit (NNTB) was calculated from the pooled OR and its 95% CI applied to a specified baseline risk using an online calculator (<LINK REF="REF-Cates-2003" TYPE="REFERENCE">Cates 2003</LINK>). If studies reported outcomes using different measurement scales, the standardised mean difference would have been estimated. Any heterogeneity between the study results would have been described and tested to see if it reached statistical significance using a chi-squared test. The 95% confidence interval estimated using a random effects model would have been included whenever there are concerns about statistical heterogeneity.</P>
+<P>SUB-GROUP ANALYSIS:<BR/>The following a priori sub-group analyses was planned:<BR/>1. children (aged 18 years or less) and adults (&gt;18 years)<BR/>2. types of pneumococcal vaccine<BR/>3. type of control group<BR/>4. participant type (bronchiectasis as primary disease vs bronchiectasis as co-existent disease)<BR/>5. severity of bronchiectasis (based on lung function)</P>
+<P>Sensitivity analyses were also planned to assess the impact of the potentially important factors on the overall outcomes:<BR/>a) study quality;<BR/>b) variation in the inclusion criteria;<BR/>c) differences in the medications used in the intervention and comparison groups;<BR/>d) differences in outcome measures;<BR/>e) analysis using random effects model;<BR/>f) analysis by "treatment received"; and<BR/>g) analysis by "intention-to-treat".</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2014-06-05 17:18:40 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>In the original search (2006) the Airways Group specialised register/search identified 44 potentially relevant titles. After assessing the abstracts, 3 publications were considered for inclusion into review including one non-English article (Russian). Of the 3 potentially relevant publication but none fulfilled the study eligibility criteria (see Table of excluded studies). No additional studies were found in the review articles. No additional data were available from the two pharmaceutical companies contacted (Merck Sharp &amp; Dohme and Wyeth in Australia). The 2007 search revealed 5 abstracts of which none fulfilled the inclusion criteria. The 2008 search revealed 8 papers and one study (<LINK REF="STD-Furumoto-2008" TYPE="STUDY">Furumoto 2008</LINK>) was included. </P>
+<P>The included study has been described in the Characteristics of included studies table. Some subjects had very severe lung disease (59 on home oxygen, 11 on home ventilation). The study was included as some subjects were clearly described as having bronchiectasis. The respiratory condition the other subjects had, has a large overlap with bronchiectasis especially when the disease is severe. Subjects were followed up for 2 years. There were no randomised controlled studies in children that assessed clinical outcomes. There was one quasi controlled study (<LINK REF="STD-Ryzhov-2005" TYPE="STUDY">Ryzhov 2005</LINK>) that utilised a comparative group published in Russian (<LINK REF="STD-Ryzhov-2005" TYPE="STUDY">Ryzhov 2005</LINK>). In this study (<LINK REF="STD-Ryzhov-2005" TYPE="STUDY">Ryzhov 2005</LINK>) in children with chronic lung disease (including bronchiectasis), 25 were vaccinated with PPV23, 13 with Haemophilus influenzae vaccine and 40 children were not vaccinated. As there was otherwise little data, this study could not be included in the meta-analysis.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Please see risk of bias table in i<LINK TAG="INCLUDED_STUDIES" TYPE="SECTION">ncluded studies</LINK> section. The sole randomised study (<LINK REF="STD-Furumoto-2008" TYPE="STUDY">Furumoto 2008</LINK>) included in this review has high risk of performance and detection bias. </P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2014-06-05 17:18:40 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>
+<U>
+<B>Adults</B>
+</U>
+</P>
+<P>
+<U>Effect on exacerbations (</U>
+<LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>
+<U>):</U>
+</P>
+<P>For number of people having had any respiratory exacerbations, the PV23 group was significantly better (less subjects with exacerbations) then the control group, OR 0.53 (95%CI 0.29, 0.99) <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>, NNTB over 2-years was 7 (95%CI 4, 424). With further evaluation, the difference between groups was mainly related to infective exacerbations (i.e. respiratory symptoms with increase in blood white cell count or serum C-reactive protein, as described in <LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>). Comparing the PV23 group to controls, the OR for infective exacerbations was OR=0.48 (95%CI 0.26, 0.88); number needed to treat to benefit=6 (95%CI 4, 32) over 2-years, see <LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK>. That for non-infective exacerbations was non significant, OR 1.42 (0.48, 4.19).</P>
+<P>
+<U>Effect on pneumonia (</U>
+<LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>): There was no difference between groups for the outcome of pneumonia</P>
+<P>
+<U>Other outcomes: </U>
+<LINK REF="STD-Furumoto-2008" TYPE="STUDY">Furumoto 2008</LINK> did not report on any pulmonary function. Seven subjects in each group (8.4% of the cohort studied) died during the follow up period of the study.</P>
+<P>
+<U>
+<B>Children</B>
+</U>
+</P>
+<P>There was only one study in children with bronchiectasis and this study utilised a comparative group, (i.e. a non-randomised study) published in Russian (<LINK REF="STD-Ryzhov-2005" TYPE="STUDY">Ryzhov 2005</LINK>). In this study (<LINK REF="STD-Ryzhov-2005" TYPE="STUDY">Ryzhov 2005</LINK>) in children with chronic lung disease (including bronchiectasis), 25 were vaccinated with PPV23, 13 with Haemophilus influenzae vaccine and 40 children were not vaccinated. The authors described that, a year after vaccination with PPV23, <I>S. pneumoniae</I> were isolated in monoculture in 3 out of 25 cases (88% elimination) (<LINK REF="STD-Ryzhov-2005" TYPE="STUDY">Ryzhov 2005</LINK>).</P>
+<P>It was not possible to perform any relevant sub-analysis.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates">
+<P>In this review that evaluated the efficacy of pneumococcal vaccine in people with bronchiectasis for pulmonary outcomes, we found only one randomised controlled trial that was subject to bias as it was an open-labelled trial. Nevertheless the study in 167 adults with chronic lung disease found that PV23 vaccination significantly reduced the number of people with respiratory exacerbation with NNTB of 7 (95%CI 4, 424) over 2-years. The majority of this effect related to infective exacerbations, NNTB 6 (95%CI 4, 32) over 2-years. There was no difference between groups on number with pneumonia and no data for pulmonary decline was found. One controlled study that was not randomised (Ryzhov 2005) described efficacy with respect to microbiology of the sputum (88% elimination of S pneumoniae) but clinical evaluation was not examined in children.</P>
+<P>Large trials and meta-analysis have demonstrated that pneumococcal vaccination protects children and adults from invasive pneumococcal disease (<LINK REF="REF-de-Roux-2005" TYPE="REFERENCE">de Roux 2005</LINK>), thus many recommendations exist for regular pneumococcal vaccination for those at risk (including patients with suppurative lung disease). This Cochrane review has significant limitations with the lack of studies. . Whilst we cannot always "wait for perfect data", others have cautioned against "availability creep" with respect to the gap between policy and evidence (<LINK REF="REF-Jefferson-2006" TYPE="REFERENCE">Jefferson 2006</LINK>). Until additional RCTs are undertaken to examine the question, we cannot be absolutely confident with the findings of this review that routine pneumococcal vaccination in children and adults with bronchiectasis is beneficial. The feasibility of performing RCTs in this target group is in question. For now, as children and adults with bronchiectasis are at increased risk for pneumonia and pneumococcal disease and there is some evidence that pneumococcal vaccine can reduce pneumonia and invasive pneumococcal disease (<LINK REF="REF-Lucero-2004" TYPE="REFERENCE">Lucero 2004</LINK>), it would be prudent that providers follow guidelines from the national bodies such as Advisory Committee on Immunization Practices (in USA) (<LINK REF="REF-ACIP" TYPE="REFERENCE">ACIP</LINK>) and NIPS (Australia) (<LINK REF="REF-NIPS" TYPE="REFERENCE">NIPS</LINK>) regarding recommendations for pneumococcal vaccination of persons with bronchiectasis.</P>
+<P>It is debatable whether the study (Furumoto 2008) we have included in this review fulfilled all the inclusion criteria, specifically that related to the diagnosis. We decided to include the study because a subgroup definitely had bronchiectasis and all the lung conditions in the subjects have a large overlap with bronchiectasis especially when the disease is severe. Although the study did not describe the severity of the chronic lung disease in all the subjects, it is likely that they were in the severe spectrum (35.3% of cohort was on ambulatory oxygen and 6.6% was on home ventilation). Unless a HRCT scan is performed on each subject, it is very difficult to ascertain whether radiological bronchiectasis is present. The study was also limited with a risk of performance and detection bias. Nevertheless, in infective exacerbations where the greatest significance between groups was found, objective blood tests were utilised.</P>
+<P>There was no data on how frequent pneumococcal vaccine should be given after the initial vaccination. Some advocate repeating PV23 after 5 years. In the absence of data on frequency of vaccination, we advocate that national guidelines be adhered to.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<IMPLICATIONS_PRACTICE MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Limited evidence support the routine use of polysaccharide 23-valent pneumococcal vaccine in adults with chronic lung disease including those with bronchiectasis. Other circumstantial data also suggests that pneumococcal vaccination is beneficial in children. There is no data on the efficacy of pneumococcal vaccine on pulmonary decline. There is also no data on how often the vaccination should be repeated. With the lack of evidence on this, it is recommended that health providers adhere to national guidelines. Individual risk factors for adverse events should be taken into account.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Randomised controlled trials to establish the efficacy of pneumococcal vaccination in reducing severity and frequency of respiratory exacerbations and pulmonary decline in people with bronchiectasis are needed. As vaccine response alters with age, age-based cohorts should include young children (less than 2 years), children, adults and older adults. Various vaccine types and microbiological surveillance for possible serotype replacement should also be examined in these RCTs. However the difficulty in performing a RCT in the target group is acknowledged.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>We thank Toby Lasserson and Chris Cates from the Airways Group for their advice, supportive role and comments to the protocol and review. We are also grateful to Susan Hansen and Elizabeth Arnold for performing the relevant searches and obtaining the articles. We also thank Dr. Vasiliy Vlassov for translation of the Russian article.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None declared.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>For the protocol: Protocol was written by both CC and AC. RS reviewed the protocol. For the review: CC and AC selected articles from search, extracted data and wrote the review. RS and PM contributed to writing the review and would have been adjudicators if disagreements had occurred.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2017-08-21 16:35:54 +0100" MODIFIED_BY="Emma Dennett">
+<STUDIES MODIFIED="2017-08-09 17:27:10 +0100" MODIFIED_BY="Emma J Dennett">
+<INCLUDED_STUDIES MODIFIED="2009-01-07 15:31:26 +0000" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Furumoto-2008" MODIFIED="2009-01-07 15:31:26 +0000" MODIFIED_BY="[Empty name]" NAME="Furumoto 2008" YEAR="2008">
+<REFERENCE MODIFIED="2009-01-07 15:31:26 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Furumoto A, Ohkusa Y, Chen M, Kawakami K, Masaki H, Sueyasu Y, et al</AU>
+<TI>Additive effect of pneumococcal vaccine and influenza vaccine on acute exacerbation in patients with chronic lung disease</TI>
+<SO>Vaccine</SO>
+<YR>2008</YR>
+<VL>26</VL>
+<NO>33</NO>
+<PG>4284-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3445111"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3445110"/></IDENTIFIERS>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ryzhov-2005" NAME="Ryzhov 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ryzhov AA, Katosova LK, Kostinov MP, Volkov IK, Magarshak OO</AU>
+<TI>Evaluation of the influence of the bacterial vaccines Pneumo-23 and Act-HIB on the course of the chronic inflammatory process of the respiratory organs in children</TI>
+<SO>Zhurnal Mikrobiologii, Epidemiologii i Immunobiologii</SO>
+<YR>2005</YR>
+<VL>30</VL>
+<NO>3</NO>
+<PG>84-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3445113"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3445112"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-van-Kessel-2005" NAME="van Kessel 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>van Kessel DA, van Velzen-Blad H, van den Bosch JM, Rijkers GT</AU>
+<TI>Impaired pneumococcal antibody response in bronchiectasis of unknown aetiology</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2005</YR>
+<VL>25</VL>
+<NO>3</NO>
+<PG>482-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3445115"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3445114"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vendrell-2005" NAME="Vendrell 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vendrell M, De Gracia J, Rodrigo MJ, Cruz MJ, Alvarez A, Garcia M, et al</AU>
+<TI>Antibody production deficiency with normal IgG levels in bronchiectasis of unknown etiology</TI>
+<SO>Chest</SO>
+<YR>2005</YR>
+<VL>127</VL>
+<NO>1</NO>
+<PG>197-204</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="3445117"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="3445116"/></IDENTIFIERS>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2017-08-09 17:27:10 +0100" MODIFIED_BY="Emma J Dennett">
+<STUDY DATA_SOURCE="PUB" ID="STD-O-Grady-2015" MODIFIED="2017-08-09 17:27:10 +0100" MODIFIED_BY="Emma J Dennett" NAME="O Grady 2015" YEAR="2015">
+<REFERENCE MODIFIED="2017-08-09 17:27:07 +0100" MODIFIED_BY="Emma J Dennett" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>O'Grady KA, Grimwood K, Cripps A, Mulholland EK, Morris P, Torzillo PJ et al</AU>
+<TI>Does a 10-valent pneumococcal-Haemophilus influenzae protein D conjugate vaccine prevent respiratory exacerbations in children with recurrent protracted bacterial bronchitis, chronic suppurative lung disease and bronchiectasis: protocol for a randomised controlled trial</TI>
+<SO>Trials</SO>
+<YR>2013</YR>
+<VL>14</VL>
+<NO>1</NO>
+<PG>282</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="6614827"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="6614826"/></IDENTIFIERS>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<ADDITIONAL_REFERENCES MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<REFERENCE ID="REF-ACIP" MODIFIED="2009-01-07 15:31:45 +0000" MODIFIED_BY="[Empty name]" NAME="ACIP" TYPE="OTHER">
+<AU>ACIP</AU>
+<TI>Advisory Committee on Immunization Practices</TI>
+<SO>http://www.cdc.gov/nip/menus/vaccines.htm</SO>
+<YR>(accessed Dec 2006)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Altin-2004" MODIFIED="2009-01-07 15:32:05 +0000" MODIFIED_BY="[Empty name]" NAME="Altin 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Altin R, Savranlar A, Kart L, Mahmutyazicioglu K, Ozdemir H, Akdag B, et al</AU>
+<TI>Presence and HRCT quantification of bronchiectasis in coal workers</TI>
+<SO>European Journal of Radiology</SO>
+<YR>2004</YR>
+<VL>52</VL>
+<NO>2</NO>
+<PG>157-63</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Buckles-1951" MODIFIED="2009-01-07 15:33:03 +0000" MODIFIED_BY="[Empty name]" NAME="Buckles 1951" TYPE="JOURNAL_ARTICLE">
+<AU>Buckles MG, Potts WL, Davidson HB, Neptune WB</AU>
+<TI>Bronchography in pulmonary tuberculosis, with histopathologic correlation in 82 resections</TI>
+<SO>American Review of Tuberculosis</SO>
+<YR>1951</YR>
+<VL>64</VL>
+<NO>4</NO>
+<PG>394-407</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Callahan-2002" NAME="Callahan 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Callahan CW, Redding GJ</AU>
+<TI>Bronchiectasis in children: orphan disease or persistent problem?</TI>
+<SO>Pediatric pulmonology</SO>
+<YR>2002</YR>
+<VL>33</VL>
+<NO>6</NO>
+<PG>492-496</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cates-2003" NAME="Cates 2003" TYPE="COCHRANE_REVIEW">
+<AU>Cates CJ, Jefferson TO, Bara AI, Rowe BH</AU>
+<TI>Vaccines for preventing influenza in people with asthma (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2003</YR>
+<NO>4</NO>
+<IDENTIFIERS><IDENTIFIER TYPE="DOI" VALUE="Art. No.: CD000364. DOI: 10.1002/14651858.CD000364.pub2."/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-1998" NAME="Chang 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Chang AB, Masel JP, Masters B</AU>
+<TI>Post-infectious bronchiolitis obliterans: clinical, radiological and pulmonary function sequelae</TI>
+<SO>Pediatric Radiology</SO>
+<YR>1998</YR>
+<VL>28</VL>
+<NO>1</NO>
+<PG>23-29</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-2002" NAME="Chang 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Chang AB, Grimwood K, Mulholland EK, Torzillo PJ</AU>
+<TI>Bronchiectasis in Indigenous children in remote Australian communities</TI>
+<SO>Medical Journal of Australia</SO>
+<YR>2002</YR>
+<VL>177</VL>
+<NO>4</NO>
+<PG>200-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-2003" MODIFIED="2009-01-07 15:33:52 +0000" MODIFIED_BY="[Empty name]" NAME="Chang 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Chang AB, Masel JP, Boyce NC, Wheaton G, Torzillo PJ</AU>
+<TI>Non-CF bronchiectasis-clinical and HRCT evaluation</TI>
+<SO>Pediatric Pulmonology</SO>
+<YR>2003</YR>
+<VL>35</VL>
+<PG>477-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cole-1986" NAME="Cole 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Cole PJ</AU>
+<TI>Inflammation: a two edged sword. The model of bronchiectasis</TI>
+<SO>European Journal Respiratory Disease</SO>
+<YR>1986</YR>
+<VL>147</VL>
+<NO>Suppl</NO>
+<PG>6-15</PG>
+<EN>147</EN>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Conaty--2004" NAME="Conaty  2004" TYPE="JOURNAL_ARTICLE">
+<AU>Conaty S, Watson L, Dinnes J, Waugh N</AU>
+<TI>The effectiveness of pneumococcal polysaccharide vaccines in adults: a systematic review of observational studies and comparison with results from randomised controlled trials</TI>
+<SO>Vaccine</SO>
+<YR>2004</YR>
+<VL>22</VL>
+<NO>23-24</NO>
+<PG>3214-24</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-de-Roux-2005" NAME="de Roux 2005" TYPE="JOURNAL_ARTICLE">
+<AU>de Roux A, Lode H</AU>
+<TI>Pneumococcal vaccination</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2005</YR>
+<VL>26</VL>
+<NO>6</NO>
+<PG>982-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Devitt--1977" NAME="Devitt  1977" TYPE="JOURNAL_ARTICLE">
+<AU>Devitt L, Riley I, Hansman D</AU>
+<TI>Human infection caused by penicillin-insensitive pneumococci</TI>
+<SO>Medical Journal of Australia</SO>
+<YR>1977</YR>
+<VL>1</VL>
+<NO>16</NO>
+<PG>586-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Forrester-1987" MODIFIED="2009-01-07 15:34:12 +0000" MODIFIED_BY="[Empty name]" NAME="Forrester 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Forrester HL, Jahnigen DW, LaForce FM</AU>
+<TI>Inefficacy of pneumococcal vaccine in a high-risk population</TI>
+<SO>American Journal of Medicine</SO>
+<YR>1987</YR>
+<VL>83</VL>
+<NO>3</NO>
+<PG>425-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Granger-2006" NAME="Granger 2006" TYPE="COCHRANE_REVIEW">
+<AU>Granger R, Walters J, Poole PJ, Lasserson TJ, Mangtani P, Cates CJ et al</AU>
+<TI>Injectable vaccines for preventing pneumococcal infection in patients with chronic obstructive pulmonary disease (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>4</NO>
+<IDENTIFIERS><IDENTIFIER TYPE="DOI" VALUE="Art. No.: CD001390. DOI: 10.1002/14651858.CD001390.pub2."/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Gursel-2006" NAME="Gursel 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Gursel G</AU>
+<TI>Does coexistence with bronchiectasis influence intensive care unit outcome in patients with chronic obstructive pulmonary disease?</TI>
+<SO>Heart Lung</SO>
+<YR>2006</YR>
+<VL>35</VL>
+<NO>1</NO>
+<PG>58-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2008" MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates" NAME="Higgins 2008" TYPE="OTHER">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions Version 5.0.1 [updated September 2008]</TI>
+<SO>The Cochrane Collaboration</SO>
+<YR>2008</YR>
+<PB>Available from www.cochrane-handbook.org</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Honkanen-1999" NAME="Honkanen 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Honkanen PO, Keistinen T, Miettinen L, Herva E, Sankilampi U, Laara E et al</AU>
+<TI>Incremental effectiveness of pneumococcal vaccine on simultaneously administered influenza vaccine in preventing pneumonia and pneumococcal pneumonia among persons aged 65 years or older</TI>
+<SO>Vaccine</SO>
+<YR>1999</YR>
+<VL>17</VL>
+<NO>20-21</NO>
+<PG>2493-500</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jackson-2006" NAME="Jackson 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Jackson LA, Nelson JC, Whitney CG, Neuzil KM, Benson P, Malais D et al</AU>
+<TI>Assessment of the safety of a third dose of pneumococcal polysaccharide vaccine in the Vaccine Safety Datalink population</TI>
+<SO>Vaccine</SO>
+<YR>2006</YR>
+<VL>24</VL>
+<NO>2</NO>
+<PG>151-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jefferson-2006" NAME="Jefferson 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Jefferson T</AU>
+<TI>Influenza vaccination: policy versus evidence</TI>
+<SO>BMJ</SO>
+<YR>2006</YR>
+<VL>333</VL>
+<NO>7574</NO>
+<PG>912-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Karadag-2005" NAME="Karadag 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Karadag B, Karakoc F, Ersu R, Kut A, Bakac S, Dagli E</AU>
+<TI>Non-cystic-fibrosis bronchiectasis in children: a persisting problem in developing countries</TI>
+<SO>Respiration</SO>
+<YR>2005</YR>
+<VL>72</VL>
+<NO>3</NO>
+<PG>233-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Keistinen-1997" NAME="Keistinen 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Keistinen T, Saynajakangas O, Tuuponen T, Kivela SL</AU>
+<TI>Bronchiectasis: an orphan disease with a poorly-understood prognosis</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1997</YR>
+<VL>10</VL>
+<NO>12</NO>
+<PG>2784-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lee-2003" NAME="Lee 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Lee CJ, Lee LH, Frasch CE</AU>
+<TI>Protective immunity of pneumococcal glycoconjugates</TI>
+<SO>Critical Reviews in Microbiology</SO>
+<YR>2003</YR>
+<VL>29</VL>
+<NO>4</NO>
+<PG>333-49</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lewis-2002" NAME="Lewis 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Lewis MM, Mortelliti MP, Yeager H, Jr., Tsou E</AU>
+<TI>Clinical bronchiectasis complicating pulmonary sarcoidosis: case series of seven patients</TI>
+<SO>Sarcoidosis, vasculitis, and diffuse lung diseases</SO>
+<YR>2002</YR>
+<VL>19</VL>
+<NO>2</NO>
+<PG>154-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lexau-2005" NAME="Lexau 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Lexau CA, Lynfield R, Danila R, Pilishvili T, Facklam R, Farley MM et al</AU>
+<TI>Changing epidemiology of invasive pneumococcal disease among older adults in the era of pediatric pneumococcal conjugate vaccine</TI>
+<SO>JAMA</SO>
+<YR>2005</YR>
+<VL>294</VL>
+<NO>16</NO>
+<PG>2043-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lucero-2004" NAME="Lucero 2004" TYPE="COCHRANE_REVIEW">
+<AU>Lucero MG, Dulalia VE, Parreno RN, Lim-Quianzon DM, Nohynek H, Makela H et al</AU>
+<TI>Pneumococcal conjugate vaccines for preventing vaccine-type invasive pneumococcal disease and pneumonia with consolidation on x-ray in children under two years of age (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>4</NO>
+<IDENTIFIERS><IDENTIFIER TYPE="DOI" VALUE="Art. No.: CD004977. DOI: 10.1002/14651858.CD004977."/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Martinez_x002d_Garcia-2005" NAME="Martinez-Garcia 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Martinez-Garcia MA, Perpina-Tordera M, Roman-Sanchez P, Soler-Cataluna JJ</AU>
+<TI>Quality-of-life determinants in patients with clinically stable bronchiectasis</TI>
+<SO>Chest</SO>
+<YR>2005</YR>
+<VL>128</VL>
+<NO>2</NO>
+<PG>739-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McEllistrem-2005" NAME="McEllistrem 2005" TYPE="JOURNAL_ARTICLE">
+<AU>McEllistrem MC, Adams JM, Patel K, Mendelsohn AB, Kaplan SL, Bradley JS, et al</AU>
+<TI>Acute otitis media due to penicillin-nonsusceptible Streptococcus pneumoniae before and after the introduction of the pneumococcal conjugate vaccine</TI>
+<SO>Clinical Infectious Diseases</SO>
+<YR>2005</YR>
+<VL>40</VL>
+<NO>12</NO>
+<PG>1738-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NIPS" NAME="NIPS" TYPE="OTHER">
+<TI>National Immunisation Program</TI>
+<SO>http://www.immunise.health.gov.au/internet/immunise/publishing.nsf/Content/nips</SO>
+<YR>accessed Dec 2006</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-O_x0027_Brien-2000" NAME="O'Brien 2000" TYPE="JOURNAL_ARTICLE">
+<AU>O'Brien C, Guest PJ, Hill SL, Stockley RA</AU>
+<TI>Physiological and radiological characterisation of patients diagnosed with chronic obstructive pulmonary disease in primary care</TI>
+<SO>Thorax</SO>
+<YR>2000</YR>
+<VL>55</VL>
+<NO>8</NO>
+<PG>635-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Patel-2004" NAME="Patel 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Patel IS, Vlahos I, Wilkinson TM, Lloyd-Owen SJ, Donaldson GC, Wilks M, et al</AU>
+<TI>Bronchiectasis, exacerbation indices, and inflammation in chronic obstructive pulmonary disease</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2004</YR>
+<VL>170</VL>
+<NO>4</NO>
+<PG>400-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Poletti-2006" MODIFIED="2009-01-07 15:40:16 +0000" MODIFIED_BY="[Empty name]" NAME="Poletti 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Poletti V, Casoni G, Chilosi M, Zompatori M</AU>
+<TI>Diffuse panbronchiolitis</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2006</YR>
+<VL>28</VL>
+<NO>4</NO>
+<PG>862-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sheikh-2002" MODIFIED="2009-01-07 15:40:42 +0000" MODIFIED_BY="[Empty name]" NAME="Sheikh 2002" TYPE="COCHRANE_REVIEW">
+<AU>Sheikh A, Alves B, Dhami S</AU>
+<TI>Pneumococcal vaccine for asthma (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>1</NO>
+<IDENTIFIERS MODIFIED="2009-01-07 15:40:42 +0000" MODIFIED_BY="[Empty name]"><IDENTIFIER MODIFIED="2009-01-07 15:40:42 +0000" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD002165"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Singleton-2000" NAME="Singleton 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Singleton RJ, Morris A, Redding G, Poll J, Holck P, Martinez P et al</AU>
+<TI>Bronchiectasis in Alaska Native children: causes and clinical courses</TI>
+<SO>Pediatric Pulmonology</SO>
+<YR>2000</YR>
+<VL>29</VL>
+<NO>3</NO>
+<PG>182-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Straetemans-2004" MODIFIED="2009-01-07 15:41:05 +0000" MODIFIED_BY="[Empty name]" NAME="Straetemans 2004" TYPE="COCHRANE_REVIEW">
+<AU>Straetemans M, Sanders EAM, Veenhoven RH, Schilder AGM, Damoiseaux RAMJ, Zielhuis GA</AU>
+<TI>Pneumococcal vaccines for preventing otitis media (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>1</NO>
+<IDENTIFIERS MODIFIED="2009-01-07 15:41:05 +0000" MODIFIED_BY="[Empty name]"><IDENTIFIER MODIFIED="2009-01-07 15:41:05 +0000" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD001480.pub2"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Twiss-2006" NAME="Twiss 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Twiss J, Stewart AW, Byrnes CA</AU>
+<TI>Longitudinal pulmonary function of childhood bronchiectasis and comparison with cystic fibrosis</TI>
+<SO>Thorax</SO>
+<YR>2006</YR>
+<VL>61</VL>
+<NO>5</NO>
+<PG>414-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Walker-2005" NAME="Walker 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Walker FJ, Singleton RJ, Bulkow LR, Strikas RA, Butler JC</AU>
+<TI>Reactions after 3 or more doses of pneumococcal polysaccharide vaccine in adults in Alaska</TI>
+<SO>Clinical Infectious Diseases</SO>
+<YR>2005</YR>
+<VL>40</VL>
+<NO>12</NO>
+<PG>1730-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2017-08-09 17:26:31 +0100" MODIFIED_BY="Emma J Dennett">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2009-01-12 12:18:09 +0000" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2009-01-12 12:18:09 +0000" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Furumoto-2008">
+<CHAR_METHODS MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Multicentre parallel RCT involving 13 hospitals in the district of Kyushu and Okinawa (Japan) between November 2001 and April 2002. Subjects were seen monthly and with exacerbations, they visited a study physician. </P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2009-01-12 12:18:09 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>191 enrolled but 167 completed. All had chronic lung disease (COPD (n=55), bronchiectasis (20), sequelae of pulmonary tuberculosis (50), sarcoidosis (1), interstitial lung disease (9), diffuse pan bronchiolitis (5), pneumoconiosis (14), bronchial asthma (13)).</P>
+<P>Inclusion criteria were patients with chronic lung disease who previously experienced acute exacerbations, were able to comply with a schedule of monthly clinical visits and were between 40 and 80 years of age. Exclusion criteria: Patients who were pregnant or had immunocompromised conditions (e.g. active malignant diseases, renal insufficiency in dialysis or HIV infection, hypogammaglobulinaemia, anatomical or functional asplenia and who had previously received 23-valent PV.</P>
+<P>Mean age: pneumococcal vaccine (PV) with influenza vaccine (IV) group=67.8, SD 9.5 years; IV alone group=70.1 SD 7.4 years.</P>
+<P>Gender: PV group=60 (69%), IV group=46 (57.5%)</P>
+<P>Home O2 use: PV group=27 (31%), IV group=32 (40%)</P>
+<P>Home non-invasive pressure ventilation: PV group=6 (6.9%), IV group=5 (6.3%)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-12-04 08:53:33 +0000" MODIFIED_BY="Anne B Chang">
+<P>23-valent pneumococcal vaccine (PV) and influenza vaccine (IV) compared to influenza vaccine alone. PV + IV group were separately immunized with 0.5 ml of PV and 0.5 ml of IV on separate occasions in 1month intervals, the participants in the IV group were immunized with 0.5 ml of IV alone</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates">
+<P>Pneumonia defined as either clinical symptoms (cough, sputum or fever) plus increased white blood cell counts or serum C-reactive protein, and the appearance of a new infiltration on a chest radiograph.</P>
+<P>Acute respiratory exacerbation defined by presence of criteria: (1) increased dyspnoea, (2) increased sputum volume and (3) increased sputum purulence, and (4) absence of newly appeared infiltration on a chest radiograph. Acute exacerbation was diagnosed when two of the three respiratory symptoms existed or when one of these and one of additional symptoms, such as a fever without any other causes or increased cough was present.</P>
+<P>Acute infective respiratory exacerbation: above plus when the laboratory examinations revealed an increase in white blood cell counts (WCC) or serum C-reactive protein (CRP), in addition to the clinical symptoms of acute exacerbation.</P>
+<P>Acute non-infective respiratory exacerbation: clinical symptoms of acute exacerbation without increase in WCC or serum CRP.</P>
+<P>Follow-up period was 2-years. </P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<P>As all diseases in the inclusion list develop bronchiectasis, paper included </P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Ryzhov-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non RCT. This study in Russian was a comparative study in 40 controls (unvaccinated ) and 25 children with chronic lung disease (including bronchiectasis) using Pneumovax 23. Hib vaccination was examined in another group.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-van-Kessel-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non RCT. Study examined antibody response to polysaccharide pneumococcal vaccine in 26 patients with bronchiectasis of unknown aetiology.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Vendrell-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non RCT. Study examined antibody response to a pneumococcal unconjugate vaccine and an Haemophilus influenzae type b conjugate vaccine in all consecutive adult patients with bronchiectasis of unknown etiology .</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2017-08-09 17:26:31 +0100" MODIFIED_BY="Emma J Dennett" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-O-Grady-2015">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2008-12-04 08:34:49 +0000" MODIFIED_BY="Anne B Chang" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-12-04 08:34:49 +0000" MODIFIED_BY="Anne B Chang" RESULT="UNKNOWN" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Not described </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-12-05 01:17:01 +0000" MODIFIED_BY="Anne B Chang" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-12-05 01:17:01 +0000" MODIFIED_BY="Anne B Chang" RESULT="YES" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Use of envelopes</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2008-12-05 01:17:03 +0000" MODIFIED_BY="Anne B Chang" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>Pneumonia</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.03" NO="3">
+<NAME>Acute non-infective respiratory exacerbation</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.02" NO="2">
+<NAME>Acute infective respiratory exacerbation</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-12-05 01:17:03 +0000" MODIFIED_BY="Anne B Chang" RESULT="NO" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Open label trial </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.02" MODIFIED="2008-12-05 01:16:54 +0000" MODIFIED_BY="Anne B Chang" RESULT="NO" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Open label trial</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.03" MODIFIED="2008-12-04 08:39:42 +0000" MODIFIED_BY="Anne B Chang" RESULT="YES" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Defined by objective blood results; thus presumed blinded outcome</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>Pneumonia</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.02" NO="2">
+<NAME>Acute infective respiratory exacerbation</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.03" NO="3">
+<NAME>Acute non-infective respiratory exacerbation</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates" RESULT="YES" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Proportion of possible missing outcomes highly unlikely to have clinical relevant impact on intervention effect estimate (low numbers of drop outs and outcomes in both groups 0.096 episodes per person year)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.02" MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates" RESULT="UNKNOWN" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Numbers lost and withdrawn in both groups given (7 in active arm, 17 in control arm) </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.03" MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates" RESULT="UNKNOWN" STUDY_ID="STD-Furumoto-2008">
+<DESCRIPTION>
+<P>Numbers lost and withdrawn in both groups given (7 in active arm, 17 in control arm) </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2009-01-07 15:29:59 +0000" MODIFIED_BY="[Empty name]"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates">
+<COMPARISON ID="CMP-001" MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates" NO="1">
+<NAME>Adults</NAME>
+<DICH_OUTCOME CHI2="3.1054941880047955" CI_END="0.8774143567367565" CI_START="0.3933917557336668" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="OR" EFFECT_SIZE="0.5875096376252891" ESTIMABLE="YES" EVENTS_1="82" EVENTS_2="100" I2="35.59801181643971" I2_Q="35.580170258849805" ID="CMP-001.01" LOG_CI_END="-0.05679526370752622" LOG_CI_START="-0.40517474578143303" LOG_EFFECT_SIZE="-0.23098500474447964" METHOD="MH" MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates" NO="1" P_CHI2="0.2116658072750951" P_Q="0.21175685234549024" P_Z="0.009349084280760474" Q="3.104634097973154" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="261" TOTAL_2="240" WEIGHT="300.0" Z="2.5990181027478023">
+<NAME>Number of people with one or more acute respiratory exacerbation</NAME>
+<GROUP_LABEL_1>Pneumococcal vaccine</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pneumococcal vacc</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.9922628674888224" CI_START="0.2882224538817066" DF="0" EFFECT_SIZE="0.5347826086956522" ESTIMABLE="YES" EVENTS_1="41" EVENTS_2="50" I2="0.0" ID="CMP-001.01.01" LOG_CI_END="-0.0033732605304916336" LOG_CI_START="-0.5402721886258982" LOG_EFFECT_SIZE="-0.27182272457819495" MODIFIED="2008-12-04 13:11:26 +0000" MODIFIED_BY="Anne B Chang" NO="1" P_CHI2="1.0" P_Z="0.04718984513725102" STUDIES="1" TAU2="0.0" TOTAL_1="87" TOTAL_2="80" WEIGHT="100.0" Z="1.9845923412167479">
+<NAME>Any exacerbation</NAME>
+<DICH_DATA CI_END="0.9922628674888224" CI_START="0.2882224538817066" EFFECT_SIZE="0.5347826086956522" ESTIMABLE="YES" EVENTS_1="41" EVENTS_2="50" LOG_CI_END="-0.0033732605304916336" LOG_CI_START="-0.5402721886258982" LOG_EFFECT_SIZE="-0.27182272457819495" MODIFIED="2008-12-04 13:11:26 +0000" MODIFIED_BY="Anne B Chang" ORDER="3" O_E="0.0" SE="0.3153770880557986" STUDY_ID="STD-Furumoto-2008" TOTAL_1="87" TOTAL_2="80" VAR="0.09946270767055496" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.8845567394282421" CI_START="0.2561819520064657" DF="0" EFFECT_SIZE="0.47603305785123967" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="44" I2="0.0" ID="CMP-001.01.02" LOG_CI_END="-0.053274304268940864" LOG_CI_START="-0.5914514695175351" LOG_EFFECT_SIZE="-0.32236288689323805" MODIFIED="2008-12-04 13:10:06 +0000" MODIFIED_BY="Anne B Chang" NO="2" P_CHI2="1.0" P_Z="0.018874586036480193" STUDIES="1" TAU2="0.0" TOTAL_1="87" TOTAL_2="80" WEIGHT="100.0" Z="2.347998722581461">
+<NAME>Infective exacerbations</NAME>
+<DICH_DATA CI_END="0.8845567394282421" CI_START="0.2561819520064657" EFFECT_SIZE="0.47603305785123967" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="44" LOG_CI_END="-0.053274304268940864" LOG_CI_START="-0.5914514695175351" LOG_EFFECT_SIZE="-0.32236288689323805" MODIFIED="2008-12-04 13:10:06 +0000" MODIFIED_BY="Anne B Chang" ORDER="2" O_E="0.0" SE="0.31612793088695706" STUDY_ID="STD-Furumoto-2008" TOTAL_1="87" TOTAL_2="80" VAR="0.09993686868686869" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="4.194061683043687" CI_START="0.4828607879520756" DF="0" EFFECT_SIZE="1.4230769230769231" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="6" I2="0.0" ID="CMP-001.01.03" LOG_CI_END="0.6226348134465655" LOG_CI_START="-0.31617806125421133" LOG_EFFECT_SIZE="0.15322837609617704" MODIFIED="2008-12-04 13:12:35 +0000" MODIFIED_BY="Anne B Chang" NO="3" P_CHI2="1.0" P_Z="0.522308371122458" STUDIES="1" TAU2="0.0" TOTAL_1="87" TOTAL_2="80" WEIGHT="100.00000000000001" Z="0.6397911802259536">
+<NAME>Non-infective exacerbations</NAME>
+<DICH_DATA CI_END="4.194061683043687" CI_START="0.4828607879520756" EFFECT_SIZE="1.4230769230769231" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="6" LOG_CI_END="0.6226348134465655" LOG_CI_START="-0.31617806125421133" LOG_EFFECT_SIZE="0.15322837609617704" MODIFIED="2008-12-04 13:12:35 +0000" MODIFIED_BY="Anne B Chang" ORDER="4" O_E="0.0" SE="0.5514633297979151" STUDY_ID="STD-Furumoto-2008" TOTAL_1="87" TOTAL_2="80" VAR="0.30411180411180405" WEIGHT="100.00000000000001"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="2.331193040112217" CI_START="0.4251090598246285" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.9954954954954955" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="12" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.3675782378210029" LOG_CI_START="-0.37149963935205876" LOG_EFFECT_SIZE="-0.0019607007655279116" METHOD="MH" MODIFIED="2009-01-08 13:50:55 +0000" MODIFIED_BY="Christopher J Cates" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.991702802338183" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="87" TOTAL_2="80" WEIGHT="99.99999999999999" Z="0.010399182558660108">
+<NAME>Number of subjects with pneumonia</NAME>
+<GROUP_LABEL_1>Pneumococcal vaccine</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="2.3311930401122174" CI_START="0.42510905982462843" EFFECT_SIZE="0.9954954954954955" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="12" LOG_CI_END="0.36757823782100296" LOG_CI_START="-0.3714996393520588" LOG_EFFECT_SIZE="-0.0019607007655279116" MODIFIED="2008-12-04 13:05:18 +0000" MODIFIED_BY="Anne B Chang" ORDER="1" O_E="0.0" SE="0.43413800354595194" STUDY_ID="STD-Furumoto-2008" TOTAL_1="87" TOTAL_2="80" VAR="0.18847580612286496" WEIGHT="99.99999999999999"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates">
+<FIGURE FILENAME="Forest plot.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2009-01-08 13:50:56 +0000" MODIFIED_BY="Christopher J Cates" NO="1" REF_ID="CMP-001.01" SETTINGS="SHOW_EFFECT_SIZE_COLUMN:YES;SHOW_ROB_TABLE:NO;SHOW_MORE_DECIMALS:NO;SHOW_WEIGHT_COLUMN:YES;SHOW_RAW_DATA_COLUMNS:YES;" SHORT_VERSION_FIGURE="YES" TYPE="FOREST_PLOT">
+<CAPTION>
+<P>Forest plot of comparison: 1 Adults, outcome: 1.2 Number of people with acute respiratory exacerbation.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAA2gAAAGgCAMAAADo7LT/AAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD/gADAwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID///8AAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///9BjlLGAAA/UElEQVR42u2dD3gb5Z3nf7KtGY3kyB7ZLklKwI690GMpWxwnjv+V
+ImfL0Wwf7rq0d0+7sCx3D+1uu8s9z+Zoy/U2pe0usH2452G315Zs7yjb7fag6VNgG6AU+wq2HKyG
+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
+YII=
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Rx group risk.png" FILE_TYPE="PNG" ID="FIG-02" MODIFIED="2009-01-12 10:23:14 +0000" MODIFIED_BY="Christopher J Cates" NO="2" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Cates plot for NNT (B) over 2-years in reduction of infective exacerbation comparing PV23 vaccination to control in adults with chronic lung disease</P>
+</CAPTION>
+<FILE>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
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2009-01-07 15:45:20 +0000" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2009-01-07 15:45:20 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2009-01-07 15:29:10 +0000" MODIFIED_BY="[Empty name]">Search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2009-01-07 15:45:20 +0000" MODIFIED_BY="[Empty name]">
+<TABLE COLS="2" ROWS="5">
+<TR>
+<TH>
+<P>Database</P>
+</TH>
+<TH>
+<P>Search keywords</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>AIRWAYS REGISTER</P>
+</TD>
+<TD>
+<P>(bronchiectasis OR "suppurative lung disease") AND ((vaccin* OR immunis*) AND (pneum*))<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>CENTRAL</P>
+</TD>
+<TD>
+<P>#1 MeSH descriptor Bronchiectasis explode all trees<BR/>#2 bronchiect*<BR/>#3 suppurativ* near lung*<BR/>#4 MeSH descriptor Ciliary Motility Disorders explode all trees<BR/>#5 ciliary near dyskinesia<BR/>#6 kartagener*<BR/>#7 (#1 OR #2 OR #3 OR #4 OR #5 OR #6)<BR/>#8 MeSH descriptor Pneumococcal Infections explode all trees<BR/>#9 pneum*<BR/>#10 MeSH descriptor Immunization explode all trees<BR/>#11 MeSH descriptor Vaccines explode all trees<BR/>#12 immuni*<BR/>#13 vaccinat*<BR/>#14 (#8 OR #9)<BR/>#15 (#10 OR #11 OR #12 OR #13)<BR/>#16 (#14 AND #15)<BR/>#17(#16 AND #7)<BR/>
+<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>MEDLINE and OLDMEDLINE <BR/>
+<BR/>(Combined with RCT filter)</P>
+</TD>
+<TD>
+<P>1. exp Bronchiectasis/<BR/>2. bronchiect$.mp.<BR/>3. (bronch$ adj5 dilat$).mp.<BR/>4. (suppurativ$ adj5 lung$).mp.<BR/>5. (ciliary adj3 dyskinesia).mp.<BR/>6. kartagener$.mp.<BR/>7. or/1-6<BR/>8. exp Pneumococcal Infections/<BR/>9. pneum$.mp.<BR/>10. exp Immunization/<BR/>11. exp Vaccines/<BR/>12. vaccinat$.mp.<BR/>13. immuni$.mp.<BR/>14. (or/8-9) and (or/10-13)<BR/>15. (pneumoc$ adj5 vaccin$).mp.<BR/>16. (pneumoc$ adj5 immuni$).mp.<BR/>17. pneumococcal vaccines/<BR/>18. or/14-17<BR/>19. 18 and 7<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>EMBASE <BR/>
+<BR/>(Combined with RCT filter)</P>
+</TD>
+<TD>
+<P>1. exp Bronchiectasis/<BR/>2. bronchiect$.mp.<BR/>3. (bronch$ adj5 dilat$).mp.<BR/>4. (suppurativ$ adj5 lung$).mp.<BR/>5. (ciliary adj3 dyskinesia).mp.<BR/>6. kartagener$.mp.<BR/>7. or/1-6<BR/>8. exp Pneumococcal Infections/<BR/>9. pneum$.mp.<BR/>10. exp Immunization/<BR/>11. exp Vaccines/<BR/>12. vaccinat$.mp.<BR/>13. immuni$.mp.<BR/>14. (or/8-9) and (or/10-13)<BR/>15. (pneumoc$ adj5 vaccin$).mp.<BR/>16. (pneumoc$ adj5 immuni$).mp.<BR/>17. pneumococcal vaccines/<BR/>18. or/14-17<BR/>19. 18 and 7<BR/>
+<BR/>
+</P>
+</TD>
+</TR>
+</TABLE>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

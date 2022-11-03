@@ -1,0 +1,2474 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003441.pub3" GROUP_ID="SCHIZ" ID="677801102911185422" MERGED_FROM="" MODIFIED="2015-12-21 10:49:30 +0000" MODIFIED_BY="Claire Irving" REVIEW_NO="456" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="8.3">
+<COVER_SHEET MODIFIED="2015-12-21 10:49:30 +0000" MODIFIED_BY="Claire Irving">
+<TITLE>'As required' medication regimens for seriously mentally ill people in hospital</TITLE>
+<CONTACT MODIFIED="2015-12-21 10:49:30 +0000" MODIFIED_BY="Claire Irving"><PERSON ID="1184F4D482E26AA201DC7B3EF1BE0A73" ROLE="AUTHOR"><PREFIX>Mrs</PREFIX><FIRST_NAME>Petrina</FIRST_NAME><LAST_NAME>Douglas-Hall</LAST_NAME><SUFFIX>BPharm, MRPharmS</SUFFIX><POSITION>Senior Pharmacist</POSITION><EMAIL_1>petrina.douglas-hall@slam.nhs.uk</EMAIL_1><MOBILE_PHONE>07810 175 975</MOBILE_PHONE><ADDRESS><DEPARTMENT>Pharmacy Department</DEPARTMENT><ORGANISATION>South London and Maudsley NHS Trust</ORGANISATION><ADDRESS_1>Maudsley Hospital</ADDRESS_1><ADDRESS_2>Denmark Hill</ADDRESS_2><CITY>London</CITY><ZIP>SE5 8AZ</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>0203 228 2317</PHONE_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2015-12-21 10:49:30 +0000" MODIFIED_BY="Claire Irving"><PERSON ID="1184F4D482E26AA201DC7B3EF1BE0A73" ROLE="AUTHOR"><PREFIX>Mrs</PREFIX><FIRST_NAME>Petrina</FIRST_NAME><LAST_NAME>Douglas-Hall</LAST_NAME><SUFFIX>BPharm, MRPharmS</SUFFIX><POSITION>Senior Pharmacist</POSITION><EMAIL_1>petrina.douglas-hall@slam.nhs.uk</EMAIL_1><MOBILE_PHONE>07810 175 975</MOBILE_PHONE><ADDRESS><DEPARTMENT>Pharmacy Department</DEPARTMENT><ORGANISATION>South London and Maudsley NHS Trust</ORGANISATION><ADDRESS_1>Maudsley Hospital</ADDRESS_1><ADDRESS_2>Denmark Hill</ADDRESS_2><CITY>London</CITY><ZIP>SE5 8AZ</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>0203 228 2317</PHONE_1></ADDRESS></PERSON><PERSON ID="1185390182E26AA201DC7B3EBED60105" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Emma</FIRST_NAME><MIDDLE_INITIALS>V</MIDDLE_INITIALS><LAST_NAME>Whicher</LAST_NAME><EMAIL_1>Emma.Whicher@swlstg-tr.nhs.uk</EMAIL_1><ADDRESS><DEPARTMENT>Richmond CDAT</DEPARTMENT><ORGANISATION>Richmond Royal Hospital</ORGANISATION><ADDRESS_1>Kew Foot Road</ADDRESS_1><CITY>Richmond</CITY><COUNTRY CODE="GB">UK</COUNTRY></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2015-12-21 10:39:22 +0000" MODIFIED_BY="Claire Irving">
+<UP_TO_DATE>
+<DATE DAY="23" MONTH="10" YEAR="2013"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="23" MONTH="10" YEAR="2013"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="8" MONTH="7" YEAR="2017"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2002"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2002"/>
+<LAST_CITATION_ISSUE ISSUE="12" YEAR="2015"/>
+</DATES>
+<WHATS_NEW MODIFIED="2015-08-11 17:15:40 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_OLD_CONCLUSIONS" MODIFIED="2015-08-11 17:15:09 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="30" MONTH="6" YEAR="2015"/>
+<DESCRIPTION>
+<P>Update completed, no new included studies added. </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2015-08-11 17:15:40 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="11" MONTH="6" YEAR="2014"/>
+<DESCRIPTION>
+<P>Results of 2012 and 2013 search added to the review. No new studies are included. Four studies added to excluded studies table.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="23" MONTH="10" YEAR="2013"/>
+<DESCRIPTION>
+<P>Update search of Cochrane Schizophrenia Group's Trials Register (see <A HREF="http://archie.cochrane.org/sections/documents/view?version=44705070754671417758120516110605&amp;format=REVMAN#SEARCH_METHODS">Search methods for identification of studies</A>); 12 studies added to awaiting classification references.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="25" MONTH="7" YEAR="2012"/>
+<DESCRIPTION>
+<P>Update search of Cochrane Schizophrenia Group's Trials Register (see <A HREF="http://archie.cochrane.org/sections/documents/view?version=44705070754671417758120516110605&amp;format=REVMAN#SEARCH_METHODS">Search methods for identification of studies</A>); three studies added to awaiting classification.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2015-07-23 08:33:09 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-07-23 08:32:57 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="7" MONTH="7" YEAR="2010"/>
+<DESCRIPTION>
+<P>New plain language summary added.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2010-07-07 14:46:31 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="26" MONTH="4" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-07-23 08:33:09 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="8" MONTH="3" YEAR="2007"/>
+<DESCRIPTION>
+<P>Substantive amendment. An update search in March 2006 found 55 new references to 30 new studies but only three were available for further inspection and none met our inclusion criteria.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Leeds Community Mental Health Trust</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>University of Leeds</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2015-12-21 10:42:27 +0000" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2015-08-11 17:13:38 +0100" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2015-04-15 14:01:45 +0100" MODIFIED_BY="[Empty name]">'As required' medication for seriously mentally ill people in hospital</TITLE>
+<SUMMARY_BODY MODIFIED="2015-08-11 17:13:38 +0100" MODIFIED_BY="[Empty name]">
+<P>
+<B>Review question</B>
+</P>
+<P>This review attempts to find evidence to find out whether the use of 'as required' medication is good clinical practice or not, when compared to the same drug given regularly, for people with schizophrenia who are in hospital. Searches for randomised trials investigating this question have been run by the Cochrane Schizophrenia Group in 2001, 2006, 2012 and 2013.</P>
+<P>
+<B>Background</B>
+</P>
+<P>Schizophrenia is a serious mental illness. People with schizophrenia often hear voices and see things (hallucinations) and have strange beliefs (delusions) that can be upsetting or frightening, or both. These symptoms of schizophrenia can cause agitation, aggression and distress. The main treatment for schizophrenia is antipsychotic drugs. However, these drugs usually take several weeks to work. In the meantime, for people in distress in hospital, other additional medication can be given when needed (if clinicians think it is appropriate), until regular antipsychotics start to work. This 'as required' medication is often used to help people feel less anxious and to reduce disturbed behaviour. 'As required' medication is usually written on the drug chart by the clinician so that nurses can administer it at their discretion and in the doctor's absence. Although there are many advantages to this practice, there are also potential disadvantages. For example, it may cause difficulty in knowing which medication (the prescribed medication or the 'as required' medication) has been effective and staff on the ward might use this additional medication too readily for individuals who are upset, rather than spending time with them or considering other approaches.</P>
+<P>
+<B>Study characteristics</B>
+</P>
+<P>The search only found trials that compared two different drugs, both of which were used 'as required'. The review authors found no trials that compared only giving additional medication when needed with regular doses of the same medication.</P>
+<P>
+<B>Key results</B>
+</P>
+<P>The review authors found no trials that could be included in the review. Although the practice of using medication 'as required' is common, there is currently no good evidence as to whether this is the best way of helping people when compared to them being given a regular dose of the same medication.</P>
+<P>
+<B>Quality of the evidence</B>
+</P>
+<P>The review authors found no trials that compared 'as required' with regular medication. 'As required' medication, though used widely, has not been evaluated scientifically. A well designed, conducted and reported randomised trial would help to gather more evidence.</P>
+<P>Ben Gray, Senior Peer Researcher, McPin Foundation, <A HREF="http://mcpin.org/">http://mcpin.org/</A> (for the previous 'Plain language summary' please see <A HREF="03">Appendix 3</A>).</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>Drugs used to treat psychotic illnesses may take weeks to be effective. In the interim, additional 'as required' doses of medication can be used to calm patients in psychiatric wards. The practice is widespread, with 20% to 50% of people on acute psychiatric wards receiving at least one 'as required' dose of psychotropic medication during their admission.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2014-09-03 13:41:56 +0100" MODIFIED_BY="[Empty name]">
+<P>To compare the effects of 'as required' medication regimens with regular patterns of medication for the treatment of psychotic symptoms or behavioural disturbance, thought to be secondary to psychotic illness. These regimens may be given alone or in addition to any regular psychotropic medication for the long-term treatment of schizophrenia or schizophrenia-like illnesses.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>We searched the Cochrane Schizophrenia Group's Trials Register, which is based on regular searches of MEDLINE, EMBASE, PubMed, CINAHL, BIOSIS, AMED, PsycINFO and registries of clinical trials, in November 2001, March 2006, July 2012 andOctober 2013.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>We aimed to include all relevant randomised controlled trials involving hospital inpatients with schizophrenia or schizophrenia-like illnesses, comparing any regimen of medication administered for the short-term relief of behavioural disturbance, or psychotic symptoms, to be given at the discretion of ward staff ('as required', 'prn') with fixed non-discretionary patterns of drug administration of the same drug(s). This was in addition to regular psychotropic medication for the long-term treatment of schizophrenia or schizophrenia-like illnesses where prescribed.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>We independently inspected abstracts and papers for inclusion. If trials had been found, we would have extracted data from the papers and quality assessed the data. For dichotomous data we would have calculated the risk ratios (RR), with the 95% confidence intervals (CI). We would have conducted analyses on an intention-to-treat basis. If data were available we would have completed a 'Summary of findings' table using GRADE.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>We have not been able to identify any randomised trials comparing 'as required' medication regimens to regular regimens of the same drug. Our main outcomes of interest were important changes in (i) mental state, (ii) behaviour, (iii) dose of medication used, (iv) adverse events, (v) satisfaction with care and (iv) cost of care.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2014-09-04 14:18:47 +0100" MODIFIED_BY="[Empty name]">
+<P>There is currently no evidence from within randomised trials to support this common practice. Current practice is based on clinical experience and habit rather than high quality evidence.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2015-12-21 10:40:46 +0000" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<CONDITION MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>Schizophrenia is a heterogeneous syndrome consisting of delusions, hallucinations, disorganised speech and/or negative symptoms (<LINK REF="REF-DSM_x002d_5" TYPE="REFERENCE">DSM-5</LINK>). Individuals will vary in their presentation depending on their own distinctive features and severity. The symptoms of schizophrenia can cause agitation, aggression and distress to those who have it. It is reported that the lifetime risk of suicide in people with schizophrenia is about 5% (<LINK REF="REF-Hor-2010" TYPE="REFERENCE">Hor 2010</LINK>), and suicidal ideation is a common feature (<LINK REF="REF-DSM_x002d_5" TYPE="REFERENCE">DSM-5</LINK>). The lifetime prevalence of schizophrenia is estimated at 0.3% to 0.7% (<LINK REF="REF-McGrath-2008" TYPE="REFERENCE">McGrath 2008</LINK>). Onset is typically in the late teens to mid-30s and for many schizophrenia is a chronic lifelong illness with exacerbations and remission of prominent symptoms.</P>
+</CONDITION>
+<INTERVENTION MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>For people admitted to psychiatric units with a psychotic illness, the mainstay of treatment is antipsychotic drugs. It can, however, take up to several weeks for these to have an effect and in the meantime there is often a need to reduce agitation, distress or aggression if a person is acutely disturbed. Short-term relief of distress is desirable. Using additional doses of 'as required', 'pro re nata' or 'prn' psychotropic medication can achieve this. The classes of medication usually employed are antipsychotics, benzodiazepines and antihistamines (<LINK REF="REF-Craven-1987" TYPE="REFERENCE">Craven 1987</LINK>). These may be administered orally or by intramuscular or intravenous injection (or both). These drugs relieve the symptoms of agitation and some promote sedation. Consequently 'as required' psychotropic medication is also used to treat acute behavioural disturbance in patients without an underlying psychotic illness (<LINK REF="REF-McLaren-1990" TYPE="REFERENCE">McLaren 1990</LINK>). In this review, however, we concentrate on those with a psychotic illness.</P>
+<P>The 'as required' method can also be used to treat adverse effects of psychotropic medication, but this is not the focus of this review.</P>
+</INTERVENTION>
+<THEORY MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>The therapeutic activity of antipsychotics results primarily from their ability to block dopamine D2 receptors and in some cases also D1 receptors. Some antipsychotics have antagonistic effects on muscarinic M1, histamine H1 and/or alpha-1 adrenergic receptors, which result in sedation (<LINK REF="REF-Stahl-2008" TYPE="REFERENCE">Stahl 2008</LINK>).</P>
+<P>The anxiolytic, sedative and anticonvulsant properties of benzodiazepines are due to their ability to potentiate the neurotransmitter gamma-aminobutyric acid (GABA), which is an inhibitory transmitter in the central nervous system (<LINK REF="REF-Leonard-1992" TYPE="REFERENCE">Leonard 1992</LINK>).</P>
+<P>Sedative antihistamines are usually used 'as required'. These are primarily histamine H1 receptor antagonists, which have the ability to cross the blood-brain barrier (<LINK REF="REF-Meylers-2006" TYPE="REFERENCE">Meylers 2006</LINK>).</P>
+</THEORY>
+<IMPORTANCE MODIFIED="2015-08-11 17:04:14 +0100" MODIFIED_BY="[Empty name]">
+<P>The use of 'as required' regimens of psychotropic medication for disturbed behaviour, distress or agitation is widespread within psychiatric units (<LINK REF="REF-Craven-1987" TYPE="REFERENCE">Craven 1987</LINK>). One survey found that 23% of psychiatric hospital inpatients received at least one 'prn' dose of psychotropic medication during their stay (<LINK REF="REF-Craig-1995" TYPE="REFERENCE">Craig 1995</LINK>). Amongst those in secure psychiatric care, up to 50% receive 'as required' medication during their admission (<LINK REF="REF-McLaren-1990" TYPE="REFERENCE">McLaren 1990</LINK>). Once a 'prn' regimen is instigated, medication is administered frequently, about 10 times per person, and most of these administrations occur in the first four days of admission (<LINK REF="REF-Gray-1997" TYPE="REFERENCE">Gray 1997</LINK>). Despite the high prevalence of use, key texts are brief in their discussion and appraisal of 'as required' regimens (<LINK REF="REF-Marder-2000" TYPE="REFERENCE">Marder 2000</LINK>; <LINK REF="REF-Owens-2000" TYPE="REFERENCE">Owens 2000</LINK>).</P>
+<P>The advantages of this method of prescribing are that it gives nursing staff greater freedom in administering medication, allowing them to administer rapidly in acute situations or at the patient's request. It is possible that lower doses of psychotropic medication are then used, as drugs are only administered when needed. Furthermore it allows titration of dosage. Conversely, 'as required' regimens can create a dilemma for the clinician. Although it is desirable to use as low a dose of psychotropic medication as possible to reduce the risk of adverse effects, 'as required' regimens may allow the administration of high, or above recommended doses (<LINK REF="REF-Milton-1998" TYPE="REFERENCE">Milton 1998</LINK>), to manage acute distress, with the increased risk of adverse effects (<LINK REF="REF-Newton-1997" TYPE="REFERENCE">Newton 1997</LINK>). There is also a risk of 'polypharmacy', with the mixing of typical and atypical antipsychotics (<LINK REF="REF-Bowden-1999" TYPE="REFERENCE">Bowden 1999</LINK>). 'As required' regimens could also be perceived as punitive by the patient or cause staff to rely too heavily on pharmacological treatments for agitation and behavioural disturbance, to the detriment of other approaches. Also, if instigated on top of a standard drug regimen, the use of 'as required' medication could cause difficulty in determining whether it is the 'as required' or regular medication that is causing an improvement (<LINK REF="REF-Ayd-1985" TYPE="REFERENCE">Ayd 1985</LINK>).</P>
+<P>Although this pattern of 'prn' prescribing appears widespread, the strength of evidence is unclear and requires investigation. We identified no trials in previous versions of this review (<LINK REF="REF-Chakrabarti-2007b" TYPE="REFERENCE">Chakrabarti 2007b</LINK>; <LINK REF="REF-Whicher-2002" TYPE="REFERENCE">Whicher 2002</LINK>). This work updates these, with searches to 2013.</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To compare the effects of 'as required' medication regimens with regular patterns of medication for the treatment of psychotic symptoms or behavioural disturbance, thought to be secondary to psychotic illness. These regimens may be given alone or in addition to any regular psychotropic medication for the long-term treatment of schizophrenia or schizophrenia-like illnesses.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2015-12-21 10:40:46 +0000" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>We sought all relevant randomised controlled trials with or without blinding. We excluded quasi-randomised trials, such as those where allocation was undertaken on surname. If a trial was described as double-blind, but it was implied that it had been randomised, we would have included these trials in a sensitivity analysis. If there were no substantive differences within the primary outcomes when these 'implied randomisation' studies were added, we would have included them in the final analysis. However, if there was a substantive difference then we would have used only clearly randomised trials.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2014-09-03 13:42:22 +0100" MODIFIED_BY="[Empty name]">
+<P>Any hospital inpatients with schizophrenia or schizophrenia-like illnesses, diagnosed by any criteria. Should a study involve participants with various diagnoses, we would have included data if 70% of trial participants suffered from schizophrenia or schizophrenia-like illnesses.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<OL>
+<LI>Any regimen of medication administered for the short-term relief of behavioural disturbance, or psychotic symptoms, to be given at the discretion of ward staff ('as required', 'prn'). We considered any drug, dose, route or interval of administration, including studies using rapid tranquillisation techniques.</LI>
+<LI>Fixed non-discretionary patterns of drug administration of the same drug for the short-term relief of behavioural disturbance, or psychotic symptoms.</LI>
+</OL>
+<P>These interventions could be given alone, or in addition to any medication prescribed for the long-term treatment of schizophrenia or schizophrenia-like illnesses.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>'Prn' medication should be given over time periods that are short in comparison to the enduring treatment and course of illnesses such as schizophrenia. For outcomes with the exception of tranquillisation, this review defines short-term as up to six hours, medium-term as six to 36 hours and long-term as greater than 36 hours. For tranquillisation in emergency situations, we assessed time of evaluation at two hours, four hours, eight hours and 24 hours after first dose.</P>
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="5">1. Mental state: change in severity of psychiatric symptoms; either reduction or deterioration as defined by each study</HEADING>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2. Behaviour: change in behavioural disturbance: either reduction or deterioration as defined by each study</HEADING>
+</SUBSECTION>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="5">1. Behaviour</HEADING>
+<P>1.1 Aggression<BR/>1.2 Tranquillisation<BR/>1.3 Clinically important improvements in functioning, such as self care</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2. Dosage of medication used</HEADING>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">3. Adverse effects</HEADING>
+<P>3.1 General<BR/>3.2 Specific</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">4. Mortality</HEADING>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">5. Satisfaction with care</HEADING>
+<P>5.1 Patient satisfaction with care<BR/>5.2 Acceptability of treatment to staff</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">6. Leaving study early</HEADING>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">7. Hospital outcomes</HEADING>
+<P>7.1 Status in hospital (change)<BR/>7.2 Time in hospital</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">8. Cost of treatment</HEADING>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">'Summary of findings' table</HEADING>
+<P>If we had data we would have used the GRADE approach to interpret findings (<LINK REF="REF-Sch_x00fc_nemann-2011" TYPE="REFERENCE">Schünemann 2011</LINK>) and we would have used GRADE profiler (<A HREF="http://www.ims.cochrane.org/revman/gradepro">GRADEPRO</A>) to import data from RevMan 5 (<A HREF="http://www.ims.cochrane.org/revman">Review Manager</A>) to create 'Summary of findings' tables. These tables provide outcome-specific information concerning the overall quality of evidence from each included study in the comparison, the magnitude of effect of the interventions examined, and the sum of available data on all outcomes rated as important to patient care and decision making. In future versions, if trials are found, we will complete a 'Summary of findings' table and aim to include the following outcomes:</P>
+<OL>
+<LI>Mental state: important change in mental state</LI>
+<LI>Behaviour: important change in behaviour</LI>
+<LI>Dosage: important difference in dose used</LI>
+<LI>Adverse events: important adverse events</LI>
+<LI>Satisfaction with care: important change in satisfaction with care</LI>
+<LI>Cost: important change in cost</LI>
+</OL>
+</SUBSECTION>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<ELECTRONIC_SEARCHES MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Cochrane Schizophrenia Group's Trials Register</HEADING>
+<P>On 23 October 2013, the Trials Search Co-ordinator(s) (TSC) searched the Cochrane Schizophrenia Group's Trials Register using the following search strategy, which has been developed based on literature review and consulting with the authors of the review:</P>
+<P>((*as NEXT required*) or (*as NEXT needed*) or (*as NEXT necessary*) or *as-required* or *as-needed* or *as-necessary* or (*as NEXT indicated*) or *as-indicated* or *prn* or (*pro NEXT re NEXT nata*) or (*drug regimens*)) in Title, Abstract and Keywords of REFERENCE or ((*as NEXT required*) or (*as NEXT needed*) or (*as NEXT necessary*) or *as-required* or *as-needed* or *as-necessary* or (*as NEXT indicated*) or *as-indicated* or *prn* or (*pro NEXT re NEXT nata*) or (*drug regimens*)) in Intervention of STUDY</P>
+<P>The Cochrane Schizophrenia Group's Trials Register is compiled by systematic searches of major resources (including MEDLINE, EMBASE, AMED, BIOSIS, CINAHL, PsycINFO, PubMed and registries of clinical trials) and their monthly updates, handsearches, grey literature and conference proceedings (see <A HREF="http://onlinelibrary.wiley.com/o/cochrane/clabout/articles/SCHIZ/frame.html">Group Module</A>). There is no language, date, document type or publication status limitations for inclusion of records into the register.</P>
+<P>For previous searches see also <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+</SUBSECTION>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2014-09-04 14:27:58 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Reference searching</HEADING>
+<P>We inspected the references of all identified studies, included or excluded, for more studies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Personal contact</HEADING>
+<P>If necessary we would have contacted the authors of relevant reviews or studies for further information.</P>
+</SUBSECTION>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2015-12-21 10:40:46 +0000" MODIFIED_BY="[Empty name]">
+<P>We employed the methods below for the 2012/13 search. For previous methods of data collection and analysis please see <LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK>.</P>
+<STUDY_SELECTION MODIFIED="2015-09-22 11:36:03 +0100" MODIFIED_BY="[Empty name]">
+<P>Review author PDH inspected all reports. As we only found three citations in the search we did not carry out re-inspection. If disagreement had occurred we would have attempted to resolve it by discussion or, if doubt remained, we would have acquired the full article for further inspection. Once we obtained the full articles, again working independently, we would have decided whether they met the criteria for inclusion. Again, when disagreement occurred, we would have attempted resolution by discussion but if this was not possible we would not have entered data but would have allocated the trial to the list of those awaiting assessment whilst we attempted to contact the authors.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2015-12-21 10:40:46 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Extraction</HEADING>
+<P>If trials with data had been found PDH would have extracted data from all included studies. In addition, to ensure reliability, AC (see <LINK TAG="ACKNOWLEDGEMENTS" TYPE="SECTION">Acknowledgements</LINK>) would have independently extracted data from a random sample of these studies, comprising 10% of the total. Again, any disagreement was to be discussed, decisions documented and, if necessary, authors of studies contacted for clarification. We would have extracted data presented only in graphs and figures whenever possible, but only included the data if two review authors independently had the same result. We would have attempted to contact authors through an open-ended request in order to obtain missing information or for clarification whenever necessary. If studies were multicentre, where possible, we would have extracted data relevant to each component centre separately.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Management</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="5">2.1 Extraction</HEADING>
+<P>We would have extracted data onto standard, simple forms.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2.2 Scale-derived data</HEADING>
+<P>We planned to include continuous data from rating scales only if:</P>
+<UL>
+<LI>the psychometric properties of the measuring instrument have been described in a peer-reviewed journal (<LINK REF="REF-Marshall-2000" TYPE="REFERENCE">Marshall 2000</LINK>); and</LI>
+<LI>the measuring instrument had not been written or modified by one of the trialists for that particular trial.</LI>
+</UL>
+<P>Ideally the measuring instrument should either be i. a self report or ii. completed by an independent rater or relative (not the therapist). We realise that this is not often reported clearly. In the description of studies we noted if this was the case or not.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2.3 Endpoint versus change data</HEADING>
+<P>There are advantages of both endpoint and change data. Change data can remove a component of between-person variability from the analysis. On the other hand, calculation of change needs two assessments (baseline and endpoint), which can be difficult in unstable and difficult to measure conditions such as schizophrenia. We decided to primarily use endpoint data, and only use change data if the former were not available. Endpoint and change data would have been combined in the analysis as we planned to use mean differences (MD) rather than standardised mean differences (SMD) throughout (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2.4 Skewed data</HEADING>
+<P>Continuous data on clinical and social outcomes are often not normally distributed. To avoid the pitfall of applying parametric tests to non-parametric data, we aimed to apply the following standards to all data before inclusion:</P>
+<UL>
+<LI>standard deviations (SDs) and means are reported in the paper or obtainable from the authors;</LI>
+<LI>when a scale starts from the finite number zero, the standard deviation (SD), when multiplied by two, is less than the mean (as otherwise the mean is unlikely to be an appropriate measure of the centre of the distribution (<LINK REF="REF-Altman-1996" TYPE="REFERENCE">Altman 1996</LINK>);</LI>
+<LI>if a scale started from a positive value (such as the Positive and Negative Syndrome Scale (PANSS) (<LINK REF="REF-Kay-1986" TYPE="REFERENCE">Kay 1986</LINK>), which can have values from 30 to 210), the calculation described above would be modified to take the scale starting point into account. In these cases skew is present if 2 SD &gt; (S-S min), where S is the mean score and 'S min' is the minimum score. Endpoint scores on scales often have a finite start and end point and these rules can be applied. Skewed data pose less of a problem when looking at means if the sample size is large (&gt; 200) and we entered these into the syntheses. We would have presented skewed endpoint data from studies of fewer than 200 participants as other data within the data and analyses section rather than entering such data into statistical analyses.</LI>
+</UL>
+<P>When continuous data are presented on a scale that includes a possibility of negative values (such as change data), it is difficult to tell whether data are skewed or not. We would have presented and entered change data into statistical analyses.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2.5 Direction of graphs</HEADING>
+<P>Where possible, we would have entered data in such a way that the area to the left of the line of no effect indicated a favourable outcome for 'as required' medication. Where keeping to this made it impossible to avoid outcome titles with clumsy double-negatives (e.g. 'Not un-improved'), we would have reported data where the left of the line indicates an unfavourable outcome. This was to be noted in the relevant graphs.</P>
+</SUBSECTION>
+</SUBSECTION>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2015-09-22 11:36:20 +0100" MODIFIED_BY="[Empty name]">
+<P>Again, if trials had been found, review authors PDH and AC would have worked independently to assess risk of bias by using the criteria described in the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> to assess trial quality (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). This set of criteria is based on evidence of associations between overestimate of effect and high risk of bias of the article such as sequence generation, allocation concealment, blinding, incomplete outcome data and selective reporting.</P>
+<P>If the raters disagreed, the final rating was to be made by consensus, with the involvement of MM. Where inadequate details of randomisation and other characteristics of trials were provided, we would have contacted authors of the studies in order to obtain further information. Non-concurrence in quality assessment was to be reported, but if disputes arose as to which category a trial was to be allocated, again, we would have resolved these by discussion.</P>
+<P>The level of risk of bias would have been noted in both the text of the review and in the 'Summary of findings' table.</P>
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1.1 Data types</HEADING>
+<P>We would have assessed outcomes using continuous (for example, changes in functioning), categorical (for example, one of three categories on a behaviour scale, such as 'little change', 'moderate change' or 'much change') or dichotomous measures (for example, either 'no important changes' or 'important changes' in a person's weight).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">1.2 Intention-to-treat analysis</HEADING>
+<P>We would have assumed that participants who left before study completion (e.g. withdrawn by an investigator or left of their own volition), for binary outcomes, have had a negative outcome. We tested the effects of this assignment in a sensitivity analysis. For continuous data it is impossible to manage the data in this way, therefore we presented 'completer' data.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">1.3 Binary data</HEADING>
+<P>For binary outcomes we would have calculated a standard estimation of the risk ratio (RR) and its 95% confidence interval (CI). It has been shown that RR is more intuitive (<LINK REF="REF-Boissel-1999" TYPE="REFERENCE">Boissel 1999</LINK>) than odds ratios and that odds ratios tend to be interpreted as RR by clinicians (<LINK REF="REF-Deeks-2000" TYPE="REFERENCE">Deeks 2000</LINK>). The number needed to treat to benefit/harm (NNTB/NNTH) statistic with its CIs is intuitively attractive to clinicians but is problematic both in its accurate calculation in meta-analyses and interpretation (<LINK REF="REF-Hutton-2009" TYPE="REFERENCE">Hutton 2009</LINK>). For binary data presented in the 'Summary of findings' table/s, where possible, we would have calculated illustrative comparative risks.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">1.4. Continuous data</HEADING>
+<P>For continuous outcomes we would have estimated the MD between groups. We preferred not to calculate effect size measures (SMD). However, if scales of very considerable similarity were used, we would have presumed that there is a small difference in measurement, and we would have calculated effect size and transformed the effect back to the units of one or more of the specific instruments.</P>
+</SUBSECTION>
+</EFFECT_MEASURES>
+<UNIT_OF_ANALYSIS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Cluster trials</HEADING>
+<P>Studies increasingly employ 'cluster randomisation' (such as randomisation by clinician or practice) but analysis and pooling of clustered data poses problems. Firstly, authors often fail to account for intra-class correlation in clustered studies, leading to a 'unit of analysis' error (<LINK REF="REF-Divine-1992" TYPE="REFERENCE">Divine 1992</LINK>), whereby P values are spuriously low, CIs unduly narrow and statistical significance overestimated. This causes type I errors (<LINK REF="REF-Bland-1997" TYPE="REFERENCE">Bland 1997</LINK>; <LINK REF="REF-Gulliford-1999" TYPE="REFERENCE">Gulliford 1999</LINK>).</P>
+<P>Where clustering is not accounted for in primary studies, we would have presented data in a table, with a (*) symbol to indicate the presence of a probable unit of analysis error. In subsequent versions of this review we will seek to contact first authors of such studies to obtain intra-class correlation coefficients (ICCs) for their clustered data and to adjust for this by using accepted methods (<LINK REF="REF-Gulliford-1999" TYPE="REFERENCE">Gulliford 1999</LINK>). Where clustering has been incorporated into the analysis of primary studies, we will present these data as if from a non-cluster randomised study, but adjust for the clustering effect.</P>
+<P>We have sought statistical advice and have been advised that the binary data as presented in a report should be divided by a 'design effect'. This is calculated using the mean number of participants per cluster (m) and the ICC [Design effect = 1+(m-1)*ICC] (<LINK REF="REF-Donner-2002" TYPE="REFERENCE">Donner 2002</LINK>). If the ICC is not reported, it will be assumed to be 0.1 (<LINK REF="REF-Ukoumunne-1999" TYPE="REFERENCE">Ukoumunne 1999</LINK>).</P>
+<P>If cluster studies have been appropriately analysed taking into account ICCs and relevant data documented in the report, synthesis with other studies will be possible using the generic inverse variance technique.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Cross-over trials</HEADING>
+<P>A major concern of cross-over trials is the carry-over effect. It occurs if an effect (e.g. pharmacological, physiological or psychological) of the treatment in the first phase is carried over to the second phase. As a consequence, on entry to the second phase the participants can differ systematically from their initial state despite a wash-out phase. For the same reason cross-over trials are not appropriate if the condition of interest is unstable (<LINK REF="REF-Elbourne-2002" TYPE="REFERENCE">Elbourne 2002</LINK>). As both effects are very likely in severe mental illness, we aimed to only use data of the first phase of cross-over studies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3. Studies with multiple treatment groups</HEADING>
+<P>Where a study involves more than two treatment arms, if relevant, the additional treatment arms would be presented in comparisons. If data are binary these would have been simply added and combined within the two-by-two table. If data were continuous we aimed to combined data following the formula in section 7.7.3.8 (Combining groups) of the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). Where the additional treatment arms were not relevant, we would not have used these data.</P>
+</SUBSECTION>
+</UNIT_OF_ANALYSIS>
+<MISSING_DATA MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Overall loss of credibility</HEADING>
+<P>At some degree of loss of follow-up, data must lose credibility (<LINK REF="REF-Xia-2009" TYPE="REFERENCE">Xia 2009</LINK>). We chose that, for any particular outcome, should more than 50% of data be unaccounted for, we would not reproduce these data or use them within analyses. If, however, more than 50% of those in one arm of a study are lost, but the total loss is less than 50%, we would have addressed this within the 'Summary of findings' table/s by down-rating quality. Finally, we would also have downgraded quality within the 'Summary of findings' table/s should loss be 25% to 50% in total.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Binary</HEADING>
+<P>In the case where attrition for a binary outcome is between 0% and 50% and where these data are not clearly described, we would have presented data on a 'once-randomised-always-analyse' basis (an intention-to-treat analysis). Those leaving the study early would all be assumed to have the same rates of negative outcome as those who completed, with the exception of the outcome of death and adverse effects. For these outcomes, the rate of those who stay in the study - in that particular arm of the trial - would be used for those who did not. We would also carry out a sensitivity analysis to test how prone the primary outcomes were to change, when data only from people who complete the study to that point were compared to the intention-to-treat analysis using the above assumptions.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3. Continuous</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="5">3.1 Attrition</HEADING>
+<P>In the case where attrition for a continuous outcome is between 0% and 50%, and data only from people who complete the study to that point are reported, we would have reproduced these.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">3.2 Standard deviations</HEADING>
+<P>If standard deviations (SDs) are not reported, we would first try to obtain the missing values from the authors. If not available, where there are missing measures of variance for continuous data, but an exact standard error (SE) and confidence intervals (CIs) available for group means, and either the 'P' value or 't' value available for differences in mean, we would calculate them according to the rules described in the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). When only the SE is reported, SDs are calculated by the formula SD = SE * square root (n). Chapters 7.7.3 and 16.1.3 of the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> present detailed formulae for estimating SDs from P values, t or F values, CIs, ranges or other statistics (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). If these formulae do not apply, we would calculate the SDs according to a validated imputation method, which is based on the SDs of the other included studies (<LINK REF="REF-Furukawa-2006" TYPE="REFERENCE">Furukawa 2006</LINK>). Although some of these imputation strategies can introduce error, the alternative would be to exclude a given study's outcome and thus to lose information. We nevertheless would have examined the validity of the imputations in a sensitivity analysis excluding imputed values.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">3.3 Last observation carried forward</HEADING>
+<P>We anticipated that in some studies the method of last observation carried forward (LOCF) would be employed within the study report. As with all methods of imputation to deal with missing data, LOCF introduces uncertainty about the reliability of the results (<LINK REF="REF-Leucht-2007" TYPE="REFERENCE">Leucht 2007</LINK>). Therefore, where LOCF data have been used in the trial, if less than 50% of the data have been assumed, we would have presented and used these data and indicated that they are the product of LOCF assumptions.</P>
+</SUBSECTION>
+</SUBSECTION>
+</MISSING_DATA>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Clinical heterogeneity</HEADING>
+<P>We would have considered all included studies initially, without seeing comparison data, to judge clinical heterogeneity. We would have simply inspected all studies for clearly outlying people or situations that we had not predicted would arise. When such situations or participant groups arose, we would have fully discussed these.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Methodological heterogeneity</HEADING>
+<P>We would have considered all included studies initially, without seeing comparison data, to judge methodological heterogeneity. We would have simply inspected all studies for clearly outlying methods that we had not predicted would arise. When such methodological outliers arose, we would have fully discussed these.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3. Statistical heterogeneity</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="5">3.1 Visual inspection</HEADING>
+<P>We would have visually inspected graphs to investigate the possibility of statistical heterogeneity.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">3.2 Employing the I<SUP>2</SUP> statistic</HEADING>
+<P>Heterogeneity between studies was to be investigated by considering the I<SUP>2 </SUP>statistic alongside the Chi<SUP>2</SUP> P value. The I<SUP>2 </SUP>statistic provides an estimate of the percentage of inconsistency thought to be due to chance (<LINK REF="REF-Higgins-2003" TYPE="REFERENCE">Higgins 2003</LINK>). The importance of the observed value of I<SUP>2 </SUP>depends on i. magnitude and direction of effects and ii. strength of evidence for heterogeneity (e.g. P value from Chi<SUP>2</SUP>  test, or a confidence interval for I<SUP>2</SUP>). We would have interpreted an I<SUP>2 </SUP>estimate greater than or equal to around 50%, accompanied by a statistically significant Chi<SUP>2</SUP> statistic, as evidence of substantial levels of heterogeneity (Section 9.5.2 - <LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). When substantial levels of heterogeneity were found in the primary outcome, we would have explored the reasons for heterogeneity (<LINK TAG="SUBGROUP_ANALYSIS" TYPE="SECTION">Subgroup analysis and investigation of heterogeneity</LINK>).</P>
+</SUBSECTION>
+</SUBSECTION>
+</HETEROGENEITY_ASSESSMENT>
+<BIAS_ASSESSMENT MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Protocol versus full study</HEADING>
+<P>Reporting biases arise when the dissemination of research findings is influenced by the nature and direction of results. These are described in section 10.1 of the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). We aimed to locate protocols for included randomised trials. If the protocol was available, we would have compared outcomes in the protocol and in the published report. If the protocol was not available, we would have compared outcomes listed in the methods section of the trial report with the actually reported results.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Funnel plot</HEADING>
+<P>Reporting biases arise when the dissemination of research findings is influenced by the nature and direction of results (<LINK REF="REF-Egger-1997" TYPE="REFERENCE">Egger 1997</LINK>). These are again described in Section 10 of the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> (<LINK REF="REF-Higgins-2011" TYPE="REFERENCE">Higgins 2011</LINK>). We are aware that funnel plots may be useful in investigating reporting biases but are of limited power to detect small-study effects. We would not have used funnel plots for outcomes where there were 10 or fewer studies, or where all studies were of similar sizes. In other cases, where funnel plots are possible, we will seek statistical advice in their interpretation.</P>
+</SUBSECTION>
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>We understand that there is no closed argument for preference for use of fixed-effect or random-effects models. The random-effects method incorporates an assumption that the different studies are estimating different, yet related, intervention effects. This often seems to be true to us and the random-effects model takes into account differences between studies even if there is no statistically significant heterogeneity. There is, however, a disadvantage to the random-effects model. It puts added weight onto small studies, which often are the most biased ones. Depending on the direction of effect, these studies can either inflate or deflate the effect size. We chose a random-effects model for all analyses. When data are available, the reader is, however, able to choose to inspect the data using the fixed-effect model.</P>
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Subgroup analyses</HEADING>
+<P>We planned no subgroup analyses.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Investigation of heterogeneity</HEADING>
+<P>If inconsistency was high, we would have reported this. First, we would have investigated whether data had been entered correctly. Second, if data were correct, we would have visually inspected the graph and successively removed outlying studies to see if homogeneity was restored. For this review, we decided that should this occur with data contributing to the summary finding of no more than around 10% of the total weighting, we would present data. If not, data would not be pooled and we would discuss the issues. We know of no supporting research for this 10% cut off but are investigating use of prediction intervals as an alternative to this unsatisfactory state.</P>
+<P>When unanticipated clinical or methodological heterogeneity are obvious, we will simply state hypotheses regarding these for future reviews or versions of this review. We do not anticipate undertaking analyses relating to these.</P>
+</SUBSECTION>
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">1. Implication of randomisation</HEADING>
+<P>We aimed to include trials in a sensitivity analysis if they were described in some way as to imply randomisation. For the primary outcomes we would have included these studies and if there was no substantive difference when the implied randomised studies were added to those with better description of randomisation, then all data would be employed from these studies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Assumptions for lost binary data</HEADING>
+<P>Where assumptions have to be made regarding people lost to follow-up (see <LINK TAG="MISSING_DATA" TYPE="SECTION">Dealing with missing data</LINK>), we would have compared the findings of the primary outcomes when we used our assumption/s and when we used data only from people who completed the study to that point. If there was a substantial difference, we would have reported the results and discussed them but continued to employ our assumption.</P>
+<P>Where assumptions have to be made regarding missing SD data (see <LINK TAG="MISSING_DATA" TYPE="SECTION">Dealing with missing data</LINK>), we would have compared the findings of the primary outcomes when we used our assumption/s and when we used data only from people who completed the study to that point. We would have undertaken a sensitivity analysis to test how prone results were to change when completer-only data only were compared to the imputed data using the above assumption. If there was a substantial difference, we would have reported results and discussed them but continued to employ our assumption.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3. Risk of bias</HEADING>
+<P>We would have analysed the effects of excluding trials that were judged to be at high risk of bias across one or more of the domains of randomisation (implied as randomised with no further details available), allocation concealment, blinding and outcome reporting for the meta-analysis of the primary outcome. If the exclusion of trials at high risk of bias did not substantially alter the direction of effect or the precision of the effect estimates, then data from these trials were to be included in the analysis.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">4. Imputed values</HEADING>
+<P>We also aimed to complete a sensitivity analysis to assess the effects of including data from trials where we used imputed values for ICC in calculating the design effect in cluster-randomised trials.</P>
+<P>If substantial differences were noted in the direction or precision of effect estimates in any of the sensitivity analyses listed above, we would not have pooled data from the excluded trials with the other trials contributing to the outcome, but presented them separately.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">5. Fixed-effect and random-effects</HEADING>
+<P>All data were to be synthesised using a random-effects model, however, we also aimed to synthesise data for the primary outcome using a fixed-effect model to evaluate whether this altered the significance of the results.</P>
+</SUBSECTION>
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SEARCH_RESULTS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>The initial search of the Cochrane Schizophrenia Group's Trials Register in 2001 identified 35 references (to 35 studies). After examining the reports, only seven studies were suitable for further examination. The updated search in 2006 found 55 new references (to 30 studies). After examining the reports, only three studies were suitable for further examination and we excluded all of them.</P>
+<P>A further search in 2013 identified 12 new references corresponding to 11 studies. Of these only two were appropriate for further scrutiny and we excluded both of them. Three references had been waiting for further assessment and we excluded these upon examination (the three references corresponded to two studies). Please see <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>.</P>
+<P>Despite the fact that the Cochrane Schizophrenia Group's Trials Register is compiled from comprehensive and systematic searches for trials, we undertook unsystematic searches of a sample of the component databases (MEDLINE, EMBASE and PsycINFO) to determine if any material may have been overlooked. We searched using subject-specific phrases (PRN, 'as required') as the searches that create the Cochrane Schizophrenia Group's Trials Register are methodology specific. We did not identify any relevant trials.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2014-09-03 14:10:12 +0100" MODIFIED_BY="[Empty name]">
+<P>No studies met the inclusion criteria for this review.</P>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>We excluded 14 studies. All were randomised and double-blind. Participants of 10 studies had been diagnosed as having schizophrenia or schizophrenia-like illnesses (<LINK REF="STD-Hovens-2005" TYPE="STUDY">Hovens 2005</LINK>; <LINK REF="STD-Huttunen-1996" TYPE="STUDY">Huttunen 1996</LINK>; <LINK REF="STD-Kinon-2001" TYPE="STUDY">Kinon 2001</LINK>; <LINK REF="STD-Kinon-2008" TYPE="STUDY">Kinon 2008</LINK>; <LINK REF="STD-Kramer-1978" TYPE="STUDY">Kramer 1978</LINK>; <LINK REF="STD-Lesem-2001" TYPE="STUDY">Lesem 2001</LINK>; <LINK REF="STD-Maoz-2000" TYPE="STUDY">Maoz 2000</LINK>; <LINK REF="STD-Neborsky-1984" TYPE="STUDY">Neborsky 1984</LINK>; <LINK REF="STD-Potkin-2006" TYPE="STUDY">Potkin 2006</LINK>; <LINK REF="STD-Zhang-2013" TYPE="STUDY">Zhang 2013</LINK>). Three involved people described as psychotic or acutely disturbed (<LINK REF="STD-Foster-1997" TYPE="STUDY">Foster 1997</LINK>; <LINK REF="STD-Slotnick-1971" TYPE="STUDY">Slotnick 1971</LINK>; <LINK REF="STD-Stotsky-1977" TYPE="STUDY">Stotsky 1977</LINK>). The remaining study had participants diagnosed as having schizophrenia or schizophrenia-like illnesses and bipolar one disorder (<LINK REF="STD-Baker-2002" TYPE="STUDY">Baker 2002</LINK>).</P>
+<P>None of the 14 studies, however, compared an 'as-required' regimen, against a standard regimen. Six did compare one drug given 'as required' versus another 'as required' drug (<LINK REF="STD-Baker-2002" TYPE="STUDY">Baker 2002</LINK>; <LINK REF="STD-Foster-1997" TYPE="STUDY">Foster 1997</LINK>; <LINK REF="STD-Hovens-2005" TYPE="STUDY">Hovens 2005</LINK>; <LINK REF="STD-Kinon-2001" TYPE="STUDY">Kinon 2001</LINK>; <LINK REF="STD-Stotsky-1977" TYPE="STUDY">Stotsky 1977</LINK>; <LINK REF="STD-Slotnick-1971" TYPE="STUDY">Slotnick 1971</LINK>). We propose to include these in other comparisons in further updates.</P>
+<SUBSECTION>
+<HEADING LEVEL="4">1. Awaiting assessment</HEADING>
+<P>The three references that were awaiting assessment <LINK REF="STD-Kinon-2008" TYPE="STUDY">Kinon 2008</LINK>; <LINK REF="STD-Maoz-2000" TYPE="STUDY">Maoz 2000</LINK>; <LINK REF="REF-Stauffer-2008" TYPE="REFERENCE">Stauffer 2008</LINK>(have now been excluded). <LINK REF="REF-Stauffer-2008" TYPE="REFERENCE">Stauffer 2008</LINK> is part of the <LINK REF="STD-Kinon-2008" TYPE="STUDY">Kinon 2008</LINK> study leaving 2 studies added to excluded studies table.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Ongoing studies</HEADING>
+<P>We are not aware of any ongoing studies.</P>
+</SUBSECTION>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>There were no studies that fulfilled the criteria for inclusion. We did not exclude any studies on the grounds of poor methodology.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Comparison 1: Any drug prescribed 'as required' versus the same drug given regularly</HEADING>
+<P>Currently no data are available.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Comparison 2: Different 'as required' regimens</HEADING>
+<P>Other studies, currently excluded, compared different 'as required' regimens. This was not the focus of this version of the review but these studies could be included in future updates (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>).</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUMMARY_OF_RESULTS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>We undertook this review in order to examine all the best available evidence on the use of 'as-required' regimens. The aim was to elucidate the scientific basis for a widespread method of prescribing within acute psychiatric wards. 'As-required' regimens are perceived as beneficial and allow greater flexibility in administering medication. There are possible risks, however, such as the over administration of antipsychotics with the associated adverse effects. We found no relevant randomised trials. Practice must be based on observational evidence rather than that from trials (<LINK REF="SOF-01" TYPE="SOF">Summary of findings table 1</LINK>). We did find trials comparing one 'as required' regimen to another (please see <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>) and these could form the basis of a new comparison in a future update of this review.</P>
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS MODIFIED="2014-09-03 14:17:19 +0100" MODIFIED_BY="[Empty name]">
+<P>Currently there is no evidence from randomised trials.</P>
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE MODIFIED="2014-09-03 14:17:24 +0100" MODIFIED_BY="[Empty name]">
+<P>Currently there is no evidence from randomised trials.</P>
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>It is always possible that studies have not been identified. Trials published in languages other than English, and those with equivocal results, are often difficult to find. Our search was heavily biased by the use of English phrases. However, the indexing within the Cochrane Schizophrenia Group Trials Register is in English and we feel that there is only a low probability that we have missed any studies.</P>
+</POTENTIAL_BIASES>
+<AGREEMENT MODIFIED="2014-09-03 14:16:50 +0100" MODIFIED_BY="[Empty name]">
+<P>We did consider that we may have asked too difficult a question or set our entry criteria impossibly high. We concentrated on the use of 'as required' psychotropic medication regimens for patients with psychotic illnesses, and did not look for studies whose participants suffered from behavioural disorders alone. Other specialties, however, have randomised 'as-required' regimens. In one small trial of the use of eye drops for hay fever, it was found that regular regimens were more successful than 'as-required' regimens for treating symptoms and improving quality of life (<LINK REF="REF-Juniper-1994" TYPE="REFERENCE">Juniper 1994</LINK>). Of course this study took place in a specialty very different from psychiatry. The conditions in an acute psychiatric ward are very different from those experienced by trialists working with people with hay fever. <LINK REF="REF-Juniper-1994" TYPE="REFERENCE">Juniper 1994</LINK>, however, serves as a warning to those accepting prevalent treatment practices without any trial evidence.</P>
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">1. For clinicians</HEADING>
+<P>It is likely that clinicians will continue with their current practice, using clinical judgement and habit to dictate prescribing because there is no trial-based evidence upon which to base their choice of using 'as required' patterns of drug administration. Important ethical questions are raised by current prescribing practices for acutely disturbed patients. Clearly the clinician remains unsure as to whether the use of 'prn' medication is helpful or harmful to their patients. There is an argument to be made for current practice to be undertaken within a well designed, conducted and reported randomised study.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">2. For people likely to receive an 'as required' regimen of psychotropic medication(s)</HEADING>
+<P>Due to the lack of evidence on the use of 'as required' drug administration, it is important that there is flexibility and collaboration with people receiving this regimen. Forcing an unevaluated healthcare intervention on a person is ethically dubious. However, discussing the nature, purpose and likely effects of the 'as required' medication, where possible, would allow the recipient to make an informed decision. Clinical experience counts for much when treating mental illness, but the lack of data on the benefits of 'as required' regimens over regular regimens means that the recipient's choice of regimen is an important consideration.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">3. For policy makers</HEADING>
+<P>Traditional practice is often difficult to alter within healthcare institutions. 'As required' regimens, though used widely, are unevaluated scientifically, which should be recognised when producing protocols on the treatment of acute psychiatric disturbance.</P>
+</SUBSECTION>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">1. General</HEADING>
+<P>Future trials should consider standards of measuring outcomes and of reporting data to enhance comparability of results. Certainly, strict adherence to the CONSORT statement should be ensured in future research projects (<LINK REF="REF-Schulz-2010" TYPE="REFERENCE">Schulz 2010</LINK>). Following the CONSORT statement very closely would help to increase the amount of data for further reviews on this topic considerably.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">2. Specific</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">2.1 Reviews</HEADING>
+<P>
+<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK> illustrates how this review could be expanded to include a comparison of two different 'as required' regimens. We had originally wanted to see the 'absolute' effect of the 'as required' approach and therefore only included in our protocol the 'as required' versus 'not as required' comparison. Trials have not been undertaken. However, there is a legitimate issue of the difference between different 'as required' regimens and there are several trials that do address this question.</P>
+<P>In addition, other excluded studies are part of comparisons already included in Cochrane reviews or pose new questions for future work.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2.2 Trials</HEADING>
+<P>Well designed, conducted and reported randomised studies are needed. One outline for a feasible study is given (<LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="5">2.2.1 Methods</HEADING>
+<P>Initially participants should undergo a psychiatric assessment by a medical practitioner. The level of disturbance could be assessed using a scale such as the Clinical Global Impression (CGI - <LINK REF="REF-Guy-1976" TYPE="REFERENCE">Guy 1976</LINK>). Ethics Committee approval should be sought, and, if gained, patients would be blindly randomised to either a regular or 'as required' regimen of a particular drug. It is also important to gain patient consent, but this may be very difficult in practice if someone is extremely disturbed. As both interventions are currently accepted practice, it may be possible to go ahead with ethical approval alone. The type of medication and dose would be dependent on the prescribing clinician. The participant would then be assessed at time intervals corresponding with standard observations for acutely disturbed patients. To make this study double-blind the staff assessing the participant's level of disturbance should not be involved in the administration of either medication regimen.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2.2.2 Participants</HEADING>
+<P>Acutely disturbed patients who require additional medication.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2.2.3 Interventions</HEADING>
+<P>Either a regular or 'as required' medication regimen to treat acute psychotic symptoms, behavioural disturbance or promote tranquillisation and sedation. The type of medication and dose used, to be set at the discretion of the prescribing clinician.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">2.2.4 Outcomes</HEADING>
+<P>Psychotic symptoms, levels of behavioural disturbance, tranquillisation and sedation at set times after initiation of regimen. These times would correspond with standard nursing observations and disturbance could be assessed using the CGI again. Total amounts of medication used and reported adverse effects would be other primary outcomes.</P>
+<P>There is no evidence about the risks and benefits of 'as required' medication regimens as compared to regular regimens, which makes this an area in need of further research, most particularly large randomised controlled trials comparing standard and 'as required' regimens, perhaps following the outline discussed.</P>
+</SUBSECTION>
+</SUBSECTION>
+</SUBSECTION>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2015-12-21 10:41:28 +0000" MODIFIED_BY="[Empty name]">
+<P>We thank the editorial team of the Cochrane Schizophrenia Group for its support. The Group produces and maintains standard text for use in the methods sections of their reviews. We have used this text as the basis for our protocol and adapted it as required.</P>
+<P>We would like to acknowledge the previous contributions of Murray Morrison who was a co-author on previous versions and helped with liaison on discussion and results writing, as well as Abhijit Chakrabarti who under took the 2006 update.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2015-12-21 10:41:53 +0000" MODIFIED_BY="[Empty name]">
+<P>Petrina Douglas-Hall - none known.</P>
+<P>Emma Whicher - none known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2015-12-21 10:42:27 +0000" MODIFIED_BY="[Empty name]">
+<P>Petrina Douglas-Hall - co-review author, liaison on protocol, discussion and results writing.</P>
+<P>Emma Whicher - project initiation, protocol writing, results and discussion writing.<BR/>
+</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2015-08-11 17:11:27 +0100" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2015-08-11 17:11:27 +0100" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]"/>
+<EXCLUDED_STUDIES MODIFIED="2015-08-11 17:11:27 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Baker-2002" MODIFIED="2015-08-11 17:07:03 +0100" MODIFIED_BY="[Empty name]" NAME="Baker 2002" YEAR="2002">
+<REFERENCE MODIFIED="2015-08-11 17:06:28 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baker R, Kinon B, Liu H, Richey A, Hill A, Bergstrom R, et al</AU>
+<TI>Effectiveness of rapid initial dose escalation of oral olanzapine for acute agitation</TI>
+<SO>Journal of the European College of Neuropsychopharmacology</SO>
+<YR>2002</YR>
+<VL>12</VL>
+<NO>Suppl 3</NO>
+<PG>S256</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="Hallo P.2.004"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2015-08-11 17:06:40 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baker R, Kinon BJ, Liu H, Richey A, Hill AL, Bergstrom RF, et al</AU>
+<TI>Effectiveness of rapid initial dose escalation of oral olanzapine for acute agitation</TI>
+<SO>International Journal of Neuropsychopharmacology</SO>
+<YR>2002</YR>
+<VL>5</VL>
+<NO>Suppl 1</NO>
+<PG>S127</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="P.2.W.044"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Baker RW, Kinon B, Liu H, Schuh L, Bergstrom R, Hill A</AU>
+<TI>Rapid initial dose escalation of oral olanzapine for acute agitation</TI>
+<SO>12th World Congress of Psychiatry; 2002 Aug 24-29; Yokohama, Japan</SO>
+<YR>2002</YR>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="11986138"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2015-08-11 17:06:47 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Baker RW, Kinon BJ, Liu H, Richey A, Hill AL, Bergstrom RF, et al</AU>
+<TI>Effectiveness of rapid initial dose escalation of oral olanzapine for acute agitation</TI>
+<SO>155th Annual Meeting of the American Psychiatric Association; 2002 May 18-23; Philadelphia, Pennsylvania, USA</SO>
+<YR>2002</YR>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="No. 32"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2015-08-11 17:06:55 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baker RW, Kinon BJ, Liu H, Richey A, Hill AL, Bergstrom RF, et al</AU>
+<TI>Effectiveness of rapid initial dose escalation of oral olanzapine for acute agitation</TI>
+<SO>Schizophrenia Research</SO>
+<YR>2003</YR>
+<VL>60</VL>
+<PG>272</PG>
+<EN>1</EN>
+<IDENTIFIERS MODIFIED="2014-10-15 10:01:07 +0100" MODIFIED_BY="[Empty name]"/>
+</REFERENCE>
+<REFERENCE MODIFIED="2015-08-11 17:07:03 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baker RW, Kinon BJ, Liu H, Richey A, Hill AL, Bergstrom RFP, et al</AU>
+<TI>Effectiveness of rapid initial dose escalation of oral olanzapine for acute agitation</TI>
+<SO>Schizophrenia Research</SO>
+<YR>2002</YR>
+<VL>53</VL>
+<NO>3 Suppl 1</NO>
+<PG>193</PG>
+<PB>Elsevier Science B.V</PB>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="14th Congress of the European College of Neuropsychopharmacology [Congress Information System]: Conifer, Excerpta Medica Medical Communications BV, 2001 P2084#"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baker RW, Kinon BJ, Maguire GA, Liu H, Hill AL</AU>
+<TI>Effectiveness of rapid initial dose escalation of up to forty milligrams per day of oral olanzapine in acute agitation</TI>
+<SO>Journal of Clinical Psychopharmacology</SO>
+<YR>2003</YR>
+<VL>23</VL>
+<NO>4</NO>
+<PG>342-8</PG>
+<CY>United States of America</CY>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="12920409"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Foster-1997" NAME="Foster 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Foster S, Kessel J, Berman ME, Simpson GM</AU>
+<TI>Efficacy of lorazepam and haloperidol for rapid tranquillization in a psychiatric emergency room setting</TI>
+<SO>International Clinical Psychopharmacology</SO>
+<YR>1997</YR>
+<VL>12</VL>
+<NO>3</NO>
+<PG>175-9</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="97392142"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hovens-2005" MODIFIED="2015-08-11 17:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Hovens 2005" YEAR="2005">
+<REFERENCE MODIFIED="2015-08-11 17:11:27 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hovens JE, Dries PJT, Melman CTM, Wapenaar RJC, Loonen AJM</AU>
+<TI>Oral risperidone with lorazepam versus oral zuclopenthixol with lorazepam in the treatment of acute psychosis in emergency psychiatry: a prospective, comparative, open-label study</TI>
+<SO>Journal of Psychopharmacology</SO>
+<YR>2005</YR>
+<VL>19</VL>
+<NO>1</NO>
+<PG>51-7</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="PsycINFO 2006-04400-008"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hovens JEJM, Beijeman S, Tollenaar J, Dries PJT, Loonen AJM</AU>
+<TI>Risperidone versus zuclopentixol in acute psychosis in emergency psychiatry: a prospective naturalistic study</TI>
+<SO>Journal of the European College of Neuropsychopharmacology</SO>
+<YR>2003</YR>
+<VL>13</VL>
+<NO>4</NO>
+<PG>S293</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="P.2.035"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Huttunen-1996" MODIFIED="2015-08-11 17:07:16 +0100" MODIFIED_BY="[Empty name]" NAME="Huttunen 1996" YEAR="1996">
+<REFERENCE MODIFIED="2015-08-11 17:07:16 +0100" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Huttunen MO, Tuhkanen H, Haavisto E, Nyholm R, Pitkanen M, Raitasuo V, et al</AU>
+<TI>Low and standard dose depot haloperidol combined with targeted oral neuroleptics</TI>
+<SO>Psychiatric Services</SO>
+<YR>1996</YR>
+<VL>47</VL>
+<PG>83-5</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="96402210"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kinon-2001" NAME="Kinon 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kinon B, Rotelli MD, Gilmore JA</AU>
+<TI>Efficacy of olanzapine and adjunctive lorazepam to control agitation in schizophrenia</TI>
+<SO>International Journal of Neuropsychopharmacology</SO>
+<YR>2002</YR>
+<VL>5</VL>
+<NO>Suppl 1</NO>
+<PG>S128</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="P.2.W.046"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kinon BJ, Ahl J, Rotelli MD, McMullen E</AU>
+<TI>Efficacy of accelerated dose titration of olanzapine with adjunctive lorazepam to treat acute agitation in schizophrenia</TI>
+<SO>American Journal of Emergency Medicine</SO>
+<YR>2004</YR>
+<VL>22</VL>
+<NO>3</NO>
+<PG>181-6</PG>
+<CY>United States of America</CY>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="15138953"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kinon BJ, Wang L, Rotelli MD, Gilmore JA</AU>
+<TI>The efficacy of olanzapine plus adjunctive lorazepam to control acute agitation in schizophrenia</TI>
+<SO>European Neuropsychopharmacology</SO>
+<YR>2001</YR>
+<VL>11</VL>
+<NO>3</NO>
+<PG>278</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="14th Congress of the European College of Neuropsychopharmacology [Congress Information System]: Conifer, Excerpta Medica Medical Communications BV, 2001 P2084#"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kinon-2008" MODIFIED="2014-09-15 12:11:57 +0100" MODIFIED_BY="[Empty name]" NAME="Kinon 2008" YEAR="2008">
+<REFERENCE MODIFIED="2014-06-10 16:00:31 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kinon BJ, Stauffer VL, Kollack-Walker S, Chen L, Sniadecki J</AU>
+<TI>Olanzapine versus aripiprazole for the treatment of agitation in acutely ill patients with schizophrenia</TI>
+<SO>Journal of Clinical Psychopharmacology</SO>
+<YR>2008</YR>
+<VL>28</VL>
+<NO>6</NO>
+<PG>601-7</PG>
+<CY>United States</CY>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="19011427"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2014-09-15 12:11:57 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Stauffer V, Kinon B, Kollack-Walker S, Chen L, Sniadecki J</AU>
+<TI>Olanzapine versus aripiprazole for the treatment of agitation in acutely ill patients with schizophrenia</TI>
+<SO>Proceedings of the 161st Annual Meeting of the American Psychiatric Association; 2008 May 3-8; Washington DC, USA</SO>
+<YR>2008</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kramer-1978" MODIFIED="2015-08-11 17:11:13 +0100" MODIFIED_BY="[Empty name]" NAME="Kramer 1978" YEAR="1978">
+<REFERENCE MODIFIED="2015-08-11 17:11:13 +0100" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kramer M, Roth T, Salis PJ, Zorick FJ</AU>
+<TI>Relative efficacy and safety of loxapine succinate (Loxitane) and thioridazine hydrochloride (Mellaril) in the treatment of acute schizophrenia</TI>
+<SO>Current Therapeutic Research</SO>
+<YR>1978</YR>
+<VL>23</VL>
+<NO>5</NO>
+<PG>619-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lesem-2001" NAME="Lesem 2001" YEAR="2001">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Lesem MD, Zajecka JM, Swift RH, Reeves KR, Harrigan EP</AU>
+<TI>Intramuscular ziprasidone, 2 mg versus 10 mg, in the short-term management of agitated psychotic patients</TI>
+<SO>Journal of Clinical Psychiatry</SO>
+<YR>2001</YR>
+<VL>62</VL>
+<NO>1</NO>
+<PG>12-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Maoz-2000" MODIFIED="2014-10-11 14:54:59 +0100" MODIFIED_BY="[Empty name]" NAME="Maoz 2000" YEAR="2000">
+<REFERENCE MODIFIED="2014-10-11 14:54:59 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Maoz G, Stein D, Meged S, Kurzman L, Levine J, Valevski A, et al</AU>
+<TI>The anti-aggressive action of combined haloperidol-propranolol treatment in schizophrenia</TI>
+<SO>European Psychologist</SO>
+<YR>2000</YR>
+<VL>5</VL>
+<NO>4</NO>
+<PG>312-25</PG>
+<CY>DEU</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Neborsky-1984" NAME="Neborsky 1984" YEAR="1984">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Neborsky RJ, Janowsky DS, Perel JM, Munson E, Depry D</AU>
+<TI>Plasma-RBC haloperidol ratios and improvement in acute psychotic symptoms</TI>
+<SO>Journal of Clinical Psychiatry</SO>
+<YR>1984</YR>
+<VL>45</VL>
+<NO>1</NO>
+<PG>10-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Potkin-2006" MODIFIED="2015-08-11 17:07:29 +0100" MODIFIED_BY="[Empty name]" NAME="Potkin 2006" YEAR="2006">
+<REFERENCE MODIFIED="2015-08-11 17:07:29 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Potkin SG, Gharabawi GM, Greenspan AJ, Mahmoud R, Kosik-Gonzalez C, Rupnow MF, et al</AU>
+<TI>A double-blind comparison of risperidone, quetiapine and placebo in patients with schizophrenia experiencing an acute exacerbation requiring hospitalisation</TI>
+<SO>Schizophrenia Research</SO>
+<YR>2006</YR>
+<VL>85</VL>
+<NO>1-3</NO>
+<PG>254-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Slotnick-1971" NAME="Slotnick 1971" YEAR="1971">
+<REFERENCE PRIMARY="YES" TYPE="CONFERENCE_PROC">
+<AU>Slotnick VB</AU>
+<TI>Management of the acutely agitated psychiatric patient with parental neuroleptics: the comparative symptom effectiveness profiles of haloperidol and chlorpromazine</TI>
+<SO>5th World Congress of Psychiatry; 1971 Nov 28 - Dec 4, Ciudad de Mexico, Mexico</SO>
+<YR>1971</YR>
+<PG>531</PG>
+<EN>1</EN>
+<PB>La Prensa Medica Mexicana</PB>
+<CY>Mexico City</CY>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="Abstract Number; 1085"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stotsky-1977" NAME="Stotsky 1977" YEAR="1977">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Stotsky BA</AU>
+<TI>Relative efficacy of parenteral haloperidol and thiothixene for the emergency treatment of acutely excited and agitated patients</TI>
+<SO>Diseases of the Nervous System</SO>
+<YR>1977</YR>
+<VL>38</VL>
+<NO>12</NO>
+<PG>967-73</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="78063782"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zhang-2013" MODIFIED="2015-08-11 17:07:41 +0100" MODIFIED_BY="[Empty name]" NAME="Zhang 2013" YEAR="2013">
+<REFERENCE MODIFIED="2015-08-11 17:07:41 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zhang H, Wang G, Zhao J, Xie S, Xu X, Shi J, et al</AU>
+<TI>Intramuscular ziprasidone versus haloperidol for managing agitation in Chinese patients with schizophrenia</TI>
+<SO>Journal of Clinical Psychopharmacology</SO>
+<YR>2013</YR>
+<VL>33</VL>
+<PG>178-85</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2014-06-10 16:00:44 +0100" MODIFIED_BY="[Empty name]"/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2015-08-11 17:10:40 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2015-08-11 17:10:40 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Altman-1996" NAME="Altman 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Altman DG, Bland JM</AU>
+<TI>Detecting skewness from summary information</TI>
+<SO>BMJ</SO>
+<YR>1996</YR>
+<VL>313</VL>
+<PG>1200</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Asmal-2013" MODIFIED="2015-07-23 10:04:57 +0100" MODIFIED_BY="[Empty name]" NAME="Asmal 2013" TYPE="COCHRANE_REVIEW">
+<AU>Asmal L, Flegar Srnka J, Wang J, Rummel-Kluge C, Komossa K, Leucht S</AU>
+<TI>Quetiapine versus other atypical antipsychotics for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2013</YR>
+<NO>11</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:04:53 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD006625.pub3"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Ayd-1985" NAME="Ayd 1985" TYPE="JOURNAL_ARTICLE">
+<AU>Ayd FJ, Frank J</AU>
+<TI>Problems with orders for medication as needed</TI>
+<SO>American Journal of Psychiatry</SO>
+<YR>1985</YR>
+<VL>142</VL>
+<NO>8</NO>
+<PG>939-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bagnall-2000" MODIFIED="2015-07-23 10:05:20 +0100" MODIFIED_BY="[Empty name]" NAME="Bagnall 2000" TYPE="COCHRANE_REVIEW">
+<AU>Bagnall A-M, Kleijnen J, Leitner M, Lewis R</AU>
+<TI>Ziprasidone for schizophrenia and severe mental illness</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2000</YR>
+<NO>4</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:05:16 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD001945"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Bland-1997" NAME="Bland 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Bland JM, Kerry SM</AU>
+<TI>Trials randomised in clusters</TI>
+<SO>BMJ</SO>
+<YR>1997</YR>
+<VL>315</VL>
+<PG>600</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Boissel-1999" MODIFIED="2015-08-11 17:07:54 +0100" MODIFIED_BY="[Empty name]" NAME="Boissel 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Boissel JP, Cucherat M, Li W, Chatellier G, Gueyffier F, Buyse M, et al</AU>
+<TI>The problem of therapeutic efficacy indices. 3. Comparison of the indices and their use</TI>
+<TO>Apercu sur la problematique des indices d'efficacite therapeutique. 3: Comparaison des indices et utilisation. Groupe d'Etude des Indices D'efficacite</TO>
+<SO>Therapie</SO>
+<YR>1999</YR>
+<VL>54</VL>
+<NO>4</NO>
+<PG>405-11</PG>
+<IDENTIFIERS MODIFIED="2013-10-24 12:32:56 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="PUBMED" VALUE="10667106"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Bowden-1999" NAME="Bowden 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Bowden MF</AU>
+<TI>Audit: prescription of 'as required' (p.r.n.) medication in an in-patient setting</TI>
+<SO>Psychiatric Bulletin</SO>
+<YR>1999</YR>
+<VL>23</VL>
+<PG>413-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chakrabarti-2007a" MODIFIED="2015-07-23 10:05:52 +0100" MODIFIED_BY="[Empty name]" NAME="Chakrabarti 2007a" TYPE="COCHRANE_REVIEW">
+<AU>Chakrabarti A, Bagnall A-M, Chue P, Fenton M, Palaniswamy V, Wong W, et al</AU>
+<TI>Loxapine for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2007</YR>
+<NO>4</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:05:52 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD001943.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Craig-1995" NAME="Craig 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Craig TJ, Bracken J</AU>
+<TI>An epidemiologic study of prn/stat medication use in a state psychiatric hospital</TI>
+<SO>Annals of Clinical Psychiatry</SO>
+<YR>1995</YR>
+<VL>7</VL>
+<NO>2</NO>
+<PG>57-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Craven-1987" NAME="Craven 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Craven JL, Voore PM, Voineskos G</AU>
+<TI>PRN medication for psychiatric inpatients</TI>
+<SO>Canadian Journal of Psychiatry</SO>
+<YR>1987</YR>
+<VL>32</VL>
+<NO>3</NO>
+<PG>199-203</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Deeks-2000" MODIFIED="2013-10-24 12:32:57 +0100" MODIFIED_BY="[Empty name]" NAME="Deeks 2000" TYPE="CONFERENCE_PROC">
+<AU>Deeks J</AU>
+<TI>Issues in the selection for meta-analyses of binary data</TI>
+<SO>Proceedings of the 8th International Cochrane Colloquium; 2000 Oct 25-28; Cape Town</SO>
+<YR>2000</YR>
+<PB>The Cochrane Collaboration</PB>
+<CY>Cape Town</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Divine-1992" NAME="Divine 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Divine GW, Brown JT, Frazer LM</AU>
+<TI>The unit of analysis error in studies about physicians' patient care behavior</TI>
+<SO>Journal of General Internal Medicine</SO>
+<YR>1992</YR>
+<VL>7</VL>
+<PG>623-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dold-2015" MODIFIED="2015-08-11 17:08:10 +0100" MODIFIED_BY="[Empty name]" NAME="Dold 2015" TYPE="COCHRANE_REVIEW">
+<AU>Dold M, Samara MT, Li C, Tardy M, Leucht S</AU>
+<TI>Haloperidol versus first-generation antipsychotics for the treatment of schizophrenia and other psychotic disorders</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2015</YR>
+<NO>1</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 12:52:50 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2015-07-23 12:52:50 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD009831.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Donner-2002" MODIFIED="2013-10-24 12:32:57 +0100" MODIFIED_BY="[Empty name]" NAME="Donner 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Donner A, Klar N</AU>
+<TI>Issues in the meta-analysis of cluster randomized trials</TI>
+<SO>Statistics in Medicine</SO>
+<YR>2002</YR>
+<VL>21</VL>
+<PG>2971-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-DSM_x002d_5" MODIFIED="2015-08-11 17:08:22 +0100" MODIFIED_BY="[Empty name]" NAME="DSM-5" TYPE="BOOK">
+<AU>American Psychiatric Association</AU>
+<SO>Diagnostic and Statistical Manual of Mental Disorders</SO>
+<YR>2013</YR>
+<EN>5th</EN>
+<PB>American Psychiatric Publishing</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Egger-1997" NAME="Egger 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Egger M, Davey Smith G, Schneider M, Minder C</AU>
+<TI>Bias in meta-analysis detected by a simple graphical test</TI>
+<SO>BMJ</SO>
+<YR>1997</YR>
+<VL>315</VL>
+<PG>629-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Elbourne-2002" MODIFIED="2013-10-24 12:32:57 +0100" MODIFIED_BY="[Empty name]" NAME="Elbourne 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Elbourne D, Altman DG, Higgins JPT, Curtina F, Worthingtond HV, Vaile A</AU>
+<TI>Meta-analyses involving cross-over trials: methodological issues</TI>
+<SO>International Journal of Epidemiology</SO>
+<YR>2002</YR>
+<VL>31</VL>
+<NO>1</NO>
+<PG>140-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fenton-2007" MODIFIED="2015-07-23 10:07:28 +0100" MODIFIED_BY="[Empty name]" NAME="Fenton 2007" TYPE="COCHRANE_REVIEW">
+<AU>Fenton M, Rathbone J, Reilly J</AU>
+<TI>Thioridazine for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2007</YR>
+<NO>3</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:07:28 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD001944.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Furukawa-2006" MODIFIED="2013-10-24 12:32:57 +0100" MODIFIED_BY="[Empty name]" NAME="Furukawa 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Furukawa TA, Barbui C, Cipriani A, Brambilla P, Watanabe N</AU>
+<TI>Imputing missing standard deviations in meta-analyses can provide accurate results</TI>
+<SO>Journal of Clinical Epidemiology</SO>
+<YR>2006</YR>
+<VL>59</VL>
+<NO>7</NO>
+<PG>7-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gray-1997" NAME="Gray 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Gray R, Smedley N, Thomas B</AU>
+<TI>The administration of PRN medication by mental health nurses</TI>
+<SO>Journal of Psychiatric and Mental Health Nursing</SO>
+<YR>1997</YR>
+<VL>4</VL>
+<NO>1</NO>
+<PG>55-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gulliford-1999" NAME="Gulliford 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Gulliford MC, Ukoumunne OC, Chinn S</AU>
+<TI>Components of variance and intraclass correlations for the design of community-based surveys and intervention studies: data from the Health Survey for England 1994</TI>
+<SO>American Journal of Epidemiology</SO>
+<YR>1999</YR>
+<VL>149</VL>
+<PG>876-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Guy-1976" MODIFIED="2015-08-11 17:08:39 +0100" MODIFIED_BY="[Empty name]" NAME="Guy 1976" TYPE="BOOK_SECTION">
+<AU>Guy W</AU>
+<TI>Clinical Global Impression (CGI)</TI>
+<SO>Early Clinical Drug eEvaluation (ECDEU) Assessment Manual for Psychopharmacology</SO>
+<YR>1976</YR>
+<PB>National Institute of Mental Health</PB>
+<CY>Washington DC, USA</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2003" NAME="Higgins 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins JP, Thompson SG, Deeks JJ, Altman DG</AU>
+<TI>Measuring inconsistency in meta-analyses</TI>
+<SO>BMJ</SO>
+<YR>2003</YR>
+<VL>327</VL>
+<PG>557-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2005" MODIFIED="2015-08-11 17:08:48 +0100" MODIFIED_BY="[Empty name]" NAME="Higgins 2005" TYPE="OTHER">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions 4.2.5 [updated May 2005]</TI>
+<SO>The Cochrane Library</SO>
+<YR>2005</YR>
+<NO>3</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<CY>Chichester</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2011" MODIFIED="2015-08-11 17:09:04 +0100" MODIFIED_BY="[Empty name]" NAME="Higgins 2011" TYPE="OTHER">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]. The Cochrane Collaboration, 2011</TI>
+<SO>Available from www.cochrane-handbook.org</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hor-2010" MODIFIED="2015-08-11 17:09:17 +0100" MODIFIED_BY="[Empty name]" NAME="Hor 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Hor K, Taylor M</AU>
+<TI>Suicide and schizophrenia: a systematic review of rates and risk factors</TI>
+<SO>Journal of Psychopharmacology</SO>
+<YR>2010</YR>
+<VL>24</VL>
+<NO>4 Suppl</NO>
+<PG>81-90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hutton-2009" MODIFIED="2015-08-11 17:09:27 +0100" MODIFIED_BY="[Empty name]" NAME="Hutton 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Hutton JL</AU>
+<TI>Number needed to treat and number needed to harm are not the best way to report and assess the results of randomised clinical trials</TI>
+<SO>British Journal of Haematology</SO>
+<YR>2009</YR>
+<VL>146</VL>
+<NO>1</NO>
+<PG>27-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Juniper-1994" NAME="Juniper 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Juniper EF, Guyatt GH, Ferrie PJ, King DR</AU>
+<TI>Sodium cromoglycate eye drops: regular versus "as needed" use in the treatment of seasonal allergic conjunctivitis</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>1994</YR>
+<VL>94</VL>
+<NO>1</NO>
+<PG>36-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-J_x00fc_ni-2001" MODIFIED="2015-08-11 17:09:40 +0100" MODIFIED_BY="[Empty name]" NAME="Jüni 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Jüni P, Altman DG, Egger M</AU>
+<TI>Systematic reviews in health care: assessing the quality of controlled clinical trials</TI>
+<SO>BMJ</SO>
+<YR>2001</YR>
+<VL>323</VL>
+<PG>42-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kay-1986" MODIFIED="2015-08-11 17:09:49 +0100" MODIFIED_BY="[Empty name]" NAME="Kay 1986" TYPE="BOOK">
+<AU>Kay SR, Opler LA, Fiszbein A</AU>
+<SO>Positive and Negative Syndrome Scale (PANSS) Manual</SO>
+<YR>1986</YR>
+<PB>North Tonawanda, NY</PB>
+<CY>Multi-Health Systems</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Khanna-2014" MODIFIED="2015-07-23 10:10:42 +0100" MODIFIED_BY="[Empty name]" NAME="Khanna 2014" TYPE="COCHRANE_REVIEW">
+<AU>Khanna P, Suo T, Komossa K, Ma H, Rummel-Kluge C, El-Sayeh HG, et al</AU>
+<TI>Aripiprazole versus other atypical antipsychotics for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2014</YR>
+<NO>1</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:10:42 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD006569.pub5"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Komossa-2010" MODIFIED="2015-07-23 10:10:56 +0100" MODIFIED_BY="[Empty name]" NAME="Komossa 2010" TYPE="COCHRANE_REVIEW">
+<AU>Komossa K, Rummel-Kluge C, Hunger H, Schmid F, Schwarz S, Duggan L, et al</AU>
+<TI>Olanzapine versus other atypical antipsychotics for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2010</YR>
+<NO>3</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:10:56 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD006654.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Komossa-2011" MODIFIED="2015-07-23 10:11:08 +0100" MODIFIED_BY="[Empty name]" NAME="Komossa 2011" TYPE="COCHRANE_REVIEW">
+<AU>Komossa K, Rummel-Kluge C, Schwarz S, Schmid F, Hunger H, Kissling W, et al</AU>
+<TI>Risperidone versus other atypical antipsychotics for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2011</YR>
+<NO>1</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:11:08 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD006626.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Lankappa-2012" MODIFIED="2015-07-23 12:53:49 +0100" MODIFIED_BY="[Empty name]" NAME="Lankappa 2012" TYPE="COCHRANE_PROTOCOL">
+<AU>Lankappa S, Gandhi R</AU>
+<TI>Quetiapine versus placebo for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2012</YR>
+<NO>7</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:11:18 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD009935"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Leonard-1992" MODIFIED="2015-08-11 17:10:01 +0100" MODIFIED_BY="[Empty name]" NAME="Leonard 1992" TYPE="BOOK">
+<AU>Leonard B</AU>
+<SO>Fundamentals of Psychopharmacology</SO>
+<YR>1992</YR>
+<PB>John Wiley &amp; Sons</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Leucht-2007" MODIFIED="2013-10-24 12:32:57 +0100" MODIFIED_BY="[Empty name]" NAME="Leucht 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Leucht S, Engel RR, Bauml J, Davis JM</AU>
+<TI>Is the superior efficacy of new generation antipsychotics an artifact of LOCF?</TI>
+<SO>Schizophrenia Bulletin</SO>
+<YR>2007</YR>
+<VL>33</VL>
+<NO>1</NO>
+<PG>183-91</PG>
+<IDENTIFIERS MODIFIED="2013-10-24 12:32:56 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="PUBMED" VALUE="16905632"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Leucht-2008" MODIFIED="2015-07-23 10:11:43 +0100" MODIFIED_BY="[Empty name]" NAME="Leucht 2008" TYPE="COCHRANE_REVIEW">
+<AU>Leucht C, Kitzmantel M, Kane J, Leucht S, Chua Wan Lian LC</AU>
+<TI>Haloperidol versus chlorpromazine for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2008</YR>
+<NO>1</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:11:43 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD004278.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Marder-2000" NAME="Marder 2000" TYPE="BOOK_SECTION">
+<AU>Marder S, van Kammen D</AU>
+<TI>Biological therapies</TI>
+<SO>Kaplan &amp; Sadock's Comprehensive Textbook of Psychiatry</SO>
+<YR>2000</YR>
+<VL>2</VL>
+<PG>2376</PG>
+<EN>7th</EN>
+<ED>Sadock BJ, Sadock VA</ED>
+<PB>Lippincott Williams &amp; Wilkins</PB>
+<CY>Philadelphia, London</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Marshall-2000" NAME="Marshall 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Marshall M, Lockwood A, Bradley C, Adams C, Joy C, Fenton M</AU>
+<TI>Unpublished rating scales: a major source of bias in randomised controlled trials of treatments for schizophrenia</TI>
+<SO>British Journal of Psychiatry</SO>
+<YR>2000</YR>
+<VL>176</VL>
+<PG>249-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McGrath-2008" MODIFIED="2015-08-11 17:10:14 +0100" MODIFIED_BY="[Empty name]" NAME="McGrath 2008" TYPE="JOURNAL_ARTICLE">
+<AU>McGrath J, Saha S, Chant D, Welham J</AU>
+<TI>Schizophrenia: a concise overview of incidence, prevalence, and mortality</TI>
+<SO>Epidemiologic Reviews</SO>
+<YR>2008</YR>
+<VL>30</VL>
+<PG>67-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-McLaren-1990" NAME="McLaren 1990" TYPE="JOURNAL_ARTICLE">
+<AU>McLaren S, Browne FW, Taylor PJ</AU>
+<TI>A study of psychotropic medication given 'as required' in a regional secure unit</TI>
+<SO>British Journal of Psychiatry</SO>
+<YR>1990</YR>
+<VL>156</VL>
+<PG>732-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Meylers-2006" MODIFIED="2015-08-11 17:10:22 +0100" MODIFIED_BY="[Empty name]" NAME="Meylers 2006" TYPE="BOOK">
+<AU>Aronson J</AU>
+<SO>Meyler's Side Effects of Drugs: The International Encyclopedia of Adverse Drug Reactions and Interactions</SO>
+<YR>2006</YR>
+<VL>1</VL>
+<EN>15th</EN>
+<PB>Elsevier</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Milton-1998" NAME="Milton 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Milton J, Lawton J, Smith M, Buckley A</AU>
+<TI>Hidden high-dose antipsychotic prescribing: effects of p.r.n. doses</TI>
+<SO>Psychiatric Bulletin</SO>
+<YR>1998</YR>
+<VL>22</VL>
+<PG>675-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Newton-1997" NAME="Newton 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Newton KL, Murthy R, Qureshi J</AU>
+<TI>Antipsychotic prescribing in the light of the consensus statement of the College</TI>
+<SO>Psychological Bulletin</SO>
+<YR>1997</YR>
+<VL>21</VL>
+<NO>7</NO>
+<PG>408-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Owens-2000" NAME="Owens 2000" TYPE="BOOK_SECTION">
+<AU>Cunningham Owens DG, Johnson EC</AU>
+<TI>Treatment and management of schizophrenia</TI>
+<SO>New Oxford Textbook of Psychiatry</SO>
+<YR>2000</YR>
+<PG>628-9</PG>
+<ED>López-Ibor JJ, Gelder MG, Andreasen NC</ED>
+<PB>Oxford University Press</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rattehalli-2010" MODIFIED="2015-07-23 10:14:37 +0100" MODIFIED_BY="[Empty name]" NAME="Rattehalli 2010" TYPE="COCHRANE_REVIEW">
+<AU>Rattehalli Ranganath D, Jayaram Mahesh B, Smith M</AU>
+<TI>Risperidone versus placebo for schizophrenia</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2010</YR>
+<NO>1</NO>
+<PB>John Wiley &amp; Sons, Ltd</PB>
+<IDENTIFIERS MODIFIED="2015-07-23 10:14:37 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER TYPE="DOI" VALUE="10.1002/14651858.CD006918.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1995" NAME="Schulz 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Chalmers I, Hayes RJ, Altman DG</AU>
+<TI>Empirical evidence of bias: dimensions of methodological quality associated with estimates of treatment effects in controlled trials</TI>
+<SO>JAMA</SO>
+<YR>1995</YR>
+<VL>273</VL>
+<PG>408-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-2010" MODIFIED="2014-10-11 15:57:01 +0100" MODIFIED_BY="[Empty name]" NAME="Schulz 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Altman DG, Moher D, CONSORT Group</AU>
+<TI>CONSORT 2010 Statement: updated guidelines for reporting parallel group randomised trials</TI>
+<SO>Trials</SO>
+<YR>2010</YR>
+<VL>11</VL>
+<PG>32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sch_x00fc_nemann-2011" MODIFIED="2015-08-11 16:56:02 +0100" MODIFIED_BY="[Empty name]" NAME="Schünemann 2011" TYPE="OTHER">
+<AU>Schünemann HJ, Oxman AD, Vist GE, Higgins JPT, Deeks JJ, Glasziou P, et al</AU>
+<TI>In: Higgins JPT, Green S (editors). Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March 2011]</TI>
+<SO>The Cochrane Collaboration, 2011 (available from www.cochrane-handbook.org)</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stahl-2008" MODIFIED="2015-08-11 17:10:40 +0100" MODIFIED_BY="[Empty name]" NAME="Stahl 2008" TYPE="BOOK">
+<AU>Stahl S</AU>
+<SO>Stahl's Essential Psychopharmacology: Neuroscientific Basis and Practical Applications</SO>
+<YR>2008</YR>
+<EN>3rd</EN>
+<PB>Cambridge University Press</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stauffer-2008" MODIFIED="2015-08-11 17:00:17 +0100" MODIFIED_BY="[Empty name]" NAME="Stauffer 2008" TYPE="CONFERENCE_PROC">
+<AU>Stauffer V, Kinon B, Kollack-Walker S, Chen L, Sniadecki J</AU>
+<TI>Olanzapine versus aripiprazole for the treatment of agitation in acutely ill patients with schizophrenia</TI>
+<SO>Proceedings of the 161st Annual Meeting of the American Psychiatric Association</SO>
+<YR>2008 May 3-8</YR>
+<CY>Washington DC, USA</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ukoumunne-1999" MODIFIED="2015-07-23 10:17:21 +0100" MODIFIED_BY="[Empty name]" NAME="Ukoumunne 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Ukoumunne OC, Gulliford MC, Chinn S, Sterne JAC, Burney PGJ</AU>
+<TI>Methods for evaluating area-wide and organisation-based intervention in health and health care: a systematic review</TI>
+<SO>Health Technology Assessment</SO>
+<YR>1999</YR>
+<VL>3</VL>
+<NO>5</NO>
+<PG>1-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Xia-2009" MODIFIED="2013-10-24 12:32:57 +0100" MODIFIED_BY="[Empty name]" NAME="Xia 2009" TYPE="JOURNAL_ARTICLE">
+<AU>Xia J, Adams CE, Bhagat N, Bhagat V, Bhoopathi P, El-Sayeh H, et al</AU>
+<TI>Loss to outcomes stakeholder survey: the LOSS study</TI>
+<SO>Psychiatric Bulletin</SO>
+<YR>2009</YR>
+<VL>33</VL>
+<NO>7</NO>
+<PG>254-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2015-08-11 17:05:00 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Chakrabarti-2007b" MODIFIED="2015-08-11 17:05:00 +0100" MODIFIED_BY="[Empty name]" NAME="Chakrabarti 2007b" TYPE="COCHRANE_REVIEW">
+<AU>Chakrabarti A, Whicher EV, Morrison M, Douglas-Hall P</AU>
+<TI>'As required' medication regimens for seriously mentally ill people in hospital</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2007</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2015-07-23 08:54:19 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2015-07-23 08:54:19 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003441.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Whicher-2002" MODIFIED="2012-07-25 08:35:43 +0100" MODIFIED_BY="[Empty name]" NAME="Whicher 2002" TYPE="COCHRANE_REVIEW">
+<AU>Whicher E, Morrison M, Douglas-Hall P</AU>
+<TI>'As required' medication regimens for seriously mentally ill people in hospital</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2012-07-25 08:35:38 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2012-07-25 08:35:38 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003441"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Barbhaiya-1996" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Barbhaiya 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Barbhaiya RH, Shukla UA, Greene DS, Breuel HP, Midha KK</AU>
+<TI>Investigation of pharmacokinetic and pharmacodynamic interactions after coadministration of nefazodone and haloperidol</TI>
+<SO>Journal of clinical psychopharmacology</SO>
+<YR>1996</YR>
+<VL>16</VL>
+<NO>1</NO>
+<PG>26-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Boter-2005" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Boter 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Boter H</AU>
+<TI>The European First Episode Schizophrenia Trial (EUFEST): comparison of outcome in first episode schizophrenia with different low dose antipsychotic drug regimens</TI>
+<SO>http://www.controlled-trials.com</SO>
+<YR>2005</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cabrera-1994" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Cabrera 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Cabrera GJ, Cordero GJ, Fernandez LO, Reyes GB, Romero GK, Simon CJ, et al</AU>
+<TI>Treatment of schizophrenic disorder, paranoid type, with intramuscular recombinant alpha-2b interferon</TI>
+<SO>Biotherapy (Dordrecht, Netherlands)</SO>
+<YR>1994</YR>
+<VL>7</VL>
+<NO>1</NO>
+<PG>27-37</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Greenspan-2005" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Greenspan 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Greenspan A, Kosik-Gonzalez C, Moreau-Mallet V, Bossie CA, Rupnow MFT, Zhu Y, et al</AU>
+<TI>Risperidone vs quetiapine in inpatients with schizophrenia: a double-blind placebo-controlled study</TI>
+<SO>European neuropsychopharmacology</SO>
+<YR>2005</YR>
+<VL>15</VL>
+<NO>Suppl 3</NO>
+<PG>S503</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kazamatsuri-1972" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Kazamatsuri 1972" TYPE="JOURNAL_ARTICLE">
+<AU>Kazamatsuri H, Chien C, Cole JO</AU>
+<TI>Treatment of tardive dyskinesia. II. Short-term efficacy of dopamine-blocking agents haloperidol and thiopropazate</TI>
+<SO>Archives of general psychiatry</SO>
+<YR>1972</YR>
+<VL>27</VL>
+<NO>1</NO>
+<PG>100-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mueser-2007" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Mueser 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Mueser KT, McGurk SR</AU>
+<TI>2-3 year outcomes of a randomized controlled trial of cognitive training and supported employment for people with severe mental illness</TI>
+<SO>Schizophrenia bulletin</SO>
+<YR>2007</YR>
+<VL>33</VL>
+<NO>2</NO>
+<PG>448-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NTR25-2005" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="NTR25 2005" TYPE="JOURNAL_ARTICLE">
+<AU>NTR25</AU>
+<TI>The european first episode schizophrenia trial (eufest): Comparison of outcome in first episode schizophrenia with different low dose antipsychotic drug regimens</TI>
+<SO>http://www.trialregister.nl/trialreg/index.asp</SO>
+<YR>2005</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pinard-1972" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Pinard 1972" TYPE="JOURNAL_ARTICLE">
+<AU>Pinard G, Prenoveau Y, Fliesen W, Elie R, Bielmann P, Lamontagne Y, et al</AU>
+<TI>Pimozide: a comparative study in the treatment of chronic schizophrenic patients</TI>
+<SO>International journal of clinical pharmacology, therapy, and toxicology</SO>
+<YR>1972</YR>
+<VL>6</VL>
+<NO>1</NO>
+<PG>22-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rapp-1986" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Rapp 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Rapp W, Hellbom E, Norrman O, Palm U</AU>
+<TI>A double blind crossover study comparing haloperidol decanoate and perphenazine enantate</TI>
+<SO>Current therapeutic research, clinical and experimental</SO>
+<YR>1986</YR>
+<VL>39</VL>
+<NO>5</NO>
+<PG>665-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Volavka-1990" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Volavka 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Volavka J, Crowner M, Brizer D, Convit A, Van PH, Suckow RF</AU>
+<TI>Tryptophan treatment of aggressive psychiatric inpatients</TI>
+<SO>Biological psychiatry</SO>
+<YR>1990</YR>
+<VL>28</VL>
+<NO>8</NO>
+<PG>728-32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wetzel-1991" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Wetzel 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Wetzel H, von Bardeleben U, Holsboer F, Benkert O</AU>
+<TI>Zotepine versus perazine in patients with paranoid schizophrenia: a double-blind controlled trial of its effectiveness</TI>
+<SO>Fortschritte der Neurologie und Psychiatrie</SO>
+<YR>1991</YR>
+<VL>59</VL>
+<NO>Suppl 1</NO>
+<PG>23-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Zhang-2013" MODIFIED="2013-10-23 15:11:27 +0100" MODIFIED_BY="[Empty name]" NAME="Zhang 2013" TYPE="JOURNAL_ARTICLE">
+<AU>Zhang H, Wang G, Zhao J, Xie S, Xu X, Shi J, et al</AU>
+<TI>Intramuscular Ziprasidone Versus Haloperidol for Managing Agitation in Chinese Patients With Schizophrenia</TI>
+<SO>Journal of clinical psychopharmacology</SO>
+<YR>2013</YR>
+<VL>33</VL>
+<NO>2</NO>
+<PG>178-85</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</PENDING_REFERENCES>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Baker-2002">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: acutely agitated inpatients with schizophrenia spectrum or bipolar 1 disorder<BR/>Interventions: 2 different drugs given 'as required', not the 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Foster-1997">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:15 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: patients in emergency room, judged to be in imminent danger to self or needing 4-point restraints<BR/>Intervention: 2 different drugs given 'as required', not the 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Hovens-2005">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: patients with an acute exacerbation of schizophrenia or other psychotic disorder<BR/>Interventions: 2 different drugs given for the treatment of schizophrenia plus 'as required' medication, not 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Huttunen-1996">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: people with chronic schizophrenia<BR/>Interventions: depot medication regimens (haloperidol) versus oral antipsychotic medication, not 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Kinon-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: newly admitted inpatients with a diagnosis of schizophrenia spectrum disorders<BR/>Intervention: 2 different drugs given for the treatment of acute schizophrenia (olanzapine plus lorazepam) plus 'as required' medication, not 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Kinon-2008">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised</P>
+<P>Participants: acutely unwell patients with a diagnosis of schizophrenia, schizophreniform or schizoaffective disorders and needing inpatient treatment</P>
+<P>Intervention: 2 different drugs given for the treatment of acute schizophrenia (olanzapine versus aripiprazole) plus 'as required' medication but not 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Kramer-1978">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: people with acute schizophrenia<BR/>Interventions: 2 different drugs for treatment of acute schizophrenia (loxapine versus thioridazine), not 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lesem-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: people with schizophrenia or schizophrenia-like illnesses<BR/>Interventions: comparison of different doses of same drug (ziprasidone, 2 mg versus 10 mg), not 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Maoz-2000">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised</P>
+<P>Participants: newly admitted inpatients with a diagnosis of schizophrenia or schizophreniform disorder</P>
+<P>Interventions: comparison of an adjuvant drug (active and placebo arms) to an antipsychotic (haloperidol-propranolol). 'As required' medication allowed in both arms of trial but not 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Neborsky-1984">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: people with schizophrenia or psychotic illnesses<BR/>Interventions: comparison between behaviour and plasma levels of haloperidol, not 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Potkin-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised</P>
+<P>Participants: acutely unwell patients with a diagnosis of schizophrenia or schizoaffective disorder and needing inpatient treatment</P>
+<P>Interventions: comparing 2 drugs for the treatment of acute exacerbation of schizophrenia (risperidone, quetiapine and placebo) but not 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Slotnick-1971">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: acutely agitated psychiatric patients<BR/>Interventions: comparing 2 different drugs (haloperidol and chlorpromazine) not 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Stotsky-1977">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised<BR/>Participants: acutely agitated, psychotic patients<BR/>Interventions: comparing 2 different drugs (haloperidol and thiothixene) not 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Zhang-2013">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Allocation: randomised</P>
+<P>Participants: acutely unwell patients with schizophrenia</P>
+<P>Interventions: comparison of 2 different drugs (intramuscular ziprasidone versus haloperidol) given 'as required' but not 'as required' regimen versus no 'as required' regimen</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2014-06-10 16:00:44 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-07.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-08.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2014-06-13 13:39:22 +0100" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES MODIFIED="2015-08-11 17:05:59 +0100" MODIFIED_BY="[Empty name]">
+<SOF_TABLE ID="SOF-01" MODIFIED="2015-08-11 17:05:59 +0100" MODIFIED_BY="[Empty name]" NO="1" READONLY="YES">
+<TITLE MODIFIED="2015-08-11 17:05:59 +0100" MODIFIED_BY="[Empty name]">'As required' medication versus regular timed medication for seriously mentally ill people in hospital</TITLE>
+<TABLE COLS="6" ROWS="12">
+<TR>
+<TD ALIGN="LEFT" COLSPAN="6" VALIGN="BOTTOM">
+<P>
+<B>'As required' medication versus regular timed medication for seriously mentally ill people in hospital</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" COLSPAN="6" VALIGN="BOTTOM">
+<P>
+<B>Patient or population:</B> seriously mentally ill people in hospital<BR/>
+<B>Settings: Hospital</B>
+<BR/>
+<B>Intervention:</B> 'as required' medication versus regular timed medication<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="BOTTOM">
+<P>Outcomes</P>
+</TH>
+<TH ALIGN="LEFT" COLSPAN="2" VALIGN="BOTTOM">
+<P>Illustrative comparative risks* (95% CI)</P>
+</TH>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="BOTTOM">
+<P>Relative effect<BR/>(95% CI)</P>
+</TH>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="BOTTOM">
+<P>No of participants<BR/>(studies)</P>
+</TH>
+<TH ALIGN="LEFT" ROWSPAN="3" VALIGN="BOTTOM">
+<P>Quality of the evidence<BR/>(GRADE)</P>
+</TH>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Assumed risk</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Corresponding risk</P>
+</TH>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>
+<B>Control</B>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>'As required' medication versus regular timed medication</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Mental state: important change in mental state</B>
+</P>
+</TD>
+<TD ALIGN="LEFT" COLSPAN="5" ROWSPAN="7" VALIGN="TOP">
+<P>We found no trial-based evidence to support or refute use of 'as required' medication as opposed to regular timed doses</P>
+<P/>
+<P>Our summary of the findings is, therefore, that there are no data to guide practice from trials for these key outcomes for a situation that is commonly encountered in routine care</P>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Behaviour: important change in behaviour</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Behaviour: aggression</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Dosage: important difference in dose used</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Adverse events: important adverse events</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Satisfaction with care: important change in satisfaction with care</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" ROWSPAN="1" VALIGN="TOP">
+<P>
+<B>Cost: important change in cost</B>
+</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</SOF_TABLE>
+</SOF_TABLES>
+<ADDITIONAL_TABLES MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2014-10-11 15:23:06 +0100" MODIFIED_BY="[Empty name]">Review titles suggested by excluded reviews</TITLE>
+<TABLE COLS="3" ROWS="19">
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Excluded study</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Interventions</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Reference to Cochrane review if existing</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" COLSPAN="3" VALIGN="TOP">
+<P>
+<I>
+<B>Participants - acutely disturbed people</B>
+</I>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Baker-2002" TYPE="STUDY">Baker 2002</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>'As required' lorazepam versus 'as required' olanzapine - added to initial olanzapine dose</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Foster-1997" TYPE="STUDY">Foster 1997</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>'As required' haloperidol versus 'as required' lorazepam</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Hovens-2005" TYPE="STUDY">Hovens 2005</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>'As required' lorazepam added to initial risperidone versus zuclopenthixol</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Kinon-2001" TYPE="STUDY">Kinon 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Haloperidol versus lorazepam plus olanzapine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Kinon-2008" TYPE="STUDY">Kinon 2008</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Aripiprazole versus olanzapine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Khanna-2014" TYPE="REFERENCE">Khanna 2014</LINK>; <LINK REF="REF-Komossa-2010" TYPE="REFERENCE">Komossa 2010</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Kramer-1978" TYPE="STUDY">Kramer 1978</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Loxapine versus thioridazine</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Chakrabarti-2007a" TYPE="REFERENCE">Chakrabarti 2007a</LINK>; <LINK REF="REF-Fenton-2007" TYPE="REFERENCE">Fenton 2007</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Lesem-2001" TYPE="STUDY">Lesem 2001</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Ziprasidone dosage</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Potkin-2006" TYPE="STUDY">Potkin 2006</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Quetiapine versus placebo versus risperidone</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Asmal-2013" TYPE="REFERENCE">Asmal 2013</LINK>; <LINK REF="REF-Komossa-2011" TYPE="REFERENCE">Komossa 2011</LINK>; <LINK REF="REF-Lankappa-2012" TYPE="REFERENCE">Lankappa 2012</LINK>; <LINK REF="REF-Rattehalli-2010" TYPE="REFERENCE">Rattehalli 2010</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Slotnick-1971" TYPE="STUDY">Slotnick 1971</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Chlorpromazine versus haloperidol</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Leucht-2008" TYPE="REFERENCE">Leucht 2008</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Stotsky-1977" TYPE="STUDY">Stotsky 1977</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Haloperidol versus thiothixene</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Dold-2015" TYPE="REFERENCE">Dold 2015</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Zhang-2013" TYPE="STUDY">Zhang 2013</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Haloperidol versus ziprasidone</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="REF-Bagnall-2000" TYPE="REFERENCE">Bagnall 2000</LINK>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" COLSPAN="3" VALIGN="TOP">
+<P>
+<I>
+<B>Participants - newly admitted inpatients with a diagnosis of schizophrenia</B>
+</I>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Maoz-2000" TYPE="STUDY">Maoz 2000</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Haloperidol plus propranolol versus haloperidol plus placebo</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" COLSPAN="3" VALIGN="TOP">
+<P>
+<I>
+<B>Participants - people with schizophrenia</B>
+</I>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Neborsky-1984" TYPE="STUDY">Neborsky 1984</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Haloperidol dosage</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" COLSPAN="3" VALIGN="TOP">
+<P>
+<I>
+<B>Participants - people with chronic schizophrenia</B>
+</I>
+</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>
+<LINK REF="STD-Huttunen-1996" TYPE="STUDY">Huttunen 1996</LINK>
+</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Depot haloperidol dosage</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2014-10-11 14:25:28 +0100" MODIFIED_BY="[Empty name]">Suggested design of study</TITLE>
+<TABLE COLS="2" ROWS="5">
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Methods</P>
+</TH>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Allocation: randomised<BR/>Blindness: raters<BR/>Duration: short-term, 2 to 6 hours; medium-term, 7 to 24 hours; long-term greater than 24 hours<BR/>Raters: independent</P>
+</TD>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Participants</P>
+</TH>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Acutely disturbed patients who require additional medication (acute psychotic symptoms, behavioural disturbance or to promote tranquillisation and sedation). Level of disturbance assessed using the Clinical Global Impression (CGI - <LINK REF="REF-Guy-1976" TYPE="REFERENCE">Guy 1976</LINK>)<BR/>
+<BR/>N = 450*<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Interventions</P>
+</TH>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1. 'As required' medication regimen<BR/>2. Regular prescribed medication<BR/>3. Regular prescribed medication + 'as required' medication regimen<BR/>
+<BR/>Dose, route of administration and drug at the discretion of the prescribing clinician</P>
+</TD>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Outcomes</P>
+</TH>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>Mental state: levels of behavioural disturbance**, tranquillisation or sedation**, total amounts of medication used<BR/>Adverse events<BR/>Quality of life<BR/>Distress among relatives<BR/>Subjective reports of patients and relatives<BR/>Service outcomes: nursing levels, length of hospitalisation, change in legal status<BR/>Economic evaluations: cost-effectiveness, cost-benefit</P>
+</TD>
+</TR>
+<TR>
+<TH ALIGN="LEFT" VALIGN="TOP">
+<P>Notes</P>
+</TH>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>* Size of study with sufficient power to highlight about a 10% difference between groups for primary outcome<BR/>** Primary outcomes</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES>
+<P>CGI = Clinical Global Impression</P>
+</FOOTNOTES>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2014-10-11 16:24:49 +0100" MODIFIED_BY="[Empty name]"/>
+<FIGURES MODIFIED="2015-08-11 16:45:55 +0100" MODIFIED_BY="[Empty name]">
+<FIGURE FILENAME="Flowchart.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2015-08-11 16:45:55 +0100" MODIFIED_BY="[Empty name]" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Prisma flow diagram for search conducted in 2012/13</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAZIAAAKWCAYAAABj+x9xAAA6cElEQVR42u3df6QWef/48ZskSbIk
+K8mKJMlKJMlKIivZP1as3LJutyXJykrckiSJJMnKkmQlK5KVJJFkHVmRrGQlkiTJkrWSZL6f13zN
+MWe6rnnPXNd1Otc55/HkUtc1P98zr/frOb/OvP6VlfjXv/7lM40+w4Z9Iv4wOflXuRNjmu38Idrn
+4k/8YZKLxA7VmSUU2PfoYz/akYLgX9Ny2RB/IBIQCcQfiAREIv7EnxggEujIkgjEAJFAR5ZEIAZA
+JCASiD8QCYhkMvDHH38IGiJBG5G8efMmW7p06Qe///PPP9nOnTuzOXPmZLNmzcq2bduW/fXXX4JY
+Rx7Ysvft25fNnTs3mz17dh5fL168+KjtLg8v/z/ifaK231SMV31wiovk3bt32ddff91xR3///ffZ
+jz/+mL1//z7/RKePzi6IdeRBLPvYsWPZqVOnRuPr8OHD2YYNGyZMJM7gtAk9iiQ67tOnTzvu6E8+
++STv4GXpVI/UqsFy586dbMGCBdnq1atHfz906FA2b968/Mxmz549Y6Z5+/ZttmPHjvyIdNmyZdnI
+yMgHR6wxXQyPdX327Fnt8mJ9d+3alR/lLly4MLtw4cKYtl29ejWbOXNmNmPGjGzlypXZrVu3iGSC
+lr1kyZL8rLdM7JtuPH78ONu6dWseCzFexMvly5dHh6f2fWp48f9O74uqtiEVl2fPns0WL16cx1ms
+67Vr1xq3g0gw6URy48aNxjs6kn4k7bpg2b17d95hnz9/nv92+vTpvFPFbyGi6LxHjx4dnebAgQPZ
+xYsX8/9fuXIlW758+eiw48ePjzlijXmFdOqWd+LEiezIkSP5by9fvszWr18/pm3lTn39+vU8mRHJ
+xC/79evX+QHH9u3bu47z+eefZ+fPnx+Nh4iNcjym9n1qeLf/V783icsQRSGXiLeyIFPtIBJMOpG0
+2dE///xznvjr5lE+MgtWrVo15qymOBItCHFUhxesWLEil1dZZPPnz69dXpyZlKe5e/fumLZFhy3E
+5dLWcCz7m2++yY/u43Pv3r1W844j/qb7PjW8qUh6icvUNii3g0gwZUXy6tWrvMPHWUWbecSRWPVS
+QbnT1F3KKI/XafxuyysTkiqPF2ch8T0Ed/DgQSIZomXH5aK43FhHXMqMg5k4c4mEXj3brNv3qeFN
+RdJLXFZ/q2sHkWBKiiTk8e9//zu/HNB2Hp06XV3iTw1LdbjUNEUnjstomzdvzvbu3UskQ7LsiLO6
+eDh37lx+BnvmzJn8kmxczqwTRXXZbeKpTiS9xGX5t1Q7iARTTiRxJhKPAD958qSnecQRZlz/7kY8
+dtzt0lZMW72EUL7Z32l5a9euHTPNgwcPurbt/v370ybAh1EkcZmxfHBSvURUJW6Sl2MpYrI879S+
+Tw1vKpJe4rL8W6odRIIpJZLffvst++KLLxo/299pHnFjsrjBGZ/4Xn7EM07v43JTcPPmzQ9utp88
+eXJ02ngUufz3Lp2WFzcx4zHS4obqxo0bx4wX848nt4LqTVAi+bjLjktZcXmx2L//+9//8k834imo
+4ummkMCaNWvGzDu171PDy/+PJ6riPkchjOrN9rZxWf4t1Q4iwZQSyaJFi1qVz+w2bP/+/flRWBy1
+xdMsxRNWQfwxZPxtSiT0uFYcN0Cryaa4ERtPxjx69Ci5vPj7hDiyjUeO44ma8nhxWSuWUzyWWUiF
+SD7+suNSVjx1F3ER+zf2dR23b9/OH9SI/RYHBPHQRHXedfs+Nbz8/3iyMNarONPo9vhv07gs/5Zq
+B5Fg0ooERCKJQAyASEAkEH8gEhAJxB+IBDqyJAIxQCTQkSURiAEQCYgE4g9EAiKB+AORgEjEn/gT
+A0QyCIaldOl0LaFKJFOPyRTLYmAKi6TX6nG9UFe6tCg2FW/kHcRy66afyBKqE9npiGRqrO+wlAMm
+EiKZkJ1fN69qBbnxXFbdy/iIRBKZTOs7mbYrkUyTM5JUGdKgrmRuXXnRutKlTcqa1i23yXqX17HT
+suIFfN3KonYrH5wqtZrqSNGmWOcoZxwV8qrvWqpbp6kikqlWmrmuhO5nn32Wv0k7KN72+/vvv+ff
+46WoMTw1jzb9JlXuNxWDRIKeRJIqQ5oqmZsqL1p3JlA3LLXc1Ho3OSPZsmVL7XpXy/k2KbVat9xo
+T9RBKdZ53bp1H2yPunWaSiKZSqWZ60roRj2fS5cu5f//5Zdf8stSsX7F92I925ThTfWpuv6YikEi
+QU8iSZUhTZXMTZUX7VUkqeWm1ruJSFLrXR3epNRq3XKjLkb51fydSr62LdU6WUUy1UszF4XdophV
+1PUJ/vvf/+aVEYv69N9++20uzNQ82vapuhhKxSCRoCeRNClTWlcyN5U8exVJ21K91fVuIpI2613t
+2J3WIzXP6k3SupKvU10knbbjZC7N3K2E7sOHD/OzjSAukUVRtSjTEMTlq3LhuKZleNv0qbYxSCQY
+iEiqw1Mlc8dLJL2U6h1vkfRbarVN7fDpJpLJXJo5VUI37kXEZaRCIHH/IgpbFd+bzGNQIml7AEYk
+aCSSVBnSVMnc8RJJarltSusOSiRtS61WS6lGRbxyidl79+4RScP9PcylmVMldL/++uvsP//5z+gl
+reLyVvG9yTwGJZJUDBIJehJJqgxpqmRuKnDrSpfWdYjUclPrXaVuPZp2yFSp1fIN2qdPn+Y3Petu
+tkd7iKTZ/h7m0sypErqxbnHPJtYr+Omnn/J4jHhoOo9e+1T1t1QMEgl6EkmQKlNaVzI3Fbh1pUtT
+Zwl1y22y3mVSJVSbdMigrtRqkXDiMk0kskhE1flE8or1jUdOY51TR87TRSSp/T3MpZlTJXR/++23
+MY/9Fje4//zzz8bz6LVPdfqtLgaJBI1FguEgkmP5OvlU68jiTwyKASLBgImj37h5W/ytRBxF193E
+JRJM9hgUA0SCARNP48TfL8SlhHiS54cffsg7M5FgqsagGCASTI0gIBKIARAJiATiD0QCIoH4A5FA
+R5ZEIAaIBDqyJAIxgGEQyXQtW6sjSyLjzVTrW2Jgmomkzbht/xJWMBEJxqdviT9MWpG0DQ7BRCSY
+nttMDExhkaTKjNaV/exU6rNJmdB4yVxRKvXLL78c866k1PSpsqd1JVoFwfCJpJ/93U8s9DrfaEe8
+3j3+Kjz+iC8qG8aLIqP/dCtlO6jS1OIPQyuSVJnRNmU/m45fVGaL4VF6NKrDNZ2+ruxpqkSrIBg+
+kfSzv/uJhV7nG+2IeI15/vrrr7lAvvvuu/x79c3Agy5NLf4wtCJpW6Y2SFVFTI1fPgOJThaV55pO
+X1f2NFWiVRBMjktbTfd3P7HQ63yr5Wvje7l2yHiWphZ/GFqRNKmS1rTsZ6/jV9ehbvq6sqepEq2C
+YDhF0uv+7icWep1vqtzBeJamFn+YNCKp7vA2ZT97GT8oP52Smr5IPJ3KnpLG5BNJP/u731joZb5t
+RDLo0tTiD0MrklSZ0TZlP5uO//Dhw9HvsexyDYTU9GWqZU9TJVoFwfCJpJ/9PahYaDPfNiIZdGlq
+8YehFUmqzGiq7Ge11GeTMqGbNm3KXr16lS8zbvSXb7anpq8re5oq0SoIhk8k/ezvfmKh1/m2Ecmg
+S1OLPwytSIK6MqOpsp/VUp9NyoTGMmJZMU1IpXzDMTV9quxpqiQvkQzXsvvZ3/3EQq/zbSOS1Dq0
+LU0t/jDUIgGRSCIQAyASEAnEH4gERALxByKBjiyJQAwQCXRkSQRiAEQCIoH4A5GASCD+QCTQkSUR
+iAEigY4siUAMYNKIJLWOApFIIP5AJAKNSCD+MNVE0k+50iZldeO9RVEoKApoBfECuqLMbow/MjIy
+ZvyTJ092LD1aDcS6MqXldY/3HEVJ1Ki8N90DmUhAJBgXkfRTrrRJWd3du3fnw4qX1UUBo6L6XNR7
+iBf1lcffsmVLo9KjqTKlsd5RR6J4q/G6deuIhEhAJBgPkQy6dG21Aly1lGiIozrPuvG71WdIjVvU
+hS9oUkJYR5ZEIAbQg0j6LV3bb1ndVKDViaRu3OqrtzuVENaRJRGIAQxAJIUMeilX2ktZ3Y8lkia1
+6HVkSQRiAAMSSUHbcqVty/AGS5curb20NSiRRKW9uDdScO/ePSKZ4PZLJGIPU1Qk/ZQrbVJWt0pc
+BovLacHNmzc/uNk+KJFUb7bHehPJv6wD7HMMXiT9lCttUla3yps3b7Jt27bl08Ry4yb4eIgkiFr0
+8ejywoUL8yfQpkrJ0sneoav33Xym9gfT7NLWVCYEtmjRIiKB7Q8QSTPmz5+fP0BQ/A3Mvn37xjxI
+IJHB9geIpJZ4iiz+mj4uZ8Vftv/www+5UCQy2P4AkUAis/0BIoFEZvsDRAKJDLY/iAQSGWx/gEgg
+kdn+AJFAIrP9ASKBRAbbH0QCiQy2P0AkkMhsf4BIIJHZ/gCRQCKD7Q8igUQG2x8gEkhktj8wuBgW
+yJIY7AOgb5EIZgkM9gPQt0iKgPZR6hREAvQsEh0ZEH8AkejIEH8AkejIEH8AkejIgPgDkejIgPgD
+iERHhvgDiERHhvgDiERHBsQfiERHBsQfQCQ6MsQfQCQ6MsQfQCQ6MiD+QCQ6MiD+ACLRkSH+ACLR
+kSH+ACLRkSH+bAQQiY4MiD8QiY4MiD+ASHRkiD+ASHRkiD+ASCZnR/bxmcgPQCRwRA2ASAAiAUAk
+IBIARAIiAUAkIBIARAIQCQAiAZEAIBIQCQAiAZEAIBKASAAQCYgEAJFg+ATinVEA9HwQCQAiwXDI
+BACRAEQCgEhAJACIBEQCgEgw3WQCgEgAIgEw9UWitrePjzrwIBJHvYA+AyLRIQAyASaRSHQEQB8C
+kegEgD4EItEJACIBiAQgEoBIAOhDIBKdANCHQCQ6wdTjjz/+sBGm6HbQh0AkiU7w5s2bbOnSpbXj
+XLx4cdJ2pvFa76tXr2YzZ87MVq1alX+fNWvWpGtPeV6Dmu/H2g5EAiIZkk7w7t277Ouvv64d5+nT
+p9mGDRuIpEJI5Nq1ax892YyXSCRdIgGR9NQJQhAhirpxNm/enP3555/JzhTD79y5ky1YsCBbvXr1
+6O+HDh3K5s2bl82ZMyfbs2fPmGnevn2b7dixI5s9e3a2bNmybGRkZMzwffv25dPF8FjXZ8+e1S7v
+/fv32a5du7K5c+dmCxcuzC5cuDBmvYuziBkzZmQrV67Mbt261bU9jx8/zrZu3ZovO6aJ9bt8+fLo
+spu8o6mu7d22V5lUezrtk+rwc+fOZfPnz8/XYffu3fkZaOqMpG6/tNkuTbZDm31CJCCSIewEN27c
+qB3n8OHD2alTpxp1phgeiSqS3/Pnz/PfTp8+nZ09ezb/Lc5+IhEePXp0dJoDBw7kl82CK1euZMuX
+Lx8ddvz48XzZMW18Yl6R3OqWd+LEiezIkSP5by9fvszWr18/Zr3LZxHXr1/PlixZ0rU9n3/+eXb+
+/PnR5ce6RNLvtl2r31Nt77T+VVLtaSKSuPQWAo55REL//vvvkyKp2y9tt0tqO7TZJ0QCIhniTtBp
+nN9//z3btGlT4/nE8PIZQxBJLBJImXKiiARVHV6wYsWK/Mi4fJQcR9Z1y4sj+/I0d+/eHbPekfCK
+BNkLcdTcVCSptnda/yqp9jQRSfls4p9//skWLVqUFEndfmm7XVLbod99QiQgkiEVyd9//50nsRcv
+XrQSSZU42qxe7ignnRjeJDl1Gr/b8qqXhsrjxRFvcZR+8ODB5HaJS09xdL59+/ZcbHVJvPo91fYm
++yXVniYiqSbxbtuweuY2qO2S2g5t9wmRgEgmiUi+/fbb7NKlS63m02l4JxnUJcrUsFQSTU1TJMG4
+XBP3fvbu3dt1+XFvIY7Mz5w5k18CjMtPbUSSansvImmyDdpso15E0na7pLZDm31CJCCSSSSSXor9
+dBoWN09fv37ddZp47LjbJZSYtnppq/xoaaflrV27dsw0Dx486LrO9+/fr21P3OAur/uTJ09aiSTV
+9ib7JdWe6jw6rWO0s+Cvv/7K25USSd1+abtdUtuhzT4hEhDJJBJJL+N0Gh43zIubxfGJ7/H0VUFc
+HolLG8HNmzc/uNl+8uTJ0Wl//PHHMX/v0ml5cRM4HhAobk5v3Ljxg2v/8ZRQEDd46468Fy9ePPo0
+UiTwNWvW1CbMeIop7nkUiT/V9ibbPNWe8o3qePounqaqrmMsM6aNefzvf//LH/dOiaRuv6S2S9vt
+0GafEAmIZBqKJNi/f39+FBtnE5Hoyk8oxaOo27Zty5NHXGuPm8llisd/4xNPbD169Ci5vGPHjuU3
+5eNx03hiqDxeXEKJ5cTlllhmkcA6cfv27fymcIwXya76R5nV5ceTSNHG8llTXdubJqe69hSJN9oT
+ko32VNcxkv6nn36a39T+4Ycf8rOSlEjq9ktqu7TdDm32CZGASHQC2Pe2I0AkkABtR4BIMG2Yiu+9
+0odAJDoBQCQAkQBEAhAJAH0IRKITAPoQiEQnAIgEIBKASAAi0dkBsQUi0Ql0dogtEMlH7gS9lMaN
+aeL14fHup08++ST75Zdf8pfwxXuUqjXMg06lcqPWSRRXKpd8DeIlf/Gm2CbrkSpBCxAJiOQjiaRt
+adyYJmqVxLBff/01T+Tfffdd/r365ta6Urk7d+7Mh5eJsrIhjybrkSpBCxAJiOQjiaRtadzqNPG9
+XGuivKy6UrkPHz7Mz0qKZcW/n3322ei8U+uRKkELEAmI5COJpErb8rB131Olcr/44ov8rCOIuhvx
+evGm65EqQQsQCYhkgkTStjxs3fdUmdgorbps2bL8/3FvJMq2Nl2PJiV1ASIBkUyASNqWh637niqV
+G0S1vbjfEZe12qxHm5K6AJGASD6iSNqWh637niqVG8QN9Hjqqnwjvcl6pErQAkQCIpkgkQRtysOm
+vteVyg1evXqVLydk0GY9groStACRgEh0AkAfApHoBACRAEQCQB8CkegEgD4EItEJAH0IRKITAEQC
+EAlAJACRANCHQCQ6AaAPgUh0AoBIACIBiAQgEgD6EIhEJwD0IRCJTgDoQyASnQAgEoBIAOhDIBId
+AdB3QCQ6BKDPgEiGumP4+Pg0+wBEAke+AIgERAKASAAiAUAkIBIARAIiAUAkIBIARAIQCQAiAZEA
+IBIQCQAiAZEAIBKASAAQCYgEAJGASAAQCYgEAJGASAAQCUAkAIgERAKASEAkAIgERAKASAAiAUAk
+IBIARAIiAUAkIBIARAIQCQAiAZEAIBIQCQAiAZEAIBKASAAQCYgEAJGASAAQCYgEAJGASAAQCdCT
+QKofAEQCEAkAIsHEyAQAkQBEAoBIQCQAiAREAoBIMN1kAoBIACIBQCTDkFB9ps8H4l7cE4mjctjn
+tgEGsM9Fgc4E+17b0de+Fwk6E8SANqOvGBANOhTEgDaDSHQoiAFtBpHoUBAD2gwisTEhBrQZRAId
+CmJAm0EkOhTEgDaDSKZQh3rz5k22dOnS2nEuXrw4aTumhEIk4l7c2xrjGFDv3r3Lvv7669pxnj59
+mm3YsEGHIhJxb58TiY35IdFRosPUjbN58+bszz//TAZmDL9z5062YMGCbPXq1aO/Hzp0KJs3b142
+Z86cbM+ePWOmefv2bbZjx45s9uzZ2bJly7KRkZExw/ft25dPF8NjXZ89e1a7vPfv32e7du3K5s6d
+my1cuDC7cOHCmPW+evVqNnPmzGzGjBnZypUrs1u3bhGJuBf3RIJ+OtSNGzdqxzl8+HB26tSpRsko
+hu/evTsP6ufPn+e/nT59Ojt79mz+WxwFRoAfPXp0dJoDBw7klw+CK1euZMuXLx8ddvz48XzZMW18
+Yl7R+eqWd+LEiezIkSP5by9fvszWr18/Zr2jM127di3///Xr17MlS5YQibgX90SCQSSRTuP8/vvv
+2aZNmxrPJ4aXj5yCVatW5cFdphzE0YGqwwtWrFiRH7mVj+Lmz59fu7w4QitPc/fu3THrHUdxRQcW
+A9os7okE49ih/v777zw4X7x40apDVYkjoeornuP0ujy8G+XxOo3fbXllorOWx4ujsfgeHf3gwYNi
+QNyLeyLBeHWob7/9Nrt06VKr+XQa3qlT1HWA1LAxgdGgQ3UaL64vx+WEuAa+d+9eMSDuxT2RYDw6
+VC/FkjoNixt7r1+/7jpNPH7Z7RQ/pq2e4s+aNat2eWvXrh0zzYMHD7qu8/3796dNgiUScT/d455I
+JqBD9TJOp+Fx47C4CRif+B5PoRTETcc47Q5u3rz5wU3HkydPjk77448/jnnuv9Pyzp8/n98oLW46
+bty4ccx4Mf94giWIm491R4ZEIu7FPZFgCDpUsH///vyxxDiq2rp16+iTJkH8Udi2bdvywI6bjHGT
+sEzxGGR84smVR48eJZd37Nix/OZkPHoZT7yUx4vT+1hOXHqIZRadSwyIe3FPJJBEIAbEPYhEh4IY
+0GYQiQ4FMaDNIBIdCmJAm0Ek0KFAJOJe3BOJDgUxoM0gEh0KYkCbQSQ6FMTA8Lap7V+cg0ggiUAM
+fCCSbq8yEfcgEklEu8dhW9S9S2oqfiZLrE309EQCQabdzkgm+IyESIhk2iaRuvKbdaVAeyktmhoe
+84yKcosXLx59H1BR0a3J9KlSo2LAPZImsfTNN9/kL1Es95Evv/yyUZ+oW275tyaxKtaJZNIkkbry
+m3WlQHspLZoaHvOMF9sVld+qbyhNTZ8qNSoGPLXVJJYintesWZMPixcrRp94+PBhoz7RVCSpWBXr
+RDKpOlRd+c26UqC9lBZNDe80z/J6p6ZPlRoVA0TSNJYikUeyjuT9/fffN+4TTUWSilWxTiSTqkPV
+ld+sq1fQa2nRuuGpzte2dGm11KgYIJKmsVQk83gl+6tXr1r3iSaxXBerYp1IJl0S6VZ+s61IUqVF
+U8NTna+X0qU6F5H0EovBli1b8jOQjyESsU4kUyaJVMtv1pUC7aW0aGp4qvOlpm9TalQMTO82p2Ip
+KhLGPYozZ86MubTVtE9Ul/vkyZMxv6ViVawTyaTqUHXlN+tKgfZSWjQ1PCWS1PSpUqNigEiaxFLc
+bF+3bt2YpP7nn3+26hPlh1iePn2aP0RSHp6KVbFOJJOqQ9WV36wrBdpLadHU8JRImsy/rtSoGCCS
+JrEUMV9+/Df+H8Pb9InioCz6VZzFRL+qrksqVsU6kUgiEAPaDCLRoSAGtBlEAh0KRAJxTyQ6FMSA
+NoNIdCiIAW0GkehQEAPaDCKxMSEGtBlEAh0KYkCbQSQ6FMSANoNIdCiIAW0GkehQEAPaDCKBDgUx
+oM0gEh0KYkCbQSQ6FMSANoNIdCiIAW0GkUCHghjQZhCJTgX7XtsxTvteJOhUsM9tA/S1z0XBgDew
+z/T5QNyLeyKBo1IAg8gBNgGIBACRgEgAEAmIBACRgEgAEAlAJACIBEQCgEhAJACIBEQCgEgAIgFA
+JCASAEQCIgFAJCASAEQCEAkAIgGRACASEAkAIgGRACASgEgAEAmIBACRgEgAEAmIBACRgEgAEAlA
+JACIBEQCgEhAJACIBEQCgEgAIgFAJCASAEQCIgFAJCASAEQCEAkAIgGRACASDJ1Aqh8ARAIQCQAi
+wcTIBACRAEQCgEhAJACIBEQCgEgw3WQCgEgAIgFAJMOQUH2mzwfiXtwTiaNy2Oe2AQawz0WBzgT7
+XtvR174XCToTxIA2o68YEA06FMSANoNIdCiIAW0GkehQEAPaDCKxMSEGtBlEAh0KYkCbQSQ6VJU/
+/vhjqOYz3vMUA9os7olkSnSov/76K9u6dWs2e/bsbM6cOdk333yTvXz5sut8rl69ms2cOTNbtWpV
++52Y6NSzZs0aSFsHNZ+6eTZNUMOUyIhE3E/3uCeScepQhw4dyg4ePJi9f/8+//z888/Z/v37u84n
+OtO1a9d624mJ4BpU8I1HEPc6TyIR9+KeSKZ8h9q0aVP24MGD0e/v3r3Lvvzyy67zqL7LpuNrCLp0
+orrg6vaenOjw8+bNy48a9+zZM/p7HEHevHlzzBFjrHeT9+08fvx49Gg0EsSyZcuyy5cvj1mXO3fu
+ZAsWLMhWr16dbPfbt2+zHTt25POLeY2MjHRtc7f2lI96Z8yYka1cuTK7desWkYh7cU8kw9+h5s6d
+mx+RVX9rOp9BdahOw0+fPp2dPXs2X7/o6BcuXMiOHj2aD3v+/Hm2Zs2afNibN2+yJUuWZA8fPmy0
+nM8//zw7f/786NHoqVOn8s5TXo/du3fnw2I5qXYfOHAgu3jxYv7/K1euZMuXL+84Xl17qke9169f
+z9tEJOJe3BPJ0Heo2IlNfpuIDhXXo6udvRxkEaAnTpzIg/L777/vK2HG0VB5+mfPnjVud3Sg6np2
+Gi/VnujURcd0aUvci3simTQdqhxIw9ahYj2qp9fV9Y0gnT9/fvbq1atWHSpO4eOIavv27dmKFSuS
+61nX7qbbK9WeOBqL36JNcf2eSMS9uCeSSXOK3+S3QXaobtdzq/Pq1NmrbNmyJT8yatOhzp07l09z
+5syZ7MaNG/lp/MfoUE3aEx09LhNs3rw527t3L5GIe3FPJMPfoWLH/fPPP6Pf47rrhg0beu5QT548
+GdiRWdx4e/36ddfxf/zxx/zaa3SMNqf4kTDK861b5ybtXrp0aaNT/FR7yty/f3/giZ9IxP10j3si
+GacOFU9THDlyZPQGXARn3ellp9Pw4kbZ06dP86dCeu1Q8fRHXKONp0GC48ePj1m3+F509jiaWrdu
+3Zhg/fPPPzvOp8rixYtHn1aJJ3fi5mVqPavzrN50jNPzIJ6o6XbTsa49QUwXT7AEsU3rjviIRNyL
+eyIZmg4Vgblx48b8D4/iE6fM8cdaTedT7Pg4fY0jlAiIXjtU3Dws1qMgnu2PI6n4LTpr8TTJtm3b
+xjwGGf+P4d3mU+b27dv5zb5Y7wjiuNGXWs/qPMvjxNFsrE/ML6473717t+u8urWnOL2P6WNbxryK
+zkUk4l7cE8lQdyiIAW3GdIkB0aBDQQxoM4hEh4IY0GYQiQ4FMaDNIBIbE2JAm0Ek0KEgBrQZRKJD
+QQxoM4hEh4IY0GYQiQ4FMaDNqGcyl9wlEh1q3NvetoSqGNDm8VrWRE9fN79eS+4SiQ41LdretoSq
+GNDm6SKSunkTiWQ6hlT5zboymKkSmb2W1+xnvvFSuF27duXv9Vm4cGFeja1b27u91nvfvn35vGOb
+xMvlysV+quVIJdXJ2+a25WyDpuVlU2/SbRKng4rzKp999tno6+eLNwD//vvv+fcXL17kw8vr263k
+7smTJ/MXQRbvyBrWAzIi+QgdKlV+s64MZt2wfspr9jPfqBxXvGn05cuX2fr165M1s8vEm0ljGxTb
+I5YXiaM8frUcKZFMvjb3Ws62aXnZlEhScTroOC/z73//O7t06VL+/19++SW/bBXLK74X8V7Xnvge
+L7osDrLG4629RDLJk0i5EE1dGcy6Yf2U1+xnvnGWUH6NdryRtI1I4i2k5enj/1GJrjx+tRwpkUy+
+NvdazrZpedmUSFJxOug4LxMFrnbu3Jn//7///W9eLTE+wbfffptLq4lIUmV5iWSaiaSu/GZdGcy6
+Yf2U1+xnvtWjouiMbUSSKsE6mZMxkTSPoyKZV8vZNq0KmBJJKk4HHedl4uwqrkQEcek4ikktWrQo
+/x6X6+JyVxORTJb4IpKP0KFS5TcL0XQrg9ltWL/lNXudb6eO3kYkqemJZGq0uddytuMlkurwQcd5
+lU8++SS/JFYIJO51RLGr4juRoFWHSpXfLFNXBrM6bFDlNdvOd+3atWNO+aNztBFJzL96aav86COR
+DF+b2uzfpnHUrZxt0/KyqVK8qTgddJxX+frrr7P//Oc/o5e0istbxXciQasOlSq/WVcGs25YP+U1
++5lvPDhw+PDh0ZuQUQWv7c32eBqlmH8klEgeRDLcIun2BF63NvdazrZpedlUKd5UnA46zqtEjMdl
+u4jv4KeffsqfRAt5dmpPXcldIiGSZPnNujKYqRKZvZbX7Ge+wbFjx/JOEo9Oxk3TtkesxeO/8Ykn
+WB49ejSlRNIt+U7VTzd6KWfbtLxsqhRvkzjtN87r2v7bb7+Neey3uFlfCLM6fV3JXSIhEoiBaXlG
+Mh2IJ7JAJJIIxEBDkYj7D4nLcCASSQRiQJtBJDoUxIA2g0h0KIgBbQaRQIcCkUDciwYdCmJAm0Ek
+OhTEgDaDSHSoCWIyl/oUA9oMIpnWHarXP+5qM123cetKfUJS1WYQySQUycdYdl01Q0iq2gwiGdIO
+VVfSs+7MIqaLdwHFK6mjqmDdmUW88K0oURplS7u9o6jT/6uvvyhqKZSJKnLxCuy///7bzpZUGx2Y
+dCqZXNcX+ilLHaRKOMcLE7uVrk3NG0QyoR0qVdKzW5KPaaJOSPH20Xhbap0Q4rXXUQ86xo8yn1GJ
+ralIqv+PN51WO1Ksz3fffWdHE0ljkVRLJqf6Qj9lqZuUcA5JdStdWzdvEMmEd6hUSc9uybwQQ0G1
+1Gf1/+UzkFheLLdXkRQFr8rEUeW9e/fsaCJpLJJqqdhUX+hE07LUvZRwLq973bxBJBPeoVIlPZve
+/K6W+kzdbO9WvrbpPOISQJQMLSRWvjwBImkikrZ9Iei1LHUvJZybzhtEMuEdKlXSs1syT9WMTomk
+W9XBpvOIoj47d+7M/x+XCKIwD4ikH5Gk+kI/Zal7KeHcpuQ1iGRCO1SqpGe3YI9KinFvpCAuK9VJ
+oDh7KE7rm9SGrutosey4aRmX1+LmaBQcApH0I5JUX+inLHUvJZx7KXkNIpmQDpUq6dn0ZntMUyeB
+TZs2Za9evcrHj+W1vdleLfVZnIl89dVX+U1TEEm/Ikn1hX7KUvdSwrnpvEEkQ5FE6kp6pi4vxdnA
+woUL86dQ6i5XxfAYN8YJqVQffUz9v1rqMxgZGcnH8VfvRDIIkaT6Qj9lqYO2JZzbzBtEMiWSSFxa
+Kl+u+hhEJ4+jRBCJNoNIJmGHikcX48Zf8cx9HG19zBuAsdw4evQEi6SqzSCSSdqh4qmVeOQ2LgHE
+X7b/8MMPuVA+FnHPJC6RuckuqWoziESHghjQZhCJDgUxoM0gEh0KYkCbQSTQoSAGtBlEokNBDGgz
+iESHghjQZhCJDgUxoM0gEuhQEAPiHkSiQ0EMaDOIRIeCGNBmEIkOBTGgzSAS6FAgEhAJdCiIAW0G
+kehUsO+1HRO170WCTgX73DZAX/tcFAx4A/tMnw/EvbgnEjgqBTCIHGATgEgAEAmIBACRgEgAEAmI
+BACRAEQCgEhAJACIBEQCgEhAJACIBCASAEQCIgFAJCASAEQCIgFAJACRACASEAkAIgGRACASEAkA
+IgGIBACRgEgAEAmIBACRgEgAEAmIBACRAEQCgEhAJACIBEQCgEhAJACIBCASAEQCIgFAJCASAEQC
+IgFAJACRACASEAkAIsHQCaT6AUAkAJEAIBJMjEwAEAlAJACIBEQCgEhAJACIBNNNJgCIBCASAEQy
+DAnVZ/p8ABCJo3LY5wCRSCiw7wEikUggBgAikUQgBgAigSQCMQAQiSQCMQAQiSQCMQAQiSQCMQAQ
+CYYqifzxxx82NJEARDLdkshff/2Vbd26NZs9e3Y2Z86c7JtvvslevnzZ0zJmzZo10PUcr8Q3qPn2
+O5+PPT2RgEgwLknn0KFD2cGDB7P379/nn59//jnbv3//hCXoyZTsiAQgEiL5PzZt2pQ9ePBg9Pu7
+d++yL7/8sut8rl69ms2cOTObMWNGtnLlyuzWrVuj86++36nTMsu/hbh27dqVzZ07N1u4cGF24cKF
+2jOSkN68efPyM6c9e/Y0Wq8mZz1nz57NFi9enE8b87h27dro8Ldv32Y7duzIz9iWLVuWjYyMND57
+atPWVPuaTE8kAJFMiEgiMUWSqv7WjXKivX79erZkyZKuy0gl1xMnTmRHjhzJlx+X09avX981OZ8+
+fTpP+DFuyC4S6dGjRxutV0okcWnv2bNn+feYR8yr4MCBA9nFixfz/1+5ciVbvnx5TyJJtTXVvtT0
+RAIQyYSJpJw0634rWLBgwWhiTS0jlVxXr16dH/EX3L17t2tyXrVq1QfCK8uibr1SIikk0ml4iKO6
+3F5Ekmprqn2p6YkEIJIJE0lczmkjkjjaj3lF4ot7K/2IpLqcSKTdknOMW718Vl73uvXqRwB126Kf
++VTbmmpfanoiAYhkwkTS6TJW3aWt4M6dO/llns2bN2d79+4dmEjqknMn4TVdr2EUSdv2paYnEoBI
+JkwkkXT/+eef0e9v3rzJNmzY0Gie9+/fr02m1e9PnjwZ89vatWvHXK6Jm/7d5hc30F+/ft3TevUj
+gKVLl/Z0aattW1PtS01PJACRTJhI4kmh4iZufM6cOVN7aSjuGcQTUkH1xnQ82RT3G4qEV74B/vTp
+0/ymdnk9zp8/nx0+fHj0BvLGjRu7Jufjx4+PWc/4XhZe3Xr1I5K42R6XzYKbN292vdneb1tT7UtN
+TyQAkUyYSJ4/f54npfhjwvhs2bIl/yPFustHK1asGH1UtkjeQTxlVMynnNBj3Diyj3Gr63Hs2LFs
+/vz5+WOv8eRSXZKPv2+Jy24x/0jUse5N1qsfkcQZ2rZt2/J5xvzjJnen8fpta6p9TaYnEoBIJkQk
+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
+fAD8f/4feE3JKwSN4gMAAAAASUVORK5CYII=
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2015-08-11 17:04:39 +0100" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2012-07-25 13:00:15 +0100" MODIFIED_BY="[Empty name]">Previous searches</TITLE>
+<APPENDIX_BODY MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>1.1 2001 (<LINK REF="REF-Whicher-2002" TYPE="REFERENCE">Whicher 2002</LINK>)<BR/>We searched the Cochrane Schizophrenia Group's register of trials (November 2001). This register is compiled by methodical searches of BIOSIS, CINAHL, Dissertation abstracts, EMBASE, LILACS, MEDLINE, PSYNDEX, PsycINFO, RUSSMED, Sociofile, supplemented with hand searching of relevant journals and numerous conference proceedings (see Group Module).</P>
+<P>We also searched the Group's MS Access, study-based register using the phrase:</P>
+<P>'as required' or 'as needed' or 'as necessary' or 'as-required' or 'as-needed' or 'as-necessary' or 'as indicated' or 'prn' or 'pro re nata' or 'drug regimens' or 'psychotropic drug regimens' in REFERENCE title, abstract or indexing or in STUDY interventions.</P>
+<P>1.2 2006<BR/>We searched the Cochrane Schizophrenia Group Trials Register (March 2006) using the phrase:</P>
+<P>[((as required* or as needed* or as necessary* or as-required* or as-needed* or as-necessary* or as indicated* or as-indicated* or prn* or pro re nata* or drug regimens*) in title, abstract and index fields in REFERENCE) OR ((as required* or as needed* or as necessary* or as-required* or as-needed* or as-necessary* or as indicated* or as-indicated* or prn* or pro re nata* or drug regimens*) in interventions field in STUDY)]</P>
+<P>This register is compiled by systematic searches of major databases, hand searches and conference proceedings (see Group Module).</P>
+<P>1.3 2012</P>
+<P>The Trials Search Co-ordinator, Samantha Roberts, searched the Cochrane Schizophrenia Group's Trials Register (July 2012) using the phrase:</P>
+<P>[((* as required* or * as needed* or * as necessary* or * as-required* or * as-needed* or * as-necessary* or * as indicated* or * as-indicated* or * prn* or * pro re nata* or * drug regimens*) in title, abstract and index fields in REFERENCE) OR ((* as required* or * as needed* or * as necessary* or * as-required* or * as-needed* or * as-necessary* or * as indicated* or * as-indicated* or * prn* or * pro re nata* or *drug regimens*) in interventions field in STUDY)]</P>
+<P>The Cochrane Schizophrenia Group's Trials Register is compiled by systematic searches of major databases, handsearches and conference proceedings (see <A HREF="http://onlinelibrary.wiley.com/o/cochrane/clabout/articles/SCHIZ/frame.html">Group Module</A>). Incoming trials are assigned to relevant existing or new review titles.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2013-10-24 12:32:10 +0100" MODIFIED_BY="[Empty name]">Previous data collection and methods</TITLE>
+<APPENDIX_BODY MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>
+<B>1. Study selection</B>
+</P>
+<P>In the original review, we (EW, MM) inspected all reports and re-inspected these in order to ensure reliable selection. Where disagreement occurred we attempted to resolve it by discussion or, if doubt remained, we acquired the full article for further inspection. Once we obtained the full articles, again working independently, we decided whether they met the criteria for inclusion. Again, when disagreement occurred, we attempted resolution by discussion but if this was not possible we did not enter data and allocated the trial to the list of those awaiting assessment whilst we contacted the authors. For the March 2006 update AC inspected all additional studies found in the new search.</P>
+<P>
+<B>2. Assessment of methodological quality</B>
+</P>
+<P>We allocated trials to three quality categories, as described in the Cochrane Handbook (<LINK REF="REF-Higgins-2005" TYPE="REFERENCE">Higgins 2005</LINK>). Where disagreement occurred as to which category a trial should be allocated, again we attempted resolution by discussion. When this was not possible we did not enter the data and added the trial to the list of those awaiting assessment until further information could be obtained. We assessed the methodological quality of included trials in this review using the criteria described in the Cochrane Handbook (<LINK REF="REF-Higgins-2005" TYPE="REFERENCE">Higgins 2005</LINK>). It is based on the evidence of a strong relationship between allocation concealment and direction of effect (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>). The categories are defined below:</P>
+<P>A. Low risk of bias (adequate allocation concealment)<BR/>B. Moderate risk of bias (some doubt about the results)<BR/>C. High risk of bias (inadequate allocation concealment)</P>
+<P>
+<B>3. Data management</B>
+</P>
+<P>
+<I>3.1 Data extraction</I>
+<BR/>We independently extracted data from selected trials. Where disagreement occurred we attempted resolution by discussion. When this was not possible and further information was necessary to resolve the dilemma, we did not enter data and added this outcome of the trial to the list of those awaiting assessment.</P>
+<P>
+<I>3.2 Data synthesis</I>
+<BR/>We only assessed data from trials comparing the value of 'as required' medications for problematic symptoms or behaviour with a fixed time regimen of medication. We did not include data from trials assessing the use of 'PRN' medication for adverse effects, though we did include adverse effects in outcome measures (<LINK REF="REF-J_x00fc_ni-2001" TYPE="REFERENCE">Jüni 2001</LINK>).</P>
+<P>
+<I>3.3 Incomplete data</I>
+<BR/>We felt that attrition of more than 50% would call into question the value of the study. We excluded studies losing more than 50% of people when reporting relevant outcomes at 36 hours.</P>
+<P>
+<I>3.4 Intention-to-treat analysis</I>
+<BR/>Where possible we presented data on a 'once-randomised-always-analyse' basis. Where people were lost to follow-up it was assumed, with the exception of death and adverse effects, that they had a poor outcome. This assumption was tested in a sensitivity analysis. For continuous data we presented 'completer' analysis.</P>
+<P>
+<B>4. Data analysis</B>
+</P>
+<P>
+<I>4.1 Binary data/dichotomous data</I>
+<BR/>For binary outcomes, for example, not improved/worse, we calculated the relative risk (RR) with a 95% confidence interval (CI) and calculated the number needed to treat (NNT) statistic.</P>
+<P>
+<I>4.2 Continuous data</I>
+<BR/>4.2.1 Normal distribution<BR/>Continuous data on outcomes in trials relevant to mental health issues are often not normally distributed. To avoid the pitfall of applying parametric tests to non-parametric data we applied the following standards to continuous final value endpoint data before inclusion: (a) standard deviations and means were reported in the paper or were obtainable from the authors; (b) when a scale started from zero, the standard deviation, when multiplied by two, should be less than the mean (otherwise the mean is unlikely to be an appropriate measure of the centre of the distribution - <LINK REF="REF-Altman-1996" TYPE="REFERENCE">Altman 1996</LINK>). In cases with data that are greater than the mean, they were entered into 'Other data' table as skewed data. If a scale starts from a positive value (such as PANSS, which can have values from 30 to 210) the calculation described above in (b) should be modified to take the scale starting point into account. In these cases skewness is present if 2SD &gt; (S-Smin), where S is the mean score and Smin is the minimum score.</P>
+<P>For change data (i.e. mean change from baseline on a rating scale) it is impossible to tell whether data are non-normally distributed (skewed) or not, unless individual patient data are available. After consulting the ALLSTAT electronic statistics mailing list, we presented change data in RevMan graphs to summarise available information. In doing this, we assumed either that data were not skewed or that the analysis could cope with the unknown degree of skew.</P>
+<P>4.2.2 Final endpoint value versus change data<BR/>Where both final endpoint data and change data were available for the same outcome category, we only presented final endpoint data. We acknowledge that by doing this much of the published change data may be excluded, but argue that endpoint data are more clinically relevant. Also, if change data were to be presented along with endpoint data, it would be given undeserved equal prominence. We contacted authors' of studies reporting only change data for endpoint figures.</P>
+<P>
+<I>4.3 Rating scales</I>
+<BR/>A wide range of instruments are available to measure mental health outcomes. These instruments vary in quality and many are not valid, and are known to be subject to bias in trials of treatments for schizophrenia (<LINK REF="REF-Marshall-2000" TYPE="REFERENCE">Marshall 2000</LINK>). Therefore we only included continuous data from rating scales were if the measuring instrument had been described in a peer-reviewed journal.</P>
+<P>
+<I>4.4 Cluster trials</I>
+<BR/>Studies increasingly employ 'cluster randomisation' (such as randomisation by clinician or practice) but analysis and pooling of clustered data poses problems: First, authors often fail to account for intra class correlation in clustered studies, leading to a 'unit of analysis' error (<LINK REF="REF-Divine-1992" TYPE="REFERENCE">Divine 1992</LINK>), whereby P values are spuriously low, confidence intervals unduly narrow and statistical significance overestimated causing type I errors (<LINK REF="REF-Bland-1997" TYPE="REFERENCE">Bland 1997</LINK>; <LINK REF="REF-Gulliford-1999" TYPE="REFERENCE">Gulliford 1999</LINK>). Second, RevMan does not currently support meta-analytic pooling of clustered dichotomous data, even when these are correctly analysed by the authors of primary studies, since the 'design effect' (a statistical correction for clustering) cannot be incorporated.</P>
+<P>Where clustering was not accounted for in primary studies, we presented the data in a table, with a (*) symbol, to indicate the presence of a probable unit of analysis error. In subsequent versions of this review we will seek to contact first authors of studies, to seek intra-class correlation co-efficients of their clustered data and to adjust for these using accepted methods (<LINK REF="REF-Gulliford-1999" TYPE="REFERENCE">Gulliford 1999</LINK>). Where clustering has been incorporated into the analysis of primary studies, then we will also present these data in a table. No further secondary analysis (including meta-analytic pooling) will be attempted until there is consensus on the best methods of doing so, and until RevMan, or any other software, allows this. A Cochrane Statistical Methods Workgroup is currently addressing this issue. In the interim, individual studies will be very crudely classified as positive or negative, according to whether a statistically significant result (P value &lt; 0.05) was obtained for the outcome in question, using an analytic method that allowed for clustering.</P>
+<P>
+<B>5. Heterogeneity</B>
+<BR/>Firstly, we considered all the included studies within any comparison to judge for clinical heterogeneity. Then we visually inspected graphs to investigate the possibility of statistical heterogeneity. We supplemented this using, primarily, the I² statistic. This provides an estimate of the percentage of variability due to heterogeneity rather than chance alone. Where the I² estimate was greater than or equal to 75%, we interpreted this as indicating the presence of high levels of heterogeneity (<LINK REF="REF-Higgins-2003" TYPE="REFERENCE">Higgins 2003</LINK>). If inconsistency was high, we did not summate data, but presented the data separately and investigated the reasons for heterogeneity.</P>
+<P>
+<B>6. Assessing the presence of publication bias</B>
+<BR/>We entered data from all included trials into a funnel graph (trial effect versus trial size or 'precision') in an attempt to investigate the likelihood of overt publication bias. Where appropriate we undertook a formal test of funnel plot asymmetry (suggesting potential publication bias) according to the methods of <LINK REF="REF-Egger-1997" TYPE="REFERENCE">Egger 1997</LINK>. Significance levels of P value &lt; 0.1 were set a priori to accept the presence of asymmetry. Where only three to four studies reported an outcome or there was little variety in sample size (or precision estimate) between studies tests of asymmetry were not appropriate.</P>
+<P>
+<B>7. General</B>
+<BR/>Where possible, we entered data into RevMan in such a way that the area to the left of the 'line of no effect' indicates a 'favourable' outcome for the 'as required' group.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-03" MODIFIED="2015-08-11 17:04:39 +0100" MODIFIED_BY="[Empty name]" NO="3">
+<TITLE MODIFIED="2015-08-11 17:04:39 +0100" MODIFIED_BY="[Empty name]">Previous 'Plain language summary'</TITLE>
+<APPENDIX_BODY MODIFIED="2015-08-11 17:04:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Schizophrenia is a mental health problem whose symptoms can cause agitation, aggression and distress to those who have it. The drugs used to treat it are called antipsychotics and usually take several weeks to work. In the interim for people in hospital, medication can be given 'as required' (sometimes called 'pro re nata' or prn) and is often used to help them to feel less anxious and/or to reduce disturbed behaviour. It is usually written on the drug chart by the clinician so that the nurses can administer it at their discretion and in the doctor's absence. Although there are many advantages to this practice, there are also potential disadvantages in that staff on the ward might use medication for individuals who are upset, rather than spending time with them or considering other approaches.</P>
+<P>This review attempts to find evidence to find out whether the use of 'as required' medication is good clinical practice or not, when compared to the same drug given regularly, for people with a diagnosis of schizophrenia who are in hospital. However, the search strategy used only found trials that compared two different drugs both of which were used as required. No trials were found that compared 'as required' with regular medication.</P>
+<P>Although the practice of using medication as required is common, there is no good evidence whether this is the best way of helping people to be less agitated when comparing it to being given a regular dose of medication. A well designed, conducted and reported randomised trial would help to answer this question.</P>
+<P>('Plain language summary' prepared for this review by Janey Antoniou of RETHINK, UK <A HREF="http://www.rethink.org">www.rethink.org</A>).</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS>
+<EXTENSION ID="FLOW_1" NAME="FIGURE" REVMAN_VERSION="5.1.0" TYPE="FLOWCHART">
+<ALIAS ALIAS_ID="1">
+<FLOWCHARTBOX TEXT="&lt;p&gt;0 studies included in quantitative synthesis (meta-analysis)&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;0 studies included in qualitative synthesis&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;0 full-text articles assessed for eligibility&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;14 records screened&lt;/p&gt;" WIDTH="120">
+<FLOWCHARTBOX TEXT="&lt;p&gt;14 records after duplicates removed&lt;/p&gt;">
+<FLOWCHARTBOX TEXT="&lt;p&gt;12 records identified through database searching&lt;/p&gt;" WIDTH="120"/>
+<FLOWCHARTBOX TEXT="&lt;p&gt;3 additional records awaiting assessment&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;14 records excluded&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+<OUT TEXT="&lt;p&gt;0 full-text articles excluded, with reasons&lt;/p&gt;" WIDTH="120"/>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</FLOWCHARTBOX>
+</ALIAS>
+</EXTENSION>
+</EXTENSIONS>
+</COCHRANE_REVIEW>

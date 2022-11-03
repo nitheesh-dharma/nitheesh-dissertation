@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD006706" GROUP_ID="ORAL" ID="327306120714340760" MERGED_FROM="" MODIFIED="2008-11-10 11:29:08 +0100" MODIFIED_BY="Luisa Fernandez Mauleffinch" REVIEW_NO="0183" REVMAN_SUB_VERSION="5.0.16" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="2.0">
+<COVER_SHEET MODIFIED="2008-11-10 11:29:08 +0100" MODIFIED_BY="Luisa Fernandez Mauleffinch">
+<TITLE>Interventions for the prevention and treatment of herpes simplex virus in patients being treated for cancer</TITLE>
+<CONTACT>
+<PERSON ID="7514" MODIFIED="2008-11-06 10:35:37 +0000" MODIFIED_BY="[Empty name]" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Anne-Marie</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Glenny</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Lecturer in Evidence Based Oral Health Care</POSITION>
+<EMAIL_1>a.glenny@manchester.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Cochrane Oral Health Group</DEPARTMENT>
+<ORGANISATION>MANDEC, School of Dentistry, The University of Manchester</ORGANISATION>
+<ADDRESS_1>Higher Cambridge Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Manchester</CITY>
+<ZIP>M15 6FH</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 161 275 7811</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 161 275 7815</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2008-11-06 10:38:27 +0000" MODIFIED_BY="[Empty name]">
+<PERSON ID="7514" MODIFIED="2008-11-06 10:35:34 +0000" MODIFIED_BY="[Empty name]" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Anne-Marie</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Glenny</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Lecturer in Evidence Based Oral Health Care</POSITION>
+<EMAIL_1>a.glenny@manchester.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Cochrane Oral Health Group</DEPARTMENT>
+<ORGANISATION>MANDEC, School of Dentistry, The University of Manchester</ORGANISATION>
+<ADDRESS_1>Higher Cambridge Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Manchester</CITY>
+<ZIP>M15 6FH</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 161 275 7811</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 161 275 7815</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="11154" MODIFIED="2008-11-06 10:38:27 +0000" MODIFIED_BY="[Empty name]" ROLE="AUTHOR">
+<PREFIX>Mrs</PREFIX>
+<FIRST_NAME>Luisa</FIRST_NAME>
+<MIDDLE_INITIALS>M</MIDDLE_INITIALS>
+<LAST_NAME>Fernandez Mauleffinch</LAST_NAME>
+<SUFFIX/>
+<POSITION>Review Group Co-ordinator/Managing Editor</POSITION>
+<EMAIL_1>Luisa.Fernandez@manchester.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL>www.ohg.cochrane.org</URL>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Cochrane Oral Health Group</DEPARTMENT>
+<ORGANISATION>MANDEC, School of Dentistry, The University of Manchester</ORGANISATION>
+<ADDRESS_1>Higher Cambridge Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Manchester</CITY>
+<ZIP>M15 6FH</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 161 275 7819</PHONE_1>
+<PHONE_2>+44 161 275 7818</PHONE_2>
+<FAX_1>+44 161 275 7815</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="8E24013282E26AA20024C3AA23CEC3BE" MODIFIED="2008-11-06 10:35:43 +0000" MODIFIED_BY="[Empty name]" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Sue</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Pavitt</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director of the Comprehensive Health Research Division, Senior Lecturer in Clinical Trials Research</POSITION>
+<EMAIL_1>S.Pavitt@leeds.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Clinical Trials Research Unit</DEPARTMENT>
+<ORGANISATION>University of Leeds</ORGANISATION>
+<ADDRESS_1>Clinical Trials Research House</ADDRESS_1>
+<ADDRESS_2>71-75 Clarendon Road</ADDRESS_2>
+<CITY>Leeds</CITY>
+<ZIP>LS2 9NP</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 133 343 8609</PHONE_1>
+<PHONE_2/>
+<FAX_1>+44 113 343 1471</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="BE23BD9182E26AA2015807579530F97B" MODIFIED="2008-11-06 10:35:29 +0000" MODIFIED_BY="[Empty name]" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Tanya</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Walsh</LAST_NAME>
+<SUFFIX/>
+<POSITION>Lecturer in Dental Statistics</POSITION>
+<EMAIL_1>tanya.walsh@manchester.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>School of Dentistry</DEPARTMENT>
+<ORGANISATION>The University of Manchester</ORGANISATION>
+<ADDRESS_1>MANDEC, 3rd Floor, Dental Hospital</ADDRESS_1>
+<ADDRESS_2>Higher Cambridge Street</ADDRESS_2>
+<CITY>Manchester</CITY>
+<ZIP>M15 6FH</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 161 275 7817</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-11-10 11:29:08 +0100" MODIFIED_BY="Luisa Fernandez Mauleffinch">
+<UP_TO_DATE>
+<DATE DAY="10" MONTH="11" YEAR="2008"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="10" MONTH="11" YEAR="2008"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="20" MONTH="1" YEAR="2011"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="2007"/>
+<REVIEW_PUBLISHED ISSUE="" YEAR=""/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2007"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="1" MONTH="10" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2008-11-06 10:39:12 +0000" MODIFIED_BY="[Empty name]"/>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>School of Dentistry, The University of Manchester</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Cochrane Oral Health Group</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>National Institutes of Health, National Institute of Dental &amp; Craniofacial Research</NAME>
+<COUNTRY CODE="US">USA</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-11-10 09:41:51 +0000" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-11-06 11:57:21 +0000" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-11-06 11:54:43 +0000" MODIFIED_BY="[Empty name]">Interventions for the prevention and treatment of herpes simplex virus in patients being treated for cancer</TITLE>
+<SUMMARY_BODY MODIFIED="2008-11-06 11:57:21 +0000" MODIFIED_BY="[Empty name]">
+<P>Treatment of cancer is increasingly effective, but associated with oral complications such as mucositis, fungal infections, bacterial infections and viral infections such as the herpes simplex virus (HSV). Oral complications can impact severely on quality of life and may lead to life-threatening systemic infection. Infection with HSV can cause pain and blistering on or around the lips and within the mouth. Orofacial lesions are most commonly caused by HSV type 1. Aciclovir and other antiviral drugs such as valaciclovir, famiciclovir and penciclovir, have been widely used to treat HSV-related conditions. Recurrent HSV type 1 infection in patients who are immunocompromised due to treatment for cancer may be more aggressive, painful and slower to heal. These more extensive lesions often require much longer treatment and leave the patient more susceptible to developing drug-resistant strains of HSV. This review of 17 trials found evidence that aciclovir is efficacious in the prevention and treatment of HSV infections, in terms of preventing clinical/culture positive HSV infections, reduction in healing time, duration of viral shedding and relief of pain. There is no evidence that valaciclovir is more efficacious than aciclovir, or that a high dose of valaciclovir is better than a low dose of valaciclovir. There is evidence that for prevention, placebo is more efficacious than prostaglandin E. However, in all included trials, risk of bias is unclear. No trials reported on duration of hospital stay, amount of analgesia or patient quality of life.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-11-10 09:36:12 +0000" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2008-11-06 11:38:07 +0000" MODIFIED_BY="[Empty name]">
+<P>Treatment of cancer is increasingly effective, but associated with oral complications such as mucositis, fungal infections, bacterial infections and viral infections such as the herpes simplex virus (HSV).</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2008-11-06 11:38:29 +0000" MODIFIED_BY="[Empty name]">
+<P>To examine the effects of interventions for the prevention or treatment or both, of herpes simplex virus in patients receiving treatment for cancer.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2008-11-10 09:36:12 +0000" MODIFIED_BY="[Empty name]">
+<P>We searched the following databases: Cochrane Oral Health Group's Trials Register, CENTRAL, MEDLINE, EMBASE, CINAHL, CANCERLIT, SIGLE and LILACS. The reference list of all related review articles and articles considered to be potentially relevant were checked for further trials. Authors of identified trials and known specialists in the field were also contacted in an attempt to identify any additional published or unpublished trials. Date of most recent search: November 2008.
+<BR/>
+
+</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2008-11-06 11:40:29 +0000" MODIFIED_BY="[Empty name]">
+<P>All randomised controlled trials comparing interventions for the prevention or treatment or both of HSV infection in people being treated for cancer. Outcomes were presence/absence of clinical/culture positive HSV infections (prevention), time to complete healing of lesions (treatment), duration of viral shedding, recurrence of lesions, relief of pain, amount of analgesia, duration of hospital stay, cost of oral care, patient quality of life and adverse effects.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2008-11-06 11:41:46 +0000" MODIFIED_BY="[Empty name]">
+<P>Data were independently extracted, in duplicate, by two review authors. Authors were contacted for details of randomisation, blindness and sample demographics where necessary. Quality assessment was carried out on randomisation, blindness, withdrawals and selective reporting. The Cochrane Collaboration's statistical guidelines were followed and risk ratio (RR) values were calculated using random-effects models.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2008-11-06 11:53:26 +0000" MODIFIED_BY="[Empty name]">
+<P>Seventeen trials satisfied the inclusion criteria. Four trials evaluated preventative interventions for HSV lesions, three trials for viral isolates, and eight trials evaluated both outcome measures. A single trial reported on the cost of prophylaxis for HSV. Two trials evaluating treatment reported on time to healing, duration of viral shedding and relief of pain. No trials reported on duration of hospital stay, amount of analgesia or patient quality of life.</P>
+<P>In placebo controlled trials, aciclovir was found to be effective for the prevention of HSV infections as measured by oral lesions or viral isolates (RR = 0.16, 95% confidence interval (CI) 0.08 to 0.31 nine trials; RR = 0.17, 95% CI 0.07 to 0.37 nine trials). There is no evidence that valaciclovir is more efficacious than aciclovir, or that higher doses of valaciclovir are more effective than lower doses. Placebo was found to be more effective than prostaglandin E for prevention of viral isolates (RR = 1.87, 95% CI 1.12 to 3.14 one trial).</P>
+<P>Aciclovir was also found to be effective for the treatment of HSV in terms of duration of viral shedding (median of 2.5 days versus 17.0 days, P = 0.0002; 2 days compared to more than 9, P = 0.0008), time to first decrease in pain (median 3 days compared to 16, P = 0.04), complete resolution of pain (9.9 days compared to 13.6 days, P = 0.01; median of 6 days compared to 16, P = 0.05), 50% healing (median of 6 days compared to 11, P = 0.01) and total healing (median 13.9 days compared to 20.7 days, P = 0.08; median of 8 days compared to 21, P = 0.0).
+<BR/>
+
+</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>There is evidence that aciclovir is efficacious in the prevention and treatment of herpes simplex virus infections. There is no evidence that valaciclovir is more efficacious than aciclovir, or that a high dose of valaciclovir is better than a low dose of valaciclovir. There is evidence that as a prophylaxis, placebo is more efficacious than prostaglandin E. However, in all included trials, risk of bias is unclear. </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-11-10 09:38:07 +0000" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2008-11-06 12:01:19 +0000" MODIFIED_BY="[Empty name]">
+<P>Oral complications occurring during and following cancer treatment are common and can cause pain, difficulty in swallowing and phonation and poor nutrition. They clearly can impact severely on a patient's quality of life (<LINK REF="REF-Epstein-1999" TYPE="REFERENCE">Epstein 1999</LINK>) and may lead to life-threatening systemic infection. Oral complications include mucositis, fungal infections, bacterial infections and viral infections such as the herpes simplex virus (HSV).</P>
+<P>Infection with HSV can cause pain and blistering on or around the lips and within the mouth. Orofacial lesions are most commonly caused by HSV type 1, although not exclusively. It is estimated that around 80% of the population are asymptomatic carriers of the virus (<LINK REF="REF-DoH-2003" TYPE="REFERENCE">DoH 2003</LINK>). Following primary infection, which may be asymptomatic, the virus enters sensory nerve endings and travels up the axon and becomes latent in the trigeminal ganglion. The virus can lie dormant for many years until triggered by a stimulus such as sunlight, stress, common cold, febrile illnesses, menstruation or immunosuppression. The activation of the virus under conditions of immunosuppression can lead to severe oral and occasionally, disseminated infections. Recurrent HSV type 1 infection in immunocompromised patients may be more aggressive, painful and slower to heal than in the immunocompetent patient (<LINK REF="REF-Arduino-2006" TYPE="REFERENCE">Arduino 2006</LINK>). It is thought that approximately 50% to 90% of bone marrow transplant (BMT) patients who are seropositive for HSV will develop HSV infections, usually within the first 5 weeks after transplantation (<LINK REF="REF-NIH-1989" TYPE="REFERENCE">NIH 1989</LINK>). A large proportion of patients with acute leukaemia or those receiving high dose chemotherapy will reactivate HSV during periods of immunosuppression.</P>
+<P>Aciclovir, a specific nucleoside inhibitor of the herpes DNA polymerase, has been widely used to treat HSV-related conditions since its development in the 1970s (<LINK REF="REF-Arduino-2006" TYPE="REFERENCE">Arduino 2006</LINK>; <LINK REF="REF-Schmid_x002d_Wendtner-2004" TYPE="REFERENCE">Schmid-Wendtner 2004</LINK>). However, more recently, a greater understanding of the replication of HSV has led to the development of new antiviral compounds such as valaciclovir, famiciclovir and penciclovir. These newer drugs are gaining attention due to increased bioavailability and reduced frequency of dosing.</P>
+<P>There are also important considerations relating to resistance to antiherpetic drugs that need to be considered when treating immunocompromised patients. In patients who are immunocompetent, recurrent HSV lesions are usually small and short lived and resistance to antiherpetic drugs is rarely an issue (<LINK REF="REF-Chilukuri-2003" TYPE="REFERENCE">Chilukuri 2003</LINK>). However, the slower healing, more extensive lesions occurring in immunocompromised patients often require much longer treatment and leave the patient more susceptible to developing drug-resistant strains of HSV, requiring the development of regimens for both receptive and refractory HSV infections (<LINK REF="REF-Arduino-2006" TYPE="REFERENCE">Arduino 2006</LINK>; <LINK REF="REF-Chilukuri-2003" TYPE="REFERENCE">Chilukuri 2003</LINK>).</P>
+<P>This systematic review aims to examine the effects of different preventative and treatment strategies for managing HSV in patients who are immunocompromised due to treatment for cancer.<BR/>
+</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2008-11-06 12:01:41 +0000" MODIFIED_BY="[Empty name]">
+<P>To examine the effects of interventions for the prevention or treatment or both of herpes simplex virus (HSV) in patients receiving treatment for cancer.</P>
+<P>The following primary null hypotheses were tested for comparisons between groups receiving interventions to prevent or treat HSV lesions during cancer treatment.<BR/>(1) There is no difference in the proportion of patients developing culture positive HSV lesions during cancer treatment.<BR/>(2) There is no difference in the proportion of patients achieving complete healing of HSV lesions during cancer treatment.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-11-10 09:38:07 +0000" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2008-11-06 12:03:41 +0000" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES>
+<P>Randomised controlled trials were eligible for inclusion in this review.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Anyone receiving treatment for cancer. Trials were included if they recruited adults, children or both.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Any agent prescribed prophylactically or therapeutically for orofacial lesions caused by herpes simplex virus.<BR/>The comparator may be placebo, no treatment, or any other active intervention.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-11-06 12:03:41 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Primary outcome measures</HEADING>
+<UL>
+<LI>Prevention: Presence/absence of clinical/culture positive (with or without clinical symptoms) herpes simplex virus infections.</LI>
+<LI>Treatment: Time to complete healing of lesions.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Secondary outcome measures</HEADING>
+<UL>
+<LI>Duration of viral shedding.</LI>
+<LI>Recurrence of lesions.</LI>
+<LI>Time to relief of pain. </LI>
+<LI>Amount of analgesia.</LI>
+<LI>Days stay in hospital.</LI>
+<LI>Cost of oral care.</LI>
+<LI>Patient quality of life.</LI>
+<LI>Adverse effects.</LI>
+</UL>
+</SUBSECTION>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-11-10 09:38:07 +0000" MODIFIED_BY="[Empty name]">
+<P>The searches attempted to identify all relevant trials irrespective of language. We aimed to have all papers not published in English translated. Similarly, there was no restriction with regard to status of publication and both published and unpublished studies were sought.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Electronic searching</HEADING>
+<P>Databases searched were:<BR/>Cochrane Oral Health Group's Trials Register (10th November 2008)<BR/>Cochrane Central Register of Controlled Trials (CENTRAL) (<I>The Cochrane Library </I>2008, Issue 4)<BR/>MEDLINE (OVID) and MEDLINE Pre-indexed (from 1966 to November 2008)<BR/>EMBASE (OVID) (from 1974 to November 2008)<BR/>CINAHL (OVID) (to November 2008)<BR/>CANCERLIT via PubMed (to November 2008)<BR/>SIGLE (to November 2008)<BR/>LILACS (to November 2008).</P>
+<P>Sensitive search strategies were developed for each database using a combination of free text and controlled vocabulary. The strategy for MEDLINE (OVID) is presented in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>. This was run with the Cochrane Highly Sensitive Search Strategy (CHSSS) for identifying randomised trials in MEDLINE: sensitivity maximising version (2008 revision) as referenced in Chapter 5.4.11.1 and detailed in box 6.4.c of the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> 5.0.0 (updated February 2008) (<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>).</P>
+<P>The controlled trials database (<A HREF="http://www.controlled-trials.com">www.controlled-trials.com</A>) was searched to identify additional ongoing and completed trials.</P>
+<P>The electronic searching will be updated every 2 years.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Handsearching</HEADING>
+<P>Only handsearching carried out by The Cochrane Collaboration is included in the search (<I>see</I> master list at <A HREF="http://www.cochrane.org">www.cochrane.org</A>).</P>
+<P>The reference list of all related review articles and articles considered to be potentially relevant were checked for further trials. Authors of identified trials and known specialists in the field were also contacted in an attempt to identify any additional published or unpublished trials.</P>
+</SUBSECTION>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-11-07 11:55:35 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Study selection</HEADING>
+<P>The titles and abstracts (when available) of all reports identified through the electronic searches were scanned independently by two of the review's authors. For studies appearing to meet the inclusion criteria, or for which there were insufficient data in the title and abstract to make a clear decision, the full report was obtained. The full reports obtained from all the electronic and other methods of searching were assessed independently by the review authors to establish whether the studies met the inclusion criteria or not. Disagreements were resolved by discussion. All studies meeting the inclusion criteria were assessed for quality and data extracted. Studies rejected at this or subsequent stages were recorded in the <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK> table, and reasons for exclusion recorded.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Data extraction</HEADING>
+<P>Data were extracted by two of the review's authors independently using a specially designed data extraction form. The characteristics of the trial participants, interventions and outcomes for all included trials were recorded.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Quality assessment</HEADING>
+<P>The quality assessment of included trials was undertaken independently and in duplicate by two of the review's authors as part of the data extraction process in accordance with the <I>Cochrane Handbook</I> <I>for Systematic Reviews of Interventions</I> 5.0.0 (<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>). Included trials were assessed on the following criteria:<BR/>
+</P>
+<UL>
+<LI>generation of random sequence</LI>
+<LI>concealed allocation of treatment</LI>
+<LI>blinding of participants/caregivers</LI>
+<LI>blinding of outcome assessors</LI>
+<LI>extent of drop outs/exclusions (trials using an intention-to-treat analysis were noted)</LI>
+<LI>selective reporting.</LI>
+</UL>
+<P>A description of the quality items was tabulated for each included trial, along with a judgement of low, high or uncertain risk of bias. Criteria for risk of bias judgements regarding allocation concealment are given below as described in the <I>Cochrane Handbook for Systematic Reviews of Interventions</I> 5.0.0 (<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>).<BR/>
+</P>
+<UL>
+<LI>Low risk of bias - adequate concealment of the allocation (e.g. sequentially numbered, sealed, opaque envelopes or centralised or pharmacy-controlled randomisation).</LI>
+<LI>Uncertain risk of bias - uncertainty about whether the allocation was adequately concealed (e.g. where the method of concealment is not described or not described in sufficient detail to allow a definite judgement).</LI>
+<LI>High risk of bias - inadequate allocation concealment (e.g. open random number lists or quasi-randomisation such as alternate days, date of birth, or case record number).</LI>
+</UL>
+<P>A summary assessment of the risk of bias for the primary outcome (across domains) for both prevention and treatment within and across studies was undertaken <I>(</I>
+<LINK REF="REF-Higgins-2008" TYPE="REFERENCE">Higgins 2008</LINK>). Within a study, a summary assessment of low risk of bias was given when there was a low risk of bias for all key domains, unclear risk of bias when there was an unclear risk of bias for one or more key domains, and high risk of bias when there was a high risk of bias for one or more key domains. Across studies, a summary assessment was rated as low risk of bias when most information was from studies at low risk of bias, unclear risk of bias when most information was from studies at low or unclear risk of bias, and high risk of bias when the proportion of information was from studies at high risk of bias sufficient to affect the interpretation of the results. 
+<I>
+<BR/>
+</I>
+
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Missing/unclear data</HEADING>
+<P>Following the data extraction and quality assessment process, trial investigators were contacted in order to obtain further information of any unclear or missing data.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Data synthesis</HEADING>
+<P>For dichotomous outcomes, for example the presence/absence of culture positive HSV infections, the estimates of effect of an intervention were expressed as risk ratios together with 95% confidence intervals. For continuous outcomes the mean difference and 95% confidence intervals were calculated where means and standard deviations are presented or were calculable.</P>
+<P>Clinical heterogeneity was assessed by examining the participants and cancer types, interventions and outcome measures included in the trials. Meta-analyses were only carried out if trials were of similar comparisons reporting the same outcome measures. Estimates of effect were combined using a random-effects model. The significance of any discrepancies in the estimates of the treatment effects from the different trials was assessed by means of Cochran's test for heterogeneity and quantified by the I<SUP>2</SUP> statistic. It was planned to undertake a sensitivity analysis to examine the effect of individual quality items, publication status and language of publication on the overall estimates of effect. However there were insufficient data to do this.</P>
+<P>It was proposed a priori to undertake subgroup analyses for different cancer types (leukaemia, solid tumours and mixed), cancer treatment (for example, bone marrow transplantation) and age groups (children, adults and both). Sufficient data were available for subgroup analyses by age group only. A decision to undertake subgroup analyses according to mode of delivery of pharmacological intervention was made post hoc.<BR/>
+</P>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-11-06 16:28:05 +0000" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2008-11-06 12:49:33 +0000" MODIFIED_BY="[Empty name]">
+<P>
+<I>See</I> <LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK> table.<BR/>
+<I>See</I> <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK> table.</P>
+<P>Of the 40 trials eligible for inclusion, 23 were excluded for the following reasons:<BR/>
+</P>
+<UL>
+<LI>not randomised controlled trial (RCT) (10 studies)</LI>
+<LI>patients not being treated for cancer (7 studies)</LI>
+<LI>no data on herpes simplex virus (HSV) (2 studies)</LI>
+<LI>results given for immunocompromised patients, not available by underlying condition (3 studies)</LI>
+<LI>incomplete report (1 study).</LI>
+</UL>
+<SUBSECTION>
+<HEADING LEVEL="3">Characteristics of the participants</HEADING>
+<P>Seventeen trials were included. Nine trials recruited adults only (<LINK REF="STD-Anderson-1984" TYPE="STUDY">Anderson 1984</LINK>; <LINK REF="STD-Bergmann-1995" TYPE="STUDY">Bergmann 1995</LINK>; <LINK REF="STD-Bubley-1989" TYPE="STUDY">Bubley 1989</LINK>; <LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>; <LINK REF="STD-Lonnqvist-1993" TYPE="STUDY">Lonnqvist 1993</LINK>; <LINK REF="STD-Orlowski-2004" TYPE="STUDY">Orlowski 2004</LINK>; <LINK REF="STD-Saral-1983" TYPE="STUDY">Saral 1983</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>; <LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>), with the age ranging from 15 years to 84 years. The remainder recruited adults and children, age ranging from 2 years to 79 years.</P>
+<P>Only one of the included trials included patients with solid tumours (squamous cell carcinoma of the head and neck) (<LINK REF="STD-Bubley-1989" TYPE="STUDY">Bubley 1989</LINK>), the remainder recruiting patients with haematological malignancies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Characteristics of the interventions</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Prevention</HEADING>
+<P>Fifteen trials evaluated the effectiveness of interventions for the prevention of HSV infections. Three active interventions, aciclovir, valaciclovir and prostaglandin E were evaluated. Twelve trials compared an active intervention with placebo; three trials compared two or more active interventions, as shown below:<B>
+<BR/>
+</B>
+</P>
+<UL>
+<LI>aciclovir oral administration versus placebo (<LINK REF="STD-Anderson-1984" TYPE="STUDY">Anderson 1984</LINK>; <LINK REF="STD-Bergmann-1995" TYPE="STUDY">Bergmann 1995</LINK>; <LINK REF="STD-Bubley-1989" TYPE="STUDY">Bubley 1989</LINK>; <LINK REF="STD-Gluckman-1983" TYPE="STUDY">Gluckman 1983</LINK>; <LINK REF="STD-Lonnqvist-1993" TYPE="STUDY">Lonnqvist 1993</LINK>; <LINK REF="STD-Selby-1989" TYPE="STUDY">Selby 1989</LINK>; <LINK REF="STD-Shepp-1987" TYPE="STUDY">Shepp 1987</LINK>; <LINK REF="STD-Wade-1984" TYPE="STUDY">Wade 1984</LINK>);</LI>
+<LI>aciclovir intravenous administration versus placebo (<LINK REF="STD-Lundgren-1985" TYPE="STUDY">Lundgren 1985</LINK>; <LINK REF="STD-Saral-1983" TYPE="STUDY">Saral 1983</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>);</LI>
+<LI>prostaglandin E oral administration versus placebo (<LINK REF="STD-Labar-1993" TYPE="STUDY">Labar 1993</LINK>);</LI>
+<LI>valaciclovir oral administration at different doses (<LINK REF="STD-Orlowski-2004" TYPE="STUDY">Orlowski 2004</LINK>);</LI>
+<LI>aciclovir intravenous administration versus valaciclovir oral and intravenous administration (<LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>);</LI>
+<LI>oral administration of valaciclovir (high dose) versus valaciclovir (low dose) versus aciclovir (<LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>).</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Treatment</HEADING>
+<P>Two trials evaluated the effectiveness of interventions for the treatment of HSV infections. One trial evaluated aciclovir administered intravenously with placebo (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>), the other aciclovir administered orally with placebo (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>).</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Characteristics of outcome measures</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Prevention</HEADING>
+<P>Four trials evaluated prophylactic interventions for HSV lesions (<LINK REF="STD-Bubley-1989" TYPE="STUDY">Bubley 1989</LINK>; <LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>; <LINK REF="STD-Saral-1983" TYPE="STUDY">Saral 1983</LINK>; <LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>), three trials for viral isolates (<LINK REF="STD-Labar-1993" TYPE="STUDY">Labar 1993</LINK>; <LINK REF="STD-Lonnqvist-1993" TYPE="STUDY">Lonnqvist 1993</LINK>; <LINK REF="STD-Selby-1989" TYPE="STUDY">Selby 1989</LINK>), and eight trials evaluated both outcome measures (<LINK REF="STD-Anderson-1984" TYPE="STUDY">Anderson 1984</LINK>; <LINK REF="STD-Bergmann-1995" TYPE="STUDY">Bergmann 1995</LINK>; <LINK REF="STD-Gluckman-1983" TYPE="STUDY">Gluckman 1983</LINK>; <LINK REF="STD-Lundgren-1985" TYPE="STUDY">Lundgren 1985</LINK>; <LINK REF="STD-Orlowski-2004" TYPE="STUDY">Orlowski 2004</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>; <LINK REF="STD-Shepp-1987" TYPE="STUDY">Shepp 1987</LINK>; <LINK REF="STD-Wade-1984" TYPE="STUDY">Wade 1984</LINK> ). A single trial reported on the cost of prophylaxis for HSV (<LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Treatment</HEADING>
+<P>Trials evaluating treatment reported on time to healing, duration of viral shedding and relief of pain (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>; <LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>).</P>
+<P>For prevention or treatment, no trials reported on duration of hospital stay, amount of analgesia or patient quality of life.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Adverse effects</HEADING>
+<P>Potential adverse effects associated with an intervention were not specified a priori, and hence a broad focus to detect a variety of adverse effects for the documentation of adverse events was taken.</P>
+</SUBSECTION>
+</SUBSECTION>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-11-06 14:07:55 +0000" MODIFIED_BY="[Empty name]">
+<P>Details of the quality assessment for each study are given in the accompanying risk of bias tables and <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK> and <LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK>.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Prevention</HEADING>
+<P>There was low risk of bias with allocation sequence generation for eight of the 15 prophylaxis studies and uncertain risk of bias for the remainder. Allocation was adequately concealed and therefore a low risk of bias for three studies, and uncertain for the remainder. Knowledge of the allocated interventions was adequately prevented and hence a low risk of bias in eight studies and uncertain in five studies. Two studies were carried out in a 'non-blinded' fashion and a high risk of bias.</P>
+<P>For the primary outcome 'presence or absence of clinical/culture positive HSV infections, a within study summary assessment of uncertain risk of bias was given to 11 studies, low risk of bias to two studies, and high risk of bias for the two 'non-blinded' studies. Across studies, as most information was from studies at low or unclear risk of bias, a summary assessment was rated as unclear risk of bias.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Treatment</HEADING>
+<P>The two studies for the treatment of HSV were at low risk of bias with allocation sequence generation, uncertain risk of bias for allocation concealment and a low risk of bias with adequate blinding. For the primary outcome 'time to healing of HSV infections', a within study summary assessment of uncertain risk of bias was given as allocation concealment was unclear. Across the two studies, as most information was from studies at low or unclear risk of bias, a summary assessment was rated as unclear risk of bias.</P>
+<P>Letters were sent to authors of the more recent trials where further clarification was needed. No replies were received.<BR/>
+</P>
+</SUBSECTION>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-11-06 16:28:05 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Prevention</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Prophylactic aciclovir versus placebo (Comparison 1)</HEADING>
+<P>Eleven trials evaluated the effectiveness of aciclovir versus placebo for the prevention of HSV infections, defined by oral lesions, viral isolates or both, in patients being treated for cancer. None of the trials reported on amount of analgesia, cost of oral care or patient quality of life.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Herpes simplex virus lesions (Comparison 1, Outcomes 1.1 and 1.2)</HEADING>
+<P>Nine trials with data from 398 participants assessed the presence of HSV oral lesions. Six trials evaluated oral aciclovir (<LINK REF="STD-Anderson-1984" TYPE="STUDY">Anderson 1984</LINK>; <LINK REF="STD-Bergmann-1995" TYPE="STUDY">Bergmann 1995</LINK>; <LINK REF="STD-Bubley-1989" TYPE="STUDY">Bubley 1989</LINK>; <LINK REF="STD-Gluckman-1983" TYPE="STUDY">Gluckman 1983</LINK>; <LINK REF="STD-Shepp-1987" TYPE="STUDY">Shepp 1987</LINK>; <LINK REF="STD-Wade-1984" TYPE="STUDY">Wade 1984</LINK> ) and three trials evaluated intravenous administration of aciclovir (<LINK REF="STD-Lundgren-1985" TYPE="STUDY">Lundgren 1985</LINK>; <LINK REF="STD-Saral-1983" TYPE="STUDY">Saral 1983</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>). A statistically significant difference in favour of aciclovir was seen when all nine trials were pooled (risk ratio (RR) 0.16; 95% confidence interval (CI) 0.08 to 0.31). There was no evidence of statistical heterogeneity amongst the trials (P = 0.29, I<SUP>2</SUP> = 17.2%).</P>
+<SUBSECTION>
+<HEADING LEVEL="6">Subgroup analyses by mode of administration (Comparison 1, Outcome 1.1, Subgroups 1.1.1 and 1.1.2)</HEADING>
+<P>A statistically significant difference in favour of aciclovir was also seen whether administered orally (RR 0.11; 95% CI 0.05 to 0.24) or intravenously (RR 0.24; 95% CI 0.07 to 0.86).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">Subgroup analyses by age group (Comparison 1, Outcome 1.2, Subgroups 1.2.1 and 1.2.2)</HEADING>
+<P>Five trials evaluated adults only (<LINK REF="STD-Anderson-1984" TYPE="STUDY">Anderson 1984</LINK>; <LINK REF="STD-Bergmann-1995" TYPE="STUDY">Bergmann 1995</LINK>; <LINK REF="STD-Bubley-1989" TYPE="STUDY">Bubley 1989</LINK>; <LINK REF="STD-Saral-1983" TYPE="STUDY">Saral 1983</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>), four trials evaluated both adults and children (<LINK REF="STD-Gluckman-1983" TYPE="STUDY">Gluckman 1983</LINK>; <LINK REF="STD-Lundgren-1985" TYPE="STUDY">Lundgren 1985</LINK>; <LINK REF="STD-Shepp-1987" TYPE="STUDY">Shepp 1987</LINK>; <LINK REF="STD-Wade-1984" TYPE="STUDY">Wade 1984</LINK>). A statistically significant difference in favour of aciclovir was seen whether administered to adults only (RR 0.16; 95% CI 0.06 to 0.45) or to adults and children (RR 0.14; 95% CI 0.06 to 0.33).</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Viral isolates (Comparison 1, Outcomes 1.3 and 1.4)</HEADING>
+<P>Nine trials with data from 511 participants presented data on the number of participants from whom HSV isolates were identified (either with or without clinical symptoms). Seven trials evaluated oral aciclovir (<LINK REF="STD-Anderson-1984" TYPE="STUDY">Anderson 1984</LINK>; <LINK REF="STD-Bergmann-1995" TYPE="STUDY">Bergmann 1995</LINK>; <LINK REF="STD-Gluckman-1983" TYPE="STUDY">Gluckman 1983</LINK>; <LINK REF="STD-Lonnqvist-1993" TYPE="STUDY">Lonnqvist 1993</LINK>; <LINK REF="STD-Selby-1989" TYPE="STUDY">Selby 1989</LINK>; <LINK REF="STD-Shepp-1987" TYPE="STUDY">Shepp 1987</LINK>; <LINK REF="STD-Wade-1984" TYPE="STUDY">Wade 1984</LINK>) and two trials evaluated intravenous administration of aciclovir (<LINK REF="STD-Lundgren-1985" TYPE="STUDY">Lundgren 1985</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>). A statistically significant difference in favour of aciclovir was seen when all nine trials were pooled (RR 0.17; 95% CI 0.07 to 0.37). However, statistical heterogeneity was noted amongst the nine pooled trials (P = 0.006, I<SUP>2</SUP> = 62.7%).</P>
+<SUBSECTION>
+<HEADING LEVEL="6">Subgroup analyses by mode of administration (Comparison 1, Outcome 1.3, Subgroups 1.3.1 and 1.3.2)</HEADING>
+<P>A statistically significant difference in favour of aciclovir was also seen when aciclovir was administered orally (RR 0.13; 95% CI 0.06 to 0.30). However, no statistically significant difference was identified when aciclovir was administered intravenously (RR 0.46; 95% CI 0.15 to 1.43).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">Subgroup analyses by age group (Comparison 1, Outcome 1.4, Subgroups 1.4.1 and 1.4.2)</HEADING>
+<P>Four trials evaluated adults only (<LINK REF="STD-Anderson-1984" TYPE="STUDY">Anderson 1984</LINK>; <LINK REF="STD-Bergmann-1995" TYPE="STUDY">Bergmann 1995</LINK>; <LINK REF="STD-Lonnqvist-1993" TYPE="STUDY">Lonnqvist 1993</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>), five trials evaluated both child and adult participants (<LINK REF="STD-Gluckman-1983" TYPE="STUDY">Gluckman 1983</LINK>; <LINK REF="STD-Lundgren-1985" TYPE="STUDY">Lundgren 1985</LINK>; <LINK REF="STD-Selby-1989" TYPE="STUDY">Selby 1989</LINK>; <LINK REF="STD-Shepp-1987" TYPE="STUDY">Shepp 1987</LINK>; <LINK REF="STD-Wade-1984" TYPE="STUDY">Wade 1984</LINK>). A statistically significant difference in favour of aciclovir was seen whether administered to adults only (RR 0.12; 95% CI 0.02 to 0.91) or to adults and children (RR 0.22; 95% CI 0.11 to 0.44). Considerable heterogeneity was present in the adult only trials (P = 0.0006, I<SUP>2</SUP> = 82.6%).<BR/>
+</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse effects</HEADING>
+<P>Adverse effects were reported in nine trials (<LINK REF="STD-Bubley-1989" TYPE="STUDY">Bubley 1989</LINK>; <LINK REF="STD-Gluckman-1983" TYPE="STUDY">Gluckman 1983</LINK>; <LINK REF="STD-Lonnqvist-1993" TYPE="STUDY">Lonnqvist 1993</LINK>; <LINK REF="STD-Lundgren-1985" TYPE="STUDY">Lundgren 1985</LINK>; <LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>; <LINK REF="STD-Saral-1983" TYPE="STUDY">Saral 1983</LINK>; <LINK REF="STD-Selby-1989" TYPE="STUDY">Selby 1989</LINK>; <LINK REF="STD-Shepp-1985a" TYPE="STUDY">Shepp 1985a</LINK>; <LINK REF="STD-Shepp-1987" TYPE="STUDY">Shepp 1987</LINK>). Diagnosis was by evaluation of clinical signs and symptoms such as rash and neurological impairment, and by laboratory tests to include possible toxicity indicated by renal and hepatic function. None of the trials reported a statistically significant difference in the presence or number of adverse events according to active agent.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Prophylactic aciclovir versus valaciclovir (Comparison 2)</HEADING>
+<P>Two trials with data from 181 patients evaluated the effectiveness of aciclovir versus valaciclovir<B> </B>(<LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>; <LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>). One trial compared intravenous aciclovir (250 mg/m<SUP>2</SUP> twice daily) with oral valaciclovir (1 g twice daily) (n = 30) (<LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>). The second trial compared oral aciclovir (400 mg 3 times a day) with two different doses of oral valaciclovir (<I>see</I> also Comparison 3). For the purpose of this analysis (aciclovir versus valaciclovir), the two doses of valaciclovir have been combined (<LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>).<BR/>
+</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Herpes simplex virus lesions (Comparison 2, Outcome 2.1)</HEADING>
+<P>No statistically significant difference was seen in terms of presence of clinical lesions for either trial comparing aciclovir (orally or intravenously) with oral valaciclovir (<LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>; <LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>). In a trial of oral prophylaxis there was no statistically significant difference (RR 0.78; 95% CI 0.26 to 2.38), and for the intravenous prophylaxis, no lesions were observed in either group.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Cost</HEADING>
+<P>Only one trial reported on the cost of prophylaxis for HSV (<LINK REF="STD-Liesveld-2002" TYPE="STUDY">Liesveld 2002</LINK>). The reported mean pharmacy costs for those randomised to receive aciclovir were $1080 compared to $320 for those initially randomised to valaciclovir.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Prophylactic valaciclovir (different doses) (Comparison 3)</HEADING>
+<P>One trial of HSV seropositive patients (n = 81) with acute leukaemia evaluated the effectiveness of two different doses of valaciclovir (500 mg 3 times a day versus 1000 mg 3 times a day) for the prevention of reactivation of the virus (<LINK REF="STD-Orlowski-2004" TYPE="STUDY">Orlowski 2004</LINK>). Data on the presence of clinical HSV and culture positive infections were reported. A second trial compared 250 mg twice daily with 500 mg twice daily in patients treated with chemotherapy or stem-cell transplantation (n = 100) (<LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>). The trial reported on the incidence of clinical HSV lesions and adverse events.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Herpes simplex virus lesions (Comparison 3, Outcome 3.1)</HEADING>
+<P>In the trial comparing 500 mg versus 1000 mg of valaciclovir, only one suspected HSV lesion was identified in a patient receiving 500 mg of valaciclovir, however, the lesion proved to have a negative culture (<LINK REF="STD-Orlowski-2004" TYPE="STUDY">Orlowski 2004</LINK>). The trial by <LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK> also showed no statistically significant differences between different doses of valaciclovir (RR 0.23; 95% CI 0.05 to 1.03).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Viral isolates (Comparison 3, Outcome 3.2)</HEADING>
+<P>As part of routine surveillance or suspected infection, a total of 182 throat swabs were performed for patients receiving 500 mg of valaciclovir (n = 40) and 198 swabs for those receiving 1000 mg of the drug (n = 41). All of the cultures proved negative (<LINK REF="STD-Orlowski-2004" TYPE="STUDY">Orlowski 2004</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse effects</HEADING>
+<P>One study reported adverse effects for patients (<LINK REF="STD-Warkentin-2002" TYPE="STUDY">Warkentin 2002</LINK>), with evaluation of signs and symptoms as well as laboratory tests. Twenty patients allocated to receive high dose valaciclovir reported adverse effects (42%). For the low dose group this number was 27 (52%). Adverse effects were categorised as pertaining to the central nervous system, gastrointestinal system (most common), genito-urinary system or dermatological. No withdrawals due to adverse effects were reported in either group.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Prophylactic prostaglandin E versus placebo (Comparison 4)</HEADING>
+<P>One trial of patients (n = 60) with leukaemia evaluated the effectiveness of prostaglandin E (PGE) versus placebo (<LINK REF="STD-Labar-1993" TYPE="STUDY">Labar 1993</LINK>).
+<BR/>
+
+</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Viral isolates (Comparison 4, Outcome 4.1)</HEADING>
+<P>A statistically significant difference in favour of placebo was found (RR 1.87; 95% CI 1.12 to 3.14).</P>
+</SUBSECTION>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Treatment</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Aciclovir versus placebo</HEADING>
+<P>Two studies reported on the effectiveness of aciclovir versus placebo for the treatment of oral HSV (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>; <LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>). No data were available for recurrence of lesions, amount of analgesia, days of stay in hospital, cost of oral care or patient quality of life. One study included 21 bone marrow transplant recipients (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>), the other was a multicentre study of immunocompromised patients (n = 97), providing data for 46 patients undergoing bone marrow transplantation (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Time to healing</HEADING>
+<P>Time to 50% healing was reported in one study with a median of 6 days for patients receiving aciclovir compared to 11 days for patients receiving placebo (P = 0.01) (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>). Median time to total healing was reported in both studies, and was shorter for patients receiving oral or intravenous aciclovir than patients receiving placebo (median of 8 days compared to 21 days, P = 0.01 (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>); 13.9 days compared to 20.7 days, P = 0.08 (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>)). </P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Duration of viral shedding</HEADING>
+<P>There was a statistically significant difference in median duration of virus shedding in favour of intravenous aciclovir (2.5 days compared to 17.0 days, P = 0.0002) (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>) and oral aciclovir (2 days compared to more than 9, P = 0.0008) (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>) when compared to placebo .</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Relief of pain</HEADING>
+<P>Time to first decrease in pain was reported in one study (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>), with a significantly shorter time to first decrease in pain in favour of oral aciclovir (median 3 days compared to 16, P = 0.04). Time to complete resolution of pain was shorter with oral aciclovir than placebo (median of 6 days compared to 16, P = 0.05) (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>) and with intravenous aciclovir than placebo (9.9 days versus 13.5 days, P = 0.01) (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>).<BR/>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse effects</HEADING>
+<P>Adverse effects were assessed in both studies. For intravenous aciclovir administration, adverse effects were categorised into injection site toxicity and 'other' (<LINK REF="STD-Meyers-1982" TYPE="STUDY">Meyers 1982</LINK>). The most commonly reported adverse effect was a reaction at the injection site (8 (16%) aciclovir, 3 (7%) placebo for all patients, n = 97). There was no difference in the proportion of patients experiencing injection site reactions or other adverse side effects according to intervention. For oral aciclovir administration, no significant side effects attributable to aciclovir were reported (<LINK REF="STD-Shepp-1985" TYPE="STUDY">Shepp 1985</LINK>).</P>
+</SUBSECTION>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-11-06 16:35:34 +0000" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="2">Summary of main results</HEADING>
+<P>The search resulted in only three interventions: aciclovir, valaciclovir and prostaglandin E, for the prevention or treatment of herpes simplex virus (HSV). In the placebo controlled trials, aciclovir was found to be effective for prevention and treatment. In comparisons of active interventions, there is no evidence of a significant difference in efficacy between valaciclovir and aciclovir, or higher doses of valaciclovir and lower doses. Where adverse effects were reported for the aciclovir or valaciclovir interventions, these were evenly distributed amongst the placebo and active intervention groups. In the single study assessing the effectiveness of prostaglandin E for prevention, this intervention was less effective than placebo. No adverse effects were reported.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Overall completeness and applicability of evidence</HEADING>
+<P>There were sufficient data to compare the efficacy of placebo-controlled aciclovir studies by mode of administration and patient age group. There is evidence of a significant difference in efficacy between aciclovir administered orally or intravenously and placebo for prevention measured by oral lesions. Whilst there is evidence of a significant difference in efficacy between aciclovir administered orally and placebo for prevention measured by viral isolates, there is no evidence of a significant difference in efficacy for aciclovir administered intravenously. The benefit of aciclovir was present for studies comprising children and adults as well as adults alone. A potential limitation to the review is that all but one of the studies comprised patients with cancer of the blood, and there were insufficient data to carry out analyses with respect to cancer treatment. Reporting of the primary outcomes identified in this review of clinical/viral isolates and time to healing was good, but reporting of the secondary outcomes was variable from trial to trial. Furthermore there were little patient-reported outcomes or economic data.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Quality of evidence</HEADING>
+<P>The findings should be interpreted with caution with respect to the research objective. Although 17 trials were included, the methodological assessment indicated that the overall risk of bias was unclear in all studies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Potential bias</HEADING>
+<P>Not all relevant data could be obtained and some potentially relevant trials were excluded. Presentation of results for 'immunocompromised' patients, rather than by clinical condition meant that some potentially relevant trials could not be included in the review. Attempts to obtain further information for these trials from the authors were not successful. Information to enable a methodological assessment was also lacking for many of the trials, and can perhaps be attributed to the date of publication. The CONSORT statement (<A HREF="http://www.consort-statement.org/">www.consort-statement.org/</A>) was first introduced in 1996, and of 17 studies included in this review 14 pre-date the introduction of the statement.</P>
+<P>Whilst there were too few trials to formally determine whether publication bias was present, published trials showing no evidence of the effect of aciclovir versus placebo were included.</P>
+</SUBSECTION>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-11-07 11:57:13 +0000" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2008-11-06 16:37:21 +0000" MODIFIED_BY="[Empty name]">
+<P>The risk of bias in the studies included in this review is uncertain. For the primary outcome of the prophylaxis studies of presence or absence of clinical/culture positive herpes simplex virus (HSV) infections, a within study summary assessment of uncertain risk of bias was given to 11 studies, low risk of bias to two studies, and high risk of bias for the two 'non-blinded' studies. Across studies, a summary assessment was rated as unclear risk of bias. For the primary outcome of the treatment studies of time to healing of HSV infections, a within study summary assessment of uncertain risk of bias was given. Across the two studies, as most information was from studies at low or unclear risk of bias, a summary assessment was rated as unclear risk of bias.</P>
+<P>There is evidence that aciclovir may be beneficial for the prevention and treatment of herpes simplex virus infections. There is weak evidence that valaciclovir is as effective as aciclovir though this is based on only two trials. As a prophylaxis, placebo is more effective than prostaglandin E (one trial).</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2008-11-07 11:57:13 +0000" MODIFIED_BY="[Empty name]">
+<P>As the risk of bias cannot be ascertained for the majority of studies included in this review, principally through lack of information to enable a judgement to be made, there is a need for more, well defined trials assessing the effectiveness of aciclovir and valaciclovir for the prevention and treatment of HSV infections in patients receiving treatment for cancer. Further research into prevention and treatment with patients of other cancer types and cancer treatments would enhance the evidence base. Better reporting of studies, particularly the stratification of results of 'immunocompromised' patients into their underlying condition and treatment, and the additional inclusion of non-clinical outcome measures such as patient reported outcomes and economic evaluations are also warranted.
+<BR/>
+
+</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2008-11-06 16:41:25 +0000" MODIFIED_BY="[Empty name]">
+<P>The review authors would like to thank the peer reviewers and referees for their helpful comments throughout the editorial process.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2008-11-10 09:41:51 +0000" MODIFIED_BY="[Empty name]">
+<P>Anne-Marie Glenny (AMG) was responsible for the conception of the review.<BR/>The first draft of the protocol was written by AMG and Tanya Walsh (TW), with comments from Sue Pavitt (SP), and Luisa Fernandez Mauleffinch (LFM).<BR/>AMG was responsible for designing the search strategies (with input from Sylvia Bickley and Anne Littlewood, Trials Search Co-ordinator, Cochrane Oral Health Group) and was responsible for co-ordinating all subsequent stages in the review process.<BR/>AMG, SP and TW undertook screening of search results, data extraction, and quality assessment.<BR/>AMG and TW entered data into RevMan and were responsible for the writing up of the review, with comments from SP and LFM.<BR/>TW provided statistical input where required.<BR/>LFM provided a consumer perspective.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-11-10 10:06:58 +0000" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2008-11-10 10:06:58 +0000" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2008-11-10 10:06:58 +0000" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Anderson-1984" MODIFIED="2008-11-06 17:40:20 +0000" MODIFIED_BY="[Empty name]" NAME="Anderson 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-11-06 17:40:20 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Anderson H, Scarffe JH, Sutton RN, Hickmott E, Brigden D, Burke C. Oral acyclovir prophylaxis against herpes simplex virus in non-Hodgkin lymphoma and acute lymphoblastic leukaemia patients receiving remission induction chemotherapy. A randomised double blind, placebo controlled trial. British Journal of Cancer. 1984 Jul;50(1):45-9.&lt;/p&gt;" NOTES_MODIFIED="2008-11-06 17:40:20 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Anderson H, Scarffe JH, Sutton RN, Hickmott E, Brigden D, Burke C</AU>
+<TI>Oral acyclovir prophylaxis against herpes simplex virus in non-Hodgkin lymphoma and acute lymphoblastic leukaemia patients receiving remission induction chemotherapy. A randomised double blind, placebo controlled trial</TI>
+<SO>British Journal of Cancer</SO>
+<YR>1984</YR>
+<VL>50</VL>
+<NO>1</NO>
+<PG>45-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bergmann-1995" NAME="Bergmann 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;Bergmann OJ, Ellermann-Eriksen S, Mogensen SC, Ellegaard J. Acyclovir given as prophylaxis against oral ulcers in acute myeloid leukaemia: randomised, double blind, placebo controlled trial. BMJ. 1995 May 6;310(6988):1169-72.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Bergmann OJ, Ellermann-Eriksen S, Mogensen SC, Ellegaard J</AU>
+<TI>Acyclovir given as prophylaxis against oral ulcers in acute myeloid leukaemia: randomised, double blind, placebo controlled trial</TI>
+<SO>BMJ</SO>
+<YR>1995</YR>
+<VL>310</VL>
+<NO>6988</NO>
+<PG>1169-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bergmann OJ, Mogensen SC, Ellermann-Eriksen S, Ellegaard J</AU>
+<TI>Acyclovir prophylaxis and fever during remission-induction therapy of patients with acute myeloid leukemia: a randomized, double-blind, placebo-controlled trial</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>1997</YR>
+<VL>15</VL>
+<NO>6</NO>
+<PG>2269-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bubley-1989" MODIFIED="2008-11-06 17:41:37 +0000" MODIFIED_BY="[Empty name]" NAME="Bubley 1989" YEAR="1989">
+<REFERENCE MODIFIED="2008-11-06 17:41:37 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Bubley GJ, Chapman B, Chapman SK, Crumpacker CS, Schnipper LE. Effect of acyclovir on radiation- and chemotherapy-induced mouth lesions. Antimicrobial Agents &amp;amp; Chemotherapy. 1989 Jun;33(6):862-5.&lt;/p&gt;" NOTES_MODIFIED="2008-11-06 17:41:37 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bubley GJ, Chapman B, Chapman SK, Crumpacker CS, Schnipper LE</AU>
+<TI>Effect of acyclovir on radiation- and chemotherapy-induced mouth lesions</TI>
+<SO>Antimicrobial Agents and Chemotherapy</SO>
+<YR>1989</YR>
+<VL>33</VL>
+<NO>6</NO>
+<PG>862-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gluckman-1983" MODIFIED="2008-11-10 10:06:58 +0000" MODIFIED_BY="[Empty name]" NAME="Gluckman 1983" YEAR="1983">
+<REFERENCE MODIFIED="2008-11-10 10:06:58 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Gluckman E, Lotsberg J, Devergie A, Zhao XM, Melo R, Gomez-Morales M, et al. Oral acyclovir prophylactic treatment of herpes simplex infection after bone marrow transplantation. Journal of Antimicrobial Chemotherapy. 1983 Sep;12 Suppl B:161-7.&lt;/p&gt;" NOTES_MODIFIED="2008-11-10 10:06:58 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Gluckman E, Lotsberg J, Devergie A, Zhao XM, Melo R, Gomez-Morales M et al</AU>
+<TI>Oral acyclovir prophylactic treatment of herpes simplex infection after bone marrow transplantation</TI>
+<SO>The Journal of Antimicrobial Chemotherapy</SO>
+<YR>1983</YR>
+<VL>12 Suppl B</VL>
+<PG>161-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2008-11-10 10:06:55 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;. Lancet. 1983 Sep 24;2(8352):706-8.&lt;/p&gt;" NOTES_MODIFIED="2008-11-10 10:06:55 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gluckman E, Lotsberg J, Devergie A, Zhao XM, Melo R, Gomez-Morales M et al</AU>
+<TI>Prophylaxis of herpes infections after bone-marrow transplantation by oral acyclovir</TI>
+<SO>Lancet</SO>
+<YR>1983</YR>
+<VL>2</VL>
+<NO>8352</NO>
+<PG>706-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Labar-1993" MODIFIED="2008-11-07 10:10:29 +0000" MODIFIED_BY="[Empty name]" NAME="Labar 1993" YEAR="1993">
+<REFERENCE MODIFIED="2008-11-07 10:10:29 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Labar B, Mrsi M, Pavleti Z, Bogdani V, Nemet D, Aurer I, et al. Prostaglandin E2 for prophylaxis of oral mucositis following BMT. Bone Marrow Transplantation. 1993 May;11(5):379-82.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:10:29 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Labar B, Mrsit M, Pavletíc Z, Bogdaníc V, Nemet D, Aurer I et al</AU>
+<TI>Prostaglandin E2 for prophylaxis of oral mucositis following BMT</TI>
+<SO>Bone Marrow Transplantation</SO>
+<YR>1993</YR>
+<VL>11</VL>
+<NO>5</NO>
+<PG>379-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Liesveld-2002" MODIFIED="2008-11-07 10:11:02 +0000" MODIFIED_BY="[Empty name]" NAME="Liesveld 2002" YEAR="2002">
+<REFERENCE MODIFIED="2008-11-07 10:11:02 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Liesveld JL, Abboud CN, Ifthikharuddin JJ, Lancet JE, Wedow LA, Oliva J et al</AU>
+<TI>Oral valacyclovir versus intravenous acyclovir in preventing herpes simplex virus infections in autologous stem cell transplant recipients</TI>
+<SO>Biology of Blood and Marrow Transplantation</SO>
+<YR>2002</YR>
+<VL>8</VL>
+<NO>12</NO>
+<PG>662-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lonnqvist-1993" MODIFIED="2008-11-07 10:11:25 +0000" MODIFIED_BY="[Empty name]" NAME="Lonnqvist 1993" YEAR="1993">
+<REFERENCE MODIFIED="2008-11-07 10:11:25 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lonnqvist B, Palmblad J, Ljungman P, Grimfors G, Jarnmark M, Lerner R et al</AU>
+<TI>Oral acyclovir as prophylaxis for bacterial infections during induction therapy for acute leukaemia in adults. The Leukemia Group of Middle Sweden</TI>
+<SO>Supportive Care in Cancer</SO>
+<YR>1993</YR>
+<VL>1</VL>
+<NO>3</NO>
+<PG>139-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lundgren-1985" MODIFIED="2008-11-07 10:12:18 +0000" MODIFIED_BY="[Empty name]" NAME="Lundgren 1985" YEAR="1985">
+<REFERENCE MODIFIED="2008-11-07 10:11:46 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Ljungman P, Wilczek H, Gahrton G, Gustavsson A, Lundgren G, Lonnqvist B, et al. Long-term acyclovir prophylaxis in bone marrow transplant recipients and lymphocyte proliferation responses to herpes virus antigens in vitro. Bone Marrow Transplantation. 1986 Dec;1(2):185-92.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:11:46 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ljungman P, Wilczek H, Gahrton G, Gustavsson A, Lundgren G, Lonnqvist B et al</AU>
+<TI>Long-term acyclovir prophylaxis in bone marrow transplant recipients and lymphocyte proliferation responses to herpes virus antigens in vitro</TI>
+<SO>Bone Marrow Transplantation</SO>
+<YR>1986</YR>
+<VL>1</VL>
+<NO>2</NO>
+<PG>185-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2008-11-07 10:12:18 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Lundgren G, Wilczek H, Lonnqvist B, Lindholm A, Wahren B, Ringden O. Acyclovir prophylaxis in bone marrow transplant recipients. Scandinavian Journal of Infectious Diseases 1985;47:137-44.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:12:18 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Lundgren G, Wilczek H, Lonnqvist B, Lindholm A, Wahren B, Ringden O</AU>
+<TI>Acyclovir prophylaxis in bone marrow transplant recipients</TI>
+<SO>Scandinavian Journal of Infectious Diseases Supplementum</SO>
+<YR>1985</YR>
+<VL>47</VL>
+<PG>137-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Meyers-1982" MODIFIED="2008-11-07 10:13:05 +0000" MODIFIED_BY="[Empty name]" NAME="Meyers 1982" YEAR="1982">
+<REFERENCE MODIFIED="2008-11-07 10:12:45 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Meyers JD, Wade JC, Mitchell CD, Saral R, Lietman PS, Durack DT, et al. Multicenter collaborative trial of intravenous acyclovir for treatment of mucocutaneous herpes simplex virus infection in the immunocompromised host. Am J Med. 1982 Jul 20;73(1A):229-35.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:12:45 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Meyers JD, Wade JC, Mitchell CD, Saral R, Lietman PS, Durack DT et al</AU>
+<TI>Multicenter collaborative trial of intravenous acyclovir for treatment of mucocutaneous herpes simplex virus infection in the immunocompromised host</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>1982</YR>
+<VL>73</VL>
+<NO>1A</NO>
+<PG>229-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2008-11-07 10:12:53 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Mitchell CD, Bean B, Gentry SR, Groth KE, Boen JR, Balfour HH, Jr. Acyclovir therapy for mucocutaneous herpes simplex infections in immunocompromised patients. Lancet. 1981 Jun 27;1(8235):1389-92.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:12:53 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mitchell CD, Bean B, Gentry SR, Groth KE, Boen JR, Balfour HH Jr</AU>
+<TI>Acyclovir therapy for mucocutaneous herpes simplex infections in immunocompromised patients</TI>
+<SO>Lancet</SO>
+<YR>1981</YR>
+<VL>1</VL>
+<NO>8235</NO>
+<PG>1389-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2008-11-07 10:13:05 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Saral R, Burns WH, Laskin OL, Santos GW, Lietman PS</AU>
+<TI>Acyclovir prophylaxis of herpes-simplex-virus infections</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>1981</YR>
+<VL>305</VL>
+<NO>2</NO>
+<PG>63-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wade JC, Newton B, McLaren C, Flournoy N, Keeney RE, Meyers JD</AU>
+<TI>Intravenous acyclovir to treat mucocutaneous herpes simplex virus infection after marrow transplantation: a double-blind trial</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1982</YR>
+<VL>96</VL>
+<NO>3</NO>
+<PG>265-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Orlowski-2004" MODIFIED="2008-11-07 10:13:29 +0000" MODIFIED_BY="[Empty name]" NAME="Orlowski 2004" YEAR="2004">
+<REFERENCE MODIFIED="2008-11-07 10:13:29 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Orlowski RZ, Mills SR, Hartley EE, Ye X, Piantadosi S, Ambinder RF, et al. Oral valacyclovir as prophylaxis against herpes simplex virus reactivation during high dose chemotherapy for leukemia.[see comment]. Leukemia &amp;amp; Lymphoma. 2004 Nov;45(11):2215-9.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:13:29 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Orlowski RZ, Mills SR, Hartley EE, Ye X, Piantadosi S, Ambinder RF et al</AU>
+<TI>Oral valacyclovir as prophylaxis against herpes simplex virus reactivation during high dose chemotherapy for leukemia</TI>
+<SO>Leukemia &amp; Lymphoma</SO>
+<YR>2004</YR>
+<VL>45</VL>
+<NO>11</NO>
+<PG>2215-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Saral-1983" MODIFIED="2008-11-07 10:13:49 +0000" MODIFIED_BY="[Empty name]" NAME="Saral 1983" YEAR="1983">
+<REFERENCE MODIFIED="2008-11-07 10:13:49 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Saral R, Ambinder RF, Burns WH, Angelopulos CM, Griffin DE, Burke PJ et al</AU>
+<TI>Acyclovir prophylaxis against herpes simplex virus infection in patients with leukemia. A randomized, double-blind, placebo-controlled study</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1983</YR>
+<VL>99</VL>
+<NO>6</NO>
+<PG>773-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Selby-1989" MODIFIED="2008-11-07 10:14:02 +0000" MODIFIED_BY="[Empty name]" NAME="Selby 1989" YEAR="1989">
+<REFERENCE MODIFIED="2008-11-07 10:14:02 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Selby PJ, Powles RL, Easton D, Perren TJ, Stolle K, Jameson B, et al. The prophylactic role of intravenous and long-term oral acyclovir after allogeneic bone marrow transplantation. Br J Cancer. 1989 Mar;59(3):434-8.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:14:02 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Selby PJ, Powles RL, Easton D, Perren TJ, Stolle K, Jameson B et al</AU>
+<TI>The prophylactic role of intravenous and long-term oral acyclovir after allogeneic bone marrow transplantation</TI>
+<SO>British Journal of Cancer</SO>
+<YR>1989</YR>
+<VL>59</VL>
+<NO>3</NO>
+<PG>434-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shepp-1985" MODIFIED="2008-11-07 10:14:14 +0000" MODIFIED_BY="[Empty name]" NAME="Shepp 1985" YEAR="1985">
+<REFERENCE MODIFIED="2008-11-07 10:14:14 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Shepp DH, Newton BA, Dandliker PS, Flournoy N, Meyers JD. Oral acyclovir therapy for mucocutaneous herpes simplex virus infections in immunocompromised marrow transplant recipients. Ann Intern Med. 1985 Jun;102(6):783-5.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:14:14 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shepp DH, Newton BA, Dandliker PS, Flournoy N, Meyers JD</AU>
+<TI>Oral acyclovir therapy for mucocutaneous herpes simplex virus infections in immunocompromised marrow transplant recipients</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1985</YR>
+<VL>102</VL>
+<NO>6</NO>
+<PG>783-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shepp-1985a" MODIFIED="2008-11-07 10:14:25 +0000" MODIFIED_BY="[Empty name]" NAME="Shepp 1985a" YEAR="1985">
+<REFERENCE MODIFIED="2008-11-07 10:14:25 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Shepp DH, Dandliker PS, Flournoy N, Meyers JD. Once-daily intravenous acyclovir for prophylaxis of herpes simplex virus reactivation after marrow transplantation. J Antimicrob Chemother. 1985 Sep;16(3):389-95.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:14:25 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shepp DH, Dandliker PS, Flournoy N, Meyers JD</AU>
+<TI>Once-daily intravenous acyclovir for prophylaxis of herpes simplex virus reactivation after marrow transplantation</TI>
+<SO>The Journal of Antimicrobial Chemotherapy</SO>
+<YR>1985</YR>
+<VL>16</VL>
+<NO>3</NO>
+<PG>389-95</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shepp-1987" MODIFIED="2008-11-07 10:14:43 +0000" MODIFIED_BY="[Empty name]" NAME="Shepp 1987" YEAR="1987">
+<REFERENCE MODIFIED="2008-11-07 10:14:43 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shepp DH, Dandliker PS, Flournoy N, Meyers JD</AU>
+<TI>Sequential intravenous and twice-daily oral acyclovir for extended prophylaxis of herpes simplex virus infection in marrow transplant patients</TI>
+<SO>Transplantation</SO>
+<YR>1987</YR>
+<VL>43</VL>
+<NO>5</NO>
+<PG>654-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wade-1984" NAME="Wade 1984" YEAR="1984">
+<REFERENCE NOTES="&lt;p&gt;Wade JC, Newton B, Flournoy N, Meyers JD. Oral acyclovir for prevention of herpes simplex virus reactivation after marrow transplantation. Ann Intern Med. 1984 Jun;100(6):823-8.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wade JC, Newton B, Flournoy N, Meyers JD</AU>
+<TI>Oral acyclovir for prevention of herpes simplex virus reactivation after marrow transplantation</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1984</YR>
+<VL>100</VL>
+<NO>6</NO>
+<PG>823-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Warkentin-2002" MODIFIED="2008-11-07 10:15:10 +0000" MODIFIED_BY="[Empty name]" NAME="Warkentin 2002" YEAR="2002">
+<REFERENCE MODIFIED="2008-11-07 10:15:10 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Warkentin DI, Epstein JB, Campbell LM, Yip JG, Cox VC, Ransier A, et al. Valacyclovir versus acyclovir for HSV prophylaxisin neutropenic patients. Annals of Pharmacotherapy. 2002 Oct;36(10):1525-31.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:15:10 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Warkentin DI, Epstein JB, Campbell LM, Yip JG, Cox VC, Ransier A et al</AU>
+<TI>Valacyclovir versus acyclovir for HSV prophylaxisin neutropenic patients</TI>
+<SO>The Annals of Pharmacotherapy</SO>
+<YR>2002</YR>
+<VL>36</VL>
+<NO>10</NO>
+<PG>1525-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-11-07 10:23:49 +0000" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Aiuti-1984" MODIFIED="2008-11-07 10:15:26 +0000" MODIFIED_BY="[Empty name]" NAME="Aiuti 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-11-07 10:15:26 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Aiuti F, Sirianni MC, Fiorilli M, Paganelli R, Stella A, Turbessi G. A placebo-controlled trial of thymic hormone treatment of recurrent herpes simplex labialis infection in immunodeficient host: results after a 1-year follow-up. Clin Immunol Immunopathol. 1984 Jan;30(1):11-8.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:15:26 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Aiuti F, Sirianni MC, Fiorilli M, Paganelli R, Stella A, Turbessi G</AU>
+<TI>A placebo-controlled trial of thymic hormone treatment of recurrent herpes simplex labialis infection in immunodeficient host: results after a 1-year follow-up</TI>
+<SO>Clinical Immunology and Immunopathology</SO>
+<YR>1984</YR>
+<VL>30</VL>
+<NO>1</NO>
+<PG>11-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Baker-2003" MODIFIED="2008-11-07 10:15:42 +0000" MODIFIED_BY="[Empty name]" NAME="Baker 2003" YEAR="2003">
+<REFERENCE MODIFIED="2008-11-07 10:15:42 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Baker D, Eisen D. Valacyclovir for prevention of recurrent herpes labialis: 2 double-blind, placebo-controlled studies. Cutis. 2003 Mar;71(3):239-42.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:15:42 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baker D, Eisen D</AU>
+<TI>Valacyclovir for prevention of recurrent herpes labialis: 2 double-blind, placebo-controlled studies</TI>
+<SO>Cutis</SO>
+<YR>2003</YR>
+<VL>71</VL>
+<NO>3</NO>
+<PG>239-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bodey-1985" MODIFIED="2008-11-07 10:15:55 +0000" MODIFIED_BY="[Empty name]" NAME="Bodey 1985" YEAR="1985">
+<REFERENCE MODIFIED="2008-11-07 10:15:55 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Bodey GP, Keating MJ, McCredie KB, Elting L, Rosenbaum B, Freireich EJ. Prospective randomized trial of antibiotic prophylaxis in acute leukemia. Am J Med. 1985 Mar;78(3):407-16.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:15:55 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bodey GP, Keating MJ, McCredie KB, Elting L, Rosenbaum B, Freireich EJ</AU>
+<TI>Prospective randomized trial of antibiotic prophylaxis in acute leukemia</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>1985</YR>
+<VL>78</VL>
+<NO>3</NO>
+<PG>407-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Engelhard-1988" MODIFIED="2008-11-07 10:16:13 +0000" MODIFIED_BY="[Empty name]" NAME="Engelhard 1988" YEAR="1988">
+<REFERENCE MODIFIED="2008-11-07 10:16:13 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Engelhard D, Morag A, Or R, Naparstek E, Cividalli G, Ruchlemer R, et al. Prevention of herpes simplex virus (HSV) infection in recipients of HLA-matched T-lymphocyte-depleted bone marrow allografts. Israel Journal of Medical Sciences. 1988 Mar;24(3):145-50.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:16:13 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Engelhard D, Morag A, Or R, Naparstek E, Cividalli G, Ruchlemer R et al</AU>
+<TI>Prevention of herpes simplex virus (HSV) infection in recipients of HLA-matched T-lymphocyte-depleted bone marrow allografts</TI>
+<SO>Israel Journal of Medical Sciences</SO>
+<YR>1988</YR>
+<VL>24</VL>
+<NO>3</NO>
+<PG>145-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Galli-1982" MODIFIED="2008-11-07 10:16:27 +0000" MODIFIED_BY="[Empty name]" NAME="Galli 1982" YEAR="1982">
+<REFERENCE MODIFIED="2008-11-07 10:16:27 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Galli M, Lazzarin A, Moroni M, Zanussi C. Inosiplex in recurrent herpes simplex infections. Lancet. 1982 Aug 7;2(8293):331-2.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:16:27 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Galli M, Lazzarin A, Moroni M, Zanussi C</AU>
+<TI>Inosiplex in recurrent herpes simplex infections</TI>
+<SO>Lancet</SO>
+<YR>1982</YR>
+<VL>2</VL>
+<NO>8293</NO>
+<PG>331-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Goldberg-1987" NAME="Goldberg 1987" YEAR="1987">
+<REFERENCE NOTES="&lt;p&gt;Goldberg LH, Sperber J. Acyclovir prophylaxis for herpes simplex virus infection. Antimicrob Agents Chemother. 1987 Nov;31(11):1865.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Goldberg LH, Sperber J</AU>
+<TI>Acyclovir prophylaxis for herpes simplex virus infection</TI>
+<SO>Antimicrobial Agents and Chemotherapy</SO>
+<YR>1987</YR>
+<VL>31</VL>
+<NO>11</NO>
+<PG>1865</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoglund-2001" MODIFIED="2008-11-07 10:17:06 +0000" MODIFIED_BY="[Empty name]" NAME="Hoglund 2001" YEAR="2001">
+<REFERENCE MODIFIED="2008-11-07 10:17:06 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Hoglund M, Ljungman P, Weller S. Comparable aciclovir exposures produced by oral valaciclovir and intravenous aciclovir in immunocompromised cancer patients. Journal of Antimicrobial Chemotherapy. 2001 Jun;47(6):855-61.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:17:06 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoglund M, Ljungman P, Weller S</AU>
+<TI>Comparable aciclovir exposures produced by oral valaciclovir and intravenous aciclovir in immunocompromised cancer patients</TI>
+<SO>The Journal of Antimicrobial Chemotherapy</SO>
+<YR>2001</YR>
+<VL>47</VL>
+<NO>6</NO>
+<PG>855-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Korczowski-1985" MODIFIED="2008-11-07 10:17:54 +0000" MODIFIED_BY="[Empty name]" NAME="Korczowski 1985" YEAR="1985">
+<REFERENCE MODIFIED="2008-11-07 10:17:54 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Korczowski R, Rogozinska E. [Acyclovir in the treatment of viral complications in patients with leukemia]. Pol Tyg Lek. 1985 Feb 11;40(6):171-3.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:17:54 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Korczowski R, Rogozinska E</AU>
+<TI>Acyclovir in the treatment of viral complications in patients with leukemia</TI>
+<SO>Polski Tygodnik Lekarski</SO>
+<YR>1985</YR>
+<VL>40</VL>
+<NO>6</NO>
+<PG>171-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kubiczek-1984" MODIFIED="2008-11-07 10:18:22 +0000" MODIFIED_BY="[Empty name]" NAME="Kubiczek 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-11-07 10:18:22 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kubiczek K, Rytlewska M, Moryl-Bujakowska A</AU>
+<TI>Acyclovir (Zovirax) in the treatment of Herpesvirus infections in children with neoplasms</TI>
+<SO>Polski Tygodnik Lekarski</SO>
+<YR>1984</YR>
+<VL>39</VL>
+<NO>22</NO>
+<PG>755-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lazarus-1999" NAME="Lazarus 1999" YEAR="1999">
+<REFERENCE NOTES="&lt;p&gt;Lazarus HM, Belanger R, Candoni A, Aoun M, Jurewicz R, Marks L. Intravenous penciclovir for treatment of herpes simplex infections in immunocompromised patients: results of a multicenter, acyclovir-controlled trial. The Penciclovir Immunocompromised Study Group. Antimicrob Agents Chemother. 1999 May;43(5):1192-7.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lazarus HM, Belanger R, Candoni A, Aoun M, Jurewicz R, Marks L</AU>
+<TI>Intravenous penciclovir for treatment of herpes simplex infections in immunocompromised patients: results of a multicenter, acyclovir-controlled trial. The Penciclovir Immunocompromised Study Group</TI>
+<SO>Antimicrobial Agents and Chemotherapy</SO>
+<YR>1999</YR>
+<VL>43</VL>
+<NO>5</NO>
+<PG>1192-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Leflore-2000" NAME="Leflore 2000" YEAR="2000">
+<REFERENCE NOTES="&lt;p&gt;Leflore S, Anderson PL, Fletcher CV. A risk-benefit evaluation of aciclovir for the treatment and prophylaxis of herpes simplex virus infections. Drug Saf. 2000 Aug;23(2):131-42.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Leflore S, Anderson PL, Fletcher CV</AU>
+<TI>A risk-benefit evaluation of aciclovir for the treatment and prophylaxis of herpes simplex virus infections</TI>
+<SO>Drug Safety</SO>
+<YR>2000</YR>
+<VL>23</VL>
+<NO>2</NO>
+<PG>131-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lin-2002" MODIFIED="2008-11-07 10:18:56 +0000" MODIFIED_BY="[Empty name]" NAME="Lin 2002" YEAR="2002">
+<REFERENCE MODIFIED="2008-11-07 10:18:56 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Lin L, Chen XS, Cui PG, Wang JB, Guo ZP, Lu NZ, et al. Topical application of penciclovir cream for the treatment of herpes simplex facialis/labialis: a randomized, double-blind, multicentre, aciclovir-controlled trial. J Dermatolog Treat. 2002 Jun;13(2):67-72.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:18:56 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lin L, Chen XS, Cui PG, Wang JB, Guo ZP, Lu NZ et al</AU>
+<TI>Topical application of penciclovir cream for the treatment of herpes simplex facialis/labialis: a randomized, double-blind, multicentre, aciclovir-controlled trial</TI>
+<SO>The Journal of Dermatological Treatment</SO>
+<YR>2002</YR>
+<VL>13</VL>
+<NO>2</NO>
+<PG>67-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rayani-1994" MODIFIED="2008-11-07 10:19:10 +0000" MODIFIED_BY="[Empty name]" NAME="Rayani 1994" YEAR="1994">
+<REFERENCE MODIFIED="2008-11-07 10:19:10 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Rayani SA, Nimmo CJ, Frighetto L, Martinusen SM, Nickoloff DM, Reece DE, et al. Implementation and evaluation of a standardized herpes simplex virus prophylaxis protocol on a leukemia/bone marrow transplant unit. Annals of Pharmacotherapy. 1994 Jul-Aug;28(7-8):852-6.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:19:10 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rayani SA, Nimmo CJ, Frighetto L, Martinusen SM, Nickoloff DM, Reece DE et al</AU>
+<TI>Implementation and evaluation of a standardized herpes simplex virus prophylaxis protocol on a leukemia/bone marrow transplant unit</TI>
+<SO>The Annals of Pharmacotherapy</SO>
+<YR>1994</YR>
+<VL>28</VL>
+<NO>7-8</NO>
+<PG>852-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Reusser-1998" MODIFIED="2008-11-07 10:19:29 +0000" MODIFIED_BY="[Empty name]" NAME="Reusser 1998" YEAR="1998">
+<REFERENCE MODIFIED="2008-11-07 10:19:29 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Reusser P</AU>
+<TI>Current concepts and challenges in the prevention and treatment of viral infections in immunocompromised cancer patients</TI>
+<SO>Supportive Care in Cancer</SO>
+<YR>1998</YR>
+<VL>6</VL>
+<NO>1</NO>
+<PG>39-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rojas-de-Morales-2001" MODIFIED="2008-11-07 10:20:01 +0000" MODIFIED_BY="[Empty name]" NAME="Rojas de Morales 2001" YEAR="2001">
+<REFERENCE MODIFIED="2008-11-07 10:20:01 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rojas de Morales T, Zambrano O, Rivera L, Navas R, Chaparro N, Bernardonni C et al</AU>
+<TI>Oral-disease prevention in children with cancer: testing preventive protocol effectiveness</TI>
+<SO>Medicina Oral</SO>
+<YR>2001</YR>
+<VL>6</VL>
+<NO>5</NO>
+<PG>326-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Russell-1980" MODIFIED="2008-11-07 10:20:19 +0000" MODIFIED_BY="[Empty name]" NAME="Russell 1980" YEAR="1980">
+<REFERENCE MODIFIED="2008-11-07 10:20:19 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Russell AS. Use of levamisole in viral infections. Drugs. 1980 Aug;20(2):117-21.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:20:19 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Russell AS</AU>
+<TI>Use of levamisole in viral infections</TI>
+<SO>Drugs</SO>
+<YR>1980</YR>
+<VL>20</VL>
+<NO>2</NO>
+<PG>117-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Saral-1990" MODIFIED="2008-11-07 10:20:47 +0000" MODIFIED_BY="[Empty name]" NAME="Saral 1990" YEAR="1990">
+<REFERENCE MODIFIED="2008-11-07 10:20:47 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Saral R</AU>
+<TI>Oral complications of cancer therapies. Management of acute viral infections</TI>
+<SO>NCI Monographs</SO>
+<YR>1990</YR>
+<VL>(9)</VL>
+<PG>107-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Spruance-1997" MODIFIED="2008-11-07 10:21:10 +0000" MODIFIED_BY="[Empty name]" NAME="Spruance 1997" YEAR="1997">
+<REFERENCE MODIFIED="2008-11-07 10:21:10 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Spruance SL, Rea TL, Thoming C, Tucker R, Saltzman R, Boon R. Penciclovir cream for the treatment of herpes simplex labialis. A randomized, multicenter, double-blind, placebo-controlled trial. Topical Penciclovir Collaborative Study Group. Jama. 1997 May 7;277(17):1374-9.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:21:10 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Spruance SL, Rea TL, Thoming C, Tucker R, Saltzman R, Boon R</AU>
+<TI>Penciclovir cream for the treatment of herpes simplex labialis. A randomized, multicenter, double-blind, placebo-controlled trial. Topical Penciclovir Collaborative Study Group</TI>
+<SO>JAMA</SO>
+<YR>1997</YR>
+<VL>277</VL>
+<NO>17</NO>
+<PG>1374-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tricot-1986" MODIFIED="2008-11-07 10:21:32 +0000" MODIFIED_BY="[Empty name]" NAME="Tricot 1986" YEAR="1986">
+<REFERENCE MODIFIED="2008-11-07 10:21:32 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tricot G, De Clercq E, Boogaerts MA, Verwilghen RL</AU>
+<TI>Oral bromovinyldeoxyuridine therapy for herpes simplex and varicella-zoster virus infections in severely immunosuppressed patients: a preliminary clinical trial</TI>
+<SO>Journal of Medical Virology</SO>
+<YR>1986</YR>
+<VL>18</VL>
+<NO>1</NO>
+<PG>11-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Van-Lint-1983" MODIFIED="2008-11-07 10:21:48 +0000" MODIFIED_BY="[Empty name]" NAME="Van Lint 1983" YEAR="1983">
+<REFERENCE MODIFIED="2008-11-07 10:21:48 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Van Lint MT, Frassoni F, Melioli G, Marmont A, Lombardi A, Bacigalupo A</AU>
+<TI>An open trial with acyclovir for the treatment of viral infections in marrow graft recipients</TI>
+<SO>Haematologica</SO>
+<YR>1983</YR>
+<VL>68</VL>
+<NO>6</NO>
+<PG>812-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vujosevic-1988" MODIFIED="2008-11-07 10:22:35 +0000" MODIFIED_BY="[Empty name]" NAME="Vujosevic 1988" YEAR="1988">
+<REFERENCE MODIFIED="2008-11-07 10:22:35 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Vujosevic M, Svirltlih N, Nikolic S, Lesic L, Zerjav S. [Treatment of herpes simplex virus infections with topical administration of acyclovir]. Srp Arh Celok Lek. 1988 Apr;116(4):311-6.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:22:35 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vujosevic M, Svirltlih N, Nikolic S, Lesic L, Zerjav S</AU>
+<TI>Treatment of herpes simplex virus infections with topical administration of acyclovir</TI>
+<SO>Srpski Arhiv Za Celokupno Lekarstvo</SO>
+<YR>1988</YR>
+<VL>116</VL>
+<NO>4</NO>
+<PG>311-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Whitley-1982" MODIFIED="2008-11-07 10:22:45 +0000" MODIFIED_BY="[Empty name]" NAME="Whitley 1982" YEAR="1982">
+<REFERENCE MODIFIED="2008-11-07 10:22:45 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Whitley R, Barton N, Collins E, Whelchel J, Diethelm AG. Mucocutaneous herpes simplex virus infections in immunocompromised patients. A model for evaluation of topical antiviral agents. Am J Med. 1982 Jul 20;73(1A):236-40.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:22:45 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Whitley R, Barton N, Collins E, Whelchel J, Diethelm AG</AU>
+<TI>Mucocutaneous herpes simplex virus infections in immunocompromised patients. A model for evaluation of topical antiviral agents</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>1982</YR>
+<VL>73</VL>
+<NO>1A</NO>
+<PG>236-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Whitley-1984" MODIFIED="2008-11-07 10:23:49 +0000" MODIFIED_BY="[Empty name]" NAME="Whitley 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-11-07 10:23:49 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Whitley RJ, Spruance S, Hayden FG, Overall J, Alford CA, Jr., Gwaltney JM, Jr., et al. Vidarabine therapy for mucocutaneous herpes simplex virus infections in the immunocompromised host. Journal of Infectious Diseases. 1984 Jan;149(1):1-8.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:23:49 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Whitley RJ, Spruance S, Hayden FG, Overall J, Alford CA Jr, Gwaltney JM Jr et al</AU>
+<TI>Vidarabine therapy for mucocutaneous herpes simplex virus infections in the immunocompromised host</TI>
+<SO>The Journal of Infectious Diseases</SO>
+<YR>1984</YR>
+<VL>149</VL>
+<NO>1</NO>
+<PG>1-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2008-11-10 09:37:14 +0000" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Claisse-1986" MODIFIED="2008-11-07 10:44:55 +0000" MODIFIED_BY="[Empty name]" NAME="Claisse 1986" YEAR="1986">
+<REFERENCE MODIFIED="2008-11-07 10:44:55 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Claisse JP. [Preventive study of acyclovir in herpes infections in bone marrow grafts]. Soins. 1986 Aug;-(483-484):13-4.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 10:44:55 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Claisse JP</AU>
+<TI>Preventive study of acyclovir in herpes infections in bone marrow grafts</TI>
+<SO>Soins</SO>
+<YR>1986</YR>
+<VL>(483-484)</VL>
+<PG>13-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gluckman-1984" MODIFIED="2008-11-07 11:40:16 +0000" MODIFIED_BY="[Empty name]" NAME="Gluckman 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-11-07 11:40:16 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Gluckman E, Lotsberg J, Devergie A, Zhao XM, Melo R, Gomez-Morales M, et al. [Use of acyclovir in the prevention of herpes infections after allogenic bone marrow grafts]. Rev Fr Transfus Immunohematol. 1984 Jun;27(3):391-6.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 11:40:16 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gluckman E, Lotsberg J, Devergie A, Zhao XM, Melo R, Gomez-Morales M et al</AU>
+<TI>Use of acyclovir in the prevention of herpes infections after allogenic bone marrow grafts</TI>
+<SO>Revue Française de Transfusion et Immuno-Hématologie</SO>
+<YR>1984</YR>
+<VL>27</VL>
+<NO>3</NO>
+<PG>391-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Graubner-2001" MODIFIED="2008-11-07 11:39:11 +0000" MODIFIED_BY="[Empty name]" NAME="Graubner 2001" YEAR="2001">
+<REFERENCE MODIFIED="2008-11-07 11:39:11 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Graubner UB. [Antiviral prophylaxis]. Klinische Padiatrie. 2001 Sep;213 Suppl 1:A69-76.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 11:39:11 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Graubner UB</AU>
+<TI>Antiviral prophylaxis</TI>
+<SO>Klinische Padiatrie</SO>
+<YR>2001</YR>
+<VL>213 Suppl 1</VL>
+<PG>A69-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kurrle-1984" MODIFIED="2008-11-07 11:40:42 +0000" MODIFIED_BY="[Empty name]" NAME="Kurrle 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-11-07 11:40:42 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kurrle E, Schmeiser T</AU>
+<TI>Diagnosis, prevention and treatment of infections of bacterial, fungal and viral origin in immunocompromised patients</TI>
+<SO>Onkologie</SO>
+<YR>1984</YR>
+<VL>7 Suppl 1</VL>
+<PG>37-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Masaoka-1983" MODIFIED="2008-11-07 11:41:13 +0000" MODIFIED_BY="[Empty name]" NAME="Masaoka 1983" YEAR="1983">
+<REFERENCE MODIFIED="2008-11-07 11:41:13 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Masaoka T, Shibata H, Amaki I, Takeo H, Sakurai K, Ise T et al</AU>
+<TI>The clinical effects of a new antiviral 9-(2-hydroxyethoxymethyl) guanine (aciclovir) against herpes virus infections</TI>
+<SO>Gan to Kagaku Ryoho</SO>
+<YR>1983</YR>
+<VL>10</VL>
+<NO>4 Pt 1</NO>
+<PG>944-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ochocka-1983" MODIFIED="2008-11-07 11:41:32 +0000" MODIFIED_BY="[Empty name]" NAME="Ochocka 1983" YEAR="1983">
+<REFERENCE MODIFIED="2008-11-07 11:41:32 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ochocka M, Chmielewska D, Matysiak M</AU>
+<TI>Isoprinosine in the treatment of herpesvirus infections in children with leukemia and malignant lymphoma</TI>
+<SO>Pediatria Polska</SO>
+<YR>1983</YR>
+<VL>58</VL>
+<NO>7</NO>
+<PG>591-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ruvidic-1984" MODIFIED="2008-11-07 11:41:48 +0000" MODIFIED_BY="[Empty name]" NAME="Ruvidic 1984" YEAR="1984">
+<REFERENCE MODIFIED="2008-11-07 11:41:48 +0000" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Ruvidic R, Boskovic D, Tomic D. [Use of acyclovir in the treatment of herpes infections in patients with malignant hemopathies]. Srp Arh Celok Lek. 1984 May;112(5):591-7.&lt;/p&gt;" NOTES_MODIFIED="2008-11-07 11:41:48 +0000" NOTES_MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ruvidic R, Boskovic D, Tomic D</AU>
+<TI>Use of acyclovir in the treatment of herpes infections in patients with malignant hemopathies</TI>
+<SO>Srpski Arhiv Za Celokupno Lekarstvo</SO>
+<YR>1984</YR>
+<VL>112</VL>
+<NO>5</NO>
+<PG>591-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-11-07 11:46:08 +0000" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2008-11-07 11:46:08 +0000" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Arduino-2006" NAME="Arduino 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Arduino PG, Porter SR</AU>
+<TI>Oral and perioral herpes simplex virus type 1 (HSV-1) infection: review of its management</TI>
+<SO>Oral Diseases</SO>
+<YR>2006</YR>
+<VL>12</VL>
+<NO>3</NO>
+<PG>254-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chilukuri-2003" MODIFIED="2008-11-07 11:43:41 +0000" MODIFIED_BY="[Empty name]" NAME="Chilukuri 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Chilukuri S, Rosen T</AU>
+<TI>Management of acyclovir-resistant herpes simplex virus</TI>
+<SO>Dermatologic Clinics</SO>
+<YR>2003</YR>
+<VL>21</VL>
+<NO>2</NO>
+<PG>311-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-DoH-2003" MODIFIED="2008-11-07 11:43:52 +0000" MODIFIED_BY="[Empty name]" NAME="DoH 2003" TYPE="OTHER">
+<AU>Department of Health</AU>
+<TI>Herpes simplex - oral</TI>
+<SO>PRODIGY Guidance</SO>
+<YR>2003</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Epstein-1999" MODIFIED="2008-11-07 11:44:21 +0000" MODIFIED_BY="[Empty name]" NAME="Epstein 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Epstein JB, Emerton S, Kolbinson DA, Le ND, Phillips N, Stevenson-Moore P et al</AU>
+<TI>Quality of life and oral function following radiotherapy for head and neck cancer</TI>
+<SO>Head &amp; Neck</SO>
+<YR>1999</YR>
+<VL>21</VL>
+<NO>1</NO>
+<PG>1-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2008" MODIFIED="2008-11-07 11:45:49 +0000" MODIFIED_BY="[Empty name]" NAME="Higgins 2008" TYPE="OTHER">
+<AU>Higgins JPT, Green S (editors)</AU>
+<TI>Cochrane Handbook for Systematic Reviews of Interventions 5.0.0 [updated February 2008]. The Cochrane Collaboration, 2008</TI>
+<SO>Available from www.cochrane-handbook.org</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NIH-1989" MODIFIED="2008-11-07 11:46:08 +0000" MODIFIED_BY="[Empty name]" NAME="NIH 1989" TYPE="JOURNAL_ARTICLE">
+<AU>National Institutes of Health</AU>
+<TI>Oral complications of cancer therapies: diagnosis, prevention and treatment</TI>
+<SO>Connecticut Medicine</SO>
+<YR>1989</YR>
+<VL>53</VL>
+<PG>596-601</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schmid_x002d_Wendtner-2004" NAME="Schmid-Wendtner 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Schmid-Wendtner MH, Korting HC</AU>
+<TI>Penciclovir cream - improved topical treatment for herpes simplex infections</TI>
+<SO>Skin Pharmacology and Physiology</SO>
+<YR>2004</YR>
+<VL>17</VL>
+<NO>5</NO>
+<PG>214-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES>
+<REFERENCE ID="REF-Hann" NAME="Hann" TYPE="JOURNAL_ARTICLE">
+<AU>Hann IM, Prentice HG, Blacklock HA, Ross MG, Brigden D, Rosling AE, et al</AU>
+<TI>Acyclovir prophylaxis against herpes virus infections in severely immunocompromised patients: randomised double blind trial. British Medical Journal Clinical Research Ed</TI>
+<YR>1983 Aug 6</YR>
+<VL>287</VL>
+<NO>6389</NO>
+<PG>384-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Prentice" NAME="Prentice" TYPE="JOURNAL_ARTICLE">
+<AU>Prentice HG, Hann IM</AU>
+<TI>Studies in the prophylaxis of herpes infections in severely immunocompromised patients using acyclovir. Schweizerische Medizinische Wochenschrift - Supplementum</TI>
+<YR>1983</YR>
+<VL>14</VL>
+<PG>26-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Prentice-HG_x002c_-Ha1" NAME="Prentice HG, Ha1" TYPE="JOURNAL_ARTICLE">
+<AU>Prentice HG, Hann IM</AU>
+<TI>Prophylactic studies against herpes infections in severely immunocompromised patients with acyclovir. J Infect</TI>
+<YR>1983 May</YR>
+<VL>6</VL>
+<NO>1 Suppl</NO>
+<PG>17-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</PENDING_REFERENCES>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-11-10 09:37:14 +0000" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-11-06 17:30:20 +0000" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:06:10 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Anderson-1984">
+<CHAR_METHODS MODIFIED="2008-11-06 17:02:10 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>6-week duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:02:21 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults with high grade non-Hodgkin lymphoma or acute lymphoblasstic leukaemia who were to receive chemotherapy using the VAP regimen</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:02:46 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic oral aciclovir 200 mg 4 times daily, commencing on first day of chemotherapy and continuing for 6 weeks (n = 20)<BR/>Placebo (n = 20)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:06:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Clinical HSV infections and viral isolates</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:09:36 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bergmann-1995">
+<CHAR_METHODS MODIFIED="2008-11-06 17:08:04 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>28-day duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:08:21 +0000" MODIFIED_BY="[Empty name]">
+<P>Adult inpatients with acute myeloid leukaemia and HSV seropositive</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:09:13 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic oral aciclovir 400 mg twice daily for 28 days (n = 45)<BR/>Placebo (n = 45)<BR/>Prophylaxis began on day 1 of antineoplastic drugs<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:09:36 +0000" MODIFIED_BY="[Empty name]">
+<P>Herpes labialis or positive culture for HSV type 1, mucosal lesion, acute necrotising ulcerative gingivitis, other acute oral infections and virology</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:12:00 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bubley-1989">
+<CHAR_METHODS MODIFIED="2008-11-06 17:11:30 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>7-week duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:11:37 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults with squamous cell carcinoma of the head and neck, undergoing chemotherapy or radiotherapy. All patients had evidence of prior HSV infection</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:11:49 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic oral aciclovir 800 mg twice daily for 7 weeks (n = 27)<BR/>Placebo (n = 30)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:12:00 +0000" MODIFIED_BY="[Empty name]">
+<P>Clinical or culture positive HSV infections and other oral lesions</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:12:40 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Gluckman-1983">
+<CHAR_METHODS MODIFIED="2008-11-06 17:12:14 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>6-week duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:12:17 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults and children undergoing BMT</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:12:28 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic oral aciclovir 200 mg every 6 hours from 8 days prior to transplantation to 35 days after (n = 20)<BR/>Placebo (n = 20)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:12:40 +0000" MODIFIED_BY="[Empty name]">
+<P>HSV infections, cytomegalovirus infections, survival, graft-versus-host disease, pharmacokinetics, toxicity</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:13:21 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Labar-1993">
+<CHAR_METHODS MODIFIED="2008-11-06 17:12:51 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>28-day duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:12:55 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults and children undergaing BMT</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:13:21 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic oral prostaglandin E2 (PGE) 3 times daily 7 days prior to BMT until 21 days after (n = 31)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:13:18 +0000" MODIFIED_BY="[Empty name]">
+<P>Viral HSV infections</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:15:17 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Liesveld-2002">
+<CHAR_METHODS>
+<P>RCT<BR/>Non-blinded<BR/>Duration varied</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:14:09 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults undergoing autolous stem cell translplantation. All patients were seropositive for HSV</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:14:55 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic intravenous aciclovir 250 mg/m<SUP>2</SUP> twice daily (n = 16)<BR/>Prophylactic oral valaciclovir 1 g oral suspension or capsules (n = 14)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:15:17 +0000" MODIFIED_BY="[Empty name]">
+<P>Incidence of HSV infections, costs</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:16:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lonnqvist-1993">
+<CHAR_METHODS MODIFIED="2008-11-06 17:15:42 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>Duration of chemotherapy until complete remission, discharge from hospital or death<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:15:46 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults (&gt;15 years of age) with newly diagnosed acute leukaemia</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:15:58 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic oral aciclovir 200 mg 4 times daily (n = 52)<BR/>Placebo (n = 55)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:16:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Culture positive HSV, recurrence of lesions, fever</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:17:43 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lundgren-1985">
+<CHAR_METHODS MODIFIED="2008-11-06 17:16:40 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>6-month duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:16:48 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults and children undergoing BMT for haematological malignancies and who had not been previously exposed to antiviral drugs</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:17:25 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic intravenous aciclovir 250 mg/m<SUP>2</SUP> twice daily starting 5 days prior to transplantation. After 5 weeks, administration was changed to oral aciclovir 400 mg 3 times daily (children &lt; 6 years received 200 mg 3 times daily) for a period of 6 months after transplantation (n = 20)<BR/>Placebo (n = 22)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:17:43 +0000" MODIFIED_BY="[Empty name]">
+<P>Clinical or culture positive HSV infections, varicella zoster virus infections, cytomegalovirus and toxicity</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:18:44 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Meyers-1982">
+<CHAR_METHODS MODIFIED="2008-11-06 17:17:59 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT - multicentre<BR/>Double blind<BR/>7-day duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:18:05 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults and children immunocompromised due to organ transplantation, malignancy (n = 46), immunodeficiency disease</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:18:23 +0000" MODIFIED_BY="[Empty name]">
+<P>Intravenous aciclovir 250 mg/m<SUP>2</SUP> in 100 ml of 5% dextrose in water, given over 60 minutes every 8 hours for 21 doses (7 days) (n = 51)<BR/>Placebo (n = 46)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:18:44 +0000" MODIFIED_BY="[Empty name]">
+<P>HSV. Duration of virus shedding; time to scabbing of all external lesions; complete healing of lesions; loss of lesion pain</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:19:58 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Orlowski-2004">
+<CHAR_METHODS>
+<P>RCT<BR/>Non-blinded<BR/>Duration varied</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:19:17 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults with acute leukaemia undergoing dose-intensive remission or consolidation chemotherapy</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:19:49 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic valaciclovir 500 mg every 8 hours (n = 40)<BR/>Prophylactic valaciclovir 1000 mg every 8 hours (n = 41)<BR/>Dose adjustment was made according to creatinine clearance</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:19:58 +0000" MODIFIED_BY="[Empty name]">
+<P>Clinical or culture positive HSV infections</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:21:21 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Saral-1983">
+<CHAR_METHODS MODIFIED="2008-11-06 17:20:19 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>5-week duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:20:37 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults receiving timed, sequential chemotherapy for acute leukaemia and who had pre-treatment titres of anti-herpes simplex antibody of 1:16 or greater</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:21:10 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic intravenous aciclovir 250 mg/m<SUP>2</SUP> administered over 60 minutes, given every 8 hours. Administration began 3 days prior to BMT and continued for a total of 32 days (or until patient was discharged) (n = 14)<BR/>Placebo (n = 15)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:21:21 +0000" MODIFIED_BY="[Empty name]">
+<P>Culture positive HSV, plasma aciclovir concentrations, other viral infections (including cytomegalovirus)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:23:11 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Selby-1989">
+<CHAR_METHODS MODIFIED="2008-11-06 17:21:39 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>6-month duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:21:43 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults and children with acute leukaemia undergoing allogenic BMT</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:22:56 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic aciclovir:<BR/>Adults: 5 mg/kg in 100 ml normal saline over 60 minutes, given 8 hourly starting the day prior to BMT and continuing for 23 days. Adults then received 800 mg tablets 6 hourly for 6 months<BR/>Children (&lt; 12 years): 250 mg/m<SUP>2</SUP> intravenously follwed by 400 mg orally 6 hourly (n = 42)</P>
+<P>Placebo (n = 40)<BR/>If viral infection developed, patient received conventional aciclovir dose for 7 days, without breaking randomisation code<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:23:11 +0000" MODIFIED_BY="[Empty name]">
+<P>Virus infection and viral serological tests</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:24:42 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Shepp-1985">
+<CHAR_METHODS MODIFIED="2008-11-06 17:23:47 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>10-day duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:24:04 +0000" MODIFIED_BY="[Empty name]">
+<P>Immunocompromised bone marrow transplant adults and teenagers. All patients had recurrent infection and had not received antiviral chemotherapy within 10 days of entry to study</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:24:27 +0000" MODIFIED_BY="[Empty name]">
+<P>Aciclovir capsules given at a dose of 2 400 mg 5 times daily for 10 days (n = 12)<BR/>Placebo (n = 9)<BR/>If patients had progressive signs and symptoms they were removed from the study and treated with intravenous aciclovir<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:24:42 +0000" MODIFIED_BY="[Empty name]">
+<P>Percentage of macular, popular, vesicular, ulcerated, crusted or healed lesions and the presence of new lesions recorded daily. 50% healing, pain or burning, and cultures were also reported</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:25:29 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Shepp-1985a">
+<CHAR_METHODS MODIFIED="2008-11-06 17:25:02 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>4-week duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:25:05 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults undergoing allogenic marrow transplantation for haematologic malignancy</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:25:19 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic intravenous aciclovir (250 mg/m<SUP>2</SUP> daily) (n = 14)<BR/>Placebo - dextrose water (n = 13)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:25:29 +0000" MODIFIED_BY="[Empty name]">
+<P>Time to clinical or culture positive HSV infections, duration of viral shedding, severity of mucositis</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:26:42 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Shepp-1987">
+<CHAR_METHODS MODIFIED="2008-11-06 17:25:49 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>11-week duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:25:56 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults and children undergoing allogenic marrow transplant for haematologic malignancy</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:26:30 +0000" MODIFIED_BY="[Empty name]">
+<P>All patients received prophylactic intravenous aciclovir (varying doses) from 5 days prior to transplant until 30 days after. They were then randomised to receive:<BR/>Oral aciclovir 800 mg tablet twice daily for 45 days (n = 25)<BR/>Placebo (n = 26)<BR/>Intravenous aciclovir could be given for treatment of suspected or proven HSV infections. Randomisation code was not broken in such cases</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:26:42 +0000" MODIFIED_BY="[Empty name]">
+<P>Mucocutaneous vesicle formation, ulcer, erythema and haemorrhage was assessed twice daily. Blood counts, serum creatinine, liver function tests and urinalysis were assessed and mouth and lip swabs taken twice weekly</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:27:44 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Wade-1984">
+<CHAR_METHODS MODIFIED="2008-11-06 17:26:58 +0000" MODIFIED_BY="[Empty name]">
+<P>RCT<BR/>Double blind<BR/>5-week duration</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:27:09 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults and children with haematologic malignancy undergoing BMT, with titre of anti-herpes simplex virus of 1:8 or greater prior to transplantation</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:27:37 +0000" MODIFIED_BY="[Empty name]">
+<P>Oral aciclovir 400 mg (2 200 mg capsules) every 4 hours, 5 times daily, commencing 1 week prior to transplantation for a total period of 35 days (n = 24)<BR/>Placebo (n = 25)<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:27:44 +0000" MODIFIED_BY="[Empty name]">
+<P>Virologic and clinical variables (including decrease or disappearance of lesion or pain)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-11-06 17:29:06 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Warkentin-2002">
+<CHAR_METHODS>
+<P>RCT<BR/>Single blind<BR/>Duration varied</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-11-06 17:28:00 +0000" MODIFIED_BY="[Empty name]">
+<P>Adults with haematologic malignancy receiving chemotherapy or undergoing stem cell transplantation</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-11-06 17:28:56 +0000" MODIFIED_BY="[Empty name]">
+<P>Prophylactic oral valaciclovir 500 mg twice daily (n = 48)<BR/>Prophylactic oral valaciclovir 250 mg twice daily (n = 52)<BR/>Prophylactic oral aciclovir 400 mg 3 times daily (n = 51)<BR/>The study drug was switched to intravenous aciclovir 5 mg/kg twice daily for patients who could not tolerate oral medication</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-11-06 17:29:06 +0000" MODIFIED_BY="[Empty name]">
+<P>Clinical or culture positive HSV infections</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>BMT = bone marrow transplantation<BR/>HSV = herpes simplex virus<BR/>RCT = randomised controlled trial</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-11-06 17:31:24 +0000" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Aiuti-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Participants not treated for cancer</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Baker-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Participants not treated for cancer</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bodey-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Does not include data on HSV</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Engelhard-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Galli-1982">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Participants not treated for cancer</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Goldberg-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Participants not treated for cancer</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hoglund-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Does not include data on HSV</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Korczowski-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kubiczek-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-06 17:30:45 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Lazarus-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-06 17:30:45 +0000" MODIFIED_BY="[Empty name]">
+<P>Immunocompromised patients. Awaiting response from authors for outcome data for cancer patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Leflore-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT. Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lin-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Participants not treated for cancer</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rayani-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Reusser-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT. Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-11-06 17:30:52 +0000" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Rojas-de-Morales-2001">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-11-06 17:30:52 +0000" MODIFIED_BY="[Empty name]">
+<P>Incomplete report. Awaiting response from authors</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Russell-1980">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT. Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Saral-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT. Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Spruance-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Participants not treated for cancer</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tricot-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Van-Lint-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not an RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Vujosevic-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Participants not treated for cancer</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Whitley-1982">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Results not available by underlying condition. Awaiting response from authors</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Whitley-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Results not available by underlying condition. Awaiting response from authors</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES>
+<P>HSV = herpes simplex virus<BR/>RCT = randomised controlled trial</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2008-11-10 09:37:14 +0000" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Claisse-1986">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Gluckman-1984">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Graubner-2001">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Kurrle-1984">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Masaoka-1983">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Ochocka-1983">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Ruvidic-1984">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-11-06 17:29:15 +0000" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2008-11-06 17:24:46 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:08:06 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Anderson-1984">
+<DESCRIPTION>
+<P>Quote: "patients were randomized to receive"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-11-06 17:09:44 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bergmann-1995">
+<DESCRIPTION>
+<P>Quote: "patients were randomized by a computer generated table of random numbers"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:10:36 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bubley-1989">
+<DESCRIPTION>
+<P>Quote: "randomization occurred on the basis of computer-generated random codes"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:11:14 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Gluckman-1983">
+<DESCRIPTION>
+<P>Quote: "randomly allocated"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-11-06 17:13:45 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Labar-1993">
+<DESCRIPTION>
+<P>Quote: "randomized clinical trial", "randomized according to the Pocock and Simon method. Stratification was performed"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-11-06 17:15:21 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Liesveld-2002">
+<DESCRIPTION>
+<P>Quote: "randomized using a computer program maintained by the Department of Biostatistics"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:13:55 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Lonnqvist-1993">
+<DESCRIPTION>
+<P>Quote: "patients were randomized", "stratified"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:15:29 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Lundgren-1985">
+<DESCRIPTION>
+<P>Quote: "allocated...at random"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:16:19 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Meyers-1982">
+<DESCRIPTION>
+<P>Quote: "computer generated list of random numbers"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:17:13 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orlowski-2004">
+<DESCRIPTION>
+<P>Quote: "patients were randomized"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:17:37 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Saral-1983">
+<DESCRIPTION>
+<P>Quote: "computer generated table of random numbers"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-11-06 17:23:15 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Selby-1989">
+<DESCRIPTION>
+<P>Described as randomised, using minimization method</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-11-06 17:24:46 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1985">
+<DESCRIPTION>
+<P>Quote: "patients were randomly assigned"<BR/>Comment: probably done as study by same authors in same year uses random number sequence</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:20:03 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1985a">
+<DESCRIPTION>
+<P>Quote: "random number sequence"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:20:44 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1987">
+<DESCRIPTION>
+<P>Quote: "random number sequence"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:21:39 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Wade-1984">
+<DESCRIPTION>
+<P>Quote: "random permutations"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:22:09 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Warkentin-2002">
+<DESCRIPTION>
+<P>Quote: "randomized in 1:1:1 ratio"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-11-06 17:26:48 +0000" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:08:16 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Anderson-1984">
+<DESCRIPTION>
+<P>Insufficient detail</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:09:26 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Bergmann-1995">
+<DESCRIPTION>
+<P>Insufficient detail</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:10:18 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bubley-1989">
+<DESCRIPTION>
+<P>Quote: "random codes supplied by the sponsor of the study"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:10:59 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Gluckman-1983">
+<DESCRIPTION>
+<P>Insufficient detail</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:11:48 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Labar-1993">
+<DESCRIPTION>
+<P>Insufficient detail</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:12:48 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Liesveld-2002">
+<DESCRIPTION>
+<P>Insufficient detail</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-11-06 17:16:25 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Lonnqvist-1993">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:15:45 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Lundgren-1985">
+<DESCRIPTION>
+<P>Quote: "effectuated by the hospital pharmacy"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:16:26 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Meyers-1982">
+<DESCRIPTION>
+<P>Insufficient details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:16:56 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orlowski-2004">
+<DESCRIPTION>
+<P>Insufficient details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:17:36 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Saral-1983">
+<DESCRIPTION>
+<P>Insufficient details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:18:13 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Selby-1989">
+<DESCRIPTION>
+<P>Insufficient details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:19:23 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Shepp-1985">
+<DESCRIPTION>
+<P>Insufficient detail</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:20:11 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1985a">
+<DESCRIPTION>
+<P>Allocated by pharmacist</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-11-06 17:26:48 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1987">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:21:46 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Wade-1984">
+<DESCRIPTION>
+<P>Insufficient details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-01 13:22:15 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Warkentin-2002">
+<DESCRIPTION>
+<P>Insufficient details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2008-11-06 17:25:36 +0000" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-06 17:07:09 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Anderson-1984">
+<DESCRIPTION>
+<P>Quote: "double blind, placebo controlled", "the design was double blind to prevent patient or observer bias"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-06 17:10:29 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bergmann-1995">
+<DESCRIPTION>
+<P>Quote: "double blind, placebo controlled", "identical looking tablets of acyclovir or placebo", "blinded treatment"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:10:37 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bubley-1989">
+<DESCRIPTION>
+<P>Quote: "double blind","capsules that were identical in appearance"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:11:04 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Gluckman-1983">
+<DESCRIPTION>
+<P>Described as double blind, and placebo controlled but no further details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:11:54 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Labar-1993">
+<DESCRIPTION>
+<P>Described as double blind, and placebo controlled but no further details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:13:12 +0100" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Liesveld-2002">
+<DESCRIPTION>
+<P>Quote: "nonblinded fashion"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:14:55 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Lonnqvist-1993">
+<DESCRIPTION>
+<P>Described as placebo controlled but no further details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-06 17:17:50 +0000" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Lundgren-1985">
+<DESCRIPTION>
+<P>Quote: "study drug (acyclovir or placebo) was delivered to the ward on a blind basis"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:16:37 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Meyers-1982">
+<DESCRIPTION>
+<P>Quote: "double blind, placebo controlled", "neither the patient nor the physician knew whether the drug or placebo were being given"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:17:10 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orlowski-2004">
+<DESCRIPTION>
+<P>Quote: "non-blinded"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-06 17:21:33 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Saral-1983">
+<DESCRIPTION>
+<P>Described as double blind, placebo controlled. Quote: "All patients were evaluated daily under blind conditions"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-06 17:23:29 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Selby-1989">
+<DESCRIPTION>
+<P>Described as double blind. When patient developed infection the trial regimen was discontinued without breaking the code<BR/>Comment: probably done</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-06 17:24:56 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1985">
+<DESCRIPTION>
+<P>Quote: "Neither patients nor investigators were aware of the results of the randomization", "placebo controlled"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-11-06 17:25:36 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1985a">
+<DESCRIPTION>
+<P>Quote: "only the pharmacist was aware of its content"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:21:22 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1987">
+<DESCRIPTION>
+<P>Quote: "Neither patients nor investigators were aware of the results of the randomization", "placebo controlled"</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:21:51 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Wade-1984">
+<DESCRIPTION>
+<P>Described as double blind, placebo controlled, but no further details</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-10-01 13:22:28 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Warkentin-2002">
+<DESCRIPTION>
+<P>No mention of blinding of participants, but those undertaking assessment were blinded</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2008-11-06 17:29:15 +0000" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-06 17:11:19 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Anderson-1984">
+<DESCRIPTION>
+<P>41 patients entered into the trial. 1 patient died on first day of study. 2 patients withdrawn; 1 refused acyclovir on eighth day due to sore candida infection; 1 withdrawn (placebo group) due to haemorrhagic cystitis; both patients included in analysis</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-06 17:10:39 +0000" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Bergmann-1995">
+<DESCRIPTION>
+<P>90 patients entered into the study. Data on missing outcomes differ between studies</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:10:38 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bubley-1989">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:11:23 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Gluckman-1983">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:12:05 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Labar-1993">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-06 17:15:34 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Liesveld-2002">
+<DESCRIPTION>
+<P>Cost data missing for 1 patient receiving acyclovir; all data available for HSV cultures</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:15:06 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Lonnqvist-1993">
+<DESCRIPTION>
+<P>Mentions ITT, but 9 out of original 116 excluded from analysis (unclear as to treatment group)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:15:59 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Lundgren-1985">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:16:42 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Meyers-1982">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-06 17:20:15 +0000" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Orlowski-2004">
+<DESCRIPTION>
+<P>Reasons for study discontinuation balanced across groups</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:17:55 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Saral-1983">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:18:30 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Selby-1989">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:19:49 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Shepp-1985">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-06 17:25:46 +0000" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Shepp-1985a">
+<DESCRIPTION>
+<P>3/30 patients recruited excluded from analysis (subsequently found to be seronegative). Unclear as to original treatment group</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-06 17:26:55 +0000" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Shepp-1987">
+<DESCRIPTION>
+<P>Reasons for withdrawals balanced across groups</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-10-01 13:22:00 +0100" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Wade-1984">
+<DESCRIPTION>
+<P>No missing outcome data</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-11-06 17:29:15 +0000" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Warkentin-2002">
+<DESCRIPTION>
+<P>Intention-to-treat analysis</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2008-10-16 09:52:40 +0100" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Anderson-1984">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Bergmann-1995">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Bubley-1989">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Gluckman-1983">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Labar-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Liesveld-2002">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lonnqvist-1993">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lundgren-1985">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Meyers-1982">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Orlowski-2004">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Saral-1983">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Selby-1989">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Shepp-1985">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Shepp-1985a">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Shepp-1987">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-16 09:52:40 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Wade-1984">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-10-16 09:51:40 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Warkentin-2002">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-11-06 12:12:27 +0000" MODIFIED_BY="[Empty name]"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2008-11-07 11:49:09 +0000" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Prophylactic aciclovir versus placebo</NAME>
+<DICH_OUTCOME CHI2="9.661467803083406" CI_END="0.3078263928503274" CI_START="0.08350775502576602" CI_STUDY="95" CI_TOTAL="95" DF="8.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.16033056790459627" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="93" I2="17.19684665877743" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.5116941467597032" LOG_CI_START="-1.078273191480377" LOG_EFFECT_SIZE="-0.79498366912004" METHOD="MH" NO="1" P_CHI2="0.28959492985486013" P_Q="0.0" P_Z="3.79434154758983E-8" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="9" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.1672044337804298" TOTALS="YES" TOTAL_1="199" TOTAL_2="199" WEIGHT="99.99999999999999" Z="5.500165861379345">
+<NAME>HSV oral lesions (by mode of administration)</NAME>
+<GROUP_LABEL_1>Aciclovir</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours aciclovir</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="2.441014727624779" CI_END="0.24382070366472328" CI_START="0.053346119283458004" DF="5.0" EFFECT_SIZE="0.11404774588511161" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="68" I2="0.0" ID="CMP-001.01.01" LOG_CI_END="-0.6129294196955514" LOG_CI_START="-1.272897168274762" LOG_EFFECT_SIZE="-0.9429132939851568" NO="1" P_CHI2="0.785351001208684" P_Z="2.1372914364345996E-8" STUDIES="6" TAU2="0.0" TOTAL_1="151" TOTAL_2="149" WEIGHT="56.92703674108182" Z="5.600504269287411">
+<NAME>Oral aciclovir</NAME>
+<DICH_DATA CI_END="0.581965375170908" CI_START="0.011932745040725218" EFFECT_SIZE="0.08333333333333333" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="12" LOG_CI_END="-0.23510285352801047" LOG_CI_START="-1.9232596385672394" LOG_EFFECT_SIZE="-1.0791812460476249" ORDER="1" O_E="0.0" SE="0.991631652042901" STUDY_ID="STD-Anderson-1984" TOTAL_1="20" TOTAL_2="20" VAR="0.9833333333333332" WEIGHT="9.627096840299854"/>
+<DICH_DATA CI_END="0.950142738016905" CI_START="0.016444897566245467" EFFECT_SIZE="0.125" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="8" LOG_CI_END="-0.02221114663059915" LOG_CI_START="-1.7839688273532879" LOG_EFFECT_SIZE="-0.9030899869919435" ORDER="2" O_E="0.0" SE="1.034865182497675" STUDY_ID="STD-Bergmann-1995" TOTAL_1="37" TOTAL_2="37" VAR="1.070945945945946" WEIGHT="8.945874979155898"/>
+<DICH_DATA CI_END="1.3766841400397563" CI_START="0.004697743459639626" EFFECT_SIZE="0.08041958041958042" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="5" LOG_CI_END="0.13883430919438092" LOG_CI_START="-2.328110703417281" LOG_EFFECT_SIZE="-1.09463819711145" ORDER="3" O_E="0.0" SE="1.4490957119828483" STUDY_ID="STD-Bubley-1989" TOTAL_1="25" TOTAL_2="22" VAR="2.099878382487078" WEIGHT="4.885722931225988"/>
+<DICH_DATA CI_END="0.5547802335368636" CI_START="0.0022427088379340957" EFFECT_SIZE="0.03527336860670194" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.2558790209563493" LOG_CI_START="-2.6492271055015015" LOG_EFFECT_SIZE="-1.4525530632289254" ORDER="4" O_E="0.0" SE="1.4058645121259112" STUDY_ID="STD-Gluckman-1983" TOTAL_1="20" TOTAL_2="19" VAR="1.9764550264550265" WEIGHT="5.167023357903101"/>
+<DICH_DATA CI_END="0.6142973552438555" CI_START="0.0024081007808362995" EFFECT_SIZE="0.038461538461538464" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.21162135445981495" LOG_CI_START="-2.618325341481821" LOG_EFFECT_SIZE="-1.414973347970818" ORDER="5" O_E="0.0" SE="1.4137098353535986" STUDY_ID="STD-Shepp-1987" TOTAL_1="25" TOTAL_2="26" VAR="1.9985754985754987" WEIGHT="5.114249299732753"/>
+<DICH_DATA CI_END="0.5479041888459038" CI_START="0.061673355767866866" EFFECT_SIZE="0.18382352941176472" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="17" LOG_CI_END="-0.26129537927745033" LOG_CI_START="-1.2099024201189092" LOG_EFFECT_SIZE="-0.7355988996981799" ORDER="6" O_E="0.0" SE="0.5572164714708561" STUDY_ID="STD-Wade-1984" TOTAL_1="24" TOTAL_2="25" VAR="0.31049019607843137" WEIGHT="23.187069332764228"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="3.20718954166907" CI_END="0.8619012492345107" CI_START="0.06817315516190901" DF="2.0" EFFECT_SIZE="0.24240158332467124" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="25" I2="37.640105955223035" ID="CMP-001.01.02" LOG_CI_END="-0.06454248982411183" LOG_CI_START="-1.1663866056979353" LOG_EFFECT_SIZE="-0.6154645477610236" NO="2" P_CHI2="0.2011721875510054" P_Z="0.028554654441667892" STUDIES="3" TAU2="0.5186173392948003" TOTAL_1="48" TOTAL_2="50" WEIGHT="43.072963258918165" Z="2.189580776435303">
+<NAME>Intravenous aciclovir</NAME>
+<DICH_DATA CI_END="1.7258895907310379" CI_START="0.028043508843169477" EFFECT_SIZE="0.22" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="5" LOG_CI_END="0.23701300941512893" LOG_CI_START="-1.5521676477707165" LOG_EFFECT_SIZE="-0.6575773191777937" ORDER="7" O_E="0.0" SE="1.050973574618056" STUDY_ID="STD-Lundgren-1985" TOTAL_1="20" TOTAL_2="22" VAR="1.1045454545454545" WEIGHT="8.709525830591824"/>
+<DICH_DATA CI_END="0.7199643185049758" CI_START="0.0029873822887645347" EFFECT_SIZE="0.0463768115942029" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="11" LOG_CI_END="-0.14268902670815814" LOG_CI_START="-2.5247091981265406" LOG_EFFECT_SIZE="-1.3336991124173494" ORDER="8" O_E="0.0" SE="1.3992104398811722" STUDY_ID="STD-Saral-1983" TOTAL_1="14" TOTAL_2="15" VAR="1.9577898550724635" WEIGHT="5.212408598239455"/>
+<DICH_DATA CI_END="1.0191938629812514" CI_START="0.16711244644427625" EFFECT_SIZE="0.4126984126984127" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="9" LOG_CI_END="0.008256799919255734" LOG_CI_START="-0.7769912028847832" LOG_EFFECT_SIZE="-0.38436720148276377" ORDER="9" O_E="0.0" SE="0.4612585638873957" STUDY_ID="STD-Shepp-1985a" TOTAL_1="14" TOTAL_2="13" VAR="0.21275946275946273" WEIGHT="29.151028830086887"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="9.661467803083408" CI_END="0.30782639285032753" CI_START="0.08350775502576602" CI_STUDY="95" CI_TOTAL="95" DF="8.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.1603305679045963" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="93" I2="17.19684665877745" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.5116941467597029" LOG_CI_START="-1.078273191480377" LOG_EFFECT_SIZE="-0.79498366912004" METHOD="MH" NO="2" P_CHI2="0.2895949298548598" P_Q="0.0" P_Z="3.7943415475898514E-8" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="9" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.16720443378042996" TOTALS="YES" TOTAL_1="199" TOTAL_2="199" WEIGHT="99.99999999999999" Z="5.500165861379344">
+<NAME>HSV oral lesions (by age group)</NAME>
+<GROUP_LABEL_1>Aciclovir</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours aciclovir</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="6.183989115759226" CI_END="0.4507250437394161" CI_START="0.055920679547405996" DF="4.0" EFFECT_SIZE="0.15876035630768293" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="45" I2="35.31683311333078" ID="CMP-001.02.01" LOG_CI_END="-0.34608831045428046" LOG_CI_START="-1.2524275596891374" LOG_EFFECT_SIZE="-0.799257935071709" NO="1" P_CHI2="0.18582293038082176" P_Z="5.466303431567349E-4" STUDIES="5" TAU2="0.4927681114993086" TOTAL_1="110" TOTAL_2="107" WEIGHT="57.82213217900808" Z="3.456800019244175">
+<NAME>Adults only</NAME>
+<DICH_DATA CI_END="0.581965375170908" CI_START="0.011932745040725218" EFFECT_SIZE="0.08333333333333333" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="12" LOG_CI_END="-0.23510285352801047" LOG_CI_START="-1.9232596385672394" LOG_EFFECT_SIZE="-1.0791812460476249" ORDER="10" O_E="0.0" SE="0.991631652042901" STUDY_ID="STD-Anderson-1984" TOTAL_1="20" TOTAL_2="20" VAR="0.9833333333333332" WEIGHT="9.627096840299856"/>
+<DICH_DATA CI_END="0.950142738016905" CI_START="0.016444897566245467" EFFECT_SIZE="0.125" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="8" LOG_CI_END="-0.02221114663059915" LOG_CI_START="-1.7839688273532879" LOG_EFFECT_SIZE="-0.9030899869919435" ORDER="11" O_E="0.0" SE="1.034865182497675" STUDY_ID="STD-Bergmann-1995" TOTAL_1="37" TOTAL_2="37" VAR="1.070945945945946" WEIGHT="8.945874979155898"/>
+<DICH_DATA CI_END="1.3766841400397563" CI_START="0.004697743459639626" EFFECT_SIZE="0.08041958041958042" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="5" LOG_CI_END="0.13883430919438092" LOG_CI_START="-2.328110703417281" LOG_EFFECT_SIZE="-1.09463819711145" ORDER="12" O_E="0.0" SE="1.4490957119828483" STUDY_ID="STD-Bubley-1989" TOTAL_1="25" TOTAL_2="22" VAR="2.099878382487078" WEIGHT="4.885722931225989"/>
+<DICH_DATA CI_END="0.7199643185049758" CI_START="0.0029873822887645347" EFFECT_SIZE="0.0463768115942029" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="11" LOG_CI_END="-0.14268902670815814" LOG_CI_START="-2.5247091981265406" LOG_EFFECT_SIZE="-1.3336991124173494" ORDER="13" O_E="0.0" SE="1.3992104398811722" STUDY_ID="STD-Saral-1983" TOTAL_1="14" TOTAL_2="15" VAR="1.9577898550724635" WEIGHT="5.212408598239455"/>
+<DICH_DATA CI_END="1.0191938629812514" CI_START="0.16711244644427625" EFFECT_SIZE="0.4126984126984127" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="9" LOG_CI_END="0.008256799919255734" LOG_CI_START="-0.7769912028847832" LOG_EFFECT_SIZE="-0.38436720148276377" ORDER="14" O_E="0.0" SE="0.4612585638873957" STUDY_ID="STD-Shepp-1985a" TOTAL_1="14" TOTAL_2="13" VAR="0.21275946275946273" WEIGHT="29.15102883008688"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="2.603982463731378" CI_END="0.3288373281167804" CI_START="0.05828083943550284" DF="3.0" EFFECT_SIZE="0.13843740650696199" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="48" I2="0.0" ID="CMP-001.02.02" LOG_CI_END="-0.4830188892007802" LOG_CI_START="-1.234474201590082" LOG_EFFECT_SIZE="-0.8587465453954313" NO="2" P_CHI2="0.4567918433710866" P_Z="7.47805384559848E-6" STUDIES="4" TAU2="0.0" TOTAL_1="89" TOTAL_2="92" WEIGHT="42.17786782099191" Z="4.479607165119822">
+<NAME>Adults and children</NAME>
+<DICH_DATA CI_END="0.5547802335368636" CI_START="0.0022427088379340957" EFFECT_SIZE="0.03527336860670194" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.2558790209563493" LOG_CI_START="-2.6492271055015015" LOG_EFFECT_SIZE="-1.4525530632289254" ORDER="15" O_E="0.0" SE="1.4058645121259112" STUDY_ID="STD-Gluckman-1983" TOTAL_1="20" TOTAL_2="19" VAR="1.9764550264550265" WEIGHT="5.167023357903103"/>
+<DICH_DATA CI_END="1.7258895907310379" CI_START="0.028043508843169477" EFFECT_SIZE="0.22" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="5" LOG_CI_END="0.23701300941512893" LOG_CI_START="-1.5521676477707165" LOG_EFFECT_SIZE="-0.6575773191777937" ORDER="16" O_E="0.0" SE="1.050973574618056" STUDY_ID="STD-Lundgren-1985" TOTAL_1="20" TOTAL_2="22" VAR="1.1045454545454545" WEIGHT="8.709525830591826"/>
+<DICH_DATA CI_END="0.6142973552438555" CI_START="0.0024081007808362995" EFFECT_SIZE="0.038461538461538464" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.21162135445981495" LOG_CI_START="-2.618325341481821" LOG_EFFECT_SIZE="-1.414973347970818" ORDER="17" O_E="0.0" SE="1.4137098353535986" STUDY_ID="STD-Shepp-1987" TOTAL_1="25" TOTAL_2="26" VAR="1.9985754985754987" WEIGHT="5.114249299732754"/>
+<DICH_DATA CI_END="0.5479041888459038" CI_START="0.061673355767866866" EFFECT_SIZE="0.18382352941176472" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="17" LOG_CI_END="-0.26129537927745033" LOG_CI_START="-1.2099024201189092" LOG_EFFECT_SIZE="-0.7355988996981799" ORDER="18" O_E="0.0" SE="0.5572164714708561" STUDY_ID="STD-Wade-1984" TOTAL_1="24" TOTAL_2="25" VAR="0.31049019607843137" WEIGHT="23.187069332764224"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="21.472519851534486" CI_END="0.37360478991324164" CI_START="0.07460909421693965" CI_STUDY="95" CI_TOTAL="95" DF="8.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.16695602705663845" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="119" I2="62.743077872025815" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-0.4275875644024516" LOG_CI_START="-1.1272082324802148" LOG_EFFECT_SIZE="-0.7773978984413332" METHOD="MH" NO="3" P_CHI2="0.005992711129905959" P_Q="0.0" P_Z="1.3263712921913561E-5" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="9" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.775962926122203" TOTALS="YES" TOTAL_1="254" TOTAL_2="257" WEIGHT="100.0" Z="4.35570860646096">
+<NAME>Viral isolates (by mode of administration)</NAME>
+<GROUP_LABEL_1>Aciclovir</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours aciclovir</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="10.398914392728535" CI_END="0.29899020569003404" CI_START="0.05813688818520201" DF="6.0" EFFECT_SIZE="0.13184217897422684" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="104" I2="42.30166944930796" ID="CMP-001.03.01" LOG_CI_END="-0.5243430380449395" LOG_CI_START="-1.2355482178384374" LOG_EFFECT_SIZE="-0.8799456279416884" NO="1" P_CHI2="0.10882729436080885" P_Z="1.2348041805900092E-6" STUDIES="7" TAU2="0.4486075728851492" TOTAL_1="220" TOTAL_2="222" WEIGHT="72.20321205996517" Z="4.849969567488123">
+<NAME>Oral aciclovir</NAME>
+<DICH_DATA CI_END="0.49297553247156495" CI_START="0.010349480816516623" EFFECT_SIZE="0.07142857142857142" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="14" LOG_CI_END="-0.3071746352385513" LOG_CI_START="-1.985081436117925" LOG_EFFECT_SIZE="-1.1461280356782382" ORDER="19" O_E="0.0" SE="0.9856107606091622" STUDY_ID="STD-Anderson-1984" TOTAL_1="20" TOTAL_2="20" VAR="0.9714285714285713" WEIGHT="9.665186698609535"/>
+<DICH_DATA CI_END="0.4791388672375009" CI_START="0.009275900471337492" EFFECT_SIZE="0.06666666666666667" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="15" LOG_CI_END="-0.31953859820443425" LOG_CI_START="-2.032643919906928" LOG_EFFECT_SIZE="-1.1760912590556813" ORDER="20" O_E="0.0" SE="1.0062865459761512" STUDY_ID="STD-Bergmann-1995" TOTAL_1="37" TOTAL_2="37" VAR="1.0126126126126127" WEIGHT="9.442634484053052"/>
+<DICH_DATA CI_END="0.5547802335368636" CI_START="0.0022427088379340957" EFFECT_SIZE="0.03527336860670194" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.2558790209563493" LOG_CI_START="-2.6492271055015015" LOG_EFFECT_SIZE="-1.4525530632289254" ORDER="21" O_E="0.0" SE="1.4058645121259112" STUDY_ID="STD-Gluckman-1983" TOTAL_1="20" TOTAL_2="19" VAR="1.9764550264550265" WEIGHT="6.136010355395783"/>
+<DICH_DATA CI_END="0.5554768482617173" CI_START="0.002091389698339347" EFFECT_SIZE="0.03408399269628728" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="15" LOG_CI_END="-0.25533403732025894" LOG_CI_START="-2.679565035537464" LOG_EFFECT_SIZE="-1.4674495364288613" ORDER="22" O_E="0.0" SE="1.424005288489763" STUDY_ID="STD-Lonnqvist-1993" TOTAL_1="52" TOTAL_2="55" VAR="2.027791061646813" WEIGHT="6.023661538446826"/>
+<DICH_DATA CI_END="0.6877242550183313" CI_START="0.11409043243645525" EFFECT_SIZE="0.2801120448179272" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="17" LOG_CI_END="-0.16258565846318113" LOG_CI_START="-0.9427507737612052" LOG_EFFECT_SIZE="-0.5526682161121932" ORDER="23" O_E="0.0" SE="0.45827285060566364" STUDY_ID="STD-Selby-1989" TOTAL_1="42" TOTAL_2="40" VAR="0.21001400560224093" WEIGHT="17.12906713735485"/>
+<DICH_DATA CI_END="0.6142973552438555" CI_START="0.0024081007808362995" EFFECT_SIZE="0.038461538461538464" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.21162135445981495" LOG_CI_START="-2.618325341481821" LOG_EFFECT_SIZE="-1.414973347970818" ORDER="24" O_E="0.0" SE="1.4137098353535986" STUDY_ID="STD-Shepp-1987" TOTAL_1="25" TOTAL_2="26" VAR="1.9985754985754987" WEIGHT="6.087089985510384"/>
+<DICH_DATA CI_END="0.6990699479181044" CI_START="0.13427002415467612" EFFECT_SIZE="0.30637254901960786" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="17" LOG_CI_END="-0.1554793672085192" LOG_CI_START="-0.8720209329551276" LOG_EFFECT_SIZE="-0.5137501500818236" ORDER="25" O_E="0.0" SE="0.4209000626575126" STUDY_ID="STD-Wade-1984" TOTAL_1="24" TOTAL_2="25" VAR="0.17715686274509806" WEIGHT="17.719561860594737"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="1.5133538193644713" CI_END="1.4290843748931532" CI_START="0.14922161920304586" DF="1.0" EFFECT_SIZE="0.46179030349210337" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="15" I2="33.921599350775274" ID="CMP-001.03.02" LOG_CI_END="0.15505787082648195" LOG_CI_START="-0.8261682517935949" LOG_EFFECT_SIZE="-0.3355551904835565" NO="2" P_CHI2="0.2186284349627856" P_Z="0.18007669937465373" STUDIES="2" TAU2="0.30817611582011173" TOTAL_1="34" TOTAL_2="35" WEIGHT="27.796787940034825" Z="1.3405189140646134">
+<NAME>Intravenous aciclovir</NAME>
+<DICH_DATA CI_END="1.3938939596883604" CI_START="0.02411310478641123" EFFECT_SIZE="0.18333333333333332" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="6" LOG_CI_END="0.1442297361193166" LOG_CI_START="-1.6177468665701538" LOG_EFFECT_SIZE="-0.7367585652254186" ORDER="26" O_E="0.0" SE="1.0349937783446437" STUDY_ID="STD-Lundgren-1985" TOTAL_1="20" TOTAL_2="22" VAR="1.0712121212121213" WEIGHT="9.143077741204666"/>
+<DICH_DATA CI_END="1.2529997666454524" CI_START="0.30584200001448336" EFFECT_SIZE="0.6190476190476191" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="9" LOG_CI_END="0.09795099011258433" LOG_CI_START="-0.5145028749667493" LOG_EFFECT_SIZE="-0.20827594242708247" ORDER="27" O_E="0.0" SE="0.3597584320431273" STUDY_ID="STD-Shepp-1985a" TOTAL_1="14" TOTAL_2="13" VAR="0.12942612942612944" WEIGHT="18.65371019883016"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="21.47251985153449" CI_END="0.3736047899132414" CI_START="0.07460909421693958" CI_STUDY="95" CI_TOTAL="95" DF="8.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.16695602705663834" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="119" I2="62.74307787202583" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="-0.4275875644024518" LOG_CI_START="-1.1272082324802153" LOG_EFFECT_SIZE="-0.7773978984413336" METHOD="MH" NO="4" P_CHI2="0.005992711129906292" P_Q="0.0" P_Z="1.326371292191351E-5" Q="0.0" RANDOM="YES" SCALE="10.0" SORT_BY="STUDY" STUDIES="9" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.7759629261222032" TOTALS="YES" TOTAL_1="254" TOTAL_2="257" WEIGHT="100.0" Z="4.3557086064609605">
+<NAME>Viral isolates (by age group)</NAME>
+<GROUP_LABEL_1>Aciclovir</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours aciclovir</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="17.24085329023689" CI_END="0.9052120911440895" CI_START="0.015262832479807803" DF="3.0" EFFECT_SIZE="0.11754190957198522" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="53" I2="82.5994691243105" ID="CMP-001.04.01" LOG_CI_END="-0.04324965369865284" LOG_CI_START="-1.8163648624362079" LOG_EFFECT_SIZE="-0.9298072580674304" NO="1" P_CHI2="6.305365050447431E-4" P_Z="0.0398231632558179" STUDIES="4" TAU2="3.4051478520938097" TOTAL_1="123" TOTAL_2="125" WEIGHT="43.785192919939576" Z="2.055578486266136">
+<NAME>Adults only</NAME>
+<DICH_DATA CI_END="0.49297553247156495" CI_START="0.010349480816516623" EFFECT_SIZE="0.07142857142857142" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="14" LOG_CI_END="-0.3071746352385513" LOG_CI_START="-1.985081436117925" LOG_EFFECT_SIZE="-1.1461280356782382" ORDER="28" O_E="0.0" SE="0.9856107606091622" STUDY_ID="STD-Anderson-1984" TOTAL_1="20" TOTAL_2="20" VAR="0.9714285714285713" WEIGHT="9.665186698609535"/>
+<DICH_DATA CI_END="0.4791388672375009" CI_START="0.009275900471337492" EFFECT_SIZE="0.06666666666666667" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="15" LOG_CI_END="-0.31953859820443425" LOG_CI_START="-2.032643919906928" LOG_EFFECT_SIZE="-1.1760912590556813" ORDER="29" O_E="0.0" SE="1.0062865459761512" STUDY_ID="STD-Bergmann-1995" TOTAL_1="37" TOTAL_2="37" VAR="1.0126126126126127" WEIGHT="9.442634484053054"/>
+<DICH_DATA CI_END="0.5554768482617173" CI_START="0.002091389698339347" EFFECT_SIZE="0.03408399269628728" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="15" LOG_CI_END="-0.25533403732025894" LOG_CI_START="-2.679565035537464" LOG_EFFECT_SIZE="-1.4674495364288613" ORDER="30" O_E="0.0" SE="1.424005288489763" STUDY_ID="STD-Lonnqvist-1993" TOTAL_1="52" TOTAL_2="55" VAR="2.027791061646813" WEIGHT="6.023661538446827"/>
+<DICH_DATA CI_END="1.2529997666454524" CI_START="0.30584200001448336" EFFECT_SIZE="0.6190476190476191" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="9" LOG_CI_END="0.09795099011258433" LOG_CI_START="-0.5145028749667493" LOG_EFFECT_SIZE="-0.20827594242708247" ORDER="31" O_E="0.0" SE="0.3597584320431273" STUDY_ID="STD-Shepp-1985a" TOTAL_1="14" TOTAL_2="13" VAR="0.12942612942612944" WEIGHT="18.65371019883016"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="5.069342853790818" CI_END="0.43842376962409524" CI_START="0.1080976450693394" DF="4.0" EFFECT_SIZE="0.21769836250828178" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="66" I2="21.094309156682336" ID="CMP-001.04.02" LOG_CI_END="-0.3581059081351389" LOG_CI_START="-0.9661837671431865" LOG_EFFECT_SIZE="-0.6621448376391628" NO="2" P_CHI2="0.28025628618804554" P_Z="1.96821236545372E-5" STUDIES="5" TAU2="0.13679140363803532" TOTAL_1="131" TOTAL_2="132" WEIGHT="56.214807080060424" Z="4.268466661288864">
+<NAME>Adults and children</NAME>
+<DICH_DATA CI_END="0.5547802335368636" CI_START="0.0022427088379340957" EFFECT_SIZE="0.03527336860670194" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.2558790209563493" LOG_CI_START="-2.6492271055015015" LOG_EFFECT_SIZE="-1.4525530632289254" ORDER="32" O_E="0.0" SE="1.4058645121259112" STUDY_ID="STD-Gluckman-1983" TOTAL_1="20" TOTAL_2="19" VAR="1.9764550264550265" WEIGHT="6.136010355395783"/>
+<DICH_DATA CI_END="1.3938939596883604" CI_START="0.02411310478641123" EFFECT_SIZE="0.18333333333333332" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="6" LOG_CI_END="0.1442297361193166" LOG_CI_START="-1.6177468665701538" LOG_EFFECT_SIZE="-0.7367585652254186" ORDER="33" O_E="0.0" SE="1.0349937783446437" STUDY_ID="STD-Lundgren-1985" TOTAL_1="20" TOTAL_2="22" VAR="1.0712121212121213" WEIGHT="9.143077741204667"/>
+<DICH_DATA CI_END="0.6877242550183313" CI_START="0.11409043243645525" EFFECT_SIZE="0.2801120448179272" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="17" LOG_CI_END="-0.16258565846318113" LOG_CI_START="-0.9427507737612052" LOG_EFFECT_SIZE="-0.5526682161121932" ORDER="34" O_E="0.0" SE="0.45827285060566364" STUDY_ID="STD-Selby-1989" TOTAL_1="42" TOTAL_2="40" VAR="0.21001400560224093" WEIGHT="17.12906713735485"/>
+<DICH_DATA CI_END="0.6142973552438555" CI_START="0.0024081007808362995" EFFECT_SIZE="0.038461538461538464" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="13" LOG_CI_END="-0.21162135445981495" LOG_CI_START="-2.618325341481821" LOG_EFFECT_SIZE="-1.414973347970818" ORDER="35" O_E="0.0" SE="1.4137098353535986" STUDY_ID="STD-Shepp-1987" TOTAL_1="25" TOTAL_2="26" VAR="1.9985754985754987" WEIGHT="6.087089985510385"/>
+<DICH_DATA CI_END="0.6990699479181044" CI_START="0.13427002415467612" EFFECT_SIZE="0.30637254901960786" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="17" LOG_CI_END="-0.1554793672085192" LOG_CI_START="-0.8720209329551276" LOG_EFFECT_SIZE="-0.5137501500818236" ORDER="36" O_E="0.0" SE="0.4209000626575126" STUDY_ID="STD-Wade-1984" TOTAL_1="24" TOTAL_2="25" VAR="0.17715686274509806" WEIGHT="17.719561860594737"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Prophylactic aciclovir versus valaciclovir</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="2.378466702630919" CI_START="0.2586321764823826" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.7843137254901961" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="10" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="0.3762970758884092" LOG_CI_START="-0.5873174454283572" LOG_EFFECT_SIZE="-0.10551018476997398" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="0.0" P_Z="0.6677709091481816" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="114" WEIGHT="100.0" Z="0.4292093105212473">
+<NAME>HSV oral lesions</NAME>
+<GROUP_LABEL_1>Aciclovir</GROUP_LABEL_1>
+<GROUP_LABEL_2>Valaciclovir</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours aciclovir</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours valaciclovir</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="2.378466702630919" CI_START="0.2586321764823826" DF="0.0" EFFECT_SIZE="0.7843137254901961" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="10" I2="0.0" ID="CMP-002.01.01" LOG_CI_END="0.3762970758884092" LOG_CI_START="-0.5873174454283572" LOG_EFFECT_SIZE="-0.10551018476997398" NO="1" P_CHI2="1.0" P_Z="0.6677709091481816" STUDIES="1" TAU2="0.0" TOTAL_1="51" TOTAL_2="100" WEIGHT="100.0" Z="0.4292093105212473">
+<NAME>Oral aciclovir</NAME>
+<DICH_DATA CI_END="2.378466702630919" CI_START="0.2586321764823826" EFFECT_SIZE="0.7843137254901961" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="10" LOG_CI_END="0.3762970758884092" LOG_CI_START="-0.5873174454283572" LOG_EFFECT_SIZE="-0.10551018476997398" ORDER="37" O_E="0.0" SE="0.5660319397902782" STUDY_ID="STD-Warkentin-2002" TOTAL_1="51" TOTAL_2="100" VAR="0.3203921568627451" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-002.01.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="2" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="16" TOTAL_2="14" WEIGHT="0.0" Z="0.0">
+<NAME>Intravenous aciclovir</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="38" O_E="0.0" SE="0.0" STUDY_ID="STD-Liesveld-2002" TOTAL_1="16" TOTAL_2="14" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" MODIFIED="2008-11-07 11:49:09 +0000" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Prophylactic oral valaciclovir (different doses)</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.0332043441859573" CI_START="0.05154298679587985" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.23076923076923078" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="8" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="0.014186223529176723" LOG_CI_START="-1.2878304187035252" LOG_EFFECT_SIZE="-0.6368220975871743" METHOD="MH" MODIFIED="2008-11-07 11:48:51 +0000" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="1.0" P_Q="0.0" P_Z="0.055205657493846025" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="92" TOTAL_2="89" WEIGHT="100.0" Z="1.9172541046630323">
+<NAME>HSV oral lesions</NAME>
+<GROUP_LABEL_1>Lower dose</GROUP_LABEL_1>
+<GROUP_LABEL_2>Higher dose</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours lower dose</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours higher dose</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-003.01.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" MODIFIED="2008-11-07 11:48:40 +0000" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="40" TOTAL_2="41" WEIGHT="0.0" Z="0.0">
+<NAME>500 mg every 8 hours versus 1000 mg every 8 hours</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="39" O_E="0.0" SE="0.0" STUDY_ID="STD-Orlowski-2004" TOTAL_1="40" TOTAL_2="41" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.0332043441859573" CI_START="0.05154298679587985" DF="0.0" EFFECT_SIZE="0.23076923076923078" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="8" I2="0.0" ID="CMP-003.01.02" LOG_CI_END="0.014186223529176723" LOG_CI_START="-1.2878304187035252" LOG_EFFECT_SIZE="-0.6368220975871743" MODIFIED="2008-11-07 11:48:51 +0000" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Z="0.055205657493846025" STUDIES="1" TAU2="0.0" TOTAL_1="52" TOTAL_2="48" WEIGHT="100.0" Z="1.9172541046630323">
+<NAME>250 mg twice daily versus 500 mg twice daily</NAME>
+<DICH_DATA CI_END="1.0332043441859573" CI_START="0.05154298679587985" EFFECT_SIZE="0.23076923076923078" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="8" LOG_CI_END="0.014186223529176723" LOG_CI_START="-1.2878304187035252" LOG_EFFECT_SIZE="-0.6368220975871743" ORDER="40" O_E="0.0" SE="0.7648110207338132" STUDY_ID="STD-Warkentin-2002" TOTAL_1="52" TOTAL_2="48" VAR="0.5849358974358974" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-003.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" MODIFIED="2008-11-07 11:49:09 +0000" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="NaN" TOTALS="YES" TOTAL_1="40" TOTAL_2="41" WEIGHT="0.0" Z="0.0">
+<NAME>Viral isolates</NAME>
+<GROUP_LABEL_1>Lower dose</GROUP_LABEL_1>
+<GROUP_LABEL_2>Higher dose</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours lower dose</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours higher dose</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-003.02.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" MODIFIED="2008-11-07 11:49:09 +0000" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="40" TOTAL_2="41" WEIGHT="0.0" Z="0.0">
+<NAME>500 mg every 8 hours versus 1000 mg every 8 hours</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="41" O_E="0.0" SE="0.0" STUDY_ID="STD-Orlowski-2004" TOTAL_1="40" TOTAL_2="41" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-004" NO="4">
+<NAME>Prophylactic prostaglandin E versus placebo</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="3.13809068678182" CI_START="1.1154936682065817" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.8709677419354838" ESTIMABLE="YES" EVENTS_1="22" EVENTS_2="11" I2="0.0" I2_Q="0.0" ID="CMP-004.01" LOG_CI_END="0.4966654899838165" LOG_CI_START="0.047467109473512716" LOG_EFFECT_SIZE="0.2720662997286646" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="0.0" P_Z="0.017587710382945862" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="31" TOTAL_2="29" WEIGHT="100.0" Z="2.374185535884988">
+<NAME>Viral isolates</NAME>
+<GROUP_LABEL_1>PGE</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PGE</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.13809068678182" CI_START="1.1154936682065817" EFFECT_SIZE="1.8709677419354838" ESTIMABLE="YES" EVENTS_1="22" EVENTS_2="11" LOG_CI_END="0.4966654899838165" LOG_CI_START="0.047467109473512716" LOG_EFFECT_SIZE="0.2720662997286646" ORDER="42" O_E="0.0" SE="0.26386135227959717" STUDY_ID="STD-Labar-1993" TOTAL_1="31" TOTAL_2="29" VAR="0.06962281322681767" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2008-11-06 17:29:16 +0000" MODIFIED_BY="[Empty name]">
+<FIGURE FILENAME="Risk of bias graph.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2008-11-06 17:29:16 +0000" MODIFIED_BY="[Empty name]" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_GRAPH_PLOT">
+<CAPTION>
+<P>Methodological quality graph: review authors' judgements about each methodological quality item presented as percentages across all included studies.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAfMAAADOCAMAAAAdQhu+AAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD////AwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID/gAAAAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///80TKWtAAAISUlEQVR42u2d6ZKkKhCF7Y6K4OX4V6/KyxHRd/p2ubEruCvfmZpW
+2eWQCSgpTQNqw1cjqIS6oL+pg+oA53AO4BzAOYBzAOcAzsH18KriLjVEW8/e6uD8sursuHL9oNvp
+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
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Risk of bias summary.png" FILE_TYPE="PNG" ID="FIG-02" MODIFIED="2008-11-06 17:29:16 +0000" MODIFIED_BY="[Empty name]" NO="2" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_TABLE_PLOT">
+<CAPTION>
+<P>Methodological quality summary: review authors' judgements about each methodological quality item for each included study.</P>
+</CAPTION>
+<FILE>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
+gg==
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2008-11-06 12:11:59 +0000" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2008-11-06 12:11:59 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2008-11-06 12:10:33 +0000" MODIFIED_BY="[Empty name]">Subject search strategy for MEDLINE (OVID)</TITLE>
+<APPENDIX_BODY MODIFIED="2008-11-06 12:11:59 +0000" MODIFIED_BY="[Empty name]">
+<P>1. exp NEOPLASMS/<BR/>2. exp LEUKEMIA/<BR/>3. exp LYMPHOMA/<BR/>4. exp RADIOTHERAPY/<BR/>5. Bone Marrow Transplantation/<BR/>6. neoplasm$.mp.<BR/>7. cancer$.mp.<BR/>8. (leukaemi$ or leukemi$).mp.<BR/>9. (tumour$ or tumor$).mp.<BR/>10. malignan$.mp.<BR/>11. neutropeni$.mp.<BR/>12. carcino$.mp.<BR/>13. adenocarcinoma$.mp.<BR/>14. lymphoma$.mp.<BR/>15. (radioth$ or radiat$ or irradiat$ or radiochemo$).mp.<BR/>16. (bone adj marrow adj5 transplant$).mp.<BR/>17. chemo$.mp.<BR/>18. or/1-17<BR/>19. herpes simplex/ or herpes labialis/ or stomatitis, herpetic/<BR/>20. (herpes or herpetic or "cold sore$" or cold-sore$).mp.<BR/>21. simplexvirus/ or herpesvirus 1, human/ or herpesvirus 2, human/<BR/>22. HSV$.mp.<BR/>23. or/19-22<BR/>24. 18 AND 23</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

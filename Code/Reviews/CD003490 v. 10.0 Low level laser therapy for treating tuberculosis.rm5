@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003490.pub2" GROUP_ID="INFECTN" ID="875700050308520115" MERGED_FROM="" MODIFIED="2009-11-09 09:39:53 +0100" MODIFIED_BY="Anne-Marie Stephani" REVIEW_NO="VVLA" REVMAN_SUB_VERSION="5.0.22" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="10.0">
+<COVER_SHEET MODIFIED="2009-11-09 09:39:53 +0100" MODIFIED_BY="Anne-Marie Stephani">
+<TITLE>Low level laser therapy for treating tuberculosis</TITLE>
+<CONTACT MODIFIED="2009-11-09 09:39:53 +0100" MODIFIED_BY="Anne-Marie Stephani"><PERSON ID="6560" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Vasiliy</FIRST_NAME><MIDDLE_INITIALS>V</MIDDLE_INITIALS><LAST_NAME>Vlassov</LAST_NAME><EMAIL_1>vlassov@cochrane.ru</EMAIL_1><URL>vvvlas.googlepages.com</URL><MOBILE_PHONE>+79104099973</MOBILE_PHONE><ADDRESS><ORGANISATION/><ADDRESS_1>PO Box 13</ADDRESS_1><CITY>Moscow</CITY><ZIP>109451</ZIP><COUNTRY CODE="RU">Russian Federation</COUNTRY><PHONE_1>+7 495 6549353</PHONE_1><PHONE_2>+7 910 4099973</PHONE_2><FAX_1>+1 215 2611492</FAX_1><FAX_2>+7 495 4824312</FAX_2></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2009-11-09 09:39:53 +0100" MODIFIED_BY="Anne-Marie Stephani"><PERSON ID="6560" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Vasiliy</FIRST_NAME><MIDDLE_INITIALS>V</MIDDLE_INITIALS><LAST_NAME>Vlassov</LAST_NAME><EMAIL_1>vlassov@cochrane.ru</EMAIL_1><URL>vvvlas.googlepages.com</URL><MOBILE_PHONE>+79104099973</MOBILE_PHONE><ADDRESS><ORGANISATION/><ADDRESS_1>PO Box 13</ADDRESS_1><CITY>Moscow</CITY><ZIP>109451</ZIP><COUNTRY CODE="RU">Russian Federation</COUNTRY><PHONE_1>+7 495 6549353</PHONE_1><PHONE_2>+7 910 4099973</PHONE_2><FAX_1>+1 215 2611492</FAX_1><FAX_2>+7 495 4824312</FAX_2></ADDRESS></PERSON><PERSON ID="37654594209353473661090810172153" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Andrey</FIRST_NAME><MIDDLE_INITIALS>G</MIDDLE_INITIALS><LAST_NAME>Reze</LAST_NAME><POSITION>Assistant Professor</POSITION><EMAIL_1>andrey.reze@gmail.com</EMAIL_1><ADDRESS><DEPARTMENT>Department of Family Medicine</DEPARTMENT><ORGANISATION>Moscow Medical Academy</ORGANISATION><CITY>Moscow</CITY><COUNTRY CODE="RU">Russian Federation</COUNTRY></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2009-10-22 12:00:25 +0100" MODIFIED_BY="Anne-Marie Stephani">
+<UP_TO_DATE>
+<DATE DAY="20" MONTH="10" YEAR="2009"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="20" MONTH="10" YEAR="2009"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="20" MONTH="10" YEAR="2011"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2002"/>
+<REVIEW_PUBLISHED ISSUE="3" YEAR="2002"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2006"/>
+</DATES>
+<WHATS_NEW MODIFIED="2009-11-06 11:38:37 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2009-11-06 11:37:31 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<DATE DAY="20" MONTH="10" YEAR="2009"/>
+<DESCRIPTION>
+<P>Sources searched up to October 2009 and text updated. Change in second author. </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2009-11-06 11:43:02 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-11-06 11:38:37 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<DATE DAY="18" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format with minor editing.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2009-11-06 11:43:02 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<DATE DAY="20" MONTH="2" YEAR="2006"/>
+<DESCRIPTION>
+<P>2006, Issue 2: substantive update in which we included one new trial, updated the review authorship, and amended the inclusion criteria to allow only randomized controlled trials (quasi-randomized controlled trials and observational studies are excluded); no longer contains the description of non randomized studies.<BR/>
+</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Liverpool School of Tropical Medicine</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Department for International Development</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2009-11-06 11:43:37 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<SUMMARY MODIFIED="2009-11-06 11:37:35 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<TITLE>Not enough evidence to support using low level laser therapy alongside drug treatments for tuberculosis</TITLE>
+<SUMMARY_BODY MODIFIED="2009-11-06 11:37:35 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>Tuberculosis (TB) is a serious bacterial infection that can affect different parts of the body; most frequently it affects the lungs (pulmonary TB). Some bacteria can be drug resistant, and some people may have the infection alongside another medical condition. People suffer from severe cough, weakness and sweats, and some people still die from TB even though effective drug treatment has been around for many years. It is has been proposed that low level laser therapy may help the drugs to be more effective. There are a number of different devices for giving the laser treatment, some giving the treatment externally (to the body or acupuncture sites), some using for internal treatment (for blood or lungs) at varying doses. The review of trials found only one randomized trial where the data were poorly reported, and it did not clarify the potential benefits and harms. Low level laser therapy should only be used in randomized controlled trials until its value is evaluated.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2009-11-06 11:43:07 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<ABS_BACKGROUND>
+<P>The main treatment for tuberculosis is antituberculous drugs. Low level laser therapy is used as an adjunct to antituberculous drugs, predominantly in the former Soviet Union and India.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To compare low level laser therapy plus antituberculous drugs with antituberculous drugs alone for treating tuberculosis.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2009-11-06 11:43:07 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>We searched the Cochrane Infectious Diseases Group Specialized Register (October 2009), CENTRAL (The Cochrane Library 2009, Issue 4), MEDLINE (1966 to October 2009), EMBASE (1974 to October 2009), CINAHL (1982 to October 2009), Science Citation Index (1945 to October 2009), PEDro (1929 to October 2009 ), the Central Medical Library of Moscow catalogue (1988 to April 2009), the Internet, hand search of the journal Probl. Tuberk. Bolezn. Legk. (1980 to April 2009), where most relevant articles were published in previous years, and searched reference lists of articles. We contacted relevant organizations and researchers for the original version.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomized trials comparing low level laser therapy plus antituberculous drugs with antituberculous drugs alone in people with tuberculosis.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two authors independently assessed trial quality and extracted data, including adverse events.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>One randomized controlled trial (130 participants) conducted in India met the inclusion criteria. This trial was poorly reported, with no information on the generation of allocation sequence or allocation concealment. The trial report did not provide details on the group that each of the participants were randomized into or which group those participants that left the trial were from. This precluded the use of its data on time to sputum conversion and other outcome measures for analysis.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>The use of low level laser therapy for treating tuberculosis is still not supported by reliable evidence. Researchers need to focus on conducting well-designed randomized controlled trials to justify the continued participation of volunteers for studies of this experimental intervention.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2009-11-06 11:43:37 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<BACKGROUND MODIFIED="2009-08-02 14:20:02 +0100" MODIFIED_BY="[Empty name]">
+<P>Low level laser therapy as a treatment for tuberculosis has been the subject of published studies since the early 1990s (<LINK REF="REF-Vlassov-2002" TYPE="REFERENCE">Vlassov 2002</LINK>). It has been used to treat pulmonary tuberculosis (<LINK REF="REF-Badalov-1990" TYPE="REFERENCE">Badalov 1990</LINK>) and extrapulmonary tuberculosis (<LINK REF="REF-Iagafarova-1998" TYPE="REFERENCE">Iagafarova 1998</LINK>) caused by drug sensitive and multiple-drug-resistant mycobacteria (<LINK REF="REF-Bhagwanani-1996" TYPE="REFERENCE">Bhagwanani 1996</LINK>; <LINK REF="REF-Lomachenkov-1998" TYPE="REFERENCE">Lomachenkov 1998</LINK>), and people who have tuberculosis in addition to an underlying medical condition such as endobronchitis (<LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>). The mechanism of action of low level laser therapy in treating tuberculosis is not known, but it has been hypothesized that it involves the modulation of "information exchange between the human body and universe" or have anti-inflammatory, immunomodulatory, and anaesthetizing action within the human body (<LINK REF="REF-Illarionov-1998" TYPE="REFERENCE">Illarionov 1998</LINK>).</P>
+<P>A variety of different laser devices have been used for treating tuberculosis. They include gas lasers, such as the helium-neon laser and the nitrogen laser, and semiconductor lasers, such as the diode pulse beam arsenic-gallium laser. The devices typically deliver 2 mW to 200 mW, with the power density typically ranging from 0.05 W/cm<SUP>2</SUP> to 5 W/cm<SUP>2</SUP> (<LINK REF="REF-Alt-Med-2002" TYPE="REFERENCE">Alt Med 2002</LINK>). The laser therapy may be applied externally, such as to acupuncture points or surfaces of the body close to the internal organs affected by tuberculosis (anatomical projections of affected areas), or internally, such as to the blood or to the lung cavities or to bronches. Short external applications (usually less than one minute) are described as stimulating, while longer applications (greater than five minutes) are described as relaxing (<LINK REF="REF-Van-Breugel-1992" TYPE="REFERENCE">Van Breugel 1992</LINK>; <LINK REF="REF-Illarionov-1998" TYPE="REFERENCE">Illarionov 1998</LINK>). The lasers may be used in conjunction with an invasive procedure such as a bronchoscopy.</P>
+<P>The main treatment for tuberculosis is a course of antituberculous drugs taken over a period of at least six months (<LINK REF="REF-WHO-1999" TYPE="REFERENCE">WHO 1999</LINK>). This lengthy treatment course can make it difficult for people to adhere to the full course and can increase the frequency of cases where the <I>Mycobacterium tuberculosis</I> bacteria, which cause tuberculosis, develop resistance to the antituberculous drugs (<LINK REF="REF-Yew-1999" TYPE="REFERENCE">Yew 1999</LINK>). Lasers seem to be mainly used for treating tuberculosis in countries of the former Soviet Union and India in the belief that they may reduce the length of the treatment or increase the frequency of cure (<LINK REF="REF-Vlassov-2002" TYPE="REFERENCE">Vlassov 2002</LINK>).</P>
+<P>This Cochrane Review summarizes evaluates the available evidence on the role of low level laser therapy as an adjunct to antituberculous drugs for treating tuberculosis.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To compare low level laser therapy plus antituberculous drugs with antituberculous drugs alone for treating tuberculosis.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2009-11-06 11:43:37 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<SELECTION_CRITERIA MODIFIED="2008-10-25 19:09:38 +0100" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2008-10-25 19:09:25 +0100" MODIFIED_BY="[Empty name]">
+<P>Randomized controlled trials.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2008-10-25 19:09:27 +0100" MODIFIED_BY="[Empty name]">
+<P>People with tuberculosis affecting any organ. Diagnosis proven by a positive sputum smear or culture, or both, or through the examination of x-rays.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2008-10-25 19:09:38 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Intervention</HEADING>
+<P>Low level laser therapy used specifically for treating tuberculosis <I>plus</I> antituberculous drugs.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Control</HEADING>
+<P>Antituberculous drugs.</P>
+<P>
+<I>Antituberculous drug regimens and other baseline treatments must be identical for both groups. We excluded laser therapy used for coagulation, evaporation of tissues, drying of wounds or surfaces of organs, and photoactivation of drugs.</I>
+</P>
+</SUBSECTION>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-08-22 09:50:27 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="4">Primary</HEADING>
+<UL>
+<LI>All-cause death.</LI>
+<LI>Time to become sputum negative (smear or culture conversion, or both) for mycobacteria or frequency of conversion at two, five, six, or eight months.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Secondary</HEADING>
+<UL>
+<LI>Time to resolution of fever (or frequency of resolution of fever).</LI>
+<LI>Time to resolution of infiltration of lungs on x-ray* (or frequency of resolution).</LI>
+<LI>Time to lung cavity closure on x-ray* (or frequency of closure).</LI>
+<LI>Measure of lung function, such as forced vital capacity (FVC).</LI>
+</UL>
+<P>*X-rays must have been evaluated blindly and by no less than two specialists.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Adverse events</HEADING>
+<UL>
+<LI>Serious adverse events (leading to death, requiring hospitalization, or withdrawal from treatment).</LI>
+<LI>Other adverse events.</LI>
+</UL>
+</SUBSECTION>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2009-11-06 11:43:37 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>We have attempted to identify all relevant trials regardless of language or publication status (published, unpublished, in press, and in progress).</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Databases</HEADING>
+<P>We searched the following databases using the search terms and strategy described in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>: Cochrane Infectious Diseases Group Specialized Register (October 2009), CENTRAL (The Cochrane Library 2009, Issue 4), MEDLINE (1966 to October 2009), EMBASE (1974 to October 2009), CINAHL (1982 to October 2009), Science Citation Index (1945 to October 2009), PEDro (1929 to October 2009 ), LILACS (1982 to October 2009).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Other sources</HEADING>
+<P>We searched the electronic catalogue of the Central Medical Library in Moscow (1988 to April 2009) using the search terms tubercul* and laser*, the website of the National Centre for Science Information at the Indian Institute of Science (15 April 2002), handsearched the journal journal <I>Probl. Tuberk. Bolezn. Legk</I>. (2000 to April 2009), where most relevant articles were published in previous years. We used Google (July 2009) to search the Internet with the search terms tuberculosis and laser, and, for the <LINK REF="REF-Vlassov-2002" TYPE="REFERENCE">Vlassov 2002</LINK> version, handsearched the proceedings of all relevant conferences available in the Central Medical Library and the private literature collections of two specialists in the field. We contacted relevant organizations and researchers for the original version.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Researchers and organizations: unpublished and ongoing trials</HEADING>
+<P>For the original version of the review (<LINK REF="REF-Vlassov-2002" TYPE="REFERENCE">Vlassov 2002</LINK>), we contacted individual researchers working in the field and organizations including the Centre of Advanced Technology (India), the International Union Against Tuberculosis and Lung Disease (IUATLD), and the Central Tuberculosis Research Institute (CTRI) of the Russian Academy of Medical Science.<B> </B>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Reference lists</HEADING>
+<P>We also checked the reference lists of all studies identified by the above methods.</P>
+</SUBSECTION>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-08-22 09:59:28 +0100" MODIFIED_BY="[Empty name]">
+<STUDY_SELECTION MODIFIED="2008-08-22 09:58:14 +0100" MODIFIED_BY="[Empty name]">
+<P>Both authors independently screened the results of the literature search to identify potentially relevant studies, although only the first author screened the Russian language studies. We examined the full text of any potentially relevant articles before making a decision on their eligibility, and resolved differences in opinion through discussion. We attempted to contact the authors of studies where there was ambiguity.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-08-22 09:59:07 +0100" MODIFIED_BY="[Empty name]">
+<P>Both authors independently extracted data from the included trial.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-08-22 09:58:42 +0100" MODIFIED_BY="[Empty name]">
+<P>Both authors independently assessed the risk of bias in trials. We assessed the generation of allocation sequence and concealment of allocation as adequate, inadequate, or unclear according to <LINK REF="REF-Juni-2001" TYPE="REFERENCE">Juni 2001</LINK>; described who was blinded to the intervention; and assessed the percentage of randomized participants included in the analysis of a primary outcome measure, with 90% or more considered as adequate. We resolved differences through discussion and attempted to contact the trial authors for clarification where needed.</P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-08-22 09:59:17 +0100" MODIFIED_BY="[Empty name]">
+<P>We were unable to do any data analyses. We will refer to the methods described in the protocol should we need to conduct analyses in future updates.</P>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2009-11-06 11:37:46 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<STUDY_DESCRIPTION MODIFIED="2009-11-06 11:37:46 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>Of eight potentially relevant studies, we excluded seven studies, six conducted in Russia and one in Azerbaijan, for the reasons described in the '<LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>', and included one randomized controlled trial (<LINK REF="STD-Puri-2003" TYPE="STUDY">Puri 2003</LINK>).</P>
+<P>
+<LINK REF="STD-Puri-2003" TYPE="STUDY">Puri 2003</LINK> was conducted in New Delhi, India and enrolled 130 participants for an evaluation of the gallium-arsenide laser in the treatment of pulmonary tuberculosis. All participants received the same basic antituberculosis drug regimen in addition to either the laser treatment or sham laser treatment. Those receiving the laser had daily treatment for 10 days and were either admitted to hospital or attended the outpatient clinic. The treatment was external with the location guided by chest radiographs. Further details are provided in the '<LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>'. The participants in the sham irradiation control group used the same machine without switching it on.</P>
+<P>The trial measured a number of outcomes of which the sputum conversion and clinical improvement are relevant to this review; however, no data are available for the latter outcome. Although the trialists did not report adverse events or death as outcome measures, some data were reported that relate to these. The trial report provided information on these outcome measures, but the data were insufficient for analysis. The attempts to contact the author for clarification were unsuccessful. The trial report did not provide details on the group that each of the participants were randomized into or which group those participants that left the trial were from; the only details on group allocation was for the 65 participants who were cured (<I>see</I> <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>).</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>
+<LINK REF="STD-Puri-2003" TYPE="STUDY">Puri 2003</LINK> was described as a randomized controlled trial, but there is no information on how the allocation sequence was generated. It was also unclear how the allocation was concealed. The participants were blinded to the intervention, but it is unclear if this was the case also for the treatment providers and outcome assessors. In terms of the inclusion of the randomized participants available for the analysis of the time to sputum conversion (a primary outcome measure), the trialists have reported that 53.85% (70/130) of the enrolled participants completed treatment, but we are unsure to which treatment group five of these participants were allocated.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-08-22 09:51:55 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="3">Death from any cause</HEADING>
+<P>The trialists reported one death, but it is not clear which treatment group the person was in. No further details were provided.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Time to become sputum negative</HEADING>
+<P>The trialists did not report the number of participants enrolled into each group, which meant that we do not have the denominators for this analysis. Although the trialists did provide details on the sputum conversion, it was only for the 65 participants reported as cured.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2009-11-06 11:37:47 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>The original version of this review included a search for and description of non-randomized studies on low level laser therapy for tuberculosis (<LINK REF="REF-Vlassov-2002" TYPE="REFERENCE">Vlassov 2002</LINK>). Over 3500 participants and 60 researchers from India and countries throughout the former Soviet Union were involved in the 29 studies, which tended to report promising results. Since this time we have continued our search of the literature and have been surprised to find that only one randomized controlled trial has since been conducted. It has been disappointing to find that the description of the methods and results in the trial report meant that we were unable to summarize the findings. Any further studies conducted in this area must be well-designed randomized controlled trials, which should be reported in full to allow the wider scientific community to gain a better understanding of the potential value of this intervention.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>The one small randomized controlled trial that evaluated low level laser therapy for treating tuberculosis was poorly reported and does not clarify the potential benefits or harms of this intervention. The use of this intervention is not supported by reliable evidence.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Researchers need to focus on conducting well-designed randomized controlled trials to assess low level laser therapy for treating tuberculosis. The trialists must ensure that all participants give their consent, use pragmatic outcome measures including adverse events, and provide a detailed description of any antituberculous drugs used concurrently with the laser therapy (these should be the same in both the intervention and control groups). The trials should be reported in full and preferably conform to the Consolidated Standards of Reporting Trials (CONSORT) statement (<LINK REF="REF-Moher-2001" TYPE="REFERENCE">Moher 2001</LINK>).</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2009-11-06 11:37:53 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>We acknowledge the following support provided for the <LINK REF="REF-Vlassov-2002" TYPE="REFERENCE">Vlassov 2002</LINK> version of the review: Leonid M Pechatnikov for independently checking the Russian language contributing articles, Carrol Gamble (née Preston) for statistical support, and Bertie Squire and Paul Garner for advice. Harriet G MacLehose contributed to and was an author on previous versions of this review.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2009-08-07 12:15:44 +0100" MODIFIED_BY="[Empty name]">
+<P>Authors declare that they have no conflict of interest.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2009-08-07 12:15:17 +0100" MODIFIED_BY="[Empty name]">
+<P>Vasiliy V Vlassov and Harriet G MacLehose contributed equally to the previous version of the review. Vasiliy V Vlassov and Andrey G. Reze contributed equally to the update of the review</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2009-11-06 11:37:54 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>
+<B>2002, Issue 3:</B> We added "drying of wounds or surfaces of organs" to the types of interventions that are excluded; removed "as an adjunct therapy" from the objective because this is more appropriate since it is not necessarily used in combination with other treatments; and moved the description of non-randomized studies has been moved from the 'Background' into the main review under a separate subheading.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2009-08-02 14:56:09 +0100" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2009-08-02 14:56:09 +0100" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2009-08-02 14:50:47 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Puri-2003" NAME="Puri 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Puri MM, Arora VK</AU>
+<TI>Role of Gallium Arsenide laser irradiation at 890 nm as an adjunctive to anti-tuberculosis drugs in the treatment of pulmonary tuberculosis</TI>
+<SO>Indian Journal of Chest Diseases and Allied Sciences</SO>
+<YR>2003</YR>
+<VL>45</VL>
+<NO>1</NO>
+<PG>19-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2009-08-02 14:56:09 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Abashev-1997" NAME="Abashev 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Abashev IM, Kozlova AI</AU>
+<TI>Role of external laser radiation in the multimodality treatment of patients with destructive pulmonary tuberculosis</TI>
+<TO>Rol' naruzhnogo lasernogo oblucheniia v komplexnom lechenii bolnikh destructivnim tuberkulosom legkikh</TO>
+<SO>Problemy Tuberkuleza</SO>
+<YR>1997</YR>
+<NO>3</NO>
+<PG>23-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Agayev-2004" NAME="Agayev 2004" YEAR="2004">
+<REFERENCE NOTES="&lt;p&gt;Abstract: Aim of investigation. To study the efficacy of complex antibacterial therapy of first discovered destructive pulmonary tuberculosis including endobronchial laser therapy. Material &amp;amp; methods. Under observation were 577-patients with first discovered destructive pulmonary tuberculosis in whom endobronchial laser therapy was used by help of helium-neon laser LG-111. Irradiation dose during the session made-up 2,1 - 3 J. Results. By the end of the 4 month of antibacterial and laser therapy clinical recovery of bronchial tuberculosis was observed in the majority of main group patients, while in control group only in 1/3 of patients. Degree II-III stenosis and scarry transformation of mucous membrane in main group patients were formed significantly rare, than in control one (12,7% and 48,0%, accordingly) . After laser therapy closure of decay cavities from 3 to 5cm in diameter was achieved in 27,7% of main group patients in 4 months and in 34,4% - on the 6 month of treatment, while in patients of control group a great part of closures of decay cavities (67,9%) was noted after 6 months of treatment and later&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Agayev FF</AU>
+<TI>Effect of endobronchial laser therapy in first discovered destructive pulmonary tuberculosis</TI>
+<SO>Azerbaijan Medical Journal</SO>
+<YR>2004</YR>
+<NO>2</NO>
+<PG>45-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Lovacheva-2006" MODIFIED="2009-08-02 14:56:09 +0100" MODIFIED_BY="[Empty name]" NAME="Lovacheva 2006" YEAR="2006">
+<REFERENCE MODIFIED="2009-08-02 14:56:09 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lovacheva OV, Shumskaia II, Sidorova NF, Evgushchenko GV, Nikitin AV</AU>
+<TI>Use of endobronchial laser ultraviolet irradiation in the complex treatment of bronchial tuberculosis</TI>
+<TO>Primenenie endobronkhial'nogo lazernogo izlucheniia v komplexnoi terapii tuberkuleza bronkhov</TO>
+<SO>Probl Tuberk Bolezn Legk</SO>
+<YR>2006</YR>
+<NO>12</NO>
+<PG>20-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Maliev-1991a" NAME="Maliev 1991a" YEAR="1991a">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Maliev BM, Selitskaia RP, Kupavtseva EA</AU>
+<TI>Dynamics of the indices of the immune system as affected by endobronchial laser therapy in patients with complicated tuberculosis of the lungs</TI>
+<TO>Dinamika pokazateley immunnoi sistemi pod vliianiem lazeroterapii u patsientov s oslozhnennim tuberkulezom legkikh</TO>
+<SO>Problemy Tuberkuleza</SO>
+<YR>1991</YR>
+<NO>9</NO>
+<PG>64-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Maliev-2001b" NAME="Maliev 2001b" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Maliev BM, Shesterina MV</AU>
+<SO>Lazeri v pulmonologii [Lasers in pulmonology]</SO>
+<YR>2001</YR>
+<PG>87-107</PG>
+<PB>Tekhnika</PB>
+<CY>Moscow</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shesterina-1991" NAME="Shesterina 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shesterina MV, Maliev BM</AU>
+<TI>Helium-neon laser in the complex therapy of patients with lung tuberculosis</TI>
+<TO>Gelii-neonovii laser v komplexnom lechenii bolnikh tuberkulesom legkikh</TO>
+<SO>Problemy Tuberkuleza</SO>
+<YR>1991</YR>
+<NO>5</NO>
+<PG>23-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Topolnitskii-1992" NAME="Topolnitskii 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="BOOK">
+<AU>Topolnitskii VG</AU>
+<SO>Vozmozhnosti vnutrivennogo ispolzovaniia gelii-neonovogo lasera vo ftiziatrii [Perspectives of the laser's intravenous use in phthysiatry] [dissertation]</SO>
+<YR>1992</YR>
+<PB>Moscow Research &amp; Development Institute for Tuberculosis, Ministry of Health, Russian Federation</PB>
+<CY>Moscow</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-08-22 10:24:02 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Alt-Med-2002" NAME="Alt Med 2002" TYPE="OTHER">
+<AU>Alternative Medicine</AU>
+<TI>Laser</TI>
+<SO>www.geocities.com/altmedd/laser.htm</SO>
+<YR>(accessed 21 January 2002)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Badalov-1990" NAME="Badalov 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Badalov RK, Tsym VF</AU>
+<TI>Use of laser therapy in combined treatment of pulmonary tuberculosis in children and adolescents</TI>
+<TO>Primenenie laserterapii v komplexnom lechenii tuberkuleza legkikh u detei i podrostkov</TO>
+<SO>Problemy Tuberkuleza</SO>
+<YR>1990</YR>
+<NO>2</NO>
+<PG>41-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bhagwanani-1996" NAME="Bhagwanani 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Bhagwanani NS, Bhatia GC, Sharma N</AU>
+<TI>Low level nitrogen laser therapy in pulmonary tuberculosis</TI>
+<SO>Journal of Clinical Laser Medicine and Surgery</SO>
+<YR>1996</YR>
+<VL>14</VL>
+<NO>1</NO>
+<PG>23-5</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="184"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2005" NAME="Higgins 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins J, Green S, editors</AU>
+<TI>Highly sensitive search strategies for identifying reports of randomized controlled trials in MEDLINE. Cochrane Handbook for Systematic Reviews of Interventions 4.2.5 [updated May 2005]; Appendix 5b</TI>
+<SO>www.cochrane.org/resources/handbook/hbook.htm</SO>
+<YR>(accessed 1 October 2005)</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Iagafarova-1998" NAME="Iagafarova 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Iagafarova RK, Gamzakov RV, Manicheva OA</AU>
+<TI>Evaluation of complex therapy efficiency for urogenital tuberculosis</TI>
+<TO>Otsenka effektivnosti komplexnoi terapii tuberkulesa mochepolovikh organov</TO>
+<SO>Problemy Tuberkuleza</SO>
+<YR>1998</YR>
+<NO>2</NO>
+<PG>38-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Illarionov-1998" NAME="Illarionov 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Illarionov VE</AU>
+<TI>Basics of practical laser therapy</TI>
+<TO>Prakticheskie osnovi lasernoi terapii</TO>
+<SO>Vrach</SO>
+<YR>1998</YR>
+<NO>3</NO>
+<PG>17-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Juni-2001" NAME="Juni 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Juni P, Altman DG, Egger M</AU>
+<TI>Systematic reviews in health care: Assessing the quality of controlled clinical trials</TI>
+<SO>BMJ</SO>
+<YR>2001</YR>
+<VL>323</VL>
+<NO>7303</NO>
+<PG>42-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lomachenkov-1998" NAME="Lomachenkov 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Lomachenkov VD, Kuprikova IM, Riazhechkina LA, Pochtennyi IT, Pavliunina AD</AU>
+<TI>Inhibitory effects of electric UHF field and magnetic infrared laser irradiation on Mycobacterium tuberculosis</TI>
+<TO>Ingibiruiuschee deistvie electricheskogo polia UVCh i magnito-infrakrasno-lasernogo izlucheniia na mikobakterii tuberkulesa</TO>
+<SO>Problemy Tuberkuleza</SO>
+<YR>1998</YR>
+<NO>4</NO>
+<PG>53-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Maliev-1991b" NAME="Maliev 1991b" TYPE="BOOK_SECTION">
+<AU>Maliev BM</AU>
+<TI>Endobronchial use of different lasers in the complex treatment of patients with complicated thoracic tuberculosis</TI>
+<TO>Endobronchialnoe ispolsovanie razlichnikh laserov v komplexnom lechenii bolnikh oslozhnennimi formami vnutrigrudnogo tuberkulesa</TO>
+<SO>Ispolzovanie laserov vo phthiziopulmonologii</SO>
+<YR>1991</YR>
+<PG>14-20</PG>
+<ED>Shesterina MV</ED>
+<PB>Moscow R&amp;D Institute for Tuberculosis, Ministry of Health of RSFSR</PB>
+<CY>Moscow</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Maliev-2001a" NAME="Maliev 2001a" TYPE="BOOK_SECTION">
+<AU>Maliev BM, Shesterina MV</AU>
+<SO>Lazeri v pulmonologii [Lasers in pulmonology]</SO>
+<YR>2001</YR>
+<PG>112-36</PG>
+<PB>Tekhnika</PB>
+<CY>Moscow</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Moher-2001" NAME="Moher 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Moher D, Schulz KF, Altman DG, for the CONSORT Group</AU>
+<TI>The CONSORT statement: revised recommendations for improving the quality of reports of parallel-group randomised trials</TI>
+<SO>Lancet</SO>
+<YR>2001</YR>
+<VL>357</VL>
+<PG>1191-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Van-Breugel-1992" NAME="Van Breugel 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Van Breugel HH, Bar PR</AU>
+<TI>Power density and exposure time of He-Ne laser irradiation are more important than total energy dose in photo-biomodulation of human fibroblasts in vitro</TI>
+<SO>Lasers in Surgery and Medicine</SO>
+<YR>1992</YR>
+<VL>12</VL>
+<NO>5</NO>
+<PG>528-37</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="1406006"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-1999" NAME="WHO 1999" TYPE="BOOK">
+<AU>World Health Organization; Communicable Diseases Cluster</AU>
+<SO>What is DOTS? A guide to understanding the WHO-recommended TB control strategy known as DOTS</SO>
+<YR>1999</YR>
+<PB>World Health Organization</PB>
+<CY>Geneva</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yew-1999" NAME="Yew 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Yew WW</AU>
+<TI>Directly observed therapy, short-course: the best way to prevent multidrug-resistant tuberculosis</TI>
+<SO>Chemotherapy</SO>
+<YR>1999</YR>
+<VL>45 Suppl 2</VL>
+<PG>26-33</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="245"/>
+</IDENTIFIERS>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2008-08-22 10:24:02 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Vlassov-2002" MODIFIED="2008-08-22 10:24:02 +0100" MODIFIED_BY="[Empty name]" NAME="Vlassov 2002" TYPE="COCHRANE_REVIEW">
+<AU>Vlassov VV, Pechatnikov LM, MacLehose HG</AU>
+<TI>Low level laser therapy for treating tuberculosis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2008-08-22 10:24:02 +0100" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-22 10:24:02 +0100" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003490"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2009-11-06 11:38:00 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2009-08-02 14:50:47 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-08-22 10:07:57 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Puri-2003">
+<CHAR_METHODS>
+<P>Generation of allocation sequence: notes that "patients were randomly divided into two groups", but method unclear</P>
+<P>Allocation concealment: unclear</P>
+<P>Blinding: participants blinded, but unclear if provider and outcome assessor blinded</P>
+<P>Inclusion of all randomized participants in analysis: 53.85% (70/130) completed treatment and were available for analysis, but unclear which group all of these participants belonged to</P>
+<P>Length of follow up: 135 days</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Number: 130 enrolled</P>
+<P>Inclusion criteria: new sputum smear positive pulmonary tuberculosis patients</P>
+<P>Exclusion criteria: history of frank haemoptysis, diabetes mellitus, liver disease and alcohol abuse</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-22 10:07:45 +0100" MODIFIED_BY="[Empty name]">
+<P>Basic antituberculous regimen for both groups: 2 months daily intensive phase with isoniazid, rifampicin, ethambutol, and pyrazinamide, followed by 4 months of daily isoniazid and rifampicin; intensive phase extended for 1 more month in those participants whose sputum microscopy result was positive for acid fast bacilli at the end of 2 months</P>
+<P>1. Low level laser therapy</P>
+<UL>
+<LI>Type of laser: semiconductor laser therapy; double channel laser equipment (gallium arsenide)</LI>
+<LI>Power: wavelength of 890 nm, frequency of 1500 Hz, and output of 4 to 6 mW</LI>
+<LI>Site of application: site of external laser irradiation guided by location of the radiological lesion on chest radiography; laser probe placed in intercostals space corresponding to site of lesion both anteriorly and posteriorly</LI>
+<LI>Length of each application: each laser irradiation for 4 minutes; total duration did not exceed 12 minutes (eg 3 fields of 4 minutes) per day</LI>
+<LI>Total number of applications: daily for 10 days</LI>
+<LI>Note: patients admitted into hospital for the laser therapy; those patients who consented to come daily were treated from outpatient clinic</LI>
+</UL>
+<P>2. Sham irradiation (placebo effect) using same machine without switching it on</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-08-22 10:07:57 +0100" MODIFIED_BY="[Empty name]">
+<P>1. Clinical improvement in symptoms (not defined)<BR/>2. Sputum examination for acid-fast bacilli by Ziehl-Neelsen method: patient considered sputum negative when sputum microscopy results were negative for acid-fast bacilli and remained negative on subsequent examination</P>
+<P>Other outcomes in trial report that are not used in review:<BR/>3. Weight gain (change in mean body mass index)<BR/>4. Haemoglobin (not defined)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Location: Department of Tuberculosis and Chest Diseases, LRS Institute of Tuberculosis and Allied Diseases, Sri Aurobindo Marg, New Delhi, India</P>
+<P>Date: unclear, pre-2001 because paper received at journal office on 19 October, 2001</P>
+<P>HIV status of participants: specifically states that HIV testing not done</P>
+<P>Consent: all participants gave informed consent</P>
+<P>Contacting trial authors: we attempted to contact the corresponding author on two occasions in 2005 for clarifications and further information, but we were unsuccessful</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2009-11-06 11:38:00 +0000" MODIFIED_BY="Anne-Marie Stephani" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2008-10-25 19:10:19 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Abashev-1997">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-25 19:10:19 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Russia</P>
+<P>Excluded because we were unable to determine if this is a randomized controlled trial. The trial report says 5 study groups were formed using the results of the therapy, but continues to say that the 5 groups were different because they received different therapy: (1) antibacterial; (2) antibacterial plus LLLT of projections to surfaces of the body close to the internal organs affected by tuberculosis (ie, anatomical projections of affected areas); (3) antibacterial plus ultrasound therapy; (4) antibacterial plus LLLT on anatomical projections of affected organs plus ultrasound therapy; and (5) antibacterial plus LLLT on acupuncture points plus ultrasound therapy. In correspondence received from the author, the authors stated that the "groups were formed by the method of random sample". However, the trial author did not explicitly state that this was a prospective study, and if participants were randomly assigned to groups, what method was used for randomization; further attempts to contact the trial author were unsuccessful</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-10-25 19:10:28 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Agayev-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-25 19:10:28 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Azerbaijan</P>
+<P>Study not randomized</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-11-06 11:38:00 +0000" MODIFIED_BY="Anne-Marie Stephani" STUDY_ID="STD-Lovacheva-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-11-06 11:38:00 +0000" MODIFIED_BY="Anne-Marie Stephani">
+<P>Location: Russia</P>
+<P>The method of randomization was not reported. After being contacted, the leading author explained that there was no systematic application of true randomization procedure for allocation of treatments.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-10-25 19:10:40 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Maliev-1991a">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-25 19:10:40 +0100" MODIFIED_BY="[Empty name]">
+<P>Also see <LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK> and <LINK REF="STD-Maliev-2001b" TYPE="STUDY">Maliev 2001b</LINK>
+</P>
+<P>Location: Russia</P>
+<P>Excluded because we were unable to determine if this is a randomized controlled trial. This study was first published as a controlled trial or comparison of patients selected from the current practice. In <LINK REF="STD-Maliev-2001b" TYPE="STUDY">Maliev 2001b</LINK>, the same study was described as 'randomized'. The authors did not mention the method of randomization, concealment of allocation, or blinding</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-10-25 19:10:50 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Maliev-2001b">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-25 19:10:50 +0100" MODIFIED_BY="[Empty name]">
+<P>Also see <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK> and <LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>
+</P>
+<P>Location: Russia</P>
+<P>Excluded because there is a discrepancy in the number of participants included in the study. The same group of authors wrote this study report as for <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK> and <LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>. The study description is very similar to <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK>, although the immunoglobulin results are presented more extensively. While <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK> mentioned that two participants dropped out because of poor adherence, <LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK> reported one dropout and <LINK REF="STD-Maliev-2001b" TYPE="STUDY">Maliev 2001b</LINK> also reports one dropout. Despite the different number of participants in <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK> and <LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>, the results were described with identical numbers (see <LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-10-25 19:11:43 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Shesterina-1991">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-25 19:11:43 +0100" MODIFIED_BY="[Empty name]">
+<P>Also see <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK> and <LINK REF="STD-Maliev-2001b" TYPE="STUDY">Maliev 2001b</LINK>
+</P>
+<P>Location: Russia</P>
+<P>Excluded because there is a discrepancy in the number of participants included in the study. The same group of authors wrote this study report as for <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK>. The study design was the same, but number of participants was only 56, not 102. While <LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK> mentioned that 2 participants dropped out because of low adherence, this study (<LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>) did not report any dropouts. In a further publication of the data of the same 56 participants (<LINK REF="REF-Maliev-1991b" TYPE="REFERENCE">Maliev 1991b</LINK> - Additional references), 1 participant was reported to have dropped out. In the latest publication (<LINK REF="REF-Maliev-2001a" TYPE="REFERENCE">Maliev 2001a</LINK>), 5 participants in the intervention group and 5 participants in the control group are reported to have dropped out. Despite different number of participants in two reports (<LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK>, <LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>), the outcomes were described with identical numbers as shown below:</P>
+<P>
+<LINK REF="STD-Maliev-1991a" TYPE="STUDY">Maliev 1991a</LINK>:<BR/>1. Catarrhal endobronchitis "clinically cured" in 25/25 participants during 0.99+-0.1 months of treatment in the intervention group and in 18/28 participants during 2.58+-0.23 months in the control group.<BR/>2. Purulent endobronchitis relying on the bronchoscopy was cured in 25/26 participants (1 dropout/17 participants) during 1.13+-0.11 months in the intervention group and 13/22 participants during 3.43+-0.51 months in the control group</P>
+<P>
+<LINK REF="STD-Shesterina-1991" TYPE="STUDY">Shesterina 1991</LINK>:<BR/>1. Catarrhal endobronchitis "clinically cured" in 13/13 participants during 0.99+-0.09 months of treatment in the intervention group and 9/14 participants during 2.58+-0.23 months in the control group.<BR/>2. Purulent endobronchitis relying on the bronchoscopy was cured in 15/16 participants (1 dropout/17 participants) during 1.13+-0.11 months in the intervention group and 7/12 participants during 3.43+-0.51 months in the control group</P>
+<P>Repeated attempts to contact investigators to clear the problems with publications and study design were unsuccessful. In the light of these discrepancies we are unable to include this study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-10-25 19:11:25 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Topolnitskii-1992">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-25 19:11:25 +0100" MODIFIED_BY="[Empty name]">
+<P>Location: Russia</P>
+<P>Excluded because the intervention and control groups did not receive the same baseline treatments: the control group received "pathogenetic" interventions (methyluracil, insulin, sodium thiosulphate) and no LLLT; the intervention group received no "pathogenetic" interventions, but did receive LLLT. The report in the full text dissertation says participants were distributed into two groups using a random numbers table. Concealment of allocation and blinding were not mentioned. Of the 25 participants in the intervention group, 6 were excluded because of poor adherence and discharged from the hospital between 1 to 3 months of therapy. No participants were excluded from the control group. The outcomes presented for the intervention group were calculated only for the participants that remained in the study. The trial author did not respond to our requests for further information</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES>
+<P>LLLT: low level laser therapy.</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2009-08-02 14:50:47 +0100" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2009-08-02 14:50:47 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-10-25 19:13:05 +0100" MODIFIED_BY="[Empty name]"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES"/>
+<FIGURES MODIFIED="2008-10-25 19:13:22 +0100" MODIFIED_BY="[Empty name]">
+<FIGURE FILENAME="Other figure.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2008-10-25 19:13:22 +0100" MODIFIED_BY="[Empty name]" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Flow of participants as reported in <LINK REF="STD-Puri-2003" TYPE="STUDY">Puri 2003</LINK>
+</P>
+</CAPTION>
+<FILE>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
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2008-10-25 19:12:41 +0100" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2008-10-25 19:12:41 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2008-10-25 19:12:07 +0100" MODIFIED_BY="[Empty name]">Search methods: search strategies for databases</TITLE>
+<APPENDIX_BODY MODIFIED="2008-10-25 19:12:41 +0100" MODIFIED_BY="[Empty name]">
+<TABLE COLS="9" ROWS="7">
+<TR>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>Search set</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>CIDG SR<SUP>a</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>CENTRAL</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>MEDLINE<SUP>b</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>EMBASE<SUP>b</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>LILACS<SUP>b</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>CINAHL<SUP>b</SUP>
+</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>SCI</P>
+</TH>
+<TH ALIGN="LEFT" VALIGN="BOTTOM">
+<P>PEDro</P>
+</TH>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tuberculosis</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tubercul*</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TUBERCULOSIS</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TUBERCULOSIS</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tubercul*</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tubercul*</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tubercul*</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tubercul*</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tubercul*</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>tubercul$</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>TB</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2 or 3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>1 or 2 or 3</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3 and 4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3 and 4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>laser</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3 and 4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3 and 4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3 and 4</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>3 and 4</P>
+</TD>
+</TR>
+<TR>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>6</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4 and 5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>4 and 5</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+<TD ALIGN="LEFT" VALIGN="TOP">
+<P>&#8212;</P>
+</TD>
+</TR>
+</TABLE>
+<P>
+<SUP>a</SUP>Cochrane Infectious Diseases Group Specialized Register.<BR/>
+<SUP>b</SUP>Search terms used in combination with the search strategy for retrieving trials developed by The Cochrane Collaboration (<LINK REF="REF-Higgins-2005" TYPE="REFERENCE">Higgins 2005</LINK>); upper case: MeSH or EMTREE heading; lower case: free text term.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

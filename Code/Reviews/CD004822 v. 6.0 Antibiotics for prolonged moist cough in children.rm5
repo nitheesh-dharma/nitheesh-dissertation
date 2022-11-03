@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD004822.pub2" GROUP_ID="AIRWAYS" ID="546604021117223393" MERGED_FROM="" MODIFIED="2011-01-18 12:01:45 +0100" MODIFIED_BY="Emma Welsh" NOTES="&lt;p&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;CJC editing 2 June&lt;br&gt;Thanks for responding to the Peer Review comments. PLEASE WORK FROM THE LATEST VERSION OF THE REVIEW IN FUTURE&lt;br&gt;I have restored the labels for the graphs and rechecked the text (replacing numbers under 10 in the text with the work format (two not 2))&lt;br&gt;I am happy with the current version and it can now proceed for submission.&lt;/p&gt;&lt;p&gt;+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;CJC Edit 5 May 05&lt;br&gt;Authors' Contribution -f ine&lt;/p&gt;&lt;p&gt;Objectives - fine&lt;/p&gt;&lt;p&gt;References - checked by Liz&lt;/p&gt;&lt;p&gt;Table of included studies - very clear&lt;/p&gt;&lt;p&gt;Metaview Labels - amended to indicate direction of benefit&lt;/p&gt;&lt;p&gt;Synopsis - happy with changes&lt;/p&gt;&lt;p&gt;Abstract - as above&lt;/p&gt;&lt;p&gt;Methods - clear. Helpful description of components of quality assessment.&lt;/p&gt;&lt;p&gt;Results - well described&lt;/p&gt;&lt;p&gt;Discussion - fine&lt;/p&gt;&lt;p&gt;Spellchecked - done&lt;/p&gt;&lt;p&gt;Next action - this is ready for peer review. Well done for producing such a clear and high quality review.&lt;/p&gt;&lt;p&gt;========================================================&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;CJC edit for TSANZ.&lt;br&gt;This looks good. I would question the one in ten having a side effect as this does not seem to flow from the data in the review. I do not think you can estimate an NNT(H) when there is no significant difference between groups. Also the choice on antibiotic is going to be dependent on local resistance patterns so I do not think you should specify choices in an international review?&lt;br&gt;Look forward to meeting you in Perth.&lt;br&gt;Chris.&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2011-01-18 10:59:27 +0000" NOTES_MODIFIED_BY="Emma J Welsh" REVIEW_NO="ABI-OTH" REVMAN_SUB_VERSION="5.0.25" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="6.0">
+<COVER_SHEET MODIFIED="2011-01-18 12:01:45 +0100" MODIFIED_BY="Emma Welsh">
+<TITLE>Antibiotics for prolonged moist cough in children</TITLE>
+<CONTACT MODIFIED="2011-01-18 12:01:45 +0100" MODIFIED_BY="Emma Welsh"><PERSON ID="12449" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Julie</FIRST_NAME><MIDDLE_INITIALS>M</MIDDLE_INITIALS><LAST_NAME>Marchant</LAST_NAME><POSITION>Senior Lecturer</POSITION><EMAIL_1>juliedarrentexas@yahoo.com</EMAIL_1><EMAIL_2>j.marchant@uq.edu.au</EMAIL_2><ADDRESS><DEPARTMENT>Department of Respiratory Medicine</DEPARTMENT><ORGANISATION>Queensland Children's Medical Research Institute</ORGANISATION><ADDRESS_1>Royal Children's Hospital</ADDRESS_1><ADDRESS_2>Herston Rd</ADDRESS_2><CITY>Herston</CITY><ZIP>4029</ZIP><REGION>Qld</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>61 7 36368523</PHONE_1><PHONE_2>61417606806</PHONE_2><FAX_1>61 7 36361958</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2011-01-18 12:01:45 +0100" MODIFIED_BY="Emma Welsh"><PERSON ID="12449" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Julie</FIRST_NAME><MIDDLE_INITIALS>M</MIDDLE_INITIALS><LAST_NAME>Marchant</LAST_NAME><POSITION>Senior Lecturer</POSITION><EMAIL_1>juliedarrentexas@yahoo.com</EMAIL_1><EMAIL_2>j.marchant@uq.edu.au</EMAIL_2><ADDRESS><DEPARTMENT>Department of Respiratory Medicine</DEPARTMENT><ORGANISATION>Queensland Children's Medical Research Institute</ORGANISATION><ADDRESS_1>Royal Children's Hospital</ADDRESS_1><ADDRESS_2>Herston Rd</ADDRESS_2><CITY>Herston</CITY><ZIP>4029</ZIP><REGION>Qld</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>61 7 36368523</PHONE_1><PHONE_2>61417606806</PHONE_2><FAX_1>61 7 36361958</FAX_1></ADDRESS></PERSON><PERSON ID="4854" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Peter</FIRST_NAME><MIDDLE_INITIALS>S</MIDDLE_INITIALS><LAST_NAME>Morris</LAST_NAME><POSITION>Head</POSITION><EMAIL_1>Peter.Morris@menzies.edu.au</EMAIL_1><ADDRESS><DEPARTMENT>Ear Health and Education Unit, Menzies School of Health Research</DEPARTMENT><ORGANISATION>Royal Darwin Hospital, Block 4</ORGANISATION><ADDRESS_1>PO Box 41096</ADDRESS_1><CITY>Darwin</CITY><ZIP>0811</ZIP><REGION>Northern Territory</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 8 8922 8196 ext: 28371</PHONE_1><PHONE_2>+61 8 8948 2291</PHONE_2><FAX_1>+61 8 8922 5187</FAX_1></ADDRESS></PERSON><PERSON ID="001B133882E26AA2009C393DDCE80C10" ROLE="AUTHOR"><PREFIX>Mr</PREFIX><FIRST_NAME>Justin</FIRST_NAME><LAST_NAME>Gaffney</LAST_NAME><POSITION>Clinical research nurse</POSITION><EMAIL_1>justin_gaffney@health.qld.gov.au</EMAIL_1><ADDRESS><DEPARTMENT>Respiratory Medicine</DEPARTMENT><ORGANISATION>Royal Children's Hospital</ORGANISATION><ADDRESS_1>Herston Road</ADDRESS_1><ADDRESS_2>Herston</ADDRESS_2><CITY>Brisbane</CITY><ZIP>4029</ZIP><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>61 7 36369253</PHONE_1><FAX_1>61 7 36361958</FAX_1></ADDRESS></PERSON><PERSON ID="12396" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Anne</FIRST_NAME><MIDDLE_INITIALS>B</MIDDLE_INITIALS><LAST_NAME>Chang</LAST_NAME><POSITION>Consultant in Paediatric Respiratory Medicine, NHMRC Practitioner Fellow</POSITION><EMAIL_1>annechang@ausdoctors.net</EMAIL_1><EMAIL_2>Anne.chang@menzies.edu.au</EMAIL_2><ADDRESS><DEPARTMENT>Royal Children's Hospital, Brisbane and Menzies School of Health Research, CDU, Darwin</DEPARTMENT><ORGANISATION>Queensland Children's Respiratory Centre and Queensland Children's Medical Research Institute</ORGANISATION><ADDRESS_1>Herston Road</ADDRESS_1><ADDRESS_2>Herston</ADDRESS_2><CITY>Brisbane</CITY><ZIP>4029</ZIP><REGION>Queensland</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 7 36369149</PHONE_1><PHONE_2>+61  411 699022</PHONE_2><FAX_1>+61 7 36361958</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2011-01-13 14:39:23 +0000" MODIFIED_BY="Emma J Welsh">
+<UP_TO_DATE>
+<DATE DAY="8" MONTH="10" YEAR="2010"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="8" MONTH="10" YEAR="2010"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="25" MONTH="10" YEAR="2012"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="2004"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2005"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2005"/>
+</DATES>
+<WHATS_NEW MODIFIED="2011-01-13 14:57:50 +0000" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-01-13 14:57:50 +0000" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="8" MONTH="10" YEAR="2010"/>
+<DESCRIPTION>
+<P>New literature search run, no new studies found.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2011-01-13 14:37:07 +0000" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2011-01-13 14:37:07 +0000" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="8" MONTH="4" YEAR="2008"/>
+<DESCRIPTION>
+<P>Updated with searches until 19 March 2008; no new studies were eligible</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="6" MONTH="7" YEAR="2005"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Royal Children's Hospital Foundation, Brisbane</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Australian Cochrane Airways Group Scholarship 2004</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2011-01-14 14:59:01 +0000" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-04-08 08:58:56 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-04-08 08:58:56 +0100" MODIFIED_BY="Toby J Lasserson">Antibiotics for prolonged moist cough in children</TITLE>
+<SUMMARY_BODY>
+<P>Cough is the most common symptom which presents to doctors. Some people recommend treating prolonged moist cough with antibiotics. Two small RCTs were available for analysis although both have methodological flaws. They found that treatment with antibiotics for prolonged moist cough in children was beneficial with one clinical cure for every three children treated. Antibiotics resulted in the prevention of illness progression for one in every four patients treated. There were no significant side effects in these trials. Long-term outcomes were not assessed. This evidence is limited by poor study design and quality. This review supports the use of antibiotics in children with prolonged wet cough. However further RCTs using better study design, specifically the inclusion and exclusion factors and validated outcome measures, are required.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2011-01-13 14:39:52 +0000" MODIFIED_BY="Emma J Welsh">
+<ABS_BACKGROUND MODIFIED="2011-01-13 14:39:52 +0000" MODIFIED_BY="Emma J Welsh">
+<P>Cough is the most common symptom which presents to doctors. Chronic cough is reported in up to 9% of preschool aged children. American general practice guidelines suggest antimicrobial treatment may be indicated in children with cough lasting longer than 10 days. Questions concerning the benefits and harm of antibiotic treatment for prolonged cough in children need to be resolved.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>A Cochrane systematic review was undertaken to determine the efficacy of antibiotics in treating children with chronic moist cough (excluding those with bronchiectasis or other underlying respiratory illnesses).</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2011-01-13 14:39:34 +0000" MODIFIED_BY="Emma J Welsh">
+<P>The Cochrane Register of Controlled Trials (CENTRAL), the Cochrane Airways Group Specialised Register, MEDLINE, EMBASE, review articles and reference lists of relevant articles were searched. The latest searches were performed in October 2010.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomised controlled trials (RCTs) comparing antibiotics with a placebo or a control group in children with chronic moist cough were considered.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Results of searches were reviewed against pre-determined criteria for inclusion. Two independent reviewers selected, extracted and assessed the data for inclusion. Authors were contacted for further information. Data were analysed as 'intention to treat'.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2011-01-13 14:39:42 +0000" MODIFIED_BY="Emma J Welsh">
+<P>Two studies were eligible for inclusion in the review. Neither study was high quality. Both studies failed to include a prospective analysis of cough quality in their inclusion criteria, although indicating &gt;75% of children included had moist cough (<A HREF="Darelid 1993">Darelid 1993</A>). A total of 140 patients, aged seven years or less, were included in meta-analysis. Treatment with antibiotics reduced the proportion of children not cured at follow-up (primary outcome measure) in both studies; pooled odds ratio (OR) was 0.13, 95% CI 0.06 to 0.32 (using intention to treat analysis), which translates to number needed to treat (NNT) of 3 (95% CI 2 to 4). No significant heterogeneity was found (fixed and random-effects model I<SUP>2</SUP> was 4%). However for this outcome measure, the overall estimate of effect and degree of statistical heterogeneity were sensitive to the model used for meta-analysis. Progression of illness, defined by requirement for further antibiotics, was significantly lower in the treatment group (OR 0.10, 95%CI 0.03 to 0.34), NNT was 4 (95% CI 3 to 5). Adverse events were not significantly increased in the treatment group.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Antibiotics are likely to be beneficial in the treatment of children with chronic moist cough. This evidence is however limited by study quality, study design and sensitivity analysis data. The use of antibiotics however has to be balanced against their well known adverse events. Further well-designed RCTs using valid cough outcome measures are needed to answer this question conclusively.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2011-01-14 14:59:01 +0000" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2011-01-13 14:47:48 +0000" MODIFIED_BY="Emma J Welsh">
+<P>Cough is the most common symptom which presents to doctors (<LINK REF="REF-Britt-2004" TYPE="REFERENCE">Britt 2004</LINK>). The magnitude of the problem is illustrated by the amount spent globally on over the counter medications for cough. In the United Kingdom £92.5 million is spent yearly on cough syrup. In the United States several billion dollars are spent yearly on cough and cold pharmaceuticals (<LINK REF="REF-Morice-2002" TYPE="REFERENCE">Morice 2002</LINK>). A US survey showed that 35% of preschool-aged children had used over-the-counter medications for cough in the previous month (<LINK REF="REF-Kogan-1994" TYPE="REFERENCE">Kogan 1994</LINK>). A study of primary school aged children described a lifetime prevalence of bronchitis of 55.9% (<LINK REF="REF-Leonardi-2002" TYPE="REFERENCE">Leonardi 2002</LINK>). The prevalence of chronic cough reported in a large European study was 3% of school-aged children and 9% in the preschool age group. The problem was more common in the lower socioeconomic groups (<LINK REF="REF-Spee_x002d_van-1998" TYPE="REFERENCE">Spee-van 1998</LINK>). However, the lack of reliable reporting of cough limits interpretation of such data (<LINK REF="REF-Chang-2001" TYPE="REFERENCE">Chang 2001</LINK>).</P>
+<P>The definition of chronic cough in children varies from three to eight weeks (<LINK REF="REF-Chang-2001" TYPE="REFERENCE">Chang 2001</LINK>). As cough due to an acute upper respiratory tract infection (URTI) is predominantly limited to one to three weeks duration (<LINK REF="REF-Hay-2002" TYPE="REFERENCE">Hay 2002</LINK>), it is arguably logical to define chronic cough as cough lasting over three weeks. A review of the natural history of acute cough found that 5-10% of preschool aged children still cough at three weeks and these children have 'complicated' upper respiratory tract infections (<LINK REF="REF-Hay-2002" TYPE="REFERENCE">Hay 2002</LINK>). In this review, prolonged cough is defined as cough lasting longer than 10 days.</P>
+<P>Wet/moist and dry cough can be clinically well differentiated by clinicians and parents (<LINK REF="REF-Chang-2005" TYPE="REFERENCE">Chang 2005</LINK>). A dry cough in the absence of identifiable respiratory disease (i.e. absence of other symptoms and signs) or known aetiology is also termed non-specific cough (<LINK REF="REF-Chang-2003" TYPE="REFERENCE">Chang 2003</LINK>). Children with non-specific cough do not have any of the pointers associated with specific cough (<LINK REF="REF-Chang-2001" TYPE="REFERENCE">Chang 2001</LINK>). Chronic cough that is moist-sounding or productive is referred to as specific cough because the increased production of airway secretions reflects a degree of primary pulmonary pathology.</P>
+<P>The role of antibiotics in chronic or prolonged cough is unclear. Antibiotics provide a modest benefit in the treatment of acute bronchitis (<LINK REF="REF-Fahey-2004" TYPE="REFERENCE">Fahey 2004</LINK>) and have no efficacy in treatment of the common cold (<LINK REF="REF-Arroll-2005" TYPE="REFERENCE">Arroll 2005</LINK>). In children with prolonged cough, the American Pediatric URI Consensus Team surmised that "antimicrobial treatment for prolonged cough (longer than 10 days) may be indicated occasionally" (<LINK REF="STD-Dowell-1998" TYPE="STUDY">Dowell 1998</LINK>). Despite these conservative recommendations, antibiotics are often prescribed. Questions concerning the benefits and harm of antibiotic treatment in these circumstances need to be resolved.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To determine the efficacy of antibiotics in treating children with prolonged moist cough (excluding children with bronchiectasis or other underlying respiratory illness).</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2011-01-14 14:44:07 +0000" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2011-01-13 14:55:44 +0000" MODIFIED_BY="Emma J Welsh">
+<CRIT_STUDIES>
+<P>All randomised controlled trials comparing antibiotics with a placebo medication or 'no treatment' control group.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2011-01-13 14:49:09 +0000" MODIFIED_BY="Emma J Welsh">
+<P>All trials which included children under 18 years of age with prolonged moist cough (longer than 10 days). A priori subgroup analyses were planned for children under seven years of age and cough lasting over three weeks). Exclusion criteria: radiological evidence of bronchiectasis or lung histopathological evidence of bronchiectasis, diagnosis of cystic fibrosis, cough related to <I>Mycoplasma pneumoniae</I>, <I>B.pertussis</I> and <I>Chlamydia</I>, presence of underlying cardio-respiratory condition (haemoptysis, recurrent pneumonia, chronic dyspnoea), current or recurrent wheeze (over two episodes), presence of the respiratory signs of clubbing or wheeze on auscultation, presence of any sign of systemic illness (failure to thrive, aspiration, neurological or developmental abnormality and immune deficiencies).</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>All randomised controlled comparisons of antibiotics versus placebo or control group in the management of prolonged moist cough. Antibiotics could be given via any route. Trials only comparing two or more antibiotics without a placebo were not included. </P>
+<P>It was planned that three separate treatment regimes would be evaluated:<BR/>i) Short term treatment (seven days or less)<BR/>ii) Long term antibiotics (more than seven days)<BR/>iii) Intravenous antibiotic treatment where antibiotics were given intravenously for at least five days</P>
+<P>Trials that included the use of other medications or interventions were included if all participants had equal access to such medications or interventions or if the additional therapies were regarded as ineffective.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2011-01-13 14:55:44 +0000" MODIFIED_BY="Emma J Welsh">
+<P>Attempts were made to obtain data on at least one of the following outcome measures:</P>
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2011-01-13 14:51:42 +0000" MODIFIED_BY="Emma J Welsh">
+<P>Proportions of participants who were not cured or not substantially improved at follow up (clinical failure).</P>
+<P>The proportions of participants who failed to improve on treatment and the mean clinical improvement were determined using the following hierarchy of assessment measures (i.e. where two or more assessment measures were reported in the same study, the outcome measure that is listed first in the hierarchy was used).</P>
+<P>i) Objective measurements of cough indices (cough frequency, cough receptor sensitivity, cough amplitude).<BR/>ii) Symptomatic (Likert scale, visual analogue scale, level of interference of cough, cough diary, sputum production - quantity and colour, general well-being) - assessed by the child.<BR/>iii) Symptomatic (Likert scale, visual analogue scale, level of interference of cough, cough diary, sputum production - quantity and colour, general well-being) - assessed by the parents/carers.<BR/>iv) Symptomatic (Likert scale, visual analogue scale, level of interference of cough, cough diary, sputum production - quantity and colour, general well-being) - assessed by clinicians.<BR/>v) Airway markers (sputum or BAL) consistent with infection or inflammation.<BR/>vi) Sputum volume alone.<BR/>vii) Lung function tests alone.</P>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2011-01-13 14:55:44 +0000" MODIFIED_BY="Emma J Welsh">
+<P>a) Mean difference in symptoms (mean improvement in clinical state);</P>
+<P>b) Mean difference in sputum, bronchoalveolar lavage (BAL) or blood indices of inflammation or infection (mean improvement in markers of infection);</P>
+<P>c) Mean difference in cough indices (cough diary, cough frequency, cough scores),</P>
+<P>d) Proportions of participants with progression of the disease resulting in additional medical therapy (complications);</P>
+<P>e) Proportions experiencing adverse effects of antibiotics e.g. diarrhoea, nausea, skin rash, allergic reactions (side effects).</P>
+<P>For studies where data was not available on any of the pre-specified outcome measures but the study was eligible for inclusion it was planned to described the outcome measures in the 'Characteristics of the included studies' table. However these studies would not have been included in the meta-analyses.</P>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2011-01-14 14:44:07 +0000" MODIFIED_BY="[Empty name]">
+<P>The following topic search strategy was used to identify relevant randomised controlled trials. The full database strategies are shown in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+<P>(cough [MeSH] OR cough* [text word] OR bronchitis [MeSH] OR bronchit* [text word]) AND<BR/>(Anti-bacterial Agents [MeSH] OR antibiot* or anti-biot* or antimicrob* or anti-microb* or antibacterial* or anti-bacterial* [text words]) AND<BR/>(child [MeSH] OR adolescent [MeSH] OR infant[MeSH] OR Pediatrics[MeSH] OR child* or paediat* or pediat* or adolesc* or infan* or toddler* or bab* or young* or preschool* or pre school* or pre-school* or newborn* or new born* or new-born* or neo-nat* or neonat* [text words])</P>
+<P>Trials were identified from the following sources:<BR/>1. The Cochrane Controlled Trials Register (CENTRAL), Issue 3 2010, which includes the Airways Group Specialised Register.<BR/>2. MEDLINE 1966-October 2010. <BR/>3. OLDMEDLINE 1951-1965. <BR/>4. EMBASE 1997-October 2010. <BR/>5. The list of references in relevant publications.<BR/>6. Written communication with the authors of trials included in the review, if required.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2011-01-13 14:52:13 +0000" MODIFIED_BY="Emma J Welsh">
+<P>Retrieval of studies: From the title, abstract, or descriptors, two reviewers (JM, JG) independently reviewed literature searches and identified potentially relevant trials for full review. Searches of bibliographies and texts were also conducted to identify additional studies. Using specific criteria, the same two reviewers independently selected trials for inclusion in the review. It was planned that disagreement would be resolved by third party adjudication (AC).</P>
+<P>Trials that satisfied the inclusion criteria were reviewed independently by two reviewers (JM, AC). The following information was recorded: study setting, year of study, source of funding, patient recruitment details (including number of eligible children), inclusion and exclusion criteria, randomisation and allocation concealment method, numbers of participants randomised, blinding (masking) of participants, care providers and outcome assessors, dose and type of antibiotic therapy, duration of therapy, co-interventions, numbers of patients not followed up, reasons for withdrawals from study protocol (clinical, side-effects, refusal and other), details on side-effects of therapy, and whether intention-to-treat analyses were possible. Data were extracted on the outcomes described previously by two reviewers (JM, AC) and double entry of data for meta-analysis was used. Further information was requested from the authors of both studies.</P>
+<OL>
+<LI>Studies included in the review were independently assessed for quality by two reviewers. Four components of quality were assessed:</LI>
+<LI>Allocation concealment. Trials were scored as: Grade A: Adequate concealment, Grade B: Unclear, Grade C: Clearly inadequate concealment. (Grade A = high quality).</LI>
+<LI>Blinding. Trials were scored as: Grade A: Participant and care provider and outcome assessor blinded, Grade B: Outcome assessor blinded, Grade C: Unclear, Grade D: No blinding of outcome assessor (Grade A, B = high quality).</LI>
+<LI>Reporting of participants by allocated group. Trials were scored as: Grade A: The progress of all randomised children in each group described, Grade B: Unclear or no mention of withdrawals or dropouts, Grade C: The progress of all randomised children in each group clearly not described. (Grade A = high quality).</LI>
+<LI>Follow-up. Trials were scored as: Grade A: Outcomes measured in &gt;90% (where withdrawals due to complications and side-effects are categorised as treatment failures), Grade B: Outcomes measured in 80-90%, Grade C: Unclear, Grade D: Outcomes measured in &lt;80%. (Grade A = high quality).</LI>
+</OL>
+<P>While only the allocation concealment quality assessment are displayed in the meta-analysis figures, all assessments have been included in the 'Characteristics of included studies' table. Inter-reviewer reliability for the identification of high quality studies for each component was measured by the Kappa statistic.</P>
+<P>Each study was also assessed using a 5-point scale described by Jadad et al (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>) and summarised as follows:<BR/>Was the study described as randomised? (1=yes; 0=no)<BR/>Was the study described as double blind? (1=yes; 0=no)<BR/>Was there a description of withdrawals and dropouts? (1=yes; 0=no)<BR/>Was the method of randomisation clearly described and appropriate? (1=yes; 0=no)<BR/>Was the method of double blinding well described and appropriate? (1=yes; 0=no)</P>
+<P>
+<B>Statistics</B>
+<BR/>For the dichotomous outcome variables of each individual study, odds ratios were calculated using a modified intention to treat analysis. This analysis assumes that children not available for outcome assessment have not improved (and probably represents a conservative estimate of effect). An initial qualitative comparison of all the individually analysed studies examined whether pooling of results (meta-analysis) was reasonable. This took into account differences in study populations, inclusion/exclusion criteria, interventions, outcome assessment, and estimated effect size.</P>
+<P>The results from studies that met the inclusion criteria and reported any of the outcomes of interest were included in the subsequent meta-analyses. The summary weighted odds ratio and 95% confidence interval (fixed-effects model) were calculated using the inverse of the variance of each study result for weighting (Cochrane statistical package, RevMan 4.2). Number needed to treat (NNT) was calculated from the pooled OR and its 95% CI applied to a specified baseline risk using an online calculator (<LINK REF="REF-Cates-2003" TYPE="REFERENCE">Cates 2003</LINK>). This calculator converts the risk in the placebo group to the corresponding odds, applies the OR to estimate the odds in the treated group, and converts that odds to the corresponding risk and calculates the risk difference, the inverse of which is the NNT. The cough indices were assumed to be normally distributed continuous variables so the mean difference in outcomes was estimated (weighted mean difference). If studies reported outcomes using different measurement scales, the standardised mean difference was estimated. Any heterogeneity between the study results was described and tested to see if it reached statistical significance using a chi-squared test. The 95% confidence interval estimated using a random-effects model was included whenever there were concerns about statistical heterogeneity.</P>
+<P>An a priori subgroup analysis was planned for children less than seven years of age. Sensitivity analyses were planned to assess the impact of the potentially important factors on the overall outcomes:<BR/>a) study quality;<BR/>b) study size;<BR/>c) variation in the inclusion criteria;<BR/>d) differences in the medications used in the intervention and comparison groups;<BR/>e) differences in outcome measures;<BR/>f) analysis by 'intention to treat' but only including participants not lost to follow-up (available data analysis);<BR/>g) analysis by 'treatment received' rather than 'intention to treat' and<BR/>h) model used (RR versus OR)<BR/>It was planned that publication bias be tested by use of a funnel plot.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2011-01-14 14:59:01 +0000" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2011-01-14 14:59:01 +0000" MODIFIED_BY="[Empty name]">
+<P>The Airways Group register/search identified 2779 potentially relevant titles (see <LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK> for search history). After assessment of the abstracts, 13 papers were obtained for consideration for inclusion into the review. Two studies were included in the final review. The main reason studies were excluded was acute cough rather then chronic (five studies - see table of excluded studies). Other reasons included lack of randomisation and retrospective review articles. There were no studies which used oral antibiotic therapy for over seven days or intravenous therapy in children.</P>
+<P>The two studies included were single-centred studies and neither received support from commercial interests. Both studies were conducted in the setting of a paediatric outpatient clinic in Sweden and both recruited children with over 10 days of cough. Around 50% of patients had cough of greater than three weeks duration in one study (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) and the mean length of cough was three to four weeks in the other (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>). The median age of participants in Darelid's study was not provided but 63% of the patients were aged one to three years (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>). Median age of children in Gottfarb's study was 2.6 years (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>). The study populations appeared very similar. Although the quality of cough was not specifically outlined in either study, it is likely that the majority of children recruited had a moist cough as both studies included nasopharyngeal aspirates which grew a range of bacterial pathogens. Indeed, contact with trialists confirmed this as Dr Darelid estimated that &gt;75% of participants in his trial had a moist cough (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>).</P>
+<P>Both studies used short term antibiotic therapy (seven days). Both used paediatrician assessment of clinical recovery as primary outcome measure but the day of assessment was different (day eight (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) and day 12-14 (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>)). The exclusion criteria of both studies included pneumonia, suspected <I>B.pertussis</I> infection and otitis media. The study by Darelid (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) also excluded children with allergy, asthma, cardiac disease and tonsillitis. This more comprehensive exclusion criteria provides a clearer definition of patients enrolled in the study and is a limitation of the other study. Neither study makes specific mention of the exclusion of patients with cystic fibrosis or bronchiectasis although it is assumed this is the case.</P>
+<P>Darelid et al's study (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) was an open randomised study comparing erythromycin and a no treatment control group. Gottfarb and colleagues (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) compared amoxicillin/clavulanic acid and placebo in a double-blinded randomised controlled study. Darelid (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) used a dosage regime of 50 mg/kg/day which is equal to current recommended treatment dosage. The dosage in Gottfarb's study was lower (dosage 20 mg/kg/day) (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) then currently recommended doses (22.5 to 45 mg/kg/day) (<LINK REF="REF-Kemp-1997" TYPE="REFERENCE">Kemp 1997</LINK>). Although different antibiotics were used in the studies, both would treat the respiratory pathogens found in the nasopharyngeal aspirates of these patients and organisms in bronchoalveolar lavage in other studies on chronic cough in children (<LINK REF="REF-Marchant-JM-2003" TYPE="REFERENCE">Marchant JM 2003</LINK>). One study allowed the use of oral salbutamol mixture in both groups and this was recorded (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>). All the children in this study received oxymetazoline nose drops. Neither of these treatments should have influenced the outcome given they were available to both groups. No co-interventions were allowed in the second trial (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>). Neither trial reported appropriately on compliance measures for patients although Darelid et al (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) reported 97% of patients completed the erythromycin medication. The trialists failed to state how this was assessed.</P>
+<P>Outcomes were assessed at day eight (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) and day 12 to 14 (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) respectively, so only short-term effects were described by the results. The primary outcome measure in both studies was paediatrician assessment of clinical outcome at follow-up. Patients were classified as cured or treatment failure. Both studies also reported parental assessment and used individual symptom scores as secondary outcome measures. Side effects and progression of disease requiring further antibiotic therapy was also documented. Darelid and colleagues (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) also recorded and documented the elimination of nasopharyngeal pathogens in the intervention and control groups. Gottfarb's (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) study excluded 15 children from the final analysis without indicating which treatment group they were initially allocated to. As contact with the authors was unsuccessful, we assumed that there were equal numbers of children in each group in the intention to treat analysis. Of the 15 children excluded 12 had laboratory confirmed <I>Bordetella pertussis </I>after randomisation which is a potential weakness of the study. Ideally the diagnosis of B.<I>pertussis</I> would have been made prior to randomisation and then these children would not have been eligible to enter the study.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-04-09 10:23:20 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Darelid's study (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) had a Jadad score of two and that of Gottfarb (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) was three. The Jadad scores are consistent with the assessment of the individual components of the RCT quality. The study by Darelid (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) was high quality in terms of follow-up and reporting but poor quality for allocation concealment and blinding (open randomised study with 'no treatment' control group). The study by Gottfarb scored high in blinding measures only. Although both studies are randomised neither described the method of randomisation clearly. Although the study by Gottfarb and colleagues (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) was a double blind study it does not report how this was achieved. No mention of allocation concealment was made in either paper. The study by Darelid had only one withdrawal which is adequately described. The second study (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) had 15 patients who were withdrawn from the study. Although they mentioned the reasons for withdrawal, they failed to indicate which groups they have come from. A risk of bias assessment has been made for both studies (see 'Characteristics of included studies'). The agreement between the two reviewers (JM, AC) was good (weighted kappa score for Jadad scale was 1.0 and for quality assessment scores was 0.74). </P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2011-01-13 14:55:59 +0000" MODIFIED_BY="Emma J Welsh">
+<P>The two studies included a total of 140 children. Sixteen patients were lost to follow-up or withdrew from the trial for other reasons, such as <I>Bordetella pertussis </I>infection. Both studies used short term antibiotic therapy of seven days.</P>
+<P>
+<U>Primary outcome:</U>
+<BR/>a) Proportions of participants who were not cured or not substantially improved at follow-up (clinical failure).<BR/>Data from both studies were combined for this outcome measure. The number of patients not cured at follow-up was 76 using intention to treat analysis. The control event rate was 64% (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) and 88% (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) in the two studies. Treatment with antibiotics reduced the proportion of children not cured at follow-up in both studies; the pooled OR effect estimate was 0.13 (95% CI 0.06 to 0.32). These studies suggest that one child will be cured for every three children treated (NNT = 3, 95%CI 2 to 4) (<LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>). However the overall estimate of effect and degree of statistical heterogeneity were sensitive to the model used for meta-analysis (see sensitivity analysis). The subgroup data for children with prolonged moist cough for over three weeks were not available. All patients were aged seven years or less, so subgroup analysis could not be performed. The long-term effects of antibiotics were not assessed.</P>
+<P>
+<U>Secondary outcomes</U>:<BR/>b) Mean difference in symptoms (mean improvement in clinical state)<BR/>Neither study looked at symptoms individually.</P>
+<P>c) Mean difference in sputum, bronchoalveolar lavage (BAL) or blood indices of inflammation or infection (mean improvement in markers of infection)<BR/>No analysis of sputum, BAL or blood indices of infection were described. The study by Darelid (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) examined clearance of potential pathogens from the nasopharynx. It found a significant elimination of <I>Moraxella catarrhalis </I>from the nasopharynx in treated (68%) versus untreated patients (20%, P&lt;0.001). Similar results were found for <I>Streptococcus pneumoniae </I>(treated elimination 100%; untreated 23%; P&lt;0.0001). They also found a correlation with growth of <I>Moraxella catarrhalis</I> and persistent cough after the trial. In the untreated group, 80% of those with untreated <I>Moraxella catarrhalis</I> continued to cough versus 33% of those with no growth of this organism (P&lt;0.01).</P>
+<P>d) Mean difference in cough indices (cough diary, cough frequency, cough scores)<BR/>These measures could not be combined due to the differing nature of the indices. Darelid and colleagues (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) used a score which combined cough frequency, morning temperature and level of daily activity whereas Gottfarb and colleagues (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) looked at the number of coughing attacks in a 24 hour period.</P>
+<P>e) Proportions of participants with progression of the disease resulting in additional medical therapy (complications)<BR/>Despite the differences in study design the proportion of patients with progression of disease can be combined using an 'intention to treatment' analysis of available data. Overall there were 125 children who contributed data on this outcome (excluding the 15 drop-outs in Gottfarb's study (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>)). The overall control event rate for complications was 36% versus a treatment event rate of 5%. Progression of illness, as defined by requirement for further antibiotics in both papers, was significantly lower in the treatment group (pooled OR 0.10, 95%CI 0.03 to 0.34). The number needed to treat to avoid progression of disease was four (NNT = 4, 95%CI 3 to 5).</P>
+<P>f) Proportions experiencing adverse effects of antibiotics e.g. diarrhoea, nausea, skin rash, allergic reactions (side effects)<BR/>In Darelid's study, children in the erythromycin group had a reported side effect rate of 2% (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>). The side effects noted were diarrhoea and vomiting. It can be argued that these results should not been pooled as one study (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) used a control group and therefore did not report any side effects for this population. The rate of side effects in the study comparing amoxicillin/clavulanic acid and placebo was 12% for both treatment and control groups (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>). Pooling the results, assuming that no one in the control (no treatment) group in Darelid's (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) had any adverse events, there was no significant difference between the groups; OR 1.38 (95%CI 0.31, 6.08).</P>
+<P>
+<U>Sensitivity Analyses<BR/>
+</U>As there were only two studies in this review, reanalysis by study quality, size, differences in the medications used was not possible. When the analysis was performed using analysis by 'intention to treat' but only including participants not lost to follow-up (available data analysis) the primary outcome did not change; effect estimate 0.12 versus 0.13. Assessing the data by excluding those with proven <I>Bordetella pertussis</I> infection (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) did not change the OR from 0.13. Neither the analysis of available data only or of Gottfarb's study without the <I>Bordetella pertussis </I>patients (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) altered the number needed to treat. There was no difference when a random-effects model was used versus a fixed-effects model; OR for primary outcome 0.13 (fixed) versus 0.13 (random). Both the Chi<SUP>2</SUP> and I<SUP>2</SUP> statistical tools show low level of heterogeneity between the two studies, with I<SUP>2</SUP> =3.7% and Chi<SUP>2</SUP> = 1.04 for the primary outcome measure.</P>
+<P>In the primary outcome (clinical failure) the overall estimate of effect and degree of statistical heterogeneity were sensitive to the model used for meta-analysis (pooled RR 0.46, 95%CI 0.32 to 0.65 (fixed-effects model, I<SUP>2</SUP> 92%); pooled RR 0.43, 95%CI 0.1 to 1.8 (random-effects model, I<SUP>2</SUP> 92%). However the heterogeneity disappeared (using fixed model, I<SUP>2</SUP> 0%) and pooled RR again favoured treatment 2.46 (95%CI 1.67, 3.64) when clinical success rather than clinical failure was used as the outcome measure. The 'proportions of participants with progression of the disease resulting in additional medical therapy' did not change substantially with the use of relative risks rather than odds ratios (from pooled OR of 0.10, 95%CI 0.03 to 0.34 (random-effects model) to pooled RR 0.15, 95%CI 0.05 to 0.49 (random-effects model)). In both models (OR or RR), there was no significant heterogeneity. Both results significantly favoured use of antibiotics to prevent progression of disease. Based on these results ORs (rather than RRs) were used throughout this review.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2011-01-13 14:57:04 +0000" MODIFIED_BY="Emma J Welsh">
+<P>This meta-analysis has suggested that antibiotics are effective treatment in children with a chronic moist cough, both in outcomes of 'clinical cure' and 'illness progression' (reduction in proportions of children subsequently requiring antibiotics). The data available indicate that in the population of children seven years or younger, with chronic cough three children will need to be treated to achieve one clinical cure. This supports the current American Pediatric URI Consensus Team statement that "antimicrobial treatment for prolonged cough (longer than 10 days) may be indicated occasionally" (<LINK REF="STD-Dowell-1998" TYPE="STUDY">Dowell 1998</LINK>). These findings specific for prolonged cough differs from other reviews on antibiotics which showed that antibiotics have only minimal benefit (if any) in the treatment of acute bronchitis (<LINK REF="REF-Fahey-2004" TYPE="REFERENCE">Fahey 2004</LINK>) and have no efficacy in treatment of the common cold (<LINK REF="REF-Arroll-2005" TYPE="REFERENCE">Arroll 2005</LINK>).</P>
+<P>In paediatrics, chronic cough is usually defined as cough duration of over three weeks. Ideally this review would include children with cough lasting over three weeks but there were no such studies. Both studies (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>; <LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) used over 10 days of cough as the definition of prolonged cough. Certainly this would be classified as subacute cough in the available paediatric literature (<LINK REF="REF-Chang-2001" TYPE="REFERENCE">Chang 2001</LINK>). A percentage of the children with cough will cease spontaneous before 3 weeks (<LINK REF="REF-Hay-2002" TYPE="REFERENCE">Hay 2002</LINK>). Neither of the authors of the included studies were able to separate those with cough for 10-21 days versus those with over 21 days cough although both studies had a large percentage of children with cough over three weeks. The decision to include these studies which enrolled some children with shorter duration cough was made because although spontaneous resolution may occur in some patients it should occur equally in both treatment and placebo groups. Therefore is unlikely to alter the review outcome favourably but may limit the strength of it.</P>
+<P>Neither study enrolled children with the particular cough characteristic of wet cough. A recent study has shown that the cough quality of wet vs dry cough can be validly used (<LINK REF="REF-Chang-2005" TYPE="REFERENCE">Chang 2005</LINK>). On correspondence with Darelid (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>), he reported that &gt;75% of patients in his study had moist cough. Given the studies were carried out in the same geographical area and in similar patient group one could assume that the second study (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) had a similar proportion of children with moist cough. Since a chronic moist cough in this patient age group is more likely to be a bacterial bronchitis then any other cause (<LINK REF="REF-Marchant-JM-2004" TYPE="REFERENCE">Marchant JM 2004</LINK>) (and this should respond to antibiotic therapy) including children with dry cough would decrease any effect.</P>
+<P>Children presenting with chronic moist cough are likely to have a different disease to those with acute bronchitis or common cold. A number of studies have evaluated airway inflammation in children with chronic cough and shown that they have a different pattern of airway inflammation to atopic children who present with asthma or to controls (<LINK REF="REF-Fitch-2000" TYPE="REFERENCE">Fitch 2000</LINK>; <LINK REF="REF-Gibson-2001" TYPE="REFERENCE">Gibson 2001</LINK>; <LINK REF="REF-Marchant-JM-2003" TYPE="REFERENCE">Marchant JM 2003</LINK>). These studies have shown that on bronchoalveolar lavage the percentage of inflammatory cells in the airway, particularly neutrophils, were higher then expected normal values. One study has shown that protracted bacterial bronchitis is common in children with chronic (over three weeks) cough (<LINK REF="REF-Marchant-JM-2004" TYPE="REFERENCE">Marchant JM 2004</LINK>). This may explain the findings of this review that antibiotics appear to be beneficial for prolonged moist cough in children.</P>
+<P>The pooled adverse events described in the two eligible studies showed no difference between the groups. The percentage of patients with side effects was low in both studies, being 2% in the study by Darelid for treatment group (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) and in Gottfarb's study (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) side effects were similar in both groups. In considering the trade-offs of antibiotic therapy one must remember that a small number of children will have adverse events as a result of the therapy (insufficient data to calculate number needed to harm). A further factor must be considered in the benefit versus harm debate and that is participants with progression of disease resulting in additional medical therapy (antibiotics). The control event rate was 36% (versus 5% in treated group) and the OR 0.10 significantly favouring treatment to decrease the incidence of complications for children with chronic wet cough.</P>
+<P>Both studies (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>, <LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>) used physician assessed 'clinical cure' as the outcome measure but these were undefined. Neither study assessed adequately differences in cough symptoms or used appropriate cough indices such as a cough diary or cough frequency. Therefore these measures have not been combined in meta-analysis. A previously validated cough diary (such as the verbal category descriptive (VCD) score for daytime and nocturnal cough (<LINK REF="REF-Chang-1998" TYPE="REFERENCE">Chang 1998</LINK>)) would have been helpful. It would have allowed patient data on cure, or otherwise, to be evaluated (rather than simply physician diagnosis of clinical cure). One excluded study (for an inadequate control group) (<LINK REF="REF-Yun-1983" TYPE="REFERENCE">Yun 1983</LINK>) did appropriately and accurately define 'clinical cure' as no cough present after 14 days of therapy. This study showed a significant benefit for antibiotics in keeping with our meta-analysis results with a significant difference between the antibiotic (treatment event rate for cure 46%) and expectorant/decongestant group (control cure event rate 14%) (p&lt;0.001) but was unable to be included in the meta-analysis as it did not meet inclusion criteria.</P>
+<P>Although neither study assessed specifically differences in sputum, bronchoalveolar lavage or blood indices of inflammation and infection the paper by Darelid (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) looked at the organisms grown on nasopharyngeal aspirate and the clearance of these post-treatment. It showed a significant elimination of <I>Moraxella catarrhalis</I> from the nasopharynx of treated patients. The presence of this organism in bronchoalveolar lavage of children with chronic bacterial bronchitis who presented with chronic cough has been recently found, along with predominantly <I>Streptococcus pneumoniae</I> and <I>Haemophilus influenzae</I> (<LINK REF="REF-Marchant-JM-2004" TYPE="REFERENCE">Marchant JM 2004</LINK>). The organisms found on bronchoalveolar lavage in this patient population are vital when considering appropriate antibiotic therapy. The two studies have chosen different antibiotics, erythromycin (dosage of 50 mg/kg/day) (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) and amoxicillin/clavulanic acid (dosage 20 mg/kg/day) (<LINK REF="STD-Gottfarb-1994" TYPE="STUDY">Gottfarb 1994</LINK>). Darelid's study (<LINK REF="STD-Darelid-1993" TYPE="STUDY">Darelid 1993</LINK>) trialed erythromycin, a macrolide antibiotic, which has traditionally covered the common pathogens found in the lower respiratory tract such as <I>Streptococcus pneumoniae</I> and <I>Haemophilus influenzae</I> (as well as the atypical pathogens such as <I>Mycoplasma</I> species) (<LINK REF="REF-Alvarez_x002d_Elcoro-1999" TYPE="REFERENCE">Alvarez-Elcoro 1999</LINK>). Increasing emergence of macrolide resistance to the common pathogens may limit their usefulness in the future as illustrated by a recent study which found 13.7% of <I>Streptococcus pneumoniae</I> in school-aged children were resistant to erythromycin (<LINK REF="REF-Gazi-2004" TYPE="REFERENCE">Gazi 2004</LINK>). In contrast Gottfarb used Augmentin (amoxicillin/clavulanic acid) an antibiotic with broad coverage of the organisms likely to be found on bronchoalveolar lavage in children with chronic wet cough, namely <I>Streptococcus pneumoniae, Haemophilus influenzae </I>and<I> Moraxella catarrhalis</I> (<LINK REF="REF-Marchant-JM-2004" TYPE="REFERENCE">Marchant JM 2004</LINK>). In the study by Gazi (<LINK REF="REF-Gazi-2004" TYPE="REFERENCE">Gazi 2004</LINK>) only 1.2% of <I>Haemophilus influenzae</I> were resistant to amoxicillin/clavulanic acid and none of the <I>Moraxella catarrhalis </I>or <I>Streptococcus pneumoniae</I>. Gottfarb has chosen a very low dosage schedule (20 mg/kg/day) compared with standard practice (45 mg/kg/day) which may limit the efficacy of the drug and so rate of clinical cure in the trial (<LINK REF="REF-Kemp-1997" TYPE="REFERENCE">Kemp 1997</LINK>). The ideal RCT would trial appropriate antibiotic therapy used at an appropriate dosage to treat the organisms predominantly found on bronchoalveolar lavage in children.</P>
+<P>
+<U>Limitations of review<BR/>
+</U>This systematic review is limited to two small studies of poor quality with limited availability of data for analysis. Some assumptions about the data were made for both studies (cough quality and equal dropouts in intervention and control groups). Neither of the studies scored highly on the Jadad quality scale or the individual assessment of each important quality component. The review is also limited by lack of inclusion of validated objective measures of cough, such as the verbal category descriptive cough diary (<LINK REF="REF-Chang-1998" TYPE="REFERENCE">Chang 1998</LINK>). The lack of data on quality of cough allows the possibility of greater clinical heterogeneity of participants then one would anticipate. The failure to state exclusion of children with cystic fibrosis, bronchiectasis and other underlying lung disease, although implied, is another flaw of both studies which needs to be addressed in subsequent RCTs. Inclusion of children with these disease states may influence the results of this meta-analysis.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>When considering implications for practice of this review one must remember the data is based on two small studies with methodological flaws. Clearly further high-quality studies are needed before this evidence can be accepted as conclusive. Acknowledging this the available evidence suggests that antibiotics are efficacious in young children, aged seven years or less, with prolonged wet cough with three or four patients cured for every 10 treated. The use of antibiotics in children with prolonged wet cough is also associated with a reduction in the progression of illness whereby children on antibiotics are less likely to require further antibiotics for treatment of complications. One must remember antibiotics are not without side effects when considering this treatment option. The conclusions of this review are applicable only to children with persistent wet cough which must be differentiated from acute cough where the role of antibiotics is clearly very different and has been addressed in other reviews.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Well designed RCTs which use appropriate randomisation, double-blinding and allocation concealment are required to assess the role of antibiotics in chronic moist cough in children. The trials should include children with cough of &gt; 3 weeks to assess only those with chronic cough, and so avoid the natural resolution that can occur in the first three weeks. The addition of cough quality (wet cough only) to the inclusion criteria for participants will decrease the clinical heterogeneity within the subjects. It is important that future RCTs exclude children with bronchiectasis, cystic fibrosis and underlying chronic lung disease and cough related to <I>B.pertussis</I> or <I>Mycoplasma pneumoniae.</I> Children with specific cough such as wheeze on auscultation should also be excluded as these may indicate other underlying pathology and again broadens the heterogeneity of the trial participants (possibly decreasing the efficacy of the antibiotic treatment). The design of future RCTs should include objective measures of cough outcomes such as cough frequency or validated symptomatic measures such as cough diary or visual analogue scale as assessed by the child (if age permits) or the parent/carers. A clear and appropriate definition of clinical cure should be included in the trial design. Secondary measures such as differences in sputum, bronchoalveolar lavage or blood indices of inflammation or infection will also strengthen future trial outcomes. Future RCTs should incorporate sufficient longitudinal follow-up of these patients to assess the longevity of clinical cure in these patients.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We are grateful to Toby Lasserson, Chris Cates and Michael McKean from the Cochrane Airways group for their advice and support in reviewing the protocol and review. We also thank Elizabeth Arnold for performing the searches and obtaining the articles for this review. We acknowledge and thank Toby Lasserson for translation of the German papers and Andrea Rita Horvath for translation of the Hungarian article. We are grateful to Johan Darelid for providing the additional information on his original study needed to complete this review. Finally we thank the Australian Cochrane Airways Group and Scholarship for providing funding for JMM to complete this review and present its findings at a national Australian meeting.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>Two of the authors (JM and AC) are investigators in an RCT of antibiotics for prolonged moist cough in children. This trial is currently in progress.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>For the protocol: Protocol was written by JM and AC, based on previous protocols on cough in children. PM and JG reviewed protocol. For the review: JM: selection of articles from search, data extraction, data analysis and writing of review. AC: review of articles for inclusion, data extraction, double data entry, data analysis, writing of review. JG: selection of articles from search. PM: reviewed written review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2011-01-13 14:57:32 +0000" MODIFIED_BY="Emma J Welsh">
+<P>October 2004: During the review process the selection criteria was changed from RCTs comparing antibiotics to placebo medication to also include studies comparing antibiotics with a 'no treatment' control group. This was done because there were an insufficient number of placebo-controlled trials to be sure that the information obtained from unblinded studies would not be clinically useful. The inclusion criteria were changed to allow studies of children who had prolonged moist cough for &gt;10 days. We planned to assess the impact of antibiotics on children with prolonged moist cough &gt;3 weeks (our preferred definition of chronic cough) as an a priori subgroup analysis. We also decided to include studies that were not exclusively limited to children with "moist sounding" cough if subgroup data were not available and &gt;50% of children had a moist cough or other clinical features consistent with diagnosis (e.g. sputum production, excess secretions etc). The review uses a summary weighted odds ratio rather than relative risk as was stated in the protocol. This decision was made as it appeared the most clinically relevant analysis method particularly when converted to number needed to treat.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2011-01-18 10:59:27 +0000" MODIFIED_BY="Emma J Welsh">
+<STUDIES MODIFIED="2011-01-14 15:02:41 +0000" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="MIX" ID="STD-Darelid-1993" NAME="Darelid 1993" YEAR="1993">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Darelid J, Lofgren S, Malmvall B-E</AU>
+<TI>Erythromycin treatment is beneficial for longstanding moraxella catarrhalis associated cough in children</TI>
+<SO>Scandinavian Journal of Infectious Diseases</SO>
+<YR>1993</YR>
+<VL>25</VL>
+<PG>323-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gottfarb-1994" NAME="Gottfarb 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Gottfarb P, Brauner A</AU>
+<TI>Children with persistent cough - outcome with treatment and role of moraxella catarrhalis?</TI>
+<SO>Scandinavian Journal of Infectious Diseases</SO>
+<YR>1994</YR>
+<VL>26</VL>
+<PG>545-1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-04-08 09:13:18 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Dowell-1998" NAME="Dowell 1998" YEAR="1998">
+<REFERENCE NOTES="&lt;p&gt;ID - 1898&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dowell SF, Schwartz B, Phillips WR</AU>
+<TI>Appropriate use of antibiotics for URIs in children: Part II. Cough, pharyngitis and the common cold. The pediatric URI consensus team</TI>
+<SO>American Family Physician</SO>
+<YR>1998</YR>
+<VL>58</VL>
+<NO>6</NO>
+<PG>1335-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Field-1966" NAME="Field 1966" YEAR="1966">
+<REFERENCE NOTES="&lt;p&gt;DA - 19660329&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Field CM, Connolly JH, Murtagh G, Slattery CM, Turkington EE</AU>
+<TI>Antibiotic treatment of epidemic bronchiolitis--a double-blind trial</TI>
+<SO>British Medical Journal</SO>
+<YR>1966</YR>
+<VL>5479</VL>
+<PG>83-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fiocchi-1988" NAME="Fiocchi 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fiocchi A, Grasso U, Zuccotti G, Arancio R, Riva E, Giovannini M</AU>
+<TI>Domiodol treatment for bronchopulmonary diseases in the paediatric age group: a double-blind controlled clinical trial versus placebo</TI>
+<SO>Journal of International Medical Research</SO>
+<YR>1988</YR>
+<VL>16</VL>
+<PG>31-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Friis-1984" NAME="Friis 1984" YEAR="1984">
+<REFERENCE NOTES="&lt;p&gt;DA - 19841227&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Friis B, Andersen P, Brenoe E, Hornsleth A, Jensen A, Knudsen FU, et al</AU>
+<TI>Antibiotic treatment of pneumonia and bronchiolitis. A prospective randomised study</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1984</YR>
+<VL>59</VL>
+<NO>11</NO>
+<PG>1038-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nevihostenyi-1980" NAME="Nevihostenyi 1980" YEAR="1980">
+<REFERENCE NOTES="&lt;p&gt;DA - 19810625&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nevihostenyi G, Lellei I, Frank K, Istok M</AU>
+<TI>Evaluation of antibiotic therapy and immunotherapy in chronic childhood bronchitis, based on endoscopic follow up examinations</TI>
+<SO>Orvosi Hetilap</SO>
+<YR>1980</YR>
+<VL>121</VL>
+<NO>51</NO>
+<PG>3125-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-O_x0027_Brien-1998" NAME="O'Brien 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>O'Brien KL, Dowell SF, Schwartz B, Marcy SM, Phillips WR, Gerber MA</AU>
+<TI>Cough illness/bronchitis - principles of judicious use of antimicrobial agents</TI>
+<SO>Pediatrics</SO>
+<YR>1998</YR>
+<VL>101</VL>
+<NO>1 II Suppl</NO>
+<PG>178-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schaad-1986" NAME="Schaad 1986" YEAR="1986">
+<REFERENCE NOTES="&lt;p&gt;DA - 19860804&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schaad UB, Farine JC, Fux T</AU>
+<TI>Prospective placebo-controlled double-blind study using a bacterial lysate in infections of the respiratory tract and ENT region in children</TI>
+<SO>Helvetica Paediatrica Acta</SO>
+<YR>1986</YR>
+<VL>41</VL>
+<NO>1-2</NO>
+<PG>7-17</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shann-1985" NAME="Shann 1985" YEAR="1985">
+<REFERENCE NOTES="&lt;p&gt;DA - 19860410&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shann F</AU>
+<TI>Children with cough: who needs antibiotic therapy, and who needs admission to hospital?</TI>
+<SO>Indian Journal of Pediatrics</SO>
+<YR>1985</YR>
+<VL>52</VL>
+<NO>417</NO>
+<PG>343-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stott-1976" NAME="Stott 1976" YEAR="1976">
+<REFERENCE NOTES="&lt;p&gt;DA - 19761201&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stott NC, West RR</AU>
+<TI>Randomised controlled trial of antibiotics in patients with cough and purulent sputum</TI>
+<SO>British Medical Journal</SO>
+<YR>1976</YR>
+<VL>2</VL>
+<NO>6035</NO>
+<PG>556-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Taylor-1977" NAME="Taylor 1977" YEAR="1977">
+<REFERENCE NOTES="&lt;p&gt;DA - 19771020&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Taylor B, Abbott GD, Kerr MM, Fergusson DM</AU>
+<TI>Amoxycillin and co-trimoxazole in presumed viral respiratory infections of childhood: placebo-controlled trial</TI>
+<SO>British Medical Journal</SO>
+<YR>1977</YR>
+<VL>2</VL>
+<NO>6086</NO>
+<PG>552-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wald-1986" NAME="Wald 1986" YEAR="1986">
+<REFERENCE NOTES="&lt;p&gt;DA - 19860702&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wald ER, Chiponis D, Ledesma-Medina J</AU>
+<TI>Comparative effectiveness of amoxicillin and amoxicillin-clavulanate potassium in acute paranasal sinus infections in children: a double-blind, placebo-controlled trial</TI>
+<SO>Pediatrics</SO>
+<YR>1986</YR>
+<VL>77</VL>
+<NO>6</NO>
+<PG>795-800</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="SOUGHT" ID="STD-Yun-1983" MODIFIED="2008-04-08 09:13:18 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Yun 1983" YEAR="1982">
+<REFERENCE MODIFIED="2008-04-08 09:13:14 +0100" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Yun DJ, Hong CH, Oh KK</AU>
+<TI>Chronic cough and sinusitis in children: the role of antimicrobials</TI>
+<SO>Yonsei Medical Journal</SO>
+<YR>1983</YR>
+<VL>24</VL>
+<NO>1</NO>
+<PG>67-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS MODIFIED="2008-04-08 00:35:31 +0100" MODIFIED_BY="[Empty name]"/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES MODIFIED="2011-01-14 15:02:41 +0000" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Marchant" MODIFIED="2011-01-14 15:02:41 +0000" MODIFIED_BY="[Empty name]" NAME="Marchant" YEAR="">
+<REFERENCE MODIFIED="2011-01-14 15:02:41 +0000" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="OTHER">
+<AU>Marchant JM, Taylor SM, Gaffney J, Masters IB, Chang AB</AU>
+<TI>Randomised controlled double-blinded trial of antibiotics in patients with chronic moist cough</TI>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</ONGOING_STUDIES>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2011-01-18 10:59:27 +0000" MODIFIED_BY="Emma J Welsh">
+<ADDITIONAL_REFERENCES MODIFIED="2011-01-18 10:59:27 +0000" MODIFIED_BY="Emma J Welsh">
+<REFERENCE ID="REF-Alvarez_x002d_Elcoro-1999" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Alvarez-Elcoro 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Alvarez-Elcoro S, Enzler MJ</AU>
+<TI>The macrolides: erythromycin, clarithromycin, and azithromycin</TI>
+<SO>Mayo Clinic Proceedings</SO>
+<YR>1999</YR>
+<VL>74</VL>
+<NO>6</NO>
+<PG>613-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Arroll-2005" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Arroll 2005" TYPE="COCHRANE_REVIEW">
+<AU>Arroll B, Kenealy T</AU>
+<TI>Antibiotics for the common cold and acute purulent rhinitis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2005</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2008-04-08 09:22:40 +0100" MODIFIED_BY="Toby J Lasserson">
+<IDENTIFIER MODIFIED="2008-04-08 09:22:40 +0100" MODIFIED_BY="Toby J Lasserson" TYPE="DOI" VALUE="10.1002/14651858.CD000247.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Britt-2004" MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Britt 2004" TYPE="BOOK">
+<AU>Britt H, Miller GC, Knox S, Charles J, Valenti L, Henderson J, et al</AU>
+<SO>General practice activity in Australia 2001-02 (AIHW Cat. No. GEP-10)</SO>
+<YR>2002</YR>
+<PB>Australian Institute of Health and Welfare (General Practice Series No. 10)</PB>
+<CY>Canberra</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cates-2003" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Cates 2003" TYPE="COMPUTER_PROGRAM">
+<TI>Visual Rx. Online NNT Calculator.</TI>
+<YR>2003</YR>
+<PB>Cates C</PB>
+<CY>http://www.nntonline.net/</CY>
+<MD>Internet</MD>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-1998" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Chang 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Chang AB, Newman RG, Carlin J, Phelan PD, Robertson CF</AU>
+<TI>Subjective scoring of cough in children: parent-completed vs child-completed diary cards vs an objective method</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1998</YR>
+<VL>11</VL>
+<PG>462-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-2001" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Chang 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Chang AB, Asher MI</AU>
+<TI>A review of cough in children</TI>
+<SO>Journal of Asthma</SO>
+<YR>2001</YR>
+<VL>38</VL>
+<NO>4</NO>
+<PG>299-309</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-2003" MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Chang 2003" TYPE="BOOK_SECTION">
+<AU>Chang AB</AU>
+<TI>Causes of cough, assessment and measurement in children</TI>
+<SO>Cough: Mechanisms, Causes and Therapy</SO>
+<YR>2003</YR>
+<ED>Widdicombe JG, Chung F, Boushey H</ED>
+<PB>Blackwell Science</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Chang-2005" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Chang 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Chang AB, Gaffney JT, Eastburn MM, Faoagali J,Cox N, Masters IB</AU>
+<TI>Cough quality in children: a comparison of subjective vs. bronchoscopic findings</TI>
+<SO>Respiratory Research</SO>
+<YR>2005</YR>
+<VL>6</VL>
+<NO>1</NO>
+<PG>3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fahey-2004" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Fahey 2004" TYPE="COCHRANE_REVIEW">
+<AU>Fahey T, Smucny J, Becker L, Glazier R</AU>
+<TI>Antibiotics for acute bronchitis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2008-04-08 09:19:12 +0100" MODIFIED_BY="Toby J Lasserson">
+<IDENTIFIER MODIFIED="2008-04-08 09:19:12 +0100" MODIFIED_BY="Toby J Lasserson" TYPE="DOI" VALUE="10.1002/14651858.CD000245.pub2."/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Fitch-2000" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Fitch 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Fitch PS, Brown V, Chock BC, Taylor R, Ennis M, Shields MD</AU>
+<TI>Chronic cough in children: bronchoalveolar lavage findings</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2000</YR>
+<VL>16</VL>
+<PG>1109-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gazi-2004" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Gazi 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Gazi H, Kurutepe S, Surucuoglu S, Teker A, Ozbakkaloglu B</AU>
+<TI>Antimicrobial susceptibility of bacterial pathogens in the oropharynx of healthy school children in Turkey</TI>
+<SO>Indian Journal of Medical Research</SO>
+<YR>2004</YR>
+<VL>120</VL>
+<NO>5</NO>
+<PG>489-95</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gibson-2001" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Gibson 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Gibson PG, Simpson JL, Chalmers AC</AU>
+<TI>Airway eosinophilia is associated with wheeze but is uncommon in children with persistent cough and frequent chest colds</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>2001</YR>
+<VL>164</VL>
+<PG>977-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hay-2002" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Hay 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Hay AD, Wilson AD</AU>
+<TI>The natural history of acute cough in children aged 0 to 4 years in primary care: a systematic review</TI>
+<SO>British Journal of General Practice</SO>
+<YR>2002</YR>
+<VL>52</VL>
+<NO>478</NO>
+<PG>401-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, McQuay HJ</AU>
+<TI>Assessing the quality of reports of randomized clinical trials: is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kemp-1997" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Kemp 1997" TYPE="BOOK">
+<AU>Kemp CA, McDowell JM</AU>
+<SO>Paediatric Pharmacopoeia</SO>
+<YR>1997</YR>
+<PB>Pharmacy Department, Royal Children's Hospital, Parkville, Australia</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kogan-1994" MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Kogan 1994" NOTES="&lt;p&gt;High prevalence of use of OTC in USA - 57.3% used in last 30 days&amp;#182;&lt;/p&gt;" NOTES_MODIFIED="2008-05-14 10:07:41 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Kogan MD, Pappas G, Yu SM, Kotelchuck M</AU>
+<TI>Over-the-counter medication use among preschool-age children</TI>
+<SO>JAMA</SO>
+<YR>1994</YR>
+<VL>272</VL>
+<PG>1025-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Leonardi-2002" MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Leonardi 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Leonardi GS, Houthuijs D, Nikiforov B, Volf J, Rudnai P, Zejda J, et al</AU>
+<TI>Respiratory symptoms, bronchitis and asthma in children of Central and Eastern Europe</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2002</YR>
+<VL>20</VL>
+<NO>4</NO>
+<PG>890-98</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Marchant-JM-2003" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Marchant JM 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Marchant JM, Masters IB, Chang AB</AU>
+<TI>Chronic cough in children - understanding the spectrum of disease</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2003</YR>
+<VL>22</VL>
+<NO>Suppl 45</NO>
+<PG>176S</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Marchant-JM-2004" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Marchant JM 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Marchant JM, Masters IB, Chang AB</AU>
+<TI>Defining Paediatric Chronic Bacterial Bronchitis</TI>
+<SO>Respirology</SO>
+<YR>2004</YR>
+<VL>9</VL>
+<NO>S2</NO>
+<PG>A61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Morice-2002" MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Morice 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Morice AH</AU>
+<TI>Epidemiology of cough</TI>
+<SO>Pulmonary Pharmacology and Therapeutics</SO>
+<YR>2002</YR>
+<VL>15</VL>
+<NO>3</NO>
+<PG>253-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Spee_x002d_van-1998" MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Spee-van 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Spee-van der Wekke J, Meulmeester JF, Radder JJ, Verloove-Vanhorick SP</AU>
+<TI>School absence and treatment in school children with respiratory symptoms in The Netherlands: data from the Child Health Monitoring System</TI>
+<SO>Journal of Epidemiology and Community Health</SO>
+<YR>1998</YR>
+<VL>52</VL>
+<NO>6</NO>
+<PG>359-63</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yun-1983" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Yun 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Yun DJ, Hong CH, Oh KK</AU>
+<TI>Chronic cough and sinusitis in children: The role of antimicrobials</TI>
+<SO>Yonsei Medical Journal</SO>
+<YR>1983</YR>
+<VL>24</VL>
+<NO>1</NO>
+<PG>67-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Darelid-1993">
+<CHAR_METHODS MODIFIED="2008-04-08 09:05:54 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Open randomised study comparing erythromycin and no treatment (as control group). At baseline patients had a history and clinical examination performed. A nasopharyngeal swab was obtained at baseline and again 18-36 hours after last antibiotic dose. A repeat doctors examination was performed on Day 8.</P>
+<P>Randomisation was open and done by a computer-generated table. No other information given about randomisation. Allocation concealment was not done (grade C). Not blinded due to open design of study (quality assessment grade D). Compliance monitoring not described.</P>
+<P>Dropouts: n=1 (1.1% of patients randomised) from treatment group from adverse effects of antibiotics. No further description given and was not included in analysis as treatment failures. Quality assessment of reporting of participants and follow-up of patients therefore were of a high quality (A).</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>88 children with cough &gt;10 days duration were included. The number of participants with cough &gt; 3 weeks duration was 50%. Approximately 75% of the participants had moist cough. <BR/>Erthromycin group: n=41 Control group n=47 . There were no significant differences in any patient characteristics between the 2 groups. </P>
+<P>Inclusion criteria: Children aged 0.5 - 6 years attending one of 3 paediatric outpatient clinics with greater than 10 days of cough. </P>
+<P>Exclusion criteria: Children with allergy, asthma, cardiac disease, otitis media, tonsillitis, pneumonia or clinically suspected pertussis.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Treatment group received erythromycin ethylsuccinate suspension 50mg/kg/day in 2 divided doses for 7 days verus 'no treatment' control group. All children received nose drops (oxymetazoline chloride). Salbutamol mixture (0.1mg/kg/day) was allowed in both groups and was registered.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-05-14 10:07:41 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>1. Clinical symptoms as recorded on a questionnaire by parents, including cough on 3 point scale (none,moderate or frequent), morning temperature and degree of activity of child (usual, reduced, bedridden).<BR/>2. Doctor performed clinical examination on Day 8 to assess cure or clinical failure (without knowledge of questionnaires).<BR/>3. Elimination of nasopharyngeal pathogens<BR/>4. Progression of disease requiring additional antibiotics (% complications) ie bacterial complications requiring further antibiotics and recurrent symptoms were recorded during therapy and for 3 months after.<BR/>5. Adverse drug reactions</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>4 children in each arm had received antibiotic treatment prior to enrolment for &lt;30 days.</P>
+<P>Quality Score: CDAA</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Gottfarb-1994">
+<CHAR_METHODS>
+<P>Randomised double blind study comparing Amoxycillin/clavulanic acid vs placebo. At baseline clinical data was obtained and participants underwent nasopharyngeal aspirate and blood tests for B.pertussis and Mycoplasma pneumoniae. A cough scoring system which combined number of coughing attacks per 24 hours, coughing attacks associated with vomiting and wheeze or crackles on auscultation was obtained. At 2 weeks participants were followed-up with repeat blood tests, nasopharyngeal aspirates and doctor assessment of clinical outcome. Parental assessment of treatment efficacy was also recorded. Number of coughing attacks per 24 hours was recorded for each day of treatment.</P>
+<P>Randomisation method was not described. Allocation method was not described. Compliance monitoring was not described. Although a double-blinded study there was no mention of how this was achieved in the paper. </P>
+<P>Dropouts n=15 (26.3% of those recruited). 12 with pertussis, 2 failed to return to follow-up visit, 1 refused medication. These were not further described and not included as treatment failures in the paper.<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>52 children with cough &gt;10 days duration were included. The mean duration of cough was 3-4 weeks. Number with moist cough was not reported. <BR/>Median age of groups: Amoxycillin/clavulanic acid 2.7 years; Placebo 2.6 years (Numbers in each group not described).There was no significant differences in any patient characteristics between the two groups. </P>
+<P>Inclusion criteria: Children aged 0.6-7 years with &gt; 10 days of cough and &gt; 7 points on cough score system.</P>
+<P>Exclusion criteria: Children with any signs of pneumonia, acute otitis media or clinical suspicion of Bordetella pertussis infection.<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Treatment group received amoxycillin/clavulanic acid 20mg/kg/day for 7 days verus placebo group. <BR/>The children were not given any antitussive medication.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1. Paediatrician's assessment of clinical recovery on day 12-14.<BR/>2. Parental assessment of recovery on Day 12-14.<BR/>3. Number of coughing attacks each day of treatment recorded until day 8<BR/>4. Adverse events<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Due to lack of information in the paper and an inability to obtain data from authors about the dropouts with pertussis, it was assumed that there were equal numbers of patients in each treatment group analysed. (37 patients became 18 each group)</P>
+<P>Quality Score: BACD</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-04-08 06:59:14 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Dowell-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article on use of antibiotics for cough, pharyngitis and the common cold.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Field-1966">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Double blind RCT of ampicillin versus placebo in infants with cough and expiratory wheeze (bronchiolitis). Excluded from review as all patients had wheeze - an exclusion criteria in our patients.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fiocchi-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>RCT of Domiodol versus placebo in children. Excluded as domiodol is a mucolytic not antibiotic.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Friis-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Open randomised prospective trial of antibiotic versus control group in children with pneumonia. All had been unwell for &lt; 1 week. Excluded as acute cough not chronic.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nevihostenyi-1980">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non RCT. Study of 129 children aged 2 - 8 years who underwent endoscopy for investigation of chronic bronchitis.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-O_x0027_Brien-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article on the investigation and treatment of (including use of antibiotics) in children with acute, subacute and chronic cough.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schaad-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Double blind RCT of bacterial lysate vs placebo in acute infections respiratory system therefore excluded as not antibiotic and not chronic infections.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shann-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non RCT. Review article on treatment of pneumonia.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Stott-1976">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>RCT of doxycycline versus placebo in adults with acute cough of &lt;= 1 weeks duration. Excluded as adults and acute cough.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Taylor-1977">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Double blind RCT of amoxycillin, co-trimoxazle and placebo in children with viral respiratory illnesses. Excluded as not chronic cough.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wald-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Excluded as cough due to acute sinusitis (that is not non-specific cough) and cough not chronic (&lt;30 days). Double-blind RCT of amoxycillin, amoxycillin-clavulanate potassium and placebo in 171 children aged 2-16 years with persistent nasal discharge and/or cough. Children receiving antibiotic more likely to be cured then those receiving placebo (p&lt;0.05 at ten days).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-04-08 06:59:14 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Yun-1983">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-04-08 06:59:14 +0100" MODIFIED_BY="[Empty name]">
+<P>RCT of antibiotics for sinusitis in children presenting with chronic cough. Excluded because no placebo or "no treatment" control group. The non-antibiotic group was given expectorants and decongestants which is not an appropriate control/placebo group. There was also no information given on nature of cough, moist or dry. It did however precisely defined "clinical cure" as no cough on day 14 of treatment. The results did suggest benefit with antibiotics in keeping with our results with the difference between the antibiotic( treatment event rate for cure 46%) and expectorant/decongestant group ( control cure rate 14%) which was statistically significant (p&lt;0.001).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES MODIFIED="2008-04-08 00:46:34 +0100" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<ONGOING_CHAR MODIFIED="2008-04-08 00:46:34 +0100" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Marchant">
+<CHAR_STUDY_NAME>
+<P>Randomised controlled double-blinded trial of antibiotics in patients with chronic moist cough</P>
+</CHAR_STUDY_NAME>
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS>
+<P>Children aged 6 months - 14 years with chronic (&gt;3 week duration) moist cough.<BR/>Exclusion criteria: Clinical or HRCT-proven bronchiectasis, gross neurodevelopmental delay, cystic fibrosis, known chronic disease such as interstitial lung disease or cardiac disease. Also children who have had antibiotic therapy in the preceding 2 weeks or who are allergic to penicillin will be excluded.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Randomisation stratified by age &lt;6 years or &gt; 6 years. Allocated blindly to Augmentin Duo Suspension 400mg/5ml or placebo at dose 22.5mg/kg twice daily for 14 days. Enrolled children will complete cough diary cards for 5 days pre intervention and total of 4 weeks after intervention. Bronchoscopy and lavage will take place on day 0 in a number of children.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Primary Outcome: Assessment of cough scores - pre treatment, immediately prior to treatment and at conclusion of treatment. Bronchoalveolar lavage results in responders and non-responders will also be compared including cytology, microbiology and inflammatory markers.</P>
+</CHAR_OUTCOMES>
+<CHAR_STARTING_DATE>
+<P>January 2004</P>
+</CHAR_STARTING_DATE>
+<CHAR_CONTACT_INFORMATION MODIFIED="2008-04-08 00:45:16 +0100" MODIFIED_BY="[Empty name]">
+<P>Dr Julie M Marchant<BR/>Respiratory Fellow<BR/>Dept. of Respiratory Medicine<BR/>Royal Children's Hospital<BR/>Herston Road<BR/>Brisbane<BR/>Qld AUSTRALIA<BR/>4006<BR/>Telephone 1: 61 7 36368523<BR/>Telephone 2: 61 7 36368111<BR/>Facsimile: 61 7 36361958<BR/>E-mail: jmarchant@ausdoctors.net</P>
+</CHAR_CONTACT_INFORMATION>
+<CHAR_NOTES MODIFIED="2008-04-08 00:46:34 +0100" MODIFIED_BY="[Empty name]">
+<P>Study continuing but recruitment slow. Results likely available late 2008.</P>
+</CHAR_NOTES>
+</ONGOING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-04-09 02:13:33 +0100" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2008-04-08 09:06:57 +0100" MODIFIED_BY="Toby J Lasserson" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-04-08 09:03:56 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Darelid-1993">
+<DESCRIPTION>
+<P>Computer-generated table</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-04-08 09:06:57 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Gottfarb-1994">
+<DESCRIPTION>
+<P>Not described </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-04-08 09:07:04 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-04-08 09:03:39 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Darelid-1993">
+<DESCRIPTION>
+<P>Open</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-04-08 09:07:04 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Gottfarb-1994">
+<DESCRIPTION>
+<P>Not described</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2008-04-08 09:07:14 +0100" MODIFIED_BY="Toby J Lasserson" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1" REF_IDS="CMP-001.01 CMP-001.03 CMP-001.02">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-04-08 09:05:37 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Darelid-1993">
+<DESCRIPTION>
+<P>Open study</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-04-08 09:07:14 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Gottfarb-1994">
+<DESCRIPTION>
+<P>Identical placebo </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2008-04-09 02:13:33 +0100" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1" REF_IDS="CMP-001.01 CMP-001.02 CMP-001.03">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-04-08 09:06:35 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Darelid-1993">
+<DESCRIPTION>
+<P>Only one patient withdrew from the study. </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-04-09 02:13:33 +0100" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Gottfarb-1994">
+<DESCRIPTION>
+<P>26% attrition not included in final analysis</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2011-01-14 14:55:05 +0000" MODIFIED_BY="[Empty name]"/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Clinical failure</NAME>
+<DICH_OUTCOME CHI2="1.038500207177472" CI_END="0.3133029792665014" CI_START="0.05771977753762465" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="OR" EFFECT_SIZE="0.13447593935398813" ESTIMABLE="YES" EVENTS_1="23" EVENTS_2="53" I2="3.7072893111992076" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.5040354752975167" LOG_CI_START="-1.2386753514241469" LOG_EFFECT_SIZE="-0.8713554133608317" METHOD="MH" NO="1" P_CHI2="0.30817087171945867" P_Q="0.0" P_Z="3.328672950524766E-6" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="73" WEIGHT="99.99999999999999" Z="4.649421528615372">
+<NAME>Children not cured or substantially improved at follow-up (using 'intention to treat' analysis)</NAME>
+<GROUP_LABEL_1>Antibiotics</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Antibiotics better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Control better</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.27780078513255135" CI_START="0.033969431329630186" EFFECT_SIZE="0.09714285714285714" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="30" LOG_CI_END="-0.5562665311748871" LOG_CI_START="-1.4689117234411537" LOG_EFFECT_SIZE="-1.0125891273080205" ORDER="11" O_E="0.0" SE="0.5360923036037668" STUDY_ID="STD-Darelid-1993" TOTAL_1="41" TOTAL_2="47" VAR="0.28739495798319326" WEIGHT="74.98352010547131"/>
+<DICH_DATA CI_END="1.0495369906525784" CI_START="0.05783648773882901" EFFECT_SIZE="0.2463768115942029" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="23" LOG_CI_END="0.020997749781871404" LOG_CI_START="-1.237798088499834" LOG_EFFECT_SIZE="-0.6084001693589813" ORDER="12" O_E="0.0" SE="0.7394229065465678" STUDY_ID="STD-Gottfarb-1994" TOTAL_1="26" TOTAL_2="26" VAR="0.5467462347257743" WEIGHT="25.016479894528672"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.7217047165791348" CI_END="0.29685926092737747" CI_START="0.053411587360609386" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="OR" EFFECT_SIZE="0.12591951536131546" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="47" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.527449398121041" LOG_CI_START="-1.272364514865363" LOG_EFFECT_SIZE="-0.899906956493202" METHOD="MH" NO="2" P_CHI2="0.3955853247345599" P_Q="0.0" P_Z="2.1847967160851893E-6" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="61" TOTAL_2="67" WEIGHT="100.0" Z="4.735533444058473">
+<NAME>Children not cured or substantially improved at follow-up (excluding those known to have B.Pertussis)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Antibiotics better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Control better</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.27780078513255135" CI_START="0.033969431329630186" EFFECT_SIZE="0.09714285714285714" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="30" LOG_CI_END="-0.5562665311748871" LOG_CI_START="-1.4689117234411537" LOG_EFFECT_SIZE="-1.0125891273080205" ORDER="13" O_E="0.0" SE="0.5360923036037668" STUDY_ID="STD-Darelid-1993" TOTAL_1="41" TOTAL_2="47" VAR="0.28739495798319326" WEIGHT="75.72479446127218"/>
+<DICH_DATA CI_END="0.9771318903515679" CI_START="0.04760930379130355" EFFECT_SIZE="0.21568627450980393" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="17" LOG_CI_END="-0.010046812549357036" LOG_CI_START="-1.3223081693300656" LOG_EFFECT_SIZE="-0.6661774909397113" ORDER="14" O_E="0.0" SE="0.7708288167714671" STUDY_ID="STD-Gottfarb-1994" TOTAL_1="20" TOTAL_2="20" VAR="0.5941770647653" WEIGHT="24.275205538727825"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.6548734443769284" CI_END="0.2937412746014341" CI_START="0.05239913066039438" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="OR" EFFECT_SIZE="0.12406364265243601" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="45" I2="39.572418459073944" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-0.5320350249712023" LOG_CI_START="-1.2806759182171419" LOG_EFFECT_SIZE="-0.906355471594172" METHOD="MH" NO="3" P_CHI2="0.19829699427939795" P_Q="0.0" P_Z="2.0775484353341287E-6" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="58" TOTAL_2="66" WEIGHT="100.0" Z="4.745730823795146">
+<NAME>Children not cured or substantially improved at follow-up (using available data only)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Antibiotics better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Control better</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.24563461131690842" CI_START="0.02667900890157782" EFFECT_SIZE="0.08095238095238096" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="30" LOG_CI_END="-0.6097104386510545" LOG_CI_START="-1.5738303080602365" LOG_EFFECT_SIZE="-1.0917703733556454" ORDER="15" O_E="0.0" SE="0.5663287837612765" STUDY_ID="STD-Darelid-1993" TOTAL_1="40" TOTAL_2="47" VAR="0.32072829131652664" WEIGHT="76.78624369997036"/>
+<DICH_DATA CI_END="1.1241589286276805" CI_START="0.06325716880434348" EFFECT_SIZE="0.26666666666666666" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="15" LOG_CI_END="0.05082771421061132" LOG_CI_START="-1.1988902496660492" LOG_EFFECT_SIZE="-0.5740312677277188" ORDER="16" O_E="0.0" SE="0.7340905181848413" STUDY_ID="STD-Gottfarb-1994" TOTAL_1="18" TOTAL_2="19" VAR="0.5388888888888889" WEIGHT="23.213756300029647"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Illness progression</NAME>
+<DICH_OUTCOME CHI2="1.2440696317072477" CI_END="0.3355174195688611" CI_START="0.02733764431511694" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="OR" EFFECT_SIZE="0.09577189503032392" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="24" I2="19.618647179122025" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="-0.47428492698159863" LOG_CI_START="-1.5632389113125686" LOG_EFFECT_SIZE="-1.0187619191470836" METHOD="MH" NO="1" P_CHI2="0.2646882607185156" P_Q="0.0" P_Z="2.451670411027065E-4" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="59" TOTAL_2="66" WEIGHT="100.0" Z="3.667256282782129">
+<NAME>Participants with progression of disease resulting in additional medical therapy required</NAME>
+<GROUP_LABEL_1>Antibiotics</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Antibiotics better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Control better</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.29408074470063017" CI_START="0.013707943138487241" EFFECT_SIZE="0.06349206349206349" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="21" LOG_CI_END="-0.5315334105287323" LOG_CI_START="-1.8630277057225064" LOG_EFFECT_SIZE="-1.1972805581256194" ORDER="17" O_E="0.0" SE="0.7821263399998825" STUDY_ID="STD-Darelid-1993" TOTAL_1="41" TOTAL_2="47" VAR="0.6117216117216117" WEIGHT="87.10011209795637"/>
+<DICH_DATA CI_END="3.335621832913769" CI_START="0.029506847037511313" EFFECT_SIZE="0.3137254901960784" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="3" LOG_CI_END="0.523176807796536" LOG_CI_START="-1.5300771946805591" LOG_EFFECT_SIZE="-0.5034501934420116" ORDER="18" O_E="0.0" SE="1.206091564826277" STUDY_ID="STD-Gottfarb-1994" TOTAL_1="18" TOTAL_2="19" VAR="1.454656862745098" WEIGHT="12.899887902043632"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Adverse events (reaction to medications)</NAME>
+<DICH_OUTCOME CHI2="0.4550238586252269" CI_END="6.0753227042734625" CI_START="0.3124560944891045" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="OR" EFFECT_SIZE="1.3777777777777775" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="3" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="0.7835693514000668" LOG_CI_START="-0.5052109999542466" LOG_EFFECT_SIZE="0.1391791757229101" METHOD="MH" NO="1" P_CHI2="0.4999588378777112" P_Q="0.0" P_Z="0.6720584966351633" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="61" TOTAL_2="67" WEIGHT="100.0" Z="0.42332453552417715">
+<NAME>Reaction to medications (vomiting, diarrhoea, rash)</NAME>
+<GROUP_LABEL_1>Antibiotics</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Antibiotics better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Control better</GRAPH_LABEL_2>
+<DICH_DATA CI_END="5.67331316667771" CI_START="0.17626384629593778" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="3" LOG_CI_END="0.753836757265777" LOG_CI_START="-0.7538367572657771" LOG_EFFECT_SIZE="0.0" ORDER="2" O_E="0.0" SE="0.8856148855400953" STUDY_ID="STD-Gottfarb-1994" TOTAL_1="20" TOTAL_2="20" VAR="0.7843137254901961" WEIGHT="85.0"/>
+<DICH_DATA CI_END="88.76413554424506" CI_START="0.13947043464403336" EFFECT_SIZE="3.5185185185185186" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.948237527924612" LOG_CI_START="-0.8555178456648912" LOG_EFFECT_SIZE="0.5463598411298605" ORDER="19" O_E="0.0" SE="1.646939785259408" STUDY_ID="STD-Darelid-1993" TOTAL_1="41" TOTAL_2="47" VAR="2.7124106562703054" WEIGHT="15.000000000000002"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<FIGURE FILENAME="Other figure.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2008-05-14 10:07:42 +0100" MODIFIED_BY="Toby J Lasserson" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Children not cured or substantially improved at follow-up</P>
+</CAPTION>
+<FILE>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
+AAAAtsH/A1zONdbX2d92AAAAAElFTkSuQmCC
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2011-01-14 14:59:35 +0000" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2011-01-14 14:37:13 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2011-01-14 14:32:21 +0000" MODIFIED_BY="[Empty name]">Database search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2011-01-14 14:37:13 +0000" MODIFIED_BY="[Empty name]">
+<P>
+<B>CENTRAL search strategy</B>
+</P>
+<P>#1 MeSH descriptor Cough explode all trees<BR/>#2 MeSH descriptor Bronchitis explode all trees<BR/>#3 cough* or bronchiti*<BR/>#4 (#1 OR #2 OR #3)<BR/>#5 MeSH descriptor Anti-Bacterial Agents explode all trees<BR/>#6 antibiot* or anti-biot* or antimicrob* or anti-microb* or antibacterial* or anti-bacterial* or erythromycin or amoxycillin or ampicillin or doxycycline<BR/>#7 (#5 OR #6)<BR/>#8 MeSH descriptor Child explode all trees<BR/>#9 MeSH descriptor Infant explode all trees<BR/>#10 MeSH descriptor Adolescent explode all trees<BR/>#11 MeSH descriptor Pediatrics explode all trees<BR/>#12 child* or paediat* or pediat* or adolesc* or infan* or toddler* or bab* or young* or preschool* or pre school* or pre-school* or newborn* or new born* or new-born* or neo-nat* or neonat*<BR/>#13 (#8 OR #9 OR #10 OR #11 OR #12)<BR/>#14 (#4 AND #7 AND #13)</P>
+<P>
+<B>MEDLINE search stratgey</B>
+</P>
+<P>
+<U>Topic search</U>
+</P>
+<P>1. exp COUGH/<BR/>2. exp Bronchitis/<BR/>3. (cough$ or bronchit$).mp.<BR/>4. 1 or 2 or 3<BR/>5. exp Anti-Bacterial Agents/<BR/>6. (antibiot$ or anti-biot$ or antimicrob$ or anti-microb$ or antibacterial$ or anti-bacterial$ or erythromycin or amoxycillin or ampicillin or doxycycline).mp.<BR/>7. 5 or 6<BR/>8. exp adolescent/ or exp child/ or exp infant/<BR/>9. exp Pediatrics/<BR/>10. (child$ or paediat$ or pediat$ or adolesc$ or infan$ or toddler$ or bab$ or young$ or preschool$ or pre school$ or pre-school$ or newborn$ or new born$ or new-born$ or neo-nat$ or neonat$).mp.<BR/>11. 8 or 9 or 10<BR/>12. 4 and 7 and 11</P>
+<P>
+<U>RCT filter</U>
+</P>
+<P>1. (clinical trial or controlled clinical trial or randomised controlled trial).pt.<BR/>2. (randomised or randomised).ab,ti.<BR/>3. placebo.ab,ti.<BR/>4. dt.fs.<BR/>5. randomly.ab,ti.<BR/>6. trial.ab,ti.<BR/>7. groups.ab,ti.<BR/>8. or/1-7<BR/>9. Animals/<BR/>10. Humans/<BR/>11. 9 not (9 and 10)<BR/>12. 8 not 11</P>
+<P>
+<B>EMBASE search strategy</B>
+</P>
+<P>
+<U>Topic search</U>
+</P>
+<P>1. exp Coughing/<BR/>2. exp Bronchitis/<BR/>3. (cough$ or bronchit$).mp.<BR/>4. 1 or 2 or 3<BR/>5. exp Antibiotic Agent/<BR/>6. (antibiot$ or anti-biot$ or antimicrob$ or anti-microb$ or antibacterial$ or anti-bacterial$ or erythromycin or amoxycillin or ampicillin or doxycycline).mp.<BR/>7. 5 or 6<BR/>8. Child/<BR/>9. Adolescent/<BR/>10. Infant/<BR/>11. exp pediatrics/<BR/>12. (child$ or paediat$ or pediat$ or adolesc$ or infan$ or toddler$ or bab$ or young$ or preschool$ or pre school$ or pre-school$ or newborn$ or new born$ or new-born$ or neo-nat$ or neonat$).mp.<BR/>13. or/8-12<BR/>14. 4 and 7 and 13</P>
+<P>
+<U>RCT filter</U>
+</P>
+<P>1. Randomized Controlled Trial/<BR/>2. Controlled Study/<BR/>3. randomisation/<BR/>4. Double Blind Procedure/<BR/>5. Single Blind Procedure/<BR/>6. Clinical Trial/<BR/>7. Crossover Procedure/<BR/>8. follow up/<BR/>9. exp prospective study/<BR/>10. or/1-9<BR/>11. (clinica$ adj3 trial$).mp.<BR/>12. ((singl$ or doubl$ or trebl$ or tripl$) adj5 (mask$ or blind$ or method$)).mp.<BR/>13. exp Placebo/<BR/>14. placebo$.mp.<BR/>15. random$.mp.<BR/>16. (latin adj3 square$).mp.<BR/>17. exp Comparative Study/<BR/>18. ((control$ or prospectiv$ or volunteer$) adj3 (trial$ or method$ or stud$)).mp.<BR/>19. (crossover$ or cross-over$).mp.<BR/>20. or/11-19<BR/>21. 10 or 20<BR/>22. exp ANIMAL/<BR/>23. Nonhuman/<BR/>24. Human/<BR/>25. 22 or 23<BR/>26. 25 not 24<BR/>27. 21 not 26</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2011-01-14 14:59:35 +0000" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2011-01-14 14:55:16 +0000" MODIFIED_BY="[Empty name]">Search history</TITLE>
+<APPENDIX_BODY MODIFIED="2011-01-14 14:59:35 +0000" MODIFIED_BY="[Empty name]">
+<TABLE COLS="2" ROWS="5">
+<TR>
+<TD VALIGN="TOP">
+<P>
+<B>Year of search</B>
+</P>
+</TD>
+<TD VALIGN="TOP">
+<P>
+<B>Number of references retrieved</B>
+</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>2004</P>
+</TD>
+<TD VALIGN="TOP">
+<P>1550</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>2006</P>
+</TD>
+<TD VALIGN="TOP">
+<P>297</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>2008</P>
+</TD>
+<TD VALIGN="TOP">
+<P>365</P>
+</TD>
+</TR>
+<TR>
+<TD VALIGN="TOP">
+<P>2010</P>
+</TD>
+<TD VALIGN="TOP">
+<P>567</P>
+</TD>
+</TR>
+</TABLE>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD005009.pub2" GROUP_ID="PROSTATE" ID="242803081512272100" MERGED_FROM="" MODIFIED="2012-01-17 17:29:05 +0100" MODIFIED_BY="James Tacklind" NOTES="&lt;p&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3.1&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3.1&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3.1&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3.1&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3.1&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.3&lt;br&gt;Exported from Review Manager 4.2&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2012-01-17 10:27:02 -0600" NOTES_MODIFIED_BY="James Tacklind" REVIEW_NO="" REVMAN_SUB_VERSION="5.1.6" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="5.0">
+<COVER_SHEET MODIFIED="2012-01-17 17:29:05 +0100" MODIFIED_BY="James Tacklind">
+<TITLE>Intermittent versus continuous androgen suppression for prostatic cancer</TITLE>
+<CONTACT MODIFIED="2012-01-17 17:29:05 +0100" MODIFIED_BY="James Tacklind"><PERSON ID="19774" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Paulo</FIRST_NAME><LAST_NAME>De Conti</LAST_NAME><EMAIL_1>paulodeconti@hotmail.com</EMAIL_1><ADDRESS><ORGANISATION/><ADDRESS_1>Av João Franceschi, 1335 - Jardim Alvorada</ADDRESS_1><CITY>Jaú</CITY><ZIP>17210150</ZIP><REGION>São Paulo</REGION><COUNTRY CODE="BR">Brazil</COUNTRY><PHONE_1>+55 14 36223473</PHONE_1><PHONE_2>+55 14 36222881</PHONE_2><FAX_1>+55 14 36222881</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2012-01-17 17:29:05 +0100" MODIFIED_BY="James Tacklind"><PERSON ID="19774" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Paulo</FIRST_NAME><LAST_NAME>De Conti</LAST_NAME><EMAIL_1>paulodeconti@hotmail.com</EMAIL_1><ADDRESS><ORGANISATION/><ADDRESS_1>Av João Franceschi, 1335 - Jardim Alvorada</ADDRESS_1><CITY>Jaú</CITY><ZIP>17210150</ZIP><REGION>São Paulo</REGION><COUNTRY CODE="BR">Brazil</COUNTRY><PHONE_1>+55 14 36223473</PHONE_1><PHONE_2>+55 14 36222881</PHONE_2><FAX_1>+55 14 36222881</FAX_1></ADDRESS></PERSON><PERSON ID="5183" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Álvaro</FIRST_NAME><MIDDLE_INITIALS>N</MIDDLE_INITIALS><LAST_NAME>Atallah</LAST_NAME><SUFFIX>MD, PhD.</SUFFIX><POSITION>Professor of Emergency Medicine and Evidence-Based Medicine, Director of Brazilian Cochrane Centre</POSITION><EMAIL_1>atallahmbe@uol.com.br</EMAIL_1><EMAIL_2>cochrane.dmed@epm.br</EMAIL_2><MOBILE_PHONE>+55 11 8173 0404</MOBILE_PHONE><ADDRESS><DEPARTMENT>Brazilian Cochrane Centre</DEPARTMENT><ORGANISATION>Universidade Federal de  São Paulo / Escola Paulista de Medicina</ORGANISATION><ADDRESS_1>Rua Pedro de Toledo 598</ADDRESS_1><ADDRESS_2>Vila Clementino</ADDRESS_2><CITY>São Paulo</CITY><ZIP>CEP 04039-001</ZIP><REGION>SP</REGION><COUNTRY CODE="BR">Brazil</COUNTRY><PHONE_1>+55 11 5575 2970</PHONE_1><PHONE_2>+55 11 5571 4721</PHONE_2><FAX_1>+55 11 5579 0469</FAX_1></ADDRESS></PERSON><PERSON ID="E347AAD482E26AA201E74FE976A13301" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Homero</FIRST_NAME><MIDDLE_INITIALS>O</MIDDLE_INITIALS><LAST_NAME>Arruda</LAST_NAME><ADDRESS><ORGANISATION/><CITY>Sao Paulo</CITY><COUNTRY CODE="BR">Brazil</COUNTRY></ADDRESS></PERSON><PERSON ID="9639" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Bernardo</FIRST_NAME><MIDDLE_INITIALS>GO</MIDDLE_INITIALS><LAST_NAME>Soares</LAST_NAME><POSITION>Research Assitant</POSITION><EMAIL_1>bgos@terra.com.br</EMAIL_1><ADDRESS><DEPARTMENT>Brazilian Cochrane Centre</DEPARTMENT><ORGANISATION>Universidade Federal de São Paulo</ORGANISATION><ADDRESS_1>Rua Pedro de Toledo 598</ADDRESS_1><CITY>São Paulo</CITY><ZIP>04039-001</ZIP><REGION>SP</REGION><COUNTRY CODE="BR">Brazil</COUNTRY><PHONE_1>+55 11 5575 2970</PHONE_1><FAX_1>+55 11 5579 0469</FAX_1></ADDRESS></PERSON><PERSON ID="9DA0FCBF82E26AA2007D5B6E4992F15C" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Regina</FIRST_NAME><MIDDLE_INITIALS>P</MIDDLE_INITIALS><LAST_NAME>El Dib</LAST_NAME><SUFFIX>PhD</SUFFIX><POSITION>Professor, Postgraduate</POSITION><EMAIL_1>eldib@fmb.unesp.br</EMAIL_1><EMAIL_2>re.lucci@terra.com.br</EMAIL_2><MOBILE_PHONE>+55 11 9999 6647</MOBILE_PHONE><ADDRESS><DEPARTMENT>Department of Surgery</DEPARTMENT><ORGANISATION>Botucatu School of Medicine, UNESP - Univ Estadual Paulista</ORGANISATION><ADDRESS_1>Distrito de Rubião Júnior, s/n</ADDRESS_1><CITY>Botucatu</CITY><ZIP>18603-970</ZIP><REGION>São Paulo</REGION><COUNTRY CODE="BR">Brazil</COUNTRY></ADDRESS></PERSON><PERSON ID="9186" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Timothy</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Wilt</LAST_NAME><POSITION>Co-ordinating Editor, Prostatic Diseases and Urologic Cancers Group</POSITION><EMAIL_1>Tim.Wilt@med.va.gov</EMAIL_1><ADDRESS><DEPARTMENT>General Internal Medicine (111-0)</DEPARTMENT><ORGANISATION>VAMC</ORGANISATION><ADDRESS_1>One Veterans Drive</ADDRESS_1><CITY>Minneapolis</CITY><ZIP>55417</ZIP><REGION>Minnesota</REGION><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>+1 612 467 2681</PHONE_1><FAX_1>+1 612 467 2118</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2012-01-17 10:18:17 -0600" MODIFIED_BY="Jim Tacklind">
+<UP_TO_DATE>
+<DATE DAY="19" MONTH="6" YEAR="2007"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="19" MONTH="6" YEAR="2007"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="1" MONTH="5" YEAR="2008"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2004"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2007"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2007"/>
+</DATES>
+<WHATS_NEW MODIFIED="2012-01-17 10:18:09 -0600" MODIFIED_BY="James Tacklind">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-01-17 10:18:09 -0600" MODIFIED_BY="James Tacklind">
+<DATE DAY="17" MONTH="1" YEAR="2012"/>
+<DESCRIPTION>
+<P>Added grant info.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2012-01-17 10:17:55 -0600" MODIFIED_BY="James Tacklind">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-01-17 10:17:55 -0600" MODIFIED_BY="James Tacklind">
+<DATE DAY="27" MONTH="5" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="19" MONTH="6" YEAR="2007"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT MODIFIED="2012-01-17 10:27:02 -0600" MODIFIED_BY="James Tacklind">
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES MODIFIED="2012-01-17 10:27:02 -0600" MODIFIED_BY="James Tacklind">
+<SOURCE>
+<NAME>Brazilian Cochrane Centre</NAME>
+<COUNTRY CODE="BR">Brazil</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE MODIFIED="2012-01-17 10:27:02 -0600" MODIFIED_BY="James Tacklind">
+<NAME>Grant no. 5R01DK63300-4</NAME>
+<COUNTRY CODE="US">USA</COUNTRY>
+<DESCRIPTION>
+<P>Editing support was in part provided by the National Institutes of Health (NIH), and the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK).</P>
+</DESCRIPTION>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>To evaluate the effectiveness and safety of intermittent androgen suppression compared to continuous androgen suppression for treating prostatic cancer.</TITLE>
+<SUMMARY_BODY>
+<P>After lung cancer, prostate cancer is the most common cause of death among males. The American Cancer Society estimates that 234,460 new cases of prostate cancer were diagnosed, and 27,350 men died from this disease in the United States in 2006 (ACS 2006). Treatment for early stage prostate cancer that is believed to be confined to the prostate gland include: radical prostatectomy, external beam or interstitial radiation therapy, and watchful waiting. Androgen suppression therapy (AST) to reduce circulating serum testosterone and disease progression is considered a mainstay of treatment for men with advanced prostate cancer. </P>
+<P>Five studies involving 1382 patients were included in this review. All the included studies involved advanced (T3 or T4) prostate cancer. No study was of adequate size and duration. Few events were reported and they did not assess disease-specific survival or metastatic disease. Only one study evaluated biochemical outcomes. Studies primarily reported on adverse events. There are no data for the relative effectiveness of IAS versus CAS for overall survival, prostate cancer specific survival, disease progression, or quality of life. Limited information suggests IAS may have slightly reduced adverse events. In Hering 2000, IAS (18/25 versus 18/18) appears to be slightly more favorable than CAS in controlling impotence. Overall, IAS was also as effective as CAS for potency, but was superior during the interval of cycles (96%). More research is needed.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>After lung cancer, prostate cancer is the most common cause of death among males. The aim of treatment is to prevent disease-related morbidity and mortality while minimizing intervention-related adverse events. Androgen suppression therapy (AST) to reduce circulating serum testosterone and disease progression is considered a mainstay of treatment for men with advanced prostate cancer. It has been increasingly utilized for early stage disease despite a lack of evidence of effectiveness.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>Evaluate the effectiveness and safety of intermittent androgen suppression (IAS) compared to continuous androgen suppression for treating prostatic cancer.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>The following databases were searched to identify randomised or quasi-randomised, controlled trials comparing intermittent and continuous androgen suppression in the treatment of any stage of prostate cancer: the Cochrane Central Register of Controlled Trials; EMBASE and LILACS. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Studies were included if they were randomised or quasi-randomized, and compare the effects of IAS versus CAS.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two reviewers selected relevant trials, assessed methodological quality and extracted data.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Five randomized studies involving 1382 patients were included in this review. All the included studies involved advanced (T3 or T4) prostate cancer, had relatively small populations, and were of short duration. Few events were reported and did not assess disease-specific survival or metastatic disease. Only one study (N = 77) evaluated biochemical outcomes. A subgroup analysis found no significant differences in biochemical progression (defined by the authors as PSA &#8805; 10 ng/mL) between IAS and CAS for Gleason scores 4 - 6, 7, and 8 - 10. For patients with a Gleason score &gt; 6, reduction in biochemical progression favoured the IAS group (RR 0.10, 95% CI 0.01 to 0.67, P = 0.02). Studies primarily reported on adverse events. One trial (N = 43) found no difference in adverse effects (gastrointestinal, gynecomastia and asthenia) between IAS ( two events) and CAS (five events), with the exception of impotence, which was significantly lower in the IAS group (RR 0.72, 95% CI 0.56 to 0.92, P = 0.008).</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Data from RCTs comparing IAS to CAS are limited by small sample size and short duration. There are no data for the relative effectiveness of IAS versus CAS for overall survival, prostate cancer-specific survival, or disease progression. Limited information suggests IAS may have slightly reduced adverse events. Overall, IAS was also as effective as CAS for potency, but was superior during the interval of cycles (96%).</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P>Prostate cancer is the second most common cause of death in males with tumours; lung cancer ranks first. The American Cancer Society estimates that 234,460 new cases of prostate cancer will be diagnosed, and 27,350 men will die from this disease in the United States in 2006 (<LINK REF="REF-ACS-2006" TYPE="REFERENCE">ACS 2006</LINK>). The aim of treatment is to cure local tumours, traditionally through radical prostatectomy or definitive radiation therapy. For clinically localised disease, androgen blockade has become increasingly popular (<LINK REF="REF-Labrie-2002" TYPE="REFERENCE">Labrie 2002</LINK>).</P>
+<P>Androgen suppression therapy is considered one mainstay of treatment for men with advanced prostate cancer. This suppression may be achieved by surgical or medical castration (ie, with Luteinizing Hormone-Releasing Hormone (LHRH), antiandrogens, or orchiectomy alone, or in combination). Hormone dependence of prostate cancer was established by Huggins (<LINK REF="REF-Huggins-1941" TYPE="REFERENCE">Huggins 1941</LINK>) over fifty years ago. It is estimated that androgen suppression reduces tumour volume, improves symptoms, and delays progression in more than 80% of patients; however, it poses serious limitations since it is a palliative therapy, and may reduce quality of life. The tumour may become hormone refractory over a period ranging from 18 to 36 months. Roughly 20% of these cases stay in remission for 5 years, depending on the initial volume of the tumour and presence of hormone-sensitive cell clones (<LINK REF="REF-Bruchovsky-1990" TYPE="REFERENCE">Bruchovsky 1990</LINK>).</P>
+<P>The use of hormonal therapy is typically continuous and maintained until the disease progresses, or the patient dies. Intermittent androgen suppression has been proposed as a viable treatment option for selected patients with prostate cancer. These patients are treated cyclically, which corresponds to hormonal therapy plus off-therapy time. For each cycle, androgen deprivation is continued until the PSA becomes undetectable or a nadir level is reached. Patients are then observed without treatment, and therapy is reinstituted after the serum PSA reaches a predetermined level. Patients are no longer eligible to cycle off-treatment if their serum PSA is increasing despite ongoing androgen deprivation, or if any objective evidence of disease progression is present in imaging studies.</P>
+<P>The idea of keeping hormone-sensitive clones competing in the tumour could enable some strategic advances and setbacks in eliminating cell populations, promoting a tumour cytoreduction in treatment periods and resettlement of hormone-sensitive cells in the off-treatment phase (<LINK REF="REF-Akakura-1993" TYPE="REFERENCE">Akakura 1993</LINK>). These cells competing with hormone-resistant clones could prevent occupation of the tumour by resistant elements and would maintain hormone dependence for longer periods (<LINK REF="REF-Bladou-1996" TYPE="REFERENCE">Bladou 1996</LINK>; <LINK REF="REF-Rennie-1990" TYPE="REFERENCE">Rennie 1990</LINK>; <LINK REF="REF-Sato-1995" TYPE="REFERENCE">Sato 1995</LINK>). Therefore, based on these studies, the concept of intermittent androgen suppression was introduced in clinical treatment with the aim of decreasing morbidity, improving quality of life, and eventually, extending survival. IAS could also potentially lower costs and treatment-related adverse events, including hot flushes, gynecomastia and osteoporosis.</P>
+<P>In 1986, Klotz (<LINK REF="STD-Klotz-2005" TYPE="STUDY">Klotz 2005</LINK>) reported the first clinical use of intermittent hormonal therapy. This was followed by several phase II (<LINK REF="REF-Bruchovsky-1998" TYPE="REFERENCE">Bruchovsky 1998</LINK>; <LINK REF="STD-Goldenberg-1995" TYPE="STUDY">Goldenberg 1995</LINK>; <LINK REF="STD-Higano-1996" TYPE="STUDY">Higano 1996</LINK>; <LINK REF="STD-Oliver-1997" TYPE="STUDY">Oliver 1997</LINK>; <LINK REF="REF-Grossfeld-1998" TYPE="REFERENCE">Grossfeld 1998</LINK>; <LINK REF="STD-Theyer-1998" TYPE="STUDY">Theyer 1998</LINK>; <LINK REF="STD-Horwich-1998" TYPE="STUDY">Horwich 1998</LINK>; <LINK REF="STD-Crook-1999" TYPE="STUDY">Crook 1999</LINK>; <LINK REF="STD-Kurek-1999" TYPE="STUDY">Kurek 1999</LINK>; <LINK REF="REF-Rambeaud-1999" TYPE="REFERENCE">Rambeaud 1999</LINK>; <LINK REF="STD-Strum-2000" TYPE="STUDY">Strum 2000</LINK>; <LINK REF="STD-Bouchot-2000" TYPE="STUDY">Bouchot 2000</LINK>; <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK>) and some phase III clinical trials (<LINK REF="REF-Carneiro-1999" TYPE="REFERENCE">Carneiro 1999</LINK>; <LINK REF="REF-Waltregny-2002" TYPE="REFERENCE">Waltregny 2002</LINK>; <LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>; <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>).</P>
+<P>Although intermittent androgen suppression is attractive, its use is controversial. Most studies have enrolled relatively few participants, and included primarily disseminated metastatic disease. However, intermittent androgen suppression has also been used in patients without evidence of metastases who failed definite therapy, such as radical prostatectomy, and, or including, radiation therapy (<LINK REF="STD-De-La-Taille-2003" TYPE="STUDY">De La Taille 2003</LINK>) as measured by rising serum PSA levels. Nevertheless, these benefits - if they exist - must be confirmed by well designed, randomised, clinical trials using valid quality-of-life tools.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To evaluate the effectiveness and safety of intermittent androgen suppression compared to continuous androgen suppression for treating prostatic cancer.</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Randomised, controlled trials or quasi-randomised clinical trials that compared the effects of intermittent and continuous androgen suppression.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Patients will be eligible, regardless of any tumour stage or grade, if they have prostate cancer and have not received prior androgen suppression therapy. Patients with localised disease are those classified as T1-2, N0, M0. Subjects with advanced prostate cancer may be with node (N1,M1c), visceral (M1c), and bone metastases (M1b), or presenting with biochemical recurrence after local treatment. Patients with advanced prostate cancer clinical stage T3 or T4, or pathological stage T3 or T4, may also be included in this category if they have not received prior androgen suppression. Patients will be stratified according to initial treatment (ie, surgery, radiation, and brachytherapy).</P>
+<P>Participants will be grouped in:<BR/>
+</P>
+<UL>
+<LI>early primary therapy for clinically localised disease;</LI>
+<LI>clinically advanced disease and no prior therapy;</LI>
+<LI>adjuvant therapy in high-risk patients with clinically localised disease and treated with either RP or RT;</LI>
+<LI>PSA or clinical evidence of failure following definitive therapy.</LI>
+</UL>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>
+<BR/>1) intermittent androgen suppression, including LHRH, androgen ablation (AA) and maximum androgen blockade (MAB) (or combination therapy), and<BR/>2) continuous androgen suppression, including orchiectomy, LHRH, AA, and MAB, were instituted as follows:<BR/>
+</P>
+<UL>
+<LI>an initial treatment cycle of at least six months;</LI>
+<LI>initiation with a minimum detectable PSA in patients with local initial disease and treated with RP or RT and with maximum PSA of 50 ng/mL in patients with metastases;</LI>
+<LI>at PSA nadir (defined as the two lowest consecutive PSAs), the patient must discontinue treatment;</LI>
+<LI>the intermittent androgen suppression should be withdrawn in patients who develop hormone resistance, characterised by PSA &gt; 50 ng/mL, or in those with clinical progression of the disease with new metastases.</LI>
+</UL>
+<P>
+<BR/>The androgen blockade will be considered biochemically effective when testosterone concentrations achieve castration levels, or when patients achieve a PSA nadir before completing a six-month treatment with the blockade. Androgen suppression may be performed by bilateral orchiectomy, estrogens, Luteinizing Hormone-Releasing Hormone analogues (LHRHa), steroidal anti-androgens, or non-steroidal anti-androgens.</P>
+<P>Intermittent androgen suppression was compared to continuous androgen suppression.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>Primary:<BR/>
+</P>
+<UL>
+<LI>overall mortality.</LI>
+</UL>
+<P>
+<BR/>Secondary:<BR/>
+</P>
+<UL>
+<LI>disease-specific mortality;</LI>
+<LI>period of response to treatment, considering the interval between clinical progression (local, regional, or metastatic) and increase in PSA (&gt; 0.1 ng/mL). Clinical progression will be considered according to the trials' authors, and include metastatic disease and biochemical progression;</LI>
+<LI>testosterone levels;</LI>
+<LI>quality of life, measured by scales, such as EORTC QLQ-C30 and EORTC QLQ PR24;</LI>
+<LI>side effects;</LI>
+<LI>dropouts and losses to follow up.</LI>
+</UL>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>See Cochrane Prostatic Diseases and Urologic Cancers Group.</P>
+<P>ELECTRONIC SEARCH<BR/>The following databases were searched to identify randomised or quasi-randomised controlled trials comparing intermittent and continuous androgen suppression in the treatment of advanced prostate cancer: The Cochrane Central Register of Controlled Trials (CENTRAL) (2002 - 2006); MEDLINE (1966 - 2006); EMBASE (1980 - 2006); and LILACS (1982 - 2006).</P>
+<P>The optimal MEDLINE, EMBASE and LILACS sensitive strategies for identification of RCTs (<LINK REF="REF-Dickersin-1994" TYPE="REFERENCE">Dickersin 1994</LINK>; <LINK REF="REF-Castro-1997" TYPE="REFERENCE">Castro 1997</LINK>) were combined with the following phrases:</P>
+<P>#1 hormone blockade OR hormone therapy OR intermittent androgen suppression OR antiandrogen OR diethylstilbestrol OR LHRH OR luteinising hormone-releasing hormone OR flutamide OR bicalutamide or cyproterone OR leuprolide OR nilutamide OR orchiectomy<BR/>#2 prostat* cancer OR metastat* prostat * OR prostat* carcinoma</P>
+<P>REFERENCE LISTS<BR/>The reference list of the identified studies was checked for additional citations.</P>
+<P>PERSONAL CONTACT<BR/>Pharmaceutical companies, study authors and experts were contacted about unpublished data.</P>
+<P>Information about ongoing clinical trials was sought by searching the new clinical trials site from the National Institute of Health (<U>http://clinicaltrials.gov</U>).</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>1. Selection of trials and data management <BR/>Reviewers screened the title and abstracts of publications obtained by the search strategy. When the study fulfilled the inclusion criteria, data concerning methods of the trial, participant characteristics (age, stage, grade, initial PSA, nadir PSA, and puromycin-sensitive aminopeptidases at time of initiation of androgen suppression), intervention details, and outcome measures, were independently extracted using a standard extraction form. When a discrepancy occurred in trial selection the opinion of another reviewer was asked to reach consensus.</P>
+<P>2. Assessment of methodological quality</P>
+<P>2.1. The internal validity of individual trials were assessed using the scale devised by Jadad et al (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>), which were analysed as follows:</P>
+<P>(1) Was the study described as randomised? (1 = yes; 0 = no);<BR/>(2) Was the method of randomisation well described and adequate? (0 = not described; 1 = described and adequate; -1 = described, but not adequate);<BR/>(3) Was the study described as double-blind? (1 = yes; 0 = no);<BR/>(4) Was the method of double blinding well described and adequate? (0 = not described; 1 = describe and adequate; -1 = described, but not adequate);<BR/>(5) Was there a description of withdrawals and dropouts sufficient to determine the number of patients in each treatment group entering and completing the trial? (1 = yes; 0 = no).</P>
+<P>Each trial thus received a score of 0 to 5 points, with higher scores indicating higher quality in trail conduction or reporting.</P>
+<P>2.2 Methodological quality of included trials was also assessed according to the Cochrane Handbook criteria (<LINK REF="REF-Clarke-2003" TYPE="REFERENCE">Clarke 2003</LINK>). The categories of the described criteria are related to allocation concealment as<BR/>A. adequate, B. unclear, C. inadequate, and D. not used.</P>
+<P>3. Data analysis</P>
+<P>3.1 Categorical data</P>
+<P>Relative risks (RR) with 95% confidence intervals (CI) were calculated for dichotomous data using an intention-to-treat principle (we assumed that people who dropped out had negative outcomes - death was treated independently).</P>
+<P>3.2 Continuous data</P>
+<P>Weighted mean differences (WMD) with 95% CI were calculated for continuous data. We used a fixed-effects model unless heterogeneity was present. Heterogeneity was defined as chi square &gt; 0.10.<BR/>
+<BR/>Data on continuous outcomes are frequently skewed and the mean is not the centre of the distribution. Statistics for meta-analysis are thought to be able to cope with some skew, but were formulated for parametric data. To avoid this potential pitfall, the following standards were applied to all data before inclusion: (a) standard deviations and means were reported or obtained from authors; and (b) for data with finite limits, such as endpoint scale data, the standard deviation (SD), when multiplied by two, was less than the mean. Otherwise the mean is unlikely to be an appropriate measure of the centre of the distribution (<LINK REF="REF-Altman-1996" TYPE="REFERENCE">Altman 1996</LINK>). Only non-skewed data were presented in this review.</P>
+<P>3.3 Subgroup analyses</P>
+<P>Age: less than 60 years old versus 60 years or older<BR/>Race: black versus non-black<BR/>Histologic grade: Gleason Score: &lt; 7 versus &#8805; 7<BR/>Nadir PSA (defined as the lowest PSA level after hormonal therapy)<BR/>Previous treatment: RP, EBRT, brachytherapy<BR/>Tumor stage<BR/>Types of androgen suppression (LHRHa, MAB, AA)</P>
+<P>3.4 Sensitivity analyses</P>
+<P>Randomised versus quasi-randomised controlled trials</P>
+<P>4. Heterogeneity</P>
+<P>Heterogeneity was assessed by the chi-squared test, and assumed to be present when significance was less than 0.1 (P &lt; 0.10). When significant heterogeneity was present, an attempt was made to explain the differences based on the clinical and methodological characteristics of the included studies.</P>
+<P>5. Addressing publication bias</P>
+<P>To assess publication bias, a funnel graph was constructed (trial effect versus trial size).</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>See 'Characteristics of included studies'.</P>
+<P>
+<B>Search</B>
+<BR/>The MEDLINE, EMBASE, CENTRAL and LILACS search retrieved approximately 3110 potential studies for inclusion, of which 146 were selected for abstract reading and 35 were selected for full reading. Three thousand seventy-six studies did not meet the inclusion criteria. The most common reasons were the studies were not about intermittent or continuous androgen suppression, or the studies were not about adenocarcinoma. Of the 35 papers selected for full reading, 21 were rejected and can be viewed in the 'Characteristics of excluded studies' (<LINK REF="STD-Bouchot-2000" TYPE="STUDY">Bouchot 2000</LINK>; <LINK REF="STD-Crook-1999" TYPE="STUDY">Crook 1999</LINK>; <LINK REF="STD-De-La-Taille-2003" TYPE="STUDY">De La Taille 2003</LINK>; <LINK REF="STD-Goldenberg-1995" TYPE="STUDY">Goldenberg 1995</LINK>; <LINK REF="STD-Goldenberg-1999" TYPE="STUDY">Goldenberg 1999</LINK>; <LINK REF="STD-Grossfeld-2001" TYPE="STUDY">Grossfeld 2001</LINK>; <LINK REF="STD-Gulley-2005" TYPE="STUDY">Gulley 2005</LINK>; <LINK REF="STD-Higano-1996" TYPE="STUDY">Higano 1996</LINK>; <LINK REF="STD-Horwich-1998" TYPE="STUDY">Horwich 1998</LINK>; <LINK REF="STD-Hussain-2006-_x0028_SWOG_x0029_" TYPE="STUDY">Hussain 2006 (SWOG)</LINK>; <LINK REF="STD-Klotz-1986" TYPE="STUDY">Klotz 1986</LINK>; <LINK REF="STD-Klotz-1998" TYPE="STUDY">Klotz 1998</LINK>; <LINK REF="STD-Klotz-2005" TYPE="STUDY">Klotz 2005</LINK>; <LINK REF="STD-Kurek-1999" TYPE="STUDY">Kurek 1999</LINK>; <LINK REF="STD-Lane-2004" TYPE="STUDY">Lane 2004</LINK>; <LINK REF="STD-Mottet-1999" TYPE="STUDY">Mottet 1999</LINK>; <LINK REF="STD-Oliver-1997" TYPE="STUDY">Oliver 1997</LINK>; <LINK REF="STD-Sato-2004" TYPE="STUDY">Sato 2004</LINK>; <LINK REF="STD-Sciarra-2000" TYPE="STUDY">Sciarra 2000</LINK>; <LINK REF="STD-Strum-2000" TYPE="STUDY">Strum 2000</LINK>; <LINK REF="STD-Theyer-1998" TYPE="STUDY">Theyer 1998</LINK>). The reason for exclusion was that none of the studies compared intermittent androgen suppression to continuous androgen suppression. These studies only eventually tested the feasibility of using IAS. Five papers were eventually included (<LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>; <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>; <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>; <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK>; <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK>), which described prospective, randomised trials. The studies had a total of 1382 evaluable participants.</P>
+<P>
+<B>Included studies<BR/>
+</B>Five studies involving 1382 patients (<LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>; <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>; <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>; <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK>; <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK>) were included in this review. All the included studies involved advanced (T3 or T4) prostate cancer. The mean age, race, PSA, tumor histology and the study duration are available in 'Characteristics of included studies' table.<BR/>
+<B>
+<BR/>Design of the studies</B>
+<U>
+<BR/>
+</U>
+<LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK> was a randomised, controlled trial from a single centre carried out in the Beneficiência Portuguesa Hospital and the Division of Urology of the Federal University of São Paulo (UNIFESP), São Paulo, SP, Brazil. <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK> was a worldwide, multicentred, randomised, parallel group study carried out in Australia, Austria, Brazil, France, Greece, Hungary, Israel, Italy, Mexico, Portugal, Spain, and The Netherlands. The <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK> study was a randomised controlled trial of 15 medical centres. The <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK> study was a phase III, open label, randomised, controlled, multicentre trial with a university hospital and two community hospitals in Liège, Belgium. <LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK> was a phase III, randomised, controlled trial carried out by the The South European Uro-oncological Group (SEUG), and only available in abstract.</P>
+<P>
+<B>Participants and duration of trials</B>
+<BR/>In <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK>, 43 patients with adenocarcinoma of the prostate (stage D2) were randomised to the following arms. In the continuous group patients were classified as T3,Nx,M+ (4 patients), T3,N+,M+ (2 patients), T4,N+,M+ (8 patients), and T4,Nx,M+ (4 patients). In the intermittent group patients were classified as T3,Nx,M+ (10 patients), T3,N+,M+ (4 patients), T4,N+,M+ (9 patients), and T4,Nx,M+ (2 patients). Mean age in the CAS treated patients 70.1; mean age in the IAS treated patients 72.4. Mean PSA (ng/mL) baseline in the CAS patients 32.3 and IAS patients 30.9 (cycle one), 17.1 (cycle two), 10.1 (cycle three). Follow up was 48 months.</P>
+<P>In <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>, 282 patients were enrolled to the study. Patients had histologically confirmed prostate cancer and PSA &#8805; 10 ng/mL. One hundred ninety-three patients who were still in the study after six months of maximal blockade and showed normalisation of PSA (&lt; 4 ng/mL) were randomised to continuous androgen suppression (n = 96) and intermittent androgen suppression (n = 97). One hundred fifty-five were classified as T2-4,Nx,M1 and 38 were T2-4,N1-3,M0. PSA and testosterone levels were analysed at least every 2 months, and patients were given radiological exams every 6 months. For the patients in the intermittent arm, therapy began when PSA rose to &#8805; 20 ng/mL and N0-3,M1, or &#8805; 10 ng/mL and N1-3,M0. When PSA fell to &lt; 4 ng/mL, therapy was discontinued. If PSA persisted above 50 ng/mL, or there was clinical progression, androgen suppression became continuous. The observation period of the patients was 26 to 40 months. The mean/median age was not reported.</P>
+<P>In the <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK> study, 215 patients with locally advanced prostate cancer were enrolled. Patients were treated with 6 months of LHRH agonist and a short-term antiandrogen. Those who finished the protocol and had a PSA of &lt; 10 ng/mL were randomly divided into a continuous androgen ablation arm (n = 82), and an intermittent ablation arm (n = 80). Patient age ranged from 54 to 79 years. Median PSA was 25.3 ng/mL. Two hundred two patients were staged T3,M0,N0, and 13 staged T4,N0,M0. Mean follow up in the continuous arm was 22.2 months and 23.0 months in the intermittent arm.</P>
+<P>In <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>, 77 patients were prospectively enrolled in the trial. Sixty-eight evaluable patients were randomised, 33 to a continuous arm and 35 to an intermittent arm. Inclusion criteria were &lt; 80 years of age and having advanced prostate cancer. Patients with advanced prostate cancer included those with: 1) locally advanced (T3, T4); or 2) metastatic tumours (N+,M+), or both; or 3) relapsing prostate cancer following radical retropubic prostatectomy for clinically localised prostate cancer (T1/T2,N0,M0; 1997 tumour, node, metastases (TNM) staging system). Mean pretreatment serum PSA in ng/mL CAD treated patients 33.7, median 24; Mean pretreatment serum PSA in ng/mL IAS treated patients 43.1, median 21. Mean age of all patients 70.8, median 71.7. Mean follow up was 30.8 months. </P>
+<P>In <LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>, of 765 patients registered, 626 were randomised to an intermittent arm (n = 314) and a continuous arm (n=312). At randomisation 23.7% had a PSA in excess of 4 ng/mL, and the other 76.3% had a PSA &lt; 4. Inclusion criteria included patients with a previously untreated, histological proven prostate cancer (T3-T4,M0,M1), a World Health Organisation (WHO) score of 0 - 2, and aged &lt; 85. Median follow up was 48 months. The mean/median age was not reported.</P>
+<P>
+<B>Types of interventions</B>
+<BR/>In <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK>, patients were randomly divided into the following two groups: In Group A, 18 patients were randomised to a continuous androgen suppression arm; and in Group B, 25 patients were randomised to an intermittent androgen suppression arm. Both groups received 200 mg/day of cyproterone acetate. In the IAS group the cycle was suspended after reaching the PSA nadir, and was restarted when the PSA reached baseline level. In <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>, 282 patients were enrolled, and after 6 months those who made it through maximal blockade and had a normal PSA of &lt; 4 ng/mL (N = 193) were randomised to either intermittent (N = 97) or continuous androgen suppression (N = 96). For patients in the intermittent arm, therapy was re-started when the PSA rose above 20 ng/mL and N0-3M1, or 10 ng/mL and N1-3,M0, or until the PSA returned to below 4 ng/mL. If the PSA persisted at high levels, or if there was clinical progression, androgen suppression remained continuous. In <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK>, patients were registered as primary candidates of the study and were treated with 2 weeks of steroidal antiandrogen (chlormadinone acetate, CMA). They then were treated with both LHRH agonist (leuprorelin or goserelin) and another 2 weeks of antiandrogen. Thereafter they were treated with LHRH agonist alone. After 6 months of endocrine treatment with LHRH agonist, only patients with PSA levels lower than 10 ng/mL, with a PSA lower than at baseline, and without clinically apparent metastatic disease, were enrolled in the following protocol as final candidates. After this phase, and when registration was done, the patients were randomly divided into two groups according to institutions, age (younger than 70, 70 years or older), PSA levels after 6 months of endocrine treatment, and Gleason score (7 or less, 8 - 10) as follows: continuous androgen ablation group (arm 1) and intermittent androgen ablation group (arm 2) (hormonal therapy must be stopped 6 months after the day of final EBRT treatment). All of these patients were treated with EBRT immediately after completing second-line registration. In <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>, all patients fulfilling the inclusion criteria were initially treated with flutamide (3 times 250 mg, daily) for 15 days in order to avoid flare reactions. This therapy was followed by complete androgen blockade therapy using the combination of flutamide (3 times 250 mg, daily) and goserelin acetate (3.6 mg, monthly) for a minimum of 3 months and a maximum of 6 months. Two successive determinations of decreasing serum PSA levels &#8804; 4 ng/mL following a maximum of 6 months of complete androgen suppression, defining hormone-naive prostate cancer, were required for further inclusion of the patients in the randomization procedure. Patients with hormone-naive prostate cancer were then assigned to the CAS or to the IAS therapy regimen. Patients treated with CAD received flutamide (250 mg orally every 8 hours) and goserelin acetate (3.6 mg subcutaneously, monthly) without interruption and were monitored every 2 or 3 months with serum PSA measurements. Patients in the IAS group had their complete androgen deprivation therapy discontinued after the induction-therapy phase and entered the off-treatment phase of the first IAS cycle. They were advised to restart complete androgen blockade if serum PSA levels reached &#8805; 10 ng/mL during the off phase. In <LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>, all patients were treated with CPA 200 mg for 2 weeks and then a monthly depot injection of LHRA analogue (decapeptyl) plus 200 mg of CPA daily. After 3 months of therapy, if PSA was below 4 or 80% below the initial value, patients were randomised to intermittent MAB or continuous MAB treatment.<BR/>
+<B>Types of outcome measures<BR/>
+</B>None of the studies addressed overall survival, disease-specific mortality, or quality of life.</P>
+<P>In <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK> the outcomes of interest were side effects, in particular impotence, period of response to treatment (the period that patients became hormone resistance), the interval to clinical progression, and change in PSA. In <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK> the primary outcome was time to clinical tumor progression or PSA escape (defined as PSA concentrations over 50 ng/mL), or both. Secondary outcomes of interest were of quality of life, survival, safety, serum PSA, and testosterone and alkaline phosphatase levels over the course of the study. In <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK> the primary endpoint was biochemical (PSA) relapse-free survival, and the secondary endpoints were overall survival, cause-specific survival, longitudinal QOL assessment, and cost effectiveness between the continuous and intermittent arms. In <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK> the outcomes of interest were morbidity and side effects. In <LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK> outcomes were side effects, quality of life, sexual activity, progression and survival.<U>
+<BR/>
+</U>
+<B>
+<BR/>
+</B>
+<B>Excluded studies:<BR/>
+</B>See the table 'Characteristics of excluded studies'.</P>
+<P>Twenty one studies are described in 'Characteristics of excluded studies': (<LINK REF="STD-Bouchot-2000" TYPE="STUDY">Bouchot 2000</LINK>; <LINK REF="STD-Crook-1999" TYPE="STUDY">Crook 1999</LINK>; <LINK REF="STD-De-La-Taille-2003" TYPE="STUDY">De La Taille 2003</LINK>; <LINK REF="STD-Goldenberg-1995" TYPE="STUDY">Goldenberg 1995</LINK>; <LINK REF="STD-Goldenberg-1999" TYPE="STUDY">Goldenberg 1999</LINK>; <LINK REF="STD-Grossfeld-2001" TYPE="STUDY">Grossfeld 2001</LINK>; <LINK REF="STD-Gulley-2005" TYPE="STUDY">Gulley 2005</LINK>; <LINK REF="STD-Higano-1996" TYPE="STUDY">Higano 1996</LINK>; <LINK REF="STD-Horwich-1998" TYPE="STUDY">Horwich 1998</LINK>; <LINK REF="STD-Hussain-2006-_x0028_SWOG_x0029_" TYPE="STUDY">Hussain 2006 (SWOG)</LINK>; <LINK REF="STD-Klotz-1986" TYPE="STUDY">Klotz 1986</LINK>; <LINK REF="STD-Klotz-1998" TYPE="STUDY">Klotz 1998</LINK>; <LINK REF="STD-Klotz-2005" TYPE="STUDY">Klotz 2005</LINK>; <LINK REF="STD-Kurek-1999" TYPE="STUDY">Kurek 1999</LINK>; <LINK REF="STD-Lane-2004" TYPE="STUDY">Lane 2004</LINK>; <LINK REF="STD-Mottet-1999" TYPE="STUDY">Mottet 1999</LINK>; <LINK REF="STD-Oliver-1997" TYPE="STUDY">Oliver 1997</LINK>; <LINK REF="STD-Sato-2004" TYPE="STUDY">Sato 2004</LINK>; <LINK REF="STD-Sciarra-2000" TYPE="STUDY">Sciarra 2000</LINK>; <LINK REF="STD-Strum-2000" TYPE="STUDY">Strum 2000</LINK>; <LINK REF="STD-Theyer-1998" TYPE="STUDY">Theyer 1998</LINK>). The main reason for exclusion was the studies did not compare continuous androgen suppression to intermittent androgen suppression.<BR/>
+<B>
+<BR/>Ongoing trials:<BR/>
+</B>
+<LINK REF="STD-NCIC-CTG-_x0028_PR_x002d_7_x0029_" TYPE="STUDY">NCIC CTG (PR-7)</LINK>, <LINK REF="STD-SWOG-9346" TYPE="STUDY">SWOG 9346</LINK>, <LINK REF="STD-Tunn-1996" TYPE="STUDY">Tunn 1996</LINK>, and <LINK REF="STD-Takeda-EC-210" TYPE="STUDY">Takeda EC 210</LINK> are ongoing trials.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>
+<B>
+<I>Randomisation and quality assessment of included studies <BR/>
+</I>
+</B>
+<LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>, <LINK REF="STD-Takeda-EC-210" TYPE="STUDY">Takeda EC 210</LINK> (both reported preliminary results) and <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK> described the method of allocation as 'centrally randomised', and were classified as 'A' for adequate. According to Jadad et al (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>) these studies were classified as '3'. The method of randomisation was adequate and there was a description of withdrawals and dropouts for all treatment arms of patients entering and completing the trials. The low dropout rates have ranked these studies as having a low risk of bias. There was no mention of being double blinded.</P>
+<P>
+<LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>, <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK> and <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK> were classified as 'B' because details about allocation concealment were not described. According to Jadad's scale (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>), all these studies were classified as '2' because they described the studies only as randomised. Patient withdrawals were described.<BR/>
+<BR/>
+<LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK> and <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>, <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK> were classified as 'B', because generation and allocation concealment were not described. These studies were classified as '2' (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>) because they only described the design of the study as randomised. They also described withdrawals.</P>
+<P>
+<B>
+<I>Description of dropouts and withdrawals</I>
+</B>
+<BR/>In <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK>, in the continuous hormonal therapy group, 61.1% completed the study. Of the 38.9% (7/11) who dropped out, there were two deaths. In the intermittent hormonal treatment group 72% of the patients reached the third treatment cycle. Of the 28% (7/25) of the patients who dropped out, there were two deaths. No patients in the IAS arm who became hormone refractory crossed over to the continuous arm.<BR/> <BR/>In <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>, 282 patients were initially enrolled in the study. After 6 months patients who had received maximal androgen blockade and a normalisation of PSA (&lt; 4 ng/mL) [normalization is typically &lt;0.1 ng/mL] were randomised to an intermittent arm (n = 97) and a continuous arm (n = 96). In the continuous arm a total of 50 patients withdrew from treatment. In the intermittent arm 57.7% had a first restart of therapy on average 17 months after enrollment. Of the patients who had a first restart (n = 56), 35 stopped treatment at a mean of 4 months.</P>
+<P>In <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK>, 215 patients were enrolled in the primary registration. Between registration and randomisation, 7 withdrew, 12 were unacceptable, and 34 were treated with neoadjuvant hormone therapy, leaving a total of 162 for randomisation. Eighty-two were randomised to the continuous arm. At the end of 14 months of the protocol there were 48 patients in that arm. Eighty patients were randomised to the intermittent arm. At the end of 14 months of the protocol, 41 remained.</P>
+<P>In <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>, 77 patients were prospectively enrolled in the study. Two patients were completely lost to follow up. Three patients suffered from immediate severe adverse events attributed to flutamide treatment, which was interrupted. These patients were excluded from the study. Four more patients did not achieve a PSA of &#8804; 4 ng/mL after the induction part of the study, and were also excluded. In the entire population of patients, 10 deaths were reported, of which 4 were considered to have resulted from causes unrelated to prostate cancer (stroke, bronchopneumonia, and acute myocardial infarction).</P>
+<P>
+<LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK> had a median follow up of 48 months; 306 patients out of 626 randomised had gone off-study, 162 in the intermittent and 144 in the continuous arm. Fifty-seven patients in the intermittent and 39 in the continuous arm had gone off-study for subjective progression. Seventy-two patients in the intermittent and 50 in continuous arm had gone off-study for subjective or objective progression. Seventy-two patients in the intermittent arm and 69 in the continuous arm have died. Intention-to-treat analysis was not reported. <BR/>
+</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>
+<BR/>None of the studies addressed the most relevant outcomes with regards to the effectiveness - overall and disease-specific mortality, as well as quality of life.</P>
+<P>The majority of studies that were identified from databases and were potential studies for inclusion only had outcomes for intermittent androgen suppression, and were included in 'Characteristics of excluded studies' (<LINK REF="STD-Bouchot-2000" TYPE="STUDY">Bouchot 2000</LINK>; <LINK REF="STD-Crook-1999" TYPE="STUDY">Crook 1999</LINK>; <LINK REF="STD-De-La-Taille-2003" TYPE="STUDY">De La Taille 2003</LINK>; <LINK REF="STD-Goldenberg-1995" TYPE="STUDY">Goldenberg 1995</LINK>; <LINK REF="STD-Goldenberg-1999" TYPE="STUDY">Goldenberg 1999</LINK>; <LINK REF="STD-Grossfeld-2001" TYPE="STUDY">Grossfeld 2001</LINK>; <LINK REF="STD-Gulley-2005" TYPE="STUDY">Gulley 2005</LINK>; <LINK REF="STD-Higano-1996" TYPE="STUDY">Higano 1996</LINK>; <LINK REF="STD-Horwich-1998" TYPE="STUDY">Horwich 1998</LINK>; <LINK REF="STD-Hussain-2006-_x0028_SWOG_x0029_" TYPE="STUDY">Hussain 2006 (SWOG)</LINK>; <LINK REF="STD-Klotz-1986" TYPE="STUDY">Klotz 1986</LINK>; <LINK REF="STD-Klotz-1998" TYPE="STUDY">Klotz 1998</LINK>; <LINK REF="STD-Klotz-2005" TYPE="STUDY">Klotz 2005</LINK>; <LINK REF="STD-Kurek-1999" TYPE="STUDY">Kurek 1999</LINK>; <LINK REF="STD-Lane-2004" TYPE="STUDY">Lane 2004</LINK>; <LINK REF="STD-Mottet-1999" TYPE="STUDY">Mottet 1999</LINK>; <LINK REF="STD-Oliver-1997" TYPE="STUDY">Oliver 1997</LINK>; <LINK REF="STD-Sato-2004" TYPE="STUDY">Sato 2004</LINK>; <LINK REF="STD-Sciarra-2000" TYPE="STUDY">Sciarra 2000</LINK>; <LINK REF="STD-Strum-2000" TYPE="STUDY">Strum 2000</LINK>; <LINK REF="STD-Theyer-1998" TYPE="STUDY">Theyer 1998</LINK>). A few prospective trials were randomised into continuous or intermittent hormonal suppression (<LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>; <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>; <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>; <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK>; <LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK>).</P>
+<P>The apparent clinical and methodological diversity found in the included studies made it difficult to combine into a meta-analysis. Also, the majority of studies did not provide results of both interventions. The results can't be pooled because the outcomes are not homogenous (<LINK REF="STD-Yamanaka-2005" TYPE="STUDY">Yamanaka 2005</LINK>; <LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK>).</P>
+<P>In <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>, most patients reported slight to moderate adverse events typically associated with androgen suppression, including hot flushes, loss of libido, and erectile dysfunction. Nevertheless, these side effects resolved in the majority of IAS-treated patients on discontinuation of medication. In <LINK REF="STD-Calais-2002" TYPE="STUDY">Calais 2002</LINK> side effects were minor, with the most common being hot flushes (8.6%). Overall, quality-of-life scores were the same in the two arms of the study at successive follow ups. At the time of registration half of all men were sexually active the previous month. At 15 months follow up sexual activity in men in the intermittent arm was 40% compared to 25% in the continuous arm.</P>
+<P>
+<B>Intermittent versus continuous androgen suppression (both groups received 200 mg/day of cyproterone acetate)</B>
+<BR/>In comparing minor side effects (gastrointestinal, gynecomastia and asthenia), <LINK REF="STD-Hering-2000" TYPE="STUDY">Hering 2000</LINK> reported no statistically significant difference (RR 0.29, 95% CI 0.06 to 1.32, P = 0.11) between the two arms. Likewise, in comparing major side effects (gastritis with intensive vomiting and inferior member edema), Hering also found no statistically significant difference between groups (RR 0.36, 95% CI 0.04 to 3.67, P = 0.39). Both are likely due to small sample size. In comparing impotence rates, the study did find a significant difference between the two, favouring the intermittent arm (RR 0.72, 95% CI 0.56 to 0.92, P = 0.008). End-of-study impotence rates, however, were not significant (RR 2.19, 95% CI 0.09 to 50.93, P = 0.62).</P>
+<P>
+<B>Intermittent versus continuous androgen suppression (buserelin twice monthly depot (6.6 mg); nilutamide first 4 weeks at 300 mg once per day, thereafter 150 mg once per day)</B>
+<BR/>In comparing side effects in <LINK REF="STD-EAU-TULP-2002" TYPE="STUDY">EAU TULP 2002</LINK>, the study found no significant differences in hot flushes (RR 0.85, 95% CI 0.66 to 1.10, P = 0.22), visual disturbances (RR 0.99, 95% CI 0.66 to 1.48, P = 0.96), nausea (RR 0.57, 95% CI 0.29 to 1.14, P = 0.11), constipation (RR 0.43, 95% CI 0.19 to 1.01, P = 0.05), dyspnea (RR 0.49, 95% CI 0.19 to 1.26, P = 0.14), erectile dysfunction (RR 0.89, 95% CI 0.38 to 2.09, P = 0.79), depression (RR 0.54, 95% CI 0.21 to 1.40, P = 0.21), liver enzyme increase (RR 1.58, 95% CI 0.54 to 4.67, P = 0.40), gynaecomastia (RR 0.57, 95% CI 0.17 to 1.87, P = 0.35), anemia (RR 0.79, 95% CI 0.22 to 2.86, P = 0.72), and alcohol intolerance (RR 0.74, 95% CI 0.17 to 3.23, P = 0.69). Small sample size makes it difficult to conclude that the reported differences are not of clinical significance.</P>
+<P>
+<B>Intermittent versus continuous (flutamide (3 times 250 mg, daily) and goserelin acetate (3.6 mg, monthly))</B>
+<BR/>In <LINK REF="STD-de-Leval-2002" TYPE="STUDY">de Leval 2002</LINK>, when comparing severe gastrointestinal tract side effects, there was no significant difference between the two arms (RR 0.47, 95% CI 0.04 to 4.96, P = 0.53).<BR/>In a subgroup analysis of Gleason scores, with the endpoint freedom from biochemical progression, there were no statistically significant differences between patients treated with intermittent total androgen blockade versus continuous blockade by Gleason 4 - 6 (RR 0.90, 95% CI 0.63 to 1.29, P = 0.57), Gleason 7 (RR 1.26, 95% CI 0.30 to 5.20, P = 0.75), and Gleason 8 - 10 (RR 1.18, 95% CI 0.53 to 2.62, P = 0.69). There was also, however, no significant difference favouring the intermittent group (RR 0.47, 95% CI 0.04 to 4.96, P = 0.53) for Gleason &gt; 6.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>The methodological quality, independent dual data extraction and a systematic search in all relevant health electronic databases are strong features of the present study. This systematic review offers up-to-date but limited evidence supported by only five randomised controlled trials of the effects of intermittent versus continuous androgen suppression for treating prostatic cancer. The majority of the included trials did not address common outcomes, and for this reason a meta-analysis became more difficult, even with a reasonable number of included studies.</P>
+<P>Five studies involving 1382 patients were included in this review. All the included studies involved advanced prostate cancer. No study was of adequate size and duration. Few events were reported and they did not assess disease-specific survival or metastatic disease. Only one study evaluated biochemical outcomes. Studies primarily reported adverse events.</P>
+<P>There are four randomised studies ongoing (<LINK REF="STD-Takeda-EC-210" TYPE="STUDY">Takeda EC 210</LINK>; <LINK REF="STD-NCIC-CTG-_x0028_PR_x002d_7_x0029_" TYPE="STUDY">NCIC CTG (PR-7)</LINK>; <LINK REF="STD-SWOG-9346" TYPE="STUDY">SWOG 9346</LINK>; <LINK REF="STD-Tunn-1996" TYPE="STUDY">Tunn 1996</LINK>), of which two are devoted to M1b patients (<LINK REF="STD-SWOG-9346" TYPE="STUDY">SWOG 9346</LINK>; <LINK REF="STD-Takeda-EC-210" TYPE="STUDY">Takeda EC 210</LINK>). The cycle of periods with and without androgen withdrawal should slow down tumor progression and improve quality of life. Men with biochemical failures may benefit more from this approach.</P>
+<P>The symptoms caused by androgen deprivation suppression (IDS) vary among patients. The side effects of ADT diminish or even disappear during off-treatment periods. This translates into a potentially significant improvement in quality of life when compared with continuous androgen deprivation therapy.</P>
+<P>Further properly well-designed research is necessary, including long-term follow up. These efforts should converge and disseminate to institutions for a more efficient strategy of costs and benefits. There is an urgent need for validated, quality-of-life questionnaires by international research groups so that the results are comparable among them.</P>
+<P>The currently available information for IAS versus CAS for men with prostate cancer is limited by a paucity of trials, few patients enrolled, relatively short duration of follow up, and lack of data on mortality and clinical disease progression.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>In light of currently available information on impotence, IAS may have slightly fewer outcomes for side effects than CAS and has lower treatment costs. However, the important outcomes of mortality, disease progression and quality of life are not known. We will have to wait for the results of ongoing randomised trials to see whether IAS or CAS is more effective for the treatment of prostate cancer. Based on our results with little data, more studies are needed.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Current ongoing randomised trials will probably provide definitive information regarding intermittent androgen suppression over the next few years. Until further studies have been completed, the therapeutic concept of IAS should be treated as experimental. Only further randomised controlled trials will be able to establish whether survival and quality of life for patients with prostate cancer can be improved using intermittent androgen suppression.</P>
+<P>This systematic review also suggests data for a new project for future randomised, controlled trials in the comparison of intermittent versus continuous androgen suppression for the treatment of prostate cancer. It would be extremely helpful if outcome measures were standardised, such as survival, disease-specific mortality, response to treatment (considering the interval for clinical progression and increase in PSA), clinical progression (such as metastatic disease and biochemical progression), testosterone levels, quality of life (measured by scales such as EORTC QLQ-C30 and EORTC QLQ PR24), side effects, dropouts, and losses to follow up. It would be helpful as well if there were outcome data for subgroup analysis, including age, race, Gleason score (&lt; 7 versus &#8805; 7) nadir PSA, and previous treatment.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank James Tacklind for his support, advice and suggestions throughout this review.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Paulo De Conti (PDC) and Álvaro Nagib Atallah (ANA) were responsible for conception of the protocol and also for the overall coordination of the content of the protocol. Homero Arruda (HA) was co-responsible for the conception of the protocol and also contributed to its orientation. PDC, Regina Paolucci El Dib (RED) and Bernardo Garcia de Oliveira Soares (BGOS) were responsible for the search strategy, ran searches, screened search results, obtained papers, screened retrieved papers against inclusion criteria, appraised quality of papers, and extracted data. PDC and RED wrote to authors of papers for additional information, and to locate potentially relevant unpublished or ongoing studies.<BR/>PDC and RED were responsible for data management for the review. PDC, RED and Tim Wilt (TW) analysed and interpreted data and wrote up the results, whilst seeking clinical and methodological implications for practice and research.<BR/>
+</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2012-01-17 10:26:11 -0600" MODIFIED_BY="James Tacklind">
+<STUDIES MODIFIED="2012-01-17 10:26:11 -0600" MODIFIED_BY="James Tacklind">
+<INCLUDED_STUDIES MODIFIED="2012-01-17 10:20:58 -0600" MODIFIED_BY="James Tacklind">
+<STUDY DATA_SOURCE="PUB" ID="STD-Calais-2002" MODIFIED="2012-01-17 10:19:51 -0600" MODIFIED_BY="James Tacklind" NAME="Calais 2002" YEAR="2002">
+<REFERENCE MODIFIED="2012-01-17 10:19:51 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Calais F, Bono A, Wkealan P</AU>
+<TI>Phase III study of intermittent MAB versus continuous MAB international cooperative study</TI>
+<SO>European Urology</SO>
+<YR>2002</YR>
+<VL>419</VL>
+<NO>Suppl</NO>
+<PG>A 531</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-de-Leval-2002" NAME="de Leval 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>de Leval J, Boca P, Yousef E, Nicolas H, Jeukenne M, Seidel</AU>
+<TI>Intermittent versus continuous total androgen blockade in the treatment of patients with advanced hormone-naive prostate cancer: results of a prospective randomized multicenter trial</TI>
+<SO>Clinical Prostate Cancer</SO>
+<YR>2002</YR>
+<VL>1</VL>
+<NO>3</NO>
+<PG>163-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-EAU-TULP-2002" NAME="EAU TULP 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schasfoort E, Heathcote P, Lock T, Zerbib M, Newling D</AU>
+<TI>Intermittent androgen suppression in the treatment of advanced prostate cancer</TI>
+<SO>EAU TULP</SO>
+<YR>2002</YR>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="Clinical study HOE 766U/3008 (TULP)"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hering-2000" MODIFIED="2012-01-17 10:20:58 -0600" MODIFIED_BY="James Tacklind" NAME="Hering 2000" YEAR="2000">
+<REFERENCE MODIFIED="2012-01-17 10:20:58 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hering F, Rodrigues PRT, Lipay MA, Nesrallah L, Srougi M</AU>
+<TI>Metastatic adenocarcinoma of the prostate: comparison between continuous and intermittent hormonal treatment</TI>
+<SO>Braz J Urol</SO>
+<YR>2000</YR>
+<VL>26</VL>
+<PG>276-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Yamanaka-2005" NAME="Yamanaka 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Yamanaka H, Ito K, Naito S, Tsukamoto T, Usami M, Fujimoto H</AU>
+<TI>Effectiveness of adjuvant intermittent endocrine therapy following neoadjuvant endocrine therapy and external beam radiation therapy in men with locally advanced prostate cancer</TI>
+<SO>Prostate</SO>
+<YR>2005</YR>
+<VL>63</VL>
+<NO>1</NO>
+<PG>56-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2012-01-17 10:26:11 -0600" MODIFIED_BY="James Tacklind">
+<STUDY DATA_SOURCE="PUB" ID="STD-Bouchot-2000" MODIFIED="2012-01-17 10:21:27 -0600" MODIFIED_BY="James Tacklind" NAME="Bouchot 2000" YEAR="2000">
+<REFERENCE MODIFIED="2012-01-17 10:21:27 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bouchot O, Lenormand L, Karan G, Prunet D, Gaschignard N, Malinovsky JM, et al</AU>
+<TI>Intermittent androgen suppression in the treatment of metastatic prostate cancer</TI>
+<SO>European Urology</SO>
+<YR>2000</YR>
+<VL>38</VL>
+<PG>543-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Crook-1999" NAME="Crook 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Crook JM, Szumacher E, Malone S, Huan S, Segal R</AU>
+<TI>Intermittent androgen suppression in the management of prostate cancer</TI>
+<SO>Urology</SO>
+<YR>1999</YR>
+<VL>53</VL>
+<PG>530-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-De-La-Taille-2003" NAME="De La Taille 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>De La Taille A, Zerbid M, Conquy S, Amsellem-Quazana D, Thiounn N, Flan TA, et al</AU>
+<TI>Intermittent androgen suppression in patients with prostate cancer</TI>
+<SO>BJU Int</SO>
+<YR>2003</YR>
+<VL>91</VL>
+<PG>18-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Goldenberg-1995" NAME="Goldenberg 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Goldenberg SL, Bruchovsky N, Gleave ME, Sullivan LD, Akakura K</AU>
+<TI>Intermittent androgen suppression in the treatment of prostate cancer: a preliminary report</TI>
+<SO>Urology</SO>
+<YR>1995</YR>
+<VL>45</VL>
+<PG>839-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Goldenberg-1999" MODIFIED="2012-01-17 10:22:46 -0600" MODIFIED_BY="James Tacklind" NAME="Goldenberg 1999" YEAR="1999">
+<REFERENCE MODIFIED="2012-01-17 10:22:46 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Goldenberg SL, Gleave ME, Taylor D, Bruchovsky N</AU>
+<TI>Clinical Experience: with intermittent androgen suppression in prostate cancer: minimum of 3 years' follow-up</TI>
+<SO>Molecular Urology</SO>
+<YR>1999</YR>
+<VL>3</VL>
+<NO>3</NO>
+<PG>287-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Grossfeld-2001" MODIFIED="2012-01-17 10:23:00 -0600" MODIFIED_BY="James Tacklind" NAME="Grossfeld 2001" YEAR="2001">
+<REFERENCE MODIFIED="2012-01-17 10:23:00 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Grossfeld GD, Chaudhary UB, Reese DM, Carroll PR, Small EJ</AU>
+<TI>Intermittent androgen deprivation: update of cycling characteristics in patients without clinically apparent metastatic prostate cancer</TI>
+<SO>Urology</SO>
+<YR>2001</YR>
+<VL>58</VL>
+<PG>240-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gulley-2005" MODIFIED="2012-01-17 10:23:27 -0600" MODIFIED_BY="James Tacklind" NAME="Gulley 2005" YEAR="2005">
+<REFERENCE MODIFIED="2012-01-17 10:23:27 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gulley JL, Figg WD, Steinberg SM, Carter J, Hussain MH, Dahut WL</AU>
+<TI>A prospective analysis of the time to normalization of serum androgens following 6 months of androgen deprivation therapy in patients on a randomized phase III clinical trial using limited hormonal therapy</TI>
+<SO>The Journal of Urology</SO>
+<YR>2005</YR>
+<VL>173</VL>
+<PG>1567-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Higano-1996" MODIFIED="2012-01-17 10:23:40 -0600" MODIFIED_BY="James Tacklind" NAME="Higano 1996" YEAR="1996">
+<REFERENCE MODIFIED="2012-01-17 10:23:40 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Higano CS, Ellis W, Russell K, Lange PH</AU>
+<TI>Intermittent androgen suppression with leuprolide and flutamide for prostate cancer: a pilot study</TI>
+<SO>Urology</SO>
+<YR>1996</YR>
+<VL>48</VL>
+<PG>800-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Horwich-1998" MODIFIED="2012-01-17 10:24:07 -0600" MODIFIED_BY="James Tacklind" NAME="Horwich 1998" YEAR="1998">
+<REFERENCE MODIFIED="2012-01-17 10:24:07 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Horwich A, Huddart RA, Gadd J, Boyd PJ, Hetherington JW, Whelan P, et al</AU>
+<TI>A pilot study of intermittent androgen deprivation in advanced prostate cancer</TI>
+<SO>British Journal of Urology</SO>
+<YR>1998</YR>
+<VL>81</VL>
+<PG>96-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hussain-2006-_x0028_SWOG_x0029_" NAME="Hussain 2006 (SWOG)" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hussain M, Tangen CM, Higano C, Schelhammer P, Faulkner J, Crawford ED et al</AU>
+<TI>Absolute prostate-specific antigen value after androgen deprivation is a strong independent predictor of survival in new metastatic prostate cancer: data from Southwest Oncology Group Trial 9346 (INT-0162)</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>2006</YR>
+<VL>24</VL>
+<NO>24</NO>
+<PG>3984-90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Klotz-1986" NAME="Klotz 1986" YEAR="1986">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Klotz LH, Herr HW, Morse MJ, Whitmore WF</AU>
+<TI>Intermittent endocrine therapy for advanced prostate cancer</TI>
+<SO>Cancer</SO>
+<YR>1986</YR>
+<VL>587</VL>
+<PG>2546-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Klotz-1998" MODIFIED="2012-01-17 10:24:54 -0600" MODIFIED_BY="James Tacklind" NAME="Klotz 1998" YEAR="1988">
+<REFERENCE MODIFIED="2012-01-17 10:24:54 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Klotz LH, Crook JM, Amitage GR, Saskatoon SK, Gleave ME, Goldenberg L</AU>
+<TI>A phase II study of intermittent androgen suppression (IAS) in men with a rising serum PSA after radiation for localized prostate cancer</TI>
+<SO>Journal of Urology</SO>
+<YR>1998</YR>
+<VL>159</VL>
+<NO>5</NO>
+<PG>335</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Klotz-2005" NAME="Klotz 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Klotz L, Correia A, Zhang W</AU>
+<TI>The relationship between the androgen receptor CAG repeat polymorphism length and the response to intermittent androgen suppression therapy for advanced prostate cancer</TI>
+<SO>Prostate Cancer and Prostatic Diseases</SO>
+<YR>2005</YR>
+<VL>8</VL>
+<NO>2</NO>
+<PG>179-83</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kurek-1999" NAME="Kurek 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kurek R, Renneberg H, Lübben G, Kienle E, Tunn UW</AU>
+<TI>Intermittent complete androgen blockade in PSA relapse after radical prostatectomy and incidental prostate cancer</TI>
+<SO>Eur Urol</SO>
+<YR>1999</YR>
+<VL>35</VL>
+<NO>(Suppl 1)</NO>
+<PG>27-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lane-2004" MODIFIED="2012-01-17 10:25:32 -0600" MODIFIED_BY="James Tacklind" NAME="Lane 2004" YEAR="2004">
+<REFERENCE MODIFIED="2012-01-17 10:25:32 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lane TM, Ansell W, Farrugia D, Wilson P, Williams G, Chinegwundoh F, Philp T, Hines J, Oliver RTD</AU>
+<TI>Long-Term outcomes in patients with prostate cancer managed with intermittent androgen suppression</TI>
+<SO>Urology International</SO>
+<YR>2004</YR>
+<VL>73</VL>
+<PG>117-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mottet-1999" NAME="Mottet 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mottet N, Costa P, Navratil H</AU>
+<TI>Intermittent versus continuous hormone deprivation in metastatic prostate cancer: preliminary data from an ongoing European study</TI>
+<SO>Prostate Cancer and Prostatic Diseases</SO>
+<YR>1999</YR>
+<VL>2</VL>
+<NO>52</NO>
+<PG>S2-S4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Oliver-1997" NAME="Oliver 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Oliver RT, Willians G. Paris AM, Blandy JP</AU>
+<TI>Intermittent androgen deprivation after PSA-complete response as a strategy to reduce induction of hormone-resistant prostate cancer</TI>
+<SO>Urology</SO>
+<YR>1997</YR>
+<VL>49</VL>
+<PG>79-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sato-2004" MODIFIED="2012-01-17 10:25:56 -0600" MODIFIED_BY="James Tacklind" NAME="Sato 2004" YEAR="2004">
+<REFERENCE MODIFIED="2012-01-17 10:25:56 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sato N, Akakura K, Isaka S, Nakatsu H, Tanaka M, Ito H, Masai M, and The Chiba Prostate Study Group</AU>
+<TI>Intermittent androgen suppression for locally advanced and metastatic prostate cancer: preliminary report of a prospective multicenter study</TI>
+<SO>Urology</SO>
+<YR>2004</YR>
+<VL>64</VL>
+<PG>341-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sciarra-2000" MODIFIED="2012-01-17 10:26:11 -0600" MODIFIED_BY="James Tacklind" NAME="Sciarra 2000" YEAR="2000">
+<REFERENCE MODIFIED="2012-01-17 10:26:11 -0600" MODIFIED_BY="James Tacklind" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sciarra A, Di Chiro C, Di Silverio F</AU>
+<TI>Intermittent androgen deprivation (IAD) in patients with biochemical failure after radical retropubic prostatectomy (RRP) for clinically localized prostate cancer</TI>
+<SO>World Journal of Urology</SO>
+<YR>2000</YR>
+<VL>18</VL>
+<PG>392-400</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Strum-2000" NAME="Strum 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Strum SB, Scholz MC, McDermed JE</AU>
+<TI>Intermittent androgen deprivation in prostate cancer patients: factors predictive of prolonged time off therapy</TI>
+<SO>Oncologist</SO>
+<YR>2000</YR>
+<VL>5</VL>
+<PG>45-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Theyer-1998" NAME="Theyer 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Theyer G, Hamilton G</AU>
+<TI>Current status of intermittent androgen suppression in the treatment of prostate cancer</TI>
+<SO>Urology</SO>
+<YR>1998</YR>
+<VL>52</VL>
+<PG>353-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-NCIC-CTG-_x0028_PR_x002d_7_x0029_" NAME="NCIC CTG (PR-7)" YEAR="">
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-SWOG-9346" NAME="SWOG 9346" YEAR="">
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Takeda-EC-210" NAME="Takeda EC 210" YEAR="">
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tunn-1996" NAME="Tunn 1996" YEAR="1996">
+<IDENTIFIERS/>
+</STUDY>
+</ONGOING_STUDIES>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-ACS-2006" NAME="ACS 2006" TYPE="OTHER">
+<TI>American Cancer Society [online] Atlanta</TI>
+<SO>Available from URL: http://cancer.org</SO>
+<YR>2006</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Akakura-1993" NAME="Akakura 1993" TYPE="OTHER">
+<AU>Akakura K, Bruchovsky N, Goldenberg SL, Rennie PS, Buckley AR, Sullivan LD</AU>
+<TI>Effects of intermitent androgen supression on androgen-dependent tumors. Apoptosis and serum prostate-specific antigen</TI>
+<SO>Cancer</SO>
+<YR>1993</YR>
+<VL>71</VL>
+<PG>2782 - 90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Altman-1996" NAME="Altman 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Altman DG, Bland JM</AU>
+<TI>Detecting skewness fron summary information.</TI>
+<SO>BMJ</SO>
+<YR>1996</YR>
+<VL>313</VL>
+<NO>7066</NO>
+<PG>1200</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bladou-1996" NAME="Bladou 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Bladou F, Vessella RL, Buhler KR, et al</AU>
+<TI>Cell proliferation and apoptosis during prostatic tumor xenograft involution and regrowth after castration</TI>
+<SO>Int J. Cancer</SO>
+<YR>1996</YR>
+<VL>67</VL>
+<PG>785 - 790</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bruchovsky-1990" NAME="Bruchovsky 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Bruchovsky N, Rennie PS, Coldman AJ, Goldenberg SL, To M, Lawson D</AU>
+<TI>Effects of androgen withdrawal on the stem cell composition of the Shionogi carcinoma</TI>
+<SO>Cancer Res</SO>
+<YR>1990</YR>
+<VL>50</VL>
+<PG>2275 - 82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bruchovsky-1998" NAME="Bruchovsky 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Bruchovsky N, Klotz LH, Crook JM, Armitage GR, Gleave ME, Goldenberg SL</AU>
+<TI>Aphase II study of intermittent androgen suppression (IAS) in men with a rising serum PSA after radiation for localized prostate cancer</TI>
+<SO>J Urol</SO>
+<YR>1998</YR>
+<VL>158</VL>
+<NO>(5 Suppl)</NO>
+<PG>1287</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Carneiro-1999" NAME="Carneiro 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Carneiro C Da Silva</AU>
+<TI>Phase III study on intermittent MAB vs contínuos MAB: an international co-operative study</TI>
+<SO>Prostate Cancer Prostatic Dis</SO>
+<YR>1999</YR>
+<VL>2</VL>
+<PG>(S3):S9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Castro-1997" NAME="Castro 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Castro AA, Clark OA, Atallah AN</AU>
+<TI>Optimal Search Strategy for Clinical Trials in the Latin American and Caribbean Health Science Literature Database (LILACS)</TI>
+<SO>São Paulo Medical Journal</SO>
+<YR>1997</YR>
+<VL>115</VL>
+<NO>5</NO>
+<PG>423-426</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Clarke-2003" NAME="Clarke 2003" TYPE="OTHER">
+<AU>Clarke M, Oxman AD, editors</AU>
+<TI>Selection bias. Cochrane Reviewers' Handbook 4.1.6 [updated January 2003]</TI>
+<SO>Section 6.3 In The Cochrane Library</SO>
+<YR>2003</YR>
+<NO>Ussue 1 2003. Oxford: Update Sftware. Update quaterly.</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dickersin-1994" NAME="Dickersin 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Dickersin K, Scherer R, Lefebvre C</AU>
+<TI>Identifying relevant studies for systematic reviews</TI>
+<SO>B M J</SO>
+<YR>1994</YR>
+<VL>309</VL>
+<PG>1286-91</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Grossfeld-1998" NAME="Grossfeld 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Grossfeld GD, Small EJ, Carroll PR</AU>
+<TI>Intermittent androgen deprivation for clinically localized prostate cancer: initial experience</TI>
+<SO>Urology</SO>
+<YR>1998</YR>
+<VL>51</VL>
+<PG>137-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Huggins-1941" NAME="Huggins 1941" TYPE="JOURNAL_ARTICLE">
+<AU>Huggins CB, Stevens RB, Hodges CV</AU>
+<TI>The effects of castration on advanced carcinoma of the prostate gland</TI>
+<SO>Arch Surg</SO>
+<YR>1941</YR>
+<VL>43</VL>
+<PG>209</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jaddad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports of randomized clinical trials: is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<NO>(1)</NO>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Labrie-2002" NAME="Labrie 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Labrie F, Candas B, Gomez JL, Cusan L</AU>
+<TI>Can combined androgen blockade provide long-term control or possible cure of localized cancer?</TI>
+<SO>Urology</SO>
+<YR>2002</YR>
+<VL>60</VL>
+<PG>115-119</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rambeaud-1999" NAME="Rambeaud 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Rambeaud JJ</AU>
+<TI>Intermittent complete androgen blockade in metastatic prostate cancer</TI>
+<SO>Eur Urol</SO>
+<YR>1999</YR>
+<VL>35</VL>
+<NO>(Suppl 1)</NO>
+<PG>32-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rennie-1990" NAME="Rennie 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Rennie PS, Bruchovsky N, Coldman AJ</AU>
+<TI>Loss of androgen dependence is associated with an increase in tumorigenic stem cells and resistance to cell-death genes</TI>
+<SO>J. Steroid Biochem Mol Biol</SO>
+<YR>1990</YR>
+<VL>37</VL>
+<PG>843-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sato-1995" NAME="Sato 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Sato N, Gleave ME, Goldemberg SL</AU>
+<TI>Intermittent androgen suppression delays time to androgen-independent progression in the LN CaP prostate tumor model</TI>
+<SO>J. Urol.</SO>
+<YR>1995</YR>
+<VL>153</VL>
+<PG>282a</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Waltregny-2002" NAME="Waltregny 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Waltregny D, Boca P, Nicolas H</AU>
+<TI>Intermittent versus continuous total androgen blockade in the treatment of patients with advanced hormone naïve prostate cancer: results of randomized prospective multicenter clinical trial</TI>
+<SO>Urol</SO>
+<YR>2002</YR>
+<VL>168</VL>
+<NO>A</NO>
+<PG>701</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Calais-2002">
+<CHAR_METHODS>
+<P>Design: randomised clinical trial. Multicentre. Period of study: not reported. Sample size: no justification. Generation of allocation: not described. Allocation concealment: not described. Blinded assessment of outcomes: not described. Withdrawals: described (for a median follow-up of 48 months 306 patients out of 626 randomised have gone off study, 162 in intermittent and 144 in the continuous. 57 patients in intermittent and 39 continuous have gone off study for subjective progression. 72 patients in intermittent and 50 in continuous have gone off study for subjective or objective progression. 72 patients in the intermittent arm and 69 in the continuous arm have died). Intention-to-treat analysis: not reported. Follow-up: median of 48 months.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Of 765 patients registered 626 have been randomised (314 in the intermittent arm and 312 in the continuod arm). At randomisation 23.7% of patient's randomised have PSA in excess of 4 ng and the others 76.3% have PSA&lt;4. Inclusion criteria: histological proven PCa T3-T4M0 and M1 patients, WHO 0-2, age&lt;85, previously untreated.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>All patients were registered and treated with CPA 200 mg for 2 weeks and then a monthly depot injection of LHRA analogue (decapeptyl) plus 200 mg of CPA daily. After 3 months of therapy if PSA was below 4 or 80% below the initial value, patients were randomised between intermittent MAB and continuous MAB treatment.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The outcomes measures were side effects, quality of life, sexually active, progression and survival.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>ONLY ABSTRACT AVAILABLE (PRELIMINARY RESULTS).<BR/>Contact with the author in 02th October 2005. (Question asked: Is it possible to make available the raw data from all participants?) Waiting response. <BR/>Score of the trial using the scale devised by Jadad 1996 was classified as 2 (two) - the study described as randomised and also described the withdrawals.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-de-Leval-2002">
+<CHAR_METHODS>
+<P>Design: an open-label, phase III randomized, controlled trial. Multicenter. Period: Between October 1995 and May 2000. Setting: The University Hospital and 2 community hospitals in Liège, Belgium. Sample size: since the proportion of patients with differents stages of diasease at enrollment was not predictable, it was anticipated that sample size calculations, based on the primary efficacy variable, androgen-independent progression, would be only approximate. Since their initial experience in the thial showed that a substantial number of eligible patients denied the offer of IAD, and since it was anticipated that patient recruitment by 3 centers involved in the trial would be insufficient, it was decided that as many patients as possible would be entered in the study. Generation of allocation: not described. Allocation concealment: not described. Blinded assessment of outcomes: not used. Withdrawals: described (2 patients were completely lost to follow-up. 3 patients suffered from immediate severe adverse events attributed to flutamide treatment, which was interrupted. 4 patientes did not achieve serum PSA levels at the end of induction therapy. Intention-to-treat analysis: not described. Follow-up: mean follow-up period was 30.8 months.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>77 patients were prospectively enrolled in the trial. Inclusion criteria: patients&lt; 80 years of age and having advanced prostate cancer. Advanced prostate cancer lesions were defined as locally advanced (stage T3 or T4), and/or metastatic (N+ and/or M+) tumors, or relapsing prostate cancer following radical retropubic prostatectomy for clinically localized PCa (classified as stage T1/T2 N0 M0, according to the 1997 TNM staging system). For patients with relapsing prostate cancer, a postoperative serum PSA level &gt; 4 ng/mL was required for their eligibility to the trial. Exclesion criteria: untreated clinically localized prostate cancer (stage T1/T2 N0 M0), other concomitant cancer (with the exception of skin cancers, melanoma excluded), psychiatric or senile disorders, prior hormonal therapy and/or chemotherapy, or severe associated illness. Stratification of patients: before randomization, patients were stratified for age, biopsy Gleason score and baseline serum level. Mean age of the patients at treatment initiation was 70.8 years and mean pretreatment serum PSA was 38.5 ng/mL.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>All patients fulfilling the inclusion criteria were initially treated with flutamide (3 times 250 mg, daily) for 15 days in order to avoid flare reactions. This therapy was followed by complete androgen blockade therapy using the combination of flutamide (3 times 250 mg, daily) and goserelin acetate (3.6 mg, monthly) for a minimum of 3 months and a maximum of 6 months. Two successive determinations of decreasing serum PSA levels less or equaly than 4 ng/mL following a maximum of 6 months of complete androgen suppression, defining hormone-naive prostate cancer, were required for further inclusion of the patients in the randomization procedure. Patients with hormone-naive prostate cancer were then assigned to the CAD or to the IAD therapy regimen. Patients treated with CAD received flutamide (250 mg orally every 8 hours) and goserelin acetate (3.6 mg subcutaneously monthly) without interruption and were monitored every 2 or 3 months with serum PSA measurements. Patients in the IAD group had their complete androgen deprivation therapy discontinued after the induction therapy phase and entered the off-treatement phase of the first IAD cycle. They were advised to restart complete androgen blockade if serum PSA levels reached above or equaly 10 ng/mL, during the off phase.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The outcomes of interested were morbidity and side effects.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Score of the trial using the scale devised by Jadad 1996 was classified as 2 (two) - the study described as randomised and also described the withdrawals.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-EAU-TULP-2002">
+<CHAR_METHODS>
+<P>Design: World-wide, multicenter, centrally randomised, parallel group study. Participating study centres located in Australia, Austria, Brazil, France, Greece, Hungary, Israel, Italy, Mexico, Portugal, Spain and The Netherlands. Period: Between March 1998 to August 2001. Sample size: no justification. Generation of allocation: adequate (centrally). Allocation concealment: adequate (centrally). Blinded assessment of outcomes: not reported. Withdrawals: reported. Intention-to-treat analysis: not described. Follow-up: serum prostate specific antigen (PSA) and testosterone levels centrally analysed at least every 2 months. The observation period of the patients was 26 to 40 months.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>193 patients were enrolled to the study. Diagnosis criteria: histologically confirmed prostate cancer, from the randomised patients; 155 were classified as T2-4NxM1 and 38 classified as T2-4N1-3M0, PSA&gt; 10 ng/mL (centrally analysed).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Treatment: 6 months complete androgen blockade (CAB): buserelin 2 monthly depot (6,6 mg); nilutamide first 4 weeks 300 mg od, followed by 150 mg od. After 6 months 193 patients were randomised to either intermittent (97 patients) or continuous androgen suppression (96 patients). For patients in the intermittent arm therapy was re-started when the PSA rose above 20 ng/mL (N0-3M1) or 10 ng/mL (N1-3M0)until the PSA returned to below 4 ng/mL. If the PSA persisted at high levels or if there was clinical progression androgen suppression remained continuous.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The primary outcome was evaluation of time to clinical tumor progression and/or PSA escape (defined as PSA concentrations over 50 ng/mL). The secondary outcomes were evaluation of quality of life; evaluation of survival time; safety evaluation; serum PSA, testosterone and alkaline phosphatase levels over the course of the study.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>This is a preliminary results.<BR/>Contact with the author in 02th October 2005. (Question asked: Is it possible to make available the raw data from all participants?) Waiting response. <BR/>The observations period of the patients was 26 to 40 months.<BR/>Radiological examinations every 6 months.<BR/>Score of the trial using the scale devised by Jadad 1996 was classified as 3 (three) - the study described as randomised (adequate) and also withdrawals described.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Hering-2000">
+<CHAR_METHODS>
+<P>Design: randomised controlled trial. Single-centre. Period of the study: From 1994 to 1996. Sample size: no justification. Generation of allocation: not described. Allocation concealment: not reported. Blinded assessment of outcomes: not described. Withdrawls: reported. Intention-to-treat analysis: not reported. Follow-up: 48 months.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>43 patients with adenocarcinoma of the prostate (stage D2) were enrolled to the study. Age: between 56 and 83 years (the median of age was 71.8 years). Patients on the begining of the treatment were classified as T3 Nx M+ (4 patients), T3 N+ M+ (two patients), T4 N+ M+ (8 patients) and T4 Nx M+ (4 patients) to the continuous group. In relation to the intermittent group the patients were classified as: T3 Nx M+ (10 patients), T3 N+ M+ (4 patients), T4 N+ M+ (9 patients), T4 Nx M+ (two patients).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Patients were randomly divided into the following 2 groups: Group A, 18 patients submitted to continuous hormonal treatment (CHT); and Group B, 25 patients submitted to intermittent hormonal treatment (IHT). Both groups received 200 mg/day of cyproterone acetate. In the IHT group the cycle was suspended after reaching the PSA nadir, and was then restarted according to the initial PSA.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The outcomes of interested were side effects; sexually impotent; period of response to treatment, considering the interval for clinical progression and increase in PSA.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>All patients reported sexually activities during the anamnese of inclusion to the study.<BR/>Score of the trial using the scale devised by Jadad 1996 was classified as 2 (two) - the study described as randomised and the withdrawls.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Yamanaka-2005">
+<CHAR_METHODS>
+<P>Design: Randomized controlled trial. Multicentre. Period: Between 2001 and 2003. Sample Size: Considering that the cumulative PSA recurrence rate within 5 years in treatment with endocrine monotherapy for locally advanced prostate cancer in Japanese was demonstrated at about 40%, and that in combination therapy with EBRT and endocrine therapy was demonstrated between 15 and 64%, the cumulative PSA recurrence rate within 5 years in men treated with 3 years of adjuvant endocrine therapy and EBRT, in this study, was assumed to be 30%. For non-recessive verification using hazard ratio of 1.5 as an upper limit, 75 events are necessary in each group in order to have 80% statistical power on the basis of the alternative hypothesis, in wich there is no difference in the disease-free survival rate between both groups. Generation of allocation: not reported. Allocation concealment: not reported. Blinded assessment of outcomes: not described. Withdrawals: reported (215 patients were registered in the protocol. 188 patients were still in the protocol and 27 patients had withdrawn from the protocol. Of 27 cases excluded from the protocol, 3 cases had adverse effects, 6 cases withdrew their agreement to the protocol, 1 case had other lifethreatening cancer during the protocol treatment, 4 cases had recurrence of disease, 12 cases did not meet the criteria at the 2nd registration, and 1 case was excluded from the protocol by a contravention issue. After 14 months patients were treated with continuous or intermittent therapy, in this phase 3 cases withdrawal the continuous group and 5 cases withdrawal the intermittent group). Intention-to-treat analysis: not reported. Follow-up: mean duration was 22.2 months.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>162 patients were acceptable (82 to continuous group and 80 to intermittent group). After 14 months: 48 patients on the continuous group and 41 patients on the intermittent group. Date from patients that were enrolled in the study: aged ranged from 54 to 79 years; the median PSA level at entry was 25.3 ng/mL; the clinical stage was T3M0N0 in 202 and T4N0M0 in 13 patients. Inclusion criteria: biopsy-proven untreated adenocarcinoma of the prostate with clinical stage T3N0M0 or T4N0M0 and were younger than 80 years-old. Exclusion criteria: patients who were treated with antiandrogen or any adrenocortical steroid hormones, or had undergone subcapsular prostatectomy or transurethral resection of the prostate including laser ablation for benign prostatic hyperplasia.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Patients were registered as primary candidates of the study and were treated with 2 weeks of steroidal antiandrogen (chlormadinone acetate; CMA), then with both luteinizing hormone-releasing hormone (LHRH) agonist (leuprorelin or goserelin) and another 2 weeks of antiandrogen, and thereafter with LHRH agonist alone. After 6 months of endocrine treatment with LHRH agonist, only patients with PSA levels lower than 10 ng/mL, with a PSA level lower than the pretreatment level and without clically apparent metastatic disease were enrolled in the following protocol as final candidates (2nd-line registration). After this phase, registration was done, the patients were randomly divided into two groups according to institutions, age (younger than 70, 70 years, or older), PSA levels after 6 months of endocrine treatment, and Gleason score (7 or less, 8-10) as follows: continuous androgen ablation group (arm 1) and intermittent androgen ablation group (arm 2) (hormonal therapy must be stopped 6 months after the day of final EBRT treatment). All of these patients were treated with EBRT immediately after completing 2nd-line registration.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The primary endpoint was biochemical (PSA) relapse-free survival and the secondary endpoints were overall survival, cause-specific survival, longitudinal QOL assessment and cost effectiveness between continuous arm and intermittent arm.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>The authors are members of the National Research Project on Endocrine-Radiation Combination Therapy for Locally Advanced Prostate Cancer.<BR/>Score of the trial using the scale devised by Jadad 1996 was classified as 3 (three) - the study described as randomised (adequate) and also withdrawals described.<BR/>Contact with the author in 02th October 2005. (Question asked: Is it possible to make available the raw data from all participants?) Waiting response.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Bouchot-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study aims to assess the feasibility of intermittent androgen suppression in patients with metastatic prostate cancer using luteinizing hormone-releasing hormone (LHRH) analogue alone or associated with an antiandrogen, but did not compare this treatment with continuous androgen deprivation. Design of the study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Crook-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The patients of this study just have been treated with an intermittent endocrine therapy schedule (i.e. the study did not compare intermittent versus continuous androgen suppression for prostatic cancer). On the other hand, the aim of the study was assess the intermittent androgen suppression (IAS) as a means of attenuating the androgen deprivation syndrome in men with prostate cancer. Design of the study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-De-La-Taille-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study just evaluated intermittent androgen suppression (IAS) in patients with prostate cancer (i.e. the study did not compare IAS with continuous androgen suppression). Design of study: case series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Goldenberg-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The aim of the study was test the feasibility of intermittent androgen suppression (IAS) in the tratement of prostate cancer. This study did not compare the IAS with the continuous androgen suppression. Design of study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Goldenberg-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This study is a prospective Phase II evaluation of intermittent androgen suppression in the treatment of prostate cancer. The study did not compare the intermittent arm versus the continuous arm. Design of study: cases serie.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Grossfeld-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A update study of Grossfeld 1998 study that aims the use of intermittent androgen deprivation (IAD) in the treatment of patients with localized prostate cancer. The study did not compare the IAD with continuous androgen deprivation. Design of study: series cases.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gulley-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The patients of this study only were treated with neoadjuvant, adjuvant and intermittent therapy with gonadotropin-releasing hormone agonists (GnRH-A). (i.e. the study did not compare intermittent androgen suppression with continuous androgen suppression for patients with prostate cancer).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Higano-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Androgen suppression was just administered intermittently (leuprolide and flutamide were administered for 9 to 12 months and then discontinued until prostate-specific antigen (PSA) levels reached (this constituted one cycle of treatment). Design of study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Horwich-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This study aims to assess only the feasibility of intermittent hormone therapy for metastatic prostate cancer. The study did not compare IAS with continuous androgen suppression. Design of study: cases serie.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hussain-2006-_x0028_SWOG_x0029_">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This study did not reported outcomes between intermittent versus continuous androgen supression arms. Hussain 2006 (SWOG) reported the timing to first PSA value for 1134 (81%) patients studied who achieved a PSA less than 4 ng/mL, or 675 (48%) patients who achieved an undetectable PSA at some point during induction.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Klotz-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The patients of this study just have been treated with an intermittent endocrine therapy schedule (i.e. the study did not compare intermittent versus continuous androgen suppression for prostatic cancer). Design of study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Klotz-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study did not compare intermittent androgen suppression versus continuous androgen suppression. On the other hand, the study determined the quality of life of intermittent androgen suppression in men with a rising serum PSA after radiation for localized prostate cancer. (Only have published the abstract. The complete version of article it is not available).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Klotz-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Ihis study did not reported of outcomes between both treatment of interest: intermittent and continuous androgen supression. It only reported the correlation between androgen receptor CAG repeat lenght and the duration of the first off-treatment interval.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kurek-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study did not compare intermittent androgen suppression versus continuous androgen suppression. On the other hand, the study determined the efficacy, safety and feasibility of intermittent androgen deprivation in patients with prostate-specific antigen relapse after radical prostatectomy or with an incidental prostate cancer after transurethral resection of the prostate. Design of study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lane-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study did not compare intermittent androgen suppression versus continuous androgen suppression. The aims of this study were assess the long-term outcomes os patients with prostate cancer managed with only intermittent androgen suppression. Design of study: cohort.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mottet-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Mottet 1999 presented preliminary issues of the Takeda-sponsored EC 210 (Takeda EC 210), an ongoing trial. There was no report of results.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Oliver-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Case records were reviwed to test only the intermittent androgen suppression (IAS) after PSA-complete response. The study did not compare IAS with the Continuous androgen suppression therapy.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sato-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study did not compare intermittent androgen suppression versus continuous androgen suppression. The study only assess the effect of intermittent androgen suppression on patients with locally advanced or metastatic prostate cancer. The patients were treated with a combination of leuprolide acetate and flutamide for 36 weeks. When the serum prostate-specific antigen (PSA) levels at 24 and 32 weeks were less than 4.0 ng/mL, treatment was withheld until the PSA level reached 15 ng/mL or the pretreatment level (cycle of on-treatment and off-treatment). Design of study: case series.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sciarra-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The aim of study was to analyse the clinical response during intermittent androgen deprivation in patienys with biochemical failure after radical retropubic prostatectomy (RRP) for clinically localized prostate cancer. This study did not compare the IAD versus continuos androgen deprivation. Design of the study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Strum-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study summarizes the treatment with a prolonged time off androgen deprivation therapy in patients electing intermittent androgen deprivation (IAD). This study did not compare IAD with continuous androgen deprivation. Design of study: non r4andomised controlled trial (case series).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Theyer-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study did not compare the intermittent androgen suppression therapy with continuous androgen suppression. On the other hand, the study evaluated serial serum measurements of tissue polypeptide-specific antigen (TPS) in comparison with prostate specific antigen (PSA) for assessment of tumour progression in patients with advanced prostate cancer. Design of study: non randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<ONGOING_CHAR STUDY_ID="STD-NCIC-CTG-_x0028_PR_x002d_7_x0029_">
+<CHAR_STUDY_NAME/>
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_STARTING_DATE/>
+<CHAR_CONTACT_INFORMATION/>
+<CHAR_NOTES/>
+</ONGOING_CHAR>
+<ONGOING_CHAR STUDY_ID="STD-SWOG-9346">
+<CHAR_STUDY_NAME/>
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_STARTING_DATE/>
+<CHAR_CONTACT_INFORMATION/>
+<CHAR_NOTES/>
+</ONGOING_CHAR>
+<ONGOING_CHAR STUDY_ID="STD-Takeda-EC-210">
+<CHAR_STUDY_NAME/>
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_STARTING_DATE/>
+<CHAR_CONTACT_INFORMATION/>
+<CHAR_NOTES/>
+</ONGOING_CHAR>
+<ONGOING_CHAR STUDY_ID="STD-Tunn-1996">
+<CHAR_STUDY_NAME/>
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_STARTING_DATE/>
+<CHAR_CONTACT_INFORMATION/>
+<CHAR_NOTES/>
+</ONGOING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Calais-2002">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-EAU-TULP-2002">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Hering-2000">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Yamanaka-2005">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-de-Leval-2002">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Intermittent versus continuous androgen suppression (both groups received 200 mg/day of cyproterone acetate)</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.321806412988973" CI_START="0.06275048992419432" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.288" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="5" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.12116785459975186" LOG_CI_START="-1.20238287908129" LOG_EFFECT_SIZE="-0.5406075122407692" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.10935386406378668" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="25" TOTAL_2="18" WEIGHT="99.99999999999999" Z="1.6011041009615676">
+<NAME>Secondary Side Effects</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.321806412988973" CI_START="0.06275048992419432" DF="0" EFFECT_SIZE="0.288" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="5" I2="0.0" ID="CMP-001.01.01" LOG_CI_END="0.12116785459975186" LOG_CI_START="-1.20238287908129" LOG_EFFECT_SIZE="-0.5406075122407692" NO="1" P_CHI2="1.0" P_Z="0.10935386406378668" STUDIES="1" TAU2="0.0" TOTAL_1="25" TOTAL_2="18" WEIGHT="99.99999999999999" Z="1.6011041009615676">
+<NAME>Gastrointestinal, Gynecomastia and Asthenia</NAME>
+<DICH_DATA CI_END="1.321806412988973" CI_START="0.06275048992419432" EFFECT_SIZE="0.288" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="5" LOG_CI_END="0.12116785459975186" LOG_CI_START="-1.20238287908129" LOG_EFFECT_SIZE="-0.5406075122407692" ORDER="1" O_E="0.0" SE="0.77746025264604" STUDY_ID="STD-Hering-2000" TOTAL_1="25" TOTAL_2="18" VAR="0.6044444444444443" WEIGHT="99.99999999999999"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="3.6732893643419633" CI_START="0.03528172902959325" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.36" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.5650551413556468" LOG_CI_START="-1.4524501398210723" LOG_EFFECT_SIZE="-0.44369749923271273" METHOD="MH" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.3886404275662535" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="25" TOTAL_2="18" WEIGHT="100.0" Z="0.862085593173158">
+<NAME>Primary Side Effects</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="3.6732893643419633" CI_START="0.03528172902959325" DF="0" EFFECT_SIZE="0.36" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" I2="0.0" ID="CMP-001.02.01" LOG_CI_END="0.5650551413556468" LOG_CI_START="-1.4524501398210723" LOG_EFFECT_SIZE="-0.44369749923271273" NO="1" P_CHI2="1.0" P_Z="0.3886404275662535" STUDIES="1" TAU2="0.0" TOTAL_1="25" TOTAL_2="18" WEIGHT="100.0" Z="0.862085593173158">
+<NAME>Gastritis with intensive vomiting and inferior members edema</NAME>
+<DICH_DATA CI_END="3.6732893643419633" CI_START="0.03528172902959325" EFFECT_SIZE="0.36" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" LOG_CI_END="0.5650551413556468" LOG_CI_START="-1.4524501398210723" LOG_EFFECT_SIZE="-0.44369749923271273" ORDER="2" O_E="0.0" SE="1.1850925889754118" STUDY_ID="STD-Hering-2000" TOTAL_1="25" TOTAL_2="18" VAR="1.4044444444444444" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.943652897890802" CI_START="0.5659111203204821" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.7307692307692307" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="18" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-0.0251877220698598" LOG_CI_START="-0.24725177196611822" LOG_EFFECT_SIZE="-0.13621974701798903" METHOD="MH" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.016190897746139667" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="25" TOTAL_2="18" WEIGHT="100.0" Z="2.404583706936297">
+<NAME>Sexual Impotence</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.943652897890802" CI_START="0.5659111203204821" EFFECT_SIZE="0.7307692307692307" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="18" LOG_CI_END="-0.0251877220698598" LOG_CI_START="-0.24725177196611822" LOG_EFFECT_SIZE="-0.13621974701798903" ORDER="3" O_E="0.0" SE="0.13044152214383745" STUDY_ID="STD-Hering-2000" TOTAL_1="25" TOTAL_2="18" VAR="0.017014990699201232" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="50.9284275566543" CI_START="0.09437191070556628" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="2.1923076923076925" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="1.7069602673010447" LOG_CI_START="-1.0251572518976977" LOG_EFFECT_SIZE="0.3409015077016735" METHOD="MH" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.6247629545528637" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="25" TOTAL_2="18" WEIGHT="100.0" Z="0.48911122795818535">
+<NAME>Permanately impotent</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_DATA CI_END="50.92842755665427" CI_START="0.0943719107055663" EFFECT_SIZE="2.1923076923076925" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="1.7069602673010444" LOG_CI_START="-1.0251572518976977" LOG_EFFECT_SIZE="0.3409015077016735" ORDER="4" O_E="0.0" SE="1.6048593549771766" STUDY_ID="STD-Hering-2000" TOTAL_1="25" TOTAL_2="18" VAR="2.5755735492577596" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Intermittent vs continuous (buserelin 2 monthly depot (6.6 mg); nilutamide first 4 weeks 300 mg od, 150 mg od)</NAME>
+<DICH_OUTCOME CHI2="8.02092375352637" CI_END="0.9314613699198709" CI_START="0.6412446357967942" CI_STUDY="95" CI_TOTAL="95" DF="10" EFFECT_MEASURE="RR" EFFECT_SIZE="0.7728483725240357" ESTIMABLE="YES" EVENTS_1="139" EVENTS_2="178" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="-0.030835151694759193" LOG_CI_START="-0.19297625486819145" LOG_EFFECT_SIZE="-0.11190570328147531" METHOD="MH" NO="1" P_CHI2="0.6267930946312124" P_Q="0.644943536194897" P_Z="0.006821489450821071" Q="7.835068935294691" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="1067" TOTAL_2="1056" WEIGHT="1100.0" Z="2.705435497891149">
+<NAME>Side Effects</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.1003715526254834" CI_START="0.6578124547866845" DF="0" EFFECT_SIZE="0.8507867607162235" ESTIMABLE="YES" EVENTS_1="49" EVENTS_2="57" I2="0.0" ID="CMP-002.01.01" LOG_CI_END="0.04153935425720082" LOG_CI_START="-0.1818979079985092" LOG_EFFECT_SIZE="-0.0701792768706542" NO="1" P_CHI2="1.0" P_Z="0.2182451612174684" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="1.231207845449977">
+<NAME>Hot Flushes</NAME>
+<DICH_DATA CI_END="1.1003715526254834" CI_START="0.6578124547866845" EFFECT_SIZE="0.8507867607162235" ESTIMABLE="YES" EVENTS_1="49" EVENTS_2="57" LOG_CI_END="0.04153935425720082" LOG_CI_START="-0.1818979079985092" LOG_EFFECT_SIZE="-0.0701792768706542" ORDER="5" O_E="0.0" SE="0.13124815388129007" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.017226077897246797" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.4773181985350625" CI_START="0.6630174362506037" DF="0" EFFECT_SIZE="0.9896907216494846" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="32" I2="0.0" ID="CMP-002.01.02" LOG_CI_END="0.16947404777256816" LOG_CI_START="-0.178475050225921" LOG_EFFECT_SIZE="-0.004500501226676422" NO="2" P_CHI2="1.0" P_Z="0.9595631536228588" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="0.05070178579225645">
+<NAME>Visual Disturbances</NAME>
+<DICH_DATA CI_END="1.4773181985350625" CI_START="0.6630174362506037" EFFECT_SIZE="0.9896907216494846" ESTIMABLE="YES" EVENTS_1="32" EVENTS_2="32" LOG_CI_END="0.16947404777256816" LOG_CI_START="-0.178475050225921" LOG_EFFECT_SIZE="-0.004500501226676422" ORDER="6" O_E="0.0" SE="0.20438702254012575" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.041774054982817874" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.1387845953826872" CI_START="0.2882939856235286" DF="0" EFFECT_SIZE="0.5729788388497016" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="19" I2="0.0" ID="CMP-002.01.03" LOG_CI_END="0.056441583707140745" LOG_CI_START="-0.5401644177497015" LOG_EFFECT_SIZE="-0.24186141702128036" NO="3" P_CHI2="1.0" P_Z="0.11203299898792575" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="1.5891213479381128">
+<NAME>Nausea</NAME>
+<DICH_DATA CI_END="1.1387845953826872" CI_START="0.2882939856235286" EFFECT_SIZE="0.5729788388497016" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="19" LOG_CI_END="0.056441583707140745" LOG_CI_START="-0.5401644177497015" LOG_EFFECT_SIZE="-0.24186141702128036" ORDER="7" O_E="0.0" SE="0.3504493185030857" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.1228147248392772" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.0051435053427622" CI_START="0.186520702043732" DF="0" EFFECT_SIZE="0.4329896907216495" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="16" I2="0.0" ID="CMP-002.01.04" LOG_CI_END="0.0022280708403621253" LOG_CI_START="-0.7292729585770509" LOG_EFFECT_SIZE="-0.36352244386834437" NO="4" P_CHI2="1.0" P_Z="0.05141205326444911" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="1.948024319586769">
+<NAME>Constipation</NAME>
+<DICH_DATA CI_END="1.0051435053427622" CI_START="0.18652070204373195" EFFECT_SIZE="0.4329896907216495" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="16" LOG_CI_END="0.0022280708403621253" LOG_CI_START="-0.729272958577051" LOG_EFFECT_SIZE="-0.36352244386834437" ORDER="8" O_E="0.0" SE="0.4296873256682826" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.18463119783996074" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="5.376077831834061E-32" CI_END="1.2648722987361007" CI_START="0.1935941923737699" DF="0" EFFECT_SIZE="0.49484536082474223" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="12" I2="100.0" ID="CMP-002.01.05" LOG_CI_END="0.1020466814377162" LOG_CI_START="-0.7131076752190317" LOG_EFFECT_SIZE="-0.30553049689065764" NO="5" P_CHI2="0.0" P_Z="0.14176765348158982" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="99.99999999999999" Z="1.4692401879328383">
+<NAME>Dyspnea</NAME>
+<DICH_DATA CI_END="1.264872298736101" CI_START="0.19359419237376996" EFFECT_SIZE="0.4948453608247423" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="12" LOG_CI_END="0.10204668143771628" LOG_CI_START="-0.7131076752190316" LOG_EFFECT_SIZE="-0.30553049689065764" ORDER="9" O_E="0.0" SE="0.4788257041793161" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.2292740549828179" WEIGHT="99.99999999999999"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="8.193932788776271E-32" CI_END="2.0948264212615633" CI_START="0.37873546409761905" DF="0" EFFECT_SIZE="0.890721649484536" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" I2="100.0" ID="CMP-002.01.06" LOG_CI_END="0.32114804285773696" LOG_CI_START="-0.42166402643244016" LOG_EFFECT_SIZE="-0.05025799178735159" NO="6" P_CHI2="0.0" P_Z="0.7908409319457554" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="0.2652187758140444">
+<NAME>Erectile dysfunction</NAME>
+<DICH_DATA CI_END="2.0948264212615637" CI_START="0.3787354640976191" EFFECT_SIZE="0.8907216494845361" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="10" LOG_CI_END="0.321148042857737" LOG_CI_START="-0.4216640264324401" LOG_EFFECT_SIZE="-0.05025799178735153" ORDER="10" O_E="0.0" SE="0.4363314864800946" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.190385166093929" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.401245323527791" CI_START="0.20797060336332035" DF="0" EFFECT_SIZE="0.5398313027179007" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="11" I2="0.0" ID="CMP-002.01.07" LOG_CI_END="0.14651417620466087" LOG_CI_START="-0.6819980482071765" LOG_EFFECT_SIZE="-0.26774193600125784" NO="7" P_CHI2="1.0" P_Z="0.20523986685725126" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="99.99999999999999" Z="1.2667635702925808">
+<NAME>Depression</NAME>
+<DICH_DATA CI_END="1.401245323527791" CI_START="0.20797060336332035" EFFECT_SIZE="0.5398313027179007" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="11" LOG_CI_END="0.14651417620466087" LOG_CI_START="-0.6819980482071765" LOG_EFFECT_SIZE="-0.26774193600125784" ORDER="11" O_E="0.0" SE="0.48667218182116745" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.23684981255857546" WEIGHT="99.99999999999999"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="4.668217924357102" CI_START="0.5371404281890213" DF="0" EFFECT_SIZE="1.5835051546391752" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="5" I2="0.0" ID="CMP-002.01.08" LOG_CI_END="0.669151121824196" LOG_CI_START="-0.26991215896569937" LOG_EFFECT_SIZE="0.19961948142924832" NO="8" P_CHI2="1.0" P_Z="0.4046920424099394" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="0.833270775713412">
+<NAME>Liver enzyme increase</NAME>
+<DICH_DATA CI_END="4.668217924357102" CI_START="0.5371404281890213" EFFECT_SIZE="1.5835051546391752" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="5" LOG_CI_END="0.669151121824196" LOG_CI_START="-0.26991215896569937" LOG_EFFECT_SIZE="0.19961948142924832" ORDER="12" O_E="0.0" SE="0.5516104195741935" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.30427405498281784" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.8694599170632524" CI_START="0.17108295473700436" DF="0" EFFECT_SIZE="0.5655375552282769" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="7" I2="0.0" ID="CMP-002.01.09" LOG_CI_END="0.271716157917697" LOG_CI_START="-0.7667932577436387" LOG_EFFECT_SIZE="-0.24753854991297086" NO="9" P_CHI2="1.0" P_Z="0.35012239216688823" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="0.9343519380721903">
+<NAME>Gynaecomastia</NAME>
+<DICH_DATA CI_END="1.8694599170632524" CI_START="0.17108295473700436" EFFECT_SIZE="0.5655375552282769" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="7" LOG_CI_END="0.271716157917697" LOG_CI_START="-0.7667932577436387" LOG_EFFECT_SIZE="-0.24753854991297086" ORDER="13" O_E="0.0" SE="0.6100255714639844" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.3721311978399607" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="2.859488156328455" CI_START="0.21922529817262998" DF="0" EFFECT_SIZE="0.7917525773195876" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="5" I2="0.0" ID="CMP-002.01.10" LOG_CI_END="0.45628830208854887" LOG_CI_START="-0.6591093305580147" LOG_EFFECT_SIZE="-0.10141051423473288" NO="10" P_CHI2="1.0" P_Z="0.7215449271787233" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="0.356394795427622">
+<NAME>Anemia</NAME>
+<DICH_DATA CI_END="2.859488156328455" CI_START="0.21922529817262998" EFFECT_SIZE="0.7917525773195876" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="5" LOG_CI_END="0.45628830208854887" LOG_CI_START="-0.6591093305580147" LOG_EFFECT_SIZE="-0.10141051423473288" ORDER="14" O_E="0.0" SE="0.6551900907239195" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.42927405498281784" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="3.22866403550774" CI_START="0.17064700414248482" DF="0" EFFECT_SIZE="0.7422680412371134" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="4" I2="0.0" ID="CMP-002.01.11" LOG_CI_END="0.5090228560682063" LOG_CI_START="-0.7679013317381591" LOG_EFFECT_SIZE="-0.12943923783497635" NO="11" P_CHI2="1.0" P_Z="0.6911055348898233" STUDIES="1" TAU2="0.0" TOTAL_1="97" TOTAL_2="96" WEIGHT="100.0" Z="0.39735521774193044">
+<NAME>Alcohol intolerence</NAME>
+<DICH_DATA CI_END="3.22866403550774" CI_START="0.17064700414248482" EFFECT_SIZE="0.7422680412371134" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="4" LOG_CI_END="0.5090228560682063" LOG_CI_START="-0.7679013317381591" LOG_EFFECT_SIZE="-0.12943923783497635" ORDER="15" O_E="0.0" SE="0.7500715887941305" STUDY_ID="STD-EAU-TULP-2002" TOTAL_1="97" TOTAL_2="96" VAR="0.5626073883161512" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Intermittent versus continuous (flutamide (3 times 250 mg, daily) and goserelin acetate (3.6 mg, monthly))</NAME>
+<DICH_OUTCOME CHI2="0.5869470636124141" CI_END="1.4092396401003178" CI_START="0.7096025200716141" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="35" EVENTS_2="33" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="0.14898485082676322" LOG_CI_START="-0.14898485082676324" LOG_EFFECT_SIZE="0.0" METHOD="MH" NO="1" P_CHI2="0.7456689879046714" P_Q="0.7736724057428901" P_Z="1.0" Q="0.5132135167948603" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="105" TOTAL_2="99" WEIGHT="300.0" Z="0.0">
+<NAME>Biochemical androgen-independence of the prostate tumors</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.2931689796027062" CI_START="0.6263682571854239" DF="0" EFFECT_SIZE="0.9" ESTIMABLE="YES" EVENTS_1="21" EVENTS_2="22" I2="0.0" ID="CMP-003.01.01" LOG_CI_END="0.11165527825551587" LOG_CI_START="-0.2031702593768661" LOG_EFFECT_SIZE="-0.045757490560675115" NO="1" P_CHI2="1.0" P_Z="0.5688597356253906" STUDIES="1" TAU2="0.0" TOTAL_1="35" TOTAL_2="33" WEIGHT="100.00000000000001" Z="0.5697316310252858">
+<NAME>Biochemical androgen-independence of the prostate tumors - Biopsy Gleason Score 4-6</NAME>
+<DICH_DATA CI_END="1.2931689796027062" CI_START="0.6263682571854239" EFFECT_SIZE="0.9" ESTIMABLE="YES" EVENTS_1="21" EVENTS_2="22" LOG_CI_END="0.11165527825551587" LOG_CI_START="-0.2031702593768661" LOG_EFFECT_SIZE="-0.045757490560675115" ORDER="16" O_E="0.0" SE="0.18493007921680615" STUDY_ID="STD-de-Leval-2002" TOTAL_1="35" TOTAL_2="33" VAR="0.0341991341991342" WEIGHT="100.00000000000001"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="5.197814947760443" CI_START="0.30405241032027297" DF="0" EFFECT_SIZE="1.2571428571428571" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="3" I2="0.0" ID="CMP-003.01.02" LOG_CI_END="0.7158208137188415" LOG_CI_START="-0.5170515494470178" LOG_EFFECT_SIZE="0.09938463213591178" NO="2" P_CHI2="1.0" P_Z="0.7520068598048413" STUDIES="1" TAU2="0.0" TOTAL_1="35" TOTAL_2="33" WEIGHT="100.0" Z="0.3159942674081078">
+<NAME>Biochemical androgen-independence of the prostate tumors - Biopsy Gleason Score 7</NAME>
+<DICH_DATA CI_END="5.197814947760442" CI_START="0.304052410320273" EFFECT_SIZE="1.2571428571428571" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="3" LOG_CI_END="0.7158208137188414" LOG_CI_START="-0.5170515494470178" LOG_EFFECT_SIZE="0.09938463213591178" ORDER="17" O_E="0.0" SE="0.7241953289402483" STUDY_ID="STD-de-Leval-2002" TOTAL_1="35" TOTAL_2="33" VAR="0.5244588744588744" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="2.6199493704489383" CI_START="0.5301746010484478" DF="0" EFFECT_SIZE="1.1785714285714286" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="8" I2="0.0" ID="CMP-003.01.03" LOG_CI_END="0.41829289882085147" LOG_CI_START="-0.27558108174951496" LOG_EFFECT_SIZE="0.07135590853566827" NO="3" P_CHI2="1.0" P_Z="0.6868646747691504" STUDIES="1" TAU2="0.0" TOTAL_1="35" TOTAL_2="33" WEIGHT="100.0" Z="0.4031135760389309">
+<NAME>Biochemical androgen-independence of the prostate tumors - Biopsy Gleason Score 8-10</NAME>
+<DICH_DATA CI_END="2.6199493704489383" CI_START="0.5301746010484478" EFFECT_SIZE="1.1785714285714286" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="8" LOG_CI_END="0.41829289882085147" LOG_CI_START="-0.27558108174951496" LOG_EFFECT_SIZE="0.07135590853566827" ORDER="18" O_E="0.0" SE="0.4075850109186317" STUDY_ID="STD-de-Leval-2002" TOTAL_1="35" TOTAL_2="33" VAR="0.16612554112554112" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="4.95743314826398" CI_START="0.04483063942819089" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.4714285714285714" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" I2="0.0" I2_Q="100.0" ID="CMP-003.02" LOG_CI_END="0.6952568663900346" LOG_CI_START="-1.3484250666627733" LOG_EFFECT_SIZE="-0.32658410013636935" METHOD="MH" NO="2" P_CHI2="1.0" P_Q="0.0" P_Z="0.5310449812218522" Q="8.553003393758154E-33" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="35" TOTAL_2="33" WEIGHT="100.0" Z="0.6264116385611428">
+<NAME>Side Effects (severe gastrointestinal tract)</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.95743314826398" CI_START="0.04483063942819089" EFFECT_SIZE="0.4714285714285714" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" LOG_CI_END="0.6952568663900346" LOG_CI_START="-1.3484250666627733" LOG_EFFECT_SIZE="-0.32658410013636935" ORDER="19" O_E="0.0" SE="1.200468883863943" STUDY_ID="STD-de-Leval-2002" TOTAL_1="35" TOTAL_2="33" VAR="1.4411255411255413" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="2.6223101136525666" CI_END="0.4620528669663376" CI_START="0.07255278762254419" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RR" EFFECT_SIZE="0.18309348302819614" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="22" I2="0.0" I2_Q="0.0" ID="CMP-003.03" LOG_CI_END="-0.3353083306815342" LOG_CI_START="-1.1393458964470518" LOG_EFFECT_SIZE="-0.737327113564293" METHOD="MH" NO="3" P_CHI2="0.45359176314480354" P_Q="0.4862180230326364" P_Z="3.2477281724547184E-4" Q="2.4400775750893553" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="63" TOTAL_2="58" WEIGHT="400.0" Z="3.594694200724286">
+<NAME>Biochemical Progression Rates/mean time to progression of 3 years (progr. defined as 3 rises after a nadir)</NAME>
+<GROUP_LABEL_1>Intermittent</GROUP_LABEL_1>
+<GROUP_LABEL_2>Continuous</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Intermittent</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Continuous</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.6473556828286111" CI_START="0.026648906010382792" DF="0" EFFECT_SIZE="0.20952380952380953" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="5" I2="0.0" ID="CMP-003.03.01" LOG_CI_END="0.21678737841234125" LOG_CI_START="-1.5743206149078048" LOG_EFFECT_SIZE="-0.6787666182477319" NO="1" P_CHI2="1.0" P_Z="0.13740768038674603" STUDIES="1" TAU2="0.0" TOTAL_1="21" TOTAL_2="22" WEIGHT="100.0" Z="1.4855141405600456">
+<NAME>Biopsy Gleason Score &lt; = 6</NAME>
+<DICH_DATA CI_END="1.6473556828286111" CI_START="0.026648906010382792" EFFECT_SIZE="0.20952380952380953" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="5" LOG_CI_END="0.21678737841234125" LOG_CI_START="-1.5743206149078048" LOG_EFFECT_SIZE="-0.6787666182477319" ORDER="20" O_E="0.0" SE="1.0521057014038118" STUDY_ID="STD-de-Leval-2002" TOTAL_1="21" TOTAL_2="22" VAR="1.1069264069264069" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.671945577052991" CI_START="0.01435539759138357" DF="0" EFFECT_SIZE="0.09821428571428571" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="8" I2="0.0" ID="CMP-003.03.02" LOG_CI_END="-0.1726659003728245" LOG_CI_START="-1.8429847746510886" LOG_EFFECT_SIZE="-1.0078253375119566" NO="2" P_CHI2="1.0" P_Z="0.01802136987571917" STUDIES="1" TAU2="0.0" TOTAL_1="14" TOTAL_2="11" WEIGHT="100.0" Z="2.3651787627483722">
+<NAME>Biopsy Gleason Score &gt; 6</NAME>
+<DICH_DATA CI_END="0.671945577052991" CI_START="0.01435539759138357" EFFECT_SIZE="0.09821428571428571" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="8" LOG_CI_END="-0.1726659003728245" LOG_CI_START="-1.8429847746510886" LOG_EFFECT_SIZE="-1.0078253375119566" ORDER="21" O_E="0.0" SE="0.981153574962828" STUDY_ID="STD-de-Leval-2002" TOTAL_1="14" TOTAL_2="11" VAR="0.9626623376623377" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="1.2813238683378603" CI_START="0.004573919079117542" DF="0" EFFECT_SIZE="0.07655502392344497" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="5" I2="0.0" ID="CMP-003.03.03" LOG_CI_END="0.10765891620414442" LOG_CI_START="-2.339711523114403" LOG_EFFECT_SIZE="-1.1160263034551292" NO="3" P_CHI2="1.0" P_Z="0.07385222148526437" STUDIES="1" TAU2="0.0" TOTAL_1="18" TOTAL_2="15" WEIGHT="100.0" Z="1.7875278097912148">
+<NAME>Stage M0</NAME>
+<DICH_DATA CI_END="1.2813238683378596" CI_START="0.004573919079117542" EFFECT_SIZE="0.07655502392344497" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="5" LOG_CI_END="0.1076589162041442" LOG_CI_START="-2.339711523114403" LOG_EFFECT_SIZE="-1.1160263034551292" ORDER="22" O_E="0.0" SE="1.437597510734772" STUDY_ID="STD-de-Leval-2002" TOTAL_1="18" TOTAL_2="15" VAR="2.066686602870813" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="2.13913386929134" CI_START="0.1168697310574681" DF="0" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="4" I2="0.0" ID="CMP-003.03.04" LOG_CI_END="0.3302379640363697" LOG_CI_START="-0.932297955364332" LOG_EFFECT_SIZE="-0.3010299956639812" NO="4" P_CHI2="1.0" P_Z="0.349974143204844" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="10" WEIGHT="100.0" Z="0.9346394676005982">
+<NAME>Stage M+</NAME>
+<DICH_DATA CI_END="2.13913386929134" CI_START="0.1168697310574681" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="4" LOG_CI_END="0.3302379640363697" LOG_CI_START="-0.932297955364332" LOG_EFFECT_SIZE="-0.3010299956639812" ORDER="23" O_E="0.0" SE="0.7416198487095663" STUDY_ID="STD-de-Leval-2002" TOTAL_1="10" TOTAL_2="10" VAR="0.55" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

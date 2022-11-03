@@ -1,0 +1,2541 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002804" GROUP_ID="LUNGCA" ID="024100082816025629" MERGED_FROM="" MODIFIED="2016-11-21 14:29:51 +0000" MODIFIED_BY="Corynne Marchal" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.3&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2016-11-21 15:28:14 +0100" NOTES_MODIFIED_BY="Corynne Marchal" REVIEW_NO="XB1" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="10.0">
+<COVER_SHEET MODIFIED="2016-11-21 14:29:42 +0000" MODIFIED_BY="Corynne Marchal">
+<TITLE>Second-line chemotherapy for non-small cell lung cancer</TITLE>
+<CONTACT MODIFIED="2016-11-21 14:29:42 +0000" MODIFIED_BY="Corynne Marchal"><PERSON ID="D3B1F77E82E26AA200831C1940F4DA2E" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Xavier</FIRST_NAME><LAST_NAME>Bonfill Cosp</LAST_NAME><POSITION>Director</POSITION><EMAIL_1>xbonfill@santpau.cat</EMAIL_1><EMAIL_2>director@cochrane.es, XBonfill@hsp.santpau.es</EMAIL_2><ADDRESS><DEPARTMENT>Iberoamerican Cochrane Centre - Biomedical Research Institute Sant Pau (IIB Sant Pau)</DEPARTMENT><ORGANISATION>CIBER Epidemiología y Salud Pública (CIBERESP)</ORGANISATION><ADDRESS_1>Sant Antoni Maria Claret, 167</ADDRESS_1><ADDRESS_2>Pavilion 18 (D-13)</ADDRESS_2><CITY>Barcelona</CITY><ZIP>08025</ZIP><REGION>Catalunya</REGION><COUNTRY CODE="ES">Spain</COUNTRY><PHONE_1>+34 93 553 78 10</PHONE_1><PHONE_2>+34 93 553 78 14</PHONE_2><FAX_1>+34 93 553 78 0</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2016-11-21 14:29:42 +0000" MODIFIED_BY="Corynne Marchal"><PERSON ID="D3B1F77E82E26AA200831C1940F4DA2E" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Xavier</FIRST_NAME><LAST_NAME>Bonfill Cosp</LAST_NAME><POSITION>Director</POSITION><EMAIL_1>xbonfill@santpau.cat</EMAIL_1><EMAIL_2>director@cochrane.es, XBonfill@hsp.santpau.es</EMAIL_2><ADDRESS><DEPARTMENT>Iberoamerican Cochrane Centre - Biomedical Research Institute Sant Pau (IIB Sant Pau)</DEPARTMENT><ORGANISATION>CIBER Epidemiología y Salud Pública (CIBERESP)</ORGANISATION><ADDRESS_1>Sant Antoni Maria Claret, 167</ADDRESS_1><ADDRESS_2>Pavilion 18 (D-13)</ADDRESS_2><CITY>Barcelona</CITY><ZIP>08025</ZIP><REGION>Catalunya</REGION><COUNTRY CODE="ES">Spain</COUNTRY><PHONE_1>+34 93 553 78 10</PHONE_1><PHONE_2>+34 93 553 78 14</PHONE_2><FAX_1>+34 93 553 78 0</FAX_1></ADDRESS></PERSON><PERSON ID="9017" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Consol</FIRST_NAME><LAST_NAME>Serra</LAST_NAME><EMAIL_1>consol.serra@upf.edu</EMAIL_1><MOBILE_PHONE>+34629369985</MOBILE_PHONE><ADDRESS><DEPARTMENT>CiSAL - Centre for Occupational Health</DEPARTMENT><ORGANISATION>Pompeu Fabra University</ORGANISATION><ADDRESS_1>PRBB Buildinng</ADDRESS_1><ADDRESS_2>Dr Aiguader, 88</ADDRESS_2><CITY>Barcelona</CITY><ZIP>08003</ZIP><COUNTRY CODE="ES">Spain</COUNTRY><PHONE_1>+34 93 316 0876</PHONE_1><PHONE_2>+34 93 316 0875</PHONE_2><FAX_1>+34 93 316 0410</FAX_1></ADDRESS></PERSON><PERSON ID="14525" ROLE="AUTHOR"><PREFIX>Mrs</PREFIX><FIRST_NAME>Montse</FIRST_NAME><LAST_NAME>Sacristan</LAST_NAME><EMAIL_1>msacristan@hsp.santpau.es</EMAIL_1><ADDRESS><DEPARTMENT>Iberoamerican Cochrane Centre</DEPARTMENT><ORGANISATION>Hospital de la Santa Creu i Sant Pau</ORGANISATION><ADDRESS_1>Casa de Convalescència</ADDRESS_1><ADDRESS_2>c/ Sant Antoni M Claret, 171</ADDRESS_2><CITY>Barcelona</CITY><ZIP>08041</ZIP><COUNTRY CODE="ES">Spain</COUNTRY><PHONE_1>+34 93 2919527</PHONE_1><FAX_1>+34 93 2919525</FAX_1></ADDRESS></PERSON><PERSON ID="14515" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Miquel</FIRST_NAME><LAST_NAME>Nogué</LAST_NAME><EMAIL_1>mnogue@hgv.es</EMAIL_1><ADDRESS><DEPARTMENT>Department of Oncology</DEPARTMENT><ORGANISATION>Corporació Parc Taulí</ORGANISATION><ADDRESS_1>Parc Taulí s/n</ADDRESS_1><CITY>Sabadell (Barcelona)</CITY><ZIP>08208</ZIP><COUNTRY CODE="ES">Spain</COUNTRY><PHONE_1>+34 93 7231010 ext: 50200</PHONE_1></ADDRESS></PERSON><PERSON ID="14508" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Ferran</FIRST_NAME><LAST_NAME>Losa</LAST_NAME><EMAIL_1>ferran.losa@sanitatintegral.org</EMAIL_1><ADDRESS><DEPARTMENT>Department of Medical Oncology</DEPARTMENT><ORGANISATION>Consorci Hospital de la Creu Roja de L'Hospitalet</ORGANISATION><ADDRESS_1>Avda. Josep Molins 29-41</ADDRESS_1><CITY>L'Hospitalet de Llobregat (Barcelona)</CITY><ZIP>08906</ZIP><COUNTRY CODE="ES">Spain</COUNTRY><PHONE_1>+34 93 4407500</PHONE_1><FAX_1>+34 93 3334543</FAX_1></ADDRESS></PERSON><PERSON ID="14514" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Jesús</FIRST_NAME><LAST_NAME>Montesinos</LAST_NAME><EMAIL_1>jmontesinos@cspt.es</EMAIL_1><ADDRESS><DEPARTMENT>Department of Oncology</DEPARTMENT><ORGANISATION>Corporació Parc Taulí</ORGANISATION><ADDRESS_1>Parc Taulí, s/n</ADDRESS_1><CITY>Sabadell (Barcelona)</CITY><ZIP>08208</ZIP><COUNTRY CODE="ES">Spain</COUNTRY><PHONE_1>+ 34 93 7231010 ext: 50200</PHONE_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-09-18 23:55:43 +0200" MODIFIED_BY="Karen Hovhannisyan" NOTES="&lt;p&gt;Minor update: 21/10/04&lt;/p&gt;" NOTES_MODIFIED="2008-09-18 23:55:43 +0200" NOTES_MODIFIED_BY="Karen Hovhannisyan">
+<UP_TO_DATE>
+<DATE DAY="31" MONTH="7" YEAR="2001"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="31" MONTH="7" YEAR="2001"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="31" MONTH="7" YEAR="2003"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2001"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2002"/>
+</DATES>
+<WHATS_NEW MODIFIED="2016-11-21 15:26:21 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2016-11-21 15:26:21 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="21" MONTH="11" YEAR="2016"/>
+<DESCRIPTION>
+<P>This review will soon be updated. Methods have changed since 2001. The authors will publish a new protocol in the coming weeks</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2016-11-21 15:22:35 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2016-11-21 15:22:35 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="13" MONTH="3" YEAR="2012"/>
+<DESCRIPTION>
+<P>Additional table linked to text</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-03-13 07:18:10 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="18" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="31" MONTH="7" YEAR="2001"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Hospital de la Santa Creu i Sant Pau. Barcelona</NAME>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Iberoamerican Cochrane Centre</NAME>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Instituto de Salud Carlos III (contract no. 10035), Ministry of Health</NAME>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2012-03-13 07:16:52 +0100" MODIFIED_BY="Karen Hovhannisyan">
+<SUMMARY MODIFIED="2008-09-18 23:54:54 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<TITLE MODIFIED="2008-09-18 23:54:54 +0200" MODIFIED_BY="Karen Hovhannisyan">Not enough evidence to give a second round of chemotherapy to patients with lung cancer in a poor state</TITLE>
+<SUMMARY_BODY>
+<P>Patients with lung cancer and a good physical condition who have not been cured by a first round of chemotherapy often receive a second round of chemotherapy (second-line). A second round of chemotherapy may not increase the survival chances of these patients and may make them feel worse because of bad side effects. This review has found only one study that compared the effects of a second round of chemotherapy with treatment showing no benefits for the patients, apart from keeping them comfortable. This study does not provide enough evidence to judge whether such treatment causes more benefits than harms and further larger studies are needed before firm conclusions can be drawn.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>The role of second-line chemotherapy for the treatment of patients with non-small cell lung cancer (NSCLC) who have relapsed or failed to respond to first-line treatment was unclear. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine the effectiveness of any second-line chemotherapy in patients with NSCLC.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>Medline (1966-July 2001), Embase (1974-July 2001), Cancerlit (1993-July) and tthe Cochrane Central Register of Controlled Trials (CENTRAL, issue 2 2001) were searched. In addition a handsearch was performed and experts in the field contacted to identify any further studies that had not been found by the electronic searches.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised controlled clinical trials in which any second-line chemotherapy was compared with placebo or best supportive care in patients with NSCLC who had failed to respond to any previous chemotherapy regimen.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Data were extracted by 2 independent authors and revised by a third author.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Only one study was included. This study included a total of 204 patients who were randomised to receive either doxetaxel or best supportive care. Following an unacceptably high toxic death rate the dose of doxetaxel was reduced from 100 mg/m² to 75 mg/m². Docetaxel gave an extra 2.4 months survival - an average of 7.0 months vs 4.6 months on best supportive care. At 1 year after diagnosis 29% of doxetaxel treated patients were alive compared with 19% of the best supportive care group.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Definitive recommendations cannot be made since evidence is only available from one randomised controlled trial which, though of reasonable quality had a number of limitations. There is currently no evidence to support second-line treatment of patients with poor performance status. Larger, well-designed controlled trials are needed to further evaluate whether the benefits of second-line chemotherapy to patients with non-small cell lung cancer outweigh its risks and costs.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2012-03-13 07:16:52 +0100" MODIFIED_BY="[Empty name]">
+<BACKGROUND>
+<P>Chemotherapy has been widely used for the treatment of non-small cell lung cancer (NSCLC). It is administered as a single agent or in combination with surgery or radiotherapy, either as radical or palliative treatment (<LINK REF="REF-Ginsberg-1997" TYPE="REFERENCE">Ginsberg 1997</LINK>). Although some survival benefits have been reported (<LINK REF="REF-NSCLCCG-1995" TYPE="REFERENCE">NSCLCCG 1995</LINK>; <LINK REF="REF-NSCLCCG-2001" TYPE="REFERENCE">NSCLCCG 2001</LINK>), the risk-benefit ratio for chemotherapy in lung cancer is rather narrow.</P>
+<P>It is therefore not surprising that there are uncertainties about the effectiveness of second-line chemotherapy administered either for clinical failure (i.e. recurrence or progression) or lack of response to previous treatment. Patients with unresponsive or progressive disease are usually in an advanced stage of a highly lethal disease. Furthermore, they may be suffering from serious toxicities as a consequence of treatment received, or have cross-resistance to the drugs already administered. However, despite these potential contraindications, second-line chemotherapy for lung cancer is often used in oncology, in some cases with reported apparent benefits (<LINK REF="REF-Rigas-1998" TYPE="REFERENCE">Rigas 1998</LINK>). The need for a systematic review to analyse the effectiveness of second-line chemotherapy administered for lung cancer was therefore identified. This review focuses exclusively on NSCLC because this is a clearly different biological and clinical entity from small cell lung cancer.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To determine the effectiveness of any form of second-line chemotherapy in patients with NSCLC.</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Randomised controlled trials (RCTs) or controlled clinical trials (CCTs) in patients with NSCLC, in which second-line chemotherapy is compared with placebo or conventional supportive care.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Patients of any age and stage with histologically proven NSCLC, who have received any course of previous chemotherapy for the same disease.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Any second-line chemotherapy (any single agent or combination of different drug treatments, at any dosage or number of cycles), regardless of whether previous chemotherapy had been given as adjuvant, neoadjuvant or primary treatment for limited or advanced disease. </P>
+<P>All studies where second-line chemotherapy was administered either for local or regional recurrence, metastasis or lack of response, were included. Any chemotherapy administered as "third-line", "fourth-line", etc&#8230; were also considered for inclusion. Although the need to conduct a separate subgroup analysis by the interval between chemotherapy treatments or response to previous courses of different chemotherapies was planned, in view of the lack of evidence this was not possible.</P>
+<P>Studies where second-line chemotherapy was exclusively justified for reasons of excessive toxicity due to an initial treatment and those where second-line chemotherapy was administered in combination with a second radiotherapy or surgical treatment, were excluded.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>The primary outcome was lung cancer mortality or mortality due to any cause, or survival. </P>
+<P>Other outcomes considered included:<BR/>a) Disease-free survival, measured in weeks<BR/>b) Quality of life (QOL) or functional status measures<BR/>c) Response rate (complete and/or partial)<BR/>d) Treatment-related toxic events</P>
+<P>The therapeutic response criteria usually followed in oncology settings are listed below:</P>
+<P>Complete response: total disappearance of all known disease, over a period of at least 4 weeks. <BR/>Partial response: in the case of bi-dimensionally measurable disease, reduction of at least 50% in the sum of the products of the greatest perpendicular diameters of all measurable lesions, determined through two observations not more than 4 weeks apart. In the case of uni-dimensionally measurable disease, reduction of at least 50% in the sum of the greatest diameters of all lesions, determined through two observations not more than 4 weeks apart.</P>
+<P>The WHO scale was used to measure toxicity whenever possible, taking into account any symptom or sign attributable to the treatment reported in the corresponding study.</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>Medline (1966-July 2001), Embase (1974-July 2001), Cancerlit (1993-July) and the Cochrane Central Register of Controlled Trials (CENTRAL, issue 2 2001) were searched to identify all published randomised clinical trials and controlled clinical trials that have assessed chemotherapy for NSCLC. In addition any unpublished randomised clinical trials that were identified were considered for inclusion.</P>
+<P>See: Collaborative Review Group Search Strategy.</P>
+<P>1. randomized controlled trial.pt. <BR/>2. controlled clinical trial.pt. <BR/>3. randomized controlled trials/<BR/>4. random allocation/<BR/>5. double blind method/<BR/>6. single blind method/<BR/>7. or/1-6 <BR/>8. clinical trial.pt. <BR/>9. exp clinical trials/ <BR/>10. (clin$ adj25 trial$).ti,ab. <BR/>11. ((singl$ or doubl$ or trebl$ or tripl$) adj25 (blind$ or mask$)).ti,ab. <BR/>12. placebos/ <BR/>13. placebo$.ti,ab. <BR/>14. Random$.ti,ab. <BR/>15. research design/ <BR/>16. or/8-15 <BR/>17. comparative study/ <BR/>18. exp evaluation studies/ <BR/>19. follow-up studies/ <BR/>20. prospective studies/ <BR/>21. (control$ or prospectiv$).ti,ab. or volunteer$.ti,ab.<BR/>22. or/17-21<BR/>23. 7 or 16 or 22 <BR/>24. limit 23 to human<BR/>25. exp lung neoplasms/ <BR/>26. ((lung$ or pulmon$) adj25 (neoplas$ or cancer or adenocarcinom$ or carcinom$ or sarcom$ or lymphom$ or carcino$ or tumor$ or tumour$ or blastom$. or squamous or oat cell or small cell)).ti,ab.<BR/>27. exp carcinoma, non-small cell lung/ or exp carcinoma, small cell/ <BR/>28. exp pneumonectomy <BR/>29. pneumonectom$.ti,ab,sh. <BR/>30. or/25-30 <BR/>31. 24 and 30 </P>
+<P>This search strategy in each of the above mentioned databases was complemented with other terms in order to focus the results on second-line chemotherapy for non-small cell lung cancer trials:</P>
+<P>second-line chemotherapy<BR/>or <BR/>rescue chemotherapy<BR/>failed chemotherapy<BR/>relapsed non-small cell lung cancer<BR/>or recurrent non-small cell lung cancer<BR/>or progressive non-small cell lung cancer<BR/>or resistant non-small cell lung cancer</P>
+<P>2. Identification of further studies from references of identified trials or reviews</P>
+<P>3. Colleagues, collaborators and other experts in the field were asked to identify missing and unreported trials</P>
+<P>4. Other: The abstracts of the 9th World Conference on Lung Cancer (Tokyo, 2000) and 7th Central European Lung Cancer Conference (Prague, 2001) were also reviewed.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>All RCTs and CCTS were assessed for inclusion independently by 2 authors. Data were extracted from the included studies (those that fulfilled the inclusion criteria) using a specific methodology and previously tested form. Methodological quality was assessed according to Cochrane Collaboration handbook guidelines and using the CONSORT Statement as a basis (Begg 1996). No formal scoring system was adopted. The trial that met the selection criteria was registered using ProCite. The data were extracted by 2 authors independently to ensure validity and discrepancies were resolved by a third author. </P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2012-03-13 07:16:52 +0100" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2012-03-13 07:16:52 +0100" MODIFIED_BY="[Empty name]">
+<P>A total of 151 potentially eligible trials were identified by the literature searches. All except one (Shepherd 2000) were found to be ineligible. The great majority of these studies were phase II studies without a control group and others did not include a comparison of a second-line chemotherapy with the best supportive care (BSC) or a chemotherapeutic regimen administered as a real second option. The exclusion details for each study are presented in the <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>. This review therefore focuses on the trial by Shepherd et al (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>).</P>
+<P>The Shepherd trial (Shepherd 2000) which included a total of 204 eligible patients, was published in 2000, although the inclusion period lasted 4 years (November 1994 to December 1998). Thirty-five centres from different countries contributed to the study: USA , Canada, Finland, United Kingdom, Poland, Hungary, Puerto Rico and Sweden.</P>
+<P>The inclusion criteria of the trial were: prior treatment with one or more platinum-containing chemotherapy regimen; unresectable locally advanced or metastatic NSCLC; lesions that were both measurable and evaluable; performance status of 2 or lower on the ECOG (Eastern Cooperation Oncology Group) scale; adequate haematological, serum creatinine, bilirubin and hepatic enzyme (except alkaline phosphatase) parameters; patients may have received prior radiotherapy, but should not have been previously treated with taxanes; appropriate time interval between ending the last therapy and entering the study. Patients were excluded if they had received prior paclitaxel or if they had symptomatic brain metastases.</P>
+<P>Docetaxel 100 mg/m² every 21 days was the planned intervention compared with BSC, but only 47% of the eligible patients received that dose, because a high toxic death rate was identified in the chemotherapy arm. The protocol was amended to reduce the dose of docetaxel from 100 mg/m² to 75 mg/m² for the second half of the trial and dose adjustments were made as appropriate to reduce toxicity. Treatment was continued until disease progression or unacceptable toxicity. BSC was defined as any appropriate therapy (including radiotherapy) that did not include chemotherapy.</P>
+<P>The primary end point of the study was survival and secondary outcomes included objective tumour response, duration of response and QOL measures. Analysis was performed on an intention-to-treat basis. Survival time was censured for loss of contact or initiation of any further anti-tumour therapy.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>Randomisation<BR/>The study by Shepherd et al. (Shepherd 2000) was a randomised controlled trial, which has been reported as an oral communication (<LINK REF="STD-Shepherd-2000" TYPE="STUDY">Shepherd 2000</LINK>), original article (<LINK REF="STD-Shepherd-2000" TYPE="STUDY">Shepherd 2000</LINK>) and as a part of a review (<LINK REF="REF-Shepherd-2001" TYPE="REFERENCE">Shepherd 2001</LINK>). No information is provided in the article about the randomisation or concealment methods that were followed, but the baseline characteristics of patients in the chemotherapy and the BSC arms were very similar.</P>
+<P>Study design and sample size<BR/>The sample size was calculated to detect a 3-month difference in median survival (the primary outcome) between the treatment and control groups. Although eligible patients were stratified on the basis of their performance status (0-1 vs 2) measured by the ECOG scale and on their best response to previous platinum-based treatment, the sample size was too small to allow analysis by these subgroups. </P>
+<P>Although it is reported that the time interval from last chemotherapy treatment among responders varied between 1 and 21 months there is no information on whether or how this interval varied among the rest of the included patients. </P>
+<P>Quality of life measurement<BR/>All patients were asked to complete quality of life (QOL) questionnaires but although p values are given for differences in favour of docetaxel-treated patients with respect to pain and fatigue, detailed results, planned for subsequent publication, were not available for this review.</P>
+<P>Authors have been contacted to clarify details on the QOL aspects and these will be incorporated in the next update of this review.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>Results of this review are based only on the 204 patients included in the Shepherd trial. All patients except one (subsequently excluded) had confirmed NSCLC. The remaining 203 were randomised into 2 groups: 103 into the docetaxel arm (48 receiving 100 mg/m² every 21 days and 55 receiving 75 mg/m² also every 21 days) and 100 into the BSC group.</P>
+<P>The median age of patients was 61 years for both groups and in both groups a third of patients were women. Eighty-one per cent (81%) in the BSC group had stage IV disease, compared with 76% in the chemotherapy group. About 74% in both groups had 0-1 scores on the ECOG scale. About 75% of patients in both groups had received only one prior regimen and 37% of the BSC and 33.7% of the CT groups had had a partial or a complete response to previous CT treatments.</P>
+<P>Survival<BR/>The median survival was 7 months (CI: 5.5 to 9 months) in the chemotherapy group compared with 4.6 months (CI: 3.7 to 6 months) in the BSC group. When the results of the chemotherapy group were analysed separately for the different doses (100 mg/m² and 75 mg/m² ), the median survivals were 5.9 (CI:not available) and 7.5 months (CI:not available), respectively. The percentage of survivors at one year was 29% for the chemotherapy group (19% for the 100 mg/m² subgroup and 37% for the 75 mg/m² subgroup) and 19% for the BSC group. Nine patients received chemotherapy after the initial second-line chemotherapy (3 in the chemotherapy arm and 6 in the BSC arm) and were included in their respective groups for analysis.</P>
+<P>The differences found in median survival were not statistically significant, since the 95 % CI for both groups overlapped slightly. The number needed to treat (NNT) was 9.9 (calculated as part of this review), that is -10 patients need to be treated with second-line chemotherapy in order for one patient to survive for one year. The CI for the NNT ranges from 5 patients being harmed to 59 benefitting). </P>
+<P>Response<BR/>Almost six per cent (5.8%) of patients on chemotherapy achieved a partial response and none (0%) a complete response. The overall duration of that response (for 84 patients with a measurable lesion) was 26.1 weeks.</P>
+<P>Toxicity<BR/>Six patients died within 30 days of receiving chemotherapy (5 in the high-dose and 1 in the low docetaxel dose group) from causes other than progressive disease: fatal neutropenia and/or pneumonia. For the 49 patients treated at the 100 mg/m² dose, the median number of cycles was two (range 1 to 17) and only 68% of cycles could be delivered at the initial planned dose. The patients treated with docetaxel 75 mg/m² received a median of 4 cycles. Haematological toxicities included a grade 3 or 4 neutropenia, suffered by 76% patients in the doxetaxel group overall (86% and 67% for the 100 mg/m² and 75 mg/m² doses respectively), and febrile neutropenia suffered by 22.4% (n=11) of those receiving the higher dose, compared with only 1.8% (n=1) of those on the lower dose. Grade 3 or 4 anaemia also occurred more frequently in the higher dose group than in the lower dose group (16.3% vs 5.5%, 10.6% overall) and thrombocytopenia occurred in less than 1% of all chemotherapy cycles. Non-haematological toxicities were also reported for the chemotherapy patients and compared with BSC patients. For these toxicities the most striking differences between the two chemotherapy subgroups (100 and 75 mg/m² , respectively) were: asthenia (61.2 and 54.5%), diarrhoea (30.6 and 36.4%), fever (36.7 and 61.8%), infection (36.7 and 30.9%), nausea (34.7 and 36.4%), neuromotor change (16.3 and 14.5%), neurosensory change (26.5 and 20%), pulmonary toxicity (53.1 and 38.2%), stomatitis (26.5 and 25.5%) and vomiting (26.5 and 23.6%). When only grade 3/4 toxicities were taken into account, the percentages were much lower and closer (although always higher) to that recorded in the BSC group.</P>
+<P>Quality of life<BR/>A full report on the quality of life (QOL) assessments from the Shepherd trial are to be published in another article.The QOL data reported in this article (Shepherd 2000) have therefore not been considered for this review as their exhaustiveness and validity have not been clarified.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>Virtually all patients with NSCLC who respond to initial treatment will eventually relapse. Some of these patients have had a relatively long disease-free interval and have a good performance status at the time of relapse. Patients who relapse at an earlier stage or who do not respond to induction treatment are considered refractory to first-line chemotherapy and therefore have a high probability of also being resistant to second-line treatment.</P>
+<P>In spite of having a very poor prognosis, many patients are unwilling to accept BSC only, and although they may have already suffered severe toxicity from treatment, they or their relatives often demand further active intervention. Medical professionals are also sometimes equally reluctant to opt for a merely supportive strategy and prefer to offer their patients at least some therapeutic option. As a result many patients are given second-line chemotherapy even though its clinical effectiveness is unclear. </P>
+<P>Non-small cell lung cancer is nevertheless a lethal condition with an extremely poor outlook once first-line treatment has failed. Health care providers need to make resource allocation decisions based on an evaluation of the relative benefits and costs of treating patients in the advanced stages of this disease. A recent report for the UK National Institute of Clinical Excellence (<LINK REF="REF-NICE-2001" TYPE="REFERENCE">NICE 2001</LINK>) found that the use of docetaxel as second-line treatment gave an incremental cost per life year gained of 14,098 pounds compared with BSC. The costs per life saved in treating patients with relapsed NSCLC need to be set not only against those of treating patients with other cancers but also against the range of competing priorities faced by a health care system with limited resources. Since these decisions may have serious implications in terms of both the length and quality of people's lives, it is imperative that they are informed by data of the best possible quality. </P>
+<P>There are more than one million new cases of lung cancer each year and 5-year survival for NSCLC has been estimated as being only 12%. Furthermore a systematic review (NSCLCCG 1995) found that the benefits of first-line chemotherapy are at best modest . Given that the incidence of progression in this common disease is high, that second-line treatment is frequently undertaken for clinical reasons but with scant supporting evidence, and that there is increasing competition for scarce health care resources, there is an urgent need for quality data on the effectiveness of second-line treatment options for this disease. </P>
+<P>We undertook an extensive search of electronic databases, and by way of handsearches and contacts with experts in the field identifed unpublished trials. Although 151 potentially eligible trials were identified, only one trial (Shepherd 2000) fulfilled the inclusion criteria. This paucity of trials was surprising: only two phase III trials were identified, of which one (<LINK REF="STD-Fosella-2000" TYPE="STUDY">Fosella 2000</LINK>), was excluded from this review because it compared active agents (docetaxel vs vinorelbine or ifosfamide) and did not include a control group which only received BSC.</P>
+<P>The Shepherd study thus appears to be the only existing RCT that examines the effectiveness of second-line chemotherapy compared with BSC only. Although a range chemotherapeutic drugs have been assessed in phase II studies, docetaxel is the only agent that has been studied in phase III trials of second-line treatment of NSCLC. The Shepherd trial is an international, randomised controlled trial with a low recruitment rate (50 patients per year over the 4 year period), although 35 centres in different countries participated. The trial has an acceptable level of quality, although some minor limitations were detected in the article: although the treatment and best supportive groups were well balanced, no details were provided about the method of randomisation or of allocation concealment; the analysis was done on an intention-to-treat basis, but insufficient information was provided about losses; the sample size (about 200 patients) was relatively small and prevented any subgroup analysis; the results of the quality of life questionnaires are still not available; there are some minor discrepancies between the figures appearing in the two references where the trial is reported (<LINK REF="STD-Shepherd-2000" TYPE="STUDY">Shepherd 2000</LINK>; <LINK REF="REF-Shepherd-2001" TYPE="REFERENCE">Shepherd 2001</LINK> ) which need further clarification; and although there is no declaration of conflict of interests given in the original article, one of the authors is from a pharmaceutical company (Rhône-Poulenc Rover). We have contacted the authors of the study to clarify these points and will update this review accordingly.</P>
+<P>The sample size in this trial was calculated to detect a 3-month difference in median survival between patients in the treatment and control groups - the primary outcome, but not to compare results within groups defined by performance status and previous response to therapy. The difference in median survival found in the study was only 2.4 months and did not achieve statistical significance. With respect to 1-year survival, the percentage of survivors in the group receiving docetaxel (29 %) was greater than in the control group (19 %). Although these differences did not reach statistical significance, they may be important from a clinical point of view. Ten patients need to be treated (NNT) in order for one to survive for one year, although all of them are exposed to a wide range of chemotherapy toxicities and some will be severe.</P>
+<P>A judgement of the effectiveness of docetaxel from the Shepherd study must be made by considering all the patients together, irrespective of whether the dose received was that originally planned (100mg/m² ), or the dose amended in the light of high toxicity levels (75 mg/m² ). Although it is possible to estimate the different effects of each dose, definitive conclusions are precluded because of the consequent reduction in sample size. Given these constraints, the benefits of docetaxel therapy at 75 mg/m² appear to outweigh the risks. Compared with BSC, docetaxel (75 mg/m² ) gave an extra 3 months survival - a median of 7.5 months vs 4.6 months. At 1 year after diagnosis, 37 % of the docetaxel treated patients were alive compared with 19% of the BSC group. When used at 100 mg/m² , docetaxel obtained poorer results (median survival of 5.9 months and 1-year survival of 19%), probably because of high toxicity.</P>
+<P>A balanced assessment of the impact of docetaxel on patients' quality of life must await publication of the full results of the quality of life assessment. Docetaxel was also found to reduce the need for opiate analgesia (32% of docetaxel patients vs 49% BSC) and palliative radiotherapy (26% vs 37%). </P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>It is difficult to draw definitive conclusions or make recommendations for treatment on the basis of findings from only one trial. Nevertheless NSCLC patients at advanced stages of disease who have failed to respond to previous platinum-based chemotherapy or who have relapsed after a disease-free period, and who have good performance status, could be offered the possibility of receiving second-line chemotherapy treatment with docetaxel at 75 mg/m² every 21 days. This should be on the understanding that the potential survival gain would be very modest and that toxicity, though only severe in a minority of patients, occurs frequently. No complete information is available on the effect of such a treatment option on the patient's quality of life. </P>
+<P>It is crucial that affected patients and involved doctors understand the potential benefits and risks of docetaxel as a second-line treatment in order to make well-informed decisions and they should be aware that current evidence only applies to patients with good performance status. There is currently no evidence to support the use of second-line chemotherapy in patients with a poor performance status or symptomatic brain metastases.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>In order to inform pressing and difficult clinical and resource management decisions, there is an urgent need for high quality, randomised trials which include patients clearly categorised by baseline characteristics, pretreatment variables, response to first-line therapy, type of first-line therapy and time intervals between the last chemotherapy course, disease recurrence and commencement of second-line therapy. In this way second-line treatment options can be tested for the optimal dose and administration pattern required to achieve the best possible outcomes with the least possible toxicity. </P>
+<P>Determination of the factors predictive of good response to second-line chemotherapy would allow a more balanced trade-off between the short and medium-term benefits and risks of docetaxel. Additional trials comparing docetaxel (75 mg/m²) with BSC are necessary in order to confirm the promising results of Shepherd's trial and to analyse the cost-effectiveness of these alternatives in more detail than is currently available.</P>
+<P>Finally, if other drugs or combinations are to be compared in RCTs, a docetaxel group receving 75 mg/m² every 21 days should be the referent control group.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>Many thanks to Dr Elinor Thompson for the great help provided in editing the document and to the peer reviewers of a previous version for their helpful comments.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>MS, XB, FL and CS participated in the identificaction and selection of studies. Data extraction was carried by XB, MS, MN, FL and JM. XB and CS edited the text of the review and the rest of authors made additional comments.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2016-11-21 14:29:51 +0000" MODIFIED_BY="Corynne Marchal">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shepherd-2000" NAME="Shepherd 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shepherd F, Dancey J, Ramlau R, Mattson K, Gralla R, Kim Y, Berille J</AU>
+<TI>A prospective randomised trial of Taxotere versus best supportive care (BSC) in patients with non-small cell lung cancer (NSCLC) previously treated with platinum-based chemotherapy: Survival update</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>29</VL>
+<NO>Suppl. 1</NO>
+<PG>60</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456203"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Shepherd FA, Dancey J, Ramlau R, Mattson K, Gralla R, O'Rourke, Levitan N, Gressot L, Vincent M, Burkes R, Coughlin S, Kim Y, Berille J</AU>
+<TI>Prospective randomized trial of docetaxel versus best supportive care in patients with non-small-cell lung cancer previously treated with platinum-based chemotherapy</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>2000</YR>
+<VL>18</VL>
+<PG>2095-2103</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456204"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456202"/></IDENTIFIERS>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Adonizio-2001" NAME="Adonizio 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Adonizio C, Langer CJ, Huang C, Maiale C, Donahue J, Millenson M, Somer R, Hosford M, Babb J, Treat J</AU>
+<TI>Temozolomide in the treatment of advanced NSCKC: phase II evaluation in previously treated patients</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 1375)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456206"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456205"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Agelaki-2001" NAME="Agelaki 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Agelaki S, Bania H, Kouroussis C, Blazoyiannakis G, Souglakos J, Tsiafaki X, Harpidou A, Kalbakis K, Rapti A, AndroulakisN, Sarra E, Georgoulias V, PapadakisE</AU>
+<TI>Vinorelbine-based regimens as salvage treatment in patients with advanced non-small cell lung cancer: two parallel multicenter phase II trials</TI>
+<SO>Oncology</SO>
+<YR>2001</YR>
+<VL>60</VL>
+<NO>3</NO>
+<PG>235-241</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456208"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456207"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Alexopoulos-1999" NAME="Alexopoulos 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Alexopoulos K, Kouroussis C, Androulakis N, et al</AU>
+<TI>Docetaxel and granulocyte colony-stimulating factor in patients with advanced non-small cell lung cance previously treated with platinum-based chemotherapy: a multicenter phase II trial</TI>
+<SO>Cancer Chemotherapy and Pharmacology</SO>
+<YR>1999</YR>
+<VL>43</VL>
+<NO>3</NO>
+<PG>257-262</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456210"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456209"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anderson-2000" NAME="Anderson 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Anderson H, Hopwood P, Stephens RJ, Thatcher N, Cottier B, Nicholson M, Milroy R, Maughan TS, Falk SJ, Bond MG, Burt PA, Connolly CK, McIllmurray MB, Carmichael J</AU>
+<TI>Gemcitabine plus best supportive care (BSC) vs BSC in inoperable non-small cell lung cancer--a randomized trial with quality of life as the primary outcome. UK NSCLC Gemcitabine Group. Non-Small Cell Lung Cancer</TI>
+<SO>British Journal of Cancer</SO>
+<YR>2000</YR>
+<VL>83</VL>
+<NO>4</NO>
+<PG>447-453</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456212"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456211"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Androulakis-1999_x002d_DG" NAME="Androulakis 1999-DG" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Androulakis N, Papadakis E, Bania E, et al</AU>
+<TI>Second line treatment with docetaxel (D) and gemcitabine (G) in patients with advanced non-small cell lung cancer (NSCLC): a multicentre phase II trial</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>494a (abstr 1907)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456214"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456213"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Androulakis-1999_x002d_PG" NAME="Androulakis 1999-PG" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Androulakis N, Kouroussis C, Kakolyris S</AU>
+<TI>Salvage treatment with paclitaxel and gemcitabine for patients with non-small cell lung cancer after cisplatin or docetaxel based chemotherapy: a multicenter phase II study</TI>
+<SO>Annals of Oncology</SO>
+<YR>1999</YR>
+<VL>9</VL>
+<NO>10</NO>
+<PG>1127-1130</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456216"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456215"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Baas-1999" NAME="Baas 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Baas P, Codrington H, Muller M, et al</AU>
+<TI>Second line gemcitabine (GEM) therapy in non-small-cell lung cancer (NSCLC) stage IIIB and IV</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>495a (abstr 1911)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456218"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456217"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Barr-1999" NAME="Barr 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Barr F, Mirsky H, Clinthorne D, et al</AU>
+<TI>A phase II study of gemcitabine and vinorelbine salvage chemotherapy for taxane resistant non-small cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>496a (abstr 1914)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456220"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456219"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bervar-1994" NAME="Bervar 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Bervar JF, Durieu J, Brichet A, et al</AU>
+<TI>MIC (mitomycin C, ifosfamide, cisplatin) as a second line treatment for non small cell lung carcinomas</TI>
+<SO>Annals of Oncology</SO>
+<YR>1992</YR>
+<VL>5, Suppl 8</VL>
+<PG>152</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456222"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456221"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Biesma-1999" NAME="Biesma 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Biesma B, Smith EF, Postmus PE</AU>
+<TI>A dose and schedule finding study of gemcitabine and etoposide in patients with progressive non-small cell lung cancer after platinum containing chemotherapy</TI>
+<SO>Lung Cancer</SO>
+<YR>1999</YR>
+<VL>24</VL>
+<PG>115-121</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456224"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456223"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bonomi-1989" NAME="Bonomi 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bonomi PD, Finkelstein DM, Ruckdeschel JC, et al</AU>
+<TI>Combination chemotherapy versus single agents followed by combination chemotherapy in stage IV non-small-cell lung cancer: a study of the Eastern Cooperative Oncology Group</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>1989</YR>
+<VL>7</VL>
+<PG>1602-1613</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456226"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456225"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Buccheri--1989" NAME="Buccheri  1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Buccheri GF, Ferrigno D, Curcio A, Vola F, Rosso A</AU>
+<TI>Continuation of chemotherapy versus suppportive care alone in patients with inoperable non-small cell lung cancer and stable disease after two or three cycles of MACC. Results of a randomized prospective study</TI>
+<SO>Cancer</SO>
+<YR>1989</YR>
+<VL>63</VL>
+<NO>3</NO>
+<PG>428-432</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456228"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456227"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Burris-1993" NAME="Burris 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Burris H, Eckhardt J, Fields S</AU>
+<TI>Phase II of taxotere in patients with non-small cel lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1993</YR>
+<VL>12</VL>
+<PG>335a (abstr 1116)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456230"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456229"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Camps-2000" NAME="Camps 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Camps C, Martinez EN, Jaime AB</AU>
+<TI>Second-line treatment with gemcitabine and vinorelbine in non-small-cell lung cancer (NSCLC) cisplatin failures: a pilot study</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>27</VL>
+<NO>1</NO>
+<PG>47-53</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456232"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456231"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Carreca-2000" NAME="Carreca 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Carreca IU, Mangiameli A, Dispenza J, Agueli R, Cucciarrè S</AU>
+<TI>Gemcitabine (GEM) and docetaxel (DTX) as second line therapy of non-small cell lung cancer (NSCLC). A pilot study</TI>
+<SO>Annals of Oncology</SO>
+<YR>2000</YR>
+<VL>11(Suppl 4)</VL>
+<PG>114 (abstr 519)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456234"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456233"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cartei-1993" NAME="Cartei 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cartei G, Cartei F, Cantone A, Causarano D, Genco G, Tobaldin A, Interlandi G, Girardi T</AU>
+<TI>Cisplatin-cyclophosphamide-mitomycin combination chemotherapy with supportive care versus supportive care alone for treatment of metastatic non-small-cell lung cancer</TI>
+<SO>Journal of the National Cancer Institute</SO>
+<YR>1993</YR>
+<VL>85</VL>
+<NO>10</NO>
+<PG>794-800</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456236"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456235"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cassano-1998" NAME="Cassano 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Cassano A, Corsi DC, Pozzo C, et al</AU>
+<TI>Gemcitabine as rescue treatment of advanced non-small cell lung cancer: effect on brain metastasis</TI>
+<SO>Annals of Oncology</SO>
+<YR>1998</YR>
+<VL>9 (Suppl 2)</VL>
+<PG>163</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456238"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456237"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cellerino-1991" NAME="Cellerino 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cellerino R, Tummarello D, Guidi F, Isidori P, Rapugli M, Biscottini B, Fatati G</AU>
+<TI>A randomized trial of alternating chemotherapy versus best supportive care in advanced non-small-cell lung cancer</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>1991</YR>
+<VL>9</VL>
+<NO>8</NO>
+<PG>1453-1461</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456240"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456239"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chang-1996" NAME="Chang 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chang AY, DeVore R, Johnson D</AU>
+<TI>Pilot study of vinorelbine (navelbine) and paclitaxel in patients with refractory non-small cell lung cancer</TI>
+<SO>Seminars in Oncology</SO>
+<YR>1996</YR>
+<VL>23</VL>
+<PG>19-21</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456242"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456241"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cole-1999" NAME="Cole 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Cole J, Rinaldi D, Lormand N, Rainey J, Brierre J, Barnes B, Fontenot F, Buller E, Mills G, Yadlapati S</AU>
+<TI>A phase II trial of topotecan (TOP) and Gemcitabine (GEM) for second line treatment of advanced non-small cell lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2707)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456244"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Cole JL, Rinaldi DA, Lormand NA, et al</AU>
+<TI>A phase I-II trial of topotecan (TOP) and gemcitabine (GEM) for patients with previously treated, advanced non-small cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>499a (abstr 1927)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456245"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456243"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cormier-1982" NAME="Cormier 1982" YEAR="1982">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cormier Y, Bergeron D, La Forge J, Lavandier M, Fournier M, Chenard J, Desmeules M</AU>
+<TI>Benefits of polychemotherapy in advanced non-small-cell bronchogenic carcinoma</TI>
+<SO>Cancer</SO>
+<YR>1982</YR>
+<VL>50</VL>
+<NO>5</NO>
+<PG>845-849</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456247"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456246"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Crawford-2001" NAME="Crawford 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Crawford J, Garst J, Kelley M, Balcwell S, Campagna L, Padilla K, Herndon J, Johnston E</AU>
+<TI>Phase II trial of weekly docetaxel and vinorelbine in patients with relapsed non-samll cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2730)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456249"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456248"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Crin_x00f3_-1999" NAME="Crinó 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Crinó L, Mosconi AM, Scagliotti FB, et al</AU>
+<TI>Gemcitabine as second-line treatment for relapsing or refractory advanced non-small cell lung cancer: a phase II trial</TI>
+<SO>Seminars in Oncology</SO>
+<YR>1998</YR>
+<VL>25</VL>
+<NO>Suppl 9</NO>
+<PG>23-26</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456251"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Crinó L, Mosconi AM, Scagliotti GV, et al</AU>
+<TI>Gemcitabine as second-line treatment for advanced non-small cell lung cancer: a phase II trial</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>1999</YR>
+<VL>17</VL>
+<PG>2081-2085</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456252"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456250"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dansin-1992" NAME="Dansin 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Dansin C, Airoma G, Incoronato P, et al</AU>
+<TI>Mitomycine, ifosfamide, cisplatin (MIC) as second line regimen in advanced non small celll lung cancer</TI>
+<SO>Annals of Oncology</SO>
+<YR>1992</YR>
+<VL>3 (Suppl 5)</VL>
+<PG>136</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456254"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456253"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-De-Pas-2001" NAME="De Pas 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>De Pas T, De Braud F, Mandala M, Curigliano G, Catania C, Ferretti G, Sozzi P, Solli P, Goldhirsch A</AU>
+<TI>Cisplatin and vinorelbine as second-line chemotherapy in patients with advanced non-small cell lung cancer (NSCLC) resistant to taxol plus gemcitabine</TI>
+<SO>Lung Cancer</SO>
+<YR>2001</YR>
+<VL>31</VL>
+<NO>2-3</NO>
+<PG>267-270</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456256"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456255"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-DiNunno-2000" NAME="DiNunno 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>DiNunno L, Bonomi P, Nabrinski S, Stewart I, LaFollette S, Rus Cancer Institute</AU>
+<TI>Results of a phase II study of gemcitabine (GEM) as second line therpay in advanced non small cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2000</YR>
+<VL>19 (abstr 2009)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456258"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456257"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dongiovanni-2001" NAME="Dongiovanni 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Dongiovanni V, Buffoni L, Occelli M, Dongiovanni D, Parello G, Ciuffreda L, Bertettto O</AU>
+<TI>Weekly paclitaxel and gemcitabine as second line chemotherapy in non small cell lung cancer (NSCLC): a phase II study</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2794)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456260"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456259"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dowell-2001" NAME="Dowell 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dowell JE, Johnson DH, Rogers JS, Shyr Y, McCullough N, Krozely P, DeVore RF Dowell JE. Johnson DH. Rogers JS. Shyr Y. McCullough N. Krozely P. DeVore RF</AU>
+<TI>A phase II trial of 6-hydroxymethylacylfulvene (MGI-114, irofulven) in patients with advanced non-small cell cancer previously treated with chemotherapy</TI>
+<SO>Investigational New Drugs</SO>
+<YR>2001</YR>
+<VL>19</VL>
+<NO>1</NO>
+<PG>85-88</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456262"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456261"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Estap_x00e9_-1992" NAME="Estapé 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Estapé J, Palombo H, Sanchez-Lloret J, et al</AU>
+<TI>Chronic oral etoposide in non-small cell lung carcinoma</TI>
+<SO>European Journal of Cancer</SO>
+<YR>1992</YR>
+<VL>28A</VL>
+<PG>835-837</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456264"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456263"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fidias-2001" NAME="Fidias 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Fidias P, Supko J, Boral A, Johnson B, Carey R, Skarin A, Shapiro G, Deloney P, Lucca J, Lynch T</AU>
+<TI>A phase II and pharmacokinetic study of RFS-2000 (9-Nitrocamptothecin) in patients with refractory or relapsed non-small cell lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2839)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456266"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456265"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fosella-2000" NAME="Fosella 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fossella FV, DeVore R, Kerr RN, Crawford J, Natale RR, Dunphy F, Kalman L, Miller V, Lee JS, Moore M, Gandara D, Karp D, Vokes E, Kris M, Kim Y, Gamza F, Hammershaimb L and the TAX 320 Non-Small-Cell Lung Cancer Study Group</AU>
+<TI>Randomized phase III Trial of docetaxel versus vinorelbine or ifosfamide in patients with advanced non-small-cell lung cancer previously treated with platinum-containing chemotherapy regimens</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>2000</YR>
+<VL>18</VL>
+<NO>12</NO>
+<PG>2354-2362</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456268"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456267"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fossella-1995" NAME="Fossella 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fossella FV, Lee JS, Shin DM</AU>
+<TI>Phase II study of docetaxel for advanced or metastatic platinum refractory non-small cell lung cancer</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>1995</YR>
+<VL>13</VL>
+<PG>645-651</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456270"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456269"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fuks-1983" NAME="Fuks 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fuks JZ, Egorin MJ, Aisner J, Van Echo Da, Ostrow S, Bachur NR, Wiernik PH</AU>
+<TI>Therapeutic efficacy and pharmacokinetics of vindesine and vindesine-cisplatin in previously treated patients with non-small cell lung carcinoma</TI>
+<SO>Cancer Chemotherapy and Pharmacology</SO>
+<YR>1983</YR>
+<VL>10</VL>
+<NO>2</NO>
+<PG>104-108</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456272"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456271"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Furnas-1982" NAME="Furnas 1982" YEAR="1982">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Furnas BE, Williams SD, Einhorn LH, et al</AU>
+<TI>Vindesine: an effective agent in the treatment of non-small cell lung cancer</TI>
+<SO>Cancer Treatment Reports</SO>
+<YR>1982</YR>
+<VL>66</VL>
+<PG>1709-1711</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456274"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456273"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gandara-2000" NAME="Gandara 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Carbone D, Karp D, Belani C. Gandara Dr, Vikes E, Green M, Bonomi P, Devore R, Comis R</AU>
+<TI>Activity of docetaxel in platinum-treated non-small-cell lung cancer: results of a phase II multicenter trial</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>2000</YR>
+<VL>18</VL>
+<NO>1</NO>
+<PG>131-135</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456276"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456275"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ganz-1989" NAME="Ganz 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ganz PA, Figlin Ra, Haskell CM, La Soto N, Siau J</AU>
+<TI>Supportive care versus supportive care and combination chemotherapy in metastatic non-small cell lung cancer. Does chemotherapy make a difference?</TI>
+<SO>Cancer</SO>
+<YR>1989</YR>
+<VL>63</VL>
+<NO>7</NO>
+<PG>1271-1278</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456278"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456277"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Garc_x00ed_a_x002d_L_x00f3_pez-2000" NAME="García-López 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>García-López, JL, Dómine M, Garrido P, León A, Crespo C, Lastra E, Pedraza M, Reina M, González AJ, Garijo B, Lobo F, Moyano AJ</AU>
+<TI>Early phase II of docetaxel in second line of advanced non small cell lung cancer (NSCLC): preliminary results</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2000</YR>
+<VL>19 (abstr 2113)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456280"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456279"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Garfield-1998" NAME="Garfield 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="BOOK_SECTION">
+<AU>Garfield DH, Dakhil SR, Whittaker TL, et al</AU>
+<TI>Phase II randomized multicenter trial of two dose schedules of gemcitabine as second-line therapy in patients with advanced non-small cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1998</YR>
+<VL>17</VL>
+<PG>484a (abstr 1863)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456282"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456281"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Georgoulias-1997" NAME="Georgoulias 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Georgoulias V, Kouroussis C, Kalolyris K, et al</AU>
+<TI>Second-line treatment of advanced non-small cell lung cancer with paclitaxel and gemcitabine: a preliminary report on an active regimen</TI>
+<SO>Seminars in Oncology</SO>
+<YR>1997</YR>
+<VL>24</VL>
+<NO>Suppl 12</NO>
+<PG>61-66</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456284"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456283"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gervais-2000" NAME="Gervais 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Gervais R, Douillard Jy, Lacroix H, Le Groumellec A, Spaeth D, D´Arlhac M, Clary C, Caillaud D, Coudert B, Maury B, Monnier A, Mornet M</AU>
+<TI>Preliminary results of a randomized study on first and second line chemotherapy strategy in stage IV non-small cell lung cancer (Nclc) assessing docetaxel (D) and cisplatin (C) until progressive disease (Pd) then vinorelbine (V) versus V-C until Pd then</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18 (abstr 1950)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456286"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456285"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Giaccone-1990" NAME="Giaccone 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Giaccone G, Donadio M, Bonardi G, et al</AU>
+<TI>4´-EPI-doxorubicin in advanced lung cancer: a phase II trial</TI>
+<SO>Investigational New Drugs</SO>
+<YR>1990</YR>
+<VL>8</VL>
+<PG>393-396</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456288"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456287"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gian-1999" NAME="Gian 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Gian V, Hainsworth JD, Burris HA, et al</AU>
+<TI>Combination gemcitabine and vinorelbine in the second-line tretment of non-small cell lung cancer (NSCLC): a phase II study of the Minnie Pearl Cancer Research Network</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>505a (abstr 1949)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456290"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456289"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gomez-2001" NAME="Gomez 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>García R, Pérez P, Alfonso R, Pérez-Manga G, Díaz-Rubio E</AU>
+<TI>Weekly docetaxel as a second-line treatment for advanced non-small cell lung cancer (NSCLC)</TI>
+<SO>Annals of Oncology</SO>
+<YR>2000</YR>
+<VL>11 (Suppl 4)</VL>
+<PG>116 (abstr 528P)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456292"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Gomez RG, Perez-Segura P, Mendez M, Perez-Manga G, Quiben R, Diaz-Rubio E</AU>
+<TI>A phase II study of weekly docetaxel in previously treated patients with non-small-cell lung cancer (NSCLC)</TI>
+<SO>Proc Ame Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2818)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456293"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456291"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gralla-1979" NAME="Gralla 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gralla RJ, Raphael BG, Golbey RB, et al</AU>
+<TI>Phase II evaluation of vindesine in patients with non-small cell carcinoma of the lung</TI>
+<SO>Cancer Treatment Reports</SO>
+<YR>1979</YR>
+<VL>63</VL>
+<PG>1343-1346</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456295"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456294"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gridelli-1992" NAME="Gridelli 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gridelli C, Airoma G, Incoronato P, Pepe R, Palazzolo G, Rossi A, Bianco AR</AU>
+<TI>Mitomycin C plus vindesine or cisplatin plus epirubicin in previously treated patients with symptomatic advanced non-small-cell lung cancer</TI>
+<SO>Cancer Chemotherapy and Pharmacology</SO>
+<YR>1992</YR>
+<VL>30</VL>
+<NO>3</NO>
+<PG>212-214</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456297"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456296"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gridelli-1998" NAME="Gridelli 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gridelli C, Ianniello GP, Maiorino L, Piantedosi V, Cigolari S, Manzione L, Failla G, Zuccarino L, Pedicini T, Vinante O, Castiglione F, Clerici M, Bearz A, Darwish S, Rossi A, Monfardini S, Gallo C, Perrone F, Frontini L</AU>
+<TI>Vinorelbine (VNR) plus best supportive care (BSC) vs BSC in the treatment of advanced non-small cell lung cancer (NSCLC) elderly patients (pts). Results of a phase III randomized trial</TI>
+<SO>Proc Eur Society Med Onc</SO>
+<YR>1998 (abstr 408)</YR>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456299"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456298"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Guerra-1998" NAME="Guerra 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Guerra AJ, Arcediano A, Castellano D, et al</AU>
+<TI>Improvement of disease-related symptoms with second-line of gemcitabine in advanced non-small cell lung cancer</TI>
+<SO>Annals of Oncology</SO>
+<YR>1998</YR>
+<VL>9 (Suppl 4)</VL>
+<PG>94</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456301"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456300"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Haas-1996" NAME="Haas 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Haas CD, Gallardo RL, Moore B, et al</AU>
+<TI>Effective salvage chemotherapy for relapsed or refractory non-small cell lung cancer with mitomycin C, paclitaxel and metronidazole</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1996</YR>
+<VL>15</VL>
+<PG>391 (abstr 1178)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456303"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456302"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hainsworth-1995" NAME="Hainsworth 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hainsworth JD, Thompson DS, Greco FA</AU>
+<TI>Paclitaxel by 1-hour infusion: an active drug in metastatic non-small-cell lung cancer</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>1995</YR>
+<VL>13</VL>
+<PG>1609-1614</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456305"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456304"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hainsworth-2000" NAME="Hainsworth 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hainsworth JD, Burris HA, Calvert SW, Willcutt NT, Scullin DC Jr, Bramham J, Greco FA</AU>
+<TI>Gemcitabine in the second-line therapy of patients with carcinoma of unknown primary site: a phase II trial of the Minnie Pearl Cancer Research Network</TI>
+<SO>Cancer Investigational</SO>
+<YR>2001</YR>
+<VL>19</VL>
+<NO>4</NO>
+<PG>335-339</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456307"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456306"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Helsing-1998" NAME="Helsing 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Helsing M, Bergman B, Thaning L, Hero U for the Joint Lung Cancer Study Group</AU>
+<TI>Quality of life and survival inpatients with advanced non-small cell lung cancer receiving supportive care plus chemotherapy with carboplatin and etoposide or supportive care only. A multicentre randomised phase III trial</TI>
+<SO>European Journal of Cancer</SO>
+<YR>1998</YR>
+<VL>34</VL>
+<NO>7</NO>
+<PG>1036-1044</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456309"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456308"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Herbst-1999" NAME="Herbst 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Herbst Rs, Khuri FR, Jung M, et al</AU>
+<TI>Phase II study of combination weekly gemcitabine and vinorelbine in patients with untreated or previously treated non-small cell lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>462a (abstr 1782)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456311"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456310"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Herrero-2000" NAME="Herrero 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Herrero CC, Martinez EN, Jaime AB</AU>
+<TI>Second-line treatment with gemcitabine and vinorelbine in non-small-cell lung cancer (NSCLC) cisplatin failures: a pilot study</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>27</VL>
+<NO>1</NO>
+<PG>47-53</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456313"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456312"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hotton-1999" NAME="Hotton 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hotton KM, Kim K, Larson ML, et al</AU>
+<TI>Phase I/II trial of docetaxel and vinorelbine in patients with non-small cell lung cancer (NSCLC) previously treated with platinum-based chemotherapy</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>509a (abstr 1963)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456315"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456314"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Iaffaioli-2000" NAME="Iaffaioli 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Iaffaioli RV, Tortoriello A, Gravina A, Facchini G, Turitto G, Elia S, Griffo S, Gentile M, Fraioli G, Frattolillo A, Muto P, Libutti M, De Marino V, Illiano A, Barbarisi A,</AU>
+<TI>Phase I-II study of gemcitabine and paclitaxel in pretreated patients with stage IIIB-IV non-small cell lung cancer</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>30</VL>
+<NO>3</NO>
+<PG>203-210</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456317"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456316"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kaasa-1991" NAME="Kaasa 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kaasa S, Lund E, Thorud E, Hatlevoll R, Host H</AU>
+<TI>Symptomatic treatment versus combination chemotherapy for patients with extensive non-small cell lung cancer</TI>
+<SO>Cancer</SO>
+<YR>1991</YR>
+<VL>67</VL>
+<PG>2443-2447</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456319"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456318"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kakolyris-2000_x002d_IC" NAME="Kakolyris 2000-IC" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kakolyris S, Kouroussis C, Kalbakis K, Mavroudis D, Souglakos J, Nvardakis, Kremos S, Georgoulias V</AU>
+<TI>Salvage treatment of advanced non-small-cell lung cancer previously treated with docetaxel-based front-line chemotherapy with irinotecan (CPT-11) in combination with cisplatin</TI>
+<SO>Annals of Oncology</SO>
+<YR>2000</YR>
+<VL>11</VL>
+<NO>6</NO>
+<PG>757-760</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456321"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kakolyris S, Souglakos J, Agelaki S, Kourousis CH, Mavroudis D, Sarra E, Malliotakis P, Georgoulias V</AU>
+<TI>A dose-escalation study of irinotecan (CPT-11) in combination with cisplatin in patients with advanced non-small cell lung cancer previously treated with a docetaxel-based front line chemotherapy</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>30</VL>
+<NO>3</NO>
+<PG>193-198</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456322"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456320"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kakolyris-2001_x002d_DG" NAME="Kakolyris 2001-DG" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kakolyris S, Papadakis E, Tsiafaki X, Kalofonos C, Rapti A, Toubis M, Bania E, Kouroussis C, Chainis K, Androulakis N, Agelaki S, Sarra E, Vardakis N, Georgoulias V; Greek Cooperative Group for Lung Cancer</AU>
+<TI>Docetaxel in combination with gemcitabine plus rhG-CSF support as second-line treatment in non-small cell lung cancer. A multicenter phase II study</TI>
+<SO>Lung Cancer</SO>
+<YR>2001</YR>
+<VL>32</VL>
+<NO>2</NO>
+<PG>179-187</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456324"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456323"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kakolyris-2001_x002d_PCA" NAME="Kakolyris 2001-PCA" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kakolyris S, Mavroudis D, Tsavaris N, Souglakos J, Tsiafaki P, Kalbakis K, Agelaki S, Androulakis N, Georgoulias V</AU>
+<TI>Paclitaxel in combination with carboplatin as salvage treatment in refractory small-cell lung cancer (SCLC): a multicenter phase II study</TI>
+<SO>Annals of Oncology</SO>
+<YR>2001</YR>
+<VL>12</VL>
+<NO>2</NO>
+<PG>193-197</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456326"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456325"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Koletsky-1999" NAME="Koletsky 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Koletsky A, Jahanzeb M, Radice P, et al</AU>
+<TI>Pegylated liposomal doxorubicin (PEG-LD) as second line treatment of advanced non-small cell lugn carcinoma (NSCLC) after platinum based therapy: A randomized phase II trial</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>512a (abstr 1976)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456328"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456327"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kosmas-2001_x002d_GV" NAME="Kosmas 2001-GV" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kosmas C, Tsavaris N, Panopoulos C, Vadiaka M, Stavroyianni N, Kourelis T, Malamos N, Antonopoulos M, Kalofonos HP</AU>
+<TI>Gemcitabine and vinorelbine as second-line therapy in non-small-cell lung cancer after prior treatment with taxane+platinum-based regimens</TI>
+<SO>European Journal of Cancer</SO>
+<YR>2001</YR>
+<VL>37</VL>
+<NO>8</NO>
+<PG>972-978</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456330"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456329"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kosmas-2001_x002d_PIC" NAME="Kosmas 2001-PIC" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kosmas C, Tsavaris NB, Malamos NA, Vadiaka M, Koufos C</AU>
+<TI>Phase II study of paclitaxel, ifosfamide, and cisplatin as second-line treatment in relapsed small-cell lung cancer</TI>
+<SO>Journal of Clinical Oncology.</SO>
+<YR>2001</YR>
+<VL>19</VL>
+<NO>1</NO>
+<PG>119-126</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456332"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456331"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kris-1985" NAME="Kris 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kris MG, Gralla RG, Kelsen DP, et al</AU>
+<TI>Trial of vindesine plus mitomycin in stage 3 non-small cell lung cancer</TI>
+<SO>Chest</SO>
+<YR>1985</YR>
+<VL>87</VL>
+<PG>368-372</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456334"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456333"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kunitoh-1998" NAME="Kunitoh 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Kunitoh H, Maeda A, Nakamura Y, et al</AU>
+<TI>Mitomycin C, vindesine and cisplatin (MVP) combination as a salvage chamotherapy in pretreated non-small cell lung cancer (NSCLC) patients</TI>
+<SO>1998</SO>
+<YR>Proc Am Soc Clin Oncol</YR>
+<VL>17</VL>
+<PG>491a (abstr 1892)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456336"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456335"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Leon-2000" NAME="Leon 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Leon L, Cueva J, Cudel T, Calvo M, Graña B, Padín E, Candamio S, Barón F, López R</AU>
+<TI>Second line chemotherapy with weekly paclitaxel in advanced non-small cell lung cancer</TI>
+<SO>Annals of Oncology</SO>
+<YR>2000</YR>
+<VL>11</VL>
+<NO>Suppl 4</NO>
+<PG>121 (abstr 552P)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456338"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456337"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lin-2001" NAME="Lin 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lin CM</AU>
+<TI>Phase II study of weekly docetaxel as second-line chemotherapy in patients with unresectable or metastatic non-small cell lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2853)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456340"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456339"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lopez_x002d_Vivanco-2001" NAME="Lopez-Vivanco 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Lopez-Vivanco G, Muñoz A, Abón G, Fuente N, Rubio I, Ferreiro J, Lopez-Argumedo G, Fernández R, Mañé JM, Barcelo-Galindez R</AU>
+<TI>Second line chemotherapy with docetaxel (D) and vinorelbine (V) for non-small cell cancer previously treated with platinum-based chemotherapy</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2822)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456342"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Muñoz A, Rubio I, Mañé JM, Ferreiro J, Fernández R, Fuente N, Abón G, López-Argumedo G, Barceló R, López-Vivanco G</AU>
+<TI>Docetaxel (D) and vinorelbine (V) in non-small cell lung cancer (NSCLC) previously treated with cisplatin-based chemotherapy: A phase II trial</TI>
+<SO>Annals of Oncology</SO>
+<YR>2000</YR>
+<VL>11</VL>
+<NO>Suppl 4</NO>
+<PG>117 (abstr 532P)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456343"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456341"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mattson-1998" NAME="Mattson 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mattson K, Manegold C, Postmus P, Smit E, Millward M, Saarinen A</AU>
+<TI>Phase II trial of the multi-targeted antifolate MTA (LY231514) in patients with non-small cell lung cancer (NSCLC) who have failed previous platinum or non-platinum chemotherapy</TI>
+<SO>Proc Eur Soc Med Onc</SO>
+<YR>1998 (abstr 472)</YR>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456345"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456344"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Morales-2001" NAME="Morales 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Morales S, Millá A, Madroñal C</AU>
+<TI>Preliminary results of a phase II study of docetaxel in combination with vinorelbine as second line treatmen in non-small-cell lung cancer (NSCLC). An Oncopaz and Associated Hospitals Study</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2728)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456347"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456346"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Murphy-1994" NAME="Murphy 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Murphy WK, Winn RJ, Huber M</AU>
+<TI>Phase II study of Taxol in patients with non-small cell lung cancer who have failed platinum-containing chemotherapy</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1994</YR>
+<VL>13</VL>
+<PG>363a (abstr 1224)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456349"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456348"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nakai-1991" NAME="Nakai 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nakai H, Fukuoka M, Furuse K</AU>
+<TI>An early phase II study of CPT-11 for primary lung cancer</TI>
+<SO>Japanese Journal of Cancer and Chemotherapy</SO>
+<YR>1991</YR>
+<VL>18</VL>
+<PG>607-612</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456351"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456350"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nakamura-1999" NAME="Nakamura 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Nakamura Y, Kunitoh H, Aono H, et al</AU>
+<TI>A phase II trial of low-dose docetaxel (DCT) 60 mg/m2 in platinum-pretreated advanced non-small cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>518a</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456353"/><IDENTIFIER TYPE="OTHER" VALUE="# 1997"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456352"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nakanishi-1999" NAME="Nakanishi 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nakanishi Y, Takayama K, Takano K, et al</AU>
+<TI>Second line chemotherapy with weekly cisplatin and irinotecan in patients with refractory lung cancer</TI>
+<SO>American Journal of Clinical Oncology</SO>
+<YR>1999</YR>
+<VL>22</VL>
+<PG>399-402</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456355"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456354"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nauman-1997" NAME="Nauman 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Nauman C, DeLaney TF, Park J, et al</AU>
+<TI>Paclitaxel (Taxol) as a single agent salvage therapy in nonsmall cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1997</YR>
+<VL>16</VL>
+<PG>476a (abstr 1715)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456357"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456356"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Negoro-1991" NAME="Negoro 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Negoro S, Fukuoka M, Niitani H</AU>
+<TI>A phase II study of CPT-11, a camptothecin derivative, in patients with primary lung cancer. CPT-11 co-operative study group</TI>
+<SO>Japanese Journal of Cancer and Chemotherapy</SO>
+<YR>1991</YR>
+<VL>18</VL>
+<PG>1013-1019</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456359"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456358"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Niitani-1994" NAME="Niitani 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Niitani H, Fukuoka M, Nagao K</AU>
+<TI>Clinical development of irinotecan in lung cancers</TI>
+<SO>Lung Cancer</SO>
+<YR>1994</YR>
+<VL>11</VL>
+<NO>Suppl 2</NO>
+<PG>30-31</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456361"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456360"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Papadakis-1998" NAME="Papadakis 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Papadakis E, Alexopoulos K, Androulakis N, Kourousis Ch, Kakolyris S, Samelis G, Patila E, Vossos A, Samantas E, Georgoulias V</AU>
+<TI>A multicenter phase II study of single-agent docetaxel and granulocyte colony-stimulating factor in patients with advanced non-small cell lung cancer previously treated with platinum-based chemotherapy</TI>
+<SO>Proc Eur Soc Med Onc</SO>
+<YR>1998 (abstr 443)</YR>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456363"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456362"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Papadimitrakopoulou" NAME="Papadimitrakopoulou" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Papadimitrakopoulou V, Lozada JA, Henderson T, Brito R, McGarry W, Glisson BS, Herbst RS, Zinner RG, Lee JS, Valero V, Hong WK, Khuri FR</AU>
+<TI>A phase II study of vinorelbine and docetaxel in the treatment of advanced non-small cell lung cancer as front-line and second-line therapy</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2789)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456365"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456364"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pronzato-1994" NAME="Pronzato 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Pronzato P, Landucci M, Vaira F, Vigani A, Bertelli G</AU>
+<TI>Failure of vinorelbine to produce responses in pretreated non-small cell lung cancer patients</TI>
+<SO>Anticancer Research</SO>
+<YR>1994</YR>
+<VL>14</VL>
+<NO>3B</NO>
+<PG>1413-1415</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456367"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456366"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Quoix-1991" NAME="Quoix 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Quoix E, Dietemann A, Charbonneau J, Boutin C, Meurice JC, Orlando JP, Ducolone A, Pauli G, Roegel E</AU>
+<TI>Is chemotherapy with cisplatin useful in non small cell bronchial cancer at staging IV?. Results of a randomized study</TI>
+<TO>La chimniotherapie comportat du cisplatine est-elle utile dans le cancer bronchique no microcellulaire au stade IV?. Resultats d´une etude randomisee</TO>
+<SO>Bulletin du Cancer</SO>
+<YR>1991</YR>
+<VL>78</VL>
+<NO>4</NO>
+<PG>341-346</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456369"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456368"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ranson-2000" NAME="Ranson 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ranson M, Davidson N, Nicolson M, Falk S, Carmichael J, Lopez P, Anderson H, Gustafson N, Jeynes A, Gallant G, Washington T, Thatcher N</AU>
+<TI>Randomized trial of paclitaxel plus supportive care versus supportive care for patients with advanced non-small-cell lung cancer</TI>
+<SO>Journal of the National Cancer Institute</SO>
+<YR>2000</YR>
+<VL>92</VL>
+<NO>13</NO>
+<PG>1074-1080</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456371"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456370"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rapp-1988" NAME="Rapp 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rapp E, Pater JL, Willan A, Cormier Y, Murray N, Evans WK, Hodson DI, Clark DA, Feld R, Arnold AM. et. al</AU>
+<TI>Chemotherapy can prolong survival in patients with advanced non-small-cell lung cancer- report of a Canadian multicenter randomized trial</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>1988</YR>
+<VL>6</VL>
+<NO>4</NO>
+<PG>633-641</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456373"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456372"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Reddy-1999" NAME="Reddy 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Reddy GR, Gandara DR, Edelman MJ, et al</AU>
+<TI>Gemcitabine (GEM) in platinum (PLAT) treated non-small cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>521a (abstr 2007)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456375"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456374"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rigas-1994" NAME="Rigas 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Rigas JR, Pfister DG, Miller VA</AU>
+<TI>Combination trials of edatrexate with paclitaxel or cisplatin in patients with advanced non-small cell lung cancer</TI>
+<SO>Lung Cancer</SO>
+<YR>1994</YR>
+<VL>11 (Suppl 1)</VL>
+<PG>479</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456377"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456376"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rinaldi-1994" NAME="Rinaldi 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Rinaldi M, Della GM, Venturo I, et al</AU>
+<TI>Vinorelbine as single agent in the treatment of advanced non-small cell lung cancer</TI>
+<SO>Proc am Soc Clin Oncol</SO>
+<YR>1994</YR>
+<VL>13</VL>
+<PG>360 (abstr 2007)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456379"/><IDENTIFIER TYPE="OTHER" VALUE="# 1212"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456378"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Roa-1998" NAME="Roa 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Roa V, Conner A, Mitchell RB</AU>
+<TI>Carboplatin and paclitaxel for previously treated patients with non-small cell lung cancer</TI>
+<SO>Cancer Investigational</SO>
+<YR>1998</YR>
+<VL>16</VL>
+<NO>6</NO>
+<PG>381-384</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456381"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456380"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Robinet-1997" NAME="Robinet 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Robinet G, Thomas P, Perol M, Vergnenegre A, Lena H, Taytard A, Paillotin D, Bessa EH, Schuller-Lebeau MP</AU>
+<TI>Efficacy of docetaxel in non-small cell lung cancer patients previously treated with platinum-containing chemotherapy. French Group of Pneumo-Cancerology</TI>
+<SO>Revue de Malalties Respiratoire</SO>
+<YR>2000</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>83-89</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456383"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456382"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rosati-2000" NAME="Rosati 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rosati G, Rossi A, Nicolella G, Panza N</AU>
+<TI>Second-line chemotherapy with paclitaxel, cisplatin and gemcitabine in pre-treated sensitive cisplatin-based patients with advanced non-small cell lung cancer</TI>
+<SO>Anticancer Research</SO>
+<YR>2000</YR>
+<VL>20</VL>
+<NO>3B</NO>
+<PG>2229-2233</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456385"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456384"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rossi-1999" NAME="Rossi 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Rossi A, Perrone F, Barletta E, et al</AU>
+<TI>Activity of gemcitabine (GEM) in cisplatin-pretreated patients with advanced non-small cell lung cancer (NSCLC): a phase II trial</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1999</YR>
+<VL>18</VL>
+<PG>484a (abstr 1868)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456387"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456386"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rosvold-1998" NAME="Rosvold 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rosvold E, Langer CJ, Schilder R, et al</AU>
+<TI>Salvage therapy with gemcitabine in advanced non-small cell lung cancer (NSCLC) progressing after prior carboplatin-paclitaxel</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1998</YR>
+<VL>17</VL>
+<PG>467a (abstr 1797)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456389"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456388"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Roszkowski-2000" NAME="Roszkowski 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Roszkowski K, Pluzanska A, Krzadowski M, Smith AP, Saigi E, Aasebo U, Parisi A, Tran NP, Olivares R, Berille J</AU>
+<TI>A multicenter, randomized, phase III study of docetaxel plus best supportive care versus best supportive care in chemotherapy-naive patients with metastatic or non-resectable localized non-small cell lung cancer (NSCKC)</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>27</VL>
+<PG>145-157</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456391"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456390"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ruckdeschel-1994" NAME="Ruckdeschel 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Ruckdeschel J, Wagner H Jr, Williams C, Heise M, Hilstro J</AU>
+<TI>Second-line chemotherapy for resistant, metastatic, non-small cell lung cancer (NSCLC): the role of taxol (TAX)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1994</YR>
+<VL>13</VL>
+<PG>357(abstr 1200)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456393"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456392"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Santoro-1994" NAME="Santoro 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Santoro A, Maiorino L, Santoro M</AU>
+<TI>Second-line with vinorelbine in the weekly monochemotherapy for the treatment of advanced non-small cel lung cancer</TI>
+<SO>Lung Cancer</SO>
+<YR>1994</YR>
+<VL>11 (suppl 1)</VL>
+<PG>130</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456395"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456394"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sculier-1994" NAME="Sculier 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Sculier JP, Cureau G, Thiraux J, et al</AU>
+<TI>High dose epirubicin (12 mg/m2) plus vindesine is not an effective salvage regimen for advanced non-small cell lung cancer priorly treated with a cisplatin containing regimen</TI>
+<SO>Annals of Oncology</SO>
+<YR>1994</YR>
+<VL>5 (suppl 8)</VL>
+<PG>159</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456397"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456396"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sculier-2000" NAME="Sculier 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sculier JP, Lafitte JJ, Berghmans T, Thiriaux J, Lecomte J, Efremidis A, Ninane V, Paesmans M, Mommen P, Klastersky J</AU>
+<TI>A phase II trial testing gemcitabine as second-line chemotherapy for non small cell lung cancer. The European Lung Cancer Working Party</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>29</VL>
+<NO>1</NO>
+<PG>67-73</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456399"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456398"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Serke-2001" NAME="Serke 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Serke M, Argiropulos D, Schönfeld N, Loddenkemper R</AU>
+<TI>Second-line therapy with weekly docetaxel in resistant or relapsed non-small cell lung cancer (NSCLC): final results</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2841)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456401"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456400"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sherman-2000" NAME="Sherman 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Sherman CA, Herndon J, Green MR, Cancer and Leukemia Group B</AU>
+<TI>CALGB 39805: Phase II trial of 6-Hydroxymethylacylfulvene (HMAF;MGI-114) in patients with relapsed or refractory non-small cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2000</YR>
+<VL>19 (abstr 2163)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456403"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456402"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Socinski-1999" NAME="Socinski 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Socinski MA, Steagall A, Gillenwater H</AU>
+<TI>Second-line chemotherapy with 96-hour infusional paclitaxel in refractory non-small cell lung cancer : report of a phase II trial</TI>
+<SO>Cancer Investigational</SO>
+<YR>1999</YR>
+<VL>17</VL>
+<PG>181-188</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456405"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456404"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Spiridonidis-2001" NAME="Spiridonidis 2001" YEAR="2001">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Spiridonidis CH, Laufman LR, Carman L, Moore T, Blair S, Jones J, George C, Patel T, Roach R, Rupert R, Zangmeister J, Colborn D, Kuebler JP</AU>
+<TI>Second-line chemotherapy for non-small-cell lung cancer with monthly docetaxel and weekly gemcitabine: a phase II trial</TI>
+<SO>Annals of Oncology</SO>
+<YR>2001</YR>
+<VL>12</VL>
+<NO>1</NO>
+<PG>89-94</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456407"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456406"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stathopoulos-1999" NAME="Stathopoulos 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stathopoulos GP, Dafni UG, Malamos NA, Rigatos S, Kouvatseas G, Moschopoulos N</AU>
+<TI>Induction chemotherapy in non small cell lung cancer stage IIIa-b and IV and second-line treatment</TI>
+<SO>Anticancer Research</SO>
+<YR>1999</YR>
+<VL>19</VL>
+<NO>3543-3548</NO>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456409"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456408"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stathopoulos-1999_x002d_PC" NAME="Stathopoulos 1999-PC" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stathopoulos GP, Rigatos S, Malamos NA</AU>
+<TI>Paclitaxel combined cisplatin as second-line treatment in patients with advanced non-small cell lung cancers refractory to cisplatin</TI>
+<SO>Oncology Reports</SO>
+<YR>1999</YR>
+<VL>6</VL>
+<NO>4</NO>
+<PG>797-800</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456411"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456410"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stewart-1996" NAME="Stewart 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stewart DJ, Tomiak EM, Goss G, et al</AU>
+<TI>Paclitaxel plus hydroxyurea as second line therapy for non-small cell lung cancer</TI>
+<SO>Lung Cancer</SO>
+<YR>1996</YR>
+<VL>15</VL>
+<PG>115-123</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456413"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456412"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Takenaka-2001" NAME="Takenaka 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Takenaka M, Tanio Y, Okishio K, Kawahara M, Takagi Y, Katagami N, Ariyoshi Y</AU>
+<TI>A randomized phase II trial of weekly carboplatin and CPT-11 versus docetaxel for relapsed non-small cell lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2805)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456415"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456414"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tan-1995" NAME="Tan 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Tan V, Herrera C, Einzig AI, et al</AU>
+<TI>Taxol is active as a 3-hour or 24-hour infusion in non-small cell lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>1995</YR>
+<VL>14</VL>
+<PG>366 (abstr 1122)</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456417"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456416"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Treat-2001" NAME="Treat 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Treat J, Huang C, Damjanou N, Jahanzeb M, Edelman M, Cosaert J, Koehler M</AU>
+<TI>Phase II monotherapy trial of ZD0473 as second-line therapy in non-small cell lung cancer</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2808)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456419"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456418"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Trongprasert-1999" NAME="Trongprasert 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thongprasert S, Sanguanmitra P, Juthapan W, Clinch J</AU>
+<TI>Relationship between queality of life and clinical outcomes in advanced non small cel lung cancer: best supportive care (BSC) versus BSC plus chemotherapy</TI>
+<SO>Lung Cancer</SO>
+<YR>1999</YR>
+<VL>24</VL>
+<NO>1</NO>
+<PG>17-24</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456421"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456420"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tsavaris-2001" NAME="Tsavaris 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Tsavaris N, Kosmas C, Vadiaka M, Kourelis Th, Malamos NA, Stefanou S, Antonopoulos MJ, Kalofonos HP</AU>
+<TI>Gemcitabine and docetaxel as second-line chemotherapy in non-small cell lung cancer (NSCLC) failing prior paclitaxel plus platinum-based regimens</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 1360)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456423"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456422"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Van-Kooten-1999" NAME="Van Kooten 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Van Kooten M, Traine G, Cinat G, et al</AU>
+<TI>Single-agent gemcitabine in pretreated patients with non-small-cell lung cancer: results of an Argentinean multicentre phase II trial</TI>
+<SO>British Journal of Cancer</SO>
+<YR>1999</YR>
+<VL>81</VL>
+<PG>846-849</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456425"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456424"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Van-Putten-2001" NAME="Van Putten 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Van Putten JWG, Wachters F, Groen HJM</AU>
+<TI>Combinationof docetaxel and carboplatin as second-line treatment in patients (pts) with advanced non-small-cell lung cancer (NSCLC)</TI>
+<SO>Proc Am Soc Clin Oncol</SO>
+<YR>2001</YR>
+<VL>20 (abstr 2706)</VL>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456427"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456426"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Woods-1990" NAME="Woods 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Woods RK, Williams CJ, Levi J, et al</AU>
+<TI>A randomized trial of cisplatin and vindesine versus supportive care only in advanced non-small cell lung cancer</TI>
+<SO>British Journal of Cancer</SO>
+<YR>1990</YR>
+<VL>61</VL>
+<NO>608-611</NO>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="4456429"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="4456428"/></IDENTIFIERS>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<ADDITIONAL_REFERENCES MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<REFERENCE ID="REF-Abang-1996" NAME="Abang 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Abang AM</AU>
+<TI>Chemotherapy versus best supportive care for advanced non-small-cell lung cancer</TI>
+<SO>American Journal of Health-System Pharmacy</SO>
+<YR>1996</YR>
+<VL>53</VL>
+<NO>24</NO>
+<PG>2980-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Belani-1998" NAME="Belani 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Belani CP</AU>
+<TI>Single agents in the second-line treatment of non-small cell lung cancer</TI>
+<SO>Seminars in Oncology</SO>
+<YR>1998</YR>
+<VL>25</VL>
+<NO>3 Suppl 8</NO>
+<PG>10-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cullen-2001" NAME="Cullen 2001" TYPE="CONFERENCE_PROC">
+<AU>Cullen M</AU>
+<TI>What is the optimum management of non-small cell lung cancer patients relapsing after first line chemotehrapy ?</TI>
+<SO>Lung Cancer</SO>
+<YR>2001</YR>
+<VL>32 (Suppl. 1)</VL>
+<PG>S5-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ferrigno-2000" NAME="Ferrigno 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Ferrigno D, Buccheri G</AU>
+<TI>Second-line chemotherapy for recurrent non-small cell lung cancer: do agents make a difference?</TI>
+<SO>Lung Cancer</SO>
+<YR>2000</YR>
+<VL>29</VL>
+<NO>2</NO>
+<PG>91-104</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fossella-2000" NAME="Fossella 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Fossella FV</AU>
+<TI>Second-line chemotherapy for non-small-cell lung cancer</TI>
+<SO>Current Oncology Reports</SO>
+<YR>2000</YR>
+<VL>2</VL>
+<NO>1</NO>
+<PG>96-101</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ginsberg-1997" MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Ginsberg 1997" TYPE="BOOK_SECTION">
+<AU>Ginsberg RJ, Vokes EE, Raben A</AU>
+<TI>Cancer of the lung</TI>
+<SO>Cancer: principles and practice of Oncology</SO>
+<YR>1997</YR>
+<EN>5th edition</EN>
+<PB>Lippincott-Raven Publishers</PB>
+<CY>Philadelphia</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Huisman-2000" NAME="Huisman 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Huisman C, Smit EF, Giaccone G, Postmus PE</AU>
+<TI>Second-line chemotherapy in relpasing or refractory non-small-cell lung cancer: review</TI>
+<SO>Journal of Clinical Oncology</SO>
+<YR>18</YR>
+<VL>21</VL>
+<NO>1</NO>
+<PG>3722-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Manegold-2001" NAME="Manegold 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Manegold C</AU>
+<TI>Chemotherapy for advanced non-small cell lung cancer</TI>
+<SO>Seminars in Oncology</SO>
+<YR>2001</YR>
+<VL>28</VL>
+<NO>2 Suppl 7</NO>
+<PG>1-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Marino-1994" NAME="Marino 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Marino P, Papallona S, Preatoni A, Cantoni A, Invernizzi F</AU>
+<TI>Chemotherapy vs supportive care in advanced non-samll-cell lung cancer. Results of a meta-analysis of the literature</TI>
+<SO>Chest</SO>
+<YR>1994</YR>
+<VL>106</VL>
+<NO>3</NO>
+<PG>861-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NICE-2001" MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="NICE 2001" TYPE="OTHER">
+<AU>NICE Technology Appraisal Guideline</AU>
+<TI>Clinical effectiveness of paclitaxel, docetaxel, gemcitabine and vinolrebine in lung cancer. Report comissioned by the NHS HTA Programme on behalf of the NICE</TI>
+<YR>2001</YR>
+<VL>26</VL>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nicum-2000" NAME="Nicum 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Nicum S, Cullen MH</AU>
+<TI>Chemotherapy versus palliative care in non-small cell lung cancer. Review</TI>
+<SO>Anti-Cancer Drugs</SO>
+<YR>2000</YR>
+<VL>11</VL>
+<NO>8</NO>
+<PG>603-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NSCLCCG-1995" MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="NSCLCCG 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Non-small Cell Lung Cancer Collaborative Group</AU>
+<TI>Chemotherapy in non-small cell lung cancer: a meta-analysis using updated dat on individual patients from 52 randomised clinical trials</TI>
+<SO>BMJ</SO>
+<YR>1995</YR>
+<VL>311</VL>
+<PG>899-909</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NSCLCCG-2001" MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="NSCLCCG 2001" TYPE="COCHRANE_REVIEW">
+<AU>NSCLCCG</AU>
+<TI>Chemotherapy for non-small cell lung cancer</TI>
+<SO>The Cochrane Database of Systematic Reviews</SO>
+<YR>2001</YR>
+<NO>3</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rigas-1998" MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Rigas 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Rigas JR</AU>
+<TI>Do newer chemotherapeutic agents improve survival in non-small cell lung cancer?</TI>
+<SO>Seminars in Oncology</SO>
+<YR>1998</YR>
+<VL>25</VL>
+<PG>5-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Shepherd-2001" MODIFIED="2008-09-18 23:53:42 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Shepherd 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Shepherd FA, Fossella FV, Lynch T, Armand JP, Rigas JR, Kris MG</AU>
+<TI>Docetaxel (Taxotere) shows survival and quality-of-life benefits in the second-line treatment of non-small cell lung cancer: a review of two phase III trials</TI>
+<SO>Seminars in Oncology</SO>
+<YR>2001</YR>
+<VL>28</VL>
+<NO>1 Suppl 2</NO>
+<PG>4-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Souquet-1995" NAME="Souquet 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Souquet PJ, Chauvin F, Boissel JP, Bernard JP</AU>
+<TI>Meta-analysis of randomised trials of systemic chemotherapy versus supportive treatment in non-resectable non-small cell lung cancer</TI>
+<SO>Lung Cancer</SO>
+<YR>1995</YR>
+<VL>12</VL>
+<NO>Suppl 1</NO>
+<PG>147-54</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Shepherd-2000">
+<CHAR_METHODS>
+<P>RCT<BR/>Multicentre study in 35 centres from different countries (USA, Canada, Finland, UK, Poland, Hungary and Puerto Rico).<BR/>Intention-to-treat analysis.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>204 patients with histologically or cytologically proven unresectable locally advanced or metastatic NSCLC. Inclusion criteria: previous treatment with more than one chemotherapy regime, except taxanes; performance status =&lt; 2 on ECOG scale and adequate haematological parameters. Excluded those with symptomatic or uncontrolled brain metastases or peripheral neuropathy grade &gt;2 (National Cancer Institute, USA).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1) Treatment arm: Docetaxel 100 mg/m2, 1-hour intravenous infusion every 21 days (first part of the study) / 75 mg/m2, intravenously over 1 hour / 3 weeks (second part of the study). Premedication 24 hours before with dexamethasone (dose adapted to docetaxel regimen).</P>
+<P>2) Control group: BSC with any therapy given by the treating physician (analgesics, antibiotics, transfusions and/or palliative treatment)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1) Survival: from date of randomisation until date of death;<BR/>2) Time to disease progression: from date of randomisation to date of disease progression;<BR/>3) Response duration: from date of randomisation to date of documentation of disease progression;</P>
+<P>Patients were evaluated every three weeks: complete medical history, physiscal examination, weight and ECOG status, vital signs, toxicities, QOL questionnaires, chest x-ray and scans (every 6 weeks).</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>The docetaxel regimen was changed during the study because of high toxicity.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Adonizio-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Agelaki-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Alexopoulos-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Anderson-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT plus BSC vs BSC, but CT not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Androulakis-1999_x002d_DG">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Androulakis-1999_x002d_PG">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Baas-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Barr-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bervar-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Biesma-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bonomi-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Buccheri--1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT vs BSC, but CT not second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Burris-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Camps-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Carreca-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cartei-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT plus BSC vs BSC, but the CT is not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cassano-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cellerino-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT vs BSC, but the CT is not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Chang-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cole-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cormier-1982">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT vs placebo and supportive care when required</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Crawford-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Crin_x00f3_-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dansin-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-De-Pas-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-DiNunno-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dongiovanni-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dowell-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Estap_x00e9_-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fidias-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fosella-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparing diferents CT regimens, not CT vs placebo or BSC</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fossella-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fuks-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomized controlled trial. Compared different second line CT regimens, but with CT or RT or both in the first line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Furnas-1982">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gandara-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ganz-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT plus BSC vs BSC, but CT not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Garc_x00ed_a_x002d_L_x00f3_pez-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Garfield-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Georgoulias-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gervais-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison between sequential chemotherapy and another sequential regimen, in chemonaïve patients.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Giaccone-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gian-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gomez-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gralla-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gridelli-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gridelli-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT plus BSC vs BSC, but the CT is not a second line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Guerra-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Haas-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hainsworth-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hainsworth-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Helsing-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT plus BSC vs BSC, but CT not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Herbst-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Herrero-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hotton-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Iaffaioli-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kaasa-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT vs BSC, but the CT is not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kakolyris-2000_x002d_IC">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kakolyris-2001_x002d_DG">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kakolyris-2001_x002d_PCA">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Koletsky-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kosmas-2001_x002d_GV">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kosmas-2001_x002d_PIC">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kris-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kunitoh-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Leon-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lin-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lopez_x002d_Vivanco-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mattson-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Morales-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Murphy-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nakai-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nakamura-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nakanishi-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nauman-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Negoro-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Niitani-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Papadakis-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Papadimitrakopoulou">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Pronzato-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Quoix-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT vs BSC, but CT not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ranson-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT plus BSC vs BSC, but CT not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rapp-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Ct vs CT vs BSC, but CTs not second-line treatments</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Reddy-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rigas-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rinaldi-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Roa-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Robinet-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rosati-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rossi-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rosvold-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Roszkowski-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Ct plus BSC vs BSC, but the CT is not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ruckdeschel-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Santoro-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sculier-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sculier-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Serke-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sherman-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Socinski-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Spiridonidis-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Stathopoulos-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT second line vs BSC, but it is not a randomized controlled trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Stathopoulos-1999_x002d_PC">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Stewart-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Takenaka-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study with control group, comparing different CT regimens</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tan-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Treat-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Trongprasert-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT plus BSC vs BSC, but CT not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tsavaris-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Van-Kooten-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Van-Putten-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Phase II study, no control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Woods-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>CT vs BSC, but CT not a second-line treatment</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Shepherd-2000">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES>
+<ADDITIONAL_TABLE ID="TBL-01" NO="1">
+<TITLE>DESCRIPTION OF RESULTS</TITLE>
+<TABLE COLS="5" ROWS="6">
+<TR>
+<TH>
+<P>Study ID</P>
+</TH>
+<TH>
+<P>Interventions</P>
+</TH>
+<TH>
+<P>Outcomes</P>
+</TH>
+<TH>
+<P>Results</P>
+</TH>
+<TH>
+<P>Comments</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>SHEPHERD 2000</P>
+</TD>
+<TD>
+<P>Docetaxel 100 mg/m2 every 21 days (48 patients) compared with Best Supportive Care (100 patients); but the protocol was amended to reduce the dose of docetaxel from 100 mg/m2 to 75 mg/m2 every 21 days (55 patients) for the second half of the trial because a high toxic death rate was identified in the chemotherapy arm</P>
+</TD>
+<TD>
+<P>1) Median Survival (months) 2) 1-year survival (%) 3) Time to progression (weeks) 4) QOL</P>
+</TD>
+<TD>
+<P>1) 7.0 months (95% CI, 5.5 to 9.0) for chemotherapy group (5.9 months for 100 mg/m2 subgroup and 7.5 for 75 mg/m2 subgroup,CI for subgroups not available) vs 4.6 months (95% CI, 3.7 to 6.0) for BSC group 2) 29% for chemotherapy group (19% for the 100 mg/m2 subgroup and 37% for the 75 mg/m2 subgroup) vs 19% for BSC groups 3) 10.6 weeks for docetaxel 100 mg/m2 vs 6.7 weeks for docetaxel 75 mg/m2</P>
+</TD>
+<TD>
+<P>Details on the quality of life analysis were not available for this review.</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES"/>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

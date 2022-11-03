@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002884.pub2" GROUP_ID="AIRWAYS" ID="716099120417440484" MERGED_FROM="" MODIFIED="2014-06-05 16:19:39 +0100" MODIFIED_BY="Emma Welsh" NOTES="&lt;p&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;August 2&lt;br&gt;Dear Toby,&lt;br&gt;Can you thank Gustavo for obtaining the data from Lin Lee. It is of interest that the variability of the absolute values is less than that of the change scores in this case!&lt;br&gt;I have recalculated the confidence intervals for the between sub-group tests and put them in red. Otherwise there is a tedious job changing over the lung function results to make them all positive and changing the labels on the graphs to favour Heliox on the right. Could you do this and then the update is ready for submission?&lt;br&gt;Thanks,&lt;br&gt;Chris.&lt;/p&gt;&lt;p&gt;&lt;br&gt;================================================&lt;br&gt;CJC Final check 25 July 2006&lt;br&gt;Thanks for confirming all results as final values, and for making the changes to the subgroup reporting. I am however confused after reading the table of included studies and the pdf of the latest study from Lin Lee. They both appear to be reporting CHANGES in lung function not absolute values. The problem as mentioned below is that changes tend to have a different SD from the final values and SMD becomes a problem as outlined below. Have you tried to contact the authors of the Lin Lee study to ask for % predicted PEF after treatment (mean and SD) for all 80 patients who were randomised into the two trials that they carried out ? There may be a similar problem with the Kress study, but I see you report in the text that you have verified the data with the authors of this study.&lt;br&gt;I have made some minor changes to the wording of the review in red.&lt;br&gt;Chris&lt;br&gt;========================================&lt;br&gt;21062006&lt;br&gt;Dear Toby:&lt;/p&gt;&lt;p&gt;I attached the final version of the review. With regard to the Chris comments:&lt;br&gt;1. The lung function tests pooled are final absolute values or % of predicted; we did not use changes from baseline.&lt;br&gt;2. I tested subgroups (methodological quality) difference and modified conclusions accordingly.&lt;br&gt;3. The same for baseline severity.&lt;br&gt;4. I modified the hospital admissions RR from random to a fixed model.&lt;br&gt;5. Also heart rate (from fixed to random model).&lt;/p&gt;&lt;p&gt;Dr. Gustavo J. Rodrigo&lt;/p&gt;&lt;p&gt;------------------------------------------------&lt;br&gt;CJC Edit 14/6/06&lt;/p&gt;&lt;p&gt;1. Could you confirm that the lung function tests that have been pooled are either ALL change from baseline or ALL absolute values. SMD cannot be used to combine absolute with change scores as the SD of change scores is smaller so the unit of measurement is not the same!&lt;/p&gt;&lt;p&gt;2. RESULTS OF SUBGROUPS&lt;/p&gt;&lt;p&gt;&amp;quot;Conversely, when we compared studies stratified by methodological quality, a significant improvement favouring high quality studies was found (again, it was a heterogeneous result).&amp;quot;&lt;/p&gt;&lt;p&gt;The correct way to test between subgroups is described by Altman in the BMJ 2003;36:219 - Statistics Notes: Interaction revisited: the difference between two estimates. The two subgroups need to be compared to each other using a t-test from the point estimate and the two confidence intervals (as RevMan does for the two arms of each trial). For methodological quality this gives a between group difference of 0.48 (95% CI 1.08 to -0.12) which is not significant. If you would like a copy of an excel spreadsheet to carry out these calculations I am happy to send you one.&lt;/p&gt;&lt;p&gt;You are correct that &amp;quot;There were no significant differences between groups when we compared adults versus children, high dose versus low heliox dose and breath heliox versus nebulized with heliox (see MetaView graphs).&amp;quot;&lt;/p&gt;&lt;p&gt;For severity this test shows a significant difference between the severe and less severe subgroups - group difference -0.59 (-0.06 to -1.12, P 0.029) on the SMD using the random effects results in view of the heterogeneity that you point out. Although this is significant there is a danger of regression to the mean here. Subgtouping by using lung function tests and then using the results from the same tests are not trustworthy for this reason. It must be reported cautiously with this in mind and be regarded as no more than hypothesis generating (as suggested in implications for further research).&lt;/p&gt;&lt;p&gt;3. &amp;quot;There was a marginal statistically significant reduction in admission to hospital in favour of heliox (RR = 0.77; 95%CI: 0.60 to 1.00).&amp;quot; Using Relative Risk and a fixed effect model, as there is no heterogeneity, the RR is 0.83 (0.66 to 1.08) which is NOT significant. It is also not significant when tested using Odds Ratios. This result does not achieve significance.&lt;/p&gt;&lt;p&gt;4. &amp;quot;with the exception of heart rate which indicated that heliox increased bpm by a mean of 7.67 (95% CI: 0.79 to 14.55)&amp;quot; This is a fixed method result and is not appropriate with the high heterogeneity reported. The random result is not significant and should be reported as such please.&amp;#8221;&lt;/p&gt;&lt;p&gt;----------------------------------------------------&lt;br&gt;June 7, 2006&lt;/p&gt;&lt;p&gt;Gustavo,&lt;/p&gt;&lt;p&gt;Nice work on the revision. See edits below:&lt;br&gt;1) I have accepted your highlighted changes;&lt;br&gt;2) I have added a few edits in red;&lt;br&gt;3) I think its becoming standard to just report the I2 for heterogeneity, so I deleted the chi-square and p values;&lt;br&gt;4) I think its becoming standard to just report the 95% CI for results, so I deleted the p-values;&lt;br&gt;5) I inserted the appropriate symbols (for kappa and Chi-square) and subscripts/superscripts as appropriate.&lt;br&gt;6) We became a Department, so I changed Division to Department in the funding.&lt;br&gt;7) Please confirm that the Dorfman admission data are correct - they look bizarre. &lt;br&gt;8) Comparison 02.04 looks better with another scale (0.001-1000).&lt;br&gt;9) The SDs for the SaO2 data appear to me to be SEM (very small). Can you confirm they are SDs and not SEMs?&lt;br&gt;10) I've added a funnel plot figure, which suggests a publication bias. Care to comment?&lt;br&gt;11) You need to be careful when saying thesubgroups are different. Chris may have some comments about this.&lt;/p&gt;&lt;p&gt;Regards,&lt;/p&gt;&lt;p&gt;Brian &lt;/p&gt;&lt;p&gt;&lt;br&gt;Authors and contributions: fine&lt;/p&gt;&lt;p&gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;Please fill in the What's new section (under Cover sheet to let the reader know what has changed in the update such as the names of new studies and any changes in results and interpretation)&lt;/p&gt;&lt;p&gt;References: fine&lt;/p&gt;&lt;p&gt;Table of included studies: Please indicate if the studies are parallel design in the first column. Also what were the withdrawal rates, was there ITT analysis? How was allocation concealed in each case.&lt;/p&gt;&lt;p&gt;Metaview Labels: &amp;gt;&amp;gt;&amp;gt; There seem to be some major issues here. The active treatment must be entered in the first column in RevMan and the labels should then reflect this above the groups. The graph labels on the other hand need to be reversed for good outcomes. COULD YOU CONFIRM HOW THE DATA HAS BEEN ENTERED AND CHANGE THIS TO MATCH THE ABOVE CONVENTIONS? I suspect that the wrong labels have been altered, you need to change back the labels on the first screen when you edit an outcome and change the GRAPH labels on the third screen instead!!!!&lt;/p&gt;&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; THERE ALSO APPEARS TO BE AN UNLIKELY SD IN THE FIRST COLUMN FOR 1#5 airways resistance for the KASS study. Is this a mistake?&lt;/p&gt;&lt;p&gt;&amp;gt;&amp;gt;&amp;gt; The cross-over study should just include first arm data; if you do not have it leave it out of the analysis as RevMan cannot weight cross-overs properly.&lt;/p&gt;&lt;p&gt;SYNOPSIS. &amp;gt;&amp;gt;&amp;gt;Final sentence removed : &amp;quot;These results should be added to current guidelines for acute asthma management.&amp;quot;&lt;br&gt; - we are not in a position to say that guidelines should adopt the review conclusions!!&lt;/p&gt;&lt;p&gt;ABSTRACT: &amp;gt;&amp;gt;&amp;gt;Final sentence removed from results : &amp;quot;However, the studies that used heliox to deliver nebulized therapy showed a trend towards an increase in pulmonary function suggesting that heliox could be more effective than oxygen/air in delivering inhaled particles of beta-agonists to distal airways.&amp;quot; In my view speculation based on non-significant trends should not be regarded as a result!&lt;/p&gt;&lt;p&gt;METHODS: &amp;gt;&amp;gt;&amp;gt;Sentence removed from Methods: &amp;quot;A quality weighting procedure will be used, where a quality weight is given to the studies based on the scores, and that way, the robustness of the estimate can be assessed.&amp;quot; Metaview does not incorporate weighting in relation to quality. Do you mean that you will do a quality assessment and use it for sensitivity analysis?&lt;/p&gt;&lt;p&gt;&lt;br&gt;RESULTS:&amp;gt;&amp;gt;&amp;gt;Please insert a short description of the new studies found for this update (put in links and additional number of patients included?)&lt;/p&gt;&lt;p&gt;DISCUSSION: Fine&lt;/p&gt;&lt;p&gt;PS we are now using RevMan 4.1 (change throughout:&amp;gt;)&lt;/p&gt;&lt;p&gt;Sent back to Toby for authors to review the above (especially data entry and Metaview labels please).&lt;br&gt;______________________________________________________________&lt;br&gt;I agree with Chris's comments. Mine are below:&lt;br&gt;1)Some changes in CAPS and **** in text;&lt;br&gt;2)The CAG prefer randomised to randomized (I changed them throughout);&lt;br&gt;3)Abstract: &amp;quot;studies designde to washout.. &amp;quot; replaced with &amp;quot;studies&lt;br&gt;designed to washout ...&amp;quot;;&lt;br&gt;4)Jadad 1995 is actually Jada 1996 (Jadad AR, Moore RA, Carrol D, et al.&lt;br&gt;Assessing the quality of reports of randomized clinical trials: Is blinding&lt;br&gt;necessary? Contr Clin Trials 1996;17:1-12). I have changed this in the&lt;br&gt;review.&lt;br&gt;5)Methods: &amp;quot;Review Manager (version 4.0.4)&amp;quot; changed to &amp;quot;Review Manager&lt;br&gt;(Version 4.1)&amp;quot;.&lt;br&gt;6)Stats: &amp;quot; ...with 95% CI&amp;quot; changed to &amp;quot;..with 95% confidence intervals&lt;br&gt;(CI).&amp;quot;;&lt;br&gt;7)Results: there is a lot of repetition. Please see ***'ed area after&lt;br&gt;first paragraph. &lt;br&gt;8)Results (paragraph 2): change&amp;quot; measurements made breathing....&amp;quot; to&lt;br&gt;...measurements made WHILE breathing ...;&lt;br&gt;9) Results (paragraph 3): &amp;quot;Like pulmonary function..&amp;quot; changed to &amp;quot;Similar&lt;br&gt;to the pulmonary function results, ...&amp;quot;;&lt;br&gt;10)(SMD = 7.67; 95%CI: 0.79 to 14.55) doesn't need a p-value.&lt;br&gt;11)Implications for research: Do you really feel that &amp;quot;Most importantly,&lt;br&gt;larger and more definitive controlled studies are needed to clarify the&lt;br&gt;efficacy.&amp;quot; I find it hard to justify this when there are better treatments&lt;br&gt;available.&lt;br&gt;12)Finally, the assistance of Professor Paul Jones (CAG Coordinating&lt;br&gt;Editor) and Chris Cates (CAG Criticism Editor) was greatly appreciated.&lt;br&gt;13)Need to mention Toby and Karen: The authors wish to acknowledge the&lt;br&gt;assistance of Toby Lasserson and Karen Blackhall of the Cochrane Airways&lt;br&gt;Group (CAG).&lt;/p&gt;&lt;p&gt;&lt;br&gt;Gustavo,&lt;/p&gt;&lt;p&gt;I have edited the full review and have made the following changes:&lt;br&gt;1)Spelling mistakes corrected throughout (mixtured --&amp;gt; mixture; taht --&amp;gt;&lt;br&gt;that; nebulzed --&amp;gt; nebulised; etc).&lt;br&gt;2)Changed all randomiZed to randomised (as stated in the last suggestions,&lt;br&gt;this is the Cochrane convention).&lt;br&gt;3)In Clinical Implications: I have revised this to say: &amp;quot;At this time,&lt;br&gt;there is insufficient evidence to support the role of heliox in the initial&lt;br&gt;treatment of acute asthma patients&amp;quot;.&lt;br&gt;4)Changed all randomiZed to randomised in Excluded trials section.&lt;br&gt;5)Throughout you use PEFR and PEF. I have changed them ALL to PEF for&lt;br&gt;consistency;&lt;br&gt;6)Some spelling mistakes in Included study table corrected.&lt;br&gt;7) Dyspnea is spelled dispnea, dyspnea and dyspnoea - I have corrected all&lt;br&gt;to &amp;quot;dyspnea&amp;quot;.&lt;br&gt;8)I have put in my support into the first section.&lt;/p&gt;&lt;p&gt;The remaining issues is the one Chris and I have repeatedly brought up.&lt;br&gt;Adding FEV-1 and PEF together is not traditionally accepted by Paul and the&lt;br&gt;CAG. It appears this is still being done; however, if that is not being&lt;br&gt;done, please advise. Chris can you reconfirm that this is the approach we&lt;br&gt;want?&lt;/p&gt;&lt;p&gt;Best regards,&lt;/p&gt;&lt;p&gt;Brian&lt;/p&gt;&lt;p&gt;I will discuss this with Paul and get back to Brian. Possibly remove Kress from the data set and change SMD in the text for this as it is a change in FEV1 and not comparable with the other PEF and % PEF data.&lt;br&gt;Metaview labels checked and 2~2 changed labels.&lt;br&gt;CJC&lt;/p&gt;&lt;p&gt;28/1/2003&lt;br&gt;After discussion with Paul today, we felt that it is reasonable to combine PEF and FEV if all the results are either change from baseline (absolute or %) or final value. I would be grateful, therefore, if the details of the data entered into RevMan could be made explicit for each study. It would help readers if this went in the text of the review as well, since there is no way of telling from the Metaview table what data is actually entered. As we have to use SMD the results critically depend on the SD so if this has been estimated in any papers could this also be made explicit.&lt;br&gt;I have checked the Rose data and see it is final FEV1 with SD from the paper, but I cannot see how the Kress mean and SD have been derived from the paper. I look forward to clarification of the data used.&lt;br&gt;If there are a mixture of change and final scores these will need to be separated as different sub-groups.&lt;/p&gt;&lt;p&gt;Chris&lt;br&gt;_________________________________________________________________________________________&lt;br&gt;22 AUg 2003 Update for editing by CJC&lt;br&gt;What's new needs original dates for protocol and review please.&lt;br&gt;P value for heterogeneity of lung function corrected to p= 0.62&lt;br&gt;&amp;quot;Three studies included PEF (% predicted) ( Carter 1996; Kass 1999; Dorfman 2000), two studies reported PEF (L/min) (Henderson 1999;Rose 2002), and one study included FEV1 (L) (Kress 2002). &amp;quot; I have changed this to match the data in Metaview - Rose appears to l/min not % predicted. &lt;br&gt;I am happy for Kress to be included as these appear to be absolute FEV1 results obtained from the authors.&lt;br&gt;Old title: #Heliox for nonintubated acute asthma patients&lt;/p&gt;" NOTES_MODIFIED="2014-06-05 16:18:08 +0100" NOTES_MODIFIED_BY="Emma Welsh" REVIEW_NO="HOX-AST" REVMAN_SUB_VERSION="5.2.7 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="11.0">
+<COVER_SHEET MODIFIED="2014-06-05 16:19:39 +0100" MODIFIED_BY="Emma Welsh">
+<TITLE MODIFIED="2009-05-26 15:55:48 +0100" MODIFIED_BY="Toby Lasserson">Heliox for non-intubated acute asthma patients</TITLE>
+<CONTACT MODIFIED="2014-06-05 16:19:39 +0100" MODIFIED_BY="Emma Welsh"><PERSON ID="12486" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Gustavo</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Rodrigo</LAST_NAME><EMAIL_1>gurodrig@adinet.com.uy</EMAIL_1><MOBILE_PHONE>59898584376</MOBILE_PHONE><ADDRESS><ORGANISATION/><ADDRESS_1>Obligado 1180</ADDRESS_1><ADDRESS_2>Ap. 203</ADDRESS_2><CITY>Montevideo</CITY><ZIP>11300</ZIP><COUNTRY CODE="UY">Uruguay</COUNTRY><PHONE_1>59827082354</PHONE_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2014-06-05 16:19:39 +0100" MODIFIED_BY="Emma Welsh"><PERSON ID="12486" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Gustavo</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Rodrigo</LAST_NAME><EMAIL_1>gurodrig@adinet.com.uy</EMAIL_1><MOBILE_PHONE>59898584376</MOBILE_PHONE><ADDRESS><ORGANISATION/><ADDRESS_1>Obligado 1180</ADDRESS_1><ADDRESS_2>Ap. 203</ADDRESS_2><CITY>Montevideo</CITY><ZIP>11300</ZIP><COUNTRY CODE="UY">Uruguay</COUNTRY><PHONE_1>59827082354</PHONE_1></ADDRESS></PERSON><PERSON ID="12478" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Charles</FIRST_NAME><MIDDLE_INITIALS>V</MIDDLE_INITIALS><LAST_NAME>Pollack</LAST_NAME><SUFFIX>M.A., M.D., FACEP</SUFFIX><POSITION>Chairman</POSITION><EMAIL_1>cvpollack@gmail.com</EMAIL_1><EMAIL_2>pollackc@pahosp.com</EMAIL_2><ADDRESS><DEPARTMENT>Department of Emergency Medicine</DEPARTMENT><ORGANISATION>Pennsylvania Hospital</ORGANISATION><ADDRESS_1>800 Spruce Street</ADDRESS_1><ADDRESS_2>University of Pennsylvania Health System</ADDRESS_2><CITY>Philadelphia</CITY><ZIP>PA 19107</ZIP><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>215-829-7549</PHONE_1><FAX_1>215-829-8044</FAX_1></ADDRESS></PERSON><PERSON ID="12485" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Carlos</FIRST_NAME><LAST_NAME>Rodrigo</LAST_NAME><SUFFIX>Dr</SUFFIX><EMAIL_1>crodrigo@asesp.com.uy</EMAIL_1><ADDRESS><DEPARTMENT>Unidad de Cuidados Intensivos</DEPARTMENT><ORGANISATION>Sociedad Española Primera en Socorros Mutuos</ORGANISATION><ADDRESS_1>Bulevar Artigas 1465</ADDRESS_1><CITY>Montevideo</CITY><ZIP>11300</ZIP><COUNTRY CODE="UY">Uruguay</COUNTRY><PHONE_1>5982 400 3526</PHONE_1><FAX_1>59824090962</FAX_1></ADDRESS></PERSON><PERSON ID="FB72D3DD82E26AA20100F9CCFABFA64F" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Brian</FIRST_NAME><MIDDLE_INITIALS>H</MIDDLE_INITIALS><LAST_NAME>Rowe</LAST_NAME><SUFFIX>MD, MSc, CCFP (EM), FCCP (BR)</SUFFIX><POSITION>Professor and Research Director</POSITION><EMAIL_1>brian.rowe@ualberta.ca</EMAIL_1><ADDRESS><DEPARTMENT>Department of Emergency Medicine</DEPARTMENT><ORGANISATION>University of Alberta</ORGANISATION><ADDRESS_1>Room 1G1.43 Walter C. Mackenzie Health Sciences Centre</ADDRESS_1><ADDRESS_2>8440  112th Street</ADDRESS_2><CITY>Edmonton</CITY><ZIP>T6G 2B7</ZIP><REGION>Alberta</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 780 407 6707</PHONE_1><PHONE_2>+1 780 407 6761</PHONE_2><FAX_1>+1 780 407 3982</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2010-08-25 11:17:26 +0100" MODIFIED_BY="Emma J Welsh">
+<UP_TO_DATE>
+<DATE DAY="25" MONTH="8" YEAR="2010"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="6" MONTH="8" YEAR="2010"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="1" MONTH="8" YEAR="2010"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2003"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2006"/>
+</DATES>
+<WHATS_NEW MODIFIED="2014-06-05 16:18:08 +0100" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2014-06-05 16:18:08 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="5" MONTH="6" YEAR="2014"/>
+<DESCRIPTION>
+<P>PLS title amended</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2014-06-05 16:18:01 +0100" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2014-06-05 16:18:01 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="25" MONTH="8" YEAR="2010"/>
+<DESCRIPTION>
+<P>New literature search run, no new included studies found.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2010-08-25 11:17:49 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="19" MONTH="8" YEAR="2009"/>
+<DESCRIPTION>
+<P>Literature search re-run; no new studies found</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2009-08-19 09:19:58 +0100" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="1" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Literature search re-run; no new studies found. </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-05-26 15:53:03 +0100" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="25" MONTH="5" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2008-09-26 15:27:05 +0100" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="2" MONTH="8" YEAR="2006"/>
+<DESCRIPTION>
+<P>2006 update<BR/>
+<BR/>1) The analysis included four new trials: Xie 2003; Kim 2005; Lin Lee 2005; Rivera 2006.<BR/>
+<BR/>2) In the sensitivity analyses we included the baseline pulmonary function impairment (mild to moderate versus moderate to severe).<BR/>
+<BR/>3) The studies that presented a moderate to severe pulmonary function reduction showed a significant improvement compared with the studies with mild to moderate baseline obstruction.<BR/>
+<BR/>4) Overall, the conclusions remain unchanged.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Departamento de Emergencia. Hospital Central de las FF.AA.</NAME>
+<COUNTRY CODE="UY">Uruguay</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Department of Emergency Medicine, University of Alberta</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Canadian Institute of Health Research (CIHR)</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2014-06-05 16:17:35 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2014-06-05 16:17:35 +0100" MODIFIED_BY="Toby J Lasserson">Heliox (mixture of helium and oxygen) compared to either oxygen or air for people with acute asthma</TITLE>
+<SUMMARY_BODY MODIFIED="2014-06-05 16:16:40 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Acute asthma is a common disease presentation to the emergency department (ED) in many countries. Treatment of acute asthma is based on rapid reversal of bronchospasm and arresting airway inflammation. The main agents employed to treat acute asthma include combined treatments with bronchodilating agents and corticosteroids. However, there is evidence that helium and oxygen mixtures (heliox) may provide additional benefits to patients with acute asthma. This review examines the evidence from ten<B> </B>randomised controlled trials involving 544 patients which compared heliox to oxygen or air, when used in conjunction with the other standard acute treatments. The reviewers conclude that the evidence does not support routine use of heliox in patients with acute asthma.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2010-08-25 11:19:42 +0100" MODIFIED_BY="Emma J Welsh">
+<ABS_BACKGROUND>
+<P>Helium and oxygen mixtures (heliox), have been used sporadically in respiratory medicine for decades. Their use in acute respiratory emergencies such as asthma has been the subject of considerable debate. Despite the lapse of more than 60 years since it was first proposed, the role of heliox in treating patients with severe acute asthma remains unclear.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine the effect of the addition of heliox to standard medical care on the course of acute asthma, as measured by pulmonary function testing and clinical endpoints.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2010-08-25 11:18:45 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomised controlled trials were identified from the Cochrane Airways Group Specialised Register. In addition, we contacted primary authors and experts and searched reference lists of articles. Searches are current to August 2010.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2010-08-25 11:19:42 +0100" MODIFIED_BY="Emma J Welsh">
+<P>1) Randomised, single or double blind, controlled trials; 2) children or adults with a clinical diagnosis of acute asthma seen in emergency departments or equivalent acute care settings; and 3) compared treatment with inhaled heliox to placebo (oxygen or air).</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two review authors independently assessed the studies for inclusion and quality assessment; disagreement was resolved by a third review author and consensus. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2009-08-19 09:21:07 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>This review includes a total of ten<B> </B>trials involving 544<B> </B>acute asthma patients. Seven studies involved adults and three<B> </B>studies dealt solely with children. Three were assessed as high quality (Jadad score &gt; 3). Pulmonary function tests were recorded during heliox administration (15 to 60 min). Pooling of the eight trials contributing data to this review showed no significant group differences (standardised mean differences -0.28; 95% confidence interval (CI) -0.56 to 0.01). There was significant heterogeneity among the studies. Heliox use did improve pulmonary function only in the subgroup of patients with the most severe baseline pulmonary function impairment; however, this conclusion is based on a small number of studies. There were no significant differences between groups when adults versus children, and high versus low heliox dose studies were compared. Finally, at the end of treatment, participants treated with heliox showed no significant different risk of admission to hospital (RR 0.83 (95%CI 0.66 to 1.08, P = 0.17, I<SUP>2</SUP> = 0%).</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>The existing evidence does not provide support for the administration of helium-oxygen mixtures to all ED patients with acute asthma. At this time, heliox treatment does not have a role to play in the initial treatment of patients with acute asthma. Nevertheless, new evidence suggests certain beneficial effects in patients with more severe obstruction. Since these conclusions are based upon between-group comparisons and small studies, they should be interpreted with caution.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="[Empty name]">
+<BACKGROUND>
+<P>Helium and oxygen mixtures (heliox), have been used sporadically in respiratory medicine for decades. For example, as early as 1935 heliox was introduced to the medical community for treatment of upper and lower airway obstruction (<LINK REF="REF-Barach-1935" TYPE="REFERENCE">Barach 1935</LINK>). The interest in heliox for treatment of asthma became prominent in the 1980's when deaths from asthma began to rise. Due to their low density with respect to air (80% helium/20% oxygen mixture has a density approximately one third that of air), heliox mixtures have the potential to decrease airway resistance and therefore decrease work of breathing in those situations associated with increased airway resistance. Thus, they may provide benefit to patients suffering from obstructive lesions of the larynx, trachea, and airways. Additionally, research using a heliox mixture, has demonstrated a greater percentage of lung particle retention (<LINK REF="REF-Anderson-1993" TYPE="REFERENCE">Anderson 1993</LINK>). This suggests that one of the beneficial effects of heliox use in reactive airway diseases may be improved deposition of aerosolized bronchodilators in ventilated acute asthma patients (<LINK REF="REF-Goode-2001" TYPE="REFERENCE">Goode 2001</LINK>). Heliox has also been recommended as a useful adjunct in the adult patient with severe asthma, both during spontaneous ventilation as well as during mechanical ventilation (<LINK REF="STD-Shiue-1989" TYPE="STUDY">Shiue 1989</LINK>; <LINK REF="STD-Gluck-1990" TYPE="STUDY">Gluck 1990</LINK>; <LINK REF="STD-Kass-1995" TYPE="STUDY">Kass 1995</LINK>; <LINK REF="STD-Manthous-1995" TYPE="STUDY">Manthous 1995</LINK>). Conversely, other research has concluded that the inhaled mass of albuterol decreased significantly when a nebulizer was powered with heliox rather than air (<LINK REF="REF-Hess-1999" TYPE="REFERENCE">Hess 1999</LINK>). Reports describing the use of heliox in children with asthma also provide conflicting results, with some failing (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>) and others showing a benefit (<LINK REF="STD-Kudukis-1997" TYPE="STUDY">Kudukis 1997</LINK>). However, much of the evidence arises from either small trials or uncontrolled studies. Fortunately, larger trials comparing the effectiveness of heliox to oxygen for beta-agonist therapy have recently been performed (<LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>). </P>
+<P>In summary, much is unknown regarding the use of heliox in acute asthma. First, without controlled studies, the effect of heliox is difficult to assess. Second, the duration of administration and optimal helium/oxygen mixture remain undetermined. Finally, the cost of treatment is relatively high and the number needed to treat for an acceptable benefit has not been established. Given the above controversies, the need for a systematic review exists. Prior to the publication of the first version if this review in 2002, no systematic reviews on this topic had been published, and it is not surprising that heliox use is variable and institution specific. Despite the lapse of more than 60 years since its use was first proposed, the role of heliox in treating patients with acute severe asthma is unclear. </P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2014-06-05 16:11:23 +0100" MODIFIED_BY="Emma J Welsh">
+<P>To determine the effect of the addition of heliox to standard medical care on the course of acute asthma, as measured by pulmonary function and clinical endpoints.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2014-06-05 16:17:49 +0100" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2014-06-05 16:17:49 +0100" MODIFIED_BY="Emma J Welsh">
+<CRIT_STUDIES>
+<P>Only randomised, single or double blind, controlled trials were considered for inclusion. Both parallel group and crossover designs were considered. </P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2010-08-25 11:20:44 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Studies including either children or adult (&gt; 18 years of age) patients presenting to an emergency department or equivalent care settings for treatment of acute asthma were considered for inclusion in the review. Age formed one of the sub-groups examined in the review. All study participants had a clinical diagnosis of asthma exacerbation (according to accepted criteria such as those published by the American Thoracic Society (ATS); studies involving solely patients with chronic obstructive pulmonary disease (COPD) were excluded. Studies including both COPD and asthmatics patients were to be considered if patients with acute asthma could be separately analysed by reviewing the study or through correspondence with the authors. Studies involving acute asthma patients requiring mechanical ventilation at presentation were also excluded.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Only studies comparing treatment with inhaled heliox to control (oxygen or air) were considered. Study co-interventions such as corticosteroids and other drugs were monitored and formed planned subgroup comparisons when possible. Different helium-oxygen mixtures (80/20, 70/30, 60/40), and duration of heliox administration were considered in subgroup analysis. </P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2014-06-05 16:17:49 +0100" MODIFIED_BY="Toby J  Lasserson">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2014-06-05 16:13:55 +0100" MODIFIED_BY="Emma J Welsh">
+<OL>
+<LI>Changes in peak expiratory flow (PEF; absolute and per cent of predicted [% PEF]), forced expiratory volume in the first second (FEV1; absolute and per cent of predicted [% FEV1])</LI>
+</OL>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2014-06-05 16:17:49 +0100" MODIFIED_BY="Emma J Welsh">
+<OL>
+<LI>Symptom score/symptoms: wheezing, shortness of breath, dyspnoea, accessory muscle use;</LI>
+<LI>physiological measures: PaO<SUB>2</SUB>, SaO<SUB>2</SUB>, and vital signs;</LI>
+<LI>side effects/adverse effects; and</LI>
+<LI>clinical outcomes: need for mechanical ventilation and admissions to the hospital.</LI>
+</OL>
+<P>The timing of assessment was during breathing heliox (15 to 60 min) and assessments included up to six hours of treatment in the Emergency Department (ED).</P>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2010-08-26 09:33:29 +0100" MODIFIED_BY="[Empty name]">
+<SUBSECTION>
+<HEADING LEVEL="5">Electronic searches</HEADING>
+<P>We identified trials using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and CINAHL, and handsearching of respiratory journals and meeting abstracts (please see the <A HREF="http://www.mrw.interscience.wiley.com/cochrane/clabout/articles/AIRWAYS/frame.html">Airways Group Module</A> for further details). All records in the Specialised Register coded as 'asthma' were searched using the following terms:</P>
+<P>helium OR heliox OR oxygen*</P>
+<P>An additional search of CENTRAL, the Cochrane Controlled Trials Register, was completed using the same search strategy. Searches are current to August 2010.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Other sources</HEADING>
+<P>We contacted authors of all studies to locate other unpublished or "in progress" studies which met the inclusion criteria. We searched references from included studies, reviews and texts for citations.</P>
+</SUBSECTION>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2010-08-25 11:22:13 +0100" MODIFIED_BY="Emma J Welsh">
+<SUBSECTION>
+<HEADING LEVEL="5">Selection of trials</HEADING>
+<P>Titles, abstracts, and citations were independently reviewed by the two reviewers (GR, CR) to assess potential relevance for full review. From the full text, both reviewers independently assessed studies for inclusion based on the criteria for population, intervention, study design and outcomes. Agreement was measured using kappa statistics and any disagreement over study inclusion was resolved by a third reviewer (CVP) and consensus.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Quality assessment</HEADING>
+<P>Two reviewers (GR,CR) assessed the methodological quality of the included trials using two methods. First, using the Cochrane approach to assessment of allocation concealment: 1) Grade A: Adequate concealment 2) Grade B: Uncertain 3) Grade C: Clearly inadequate concealment. Second, each study was assessed for validity on a 0-5 scale, method developed by Jadad (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>). Inter-rater reliability was measured for both quality scales by using kappa statistics.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Data extraction</HEADING>
+<P>Two review authors (GR, CR) independently extracted data from included trials and entered results into the Cochrane Collaboration software program (Review Manager 5). Data extraction included the following items: 1) population: age, gender, number of patients studied, patient demographics, withdrawals; 2) Intervention: agent, dose, route of delivery, and duration of therapy; 3) control: concurrent treatments; 4) outcomes; and 5) design: method of randomisation and allocation concealment.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Statistical considerations</HEADING>
+<P>All included trials were combined using Review Manager 5. For continuous variables, the results of individual studies were calculated as a random-effects weighted mean (WMD) or standardised mean differences (SMD), with 95% confidence intervals (CIs). To adjust for differences in baseline spirometric measures between the control and treatment groups, the baseline difference between groups was added to the control group at the time of outcome assessment. The contribution of each trial to the pooled estimate was proportional to the inverse of the variance. Homogeneity of effect sizes were tested with the Dersimonian and Laird method with P &lt; 0.1 as the cut point for significance.<B> </B>We also measured heterogeneity by using the I-squared test (<LINK REF="REF-Higgins-2003" TYPE="REFERENCE">Higgins 2003</LINK>). Values of 25%, 50% and 75% represent low, moderate and high heterogeneity respectively. Sensitivity analysis was performed using: age (adults versus children), different helium-oxygen mixtures (80/20, versus 70/30 or 60/40), methodological quality (concealment Grade A versus other Grades; Jadad score (&gt; 3 versus &#8804; 3) and the method of heliox use (studies designed to washout air in the lungs and replace it with heliox versus studies that used heliox to deliver nebulized therapy). Finally, differences between estimates were tested according to methods described by <LINK REF="REF-Altman-and-Bland-2003" TYPE="REFERENCE">Altman and Bland 2003</LINK>.<BR/>
+</P>
+</SUBSECTION>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="Emma J Welsh">
+<STUDY_DESCRIPTION MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="Emma J Welsh">
+<P>The initial search produced 94 potentially relevant citations. Of these, 13 studies were reviewed in full text for possible inclusion, all identified from the literature search. Five studies were excluded because they were non-randomised trials and one because it included out-of-hospital patients (<LINK REF="STD-L_x0027_Her-2000" TYPE="STUDY">L'Her 2000</LINK>). One randomised trial (<LINK REF="STD-Kudukis-1997" TYPE="STUDY">Kudukis 1997</LINK>) was not included. There were a number of reasons for this: 1) The primary outcome measure was pulsus paradoxus; 2) FEV<SUB>1</SUB> and PEF data could not be obtained from the authors; 3) an unvalidated "dyspnoea score" was used; this was composed of: SaO<SUB>2</SUB>, inspired FIO<SUB>2</SUB>, inspiratory breath sounds, accessory muscle use, expiratory wheeze and cerebral function, and 4) SaO<SUB>2</SUB> data were provided; however, it was unclear what FIO<SUB>2</SUB> when those measurements were made. After two updates (2002 and 2006), a<B> </B>total of ten randomised controlled trials (544 participants) were selected for inclusion (<I>see</I> <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>). There was excellent agreement between the two review authors´ quality scores for the six trials (kappa = 1.0).</P>
+<P>A total of four papers were initially included for this review (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>) and two further papers were added in 2002 (<LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>). A third update in 2006 has added an additional four studies (<LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>).</P>
+<P>A total of ten randomised controlled trials were selected for inclusion. Seven studies involved adults (<LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>; <LINK REF="STD-Lin-Lee-2005b" TYPE="STUDY">Lin Lee 2005b</LINK>) and three recruited children (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>). Eight studies were conducted in North America, one in Taiwan, and one in China. The studies enrolled patients with mild to severe reductions in the mean pulmonary function measures at presentation. For example, mean pre-treatment PEFs or FEV1s were reported as: 43% predicted (<LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>), 39 to 42% predicted (<LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>), 26 to 30% predicted (<LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>), 49% predicted (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>), and 32.6% (<LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>), 1.35 L (<LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>) and<B> </B>35% (<LINK REF="STD-Lin-Lee-2005b" TYPE="STUDY">Lin Lee 2005b</LINK>). Eight studies include patients presenting to an ED (<LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>); on the other hand, one study included patients that required hospital admission (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>) and one trial administered treatment in a respiratory outpatient department (<LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>). Inhaled albuterol and corticosteroids were used in almost all the trials; One study used fenoterol as a bronchodilator. In three studies patients received a helium-oxygen mixture of 80:20 (<LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>), six used the 70:30 mixture (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>), and one used a 79:21 mixture (<LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>). The comparison driving gas for the studies were air (<LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>) or oxygen (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>). Two studies were designed to washout the air in the lungs and replace it with heliox (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>). On the other hand, eight studies used heliox to deliver nebulised therapy (<LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>). The duration of heliox therapy was between 15 and 480 min. The main reported outcome variable in eight trials was spirometric measurements (PEF as % predicted, FEV1 as % predicted, PEF L/min, FEV1 L). Two studies included two different randomised trials each (<LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>; <LINK REF="STD-Xie-2003b" TYPE="STUDY">Xie 2003b</LINK>;<LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>; <LINK REF="STD-Lin-Lee-2005b" TYPE="STUDY">Lin Lee 2005b</LINK>). However, only one trial from each study contributed data. Reasons for the exclusion of both remaining trials were: 1) Heliox was administered for two days (<LINK REF="STD-Xie-2003b" TYPE="STUDY">Xie 2003b</LINK>), and no data were available to pool<B> </B>(<LINK REF="STD-Lin-Lee-2005b" TYPE="STUDY">Lin Lee 2005b</LINK>).</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>All studies were randomised, controlled trials; three were double-blind, four were single-blind, and three were unblinded. Using the Jadad method, three studies had a score &gt; 3 (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>). The concealment of allocation was adequate (A) in two studies (<LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>;<LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>), and unclear (B) in eight (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK> ; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>). Overall, the methodological quality was rated as moderate.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Eight trials examined response to treatment using pulmonary function tests. Four studies included PEF (% predicted) (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>), two studies reported PEF (L/min) (<LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>), and two studies included FEV<SUB>1</SUB> (L) (<LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Xie-2003a" TYPE="STUDY">Xie 2003a</LINK>). In one study SD were estimated from SEM (<LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>) and in another trial FEV<SUB>1</SUB> (L) and SD were estimated and confirmed by authors (<LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>). There do appear to be unresolved issues concerning PEF measurements in patients breathing helium-oxygen mixtures, because helium is lighter than nitrogen. In one of the papers included here (<LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>), PEF was measured with a peak flow meter and the authors did not report correction for gas density. By contrast, in a study that was not included here (<LINK REF="STD-Kudukis-1997" TYPE="STUDY">Kudukis 1997</LINK>), PEF measurements made while breathing heliox needed to be corrected by a factor of 1.32 when measured using a Wright Peak Flow Meter. Spirometers were used for the other four trials in this review which should not require correction since they are volumetric devices. Pooling of the eight trials contributing data to this review showed no significant group differences (SMD -0.28; 95% CI -0.56 to 0.01, <LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>). However this effect showed heterogeneity between the studies (I<SUP>2 </SUP>= 45.8%). There were no significant differences between groups when we compared adults versus children, high dose versus low heliox dose and breath heliox versus nebulized with heliox (<I>see </I>MetaView graphs). When we compared studies stratified by methodological quality, high quality studies showed a significant improvement in pulmonary function (SMD -0.56; 95%CI -1.04 to -0.08); however, there was no statistically significant difference when the high and low quality subgroups were compared with each other (SMD -0.46; 95%CI-2.12 to 1.20). Finally, the three studies with a moderate to severe decrease in baseline pulmonary function showed a significant difference compared with the five studies with a mild-moderate decrease (SMD 0.61;95%CI 0.21 to 1.00). Statistical heterogeneity remained, albeit to a lower degree (I<SUP>2 </SUP>= 27.2%); however, with subgroup comparisons based on baseline pulmonary function, there is a danger of regression to the mean.</P>
+<P>With regard to additional outcomes, seven studies reported admission to hospital (<LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>; <LINK REF="STD-Lin-Lee-2005a" TYPE="STUDY">Lin Lee 2005a</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>), five reported dyspnoea or pulmonary index<B> </B>(<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>; <LINK REF="STD-Kim-2005" TYPE="STUDY">Kim 2005</LINK>; <LINK REF="STD-Rivera-2006" TYPE="STUDY">Rivera 2006</LINK>), four reported heart rate (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>; <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Kress-2002" TYPE="STUDY">Kress 2002</LINK>), and three reported oxygen saturation (<LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>; <LINK REF="STD-Rose-2002" TYPE="STUDY">Rose 2002</LINK>). There was no significant reduction in admission to hospital in favour of heliox (RR 0.83; 95%CI 0.63 to 1.08, <LINK REF="CMP-002.04" TYPE="ANALYSIS">Analysis 2.4</LINK>). This effect was statistically homogeneous (I<SUP>2</SUP> = 0%). There were no significant differences between groups in the remaining secondary variables (dyspnoea, heart rate and oxygen saturation). Two studies reported need for mechanical ventilation; there were no intubations in the first (<LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>) and one patient in the control group required endotracheal intubation in the second (<LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>). Finally, adverse effects were reported in two trials. In the <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK> study, one patient became hypoxic while receiving the 70:30 heliox mix, and the <LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK> study reported only one heliox-treated patient that experienced dizziness during the intervention. Overall, heliox appears to be safe and well tolerated in the mixtures used in these studies to treat acute asthma.<BR/>
+</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2010-08-25 11:28:56 +0100" MODIFIED_BY="Emma J Welsh">
+<P>This systematic review has attempted to incorporate the best available evidence on heliox use in patients with acute asthma. We found ten randomised placebo-controlled clinical trials that compared heliox to other forms of standard care. Several important conclusions arise from the analysis. Firstly, the addition of heliox to standard medical care during the course of acute asthma was not found to be more effective than a comparison delivery with air or oxygen. The overall pooled analysis reveals that there are not significant differences between groups. Furthermore, the point estimate is associated with narrow confidence intervals, including clinically unimportant changes. These results are similar irrespective of the age (children versus adults), methodological quality (high versus low) and mixture of heliox (e.g. high or low helium-oxygen mixtures). However, the studies characterised by moderate to severe pulmonary function impairment showed a significant improvement compared with the studies with mild to moderate pulmonary function impairment. These findings suggest that heliox could be more effective than oxygen/air in delivering inhaled particles of beta-agonists to distal airways, particularly in the most severe patients. Lastly, there was insufficient information to pool other outcomes or side effects, so no firm conclusions regarding adverse effects cannot be drawn. In one study one patient became hypoxic while receiving the 70:30 heliox mixture. Overall, heliox appears to be safe and well tolerated in the mixtures used in these studies to treat acute asthma.</P>
+<SUBSECTION>
+<HEADING LEVEL="6">Strengths and limitations</HEADING>
+<P>Our analysis is subject to the general problems of meta-analysis. There is a possibility of publication bias in this meta-analysis. For example, by missing unpublished trials we may be providing an inaccurate estimation of the effect of heliox treatment. However, a comprehensive search of the published literature for potentially relevant studies was conducted, using a systematic strategy to avoid bias. This was followed by attempts to contact corresponding and first authors. Despite these efforts the funnel plot (for admissions) appears asymmetrical (<LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>). There was no statistical heterogeneity for this outcome, and the 'outlying' study with the point estimate favouring control was available as a letter to a journal (<LINK REF="STD-Dorfman-2000" TYPE="STUDY">Dorfman 2000</LINK>). We cannot exclude the possibility that other negative, unpublished studies exist which would alter the pooled effect estimate. There is also a possibility of study selection bias; however, we employed two independent review authors, and feel confident that the studies excluded were done so for consistent and appropriate reasons.</P>
+<P>Like all systematic reviews, this meta-analysis is limited by the quality of existing research and how the data are reported. Only three of ten included trials were considered "high quality". In fact,<B> </B>comparison of trials with high methodological quality to low did affect the conclusions. Nevertheless, the number and size of studies included remains small. So, the current conclusions may be modified by the publication of results from larger trials.</P>
+</SUBSECTION>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2010-08-25 11:30:32 +0100" MODIFIED_BY="Emma J Welsh">
+<IMPLICATIONS_PRACTICE>
+<UL>
+<LI>The existing evidence fails to demonstrate a clear benefit from the administration of helium-oxygen mixtures to all ED patients with acute asthma.</LI>
+<LI>Treatment with heliox may improve pulmonary function in the most severe acute asthma patients; however, clinicians must ensure other evidence-based treatments are employed.</LI>
+</UL>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2010-08-25 11:30:32 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Questions regarding the treatment of acute asthma with heliox remain unanswered:<BR/>
+</P>
+<UL>
+<LI>Additional studies are needed to confirm the sub-group findings from this review suggesting a beneficial effect of heliox in severe acute asthma. In future studies, severity must be clearly defined and based on presenting pulmonary function results and response to initial beta-agonist therapy whenever possible.</LI>
+<LI>Studies involving very young children need to be performed to determine the effect of heliox in this age group</LI>
+<LI>Further studies are required to examine the effect of heliox based on the prior inhaled steroid use in patients presenting to the ED with an asthma exacerbation. The effect of treatment may differ based on inhaled steroid use, and the answer to this question remains unclear. Inhaled steroids are increasingly employed and the development of high dose inhaled steroids with lower systemic activity suggests that this would be an important area for future research.</LI>
+<LI>Future research on acute asthma must concentrate on well defined outcomes which may lead to more informative reviews. More specifically, criteria for discharge and reporting of lung function test data in a systematic fashion would assist in further work. Finally, better description of the methodology would also be beneficial.</LI>
+</UL>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>The authors wish to acknowledge the assistance of Toby Lasserson, Liz Arnold and Karen Blackhall of the Cochrane Airways Group (CAG). We would also like to acknowledge the assistance of the following corresponding authors: Stephen Mette, Jesse B. Hall and David Lin Lee. Finally, the assistance of Professor Paul Jones and Dr Chris Cates was greatly appreciated.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>The authors who have been involved in this review have done so without any known conflicts of interest. They are neither involved with the primary studies nor affiliated with any companies that produces heliox.<BR/> </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>GUS initiated the review, wrote the protocol, performed the searches, contributed to selection for inclusion, quality assessment, extracted data, converted the review to RevMan 4.0, and is the principle author. CAR contributed to the protocol development, performed selection for inclusion and quality assessments, and helped edit. CVP originally developed the idea for the review, assisted with protocol writing and edited. BHR was the assigned ARG editor and assisted with protocol writing and edited.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2009-08-19 20:51:32 +0100" MODIFIED_BY="Toby J  Lasserson">
+<STUDIES MODIFIED="2009-05-27 16:01:11 +0100" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2009-05-27 16:01:11 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Carter-1996" NAME="Carter 1996" YEAR="">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Carter ER, Webb CR, Moffitt DR</AU>
+<TI>Evaluation of heliox in children hospitalized with acute severe asthma. A randomized crossover trial</TI>
+<SO>Chest</SO>
+<YR>1996</YR>
+<VL>109</VL>
+<PG>1256-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Dorfman-2000" MODIFIED="2009-05-27 15:55:36 +0100" MODIFIED_BY="[Empty name]" NAME="Dorfman 2000" YEAR="2000">
+<REFERENCE MODIFIED="2009-05-27 15:55:36 +0100" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Dorfman TA, Burton JH, Jones P, Shipley ER, Mette SA</AU>
+<TI>Inhaled heliox does not benefit emergency department patients with moderate to severe asthma</TI>
+<SO>American Journal of Emergency Medicine</SO>
+<YR>2000</YR>
+<VL>18</VL>
+<PG>495-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Henderson-1999" NAME="Henderson 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Henderson SO, Acharya P, Kilaghbian T, Perez J, Korn CS, Chan LS</AU>
+<TI>Use of heliox-driven nebulizer therapy in the treatment of acute asthma</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>1999</YR>
+<VL>33</VL>
+<PG>141-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kass-1999" NAME="Kass 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kass EJ, Terregino CA</AU>
+<TI>The effect of heliox in acute severe asthma. A randomized controlled trial</TI>
+<SO>Chest</SO>
+<YR>1999</YR>
+<VL>116</VL>
+<PG>296-300</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kim-2005" NAME="Kim 2005" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kim IK, Phrampus E, Venkataraman S, et al</AU>
+<TI>Helium/oxygen-driven albuterol nebulization in the treatment of children with moderate to severe asthma exacerbations: A randomized, controlled trial</TI>
+<SO>Pediatrics</SO>
+<YR>2005</YR>
+<VL>116</VL>
+<PG>1127-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kress-2002" NAME="Kress 2002" YEAR="">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kress JP, Noth I, Gehlbach BK, Barman N, Pohlman AS, Miller A, et al</AU>
+<TI>The utility of albuterol nebulized with heliox during acute asthma exacerbations</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>2002</YR>
+<VL>165</VL>
+<PG>1317-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lin-Lee-2005a" NAME="Lin Lee 2005a" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lin Lee D, Wel Hsu C, Lee H, et al</AU>
+<TI>Beneficial effects of albuterol therapy driven by heliox versus by oxygen in severe asthma exacerbation</TI>
+<SO>Academic Emergency Medicine</SO>
+<YR>2005</YR>
+<VL>12</VL>
+<NO>9</NO>
+<PG>820-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rivera-2006" MODIFIED="2009-05-27 16:01:11 +0100" MODIFIED_BY="[Empty name]" NAME="Rivera 2006" YEAR="">
+<REFERENCE MODIFIED="2009-05-27 16:01:11 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rivera ML, Kim TY, Stewart GM, et al</AU>
+<TI>Albuterol nebulized in heliox in the initial ED treatment of pediatric asthma: a blinded, randomized controlled trial</TI>
+<SO>American Journal of Emergency Medicine</SO>
+<YR>2006</YR>
+<VL>24</VL>
+<PG>38-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rose-2002" NAME="Rose 2002" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rose JS, Panacek EA, Miller P</AU>
+<TI>Prospective randomized trial of heliox-driven continuous nebulizers in the treatment of asthma in the emergency department</TI>
+<SO>Journal of Emergency Medicine</SO>
+<YR>2002</YR>
+<VL>22</VL>
+<PG>133-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Xie-2003a" NAME="Xie 2003a" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Xie L, Liu Y, Chen L, et al</AU>
+<TI>Inhaling B2-agonist with heliox-driven in bronchial asthma</TI>
+<SO>Chinese Medical Journal</SO>
+<YR>2003</YR>
+<VL>116</VL>
+<PG>1011-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2009-05-26 15:54:54 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Bag-2002" NAME="Bag 2002" YEAR="">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Bag R, Bandi V, Fromm RE, Guntupalli KK</AU>
+<TI>The effect of heliox-driven bronchodilator aerosol therapy on pulmonary function tests in patients with asthma</TI>
+<SO>Journal of Asthma</SO>
+<YR>2002</YR>
+<VL>39</VL>
+<PG>659-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gluck-1990" NAME="Gluck 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gluck EH, Onorato DJ, Castriotta R</AU>
+<TI>Helium-oxygen mixtures in intubated patients with status asthmaticus and respiratory acidosis</TI>
+<SO>Chest</SO>
+<YR>1990</YR>
+<VL>98</VL>
+<PG>693-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kass-1995" NAME="Kass 1995" YEAR="1995">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kass JE, Castriotta RJ</AU>
+<TI>Heliox therapy in acute severe asthma</TI>
+<SO>Chest</SO>
+<YR>1995</YR>
+<VL>107</VL>
+<PG>757-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kudukis-1997" NAME="Kudukis 1997" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kudukis TM, Manthous CA, Schmidt GA, Hall JB, Wylam ME</AU>
+<TI>Inhaled helium-oxygen revisted: effect of inhaled helium-oxygen during the treatment of status asthmaticus in children</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>1997</YR>
+<VL>130</VL>
+<PG>217-24</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-L_x0027_Her-2000" NAME="L'Her 2000" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>L'Her E, Monchi M, Joly B, Marichy J, Lejay M, Dhainaut JF</AU>
+<TI>Helium-oxygen breathing in the early emergency care of acute severe asthma: a randomized pilot study</TI>
+<SO>European Journal of Emergency Medicine</SO>
+<YR>2000</YR>
+<VL>7</VL>
+<PG>271-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lin-Lee-2005b" NAME="Lin Lee 2005b" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lin Lee D, Wel Hsu C, Lee H, et al</AU>
+<TI>Beneficial effects of albuterol therapy driven by heliox versus by oxygen in severe asthma exacerbation</TI>
+<SO>Academic Emergency Medicine</SO>
+<YR>2005</YR>
+<VL>12</VL>
+<NO>9</NO>
+<PG>820-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Manthous-1995" MODIFIED="2009-05-26 15:54:54 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Manthous 1995" YEAR="1995">
+<REFERENCE MODIFIED="2009-05-26 15:54:54 +0100" MODIFIED_BY="Toby J Lasserson" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Manthous CA, Hall JB, Melmed A, Caputo MA, Walter J, Klocksieben JM, et al</AU>
+<TI>Heliox improves pulsus paradoxus and peak expiratory flow in non-intubated patients with severe asthma</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1995</YR>
+<VL>151</VL>
+<PG>310-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schaeffer-1999" NAME="Schaeffer 1999" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schaeffer EM, Pohlman A, Morgan S, Hall JB</AU>
+<TI>Oxygenation in status asthmaticus improves during ventilation with helium-oxygen</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>27</VL>
+<PG>2666-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shiue-1989" NAME="Shiue 1989" YEAR="1989">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Shiue ST, Gluck EH</AU>
+<TI>The use of helium-oxygen mixtures in the support of patients with status asthmaticus and respiratory acidosis</TI>
+<SO>Journal of Asthma</SO>
+<YR>1989</YR>
+<VL>26</VL>
+<PG>177-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Verbeek-1998" NAME="Verbeek 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Verbeek PR, Chopra A</AU>
+<TI>Heliox does not improve FEV1 in acute asthma patients</TI>
+<SO>Journal of Emergency Medicine</SO>
+<YR>1998</YR>
+<VL>16</VL>
+<PG>545-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Xie-2003b" NAME="Xie 2003b" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Xie L, Liu Y, Chen L, Hao F, Jin G, Zhao H</AU>
+<TI>Inhaling beta(2)-agonist with heliox-driven in bronchial asthma</TI>
+<SO>Chinese Medical Journal</SO>
+<YR>2003</YR>
+<VL>116</VL>
+<NO>7</NO>
+<PG>1011-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2009-08-19 20:51:32 +0100" MODIFIED_BY="Toby J  Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2009-08-19 20:51:32 +0100" MODIFIED_BY="Toby J  Lasserson">
+<REFERENCE ID="REF-Altman-and-Bland-2003" MODIFIED="2009-08-19 20:51:32 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Altman and Bland 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Altman DG, Bland JM</AU>
+<TI>Interaction revisited: the difference between two estimates</TI>
+<SO>BMJ</SO>
+<YR>2003</YR>
+<VL>326</VL>
+<PG>219</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Anderson-1993" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Anderson 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Anderson M, Svartengren M, Bylin G, Philipson K, Camner P</AU>
+<TI>Deposition in asthmatics of particles inhaled in air or in helium-oxygen</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1993</YR>
+<VL>147</VL>
+<PG>524-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Barach-1935" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Barach 1935" TYPE="JOURNAL_ARTICLE">
+<AU>Barach AL</AU>
+<TI>The use of helium in the treatment of asthma and obstructive lesions in the larynx and trachea</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1935</YR>
+<VL>9</VL>
+<PG>739-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Goode-2001" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Goode 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Goode ML, Fink JB, Dhand R, Tobin M</AU>
+<TI>Improvement in aerosol with helium-oxygen mixtures during mechanical ventilation</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>2001</YR>
+<VL>163</VL>
+<PG>109-14</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hess-1999" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Hess 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Hess DR, Acosta FI, Ritz RH, Kacmareck RM, Camargo CA</AU>
+<TI>The effect of heliox on nebulizer function using a beta-agonist bronchodilator</TI>
+<SO>Chest</SO>
+<YR>1999</YR>
+<VL>115</VL>
+<PG>184-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2003" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Higgins 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins JPT, Thompson SG, Deecks JJ, et al</AU>
+<TI>Measuring inconsistency in meta-analyses</TI>
+<SO>BMJ</SO>
+<YR>2003</YR>
+<VL>327</VL>
+<PG>557-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports of randomized controlled trials: is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Manthous-1997" NAME="Manthous 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Manthous CA, Morgan S, Pohlman A, Hall JB</AU>
+<TI>Heliox in the treatment of airflow obstruction: a critical review of the literature</TI>
+<SO>Respiratory Care</SO>
+<YR>1997</YR>
+<VL>42</VL>
+<PG>1034-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2009-08-19 09:32:31 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Rodrigo-2001" MODIFIED="2009-08-19 09:32:06 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Rodrigo 2001" TYPE="COCHRANE_REVIEW">
+<AU>Rodrigo G, Rodrigo C, Pollack C, Travers A</AU>
+<TI>Helium-oxygen mixture for nonintubated acute asthma patients</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2001</YR>
+<NO>1</NO>
+<IDENTIFIERS MODIFIED="2009-08-19 09:32:06 +0100" MODIFIED_BY="Toby J Lasserson">
+<IDENTIFIER MODIFIED="2009-08-19 09:32:06 +0100" MODIFIED_BY="Toby J Lasserson" TYPE="DOI" VALUE="10.1002/14651858.CD002884"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Carter-1996">
+<CHAR_METHODS MODIFIED="2010-08-25 11:31:20 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization: no details. Blinding: double-blind,<BR/>crossover<BR/>Withdrawals: two</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="Emma J Welsh">
+<P>11 hospitalised, children (5-18 y)<BR/>Mean age = 12.3 ± 3.6.<BR/>Baseline FEV-1 = 49%.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:31:21 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Heliox (70:30) or oxygen (30%) during 15 min. All received albuterol 5 mg and systemic corticosteroids</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2010-08-25 11:31:22 +0100" MODIFIED_BY="Emma J Welsh">
+<P>FEV1 and PEF % of predicted<BR/>RR<BR/>HR<BR/>SaO2<BR/>Dyspnea</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Authors did not respond.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-08-25 11:31:31 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Dorfman-2000">
+<CHAR_METHODS MODIFIED="2010-08-25 11:31:26 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization: no details. Blinding: no blinding parallel study<BR/>Withdrawals: one</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2010-08-25 11:31:29 +0100" MODIFIED_BY="Emma J Welsh">
+<P>39 ED children and adult acute asthmatics (8-55 y)<BR/>Mean age = 12.3 ± 3.6<BR/>Baseline FEV-1 = 49%</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:31:30 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Heliox (70:30) or oxygen (30%) during 15 min. All received albuterol 5 mg and systemic corticosteroids</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1 and PEF % of predicted. RR HR SaO2 Dyspnea</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2010-08-25 11:31:31 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Authors did not respond</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-08-25 11:31:44 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Henderson-1999">
+<CHAR_METHODS MODIFIED="2010-08-25 11:31:33 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization: no details<BR/>Blinding: single-blinded, parallel study<BR/>Withdrawals: not stated</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2010-08-25 11:31:39 +0100" MODIFIED_BY="Emma J Welsh">
+<P>204 ED adult acute asthmatics (18-65 y)<BR/>Mean age = 44.5 ±11.8.<BR/>Baseline FEV-1 = 1.1 L</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:31:41 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Albuterol 5 mg in heliox (70:30) or oxygen every 15 min x 3 (45 min)<BR/>All received systemic corticosteroids (prednisone)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>PEF (L/min) or FEV1 (L)<BR/>Admission rate</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2010-08-25 11:31:44 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Authors did not respond</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-08-25 11:31:50 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Kass-1999">
+<CHAR_METHODS MODIFIED="2010-08-25 11:31:46 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization: no details<BR/>Blinding: non-blinded, parallel study<BR/>Withdrawals: five</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2010-08-25 11:31:48 +0100" MODIFIED_BY="Emma J Welsh">
+<P>23 ED adult acute asthmatics (18-50 y)<BR/>Mean age = 33.1 ± 2.8<BR/>Baseline PEF = 29%</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:31:49 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Albuterol nebulized 5 mg with heliox (70:30) or oxygen (30%)<BR/>All received systemic corticosteroids</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>PEF % of predicted or L/min<BR/>RR<BR/>HR<BR/>Dyspnea</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2010-08-25 11:31:50 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Authors did not respond</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-08-25 11:31:56 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Kim-2005">
+<CHAR_METHODS MODIFIED="2010-08-25 11:31:54 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization:<BR/>no details<BR/>Blinding: single-blinded, parallel study. Withdrawals: one</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>30 ED children (2-18 y) with acute asthma. Mean age = 7.3 ± 4.3. Baseline Pulmonary Index &gt; 8 (moderate to severe)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:31:56 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Albuterol 5 mg nebulized continuously with heliox (70:30) or oxygen (100%) for 60 min. All patients received albuterol 5 mg nebulized and systemic corticosteroids</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2010-08-25 11:31:56 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Pulmonary index, Admission rate</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-08-25 11:31:59 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Kress-2002">
+<CHAR_METHODS MODIFIED="2010-08-25 11:31:59 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization:<BR/>no details<BR/>Blinding: single blind, parallel study<BR/>Withdrawals: not stated</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>45 ED adult acute asthmatics (18-50 y)<BR/>Mean age = 32.5<BR/>Baseline FEV1 = 32%</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Albuterol 5 mg in heliox (80:20) or oxygen every 30 min x 3 (90 min)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1 % of change<BR/>HR<BR/>SpO2<BR/>Admission rate</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-08-25 11:32:08 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Lin-Lee-2005a">
+<CHAR_METHODS MODIFIED="2010-08-25 11:32:05 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization:<BR/>computer-generated numbers<BR/>Blinding: double blind, parallel study<BR/>Withdrawals: no withdrawals</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>80 ED adult acute asthmatics (18-50 y)<BR/>Mean age = 34 ± 8 y<BR/>Baseline PEF = 35%</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:32:08 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Albuterol 2.5 mg in heliox (80:20) or air/oxygen every 20 min x 3</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>PEF % of change<BR/>Admission rate</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Rivera-2006">
+<CHAR_METHODS MODIFIED="2010-08-25 11:32:13 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization: block randomisation. Blinding: single-blinded, parallel study<BR/>No withdrawals</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2014-06-05 16:17:51 +0100" MODIFIED_BY="Emma J Welsh">
+<P>41 ED children with acute asthma (3-16 y). Mean age = 8 y. Baseline dyspnoea index of 4 or higher (moderate-severe)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:32:14 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Albuterol nebulized continuously (0.45 mg/kg, max. 15 mg/h) with heliox (70:30) or air/oxygen. All patients received albuterol 2.5 mg nebulized x 3 and systemic corticosteroids</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Dyspnea index<BR/>Admission rate</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Rose-2002">
+<CHAR_METHODS MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization: block randomisation by using a computer generated method<BR/>Blinding: double blind, parallel study<BR/>Withdrawals:not stated</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>32 ED adult acute asthmatics<BR/>(18-55 y) Mean age = 37<BR/>Baseline PEF = 127 L/min</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Albuterol nebulized continuously (12.5 mg/h) with heliox (70:30) or oxygen (120 min)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>PEF (L/min), FEV1 (L), <BR/>RR<BR/>Dyspnea<BR/>SpO2</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-08-25 11:32:26 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Xie-2003a">
+<CHAR_METHODS MODIFIED="2010-08-25 11:32:25 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Randomization: no details. Blinding: non-blinded, parallel study. Withdrawals: not stated<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2010-08-25 11:32:26 +0100" MODIFIED_BY="Emma J Welsh">
+<P>24 ED adult acute asthmatics (26-68 y). Mean age: not stated. Baseline FEV1 = 1.35 L</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-08-25 11:32:26 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Fenoterol 0.5 mg nebulized with heliox (79:21) or air</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1 (L)<BR/>FVC (L)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>ED: Emergency department; FEV1: Forced expiratory volume in one second; HR: Heart rate; PEF: Peak expiratory flow<BR/>
+</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Bag-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable asthma patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gluck-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomised trial; ventilated patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kass-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomised trial; ventilated patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2010-08-25 11:32:32 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Kudukis-1997">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2010-08-25 11:32:32 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Pulsus paradoxus as main outcome Absolute or per cent of predicted PEF or FEV1 values were not reported. Correspondence with author did not provide additional data</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-L_x0027_Her-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Out-of-hospital patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Lin-Lee-2005b">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Second randomised trial. No data available to pool</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Manthous-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schaeffer-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomized trial; ventilated patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shiue-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Verbeek-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Xie-2003b">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Second randomised trial. Use of heliox during 48 hours</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:16:38 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Carter-1996">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:16:50 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Dorfman-2000">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:16:58 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Henderson-1999">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:17:04 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Kass-1999">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:17:08 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Kim-2005">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:17:11 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Kress-2002">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:17:21 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="YES" STUDY_ID="STD-Lin-Lee-2005a">
+<DESCRIPTION>
+<P>Computer-generated numbers </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:17:27 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Rivera-2006">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2014-06-05 16:17:52 +0100" MODIFIED_BY="Emma J Welsh" RESULT="YES" STUDY_ID="STD-Rose-2002">
+<DESCRIPTION>
+<P>'block randomisation by using a computer generated method'</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-05-25 09:17:57 +0100" MODIFIED_BY="Toby J  Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Xie-2003a">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NO="1">
+<TITLE>Characteristics of trials included in the review</TITLE>
+<TABLE COLS="5" ROWS="11">
+<TR>
+<TH>
+<P>Trial</P>
+</TH>
+<TH>
+<P>Mean age</P>
+</TH>
+<TH>
+<P>Baseline severity</P>
+</TH>
+<TH>
+<P>Quality score(Jadad)</P>
+</TH>
+<TH>
+<P>Helium-O2 mixture</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Dorfman et al</P>
+</TD>
+<TD>
+<P>28.5</P>
+</TD>
+<TD>
+<P>43% (PEF)</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+<TD>
+<P>80:20</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Carter et al.</P>
+</TD>
+<TD>
+<P>12.3</P>
+</TD>
+<TD>
+<P>49% (FEV1)</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+<TD>
+<P>70:30</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Henderson et al.</P>
+</TD>
+<TD>
+<P>44.5</P>
+</TD>
+<TD>
+<P>1.07 L (FEV1)</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+<TD>
+<P>70:30</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Kass et al.</P>
+</TD>
+<TD>
+<P>33.2</P>
+</TD>
+<TD>
+<P>29% (PEF)</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+<TD>
+<P>70:30</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Kress et al.</P>
+</TD>
+<TD>
+<P>32.5</P>
+</TD>
+<TD>
+<P>32% (FEV1)</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+<TD>
+<P>80:20</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Rose et al.</P>
+</TD>
+<TD>
+<P>37.0</P>
+</TD>
+<TD>
+<P>127 L/m (PEF)</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+<TD>
+<P>70:30</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Kim et al.</P>
+</TD>
+<TD>
+<P>7.3</P>
+</TD>
+<TD>
+<P>Pulmonary index &gt; 8</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>70:30</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Lin Lee et al</P>
+</TD>
+<TD>
+<P>34</P>
+</TD>
+<TD>
+<P>35% (PEF)</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+<TD>
+<P>80:20</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Xie et al</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>1.35 l (FEV1)</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>79:21</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Rivera et al</P>
+</TD>
+<TD>
+<P>8</P>
+</TD>
+<TD>
+<P>Dyspne index 4 or higher</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>70:30</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Heliox therapy vs control (Pulmonary Function)</NAME>
+<CONT_OUTCOME CHI2="12.909291949117145" CI_END="0.5572195315766648" CI_START="-0.007136343707147219" CI_STUDY="95" CI_TOTAL="95" DF="7" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.2750415939347588" ESTIMABLE="YES" I2="45.77549235394956" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="0.07434960773456556" P_Q="1.0" P_Z="0.05608223864950049" Q="0.0" RANDOM="YES" SCALE="4.0" SORT_BY="STUDY" STUDIES="8" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.07036319720688737" TOTALS="YES" TOTAL_1="220" TOTAL_2="224" UNITS="" WEIGHT="100.0" Z="1.9103960531695388">
+<NAME>All studies</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.1608837072035485" CI_START="-0.5234561642905102" EFFECT_SIZE="0.31871377145651913" ESTIMABLE="YES" MEAN_1="56.0" MEAN_2="50.0" ORDER="10947" SD_1="20.0" SD_2="16.0" SE="0.4296864342355055" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="8.128690690370396"/>
+<CONT_DATA CI_END="0.3750711118613083" CI_START="-0.8864138883235586" EFFECT_SIZE="-0.2556713882311252" ESTIMABLE="YES" MEAN_1="63.0" MEAN_2="68.0" ORDER="10948" SD_1="23.0" SD_2="14.0" SE="0.3218133114014593" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="11.917438253353975"/>
+<CONT_DATA CI_END="0.3665413983848268" CI_START="-0.22675561565974345" EFFECT_SIZE="0.06989289136254166" ESTIMABLE="YES" MEAN_1="310.0" MEAN_2="302.0" ORDER="10949" SD_1="115.0" SD_2="113.0" SE="0.15135406025937756" STUDY_ID="STD-Henderson-1999" TOTAL_1="84" TOTAL_2="91" WEIGHT="22.222971874033792"/>
+<CONT_DATA CI_END="0.9956653042865314" CI_START="-0.6444000811571037" EFFECT_SIZE="0.17563261156471388" ESTIMABLE="YES" MEAN_1="41.5" MEAN_2="33.7" ORDER="10950" SD_1="32.8" SD_2="50.2" SE="0.418391714944831" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="12" WEIGHT="8.445962233531231"/>
+<CONT_DATA CI_END="1.112737828369389" CI_START="-0.07749766092649213" EFFECT_SIZE="0.5176200837214484" ESTIMABLE="YES" MEAN_1="1.93" MEAN_2="1.49" ORDER="10951" SD_1="0.84" SD_2="0.83" SE="0.3036370817740292" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" WEIGHT="12.750868832981059"/>
+<CONT_DATA CI_END="1.3791435585456164" CI_START="0.45541070609483514" EFFECT_SIZE="0.9172771323202258" ESTIMABLE="YES" MEAN_1="61.0" MEAN_2="48.0" ORDER="10952" SD_1="15.0" SD_2="13.0" SE="0.23565046596189218" STUDY_ID="STD-Lin-Lee-2005a" TOTAL_1="40" TOTAL_2="40" WEIGHT="16.464317214060912"/>
+<CONT_DATA CI_END="0.8775700060159822" CI_START="-0.433583988144738" EFFECT_SIZE="0.22199300893562213" ESTIMABLE="YES" MEAN_1="220.0" MEAN_2="205.0" ORDER="10953" SD_1="69.0" SD_2="63.0" SE="0.33448420596065426" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="11.373636785079713"/>
+<CONT_DATA CI_END="0.8834148956708827" CI_START="-0.7232393939766273" EFFECT_SIZE="0.08008775084712766" ESTIMABLE="YES" MEAN_1="1.86" MEAN_2="1.84" ORDER="10954" SD_1="0.25" SD_2="0.23" SE="0.40986831960194015" STUDY_ID="STD-Xie-2003a" TOTAL_1="13" TOTAL_2="11" WEIGHT="8.696114116588925"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="12.909291949117147" CI_END="0.5689209035205557" CI_START="-0.017456442344018552" CI_STUDY="95" CI_TOTAL="95" DF="7" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.27573223058826857" ESTIMABLE="YES" I2="45.77549235394957" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.07434960773456611" P_Q="0.9150230146847358" P_Z="0.06528991945904494" Q="0.01138595765389912" RANDOM="YES" SCALE="4.0" SORT_BY="STUDY" STUDIES="8" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.07036319720688738" TOTALS="SUB" TOTAL_1="220" TOTAL_2="224" UNITS="" WEIGHT="200.0" Z="1.8432678040556936">
+<NAME>By Age</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="12.888237813052672" CI_END="0.5825576428689946" CI_START="-0.04294856971034766" DF="6" EFFECT_SIZE="0.26980453657932346" ESTIMABLE="YES" I2="53.44592420599619" ID="CMP-001.02.01" NO="1" P_CHI2="0.04484556180167121" P_Z="0.09087242781530899" STUDIES="7" TAU2="0.08879284231917692" TOTAL_1="209" TOTAL_2="213" WEIGHT="100.0" Z="1.6908135008936211">
+<NAME>Adults</NAME>
+<CONT_DATA CI_END="0.3750711118613083" CI_START="-0.8864138883235586" EFFECT_SIZE="-0.2556713882311252" ESTIMABLE="YES" MEAN_1="63.0" MEAN_2="68.0" ORDER="10955" SD_1="23.0" SD_2="14.0" SE="0.3218133114014593" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="13.237314197749823"/>
+<CONT_DATA CI_END="0.3665413983848268" CI_START="-0.22675561565974345" EFFECT_SIZE="0.06989289136254166" ESTIMABLE="YES" MEAN_1="310.0" MEAN_2="302.0" ORDER="10956" SD_1="115.0" SD_2="113.0" SE="0.15135406025937756" STUDY_ID="STD-Henderson-1999" TOTAL_1="84" TOTAL_2="91" WEIGHT="22.795568790326623"/>
+<CONT_DATA CI_END="0.9956653042865314" CI_START="-0.6444000811571037" EFFECT_SIZE="0.17563261156471388" ESTIMABLE="YES" MEAN_1="41.5" MEAN_2="33.7" ORDER="10957" SD_1="32.8" SD_2="50.2" SE="0.418391714944831" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="12" WEIGHT="9.650706022256129"/>
+<CONT_DATA CI_END="1.112737828369389" CI_START="-0.07749766092649213" EFFECT_SIZE="0.5176200837214484" ESTIMABLE="YES" MEAN_1="1.93" MEAN_2="1.49" ORDER="10958" SD_1="0.84" SD_2="0.83" SE="0.3036370817740292" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" WEIGHT="14.068783078647098"/>
+<CONT_DATA CI_END="1.3791435585456164" CI_START="0.45541070609483514" EFFECT_SIZE="0.9172771323202258" ESTIMABLE="YES" MEAN_1="61.0" MEAN_2="48.0" ORDER="10959" SD_1="15.0" SD_2="13.0" SE="0.23565046596189218" STUDY_ID="STD-Lin-Lee-2005a" TOTAL_1="40" TOTAL_2="40" WEIGHT="17.642843082531105"/>
+<CONT_DATA CI_END="0.8775700060159822" CI_START="-0.433583988144738" EFFECT_SIZE="0.22199300893562213" ESTIMABLE="YES" MEAN_1="220.0" MEAN_2="205.0" ORDER="10960" SD_1="69.0" SD_2="63.0" SE="0.33448420596065426" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="12.688759425763466"/>
+<CONT_DATA CI_END="0.8834148956708827" CI_START="-0.7232393939766273" EFFECT_SIZE="0.08008775084712766" ESTIMABLE="YES" MEAN_1="1.86" MEAN_2="1.84" ORDER="10961" SD_1="0.25" SD_2="0.23" SE="0.40986831960194015" STUDY_ID="STD-Xie-2003a" TOTAL_1="13" TOTAL_2="11" WEIGHT="9.91602540272575"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.1608837072035485" CI_START="-0.5234561642905102" DF="0" EFFECT_SIZE="0.31871377145651913" ESTIMABLE="YES" I2="0.0" ID="CMP-001.02.02" NO="2" P_CHI2="1.0" P_Z="0.4582474864302518" STUDIES="1" TAU2="0.0" TOTAL_1="11" TOTAL_2="11" WEIGHT="100.00000000000001" Z="0.7417357078623439">
+<NAME>Children</NAME>
+<CONT_DATA CI_END="1.1608837072035485" CI_START="-0.5234561642905102" EFFECT_SIZE="0.31871377145651913" ESTIMABLE="YES" MEAN_1="56.0" MEAN_2="50.0" ORDER="10962" SD_1="20.0" SD_2="16.0" SE="0.4296864342355055" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="100.00000000000001"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="12.909291949117147" CI_END="0.38679742973464404" CI_START="-0.021247411750076522" CI_STUDY="95" CI_TOTAL="95" DF="7" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.18277500899228374" ESTIMABLE="YES" I2="45.77549235394957" I2_Q="64.5938115825991" ID="CMP-001.03" NO="3" P_CHI2="0.07434960773456611" P_Q="0.09284371093275945" P_Z="0.07911430271739746" Q="2.8243650183721414" RANDOM="YES" SCALE="4.0" SORT_BY="STUDY" STUDIES="8" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.07036319720688737" TOTALS="SUB" TOTAL_1="220" TOTAL_2="224" UNITS="" WEIGHT="199.99999999999997" Z="1.7558483699751657">
+<NAME>By Methodological Quality</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="3.4981354790102293" CI_END="1.04116456230791" CI_START="0.07516477933854288" DF="2" EFFECT_SIZE="0.5581646708232264" ESTIMABLE="YES" I2="42.82668547285982" ID="CMP-001.03.01" NO="1" P_CHI2="0.1739363649460397" P_Z="0.023514217127492257" STUDIES="3" TAU2="0.07898746771086125" TOTAL_1="69" TOTAL_2="69" WEIGHT="99.99999999999999" Z="2.2649749441835434">
+<NAME>High</NAME>
+<CONT_DATA CI_END="1.1608837072035485" CI_START="-0.5234561642905102" EFFECT_SIZE="0.31871377145651913" ESTIMABLE="YES" MEAN_1="56.0" MEAN_2="50.0" ORDER="10963" SD_1="20.0" SD_2="16.0" SE="0.4296864342355055" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="23.036844409119144"/>
+<CONT_DATA CI_END="1.3791435585456164" CI_START="0.45541070609483514" EFFECT_SIZE="0.9172771323202258" ESTIMABLE="YES" MEAN_1="61.0" MEAN_2="48.0" ORDER="10964" SD_1="15.0" SD_2="13.0" SE="0.23565046596189218" STUDY_ID="STD-Lin-Lee-2005a" TOTAL_1="40" TOTAL_2="40" WEIGHT="45.14560878887206"/>
+<CONT_DATA CI_END="0.8775700060159822" CI_START="-0.433583988144738" EFFECT_SIZE="0.22199300893562213" ESTIMABLE="YES" MEAN_1="220.0" MEAN_2="205.0" ORDER="10965" SD_1="69.0" SD_2="63.0" SE="0.33448420596065426" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="31.81754680200878"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="3.1876818934273605" CI_END="0.32633798263677927" CI_START="-0.12384071236701619" DF="4" EFFECT_SIZE="0.10124863513488155" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.02" NO="2" P_CHI2="0.5269229572298338" P_Z="0.3779813653261277" STUDIES="5" TAU2="0.0" TOTAL_1="151" TOTAL_2="155" WEIGHT="99.99999999999999" Z="0.8816218117409199">
+<NAME>Low</NAME>
+<CONT_DATA CI_END="0.3750711118613083" CI_START="-0.8864138883235586" EFFECT_SIZE="-0.2556713882311252" ESTIMABLE="YES" MEAN_1="63.0" MEAN_2="68.0" ORDER="10966" SD_1="23.0" SD_2="14.0" SE="0.3218133114014593" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="12.735197780600325"/>
+<CONT_DATA CI_END="0.3665413983848268" CI_START="-0.22675561565974345" EFFECT_SIZE="0.06989289136254166" ESTIMABLE="YES" MEAN_1="310.0" MEAN_2="302.0" ORDER="10967" SD_1="115.0" SD_2="113.0" SE="0.15135406025937756" STUDY_ID="STD-Henderson-1999" TOTAL_1="84" TOTAL_2="91" WEIGHT="57.57388692826411"/>
+<CONT_DATA CI_END="0.9956653042865314" CI_START="-0.6444000811571037" EFFECT_SIZE="0.17563261156471388" ESTIMABLE="YES" MEAN_1="41.5" MEAN_2="33.7" ORDER="10968" SD_1="32.8" SD_2="50.2" SE="0.418391714944831" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="12" WEIGHT="7.534380523503062"/>
+<CONT_DATA CI_END="1.112737828369389" CI_START="-0.07749766092649213" EFFECT_SIZE="0.5176200837214484" ESTIMABLE="YES" MEAN_1="1.93" MEAN_2="1.49" ORDER="10969" SD_1="0.84" SD_2="0.83" SE="0.3036370817740292" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" WEIGHT="14.305534358949064"/>
+<CONT_DATA CI_END="0.8834148956708827" CI_START="-0.7232393939766273" EFFECT_SIZE="0.08008775084712766" ESTIMABLE="YES" MEAN_1="1.86" MEAN_2="1.84" ORDER="10970" SD_1="0.25" SD_2="0.23" SE="0.40986831960194015" STUDY_ID="STD-Xie-2003a" TOTAL_1="13" TOTAL_2="11" WEIGHT="7.851000408683419"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="12.909291949117145" CI_END="0.38486448985365085" CI_START="-0.06278133616625783" CI_STUDY="95" CI_TOTAL="95" DF="7" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.16104157684369652" ESTIMABLE="YES" I2="45.77549235394956" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="0.07434960773456556" P_Q="0.44678581644373383" P_Z="0.15847981984914708" Q="0.5787933328949525" RANDOM="YES" SCALE="4.0" SORT_BY="STUDY" STUDIES="8" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.07036319720688738" TOTALS="SUB" TOTAL_1="220" TOTAL_2="224" UNITS="" WEIGHT="200.0" Z="1.4102027642413317">
+<NAME>By Dose</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="9.604085736645311" CI_END="0.8980873256873427" CI_START="-0.19073500700618778" DF="3" EFFECT_SIZE="0.35367615934057745" ESTIMABLE="YES" I2="68.76329426596837" ID="CMP-001.04.01" NO="1" P_CHI2="0.022249478098441022" P_Z="0.20291567423891022" STUDIES="4" TAU2="0.20879328261699714" TOTAL_1="96" TOTAL_2="92" WEIGHT="100.0" Z="1.2732886049152952">
+<NAME>High (80:20)</NAME>
+<CONT_DATA CI_END="0.3750711118613083" CI_START="-0.8864138883235586" EFFECT_SIZE="-0.2556713882311252" ESTIMABLE="YES" MEAN_1="63.0" MEAN_2="68.0" ORDER="10971" SD_1="23.0" SD_2="14.0" SE="0.3218133114014593" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="24.70054288216476"/>
+<CONT_DATA CI_END="1.112737828369389" CI_START="-0.07749766092649213" EFFECT_SIZE="0.5176200837214484" ESTIMABLE="YES" MEAN_1="1.93" MEAN_2="1.49" ORDER="10972" SD_1="0.84" SD_2="0.83" SE="0.3036370817740292" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" WEIGHT="25.633481114823002"/>
+<CONT_DATA CI_END="1.3791435585456164" CI_START="0.45541070609483514" EFFECT_SIZE="0.9172771323202258" ESTIMABLE="YES" MEAN_1="61.0" MEAN_2="48.0" ORDER="10973" SD_1="15.0" SD_2="13.0" SE="0.23565046596189218" STUDY_ID="STD-Lin-Lee-2005a" TOTAL_1="40" TOTAL_2="40" WEIGHT="29.189091036211348"/>
+<CONT_DATA CI_END="0.8834148956708827" CI_START="-0.7232393939766273" EFFECT_SIZE="0.08008775084712766" ESTIMABLE="YES" MEAN_1="1.86" MEAN_2="1.84" ORDER="10974" SD_1="0.25" SD_2="0.23" SE="0.40986831960194015" STUDY_ID="STD-Xie-2003a" TOTAL_1="13" TOTAL_2="11" WEIGHT="20.476884966800892"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.4339117851841503" CI_END="0.3673918001849121" CI_START="-0.12367545580047494" DF="3" EFFECT_SIZE="0.12185817219221858" ESTIMABLE="YES" I2="0.0" ID="CMP-001.04.02" NO="2" P_CHI2="0.9331513893923933" P_Z="0.33068812523483226" STUDIES="4" TAU2="0.0" TOTAL_1="124" TOTAL_2="132" WEIGHT="100.0" Z="0.9727287894175375">
+<NAME>Low (70:30)</NAME>
+<CONT_DATA CI_END="1.1608837072035485" CI_START="-0.5234561642905102" EFFECT_SIZE="0.31871377145651913" ESTIMABLE="YES" MEAN_1="56.0" MEAN_2="50.0" ORDER="10975" SD_1="20.0" SD_2="16.0" SE="0.4296864342355055" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="8.500069850918717"/>
+<CONT_DATA CI_END="0.3665413983848268" CI_START="-0.22675561565974345" EFFECT_SIZE="0.06989289136254166" ESTIMABLE="YES" MEAN_1="310.0" MEAN_2="302.0" ORDER="10976" SD_1="115.0" SD_2="113.0" SE="0.15135406025937756" STUDY_ID="STD-Henderson-1999" TOTAL_1="84" TOTAL_2="91" WEIGHT="68.5074224977889"/>
+<CONT_DATA CI_END="0.9956653042865314" CI_START="-0.6444000811571037" EFFECT_SIZE="0.17563261156471388" ESTIMABLE="YES" MEAN_1="41.5" MEAN_2="33.7" ORDER="10977" SD_1="32.8" SD_2="50.2" SE="0.418391714944831" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="12" WEIGHT="8.965192682332916"/>
+<CONT_DATA CI_END="0.8775700060159822" CI_START="-0.433583988144738" EFFECT_SIZE="0.22199300893562213" ESTIMABLE="YES" MEAN_1="220.0" MEAN_2="205.0" ORDER="10978" SD_1="69.0" SD_2="63.0" SE="0.33448420596065426" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="14.027314968959471"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="12.909291949117147" CI_END="0.5712807101051821" CI_START="-0.03176535451513729" CI_STUDY="95" CI_TOTAL="95" DF="7" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.2697576777950224" ESTIMABLE="YES" I2="45.77549235394957" I2_Q="0.0" ID="CMP-001.05" NO="5" P_CHI2="0.07434960773456611" P_Q="0.9241644035858168" P_Z="0.0795192364433192" Q="0.009061018583910795" RANDOM="YES" SCALE="4.0" SORT_BY="STUDY" STUDIES="8" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.07036319720688741" TOTALS="SUB" TOTAL_1="220" TOTAL_2="224" UNITS="" WEIGHT="200.0" Z="1.7534824088912209">
+<NAME>Method of heliox use</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.05691754094870667" CI_END="0.8327890092947797" CI_START="-0.34225306508511355" DF="1" EFFECT_SIZE="0.24526797210483312" ESTIMABLE="YES" I2="0.0" ID="CMP-001.05.01" NO="1" P_CHI2="0.8114359504334918" P_Z="0.4132365124237539" STUDIES="2" TAU2="0.0" TOTAL_1="22" TOTAL_2="23" WEIGHT="99.99999999999999" Z="0.8182113685424188">
+<NAME>Airway resistance</NAME>
+<CONT_DATA CI_END="1.1608837072035485" CI_START="-0.5234561642905102" EFFECT_SIZE="0.31871377145651913" ESTIMABLE="YES" MEAN_1="56.0" MEAN_2="50.0" ORDER="10979" SD_1="20.0" SD_2="16.0" SE="0.4296864342355055" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="48.668434469482875"/>
+<CONT_DATA CI_END="0.9956653042865314" CI_START="-0.6444000811571037" EFFECT_SIZE="0.17563261156471388" ESTIMABLE="YES" MEAN_1="41.5" MEAN_2="33.7" ORDER="10980" SD_1="32.8" SD_2="50.2" SE="0.418391714944831" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="12" WEIGHT="51.33156553051711"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="12.850380264710036" CI_END="0.6298326290445639" CI_START="-0.07280396273974094" DF="5" EFFECT_SIZE="0.2785143331524115" ESTIMABLE="YES" I2="61.0906455917799" ID="CMP-001.05.02" NO="2" P_CHI2="0.024821989198487104" P_Z="0.12023233838310939" STUDIES="6" TAU2="0.11101050226776314" TOTAL_1="198" TOTAL_2="201" WEIGHT="100.0" Z="1.553799128994096">
+<NAME>Drug delivery</NAME>
+<CONT_DATA CI_END="0.3750711118613083" CI_START="-0.8864138883235586" EFFECT_SIZE="-0.2556713882311252" ESTIMABLE="YES" MEAN_1="63.0" MEAN_2="68.0" ORDER="10981" SD_1="23.0" SD_2="14.0" SE="0.3218133114014593" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="14.973648325554029"/>
+<CONT_DATA CI_END="0.3665413983848268" CI_START="-0.22675561565974345" EFFECT_SIZE="0.06989289136254166" ESTIMABLE="YES" MEAN_1="310.0" MEAN_2="302.0" ORDER="10982" SD_1="115.0" SD_2="113.0" SE="0.15135406025937756" STUDY_ID="STD-Henderson-1999" TOTAL_1="84" TOTAL_2="91" WEIGHT="23.99189776791954"/>
+<CONT_DATA CI_END="1.112737828369389" CI_START="-0.07749766092649213" EFFECT_SIZE="0.5176200837214484" ESTIMABLE="YES" MEAN_1="1.93" MEAN_2="1.49" ORDER="10983" SD_1="0.84" SD_2="0.83" SE="0.3036370817740292" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" WEIGHT="15.811346976096845"/>
+<CONT_DATA CI_END="1.3791435585456164" CI_START="0.45541070609483514" EFFECT_SIZE="0.9172771323202258" ESTIMABLE="YES" MEAN_1="61.0" MEAN_2="48.0" ORDER="10984" SD_1="15.0" SD_2="13.0" SE="0.23565046596189218" STUDY_ID="STD-Lin-Lee-2005a" TOTAL_1="40" TOTAL_2="40" WEIGHT="19.29223327074231"/>
+<CONT_DATA CI_END="0.8775700060159822" CI_START="-0.433583988144738" EFFECT_SIZE="0.22199300893562213" ESTIMABLE="YES" MEAN_1="220.0" MEAN_2="205.0" ORDER="10985" SD_1="69.0" SD_2="63.0" SE="0.33448420596065426" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="14.414992000573355"/>
+<CONT_DATA CI_END="0.8834148956708827" CI_START="-0.7232393939766273" EFFECT_SIZE="0.08008775084712766" ESTIMABLE="YES" MEAN_1="1.86" MEAN_2="1.84" ORDER="10986" SD_1="0.25" SD_2="0.23" SE="0.40986831960194015" STUDY_ID="STD-Xie-2003a" TOTAL_1="13" TOTAL_2="11" WEIGHT="11.515881659113917"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="12.909291949117147" CI_END="0.4463851148952219" CI_START="0.06950859986357485" CI_STUDY="95" CI_TOTAL="95" DF="7" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.2579468573793984" ESTIMABLE="YES" I2="45.77549235394957" I2_Q="88.36659310609188" ID="CMP-001.06" NO="6" P_CHI2="0.07434960773456611" P_Q="0.003369158075314349" P_Z="0.0072980384384468645" Q="8.595934184367383" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="8" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="220" TOTAL_2="224" UNITS="" WEIGHT="200.0" Z="2.682929448901624">
+<NAME>By baseline severity</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="1.5642561260835068" CI_END="0.29322367724606746" CI_START="-0.1636464990468572" DF="4" EFFECT_SIZE="0.06478858909960511" ESTIMABLE="YES" I2="0.0" ID="CMP-001.06.01" NO="1" P_CHI2="0.8152017191678317" P_Z="0.5782904863850711" STUDIES="5" TAU2="0.0" TOTAL_1="146" TOTAL_2="150" WEIGHT="100.0" Z="0.555883521549782">
+<NAME>Mild-Moderate</NAME>
+<CONT_DATA CI_END="1.1608837072035485" CI_START="-0.5234561642905102" EFFECT_SIZE="0.31871377145651913" ESTIMABLE="YES" MEAN_1="56.0" MEAN_2="50.0" ORDER="10987" SD_1="20.0" SD_2="16.0" SE="0.4296864342355055" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="7.3574303464044615"/>
+<CONT_DATA CI_END="0.3750711118613083" CI_START="-0.8864138883235586" EFFECT_SIZE="-0.2556713882311252" ESTIMABLE="YES" MEAN_1="63.0" MEAN_2="68.0" ORDER="10988" SD_1="23.0" SD_2="14.0" SE="0.3218133114014593" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="13.116604880716443"/>
+<CONT_DATA CI_END="0.3665413983848268" CI_START="-0.22675561565974345" EFFECT_SIZE="0.06989289136254166" ESTIMABLE="YES" MEAN_1="310.0" MEAN_2="302.0" ORDER="10989" SD_1="115.0" SD_2="113.0" SE="0.15135406025937756" STUDY_ID="STD-Henderson-1999" TOTAL_1="84" TOTAL_2="91" WEIGHT="59.29817025970738"/>
+<CONT_DATA CI_END="0.8775700060159822" CI_START="-0.433583988144738" EFFECT_SIZE="0.22199300893562213" ESTIMABLE="YES" MEAN_1="220.0" MEAN_2="205.0" ORDER="10990" SD_1="69.0" SD_2="63.0" SE="0.33448420596065426" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="12.14166408527116"/>
+<CONT_DATA CI_END="0.8834148956708827" CI_START="-0.7232393939766273" EFFECT_SIZE="0.08008775084712766" ESTIMABLE="YES" MEAN_1="1.86" MEAN_2="1.84" ORDER="10991" SD_1="0.25" SD_2="0.23" SE="0.40986831960194015" STUDY_ID="STD-Xie-2003a" TOTAL_1="13" TOTAL_2="11" WEIGHT="8.086130427900542"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="2.749101638666262" CI_END="1.0026692964704464" CI_START="0.3359438432530818" DF="2" EFFECT_SIZE="0.6693065698617642" ESTIMABLE="YES" I2="27.24896119263498" ID="CMP-001.06.02" NO="2" P_CHI2="0.2529534285379532" P_Z="8.3160913644474E-5" STUDIES="3" TAU2="0.0" TOTAL_1="74" TOTAL_2="74" WEIGHT="100.00000000000001" Z="3.9351033179092476">
+<NAME>Moderate-Severe</NAME>
+<CONT_DATA CI_END="0.9956653042865314" CI_START="-0.6444000811571037" EFFECT_SIZE="0.17563261156471388" ESTIMABLE="YES" MEAN_1="41.5" MEAN_2="33.7" ORDER="10992" SD_1="32.8" SD_2="50.2" SE="0.418391714944831" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="12" WEIGHT="16.52615208850342"/>
+<CONT_DATA CI_END="1.112737828369389" CI_START="-0.07749766092649213" EFFECT_SIZE="0.5176200837214484" ESTIMABLE="YES" MEAN_1="1.93" MEAN_2="1.49" ORDER="10993" SD_1="0.84" SD_2="0.83" SE="0.3036370817740292" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" WEIGHT="31.378218260389062"/>
+<CONT_DATA CI_END="1.3791435585456164" CI_START="0.45541070609483514" EFFECT_SIZE="0.9172771323202258" ESTIMABLE="YES" MEAN_1="61.0" MEAN_2="48.0" ORDER="10994" SD_1="15.0" SD_2="13.0" SE="0.23565046596189218" STUDY_ID="STD-Lin-Lee-2005a" TOTAL_1="40" TOTAL_2="40" WEIGHT="52.09562965110752"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Heliox therapy vs control (Other outcomes)</NAME>
+<CONT_OUTCOME CHI2="12.239357607617423" CI_END="23.485967872524256" CI_START="-8.21958945515333" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="MD" EFFECT_SIZE="7.6331892086854625" ESTIMABLE="YES" I2="75.48890966195084" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="0.006606640175727541" P_Q="1.0" P_Z="0.3453065827846079" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="171.34017196632823" TOTALS="YES" TOTAL_1="65" TOTAL_2="62" UNITS="" WEIGHT="100.0" Z="0.9437320897143284">
+<NAME>Heart rate</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="13.79589878873197" CI_START="-13.79589878873197" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="123.0" MEAN_2="123.0" ORDER="10995" SD_1="16.0" SD_2="17.0" SE="7.038853212381584" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="29.617415204164125"/>
+<CONT_DATA CI_END="36.930048168667106" CI_START="13.069951831332894" EFFECT_SIZE="25.0" ESTIMABLE="YES" MEAN_1="121.0" MEAN_2="96.0" ORDER="10996" SD_1="19.0" SD_2="19.0" SE="6.08687111741328" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="31.39332940369406"/>
+<CONT_DATA CI_END="61.84168416455337" CI_START="-50.64168416455338" EFFECT_SIZE="5.599999999999994" ESTIMABLE="YES" MEAN_1="107.1" MEAN_2="101.5" ORDER="10997" SD_1="52.0" SD_2="76.0" SE="28.695264100861344" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="10" WEIGHT="6.576533173250005"/>
+<CONT_DATA CI_END="9.02355350148317" CI_START="-12.623553501483164" EFFECT_SIZE="-1.7999999999999972" ESTIMABLE="YES" MEAN_1="97.2" MEAN_2="99.0" ORDER="10998" SD_1="18.0" SD_2="19.0" SE="5.522322648200668" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" WEIGHT="32.41272221889181"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.008337234736558398" CI_END="1.0904222948285618" CI_START="-1.0108490188010903" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="MD" EFFECT_SIZE="0.039786638013735796" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.9958400592689461" P_Q="1.0" P_Z="0.9408336665544623" Q="0.0" RANDOM="YES" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="49" TOTAL_2="48" UNITS="" WEIGHT="100.0" Z="0.0742220931367061">
+<NAME>SaO2</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_DATA CI_END="2.507194353210817" CI_START="-2.507194353210817" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="95.0" MEAN_2="95.0" ORDER="10999" SD_1="3.0" SD_2="3.0" SE="1.2792042981336627" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="17.560151962853524"/>
+<CONT_DATA CI_END="1.608704495203726" CI_START="-1.608704495203726" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="96.0" MEAN_2="96.0" ORDER="11000" SD_1="2.0" SD_2="3.0" SE="0.8207826816681233" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" WEIGHT="42.65321002340842"/>
+<CONT_DATA CI_END="1.7656491005181283" CI_START="-1.5656491005181397" EFFECT_SIZE="0.09999999999999432" ESTIMABLE="YES" MEAN_1="95.1" MEAN_2="95.0" ORDER="11001" SD_1="3.0" SD_2="2.0" SE="0.8498365855987975" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="39.786638013738056"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="12.743713082132821" CI_END="0.4788971353943249" CI_START="-1.1914090770481405" CI_STUDY="95" CI_TOTAL="95" DF="4" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.35625597082690785" ESTIMABLE="YES" I2="68.6119738084173" I2_Q="0.0" ID="CMP-002.03" NO="3" P_CHI2="0.012598399637182456" P_Q="1.0" P_Z="0.4031139060666924" Q="0.0" RANDOM="YES" SCALE="10.0" SORT_BY="STUDY" STUDIES="5" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.593395389429125" TOTALS="YES" TOTAL_1="75" TOTAL_2="77" UNITS="" WEIGHT="100.0" Z="0.8360728911820929">
+<NAME>Dyspnea or Pulmonary index</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.065352744282633" CI_START="-1.065352744282633" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="2.0" MEAN_2="2.0" ORDER="11002" SD_1="1.5" SD_2="1.0" SE="0.543557306504609" STUDY_ID="STD-Carter-1996" TOTAL_1="11" TOTAL_2="11" WEIGHT="20.427140428389837"/>
+<CONT_DATA CI_END="1.3040625607361442" CI_START="0.05593743926385597" EFFECT_SIZE="0.6800000000000002" ESTIMABLE="YES" MEAN_1="3.81" MEAN_2="3.13" ORDER="11003" SD_1="0.8" SD_2="0.72" SE="0.3184051164504399" STUDY_ID="STD-Kass-1999" TOTAL_1="11" TOTAL_2="12" WEIGHT="26.133071495058527"/>
+<CONT_DATA CI_END="0.6814101904865781" CI_START="-1.6814101904865781" EFFECT_SIZE="-0.5" ESTIMABLE="YES" MEAN_1="8.3" MEAN_2="8.8" ORDER="11004" SD_1="1.7" SD_2="1.6" SE="0.6027713773341709" STUDY_ID="STD-Kim-2005" TOTAL_1="15" TOTAL_2="15" WEIGHT="18.977858621416065"/>
+<CONT_DATA CI_END="0.023124085588013488" CI_START="-2.0231240855880133" EFFECT_SIZE="-1.0" ESTIMABLE="YES" MEAN_1="2.0" MEAN_2="3.0" ORDER="11005" SD_1="1.48" SD_2="1.85" SE="0.5220116765707358" STUDY_ID="STD-Rivera-2006" TOTAL_1="20" TOTAL_2="21" WEIGHT="20.968748121582742"/>
+<CONT_DATA CI_END="-1.0862385925025642E-4" CI_START="-3.39989137614075" EFFECT_SIZE="-1.7000000000000002" ESTIMABLE="YES" MEAN_1="3.2" MEAN_2="4.9" ORDER="11006" SD_1="2.7" SD_2="2.5" SE="0.8673074554171791" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" WEIGHT="13.49318133355283"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="5.74800694100111" CI_END="1.0843020367429477" CI_START="0.6290602798292912" CI_STUDY="95" CI_TOTAL="95" DF="6" EFFECT_MEASURE="RR" EFFECT_SIZE="0.825888214380729" ESTIMABLE="YES" EVENTS_1="55" EVENTS_2="67" I2="0.0" I2_Q="0.0" ID="CMP-002.04" LOG_CI_END="0.03515027354897927" LOG_CI_START="-0.2013077362035741" LOG_EFFECT_SIZE="-0.08307873132729744" METHOD="MH" NO="4" P_CHI2="0.45200232072743307" P_Q="1.0" P_Z="0.16843385880248826" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="7" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="238" TOTAL_2="237" WEIGHT="100.0" Z="1.377253588941063">
+<NAME>Hospital admissions</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="177.44438209478767" CI_START="0.6185068560513638" EFFECT_SIZE="10.476190476190476" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="0" LOG_CI_END="2.249062254098626" LOG_CI_START="-0.20865548192205202" LOG_EFFECT_SIZE="1.0202033860882869" ORDER="11007" O_E="0.0" SE="1.4436755640375487" STUDY_ID="STD-Dorfman-2000" TOTAL_1="20" TOTAL_2="19" VAR="2.0841991341991344" WEIGHT="0.7618448738723486"/>
+<DICH_DATA CI_END="1.8461779084108867" CI_START="0.21158578391626065" EFFECT_SIZE="0.625" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="8" LOG_CI_END="0.26627354984166907" LOG_CI_START="-0.6745135151535188" LOG_EFFECT_SIZE="-0.2041199826559248" ORDER="11008" O_E="0.0" SE="0.5526229789492517" STUDY_ID="STD-Henderson-1999" TOTAL_1="102" TOTAL_2="102" VAR="0.30539215686274507" WEIGHT="11.89929136333954"/>
+<DICH_DATA CI_END="1.2273434460838453" CI_START="0.29331643163832627" EFFECT_SIZE="0.6" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="10" LOG_CI_END="0.08896610785163368" LOG_CI_START="-0.5326636070843465" LOG_EFFECT_SIZE="-0.2218487496163564" ORDER="11009" O_E="0.0" SE="0.36514837167011077" STUDY_ID="STD-Kim-2005" TOTAL_1="15" TOTAL_2="15" VAR="0.13333333333333336" WEIGHT="14.874114204174425"/>
+<DICH_DATA CI_END="2.5205907871881426" CI_START="0.36298388539687176" EFFECT_SIZE="0.9565217391304348" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="6" LOG_CI_END="0.40150234456915423" LOG_CI_START="-0.4401126549599276" LOG_EFFECT_SIZE="-0.01930515519538663" ORDER="11010" O_E="0.0" SE="0.4943688167848197" STUDY_ID="STD-Kress-2002" TOTAL_1="23" TOTAL_2="22" VAR="0.2444005270092226" WEIGHT="9.122790045226981"/>
+<DICH_DATA CI_END="1.195881119618995" CI_START="0.3716460082470768" EFFECT_SIZE="0.6666666666666666" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="18" LOG_CI_END="0.07768800936847106" LOG_CI_START="-0.4298705274798336" LOG_EFFECT_SIZE="-0.17609125905568127" ORDER="11011" O_E="0.0" SE="0.29814239699997197" STUDY_ID="STD-Lin-Lee-2005a" TOTAL_1="40" TOTAL_2="40" VAR="0.0888888888888889" WEIGHT="26.773405567513965"/>
+<DICH_DATA CI_END="1.120879853658162" CI_START="0.49009941499150894" EFFECT_SIZE="0.7411764705882353" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="17" LOG_CI_END="0.04955906336242087" LOG_CI_START="-0.30971581588384284" LOG_EFFECT_SIZE="-0.130078376260711" ORDER="11012" O_E="0.0" SE="0.21103984250858987" STUDY_ID="STD-Rivera-2006" TOTAL_1="20" TOTAL_2="21" VAR="0.044537815126050415" WEIGHT="24.669262582533193"/>
+<DICH_DATA CI_END="2.249560689026679" CI_START="0.5626098491913104" EFFECT_SIZE="1.125" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="8" LOG_CI_END="0.3520977141292207" LOG_CI_START="-0.24979266923445803" LOG_EFFECT_SIZE="0.05115252244738129" ORDER="11013" O_E="0.0" SE="0.3535533905932738" STUDY_ID="STD-Rose-2002" TOTAL_1="18" TOTAL_2="18" VAR="0.125" WEIGHT="11.89929136333954"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson">
+<FIGURE FILENAME="Other figure.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2008-05-25 09:23:35 +0100" MODIFIED_BY="Toby J  Lasserson" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Funnel plot of the admission data.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAlgAAAGQCAIAAAD9V4nPAAANv0lEQVR42u3di3KjuBZAUX96/pyZ
+qXQybhsdHYmHQVqrpm7luhM/wGJHBMNjAYCJPSwCAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQAIQQ
+AIQQAIQQAITw8fh6/q/pBy+6OP5+YqXn+X1796s44eXHz7z7WSWf+S4vcK+l9Hs/p73rOh7xsiMC
+hHCfbNxpcbSE8LIV7Ht0ITxhIQshzBLClzni87e9zKWq37nLDOygV9T6Kla/M7jb92l39X7e7+r5
+9pevVxdv8EDxk3/+2fc1lXkJwUsO9jrE9/z+kqtLKX7EpqUUrOimBQtcOoSlTXBpy/6ySQoC+anf
+5d9fVPz8V7MXlDteUKUtb2Z5dizh0qP3/fhLDnd5CdVfLJruZzWB8Ypb/b2k6Znv9WKBS88IS7/O
+x2GrfudpE8F4O1tKY7zRrO5WTU55zwxhMBUuTXGCXxeCeW1T7+M/RZemj00LfPWL1UdsXUrJZbU6
+sQZutms0nr1Vf1NOTrk+FcLqkxwyhMkf3zhvy1cq+Q4M2pYM4Y5z0NYXazoIo4Uw/ze/1px8KoRH
+7xo9P4Qvf6mKdypu3DWamRJlHqv7nltDuPpaWpeSXaMwSwiX8qEBmX1KmV/zBzhYZinsRq5OpjPP
+JxnC0oY7OAwk+PGmg2XiVd/0WPl7bmpk/FOtS6lpfTlYBm4ZQphuwOgTCCEIISCEACCEACCEACCE
+ADBxCE872vuc4xRaTztZfXrdpwU4/wxz573tNpy8O1415yy0K5+/Gzg7hIN9/jf/qf/l+EtVCGH+
+/DXxeWRu3ScthEuHMNj0Z87xXz2R/1L4eHj31Rg2dj0Zwl0+fR9fNqHvUfKXyKi+qKY5dPUiGJmF
+s3SdzrRpocXfFry1ko+S2dlQPcUEcIMQBmfNqG6XN14SITON2zeEh16qIr5sQnVBtS7G7dPivjOK
+5c85l1k73Qut7xUlv7n71GtCCOOEsLrpr57IfymfAfKcECYniDteqqIatuB6DsnFuOROkr6UL4mw
+e0h2DGHrQtv4/Dve/9VLZwghTBfCvrnICSHMNGD3S1U0nZ674zeDphAmfxu4eAg3voF3D2FyZAkh
+XDeE3VuNjssdLJ/bNZo8CubQXaN9Lzm4skR14SSbfdBFd6shXFoOlsk8sWTJtlzNyq5RGDOES/pg
+gdKGoHoi/9L2PXkZh9ZPLwQHepx5sEz828CSOK6kemWJ1knJloNlVvdSVh8ls3c6cwWM5ELL323H
+wTJLePnfeDkLIVw9hLvMJvnIor7dKpjwPWOYgBBy1KK+6fKf6m1jjMDgIQQAIQQAIQQAIQSAW4Yw
+c/WJG/3NP3mtiWXXTz23fsI6c2/b78qRGoAQtm0r99qOf7aCpa8PDeG+C1DAAE4KYfU0V8vBZ+vf
+fYvfd+aX9+/Pv8DkUur4LHl80Y+l8ZPg8bNdTrwsJcD9Qrgcdrb+c2aE1Yv1ZK4+ESRwaT9PZvI0
+YMFizJ8b7NBz2gFMHcLMNr00RzwthMlnvuTO+Rk/SjCTTl5+L7kYV59V6Xm2ntcUQAg/cLb+Q0PY
+dK7RLZfL2GVG2LoYqyf77r48IcD4IVwSVwA49Gz9J4QwE4zWbOR3jQYnpw6WcGYx2jUKsE8Il/L5
+8k84W/8R29ztH5/oO1hmdSkttb9QBglM7hrtO1gm86oBZgkhW+adAAihEAIghAAghAAghAAghAAg
+hAAghAAghAAghAAghAAghAAghABwxRA+fjT908bHer7Px9+eb3/5ovuxqg+342sE4E4hXA1P9Z+2
+P1a1c9sfvXQPma8BEMLDQ9hawdLcbvVOktEVQgAhPC+Ez+l6uSXYUfl+48sXqztvm/aLCiHAyCF8
+FHwkhJl7Xn0a7z+SvJP8/lghnHdQWfUwz4ww3vofGsLuIAkhQggMG8KmPxBWv2iNrj8QYu2DEP65
+Mfjcwo4fn1jdMfu+wzY4qrP0Bz8hBBDCcX7zzTzJQ2ermBECQniPFu4yW7URxHsAhBCEEBBCABBC
+MCMEhBCEEBBCEEJACAFACMGMEBBCEEJACEEIASEEACEEM0JACEEIASEEIQSEEACEEMwIASEEIQSE
+EIQQEEIAEEIwIwSEEIQQEEIQQkAIAUAI4SoTwa+f/4wLEEKYt4JCCEIIU1fwvxD++78WCwghTBvC
+LyEEIQQzQkAIYdIWGhcghDB1C40LEEIAEEKYdWpoXIAQghACQghCCAghAAghmBECQggDpS46fYxx
+AUIIU1Sw1ELjAoQQZqmg04qCEAohQvhlXIAQghAaFyCEMGULjQsQQpi3hRYFCKEQgnEBQgjsOi7M
+OEEIYd4Q+mwGCCFcLWznNcnnFEEI4aIVzDdpy7gQQhBCuG4Fk1kSQhBCEMJT56DAtUL4+CGfzBnC
+HR/XKoD7hfD5liCTljs3bWH3L4iAEP5/i80EN21h97gAhFAImSqc3uEwdAgfBdUQrn4PAMwyI1wN
+J5gRArOE0GYCIQTGD+Gy9vGJ0j5SEEJgwBACgBCCGSEghCCEgBCCEAJCCABCCGaEgBCCEAJCCLOH
+0IWWQAhh5lK69C4IIcw6I/zUxX4BIQQhBIQQhBAQQvh0KVUQhBBmnRG+tNDiAiGEGUMICCHcLm/Z
+OZxxAUIIw1bQ/kwQQiFk9gpWW2hcgBCCEAJCCEIICCEM2UILBIRQCJm3hcYFCKEBD8YFCKEBD8YF
+CKEBD4AQAsYFCCFgXIAQAsYFCCEACCGYEQJCCEIICCEIISCEACCEYEYICCEIISCEIISAEAKAEIIZ
+ISCEIISAEIIQAkIIAEIIZoSAEIIQAkIIQggIIQAIIZgRAkIIQggIIQghIIQAIIRgRggIIQghcLUQ
+Pn40/RMIITBCCJ9vefnX4J8AQAjBjBAYOoSLXaMIITBACB8FZoTg7Q1mhEIIgBAKIWaEwLQhXNb+
+EPi849TfCBFCYPAQghBaCCCEACCEYEYICCEIISCEIISAEAKAEIIZISCEIISAEIIQAkIIAEIIZoSA
+EIIQAkIIQggIIQAIIZgRAkIIQggIIQghIIQAIIRgRggIIQghIIQghIAQAoAQghkhIIQghIAQghAC
+QggAQghmhIAQghACQghCCAghAAghmBECQghCCAghCCEghAAghGBGCAghCCEIoQEPQghCaMADIIRC
+CGaEIIQGPBgXIIQGPBgXIIQGPABCKIRgXIAQGvBgXIAQGvBgXIAQGvAACKEQgnEBQmjAg3EBQmgJ
+gnEBQggAQpi7/ZvljhkhMGwIS6l7vtGWAiEExgzh9y3VDYEtBUIIDDsjFEIARg7hoyDfORXEjBCY
+d0ZoG4EQAvOG0AYCIQRmDOHvETSlXakAMFQIwYwQEEIQQkAIQQgBIQQAIQQzQkAIQQgBIQQhBIQQ
+AIQQzAgBIQQhBIQQhBAQQgAQQjAjBIQQhBAQQhBCQAgBQAjBjBAQQhBCQAhBCAEhBAAhBDNCQAhB
+CAEhBCEEhBAAhBDMCAEhBCEEhBCEEBBCABBCMCMEhBCEkB3W7Nf3fxaFEBrwYFzMW0EtFEIDHpi9
+gloohEIIxoUQCqEQGvBgXAghQmjAg3ExZwstECE04IF5W2hRCKEQgnEBQmjAg3EBQmjAg3EBQggA
+QggYFyCEgHEBQghCaFyAEAKAEIIZISCEIISAEIIQAkIIAEIIZoSAEIIQAkIIQggMG8Lg9m+WOwDD
+hrCUuucbtRAzQmDMEH7fUg0hCCEw7IwwninaNYoQAvcO4aMgE0JbCgCmnhEKIWaEgBDaUiCEwGQh
+/P2//kaIEAJThBAAhBDMCAEhBCEEhBCEEBBCABBCMCMEhBCEEBBCEEJACAFACMGMEBBCEEJACEEI
+ASEEACEEM0JACEEIASEEIQSEEACEEMwIASEEIQSEEIQQEEIAEEIwIwSEEIQQEEIQQkAIAUAIwYwQ
+EEIQQkAIQQgBIQQAIQQzQkAIQQgBIQQhBIQQAIQQzAgBIQQhBCE04EEIQQgNeACEUAjBjBCE0IAH
+IQQhNODBuAAhNOABEEIhBOMChNCAB+MChNCAB+MChNCAB0AIhRCMCxBCAx6MCxBCAx6MCxBCABBC
+wLgAIQSMCxBCbJQtc+vIOOJG60gIvTmwjrCOhNCbw5sDM0KsIyH05vDmQAixjoSw+YEB4ArMCLGO
+rCOsI+tICLGOrCOsI+tICLGOrCOsI+vopBACwO0jahEAIIQAIITBN5UPTl39J/vTP7lGwyOJrZpr
+rjIL4RarZvth+py2appW1qPp8YLg/X7tjXKRN8f7WrBqLvuLi+Vw/VUTDy4utWpaV9bOIXx/Elwk
+hFbNZdeXlXKLVSOEN1o1Hw6hd8mVZ4RWzfXXGrcYUFbZxVeNEHpzCKEQIoRCKITeHEIohAihEAqh
+N4dtrhAihEK4QwiXwpGppX/yLvn4+8PRbkLIEavGxydutGp2/vgEAIycVYsAACEEACEEACEEYOoq
+/K16+8vPbn/0E35ECAFIdaXp+PNdjqftu5ONDy2EAKwX5fmTcnF4gg/zvUwiV0+xG//I6jcIIQCH
+hLBvv+j7N5dS+vuv72lM/lTfp+aFEICGGWFyapifn5UilzwvTPCFEAJwoRCW5pGluxJCAC5XwWQU
+MyFMflHdL3pcBYUQgANDuHqkTGYimEyjEAJwuYLe7qGFEIBbtnCvBxVCAOauuEUAgBACgBACgBAC
+gBACgBACgBACgBACgBACgBACwGD+AS7PujZX33rfAAAAAElFTkSuQmCC
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS>
+
+<EXTENSION ID="AFF_FB72D3DD82E26AA20100F9CCFABFA64F_1" NAME="PERSON" REVMAN_VERSION="5.1.0" TYPE="ADDRESS"><ALIAS ALIAS_ID="FB72D3DD82E26AA20100F9CCFABFA64F"><ADDRESS><DEPARTMENT>School of Public Heath</DEPARTMENT><ORGANISATION>University of Alberta</ORGANISATION><CITY>Edmonton</CITY><COUNTRY CODE="CA">Canada</COUNTRY></ADDRESS></ALIAS></EXTENSION></EXTENSIONS>
+</COCHRANE_REVIEW>

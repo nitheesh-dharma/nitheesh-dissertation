@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002273.pub3" GROUP_ID="NEONATAL" ID="613399111911094848" MERGED_FROM="" MODIFIED="2008-11-03 19:22:51 +0100" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.3&lt;/p&gt;&lt;p&gt;CL 3/04 review&lt;br&gt;CL 2/05 update&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2008-11-03 13:17:14 -0500" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="" REVMAN_SUB_VERSION="5.0.16" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2008-11-03 19:22:51 +0100" MODIFIED_BY="Diane Haughton">
+<TITLE>Air versus oxygen for resuscitation of infants at birth</TITLE>
+<CONTACT MODIFIED="2008-11-03 19:22:51 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="17716" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Peter</FIRST_NAME><MIDDLE_INITIALS>G</MIDDLE_INITIALS><LAST_NAME>Davis</LAST_NAME><POSITION>Consultant Neonatologist</POSITION><EMAIL_1>pgd@unimelb.edu.au</EMAIL_1><ADDRESS><DEPARTMENT>Department of Paediatrics</DEPARTMENT><ORGANISATION>Royal Women's Hospital</ORGANISATION><ADDRESS_1>20 Flemington Rd</ADDRESS_1><CITY>Parkville</CITY><ZIP>3052</ZIP><REGION>Victoria</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 3 83453763</PHONE_1><FAX_1>+61 3 83453789</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2008-11-03 19:22:51 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="15332" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Anton</FIRST_NAME><LAST_NAME>Tan</LAST_NAME><POSITION>Neonatal Fellow</POSITION><EMAIL_1>tant@cryptic.rch.unimelb.edu.au</EMAIL_1><ADDRESS><DEPARTMENT>Neonatal Unit; 9th Floor</DEPARTMENT><ORGANISATION>Royal Women's Hospital</ORGANISATION><ADDRESS_1>132 Grattan Street</ADDRESS_1><CITY>Melbourne</CITY><ZIP>3053</ZIP><REGION>Victoria</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 3 9344 2414</PHONE_1><FAX_1>+61 3 9347 2731</FAX_1></ADDRESS></PERSON><PERSON ID="18341" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Andreas</FIRST_NAME><MIDDLE_INITIALS>A</MIDDLE_INITIALS><LAST_NAME>Schulze</LAST_NAME><SUFFIX>MD</SUFFIX><POSITION>Professor</POSITION><EMAIL_1>Andreas.Schulze@med.uni-muenchen.de</EMAIL_1><ADDRESS><DEPARTMENT>Obstetrics and Gynecology</DEPARTMENT><ORGANISATION>Ludwig Maximilian University, Klinikum Grosshadern, Munechen</ORGANISATION><CITY>Muenchen</CITY><COUNTRY CODE="DE">Germany</COUNTRY></ADDRESS></PERSON><PERSON ID="18339" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Colm</FIRST_NAME><MIDDLE_INITIALS>PF</MIDDLE_INITIALS><LAST_NAME>O'Donnell</LAST_NAME><POSITION>Consultant Neonatologist</POSITION><EMAIL_1>codonnell@nmh.ie</EMAIL_1><ADDRESS><ORGANISATION>The National Maternity Hospital</ORGANISATION><ADDRESS_1>Holles Street</ADDRESS_1><CITY>Dublin 2</CITY><COUNTRY CODE="IE">Ireland</COUNTRY><PHONE_1>+353 1 6373100</PHONE_1><FAX_1>+353 1 6614623</FAX_1></ADDRESS></PERSON><PERSON ID="17716" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Peter</FIRST_NAME><MIDDLE_INITIALS>G</MIDDLE_INITIALS><LAST_NAME>Davis</LAST_NAME><POSITION>Consultant Neonatologist</POSITION><EMAIL_1>pgd@unimelb.edu.au</EMAIL_1><ADDRESS><DEPARTMENT>Department of Paediatrics</DEPARTMENT><ORGANISATION>Royal Women's Hospital</ORGANISATION><ADDRESS_1>20 Flemington Rd</ADDRESS_1><CITY>Parkville</CITY><ZIP>3052</ZIP><REGION>Victoria</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 3 83453763</PHONE_1><FAX_1>+61 3 83453789</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-10-31 16:47:43 -0400" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Minor update: 2/16/05&lt;/p&gt;" NOTES_MODIFIED="2008-10-31 16:47:43 -0400" NOTES_MODIFIED_BY="Diane Haughton">
+<UP_TO_DATE>
+<DATE DAY="16" MONTH="2" YEAR="2005"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="16" MONTH="2" YEAR="2005"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="1" MONTH="8" YEAR="2006"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="3" YEAR="2004"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2005"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="31" MONTH="10" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2008-10-31 16:49:20 -0400" MODIFIED_BY="[Empty name]"/>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Royal Women's Hospital, Melbourne</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Murdoch Children's Research Institute, Melbourne</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Uniklinik Grosshadern, Muenchen</NAME>
+<COUNTRY CODE="DE">Germany</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Department of Obstetrics and Gynaecology, University of Melbourne</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-11-03 13:17:14 -0500" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-11-03 13:17:14 -0500" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-10-31 16:49:33 -0400" MODIFIED_BY="[Empty name]">Air versus oxygen for resuscitation of infants at birth</TITLE>
+<SUMMARY_BODY MODIFIED="2008-11-03 13:17:14 -0500" MODIFIED_BY="[Empty name]">
+<P>About 5 to 10% of infants need resuscitation at birth. Many experts recommend that these babies be resuscitated with 100% oxygen, but other experts think that normal room air is as good as or better than 100% oxygen. Too much oxygen can make breathing difficult for babies and can cause other problems such as problems with brain development, an eye condition (retinopathy of prematurity), and a lung condition (bronchopulmonary dysplasia). The authors of this Cochrane review questioned whether resuscitation with room air resulted in fewer deaths or disabilities than 100% oxygen. After searching the literature, they found five studies. There were a total of 1302 infants in these studies; 24% of them were premature. In the studies, fewer babies died when resuscitated with room air than with 100% oxygen. Many of the babies resuscitated with room air also got some oxygen as a supplement, making it difficult to compare the two groups. There were also other problems with the way the studies were carried out. The authors of the Cochrane review concluded that there is not enough evidence to recommend room air over 100% oxygen, or vice versa.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>100% oxygen is the commonly recommended gas for the resuscitation of infants at birth. There is growing evidence from both animal and human studies that room air is as effective as 100% oxygen and that 100% oxygen may have adverse effects on breathing physiology and cerebral circulation. There is also the theoretical risk of tissue damage due to free oxygen radicals when 100% oxygen is given. The use of room air has, therefore, been suggested as a safer and possibly more effective alternative. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>In newborn infants requiring resuscitation, does the use of room air reduce the incidence of death, neurological disability and short term morbidity when compared with the use of 100% oxygen?</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>This included searches of the Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2004) and MEDLINE PubMed 1966 to December 2003, and handsearches of reference lists of relevant articles and conference proceedings.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomised and quasi-randomised studies comparing the use of room air or any other concentration of oxygen versus 100% oxygen in the resuscitation of infants at birth.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Three authors assessed the methodological quality of eligible trials and extracted data independently. When appropriate, meta-analysis was conducted to provide a pooled estimate of effect. For categorical data the relative risk (RR), risk difference (RD) and number needed to treat (NNT) with 95% confidence intervals (CI) were calculated. Continuous data were analysed using weighted mean difference (WMD).<BR/>
+</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Five studies were identified which enrolled a total of 1302 infants. In two studies allocation was randomised and the caregivers were blinded to intervention group. In the other three studies, allocation was quasi-randomised and the caregivers were not blinded. Pooled analysis of the four trials reporting effect on death showed a significant reduction in the rate of death in the group resuscitated with room air [typical RR 0.71 (0.54, 0.94), typical RD -0.05 (-0.08, -0.01), NNT 20 (12, 100)]. There were no significant differences between the groups with respect to rates of grade 2 or 3 hypoxic ischaemic encephalopathy. One of the four trials reported a statistically significant difference in median 5 minute Apgar scores, favouring the group allocated to room air. However, the absolute difference between the medians was small and there were no significant differences in the median 10 minute Apgar scores in the three trials reporting this outcome. </P>
+<P>One trial followed up a selected subgroup of survivors to 18-24 months. There were no significant differences in rates of adverse neurodevelopmental outcomes including cerebral palsy and failure to achieve various milestones; however, the proportion of eligible patients seen was less than 70%.</P>
+<P>Analyses that were planned for this review, but not able to be carried out because of lack of published data, included a sub-analysis stratified by gestational age and assessments of the effect on bronchopulmonary dysplasia and retinopathy of prematurity.<BR/>
+</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>There is insufficient evidence at present on which to recommend a policy of using room air over 100% oxygen, or vice versa, for newborn resuscitation. A reduction in mortality has been seen in infants resuscitated with room air, and no evidence of harm has been demonstrated. However, the small number of identified studies and their methodologic limitations dictate caution in interpreting and applying these results. We note the use of back-up 100% oxygen in more than a quarter of infants randomised to room air. Therefore, on the basis of currently available evidence, if one chooses room air as the initial gas for resuscitation, supplementary oxygen should continue to be made available.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P>Physiologic changes occurring at the birth of a newborn infant are rapid and complex. Normally, this transition is smooth and no intervention on the part of health professionals is needed. However, about 5 - 10% of newborns require some degree of resuscitation, ranging from simple stimulation to assisted ventilation (<LINK REF="REF-Saugstad-1998a" TYPE="REFERENCE">Saugstad 1998a</LINK>). It is estimated that about 19% of the over 5 million neonatal deaths worldwide annually are caused by birth asphyxia (<LINK REF="REF-WHO-1997" TYPE="REFERENCE">WHO 1997</LINK>). The aim of resuscitation is to prevent not only neonatal death but also the adverse long term neurodevelopmental sequelae associated with birth asphyxia.<BR/>
+<BR/>The optimal concentration of oxygen for neonatal resuscitation is uncertain. Many textbooks and the advisory statement from the International Liaison Committee on Resuscitation (ILCOR) (<LINK REF="REF-Kattwinkel-1999" TYPE="REFERENCE">Kattwinkel 1999</LINK>) recommend that resuscitation of the newborn infant should be performed with 100% oxygen. This practice has been challenged by other experts in the field on the basis that little scientific evidence exists to support it. <LINK REF="REF-Soll-1999" TYPE="REFERENCE">Soll 1999</LINK>, while recognising the importance of consensus guidelines like the ILCOR statement, suggested that these were based on "precedent rather than clinical evidence". <LINK REF="REF-Milner-1998" TYPE="REFERENCE">Milner 1998</LINK> proposed that while there is some evidence that room air is sufficient to resuscitate asphyxiated babies, there is none to suggest that air is better than 100% oxygen. He suggested a compromise, whereby 30 - 40% oxygen using a blender device should be initially used and modified according to the baby's oxygen saturation. </P>
+<P>Evidence from animal studies suggests that room air is as effective as 100% oxygen in resuscitation. <LINK REF="REF-Rootwelt-1993" TYPE="REFERENCE">Rootwelt 1993</LINK> used a newborn pig model, resuscitating asphyxiated animals with either air or 100% oxygen. There were no significant differences between the groups with respect to blood pressure, base deficit, plasma hypoxanthine (a prognostic marker after hypoxic events, <LINK REF="REF-Saugstad-1988" TYPE="REFERENCE">Saugstad 1988</LINK>) and brain morphology. </P>
+<P>Concerns have been raised regarding potential adverse effects of the use of excessive oxygen. <LINK REF="REF-Mortola-1992" TYPE="REFERENCE">Mortola 1992</LINK> showed that giving 100% oxygen for five min to newborn infants increases their work of breathing by about 45% compared to normoxic infants. This was also associated with an increase of both oxygen consumption by 25% and carbon dioxide production by 17%. The exact mechanism of these effects remains unclear (<LINK REF="REF-Mortola-1992" TYPE="REFERENCE">Mortola 1992</LINK>). More importantly, high concentrations of oxygen may lead to the generation of excess free radicals. These may overwhelm the natural defence system and increase the risk for development of retinopathy of prematurity (ROP) and bronchopulmonary dysplasia (BPD), especially in the preterm population (<LINK REF="REF-Frank-1985" TYPE="REFERENCE">Frank 1985</LINK>; <LINK REF="REF-Saugstad-1998b" TYPE="REFERENCE">Saugstad 1998b</LINK>). It is also known from animal and human studies that cerebral blood flow is decreased with hyperoxia, potentially increasing the extent of ischaemic injury (<LINK REF="REF-Nijima-1988" TYPE="REFERENCE">Nijima 1988</LINK>, <LINK REF="REF-Lundstrom-1995" TYPE="REFERENCE">Lundstrom 1995</LINK>).</P>
+<P>Birth asphyxia and the need for neonatal resuscitation are more common in the developing world. The difficulty of providing 100% oxygen is a limiting factor and if air were as effective it would be the preferred gas for neonatal resuscitation. <BR/>
+<BR/>It is vital that resuscitation of the newborn infant is performed efficiently. Determining the concentration of oxygen that maximises efficacy and safety is an important component of efforts to further improve techniques of neonatal resuscitation.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>Primary objective: To determine if the use of room air reduced the incidence of death or neurological disability when compared with the use of 100% oxygen in newborn infants requiring resuscitation.</P>
+<P>Secondary objectives were to determine whether resuscitation using room air, as compared with oxygen, resulted in decreased rates of hypoxic-ischaemic encephalopathy, BPD or ROP; and to compare effects of room air vs oxygen on immediate clinical and biochemical responses to resuscitation. Subgroup analyses were planned on the basis of gestational age (37 or more completed weeks, less than 37 weeks).</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Randomised or quasi-randomised trials</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Term or preterm neonates requiring intermittent positive pressure ventilation (IPPV) at birth.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Room air versus 100% oxygen. We planned to also include trials comparing intermediate levels of oxygen supplementation with either oxygen or room air. </P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>Primary outcomes:<BR/>1. Death (before discharge from initial hospitalisation and before age 5 years)<BR/>2. Long term neurodevelopmental outcome at age 5 years (rates of cerebral palsy on physician assessment, developmental delay, i.e. IQ &lt; 2 standard deviation on validated assessment tools, e.g. the Stanford-Binet Intelligence Scale or others)</P>
+<P>Secondary outcomes:<BR/>3. Signs consistent with hypoxic ischaemic encephalopathy (HIE) Grade I - III (Grade I: a clinical state of hyperalertness, hyperreflexia and hyperexcitability; Grade II: a state of lethargy with weak Moro and sucking reflexes, seizures and hypotonia; Grade III: a state of stupor, flaccidity and absent primitive reflexes) (<LINK REF="REF-Sarnat-1976" TYPE="REFERENCE">Sarnat 1976</LINK>)<BR/>4. Incidence of bronchopulmonary dysplasia (BPD) <BR/>5. Incidence of retinopathy of prematurity (ROP) <BR/>6. Time to establish regular respirations<BR/>7. Time to establish heart rate &gt; 100/min<BR/>8. Apgar scores at age five and ten minutes<BR/>9. Results of the first arterial blood gas following resuscitation within the first 2 hours of life </P>
+<P>In addition to the above criteria which were defined a priori in the protocol, the following outcomes were added after the eligible studies were examined.<BR/>10. Time to first breath of more than 3 minutes<BR/>11. Heart rate at 5 minutes<BR/>12. Developmental milestones at 18 to 24 months of age including walking and talking<BR/>13. "Abnormal assessment" by a paediatrician at 18 to 24 months<BR/>14. Failure of resuscitation according to preset criteria in unblinded studies or clinician decision to switch treatment in blinded studies<BR/> </P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>See: Collaborative Review Group search strategy</P>
+<P>The standard search strategy of the Cochrane Neonatal Review Group as outlined in The Cochrane Library was used. This included searches of the Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2004): infant and resuscitation, MEDLINE; PubMed - 1966 to December 2003: Infant, Newborn (explode) [MeSH heading] and Resuscitation (explode) [MeSH heading] and Oxygen (explode) [MeSH heading], previous reviews including cross references, expert informants and journal hand searching mainly in the English language. Unpublished studies were sought by handsearching the conference proceedings of the Society for Pediatric Research and the European Society for Pediatric Research from 1993 to 2003.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used. Three authors independently identified the studies to be included, performed a quality assessment and extracted the data. Differences were resolved after discussion between the reviewers. Reviewers based quality assessment on 1) blinding of randomisation, 2) blinding of intervention, 3) completeness of follow up and 4) blinding of outcome measurement. The statistical analysis used the fixed effect model. For categorical data the relative risk (RR), risk difference (RD) and number needed to treat (NNT) with 95% confidence intervals were calculated. Continuous data were analysed using weighted mean difference (WMD). Additional data were provided by Professor Vento for <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>, including mortality in those randomised and clarification of number of babies included in the study.<BR/>The number of babies randomised was used as the denominator for all analyses where possible. However, for several outcomes, notably long term followup and blood gas analysis in <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> outcome data was available for only a proportion of babies. Similarly, in <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> post-randomisation exclusions meant that the denominator varies for different outcomes. For further details see Methodological quality of included studies section 2.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>For the summary of the included studies see also table of included studies.</P>
+<P>Our search revealed five studies, recruiting 1302 infants, which met our inclusion criteria. Three were single centre studies (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>; <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>) and two were multicentred studies (<LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>). <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> served as a pilot study for the international collaborative study of <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>. Each of the five trials reported a unique study population.</P>
+<P>Study populations: Two studies (<LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>; <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>) included only term infants; the other three recruited term and preterm infants with a birth weight over 1 kg. The proportion of included preterm infants was small (24% of all included infants) in <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>, and was not indicated in <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> or <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>. Definition of eligibility for inclusion was consistent across the studies - infants were either apneic or had gasping respirations and/or were bradycardic with a heart rate less than 80/minute. <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> added criteria of hypotonia and nonresponsiveness to stimulation to the respiratory and heart rate parameters. <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> excluded post-randomisation babies with a pH on blood gas from the umbilical cord of greater than 7.05. Publication of a meta-analysis by Saugstad, Ramji and Vento (<LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK>) indicates that 13 subjects reported in <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> were also reported in <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>. <LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK> also indicates that 18 infants reported in <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> were registered twice in this study. The data included here are uncorrected i.e. as published in the initial reports of these studies. The authors have been contacted and asked to supply the outcome data on these double-counted subjects so that we may correct the data in the next update of this review.</P>
+<P>Interventions: All five studies compared the use of room air to 100% oxygen for the resuscitation of the newborn. All studies imply in their methodology that the resuscitation of the newborn was performed by an experienced member of a resuscitation team, each applying the unit's treatment protocol. <BR/>All trials allowed back-up therapy according to failure of resuscitation criteria defined in the following section, Major outcomes. <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> allowed infants allocated to room air to receive back-up therapy with 100% oxygen if they reached predetermined failure criteria. Infants allocated to 100% oxygen continued to receive this therapy even if the same failure criteria were reached. <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> allowed back-up therapy with the alternate gas at the clinician's discretion. No failure criteria were specified in these two trials. </P>
+<P>Major outcomes: The primary outcomes as stated by the authors were as follows: <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> - Apgar score and heart rate at 5 minutes, <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> - Apgar score at 5 minutes, <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> - mortality and/or moderate to severe HIE, <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> - do not state a specific primary outcome. All studies attempted neurological examination in the neonatal period. <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> followed up a proportion of infants at 18 to 24 months, assessing their developmental milestones and the presence or absence of cerebral palsy. <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> and <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> reported blood gas status in the first half hour of life. <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>; <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> reported median Apgar scores following initiation of resuscitation.<BR/>All included trials reported the outcome of failure of resuscitation, although this outcome was reported differently in different studies. The three unblinded studies allowed infants allocated to room air to receive back-up therapy with 100% oxygen if they reached predetermined failure of resuscitation criteria i.e. remained cyanosed or bradycardic after 90 seconds of resuscitation (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>). <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> also determined the number of infants in the 100% oxygen group who reached the same failure criteria. In these 3 trials, all outcomes were reported based on initial group of allocation. The criteria for failure of resuscitation were not specified in the blinded studies of <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>. It appears that the decision to use back-up therapy with the alternative gas was based on an unsatisfactory early clinical response to resuscitation and was made at the clinician's discretion. <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> reported that no infant in either group required back-up therapy. Additional data provided by the author allowed us to determine rates of failure of resuscitation in <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> for all randomised infants. However, <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> excluded infants who reached failure criteria from further analysis and other outcome data are not available for these infants.<BR/>
+</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>The methodological quality of each trial was assessed using the criteria of the Neonatal Review Group. For each trial the following were assessed: concealment of allocation schedule, inclusion in the analysis of all randomised participants and blinding of intervention and outcome measurement.</P>
+<P>1. Concealment of allocation schedule and generation of allocation sequence<BR/>This was inadequate in three studies (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>), which allocated babies born on even dates to room air and those born on odd dates to 100% oxygen. The authors were concerned that randomisation after birth may have delayed treatment and thus reduced numbers of enrolled infants. <LINK REF="REF-Saugstad-1998b" TYPE="REFERENCE">Saugstad 1998b</LINK> reported that 16 infants mistakenly received the alternative treatment (10 born on even days were given oxygen and 6 born on odd days, air). Outcomes for these individuals are reported according to the treatment they received rather than according to the group to which they were allocated in both the original article and this review. We will contact the authors to obtain data based on group of allocation for future updates of this review. <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> described an adequate generation of allocation sequence by using random number assignment, and the implementation of the allocated treatment was by a nurse not involved in the resuscitation. Computer generated random numbers and sealed envelopes were used by <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>. </P>
+<P>2. Inclusion in the analysis of all randomised participants<BR/>Short term outcomes: Four studies provided in-hospital outcome data for greater than 90% of randomised patients (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>). <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> excluded 45 of 151 (30%) of randomised patients for the following reasons: not fulfilling the biochemical entry requirements, having insufficient blood taken for analysis, switching to the alternative treatment arm and loss of blinding. Data for the outcomes "death" and "failure of resuscitation" were provided by the author for all randomised infants. Other outcomes are reported with the denominator of the remaining 106 infants. The validity of these outcome data is reduced by the high rate of post-randomisation exclusions.<BR/>Three studies (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>) included infants resuscitated in air, who were later switched to 100% oxygen; these infants were analysed by intention to treat. <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> reported that all infants received only the allocated treatment. <BR/>Long term outcomes: <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> attempted follow-up of infants in 7 of the 10 participating centres. Of the 331 eligible infants, 213 were seen by a paediatrician between 18 and 24 months of age.<BR/>
+<BR/>3. Blinding of intervention<BR/>Two studies (<LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>) achieved blinding of the intervention by having the nurse in charge, who was not involved with the resuscitation, switch the hidden oxygen blender to either 21% or 100% oxygen. The other three studies (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>) were unblinded. The decision to use back-up therapy was made blind to allocated treatment in <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> but was not blinded in <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> and <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>.</P>
+<P>4. Blinding of outcome measurement <BR/>No attempt was made to blind outcome assessment in <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> or <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>. Adequate blinding was achieved by <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>.<BR/>
+</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>Five studies were identified which fulfilled our entry criteria. They included a total of 1302 neonates, who were mainly term infants. There was no disagreement regarding inclusion/exclusion of studies, quality assessment or data extraction. Available data were pooled and analysed as listed below. A planned subgroup analysis based on gestational age was not possible, as the results of individual studies were not presented stratified for gestational age. </P>
+<P>1. Death at latest followup (Table 01) <BR/>Four studies reported this outcome (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>). The results of the pooled analysis were heavily influenced by <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>, which had by far the largest number of recruited neonates. No individual study found a significant effect. Pooled analysis showed a significant reduction in mortality in the group allocated to room air [typical RR 0.71 (0.54, 0.94), typical RD -0.05 (-0.08, -0.01), NNT 20 (12, 100)]. <BR/>
+<BR/>2. Long term neurodevelopmental outcome at age 5 years <BR/>No studies reported this outcome using validated assessment tools as specified in the protocol. The following outcomes are presented as post hoc findings after review of included studies (Table 02). <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> followed up a proportion of eligible infants to 18 to 24 months. There was no significant difference in the rates of cerebral palsy between groups [RR 1.34 (0.55, 3.24)]. No formal psychometric testing was undertaken; however, an assessment of achievement of motor and language milestones was presented and is included in this review as a post hoc analysis. There were no significant differences in rates of not walking [RR 1.03 (0.47, 2.25)] or not talking [RR 2.68 (0.69, 10.44)]. Likewise, there was no significant difference in rates of "abnormal development" as assigned by the examining pediatrician [RR 1.56 (0.76, 3.22)].</P>
+<P>3. Hypoxic ischaemic encephalopathy Grade II or III (<LINK REF="REF-Sarnat-1976" TYPE="REFERENCE">Sarnat 1976</LINK>) (Table 03)<BR/>Three trials reported this outcome (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> and <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>). No individual study found a significant effect and the pooled analysis showed no significant difference in the rate of Grade II or III encephalopathy [typical RR 0.84 (0.65, 1.08), typical RD -0.01 (-0.06, 0.04)]. <BR/>Three studies presented neurological outcomes in the neonatal period (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> and <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>). These are presented as post hoc findings as we did not include this outcome in our protocol. A full neurological examination at 28 days was reported as normal in the 72 of 77 surviving infants assessed by <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>. <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> reported "no differences" between the groups in clinical, EEG or cranial ultrasound outcomes at 28 days but did not report the details of data collected. <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> reported no abnormalities on cranial ultrasound or EEG assessment in either group and no difference in the rate of abnormal neurological findings on structured examination.</P>
+<P>4. Incidence of bronchopulmonary dysplasia (BPD)<BR/>None of the studies reported this outcome.<BR/> <BR/>5. Incidence of retinopathy of prematurity (ROP) <BR/>None of the studies reported this outcome.</P>
+<P>6. Time to establish regular respirations<BR/>
+<LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK> reported that the time needed for the onset of "sustained respiratory pattern" was longer in the oxygen group compared with the room air group (p&lt;0.05). The comparison was illustrated in graphical form but numerical data were not provided. <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> found a significantly shorter time to onset of spontaneous respiration in infants resuscitated with room air [MD -1.5 minutes (-2.02, -0.98)] (Table 04).<BR/>The included studies reported a number of related outcomes not listed in the protocol for this review. They are, therefore, presented as post hoc findings. <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> reported the proportion of neonates who had their first breath after three minutes (Table 05). This was significantly reduced in the room air group compared to the oxygen group, RR 0.53 (0.35, 0.80)]. <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> reported that the median time of first breath and interquartile range was identical for both groups of infants [1.5 minutes (1.0, 2.0)]. <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> reported a significantly shorter median (95% CI) time to first breath in the room air group [1.1 minutes (1.0, 1.2)] compared with those resuscitated with 100% oxygen [1.5 minutes (1.4, 1.6)].</P>
+<P>7. Time to establish heart rate &gt; 100/min<BR/>This outcome was not reported by any of the studies. <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> reported no significant difference in heart rates over the first 30 minutes using repeated measures ANOVA. <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> found no significant difference in mean heart rate at 5 minutes of age [MD 0.40 (-2.65, 3.45)] (Table 06). <BR/>
+<BR/>8. Apgar scores at age five and ten minutes<BR/>All five studies reported median Apgar scores. Pooled analysis of this outcome was therefore not possible. <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> reported a small difference in median (interquartile range) 5 minute Apgar scores that was statistically significant, favouring the room air group [8 (7, 9) vs 7 (6, 8)]. <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> reported a nonsignificant trend favouring room air for median (95% CI) 5 minute Apgar scores [8 (4, 9) vs 7 (3, 9)] which disappeared at 10 minutes [8 (5, 10) vs 8 (3.5, 9)]. <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>; <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> found no significant difference in median 5 and 10 minute Apgar scores.<BR/>In a related outcome not listed in the protocol, <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> reported the proportion of infants with 5 minute Apgar scores less than 7 (Table 7). The result, of borderline statistical significance, favoured the room air group [RR 0.78 (0.60, 1.00), RD -0.07 (-0.14, 0.00)].</P>
+<P>9. Results of the first arterial blood gas within the first 2 hours of life (Table 08)<BR/>One study (<LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>) performed only an arterial cord blood gas analysis, but no blood gas analysis following resuscitation. The data from this study were therefore not included in our analysis. Three studies (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>) reported arterial blood gases at 10 to 15 minutes of life. <BR/>No individual study found a significant difference in pH and the pooled analysis also showed no significant difference [WMD 0.01 (-0.01, 0.04)]. <BR/>
+<LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> found a significantly lower level of pCO2 in babies randomised to room air [MD -2.13 mmHg, (-4.08, -0.18)]. The pooled analysis showed a small but significant reduction in pCO2 in babies allocated to room air [WMD -2.13 mmHg (-4.08, -0.18)]. <BR/>
+<LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK> reported a significantly lower pO2 in babies resuscitated with room air [MD -54.10 mmHg (-60.16, -48.04)] and the pooled analysis also demonstrated a lower pO2 in this group [WMD -37.09 mmHg (-41.99, -32.19)]. We detected but could not explain significant heterogeneity in this pooled analysis (p&lt;0.001).<BR/>
+<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> and <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> reported base deficit. There were no statistically significant differences for this outcome in the individual trials or the pooled analysis [WMD -0.11 mEq/L (-1.24, 1.02)].</P>
+<P>10. Failure of resuscitation (Table 09)<BR/>This outcome was included after the results of the included studies were examined, i.e. it represents a post hoc analysis. All five studies reported the rate of failure of resuscitation in babies allocated to room air. <LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK> reported that 6 of 42 infants allocated to room air reached failure criteria but did not report this outcome for babies allocated to 100% oxygen. None of the other four trials (<LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>; <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>) individually showed a difference in this outcome, and pooled analysis showed that there was no significant difference in the rates of failure of resuscitation between the two groups [typical RR 0.96 (0.81, 1.14), typical RD -0.01 (-0.06, 0.04)].</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>Whether to use air or 100% oxygen for resuscitation of newborn infants at birth is a very important clinical question. We were disappointed that only five controlled studies enrolling a total of 1302 infants could be identified. There are a number of possible reasons for the lack of studies. Firstly, the use of 100% oxygen has been an established treatment for many decades, recommended by experts and used by generations of clinicians. It is therefore difficult to test its effectiveness and safety. Secondly, it is difficult to implement a randomised controlled study within the setting of an acute and unpredictable event, such as the resuscitation of a compromised newborn.</P>
+<P>Though two studies included preterm neonates with birth weight of over 1 kg, the total number remained small and no separate analysis was reported. We were therefore not able to perform a sub-group analysis of effects on outcomes in the preterm population as we intended in our protocol.</P>
+<P>Caution should be exercised in the application of the results of this meta-analysis for two reasons. Firstly, the majority of infants from the three biggest studies (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>) were recruited in developing countries, where ante- and perinatal care, resuscitation equipment and perinatal mortality rates differ from those in developed countries. Therefore it is uncertain whether the results of these studies can be applied to hospitals in countries with more resources. Secondly, there are methodological problems which may affect the validity of the results. Randomisation and blinding were inadequate in three studies (<LINK REF="STD-Ramji-1993" TYPE="STUDY">Ramji 1993</LINK>; <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>; <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>). Furthermore, the short follow up time of 28 days in most studies and the limitations of the one study (<LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>) that did attempt long term follow-up (high drop out rate, lack of blinding of assessors, no standardised psychometric testing) leave unanswered the important question of which treatment is more effective in minimising neurodevelopmental impairment. </P>
+<P>The reported death rates in included studies showed a significant difference favouring the room air group. This was heavily influenced by the multicenter trials of <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>, which enrolled a total of 1040 infants. There were no deaths in either arm of the trial in the three European centres participating in <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>. Long term followup (<LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK>), with the limitations outlined above, showed no significant difference in rates of adverse neurodevelopmental outcomes.</P>
+<P>The use of back-up oxygen in babies allocated to room air has important implications for the applicability of the results of this systematic review. Although the number of babies reaching failure of resuscitation criteria did not differ between the groups, 168 of 635 (26.5%) allocated to room air in the five trials received back-up use of 100% oxygen.</P>
+<P>Results favouring the room air group for some short term outcomes (proportions not crying by three minutes and proportions having five minute Apgar scores less than seven) are notable and should stimulate further evaluation of this policy. The clinical importance of a higher arterial pO2 in the 100% oxygen group is uncertain. The other outcomes, such as symptoms suggestive of HIE or the other arterial blood gas parameters, were not significantly different.</P>
+<P>A systematic review and meta-analysis has been undertaken by Saugstad, Ramji and Vento (<LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK>). Their overall findings, with respect to neonatal mortality, were similar to ours. However, differences in numbers of included subjects are noted. <LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK> was able to take into account the double counting issues apparent in <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK>. <LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK> was also able to include the subset of randomised subjects reported in <LINK REF="STD-Vento-2001-b" TYPE="STUDY">Vento 2001 b</LINK>, which resulted in a larger total number of patients included (1737 vs 1302 in our review). <LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK> did not report separately one of the studies we included (<LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>). Interestingly, <LINK REF="STD-Vento-2001-b" TYPE="STUDY">Vento 2001 b</LINK> reported a much greater treatment effect favouring air than other included studies. Odds ratios were used by <LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK>; for mortality <LINK REF="STD-Vento-2001-b" TYPE="STUDY">Vento 2001 b</LINK> reported an OR of 0.11 (0.01, 0.90) compared to an pooled OR of 0.57 (0.42, 0.78) in this review. Although no formal measure of heterogeneity was reported in <LINK REF="REF-Saugstad-2004" TYPE="REFERENCE">Saugstad 2004</LINK>, it is likely that inclusion of this study would lead to substantial heterogeneity for the pooled outcome of mortality. This is in contrast to the consistency observed in the studies included in our review. </P>
+<P>The trials of <LINK REF="STD-Saugstad-1998-c" TYPE="STUDY">Saugstad 1998 c</LINK> and <LINK REF="STD-Ramji-2003" TYPE="STUDY">Ramji 2003</LINK> demonstrate that relatively large trials are possible, and Vento (<LINK REF="STD-Vento-2001-a" TYPE="STUDY">Vento 2001 a</LINK>; <LINK REF="STD-Vento-2003" TYPE="STUDY">Vento 2003</LINK>) has shown that randomisation of participants and blinding of caregivers can be achieved. The methodological limitations of the studies included in this review preclude a definitive answer to the question of whether room air or 100% oxygen is the superior gas in the resuscitation of the newborn at birth. However, note must be taken of the reduced mortality in room air group in the pooled analysis.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>There is insufficient evidence at present on which to recommend a policy of using room air over 100% oxygen, or vice versa, for newborn resuscitation. A reduction in mortality has been seen in infants resuscitated with room air, and no evidence of harm has been demonstrated. However, the small number of identified studies and their methodologic limitations dictate caution in interpreting and applying these results. We note the use of back-up 100% oxygen in more than a quarter of infants randomised to room air. Therefore, on the basis of currently available evidence, if one chooses room air as the initial gas for resuscitation, supplementary oxygen should continue to be made available.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Further randomised controlled trials assessing mortality and long term neurodevelopmental outcome, in both developing and developed countries, are required. These should include and stratify for term and preterm infants, and report effects on death and long term neurodevelopment in both strata, and BPD and ROP in preterm neonates.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>The authors acknowledge the assistance of Professor Vento in providing additional data and clarification that assisted greatly in the preparation of this review.<BR/>
+</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>AT, COD and PGD assessed the methodological quality of eligible trials and extracted data independently. AT and PGD wrote the review and COD and AS reviewed the manuscript.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES>
+<P>A secondary publication based on this Cochrane review was published in:<BR/>The Lancet 2004;364:1329-33 <BR/>Comment in: Lancet. 2005 Feb 19;365:651-2; Author reply 652-3</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ramji-1993" NAME="Ramji 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ramji S, Ahuja S, Thirupuram S, Rootwelt T, Rooth G, Saugstad OD</AU>
+<TI>Resuscitation of asphyxiated newborn infants with room air or 100% oxygen</TI>
+<SO>Pediatric Research</SO>
+<YR>1993</YR>
+<VL>34</VL>
+<PG>809-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ramji-2003" NAME="Ramji 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ramji S, Rasaily R, Mishra P, Narang A, Jayam S, Kapoor A, Kambo I, Mathur A, Saxena N, Saxena B</AU>
+<TI>Resuscitation of asphyxiated newborns with room air or 100% oxygen at birth: A multicentric clinical trial</TI>
+<SO>Indian Pediatrics</SO>
+<YR>2003</YR>
+<VL>40</VL>
+<PG>510-17</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Saugstad-1998-c" NAME="Saugstad 1998 c" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Saugstad O, Ramji S, Irani S, El-Meneza S, Hernandez E, Vento M, Talvik T, Solberh R, Rootwelt T, Aalen O</AU>
+<TI>Resuscitation of newborn infants with 21% or 100% oxygen: Follow-up at 18 to 24 months</TI>
+<SO>Pediatrics</SO>
+<YR>2003</YR>
+<VL>112</VL>
+<PG>296-300</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Saugstad OD, Rootwelt T, Aalen O</AU>
+<TI>Resuscitation of asphyxiated newborn infants with room air or oxygen: an international controlled trial: The Resair 2 study</TI>
+<SO>Pediatrics</SO>
+<YR>1998</YR>
+<VL>102</VL>
+<NO>1</NO>
+<PG>e1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vento-2001-a" NAME="Vento 2001 a" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vento M, Asensi M, Sastre J, Garcia-Sala F, Pallardo FV, Vina J</AU>
+<TI>Resuscitation with room air instead of 100% oxygen prevents oxidative stress in moderately asphyxiated term neonates</TI>
+<SO>Pediatrics</SO>
+<YR>2001</YR>
+<VL>107</VL>
+<PG>642-47</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vento-2003" NAME="Vento 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vento M, Asensi M, Sastre J, Lloret A, Garcia-Sala F, Vina J</AU>
+<TI>Oxidative stress in asphyxiated term infants resuscitated with 100% oxygen</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>2003</YR>
+<VL>142</VL>
+<PG>240-46</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vento-2001-b" NAME="Vento 2001 b" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vento M, Asensi M, Sastre J, Garcia-Sala F, Vina J</AU>
+<TI>Six years of experience with the use of room air for the resuscitation of asphyxiated newly born term infants</TI>
+<SO>Biology of the Neonate</SO>
+<YR>2001</YR>
+<VL>79</VL>
+<PG>261-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Frank-1985" NAME="Frank 1985" TYPE="JOURNAL_ARTICLE">
+<AU>Frank L</AU>
+<TI>Effects of oxygen on the newborn</TI>
+<SO>Federation Proceedings</SO>
+<YR>1985</YR>
+<VL>44</VL>
+<PG>2328-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kattwinkel-1999" NAME="Kattwinkel 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Kattwinkel J, Niermeyer S, Nadkarni V, Tibballs J, Phillips B, Zideman D, et al</AU>
+<TI>Resuscitation of the newly born infant: an advisory statement from the Pediatric Working Group of the International Liaison Committee on Resuscitation</TI>
+<SO>Resuscitation</SO>
+<YR>1999</YR>
+<VL>40</VL>
+<PG>71-88</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="10225280"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Lundstrom-1995" NAME="Lundstrom 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Lundstrom K, Pryds O, Greisen G</AU>
+<TI>Oxygen at birth and prolonged cerebral vasoconstriction in preterm infants</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1995</YR>
+<VL>73</VL>
+<PG>F81-F86</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Milner-1998" NAME="Milner 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Milner AD</AU>
+<TI>Resuscitation at birth</TI>
+<SO>European Journal of Pediatrics</SO>
+<YR>1998</YR>
+<VL>157</VL>
+<PG>524-27</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mortola-1992" NAME="Mortola 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Mortola JP, Frapell PB, Dotta A</AU>
+<TI>Ventilatory and metabolic response to acute hyperoxia in newborn</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1992</YR>
+<VL>146</VL>
+<PG>11-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nijima-1988" NAME="Nijima 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Nijima S, Shortland DB, Levene MI, Evans DH</AU>
+<TI>Transient hyperoxia and cerebral blood flow velocity in infants born prematurely and at full term</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1988</YR>
+<VL>63</VL>
+<PG>1126-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rootwelt-1993" NAME="Rootwelt 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Rootwelt T, Odden JP, Hall C, Ganes T, Saugstad OD</AU>
+<TI>Cerebral blood flow and evoked potentials during reoxygenation with 21 or 100% O2 in newborn</TI>
+<SO>Journal of Applied Physiology</SO>
+<YR>1993</YR>
+<VL>75</VL>
+<PG>2054-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sarnat-1976" NAME="Sarnat 1976" TYPE="JOURNAL_ARTICLE">
+<AU>Sarnat HB, Sarnat MS</AU>
+<TI>Neonatal encephalopathy following fetal distress. A clinical and electrocephalographic study</TI>
+<SO>Archives of Neurology</SO>
+<YR>1976</YR>
+<VL>33</VL>
+<PG>696-705</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Saugstad-1988" NAME="Saugstad 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Saugstad OD</AU>
+<TI>Hypoxanthine as an indicator of hypoxia: its role in health and disease through free radical production</TI>
+<SO>Pediatric Research</SO>
+<YR>1988</YR>
+<VL>23</VL>
+<PG>143-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Saugstad-1998a" NAME="Saugstad 1998a" TYPE="JOURNAL_ARTICLE">
+<AU>Saugstad OD</AU>
+<TI>Practical aspects of resuscitating newborn infants</TI>
+<SO>European Journal of Pediatrics</SO>
+<YR>1998</YR>
+<VL>157</VL>
+<PG>S11-S15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Saugstad-1998b" NAME="Saugstad 1998b" TYPE="JOURNAL_ARTICLE">
+<AU>Saugstad OD</AU>
+<TI>Resuscitation with room air or oxygen</TI>
+<SO>Clinics in Perinatology</SO>
+<YR>1998</YR>
+<VL>25</VL>
+<PG>741-56</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Saugstad-2004" NAME="Saugstad 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Saugstad OD, Ramji S, Vento M</AU>
+<TI>Resuscitation of depressed newborn infants with ambient air or pure oxygen: a meta-analysis</TI>
+<SO>Biol Neonate 2005;27-34. Epub 2004 Sep 20</SO>
+<YR>2004</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Soll-1999" NAME="Soll 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Soll R</AU>
+<TI>Consensus and controversy over resuscitation of the newborn infant</TI>
+<SO>Lancet</SO>
+<YR>1999</YR>
+<VL>354</VL>
+<PG>4-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-1997" NAME="WHO 1997" TYPE="BOOK">
+<AU>World Health Organisation</AU>
+<SO>World Health Report 1997</SO>
+<YR>1997</YR>
+<VL>21</VL>
+<CY>Geneva; Switzerland</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES>
+<REFERENCE ID="REF-Davis-2004" NAME="Davis 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Davis PG, Tan A, O'Donnell CPF, Schulze A</AU>
+<TI>Resuscitation of newborn infants with 100% oxygen or air: a systematic review and meta-analysis</TI>
+<SO>Lancet</SO>
+<YR>2004</YR>
+<PG>1329-1333</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Ramji-1993">
+<CHAR_METHODS>
+<P>Concealment of allocation: No - quasi-randomised by date of birth (even dates=room air, odd dates=100% oxygen) <BR/>Blinding of intervention: No <BR/>Completeness of followup: Yes for short-term outcomes - <BR/>100% followup for in-hospital outcomes but No for outcomes at 28 days (86%) Blinding of outcome measurement: No</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Single centre study.<BR/>84 neonates with apnoea and/or heart rate &lt; 80 bpm and a birth weight &gt; 999 g.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Room air (n=42) or 100% oxygen (n=42) via intermittent positive pressure ventilation (IPPV) with ambu bag and mask at 60 bpm. Backup use of 100% O2 allowed for room air group, if baby remained cyanotic or bradycardic at 90 sec (all infants analysed on an intention to treat basis).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Death.<BR/>Arterial blood gas status at 10 and 30 minutes of life.<BR/>Neurological examination at 0-3, 4-7 and 28 days of life.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>This study was designed in Oslo, Norway and performed in New Delhi, India. It served as a pilot study for a bigger study (Saugstad 1998).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Ramji-2003">
+<CHAR_METHODS>
+<P>Concealment of allocation: No - quasi-randomised by date of birth (even dates=room air, odd dates=100% oxygen) <BR/>Blinding of intervention: No <BR/>Completeness of followup: Yes.<BR/>Blinding of outcome measurement: No</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Multicentred (4 Indian units) study. 431* neonates weighing more than 1000g having a heart rate &lt;100/minute and/or apneic and unresponsive to stimulation. Excluded lethal anomalies, hydrops fetalis, congenital pulmonary or cardiac defects.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Room air (n=210) or 100% oxygen (n=221) via intermittent positive pressure ventilation (IPPV) with infant resuscitation bag and mask at 60 bpm. Backup use of 100% O2 allowed for room air group, if baby remained cyanotic or bradycardic at 90 sec (all infants analysed on an intention to treat basis).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Death in first 7 days. <BR/>Apgar scores at 1, 5 and 10 minutes, time to first breath and to first cry, duration of resuscitation, hypoxic ischemic encephalopathy (Sarnat classification) in first week.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Saugstad-1998-c">
+<CHAR_METHODS>
+<P>Concealment of allocation: No - quasi-randomised by date of birth (even=room air, odd=100% oxygen),<BR/>Blinding of intervention: No, Complete follow-up: Yes (91%) for short term outcomes, No for long term (&lt;70% of eligible infants from the 7 of 10 participating centres had 18 month follow-up).<BR/>Blinding of outcome assessment: No</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Multicentred (11 units) study.<BR/>609** neonates with apnoea or gasping and/or heart rate &lt; 80 bpm and a birth weight &gt; 999 g.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Room air (n=288) or 100% oxygen (n=321) via IPPV with ambu bag and mask at 40 - 60 bpm. Endotracheal intubation, if necessary. Backup use of 100% O2 allowed for room air group, if baby remained cyanotic or bradycardic at 90 sec (all infants analysed on an intention to treat basis).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Primary: Death within 1 week and by 28 days and/or presence of HIE grade 2 - 3. <BR/>Secondary: Apgar score at 5 min, heart rate at 90 s, time to first cry, arterial blood gases and neurological examination at 28 days of life.<BR/>Long term follow-up performed by experienced paediatricians at 18 to 24 months. Motor and language milestones and the presence/absence of cerebral palsy were assessed. An overall judgement of whether "abnormal development" was present was made but the criteria for this diagnosis were not specified.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>This study was conducted in 11 centers from six countries.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Vento-2001-a">
+<CHAR_METHODS>
+<P>Concealment of allocation: Yes - nurse not involved in the resuscitation switched between 21% and 100% oxygen on the basis of random number. Blinding of intervention: Yes Complete followup: Yes for in-hospital outcomes but uncertain for 28 day outcomes.<BR/>Blinding of outcome assessment: Yes.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Single centre study.<BR/>40 term neonates with clinical and blood gas changes consistent with asphyxia: apneic, hypotonic, unresponsive to stimuli and bradycardic (heart rate &lt; 80/min).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Room air (n=19) or 100% oxygen (n=21) via IPPV with bag and mask at 30 bpm. The other set parameters were a maximal gas flow of 6 L/min and a maximum inspiratory pressure of 40 mbar. Backup use of 100% O2 allowed for room air group and vice versa, at the clinician's discretion.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Apgar scores at 1, 5, and 10 minutes.<BR/>Time of first cry and time of onset of regular respirations.<BR/>Neurological examination, cranial ultrasound and electroencephalogram at 28 days of life.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No babies in either group received backup therapy.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Vento-2003">
+<CHAR_METHODS>
+<P>Concealment of allocation: Yes - sealed opaque envelope.<BR/>Blinding of intervention: Yes - nurse not involved in the resuscitation switched between 21% and 100% oxygen for resuscitation.<BR/>Complete follow-up: No - 45 of 151 randomised excluded after randomisation.<BR/>Outcome assessment blind: Yes.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Single centre study. 151 term infants were randomised. Published outcome data were available for 106 neonates with clinical and blood gas signs of asphyxia which included - hypotonic, apneic, unresponsive to external stimuli, pale, bradycardic (heart rate &lt; 80/min) and pH less than or equal to 7.05.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Room air (n=51) or 100% oxygen (n=55) via IPPV with bag and mask. Otherwise "standard" warming suctioning and endotracheal intubation at clinical team's discretion. Backup use of 100% O2 allowed for room air group and vice versa at the clinician's discretion.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Apgar scores at 1, 5, and 10 minutes. Time of first cry and time of onset of regular respirations.<BR/>Arterial blood gases at time of first spontaneous breath and when "clinically stable".<BR/>Structured neurological exam, EEG and cranial ultrasound at 1 week and 1 month of age.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Data on death and failure of resuscitation provided by Prof Vento for all babies randomised.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>* 13 subjects reported in Ramji 2003 had previously been reported in Saugstad 1998. Data reported here as those included in the published reports. The authors have been contacted in order to correct this double counting.<BR/>** A minor numerical error in the initial report of the Resair study concerning the numbers who entered this trial was corrected in the follow-up paper. Data for this trial are presented as published in the primary report. Further clarification of outcome data has been requested from the author for inclusion in a future update of this review.</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Vento-2001-b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This study presented a single centre's experience over 6 years using air for newborn resuscitation. Included in the 830 infants reported in this article were an unspecified number randomised to either air or 100% oxygen. Outcomes of randomised infants are not reported separately in this paper. and it was therefore excluded from this review.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-Ramji-1993">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-Ramji-2003">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-Saugstad-1998-c">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Vento-2001-a">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Vento-2003">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Room air versus 100% oxygen</NAME>
+<DICH_OUTCOME CHI2="0.14526274236049577" CI_END="0.9363961345735612" CI_START="0.5371112022139602" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.7091888701814988" ESTIMABLE="YES" EVENTS_1="70" EVENTS_2="107" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.028540387731540415" LOG_CI_START="-0.26993578970423615" LOG_EFFECT_SIZE="-0.1492380887178883" METHOD="MH" NO="1" P_CHI2="0.9859005301025695" P_Q="0.0" P_Z="0.015375119476189527" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="616" TOTAL_2="659" WEIGHT="99.99999999999999" Z="2.423420467981733">
+<NAME>Death at latest follow up</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 100% oxygen</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.148306452599371" CI_START="0.1786674863038117" EFFECT_SIZE="0.75" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="4" LOG_CI_END="0.49807699947966155" LOG_CI_START="-0.7479544726962613" LOG_EFFECT_SIZE="-0.12493873660829993" ORDER="16974" O_E="0.0" SE="0.7319250547113998" STUDY_ID="STD-Ramji-1993" TOTAL_1="42" TOTAL_2="42" VAR="0.5357142857142856" WEIGHT="3.8953345178318854"/>
+<DICH_DATA CI_END="1.0794623239695817" CI_START="0.4334761248581586" EFFECT_SIZE="0.684047619047619" ESTIMABLE="YES" EVENTS_1="26" EVENTS_2="40" LOG_CI_END="0.033207488932728506" LOG_CI_START="-0.36303481774463453" LOG_EFFECT_SIZE="-0.164913664405953" ORDER="16975" O_E="0.0" SE="0.23275469237333465" STUDY_ID="STD-Ramji-2003" TOTAL_1="210" TOTAL_2="221" VAR="0.05417474682180565" WEIGHT="37.95917627585596"/>
+<DICH_DATA CI_END="1.0535275008386784" CI_START="0.5070368516598863" EFFECT_SIZE="0.7308743169398907" ESTIMABLE="YES" EVENTS_1="40" EVENTS_2="61" LOG_CI_END="0.02264587673253933" LOG_CI_START="-0.2949604748068662" LOG_EFFECT_SIZE="-0.13615729903716342" ORDER="16976" O_E="0.0" SE="0.1865635430710427" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="288" TOTAL_2="321" VAR="0.034805955603220806" WEIGHT="56.18492348872788"/>
+<DICH_DATA CI_END="5.326913545860464" CI_START="0.04570457791064606" EFFECT_SIZE="0.4934210526315789" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" LOG_CI_END="0.7264756483785182" LOG_CI_START="-1.3400402974846632" LOG_EFFECT_SIZE="-0.3067823245530725" ORDER="16977" O_E="0.0" SE="1.2138816960189427" STUDY_ID="STD-Vento-2003" TOTAL_1="76" TOTAL_2="75" VAR="1.4735087719298245" WEIGHT="1.9605657175842603"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="1.5719615992051235" CI_END="2.1651140589187845" CI_START="0.9223205020105973" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.4131274131274134" ESTIMABLE="YES" EVENTS_1="39" EVENTS_2="37" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.33548078006779203" LOG_CI_START="-0.03511813744147416" LOG_EFFECT_SIZE="0.15018132131315892" METHOD="MH" NO="2" P_CHI2="0.6657639593645068" P_Q="0.0" P_Z="0.11217113756838275" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="364" TOTAL_2="488" WEIGHT="400.0" Z="1.588509663777253">
+<NAME>Long term neurodevelopmental outcome</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 100% oxygen</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="3.2423970704439755" CI_START="0.5543329298194275" DF="0.0" EFFECT_SIZE="1.3406593406593406" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="9" I2="0.0" ID="CMP-001.02.01" LOG_CI_END="0.510866198342016" LOG_CI_START="-0.25622932163470685" LOG_EFFECT_SIZE="0.12731843835365458" NO="1" P_CHI2="1.0" P_Z="0.5152990424004998" STUDIES="1" TAU2="0.0" TOTAL_1="91" TOTAL_2="122" WEIGHT="100.0" Z="0.6506088153105581">
+<NAME>Cerebral palsy in those followed up at 18-24 months</NAME>
+<DICH_DATA CI_END="3.2423970704439755" CI_START="0.5543329298194275" EFFECT_SIZE="1.3406593406593406" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="9" LOG_CI_END="0.510866198342016" LOG_CI_START="-0.25622932163470685" LOG_EFFECT_SIZE="0.12731843835365458" ORDER="16978" O_E="0.0" SE="0.45059570561839113" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="91" TOTAL_2="122" VAR="0.2030364899217358" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="2.246154686181385" CI_START="0.47348967215731363" DF="0.0" EFFECT_SIZE="1.0312764158918004" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="13" I2="0.0" ID="CMP-001.02.02" LOG_CI_END="0.3514396615611135" LOG_CI_START="-0.3246894894674779" LOG_EFFECT_SIZE="0.01337508604681782" NO="2" P_CHI2="1.0" P_Z="0.9381912426579097" STUDIES="1" TAU2="0.0" TOTAL_1="91" TOTAL_2="122" WEIGHT="99.99999999999999" Z="0.07754343057685617">
+<NAME>Not walking in those followed up at 18-24 months</NAME>
+<DICH_DATA CI_END="2.2461546861813853" CI_START="0.47348967215731363" EFFECT_SIZE="1.0312764158918004" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="13" LOG_CI_END="0.3514396615611136" LOG_CI_START="-0.3246894894674779" LOG_EFFECT_SIZE="0.01337508604681782" ORDER="16979" O_E="0.0" SE="0.39716161020747026" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="91" TOTAL_2="122" VAR="0.15773734462259054" WEIGHT="99.99999999999999"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="10.43705942763792" CI_START="0.6888405609486548" DF="0.0" EFFECT_SIZE="2.681318681318681" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" I2="0.0" ID="CMP-001.02.03" LOG_CI_END="1.0185781563063567" LOG_CI_START="-0.1618812882710853" LOG_EFFECT_SIZE="0.4283484340176358" NO="3" P_CHI2="1.0" P_Z="0.15490782992855273" STUDIES="1" TAU2="0.0" TOTAL_1="91" TOTAL_2="122" WEIGHT="100.0" Z="1.4224080418268377">
+<NAME>No words in those followed up at 18-24 months</NAME>
+<DICH_DATA CI_END="10.437059427637923" CI_START="0.6888405609486545" EFFECT_SIZE="2.681318681318681" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="3" LOG_CI_END="1.018578156306357" LOG_CI_START="-0.16188128827108544" LOG_EFFECT_SIZE="0.4283484340176358" ORDER="16980" O_E="0.0" SE="0.693407721113281" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="91" TOTAL_2="122" VAR="0.4808142676995136" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="9.0915323985754E-32" CI_END="3.2187210300448177" CI_START="0.7600586718129319" DF="0.0" EFFECT_SIZE="1.5641025641025643" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="12" I2="100.0" ID="CMP-001.02.04" LOG_CI_END="0.5076833375547276" LOG_CI_START="-0.11915288158619192" LOG_EFFECT_SIZE="0.19426522798426787" NO="4" P_CHI2="0.0" P_Z="0.2244271512390883" STUDIES="1" TAU2="0.0" TOTAL_1="91" TOTAL_2="122" WEIGHT="100.0" Z="1.214839981070176">
+<NAME>"Abnormal development" in those followed up at 18-24 months</NAME>
+<DICH_DATA CI_END="3.2187210300448177" CI_START="0.7600586718129319" EFFECT_SIZE="1.564102564102564" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="12" LOG_CI_END="0.5076833375547276" LOG_CI_START="-0.11915288158619192" LOG_EFFECT_SIZE="0.19426522798426782" ORDER="16981" O_E="0.0" SE="0.36820669801270367" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="91" TOTAL_2="122" VAR="0.13557617246141837" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="2.625697368826655" CI_END="1.083215892302724" CI_START="0.6523763426289213" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.8406333458161023" ESTIMABLE="YES" EVENTS_1="87" EVENTS_2="112" I2="23.8297595242768" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.03471502309951345" LOG_CI_START="-0.1855017963319509" LOG_EFFECT_SIZE="-0.07539338661621872" METHOD="MH" NO="3" P_CHI2="0.26905266891695545" P_Q="0.0" P_Z="0.17958764278802725" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="540" TOTAL_2="584" WEIGHT="100.0" Z="1.3420257618994555">
+<NAME>Hypoxic ischemic encephalopathy Grade 2 or 3</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 100% oxygen</GRAPH_LABEL_2>
+<DICH_DATA CI_END="10.337283820460158" CI_START="0.38694884163700377" EFFECT_SIZE="2.0" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="2" LOG_CI_END="1.0144064404263402" LOG_CI_START="-0.41234644909837787" LOG_EFFECT_SIZE="0.3010299956639812" ORDER="16982" O_E="0.0" SE="0.8380817098475257" STUDY_ID="STD-Ramji-1993" TOTAL_1="42" TOTAL_2="42" VAR="0.7023809523809523" WEIGHT="1.8584598443909213"/>
+<DICH_DATA CI_END="1.002580186695783" CI_START="0.47326726126225566" EFFECT_SIZE="0.6888311688311688" ESTIMABLE="YES" EVENTS_1="36" EVENTS_2="55" LOG_CI_END="0.0011191176980258116" LOG_CI_START="-0.3248935372495561" LOG_EFFECT_SIZE="-0.16188720977576518" ORDER="16983" O_E="0.0" SE="0.19150144730487845" STUDY_ID="STD-Ramji-2003" TOTAL_1="210" TOTAL_2="221" VAR="0.03667280431986314" WEIGHT="49.803274252239305"/>
+<DICH_DATA CI_END="1.3588560630178055" CI_START="0.6676086724955846" EFFECT_SIZE="0.9524621212121213" ESTIMABLE="YES" EVENTS_1="47" EVENTS_2="55" LOG_CI_END="0.13317345647661769" LOG_CI_START="-0.17547803030238793" LOG_EFFECT_SIZE="-0.02115228691288513" ORDER="16984" O_E="0.0" SE="0.18130341118348825" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="288" TOTAL_2="321" VAR="0.032870926906769016" WEIGHT="48.33826590336977"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-0.9803342412292848" CI_START="-2.0196657587707154" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-1.5" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="1.537024033062117E-8" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="51" TOTAL_2="55" UNITS="" WEIGHT="100.0" Z="5.657378665403337">
+<NAME>Onset of spontaneous respiration (min)</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours oxygen</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.9803342412292848" CI_START="-2.0196657587707154" EFFECT_SIZE="-1.5" ESTIMABLE="YES" MEAN_1="5.3" MEAN_2="6.8" ORDER="16985" SD_1="1.5" SD_2="1.2" SE="0.2651404632277799" STUDY_ID="STD-Vento-2003" TOTAL_1="51" TOTAL_2="55" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.8021364897876021" CI_START="0.3468475837898599" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.5274647887323943" ESTIMABLE="YES" EVENTS_1="28" EVENTS_2="60" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="-0.09575172683042037" LOG_CI_START="-0.4598613265367596" LOG_EFFECT_SIZE="-0.27780652668359" METHOD="MH" NO="5" P_CHI2="1.0" P_Q="0.0" P_Z="0.0027824120205848834" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="284" TOTAL_2="321" WEIGHT="100.0" Z="2.990807094397639">
+<NAME>Time to first breath more than 3 minutes</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 100% oxygen</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.8021364897876021" CI_START="0.3468475837898599" EFFECT_SIZE="0.5274647887323943" ESTIMABLE="YES" EVENTS_1="28" EVENTS_2="60" LOG_CI_END="-0.09575172683042037" LOG_CI_START="-0.4598613265367596" LOG_EFFECT_SIZE="-0.27780652668359" ORDER="16986" O_E="0.0" SE="0.2138797812390905" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="284" TOTAL_2="321" VAR="0.045744560822881204" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="3.4471933037823224" CI_START="-2.647193303782311" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.4000000000000057" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.06" NO="6" P_CHI2="1.0" P_Q="1.0" P_Z="0.7969616934291461" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="210" TOTAL_2="221" UNITS="" WEIGHT="100.0" Z="0.25728121443523577">
+<NAME>Heart rate at 5 minutes</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 100% oxygen</GRAPH_LABEL_2>
+<CONT_DATA CI_END="3.4471933037823224" CI_START="-2.647193303782311" EFFECT_SIZE="0.4000000000000057" ESTIMABLE="YES" MEAN_1="131.5" MEAN_2="131.1" ORDER="16987" SD_1="17.7" SD_2="14.3" SE="1.554719029440433" STUDY_ID="STD-Ramji-2003" TOTAL_1="210" TOTAL_2="221" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.0039956968214885" CI_START="0.5995281668447688" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.7758374183006536" ESTIMABLE="YES" EVENTS_1="71" EVENTS_2="102" I2="0.0" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="0.001731851403933618" LOG_CI_START="-0.22219040819833571" LOG_EFFECT_SIZE="-0.11022927839720106" METHOD="MH" NO="7" P_CHI2="1.0" P_Q="0.0" P_Z="0.05365063817649489" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="288" TOTAL_2="321" WEIGHT="100.0" Z="1.9296466200733502">
+<NAME>5 minute Apgar score &lt; 7</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 100% oxygen</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.0039956968214885" CI_START="0.5995281668447688" EFFECT_SIZE="0.7758374183006536" ESTIMABLE="YES" EVENTS_1="71" EVENTS_2="102" LOG_CI_END="0.001731851403933618" LOG_CI_START="-0.22219040819833571" LOG_EFFECT_SIZE="-0.11022927839720106" ORDER="16988" O_E="0.0" SE="0.1315330437234346" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="288" TOTAL_2="321" VAR="0.017300941591150962" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="319.97537018717827" CI_END="0.03846739182845079" CI_START="-0.013254737874317425" CI_STUDY="95" CI_TOTAL="95" DF="10.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.012606326977066684" ESTIMABLE="YES" I2="96.87475945596994" I2_Q="98.66854366512207" ID="CMP-001.08" NO="8" P_CHI2="-1.5543122344752192E-15" P_Q="1.1102230246251565E-16" P_Z="0.3393698852835979" Q="225.31719001322293" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="763" TOTAL_2="762" UNITS="" WEIGHT="400.0" Z="0.9554110395057457">
+<NAME>First arterial blood gas after resuscitation within 2 h of life</NAME>
+<GROUP_LABEL_1>Room Air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1/>
+<GRAPH_LABEL_2/>
+<CONT_SUBGROUP CHI2="0.8665968801070705" CI_END="0.039955918305794334" CI_START="-0.011785034869503296" DF="2.0" EFFECT_SIZE="0.01408544171814552" ESTIMABLE="YES" I2="0.0" ID="CMP-001.08.01" NO="1" P_CHI2="0.6483669852420996" P_Z="0.2859166990027575" STUDIES="3" TAU2="0.0" TOTAL_1="227" TOTAL_2="232" WEIGHT="99.99999999999999" Z="1.0671221452133366">
+<NAME>pH</NAME>
+<CONT_DATA CI_END="0.05048580172391623" CI_START="-0.0704858017239158" EFFECT_SIZE="-0.009999999999999787" ESTIMABLE="YES" MEAN_1="7.16" MEAN_2="7.17" ORDER="16989" SD_1="0.12" SD_2="0.16" SE="0.03086066999241838" STUDY_ID="STD-Ramji-1993" TOTAL_1="42" TOTAL_2="42" WEIGHT="18.293717819646137"/>
+<CONT_DATA CI_END="0.04877102243295994" CI_START="-0.008771022432960799" EFFECT_SIZE="0.019999999999999574" ESTIMABLE="YES" MEAN_1="7.17" MEAN_2="7.15" ORDER="16990" SD_1="0.11" SD_2="0.13" SE="0.014679362814777478" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="134" TOTAL_2="135" WEIGHT="80.85339630843318"/>
+<CONT_DATA CI_END="0.2501295794038191" CI_START="-0.3101295794038178" EFFECT_SIZE="-0.02999999999999936" ESTIMABLE="YES" MEAN_1="7.24" MEAN_2="7.27" ORDER="16991" SD_1="0.9" SD_2="0.5" SE="0.14292588109447155" STUDY_ID="STD-Vento-2003" TOTAL_1="51" TOTAL_2="55" WEIGHT="0.8528858719206749"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="2.670295999400645" CI_END="-0.17738997942513013" CI_START="-4.07981267689695" DF="2.0" EFFECT_SIZE="-2.12860132816104" ESTIMABLE="YES" I2="25.10193624793262" ID="CMP-001.08.02" NO="2" P_CHI2="0.26311940905698095" P_Z="0.0325045960939306" STUDIES="3" TAU2="0.0" TOTAL_1="162" TOTAL_2="177" WEIGHT="100.0" Z="2.1381496901104935">
+<NAME>pCO2 (mm Hg)</NAME>
+<CONT_DATA CI_END="4.549654255052158" CI_START="-7.749654255052161" EFFECT_SIZE="-1.6000000000000014" ESTIMABLE="YES" MEAN_1="36.0" MEAN_2="37.6" ORDER="16992" SD_1="15.8" SD_2="12.8" SE="3.1376363563615697" STUDY_ID="STD-Ramji-1993" TOTAL_1="42" TOTAL_2="42" WEIGHT="10.067165940983358"/>
+<CONT_DATA CI_END="5.362000887452608" CI_START="-3.3620008874526084" EFFECT_SIZE="1.0" ESTIMABLE="YES" MEAN_1="39.0" MEAN_2="38.0" ORDER="16993" SD_1="14.0" SD_2="13.0" SE="2.2255515518956033" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="69" TOTAL_2="80" WEIGHT="20.00954104205393"/>
+<CONT_DATA CI_END="-0.7665775241325807" CI_START="-5.433422475867422" EFFECT_SIZE="-3.1000000000000014" ESTIMABLE="YES" MEAN_1="46.4" MEAN_2="49.5" ORDER="16994" SD_1="6.8" SD_2="5.3" SE="1.1905435478780015" STUDY_ID="STD-Vento-2003" TOTAL_1="51" TOTAL_2="55" WEIGHT="69.92329301696272"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="89.13275868349405" CI_END="-32.19474180935261" CI_START="-41.986418548891464" DF="2.0" EFFECT_SIZE="-37.090580179122036" ESTIMABLE="YES" I2="97.75615606479555" ID="CMP-001.08.03" NO="3" P_CHI2="-4.440892098500626E-16" P_Z="7.106793247158848E-50" STUDIES="3" TAU2="0.0" TOTAL_1="200" TOTAL_2="177" WEIGHT="100.0" Z="14.84857052586848">
+<NAME>pO2 (mm Hg)</NAME>
+<CONT_DATA CI_END="11.266769372663349" CI_START="-11.266769372663349" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="75.8" MEAN_2="75.8" ORDER="16995" SD_1="27.8" SD_2="24.8" SE="5.748457349999382" STUDY_ID="STD-Ramji-1993" TOTAL_1="42" TOTAL_2="42" WEIGHT="18.882319168818142"/>
+<CONT_DATA CI_END="1.3310544068610888" CI_START="-23.33105440686109" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="76.0" MEAN_2="87.0" ORDER="16996" SD_1="32.0" SD_2="49.0" SE="6.291469896450584" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="107" TOTAL_2="80" WEIGHT="15.763538632360456"/>
+<CONT_DATA CI_END="-48.04393521640277" CI_START="-60.156064783597216" EFFECT_SIZE="-54.099999999999994" ESTIMABLE="YES" MEAN_1="72.2" MEAN_2="126.3" ORDER="16997" SD_1="6.8" SD_2="21.8" SE="3.0898857485987956" STUDY_ID="STD-Vento-2003" TOTAL_1="51" TOTAL_2="55" WEIGHT="65.3541421988214"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="1.988528610953582" CI_END="1.0152493577546684" CI_START="-1.244446656235847" DF="1.0" EFFECT_SIZE="-0.11459864924058935" ESTIMABLE="YES" I2="49.711560875130765" ID="CMP-001.08.04" NO="4" P_CHI2="0.15849515220909882" P_Z="0.8424223523448029" STUDIES="2" TAU2="0.0" TOTAL_1="174" TOTAL_2="176" WEIGHT="99.99999999999999" Z="0.19879596529609697">
+<NAME>Base deficit</NAME>
+<CONT_DATA CI_END="4.2373821044008775" CI_START="-1.0373821044008786" EFFECT_SIZE="1.5999999999999996" ESTIMABLE="YES" MEAN_1="15.2" MEAN_2="13.6" ORDER="16998" SD_1="5.7" SD_2="6.6" SE="1.3456278407175906" STUDY_ID="STD-Ramji-1993" TOTAL_1="42" TOTAL_2="42" WEIGHT="18.35244527425765"/>
+<CONT_DATA CI_END="0.7503984671371451" CI_START="-1.750398467137145" EFFECT_SIZE="-0.5" ESTIMABLE="YES" MEAN_1="14.0" MEAN_2="14.5" ORDER="16999" SD_1="5.0" SD_2="5.4" SE="0.637970124451331" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="132" TOTAL_2="134" WEIGHT="81.64755472574234"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.5023723374390124" CI_END="1.14287966598715" CI_START="0.8064672860665757" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9600495104573157" ESTIMABLE="YES" EVENTS_1="162" EVENTS_2="182" I2="0.0" I2_Q="0.0" ID="CMP-001.09" LOG_CI_END="0.058000505855541624" LOG_CI_START="-0.0934132448514899" LOG_EFFECT_SIZE="-0.01770636949797412" METHOD="MH" NO="9" P_CHI2="0.7778775516641872" P_Q="0.0" P_Z="0.646666849820793" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="593" TOTAL_2="638" WEIGHT="100.0" Z="0.4583975543956488">
+<NAME>Failure of resuscitation</NAME>
+<GROUP_LABEL_1>Room air</GROUP_LABEL_1>
+<GROUP_LABEL_2>100% oxygen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours room air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 100% oxygen</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.2241369614839739" CI_START="0.7680042762603687" EFFECT_SIZE="0.969609416800428" ESTIMABLE="YES" EVENTS_1="82" EVENTS_2="89" LOG_CI_END="0.08783001118296961" LOG_CI_START="-0.11463636180297894" LOG_EFFECT_SIZE="-0.01340317531000468" ORDER="17000" O_E="0.0" SE="0.11892974971665614" STUDY_ID="STD-Ramji-2003" TOTAL_1="210" TOTAL_2="221" VAR="0.01414428536766647" WEIGHT="49.561096777820985"/>
+<DICH_DATA CI_END="1.2068400538992372" CI_START="0.7083628060648484" EFFECT_SIZE="0.9245975378787878" ESTIMABLE="YES" EVENTS_1="73" EVENTS_2="88" LOG_CI_END="0.08164971557218283" LOG_CI_START="-0.14974425034032585" LOG_EFFECT_SIZE="-0.03404726738407151" ORDER="17001" O_E="0.0" SE="0.13592196099561193" STUDY_ID="STD-Saugstad-1998-c" TOTAL_1="288" TOTAL_2="321" VAR="0.018474779480892656" WEIGHT="47.562726766918544"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="17002" O_E="0.0" SE="0.0" STUDY_ID="STD-Vento-2001-a" TOTAL_1="19" TOTAL_2="21" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="4.160505067341218" CI_START="0.4587809309006401" EFFECT_SIZE="1.381578947368421" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="5" LOG_CI_END="0.6191460553009721" LOG_CI_START="-0.33839464172267875" LOG_EFFECT_SIZE="0.14037570678914668" ORDER="17003" O_E="0.0" SE="0.562464145334587" STUDY_ID="STD-Vento-2003" TOTAL_1="76" TOTAL_2="75" VAR="0.31636591478696746" WEIGHT="2.876176455260461"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

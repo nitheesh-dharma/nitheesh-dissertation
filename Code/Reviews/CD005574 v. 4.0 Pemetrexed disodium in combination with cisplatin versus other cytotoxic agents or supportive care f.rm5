@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD005574.pub2" GROUP_ID="LUNGCA" ID="283005092916104526" MERGED_FROM="" MODIFIED="2012-03-13 06:51:56 +0100" MODIFIED_BY="Sera Tort" NOTES="&lt;p&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;This review 'topic' has been included in work being carried out as part of a Health Technology Assessment commissioned by the National Institute for Health and Clinical Excellence (NICE) in England Wales.&lt;/p&gt;&lt;p&gt;Details of this research is available via www.nice.org.uk&lt;/p&gt;" NOTES_MODIFIED="2012-03-13 06:46:00 +0100" NOTES_MODIFIED_BY="Sera Tort" REVIEW_NO="YD1" REVMAN_SUB_VERSION="5.1.6" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="4.0">
+<COVER_SHEET MODIFIED="2012-03-13 06:06:34 +0100" MODIFIED_BY="Sera Tort">
+<TITLE>Pemetrexed disodium in combination with cisplatin versus other cytotoxic agents or supportive care for the treatment of malignant pleural mesothelioma</TITLE>
+<CONTACT>
+<PERSON ID="13693" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>John</FIRST_NAME>
+<MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+<LAST_NAME>Green</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Lecturer in Medical Oncology</POSITION>
+<EMAIL_1>J.A.Green@liverpool.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Clatterbridge Centre for Oncology</DEPARTMENT>
+<ORGANISATION>Clatterbridge Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY>Merseyside</CITY>
+<ZIP>L63 4JY</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+ 44 151 482 7743</PHONE_1>
+<PHONE_2/>
+<FAX_1>+ 44 151 482 7675</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2012-03-13 06:04:58 +0100" MODIFIED_BY="Sera Tort">
+<PERSON ID="13693" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>John</FIRST_NAME>
+<MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+<LAST_NAME>Green</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Lecturer in Medical Oncology</POSITION>
+<EMAIL_1>J.A.Green@liverpool.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Clatterbridge Centre for Oncology</DEPARTMENT>
+<ORGANISATION>Clatterbridge Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY>Merseyside</CITY>
+<ZIP>L63 4JY</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+ 44 151 482 7743</PHONE_1>
+<PHONE_2/>
+<FAX_1>+ 44 151 482 7675</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="13839" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Yenal</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Dundar</LAST_NAME>
+<SUFFIX/>
+<POSITION>Research Fellow</POSITION>
+<EMAIL_1>yenal@liv.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL>www.liv.ac.uk/lrig</URL>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Liverpool Reviews and Implementation Group</DEPARTMENT>
+<ORGANISATION>University of Liverpool</ORGANISATION>
+<ADDRESS_1>Sherrington Building</ADDRESS_1>
+<ADDRESS_2>Ashton Street</ADDRESS_2>
+<CITY>Liverpool</CITY>
+<ZIP>L69 3GE</ZIP>
+<REGION>Merseyside</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 15 1794 5541</PHONE_1>
+<PHONE_2>+44 15 1794 5682</PHONE_2>
+<FAX_1>+44 15 1794 5585</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="16929" ROLE="AUTHOR">
+<PREFIX>Mrs</PREFIX>
+<FIRST_NAME>Susanna</FIRST_NAME>
+<MIDDLE_INITIALS>R</MIDDLE_INITIALS>
+<LAST_NAME>Dodd</LAST_NAME>
+<SUFFIX/>
+<POSITION>Lecturer</POSITION>
+<EMAIL_1>s.r.dodd@liv.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Centre for Medical Statistics</DEPARTMENT>
+<ORGANISATION>University of Liverpool</ORGANISATION>
+<ADDRESS_1>Shelley's Cottage, Brownlow Street</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Liverpool</CITY>
+<ZIP>L69 3GS</ZIP>
+<REGION/>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 151 794 4750</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="7380" ROLE="AUTHOR">
+<PREFIX>Mrs</PREFIX>
+<FIRST_NAME>Rumona</FIRST_NAME>
+<MIDDLE_INITIALS>C</MIDDLE_INITIALS>
+<LAST_NAME>Dickson</LAST_NAME>
+<SUFFIX/>
+<POSITION>Lecturer</POSITION>
+<EMAIL_1>rdickson@liv.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Liverpool Reviews and Implementation Group</DEPARTMENT>
+<ORGANISATION>University of Liverpool</ORGANISATION>
+<ADDRESS_1>2nd Floor</ADDRESS_1>
+<ADDRESS_2>Sherrington Building</ADDRESS_2>
+<CITY>Liverpool</CITY>
+<ZIP>L69 3GE</ZIP>
+<REGION>Merseyside</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 151 794 5682</PHONE_1>
+<PHONE_2>+44 151 794 5067</PHONE_2>
+<FAX_1>+44 151 794 5678</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="13964" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Tom</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Walley</LAST_NAME>
+<SUFFIX/>
+<POSITION>Professor Pharmacology &amp; Therapeutics</POSITION>
+<EMAIL_1>twalley@liv.ac.uk</EMAIL_1>
+<EMAIL_2/>
+<URL>http://www.liv.ac.uk/prg/</URL>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pharmacology &amp; Therapeutics</DEPARTMENT>
+<ORGANISATION>University of Liverpool</ORGANISATION>
+<ADDRESS_1>The Infirmary</ADDRESS_1>
+<ADDRESS_2>70 Pembroke Place</ADDRESS_2>
+<CITY>Liverpool</CITY>
+<ZIP>L69 3GF</ZIP>
+<REGION>Merseyside</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 15 1794 8123</PHONE_1>
+<PHONE_2>+44 15 1794 8125</PHONE_2>
+<FAX_1>+44 15 1794 5585</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-09-18 23:34:40 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<UP_TO_DATE>
+<DATE DAY="18" MONTH="10" YEAR="2006"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="18" MONTH="10" YEAR="2006"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="22" MONTH="4" YEAR="2006"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2006"/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="2007"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2007"/>
+</DATES>
+<WHATS_NEW MODIFIED="2012-03-13 06:06:34 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-03-13 06:06:34 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="13" MONTH="3" YEAR="2012"/>
+<DESCRIPTION>
+<P>Additional tables linked to text</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2012-03-13 06:05:57 +0100" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-03-13 06:05:57 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="18" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="18" MONTH="10" YEAR="2006"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>NCCHTA Project Ref: 04/17/01 (NICE appraisal of pemetrexed disodium)</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]">
+<SUMMARY>
+<TITLE>Pemetrexed disodium (new anticancer drug) significantly increases the length of survival, as well as relieves symptoms of mesothelioma</TITLE>
+<SUMMARY_BODY>
+<P>Mesothelioma is a rare and aggressive type of cancer, usually linked with previous exposure to asbestos. Its most common site is the pleura, a protective lining of the lungs. Currently there is no established standard treatment for mesothelioma. This review found a large clinical trial that examined the effectiveness of pemetrexed disodium, an anticancer drug developed to treat pleural mesothelioma, given in combination with another cancer drug, cisplatin. The results indicate that pemetrexed used in combination with cisplatin significantly increases the length of survival, when compared with cisplatin alone. Further research is needed into the optimum treatment regimen for pleural mesothelioma.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Malignant pleural mesothelioma (MPM) is a highly aggressive malignancy whose incidence is expected to increase in the United Kingdom, Western Europe, and Australia over the next 20 years as a result of occupational exposure to asbestos fibres. Surgery is feasible in only a small proportion of cases, and radiotherapy and cytotoxic chemotherapy are used in palliation. Pemetrexed is the first and only chemotherapy agent that has been granted a marketing approval for use in combination with cisplatin for the treatment of chemo-naïve patients with unresectable MPM.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To examine evidence on the clinical effectiveness of pemetrexed disodium used in combination with cisplatin for the treatment of unresectable malignant pleural mesothelioma in chemotherapy naïve patients compared with other cytotoxic agents used alone or in combination, or supportive care.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>CENTRAL (Issue 2, 2005), EMBASE (1980-2005), MEDLINE (1980-2005), HTA database (1990-2005), Web of Knowledge (1990-2005) and handsearching (including reference lists of retrieved articles and the pharmaceutical company submission to to NICE), up to October 2005. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised Controlled Trials (RCTs) where the use of pemetrexed disodium in combination with cisplatin is compared with other cytotoxic agents, or supportive care for the treatment of malignant pleural mesothelioma (or non-RCTs, in the absence of RCT data ).</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Outcomes included overall survival, tumour response, progression-free survival, toxicity and quality of life. Data extraction and quality assessment of included trials was completed independently. Trial data and quality assessment were tabulated and presented narratively. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>One RCT involving 448 patients and comparing pemetrexed plus cisplatin versus cisplatin alone for the treatment of unresectable malignant mesothelioma was included in the review. In the intention-to-treat study population, the median survival was statistically significantly longer in the combination arm of pemetrexed plus cisplatin when compared with the cisplatin alone arm. (12.1 and 9.3 months, respectively, p=0.002). The incidence of grade 3/4 toxicities was higher in the combination arm compared with the cisplatin alone arm. </P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Pemetrexed disodium in combination with cisplatin and with folic acid and vitamin B<SUB>12 </SUB>supplementation may improve survival when used in combination with cisplatin in good performance status patients. Further studies including patients with poor performance status are needed in order to generalise the treatment findings. Further studies are also needed into the optimum chemotherapy, and a clear definition of what constitutes best supportive care.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]">
+<BACKGROUND>
+<P>Malignant pleural mesothelioma (MPM) is causally related to asbestos (<LINK REF="REF-Wagner-1960" TYPE="REFERENCE">Wagner 1960</LINK>)<B> </B>and the future incidence has been predicted from the global pattern of asbestos use. A variety of settings and occupations, including shipbuilding, railway engineering, construction work, and asbestos manufacture, are associated with an increased risk of MPM. Safety measures were widely adopted in the 1970s however, in Western Europe and Australia the incidence is expected to rise by at least 50% over the next 20 years (<LINK REF="REF-Peto-1999" TYPE="REFERENCE">Peto 1999</LINK>; <LINK REF="REF-Leigh-2002" TYPE="REFERENCE">Leigh 2002</LINK>), and in the United Kingdom while the number of deaths is expected to peak between 2012 and 2015, mesothelioma is predicted to account for 65,000 deaths between 2001 and 2050 (<LINK REF="REF-Hodgson-2005" TYPE="REFERENCE">Hodgson 2005</LINK>). The incidence is however falling in the USA (<LINK REF="REF-Hazarika-2005" TYPE="REFERENCE">Hazarika 2005</LINK>). MPM primarily affects men, and the 15% of cases which occur in women are primarily attributed to passive exposure to asbestos (<LINK REF="REF-Hodgson-2005" TYPE="REFERENCE">Hodgson 2005</LINK>). </P>
+<P>About 10% of cases of malignant mesothelioma occur in the peritoneum (the tissue lining the abdomen). The epidemiology and treatment strategies for peritoneal mesothelioma are less well defined, and the prognosis is poorer than MPM (<LINK REF="REF-BTSSCC-2001" TYPE="REFERENCE">BTSSCC 2001</LINK>). Peritoneal mesothelioma will not be discussed further in this review.</P>
+<P>It has long been recognised that asbestos fibres cause pleural irritation, and pleural plaques (scarring) are commonly seen in men exposed to asbestos. Chromosome damage and associated disruption of mitosis, generation of toxic oxygen radicals leading to DNA damage and strand breaks, and growth factor signalling stimulation through phosphorylation of the MAP kinase pathway and elevated fos and jun (growth-stimulating genes) oncogene expression are all proposed mechanisms in the generation of malignant change in the mesothelium. </P>
+<P>The SV40 virus is a potent oncogenic virus which blocks tumour suppressor genes, and is known to cause atypical mesothelial proliferation. Dissemination was widespread in the 1950s and 1960s through the Salk vaccine at the same time as occupational exposure to asbestos was at its peak. However, there is no convincing evidence connecting vaccine derived infection and the occurrence of mesothelioma (<LINK REF="REF-Robinson-2005" TYPE="REFERENCE">Robinson 2005</LINK>, <LINK REF="REF-Jaurand-2005" TYPE="REFERENCE">Jaurand 2005</LINK>).</P>
+<P>Mesothelioma does not usually develop until 10-60 years after exposure to asbestos (the median time: 40 years). Two-thirds of MPM patients are between 50 and 70 years of age (<LINK REF="REF-Hughes-2005" TYPE="REFERENCE">Hughes 2005</LINK>). Diagnosis is problematic and mesothelioma is frequently not diagnosed until 2 or 3 months after the onset of the symptoms. Patients typically present with chest pain or shortness of breath, and may have an associated pleural effusion. The disease spreads locally in sheets across the pleural surface and then compresses or invades local structures commonly leading to death in 9-13 months (<LINK REF="REF-Robinson-2005" TYPE="REFERENCE">Robinson 2005</LINK>). Detection may occur incidentally at an advanced stage on routine chest radiographs (<LINK REF="REF-Robinson-2005" TYPE="REFERENCE">Robinson 2005</LINK>). Careful assessment of clinical and radiological findings in addition to cytological findings is essential for accurate diagnosis. </P>
+<P>Studies have shown poor performance status (method of grading the functional status of the patient at the time of diagnosis), more advanced stage of disease, older age at diagnosis, a high white blood cell count and the sarcomatous histologic subtype to be adverse prognostic factors (<LINK REF="REF-Curran-1998" TYPE="REFERENCE">Curran 1998</LINK>; <LINK REF="REF-Herndon-1998" TYPE="REFERENCE">Herndon 1998</LINK>; <LINK REF="REF-Van-Gelder-1994" TYPE="REFERENCE">Van Gelder 1994</LINK>). Stage grouping provides important prognostic information and may be helpful in selecting suitable patients for surgical treatment, but is of limited value in the medical management. It is commonly used in preference to the International Union Against Cancer (UICC) Tumour, Nodes, Metastasis (TNM) system (<LINK REF="REF-Pistolesi-2004" TYPE="REFERENCE">Pistolesi 2004</LINK>). The stages are defined as follows:</P>
+<UL>
+<LI>Stage 1 mesothelioma affects one layer of the pleura only. It may have grown into the covering of the pericardium and the diaphragm </LI>
+<LI>Stage II mesothelioma has spread to both layers of the pleura on one side of the body only.</LI>
+<LI>Stage III mesothelioma has spread to the chest wall oesophagus or lymph nodes on the same side of the chest.</LI>
+<LI>Stage IV mesothelioma has spread via the blood stream to other organs in the body such as the liver, brain or bone or to lymph nodes on the other side of the chest. </LI>
+</UL>
+<P>
+<BR/>Currently there is no gold-standard treatment regimen for mesothelioma. A small proportion of patients (1-5%) are suitable for surgical management, which may be either partial pleurectomy with pleuradhesis (drainage of fluid from the pleural cavity followed by the insertion of talc to prevent further fluid accumulation), or thorascopy with pleuradhesis (<LINK REF="REF-BTSSCC-2001" TYPE="REFERENCE">BTSSCC 2001</LINK>). For the majority of patients, for whom surgery is not indicated, treatment options may include radiotherapy, supportive care or chemotherapy. The treatment is aimed at relieving symptoms, improving quality of life, slowing disease progression and prolonging life. Of these, radical radiotherapy is not widely used in MPM because the large volumes required for pleural coverage result in high toxicity and fail to affect survival. However, more localised radiation may be used to achieve pain control or in the prophylaxis of implants along the tracts of drains or biopsy sites (<LINK REF="REF-Sterman-2005" TYPE="REFERENCE">Sterman 2005</LINK>). </P>
+<P>For many patients treatment is limited to only supportive care (also known as active symptom control (ASC or best/active supportive care). Supportive care refers to treatment or procedures that relieve symptoms and make patients more comfortable. The exact nature of this care is variable and frequently incompletely defined. It may however include the use of steroids, analgesics, appetite simulants and/or palliative radiotherapy. To date there are no published studies comparing the effects of supportive care and chemotherapy on survival and symptom control, although a feasibility pilot trial of ASC in patients with MPM has been reported by the British Thoracic Society (<LINK REF="REF-Muers-2004" TYPE="REFERENCE">Muers 2004</LINK>). The randomised trial will involve 420 patients and compare ASC alone versus ASC and mitomycin, vinblastine, and cisplatin versus ASC and vinorelbine (<LINK REF="REF-Stephens-2005" TYPE="REFERENCE">Stephens 2005</LINK>). </P>
+<P>Currently there is no established standard chemotherapy treatment for mesothelioma. A variety of single agents and combination regimens have been evaluated, with response rates ranging from 0 to 45% in clinical trials. Few of the single agent studies have shown consistent response rates above 15-20%. The data for the most commonly studied groups of agents are the anthracyclines and the platinum agents. Of these, single agent vinorelbine and the MVP (mitomycin C, vinblastine and cisplatin) are among the treatments that have been shown to give good symptom relief with acceptable toxicity (<LINK REF="REF-Andreopoulou-2004" TYPE="REFERENCE">Andreopoulou 2004</LINK>; <LINK REF="REF-Middleton-1998" TYPE="REFERENCE">Middleton 1998</LINK>; <LINK REF="REF-Steele-2000" TYPE="REFERENCE">Steele 2000</LINK>). The combinations evaluated most frequently in non-randomised studies have been based on cisplatin or doxorubicin, and while higher response rates have been shown compared to single agents, there is no clear effect on survival. The times to progression reported have been in the range 2-6 months (<LINK REF="REF-Ellis-2004" TYPE="REFERENCE">Ellis 2004</LINK>; <LINK REF="REF-Tomek-2003" TYPE="REFERENCE">Tomek 2003</LINK>). </P>
+<P>Pemetrexed disodium (trade name AlimtaTM) in combination with cisplatin is the only chemotherapy regimen that is currently licensed in Europe and the USA for MPM. Pemetrexed is an antifolate drug that exerts its antineoplastic action by disturbing folate-dependent metabolic process essential for cell replication. It acts by inhibiting thymidylate synthetase and dihydrofolate production, and hence suppressing the synthesis of purines and pyrimidines, which are the key building blocks of DNA and RNA. Cisplatin is a platinum coordination complex which forms adducts with DNA and protein and is used either as a single agent or in combination, for the treatment of a number of different cancers including lung, bladder, testicular, stomach and ovarian cancers. Pemetrexed is administered as a 10-minute intravenous infusion (recommended dose 500 mg/m), followed 30 minutes later by cisplatin (recommended dose 75 mg/m<SUP>2</SUP>) infused over two hours, on the first day of each cycle. In order to reduce toxicity, patients must receive oral folic acid and intramuscular injection of vitamin B<SUB>12</SUB> one to three weeks prior to the start of chemotherapy and continually through treatment (<LINK REF="REF-EMA-2004" TYPE="REFERENCE">EMA 2004</LINK>).</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To examine the clinical effectiveness of pemetrexed disodium used in combination with cisplatin for the treatment of unresectable malignant pleural mesothelioma in chemotherapy naïve patients compared with other cytotoxic agents used alone or in combination, or supportive care.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2012-03-13 06:40:42 +0100" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>1) Randomised Controlled Trials (RCTs), published or unpublished (including conference abstracts), <BR/>2) In the absence of RCT data, non-RCTs (such as non-randomised phase I and II trials).</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Chemotherapy naïve patients with unresectable malignant pleural mesothelioma.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Pemetrexed disodium* (Alimta&#8482;, multitargeted antifolate (MTA), LY231514,) and cisplatin in combination, supplemented with folic acid and vitamin B<SUB>12</SUB>.</P>
+<P>Comparators<BR/>
+</P>
+<UL>
+<LI>cisplatin</LI>
+<LI>supportive care (active symptom control)</LI>
+<LI>other commonly used alternatives (e.g. vinorelbine, or MVP (mitomycin C, vinblastin and cisplatin))</LI>
+</UL>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<UL>
+<LI>Overall survival (defined as the time from randomisation to the time of death due to any cause)</LI>
+<LI>Tumour response</LI>
+<LI>Progression-free survival</LI>
+<LI>Toxicity and adverse effects of treatment (evaluated by using The National Cancer Institute (NCI) Common Toxicity Criteria (CTC))</LI>
+<LI>Quality of life (assessed by using Lung Cancer Symptom Scale (LCSS))</LI>
+</UL>
+<P>
+<BR/>
+<B>Exclusion criteria</B>
+<BR/>Patients:<BR/>
+</P>
+<UL>
+<LI>previously treated with chemotherapy </LI>
+<LI>with peritoneal mesothelioma</LI>
+</UL>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2012-03-13 06:40:42 +0100" MODIFIED_BY="[Empty name]">
+<P>The search incorporated a number of methods to identify completed or ongoing studies:</P>
+<UL>
+<LI>Searching of electronic databases</LI>
+<LI>Handsearching of recent journals and conferences (e.g. The American Society of Clinical Oncology)</LI>
+<LI>Searching of bibliographies of identified sources</LI>
+<LI>Use of submissions to National Institute for Health and Clinical Excellence (NICE), London</LI>
+</UL>
+<P>
+<BR/>The following databases were searched for relevant published literature covering the period from 1980 to October 2005:<BR/>
+</P>
+<UL>
+<LI>CENTRAL (Cochrane Central Register of Controlled Trials)</LI>
+<LI>MEDLINE </LI>
+<LI>Health Technology Assessment (HTA) database</LI>
+<LI>ISI Web of Science- Proceedings (Index to Scientific &amp; Technical Proceedings)</LI>
+<LI>EMBASE </LI>
+<LI>ISI Web of Science- Science Citation Index Expanded</LI>
+</UL>
+<P>
+<BR/>The search strategy used to explore MEDLINE and EMBASE is outlined in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1 </LINK>and <LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK>. This strategy was adopted as appropriate for the remaining databases listed above.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>
+<B>
+<I>Study selection and quality assessment<BR/>
+</I>
+</B>Two reviewers independently selected the studies to be included in the review. Firstly, reviewers independently scanned the titles and abstracts of references identified by the search. Full details of selected studies were obtained and assessed independently for inclusion in the review and if included, for methodological quality. In particular, reviewers explored details of the randomisation method, concealment of allocation, whether the trial was blinded, whether intention-to-treat analyses were possible from the available data and whether the number of patients lost to follow up or subsequently excluded from the study was recorded. If a disagreement occured, the reviewers would attempt to reach a consensus by discussion.</P>
+<P>Included trials were assessed for methodological quality using the checklist proposed by the Lung Cancer Review Group:</P>
+<P>
+<B>
+<I>Randomisation process</I>
+</B>
+<BR/>Grade A - adequate randomisation (by computer generated random numbers sequence, coin-flipping, random numbers table, etc.)<BR/>Grade B - quasi-randomisation (by date of birth, code of hospital admission, etc.)<BR/>Grade C - randomisation stated to have been done but no method reported.</P>
+<P>
+<B>
+<I>Concealment of allocation</I>
+</B>
+<BR/>Allocation concealment is regarded as particularly important in protecting against bias and will be graded using the Cochrane approach as follows:<BR/>Grade A - Clearly adequate concealment<BR/>Grade B - Possibly adequate<BR/>Grade C - Inadequate concealment/not used</P>
+<P>
+<B>
+<I>Blinding</I>
+</B>
+<BR/>Grade A - Double blinding and triple blinding methods<BR/>Grade B - Single blinding method<BR/>Grade C - No blinding done/ blinding not possible</P>
+<P>
+<B>
+<I>Intention-to-treat analysis performed</I>
+</B>
+<BR/>Grade A - Yes<BR/>Grade B - No</P>
+<P>
+<B>
+<I>Reporting of losses of follow up</I>
+</B>
+<BR/>Grade A - adequate reporting (details of numbers and causes of losses)<BR/>Grade B - inadequate report <BR/>Grade C - not reported</P>
+<P>
+<B>
+<I>Data extraction </I>
+</B>
+<BR/>Data were extracted by one reviewer using pre-tested data extraction forms, and independently checked for accuracy by a second reviewer. Data extraction included the outcome measures (listed above) as well as information on study design and participant characteristics. </P>
+<P>
+<B>
+<I>Data synthesis</I>
+</B>
+<BR/>Individual study data and quality assessment were summarised in structured tables and as a narrative description. </P>
+<P>
+<B>
+<I>Consumer participation</I>
+</B>
+<BR/>Patient groups (including British Mesothelioma Interest Group, British Thoracic Oncology Group, Occupational and Enviromental Diseases Association, Asbestos Awareness Wales and UK) were involved through the NICE appraisal process for this review and asked to provide input on included trials, interpretation and reporting of the results.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]">
+<P>
+<I>
+<B>Selection of studies</B>
+</I>
+<BR/>A total of 881 titles and abstracts of references identified in literature searches were scanned for inclusion in the review, of which 135 references were obtained as full papers.</P>
+<P>One RCT comparing pemetrexed plus cisplatin with cisplatin fulfilled the inclusion criteria (Evaluation of Mesothelioma in a phase III trial with Alimta and Cisplatin (EMPHACIS)). This was a randomised, multicentre and single-blind trial carried out in 20 treatment centres in Europe (11 countries), the Americas (five countries), Asia (three countries) and Australia, involving 456 chemotherapy naïve patients (<LINK REF="STD-EMPHACIS-2003" TYPE="STUDY">EMPHACIS 2003</LINK>).</P>
+<P>In addition, we identified seven non-comparative studies examining the effectiveness of pemetrexed, used either as a single agent (one study) or in combination with other agents (six studies), for the treatment of mesothelioma. Although not included in the review, a summary of the results from these studies is provided in <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>, and the reasons for their exclusion in <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>.</P>
+<P>The literature search did not identify any studies that compared the effectiveness of pemetrexed with other commonly used chemotherapy regimens such as MVP and vinorelbine, or supportive care. An ongoing randomised Phase III trial (H3-MC-JMEW) involving 240 patients and comparing pemetrexed (administered with folic acid and vitamin B<SUB>12</SUB>) plus BSC with BSC alone in previously treated patients (i.e. not chemonaive) with advanced or metastatic MPM was not included in the review (<LINK REF="REF-Favaretto-2005" TYPE="REFERENCE">Favaretto 2005</LINK>).</P>
+<P>
+<I>
+<B>Included study characteristics</B>
+</I>
+<BR/>Patients aged 18 years and over (life expectancy greater than or equal to 12 weeks) with histologically confirmed MPM, uni-dimensionally or bi-dimensionally measurable disease, not eligible for curative surgery and with a Karnofsky performance status of greater than or equal to 70 were eligible to participate in the trial. Those who had received prior chemotherapy or had a second primary malignancy or brain metastases were not eligible for the trial.</P>
+<P>Of the 456 eligible patients, 448 were randomly assigned to two treatment groups of pemetrexed plus cisplatin (226 patients) and cisplatin alone (222 patients). Eight randomised patients were withdrawn from the study before receiving treatment. Reasons reported were: patient decision (four patients), inclusion criteria not met (two patients), hypertension (one patient), and death from study disease (1 patient).</P>
+<P>Patients in the pemetrexed plus cisplatin group received a median of 6 treatment cycles (range: 1 to 12) and those in the cisplatin alone group received a median of 4 cycles (range: 1 to 9). In the pemetrexed plus cisplatin group, pemetrexed was given intravenously (IV) over 10 minutes at a dose of 500 mg/m2, followed by IV cisplatin 30 minutes later at a dose of 75 mg/m2 over two hours. Both drugs were administered on day one of each 21 day cycle. In the cisplatin arm, normal saline was given over 10 minutes instead of pemetrexed followed by the same dose of IV cisplatin 30 minutes later at a dose of 75 mg/m2 over two hours.</P>
+<P>During the early stages of the trial, increased severe toxicity occurring in the pemetrexed arm (e.g. drug-related death, neutropenia, febrile neutropenia, and diarrhoea) led to a change in the trial protocol. As a result, all subsequent patients in both treatment arms (to maintain blinding) received dietary folic acid (350 to 1000 µg, daily one to three weeks before and during study) and vitamin B12 (1000 µg IM injection, before treatment and repeated every nine weeks) supplementation. This resulted in three patient subgroups in the study defined by the patients' supplementation status:</P>
+<UL>
+<LI>never supplemented patients (NS) (before the protocol change, n=70 patients),</LI>
+<LI>partially supplemented patients (PS) (those who commenced treatment before the protocol change and completed treatment after the change, n=47 patients), and</LI>
+<LI>fully supplemented patients (FS) (those who commenced treatment after the protocol change, n=331 patients).</LI>
+</UL>
+<P>
+<BR/>In addition, all patients enrolled were given dexamethasone 4 mg orally (or an equivalent corticosteroid and dose) twice daily on the day before, the day of, and the day after each dose of pemetrexed plus cisplatin or cisplatin alone for primary prophylaxis against rash.<BR/>
+<I>
+<BR/>
+<B>Participant characteristics</B>
+</I>
+<BR/>Patient demographics were generally comparable in both treatment groups. Overall, 81% (n=365) of the patients were male. The median age was 61 (range: 29 to 85) in the combination arm, and 60 (range: 19 to 84) in the cisplatin only arm. Over half of the patients had a Karnosky performance status of 90/100, over two-thirds of the patients had an epithelial histology (n=306), and 78% (n=350) had stage III or IV disease.</P>
+<P>Trial and participant characteristics are summarised in <LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]">
+<P>Results from the included trial (<LINK REF="STD-EMPHACIS-2003" TYPE="STUDY">EMPHACIS 2003</LINK>) were reported in one peer-reviewed journal article, one conference abstract (<LINK REF="REF-Gralla-2003" TYPE="REFERENCE">Gralla 2003</LINK>), two US Food and Drug Administration (FDA) reports (<LINK REF="REF-Hazarika-2004" TYPE="REFERENCE">Hazarika 2004</LINK>, <LINK REF="REF-Hazarika-2005" TYPE="REFERENCE">Hazarika 2005</LINK>), and an unpublished trial report provided by Eli Lilly and Company Limited (company submission to National Institute for Health and Clinical Excellence (NICE), London).</P>
+<P>The trial comprised 574 patients who signed a consent form, of whom 456 were eligible, and of these, 448 were analysed on an intention-to-treat (ITT) basis. The ITT population was defined as all participants, who were randomly assigned to, and received, treatment. No reasons were provided to explain the exclusion of 118 patients who consented to the trial but were not eligible for the study.</P>
+<P>The trial scored well on the key aspects of study design and quality. The randomisation process was controlled by a computerised voice response unit at a central location, and allocation of participants was unknown until the time of randomisation. Baseline characteristics including gender, age, ethnic origin, and factors considered of potential significance (e.g. performance status, histological subtypes) were presented and were generally comparable in each intervention arm. The trial reports the number of, and reason for, withdrawals.</P>
+<P>This was a single-blind trial where only participants were blinded to the nature of treatment they received. The lack of a double-blind design (i.e. outcome assessors were not blind) may have introduced bias in investigator assessments. In fact, an independent review by the FDA indicated that the tumour response could only be confirmed for approximately 50% of patients (47 of 94) in the combination treatment group (<LINK REF="REF-Hazarika-2005" TYPE="REFERENCE">Hazarika 2005</LINK>).</P>
+<P>The results of the methodological quality assessment of the trial are presented in <LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2012-03-13 06:45:57 +0100" MODIFIED_BY="[Empty name]">
+<P>The primary end point of the trial was survival. Secondary end points included time to progressive disease, time to treatment failure, tumour response rate, toxicities and quality of life. All patients were followed up every 6 weeks for clinical assessment and lesion evaluation. Patients were followed thereafter approximately every 3 months until death or they were lost to follow-up.</P>
+<P>A summary of the main results of the EMPHACIS trial is presented in <LINK REF="TBL-03" TYPE="TABLE">Table 3</LINK>.<BR/>
+<I>
+<B>
+<BR/>Efficacy results<BR/>
+</B>Survival</I>
+<BR/>When considering the ITT population, the median survival time was significantly longer (<I>P</I>=0.02) for patients treated with pemetrexed plus cisplatin (13.2 months) then for those treated with cisplatin alone (9.3 months). In the FS subgroup of patients, median survival was 13.3 months in the pemetrexed plus cisplatin group, compared with 10.0 months in the cisplatin alone group, which was of borderline significance (<I>P</I>=0.051). This difference remained significant when both FS and PS subgroups were included (13.2 months in the combination group versus 9.4 months in the cisplatin group, <I>P</I>=0.022). In the NS subgroup of patients, there were no statistically significant differences between the two groups.</P>
+<P>
+<I>Time to progressive disease</I>
+<BR/>In the ITT population, the median time to progressive disease was 5.7 months in the combination arm of pemetrexed plus cisplatin compared with 3.9 months in the cisplatin only arm (P=0.001). A similar difference was observed in both FS and combined FS/PS subgroups. In addition, a significantly longer time to treatment was obtained for patients treated with pemetrexed plus cisplatin than for those treated with cisplatin only.</P>
+<P>
+<I>Response rate</I>
+<BR/>The partial response rate (decrease of at least 50% of the tumour mass) was 41.3% in the pemetrexed plus cisplatin group and 16.7% in the cisplatin only group (Fisher's exact P&lt;0.001). No patients experienced a complete response.</P>
+<P>
+<I>Toxicity<BR/>
+</I>In the ITT population, the incidence of grade 3/4 adverse events was statistically significantly more frequent in patients receiving pemetrexed plus cisplatin than in those receiving cisplatin alone (<LINK REF="TBL-04" TYPE="TABLE">Table 4</LINK>). The most commonly reported grade 3/4 adverse events in the combination arm included neutropenia (27.9%), leukopenia (17.7%), nausea (14.6%) and vomiting (13.3%). Supplementation of folic acid and vitamin B<SUB>12</SUB> led to a consistent reduction in the severity and incidence of toxicity (except for dehydration) in the pemetrexed and cisplatin arm (<LINK REF="TBL-05" TYPE="TABLE">Table 5</LINK>). The most common grade 3/4 adverse events in the fully supplemented patients were neutropenia (23.2%), leukopenia (14.9%), nausea (11.9%) and vomiting (10.7%).</P>
+<P>
+<I>Quality of life</I>
+<BR/>The assessment of quality of life has been published only in a conference abstract form (<LINK REF="REF-Gralla-2003" TYPE="REFERENCE">Gralla 2003</LINK>) and caution needs to be exercised when interpreting the results. Using the Lung Cancer Symptom Scale-meso instrument, several aspects of quality of life (including pain, dyspnoea, fatigue, anorexia and cough) were evaluated. Patients treated with pemetrexed plus cisplatin demonstrated significantly greater improvement in global QoL (HR-QoL P=0.0012) when compared to those treated with cisplatin alone. This was the case in both the ITT and fully supplemented populations.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]">
+<P>The single RCT (<LINK REF="STD-EMPHACIS-2003" TYPE="STUDY">EMPHACIS 2003</LINK>) which met the inclusion criteria indicates that pemetrexed disodium in combination with cisplatin improves survival approximately three months, compared to cisplatin alone. The trial also suggests that pemetrexed plus cisplatin may offer a greater benefit compared to cisplatin in patients with advanced (i.e. stage 3/4) disease. However, despite supplementation with folic acid and vitamin B<SUB>12</SUB>, the combination of pemetrexed with cisplatin still causes serious adverse events in a significant proportion of fully supplemented patients (<LINK REF="TBL-05" TYPE="TABLE">Table 5</LINK>).</P>
+<P>Interpretation of the EMPHACIS trial is complicated by several limitations:<BR/>
+</P>
+<UL>
+<LI>Reasons for the ineligibility of 118 (approximately 20%) of the 574 consenting patients were not reported in the trial.</LI>
+<LI>Supplementation with folic acid and Vitamin B12 was added after the first 70 patients and only 331patients (74%) received supplementation throughout their course of treatment (FS group). The survival gain in the FS subgroup was of borderline significance (p=0.051).</LI>
+<LI>The control arm of single agent cisplatin is not universally accepted as the standard of care for the management of advanced disease. Cisplatin was selected as the comparator arm as the combination of pemetrexed plus cisplatin had been shown to have antitumour activity in a phase I study (Thodtman), no combination treatment had shown an advantage over a single agent, and no chemotherapy agents were licensed for the treatment of MPM at the time of the trial.</LI>
+<LI>EMPHACIS trial was limited to patients with a Karnofsky performance status of 70 or greater (i.e. those who were relatively fit) which may be inconsistent with expected patient population.</LI>
+<LI>There was not a clearly defined number of treatment cycles in the protocol. The combination arm patients received a median of 6 cycles of chemotherapy compared to a median of 4 cycles in the platinum alone arm, which may be a contributing factor to the difference in survival rates.</LI>
+<LI>The lack of double-blind design (i.e. outcome assessors were not blind) may have introduced bias in investigator assessments.</LI>
+</UL>
+<P>
+<BR/>We found no published studies comparing any form of chemotherapy with supportive care for mesothelioma in the literature.</P>
+<P>In the phase II studies prior to the introduction of pemetrexed, dominated by doxorubicin and cisplatin (either used in alone or in combination), complete responses are rare, and overall rates of response are less than 20% in most studies. Phase II studies investigating the use of pemetrexed disodium in combination with gemcitabine and carboplatin in fully vitamin supplemented patients indicate modesty activity, in terms of response rate and time to progression (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>). However, differences in the inclusion criteria in terms of performance status, previous treatment, and drug regimens make comparisons with the EMPHACIS trial difficult. Phase I studies had previously shown 15 partial responses out of 47 patients treated at varying doses and combinations (<LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>).</P>
+<P>The rational for the EMPHACIS trial is based largely on the 11 assessable patients treated with the combination of pemetrexed plus cisplatin in the phase I study by Thodtman and colleagues where five responses were seen, and the dose limiting toxicity was neutropenia (<LINK REF="STD-Thodtmann" TYPE="STUDY">Thodtmann</LINK>).</P>
+<P>However, in the authors' view the phase 2 studies demonstrate significant palliation/control of symptoms/response in a proportion of patients (range 7-35%). Secondly in a disease where the median survival is of the order of 12 months, a gain in survival of 2.8 months from 9.3-13.2 months in selected patients is of clinical utility. The cisplatin/ pemetrexed regimen is toxic, however, and supportive care including the use of granulocyte colony stimulating factor may be required. The quality of life indices assessed were limited and have been reported in abstract form only, but the data suggest significant improvement in several dimensions of the LCSS scale, including dyspnoea, pain, fatigue and global QOL.</P>
+<P>Interestingly, various national bodies have examined broadly the same evidence and reached different conclusions with regard to funding, with the US, Canada and Scotland approving the use, and Australia and England (NICE) recommending the drug not be funded for routine use.</P>
+<P>These discrepancies in part can be attributed to a number of factors including unfavourable cost-effectiveness and QOL estimates.</P>
+<P>In summary, the phase III results with pemetrexed have provided an encouraging stimulus to the development of other agents in the treatment of this disease. The phase II data of other combinations, the potential of immunomodulation strategies, and effective prevention approaches demonstrate progress in tackling the epidemic of MPM.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Pemetrexed is an effective agent in the treatment of malignant mesothelioma with a significant gain in survival of 2.8 months when used in combination with cisplatin compared to single agent cisplatin. The improvement over best supportive care is therefore an indirect assessment. Supplementation with folic acid and vitamin B<SUB>12</SUB> reduces grade 3 and 4 toxicities, principally myelosuppression, nausea and vomiting, and is recommended. The single randomised controlled trial was restricted to ECOG performance status 0 and 1 patients, and hence generalisation to other patient groups should be cautious. </P>
+<P>Pemetrexed with folic acid and vitamin B<SUB>12</SUB> supplementation may improve survival when used in combination with cisplatin in good performance status patients, but patient selection should take account of the expecteded toxicity. </P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>The main limitation of the trial (Vogelzang et al 2003) is that single agent cisplatin was used as the comparator. The question of the advantage of cisplatin based chemotherapy compared to best supportive care is being addressed in the British Thoracic Society study which is expected to complete enrolment in late 2006 (<LINK REF="REF-Muers-2004" TYPE="REFERENCE">Muers 2004</LINK>; <LINK REF="REF-Stephens-2005" TYPE="REFERENCE">Stephens 2005</LINK>) studies to evaluate an alternative standard arm to single agent cisplatin need to be considered. Other antifolates as well as novel agents need to be evaluated, although with the modest level of activity in current phase 2 studies, any promising agents are likely to be used in combination with conventional agents.<BR/> </P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We are pleased to acknowledge the support and contribution of colleagues involved in the larger health technology assessment project (<LINK REF="REF-Dundar-2006" TYPE="REFERENCE">Dundar 2006</LINK>): A Bagust, A Haycox, R Hill, C McLeod as well as experts and NICE appraisal consultees who commented on drafts of the NICE appraisal report.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>All reviewers listed below contributed to the text and/or data seection and analysis. All reviewers took part in the editing and production of the review.</P>
+<P>JG: Input into all aspects of the clinical component of the review<BR/>YD: Review co-ordination, development of search strategies, data management, and input into all aspects of clinical review, including writing and editing of the report.<BR/>SD: Data checking and statistical advice<BR/>RD: Project management, input into all aspects of the of the review<BR/>TW: Data assessment and interpretation of clinical and economic data.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-EMPHACIS" NAME="EMPHACIS" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gralla RJ, Hollen PJ, Liepa AM, Symanowski JT, Boyer MJ, Abraham R, et al</AU>
+<TI>Improving quality of life in patients with malignant pleural mesothelioma: results of the randomized pemetrexed + cisplatin vs. cisplatin trial using the LCSS-Meso instrument</TI>
+<SO>Proceedings of the American Society of Clinical Oncology</SO>
+<YR>2003</YR>
+<PG>621</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="CONFERENCE_PROC">
+<AU>Vogelzang NJ, Rusthoven JJ, Symanowski J, Denham C, Kaukel E, Ruffie P, et al</AU>
+<TI>Phase III study of pemetrexed in combination with cisplatin versus cisplatin alone in patients with malignant pleural mesothelioma</TI>
+<SO>J Clin Oncol</SO>
+<YR>2003</YR>
+<VL>21</VL>
+<NO>14</NO>
+<PG>2636-2644</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-EMPHACIS-2003" NAME="EMPHACIS 2003" YEAR="2003">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Vogelzang NJ, Rusthoven JJ, Symanowski J, Denham C, Kaukel E, Ruffie P, et al.</AU>
+<TI>Phase III study of pemetrexed in combination with cisplatin versus cisplatin alone in patients with malignant pleural mesothelioma</TI>
+<SO>J Clin Oncol</SO>
+<YR>2003</YR>
+<VL>21</VL>
+<NO>14</NO>
+<PG>2636-2644</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Adjei" NAME="Adjei" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Adjei AA, Erlichman C, Sloan JA, Reid JM, Pitot HC, Goldberg RM, et al.</AU>
+<TI>Phase I and pharmacologic study of sequences of gemcitabine and the multitargeted antifolate agent in patients with advanced solid tumors</TI>
+<SO>J Clin Oncol</SO>
+<YR>2000</YR>
+<VL>18</VL>
+<NO>8</NO>
+<PG>1748-1757</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ceresoli" NAME="Ceresoli" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Ceresoli GL, Zucali PA, Favaretto A, Marangalo M, Del Conte G, Ceribelli A, et al</AU>
+<TI>A phase II study of pemetrexed and carboplatin as front-line chemotherapy in patients with malignant pleural mesothelioma (MPM)</TI>
+<SO>American Society of Clinical Oncology (ASCO) Annual Meeting</SO>
+<YR>2005</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hughes" NAME="Hughes" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hughes A, Calvert P, Azzabi A, Plummer R, Johnson R, Rusthoven J, et al.</AU>
+<TI>Phase I clinical and pharmacokinetic study of pemetrexed and carboplatin in patients with malignant pleural mesothelioma</TI>
+<SO>J Clin Oncol</SO>
+<YR>2002</YR>
+<VL>20</VL>
+<NO>16</NO>
+<PG>3533-3544</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Janne" NAME="Janne" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Janne PA, Simon GR, Langer RN, Taub RN, FDowlati P, Fidias P, et al</AU>
+<TI>An update of pemetrexed plus gemcitabine as front-line chemotherapy for patients with malignant pleural mesothelioma (MPM): a phase II clinical trial</TI>
+<SO>ASCO Meeting</SO>
+<YR>2005</YR>
+<PG>Abstract no: 7067</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Milward" NAME="Milward" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Milward M, Clarke S, Beale P, Boyer M, Childs A, Bishop J, et al.</AU>
+<TI>Phase I trial of pemetrexed (Alimta) and vinorelbine in patients with advanced cancer</TI>
+<SO>American Society of Clinical Oncology (ASCO) Annual Meeting</SO>
+<YR>2001</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Scagliotti" NAME="Scagliotti" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Scagliotti GV, Shin DM, Kindler HL, Vasconcelles MJ, Keppler U, Manegold C, et al.</AU>
+<TI>Phase II study of pemetrexed with and without folic acid and vitamin B12 as front-line therapy in malignant pleural mesothelioma.</TI>
+<SO>J Clin Oncol</SO>
+<YR>2003</YR>
+<VL>21</VL>
+<NO>8</NO>
+<PG>1556-1561</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thodtmann" NAME="Thodtmann" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thodtmann R, Depenbrock H, Dumez H, Blatter J, Johnson RD, van Oosterom A, et al.</AU>
+<TI>Clinical and pharmacokinetic phase I study of multitargeted antifolate (LY231514) in combination with cisplatin</TI>
+<SO>J Clin Oncol</SO>
+<YR>1999</YR>
+<VL>17</VL>
+<NO>10</NO>
+<PG>3009-3016</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<ADDITIONAL_REFERENCES MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<REFERENCE ID="REF-Andreopoulou-2004" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Andreopoulou 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Andreopoulou E, Ross PJ, O'Brien ME, Ford HE, Priest K, Eisen T, et al</AU>
+<TI>The palliative benefits of MVP (mitomycin C, vinblastine and cisplatin) chemotherapy in patients with malignant mesothelioma</TI>
+<SO>Annals of Oncology</SO>
+<YR>2004</YR>
+<VL>15</VL>
+<NO>9</NO>
+<PG>1406-1412</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-BTSSCC-2001" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="BTSSCC 2001" TYPE="JOURNAL_ARTICLE">
+<AU>British Thoracic Society Standards of Care Committee</AU>
+<TI>Statement on malignant mesothelioma in the UK</TI>
+<SO>Thorax</SO>
+<YR>2001</YR>
+<VL>56</VL>
+<PG>250-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Curran-1998" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Curran 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Curran D, Sahmoud T, Therasse P, Van Meerbeeck J, Postmus PE, Giaccone G.</AU>
+<TI>Prognostic factors in patients with pleural mesothelioma: The European organization for research and treatment of cancer experience</TI>
+<SO>J Clin Oncol</SO>
+<YR>1998</YR>
+<VL>16</VL>
+<NO>1</NO>
+<PG>145-152</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ellis-2004" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Ellis 2004" TYPE="OTHER">
+<AU>Ellis P, Davies AM, Evans WK, Haynes AE, Lloyd NS.</AU>
+<TI>The use of chemotherapy in patients with advanced malignant pleural mesothelioma. Evidence summary report #7-14-1</TI>
+<SO>Program in evidence-based care. A Cancer Care Ontario program</SO>
+<YR>2004</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-EMA-2004" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="EMA 2004" TYPE="OTHER">
+<AU>European Medicines Agency</AU>
+<TI>Summary of product characteristics (Annex I)</TI>
+<SO>http://www.emea.eu.int/humandocs/PDFs/EPAR/alimta/H-564-PI-en.pdf</SO>
+<YR>2004</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Favaretto-2005" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Favaretto 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Favaretto A</AU>
+<TI>Overview on ongoing or planned clinical trials in Europe</TI>
+<SO>Lung Cancer</SO>
+<YR>2005</YR>
+<VL>49</VL>
+<NO>Supp. 1</NO>
+<PG>117-121</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gralla-2003" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Gralla 2003" TYPE="CONFERENCE_PROC">
+<AU>Gralla RJ, Hollen PJ, Liepa AM, Symanowski JT, Boyer MJ, Abraham R, et al</AU>
+<TI>Improving quality of life in patients with malignant pleural mesothelioma: results of the randomized pemetrexed + cisplatin vs. cisplatin trial using the LCSS-Meso instrument</TI>
+<SO>Proceedings of the American Society of Clinical Oncology</SO>
+<YR>2003</YR>
+<PG>621</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hazarika-2004" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Hazarika 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Hazarika M, White RM, Johnson JR, Pazdur R</AU>
+<TI>FDA drug approval summaries: Pemetrexed (Alimta)</TI>
+<SO>Oncologist</SO>
+<YR>2004</YR>
+<VL>9</VL>
+<NO>5</NO>
+<PG>482-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hazarika-2005" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Hazarika 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Hazarika, White RM, Booth BP, et al.</AU>
+<TI>Pemetrexed in malignant pleural mesothelioma</TI>
+<SO>Clin Cancer Res</SO>
+<YR>2005</YR>
+<VL>11</VL>
+<PG>982-992</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Herndon-1998" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Herndon 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Herndon JE, Green MR, Chahinian AP, Corson JM, Suzuki Y, Vogelzang NJ</AU>
+<TI>Factors predictive of survival among 337 patients with mesothelioma treated between 1984 and 1994 by the Cancer and Leukemia Group B</TI>
+<SO>Chest</SO>
+<YR>1998</YR>
+<VL>113</VL>
+<NO>3</NO>
+<PG>723-731</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hodgson-2005" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Hodgson 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Hodgson JT, McElvenny DM, Darnton AJ, Price MJ, Peto J</AU>
+<TI>The expected burden of mesothelioma mortality in Great Britain from 2002 to 2050</TI>
+<SO>British Journal of Cancer</SO>
+<YR>2005</YR>
+<VL>92</VL>
+<PG>587-93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hughes-2005" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Hughes 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Hughes RS</AU>
+<TI>Malignant pleural mesothelioma</TI>
+<SO>American Journal of the Medical Sciences</SO>
+<YR>2005</YR>
+<VL>329</VL>
+<PG>29-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jaurand-2005" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Jaurand 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Jaurand MC, Fleury-Feith J.</AU>
+<TI>Pathogenesis of malignant pleural mesothelioma.</TI>
+<SO>Respirology</SO>
+<YR>2005</YR>
+<VL>10</VL>
+<PG>2-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Leigh-2002" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Leigh 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Leigh J, Davidson P, Hendrie L, Berry D</AU>
+<TI>Malignant mesothelioma in Australia 1945-2000</TI>
+<SO>Am J Ind Med</SO>
+<YR>2002</YR>
+<VL>41</VL>
+<PG>188-201</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Middleton-1998" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Middleton 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Middleton GW, Smith IE, O'Brien MER, Norton A, Hickish T, Priest K, et al</AU>
+<TI>Good symptom relief with palliative MVP (mitomycin-C, vinblastine and cisplatin) chemotherapy in malignant mesothelioma</TI>
+<SO>Ann Oncol</SO>
+<YR>1998</YR>
+<VL>9</VL>
+<NO>3</NO>
+<PG>269-273</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Muers-2004" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Muers 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Muers MF, Rudd RM, O'Brien ME, Qian W, Hodson A, Parmar MK, et al</AU>
+<TI>BTS randomised feasibility study of active symptom control with or without chemotherapy in malignant pleural mesothelioma.</TI>
+<SO>Thorax</SO>
+<YR>2004</YR>
+<VL>59</VL>
+<NO>2</NO>
+<PG>144-148</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Peto-1999" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Peto 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Peto J, Decarli A, La Vecchia C, Levi F, Negri E</AU>
+<TI>The European mesothelioma epidemic</TI>
+<SO>British Journal of Cancer</SO>
+<YR>1999</YR>
+<VL>79</VL>
+<PG>666-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pistolesi-2004" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Pistolesi 2004" TYPE="JOURNAL_ARTICLE">
+<AU>Pistolesi M, Rusthoven J. Malignant pleural mesothelioma: update, current management, and newer therapeutic strategies</AU>
+<TI>Malignant pleural mesothelioma: update, current management, and newer therapeutic strategies</TI>
+<SO>Chest</SO>
+<YR>2004</YR>
+<VL>126</VL>
+<NO>4</NO>
+<PG>1318-1329</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Robinson-2005" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Robinson 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Robinson BWS, Musk AW, Lake RA.</AU>
+<TI>Maligant Mesothelioma.</TI>
+<SO>Lancet</SO>
+<YR>2005</YR>
+<VL>366</VL>
+<PG>397-408</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Steele-2000" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Steele 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Steele JP, Shamash J, Evans MT, Gower NH, Tischkowitz MD, Rudd RM</AU>
+<TI>Phase II study of vinorelbine in patients with malignant pleural mesothelioma.</TI>
+<SO>J Clin Oncol</SO>
+<YR>2000</YR>
+<VL>18</VL>
+<NO>23</NO>
+<PG>3912-3917</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stephens-2005" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Stephens 2005" TYPE="CORRESPONDENCE">
+<AU>Stephens R</AU>
+<SO>Cancer Division, MRC Clinical Trials Unit, London, UK Cancer Division</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sterman-2005" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Sterman 2005" TYPE="JOURNAL_ARTICLE">
+<AU>Sterman D, Albelda S</AU>
+<TI>Advances in the diagnosis, evaluation and management of malignant pleural mesothelioma.</TI>
+<SO>Respirology</SO>
+<YR>2005</YR>
+<VL>10</VL>
+<NO>3</NO>
+<PG>266-283</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Tomek-2003" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Tomek 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Tomek S, Manegold C</AU>
+<TI>Chemotherapy for malignant pleural mesothelioma</TI>
+<SO>Current Opinion in Oncology</SO>
+<YR>2003</YR>
+<VL>15</VL>
+<NO>2</NO>
+<PG>148-156</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Van-Gelder-1994" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Van Gelder 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Van Gelder T, Damhuis R, Hoogsteden H.</AU>
+<TI>Prognostic factors and survival in malignant pleural mesothelioma.</TI>
+<SO>Eur Respir J</SO>
+<YR>1994</YR>
+<VL>7</VL>
+<NO>6</NO>
+<PG>1035-1038</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wagner-1960" MODIFIED="2008-09-18 23:33:38 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Wagner 1960" TYPE="JOURNAL_ARTICLE">
+<AU>Wagner JC, Sleggs CA, Marchard P.</AU>
+<TI>Diffuse pleural mesothelioma</TI>
+<SO>Br J Ind Med</SO>
+<YR>1960</YR>
+<VL>17</VL>
+<PG>260-271</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wan-2005" NAME="Wan 2005" TYPE="OTHER">
+<AU>Wan, Y</AU>
+<TI>Pemetrexed (Alimta) for malignant pleural mesothelioma. APC/DTC Briefing</TI>
+<SO>London&amp; South East Medicines Information Service on behalf of the London New Drugs Group. http://www.druginfozone.nhs.uk</SO>
+<PG>1-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan">
+<REFERENCE ID="REF-Dundar-2006" MODIFIED="2008-09-18 23:33:39 +0200" MODIFIED_BY="Karen Hovhannisyan" NAME="Dundar 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Dundar Y, Bagust A, Dickson R, Dodd S, Green J, Haycox A, et al</AU>
+<TI>Pemetrexed disodium for the treatment of malignant pleural mesothelioma</TI>
+<SO>Health Technol Assess</SO>
+<YR>2006</YR>
+<IDENTIFIERS/>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-EMPHACIS">
+<CHAR_METHODS>
+<P>RCT<BR/>Multicentre, International</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Age greater or equal to 18, life expectancy <BR/>greater or equal to 12 weeks, <BR/>uni-or bidimensionally measurable disease, <BR/>KPS greater or equal to 70.<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Pemetrexed<BR/>500 mg/m2 plus cisplatin <BR/>75 mg/m2, n=226<BR/>Cisplatin <BR/>75 mg/m2, n=222<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Primary outcome: survival<BR/>Secondary outcomes: time to progressive disease, time to treatment failure, tumour response rate, duration of response<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No. of never supplemented patients: Pem+cisplatin: 32, Cisplatin: 38; No. of partially supplemented patients: Pem+cisplatin: 26, Cisplatin: 21; No. of fully supplemeted patients: Pem+cisplatin: 168, Cisplatin: 163</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-EMPHACIS-2003">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>KPS: Karnofsky performance status</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Adjei">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non comparative phase I study of pemetrexed with gemcitabine, 84% of patients had received prior chemotherapy</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ceresoli">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-comparative phase I study of pemetrexed with carboplatin</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hughes">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-comparative phase I study of pemetrexed with carboplatin</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Janne">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-comparative phase II study of pemetrexed with gemcitabine</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Milward">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-comparative phase I study of pemetrexed with vinorelbine</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Scagliotti">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-comparative phase II study of single agent pemetrexed</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Thodtmann">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-comparative phase I study of pemetrexed with cisplatin</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-EMPHACIS">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-EMPHACIS-2003">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE>Excluded studies of pemetrexed disodium</TITLE>
+<TABLE COLS="7" ROWS="10">
+<TR>
+<TH>
+<P>Study name</P>
+</TH>
+<TH>
+<P>Interventions</P>
+</TH>
+<TH>
+<P>Study design, n</P>
+</TH>
+<TH>
+<P>Tumour type</P>
+</TH>
+<TH>
+<P>Inclusion criteria</P>
+</TH>
+<TH>
+<P>Response</P>
+</TH>
+<TH>
+<P>Median survival</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>MILWARD 2001</P>
+</TD>
+<TD>
+<P>Pemetrexed with vinorelbine<BR/>(all patients received folic acid and B12)</P>
+</TD>
+<TD>
+<P>Non RCT, Phase I, n=24</P>
+</TD>
+<TD>
+<P>Mesothelioma: 4, <BR/>Other: 20<BR/>
+</P>
+</TD>
+<TD>
+<P>Age &gt;=18 years, PS: 0-2,<BR/>life expectancy: 12 weeks</P>
+</TD>
+<TD>
+<P>Mesothelioma patients:<BR/>PR: 1/4</P>
+</TD>
+<TD>
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>HUGHES <BR/>2002</P>
+</TD>
+<TD>
+<P>Pemetrexed with carboplatin</P>
+</TD>
+<TD>
+<P>Non RCT, Phase I, open label, n=27</P>
+</TD>
+<TD>
+<P>MPM</P>
+</TD>
+<TD>
+<P>No prior chemotherapy, <BR/>WHO PS: 0-2</P>
+</TD>
+<TD>
+<P>PR: 8/25 (32%)<BR/>
+</P>
+</TD>
+<TD>
+<P>14.8 months</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>THODTMANN<BR/>1999</P>
+</TD>
+<TD>
+<P>Pemetrexed with cisplatin</P>
+</TD>
+<TD>
+<P>Non RCT,Phase I, n=54</P>
+</TD>
+<TD>
+<P>Mesothelioma: 13, <BR/>Other: 41</P>
+</TD>
+<TD>
+<P>Patients with solid tumours, no prior chemotherapy, WHO PS &lt;=2, life expectancy &gt;=12 weeks</P>
+</TD>
+<TD>
+<P>Mesothelioma patients:<BR/>PR: 5/11 (2 patients were not assessable for response)</P>
+</TD>
+<TD>
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>ADJEI<BR/>2000</P>
+</TD>
+<TD>
+<P>Pemetrexed with gemcitabine</P>
+</TD>
+<TD>
+<P>Non RCT, Phase I, n=56</P>
+</TD>
+<TD>
+<P>Mesothelioma: 3, <BR/>Other: 53</P>
+</TD>
+<TD>
+<P>Age &gt;=18 years, ECOG PS: &lt;=2 (47 patients had prior chemotherapy)</P>
+</TD>
+<TD>
+<P>Mesothelioma patients:<BR/>PR: 1/3</P>
+</TD>
+<TD>
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>JANNE<BR/>2005</P>
+</TD>
+<TD>
+<P>Pemetrexed with gemcitabine<BR/>(all patients received folic acid and B12)</P>
+</TD>
+<TD>
+<P>Non RCT, Phase II, n=96</P>
+</TD>
+<TD>
+<P>MPM</P>
+</TD>
+<TD>
+<P>Not reported (study includes chemo-naive patients, implied by title)</P>
+</TD>
+<TD>
+<P>Cohort 1:<BR/>CR: 0%, PR: 12 (24.5%);<BR/>Cohort 2: <BR/>CR: 0%, PR: 3(10%)</P>
+</TD>
+<TD>
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>CERESOLI<BR/>2005</P>
+</TD>
+<TD>
+<P>Pemetrexed with carboplatin<BR/>(all patients received folic acid and B12)</P>
+</TD>
+<TD>
+<P>Non RCT, Phase II,<BR/>n=102</P>
+</TD>
+<TD>
+<P>MPM</P>
+</TD>
+<TD>
+<P>Age &gt;=18 years, no prior chemotherapy, ECOG PS: &lt;=2, life expectancy &gt;=12 weeks</P>
+</TD>
+<TD>
+<P>Major response (2 CR and 17 PR)<BR/>CR+PR: 19 (21%)</P>
+</TD>
+<TD>
+<P>Not reported</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>SCAGLIOTTI<BR/>2003</P>
+</TD>
+<TD>
+<P>Pemetrexed (single agent)</P>
+</TD>
+<TD>
+<P>Non RCT, Phase II,<BR/>n=64 (vitamin supplemented: 43, not supplemented: 21)</P>
+</TD>
+<TD>
+<P>MPM</P>
+</TD>
+<TD>
+<P>No prior chemotherapy, life expectancy &gt;=12 weeks, bi/uni-dimensional lesions, KPS &gt;=70</P>
+</TD>
+<TD>
+<P>Supplemented:<BR/>PR: 7 (16.3%)<BR/>Not supplemeted: <BR/>PR: 2 (9.5%);<BR/>All patients: 9 (14.1%)</P>
+</TD>
+<TD>
+<P>Supplemented:<BR/>PR: 13 months,<BR/>Not supplemeted: <BR/>PR: 8 months; <BR/>All patients: 10.7 months</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Notes:</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P>MPM: malignant pleural mesothelioma</P>
+</TD>
+<TD>
+<P>PS: performance status, KPS karnofsky performance status</P>
+</TD>
+<TD>
+<P>PR: partial response<BR/>CR: complete response</P>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+<TR>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2012-03-13 06:46:00 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE>Quality assessment</TITLE>
+<TABLE COLS="6" ROWS="2">
+<TR>
+<TH>
+<P>Study name</P>
+</TH>
+<TH>
+<P>Adeq. randomisation</P>
+</TH>
+<TH>
+<P>Adeq. concealment</P>
+</TH>
+<TH>
+<P>Blinding</P>
+</TH>
+<TH>
+<P>Intention-to-treat</P>
+</TH>
+<TH>
+<P>Loss to follow up</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>EMPHACIS</P>
+</TD>
+<TD>
+<P>A</P>
+</TD>
+<TD>
+<P>A</P>
+</TD>
+<TD>
+<P>B</P>
+</TD>
+<TD>
+<P>A</P>
+</TD>
+<TD>
+<P>A</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-03" MODIFIED="2012-03-13 06:45:57 +0100" MODIFIED_BY="[Empty name]" NO="3">
+<TITLE>Summary of main results from the EMHACIS trial</TITLE>
+<TABLE COLS="4" ROWS="4">
+<TR>
+<TH>
+<P>Outcomes</P>
+</TH>
+<TH>
+<P>ITT analysis</P>
+</TH>
+<TH>
+<P>Fully supplemented</P>
+</TH>
+<TH>
+<P>Fully and partially</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>SURVIVAL <BR/>(median, months)</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=226): 12.1<BR/>Cisplatin (n=222): 9.3<BR/>(Log-rank P: 0.020)<BR/>
+<BR/>
+<BR/>
+</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=168): 13.3<BR/>Cisplatin (n=163): 10.0<BR/>(Log-rank P: 0.051)<BR/>
+</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=194): 13.2<BR/>Cisplatin (n=184): 9.4<BR/>(Log-rank P: 0.022)</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>TIME TO PROGRESSIVE DISEASE (median, months)</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=226): 5.7<BR/>Cisplatin (n=222): 3.9<BR/>(Log-rank P: 0.001)</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=168): 6.1<BR/>Cisplatin (n=163): 3.9<BR/>(Log-rank P: 0.008)</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=194): 6.1<BR/>Cisplatin (n=184): 4.3<BR/>(Log-rank P: &lt;0.003)</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>TUMOUR RESPONSE RATE (%)</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=226): 41.3<BR/>Cisplatin (n=222): 16.7<BR/>(Fisher's P: &lt;0.001)</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=168): 45.5<BR/>Cisplatin (n=163): 19.6<BR/>(Fisher's P: &lt;0.001)</P>
+</TD>
+<TD>
+<P>Pemetrexed+cisplatin (n=194): 45.6<BR/>Cisplatin (n=184): 19.0<BR/>(Fisher's P: &lt;0.001)</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-04" MODIFIED="2012-03-13 06:45:54 +0100" MODIFIED_BY="[Empty name]" NO="4">
+<TITLE>Summary of grade 3/4 toxicities from the EMPHACIS trial</TITLE>
+<TABLE COLS="4" ROWS="15">
+<TR>
+<TH>
+<P>Toxicities</P>
+</TH>
+<TH>
+<P>Pem.+ cis (n=226)</P>
+</TH>
+<TH>
+<P>Cis. (n=222)</P>
+</TH>
+<TH>
+<P>P (Fisher's exact)</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Haemoglobin, n (%)</P>
+</TD>
+<TD>
+<P>11 (4.8)</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>0.001</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Neutrophils, n (%)</P>
+</TD>
+<TD>
+<P>63 (27.9)</P>
+</TD>
+<TD>
+<P>5 (2.3)</P>
+</TD>
+<TD>
+<P>&lt;0.001</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Leukocytes, n (%)</P>
+</TD>
+<TD>
+<P>40 (17.7)</P>
+</TD>
+<TD>
+<P>2 (0.9)</P>
+</TD>
+<TD>
+<P>&lt;0.001</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Platelets, n (%)</P>
+</TD>
+<TD>
+<P>13 (5.8)</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>&lt;0.001</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Nausea, n (%)</P>
+</TD>
+<TD>
+<P>33 (14.6)</P>
+</TD>
+<TD>
+<P>14 (6.3)</P>
+</TD>
+<TD>
+<P>0.005</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Fatigue, n (%)</P>
+</TD>
+<TD>
+<P>23 (10.2)</P>
+</TD>
+<TD>
+<P>19 (8.6)</P>
+</TD>
+<TD>
+<P>0.628</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Vomiting, n (%)</P>
+</TD>
+<TD>
+<P>30 (13.3)</P>
+</TD>
+<TD>
+<P>8 (3.6)</P>
+</TD>
+<TD>
+<P>0.000</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Diarrhoea, n (%)</P>
+</TD>
+<TD>
+<P>10 (4.4)</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>0.002</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Dehydration, n (%)</P>
+</TD>
+<TD>
+<P>9 (4.0)</P>
+</TD>
+<TD>
+<P>1 (0.5)</P>
+</TD>
+<TD>
+<P>0.020</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Stomatitis, n (%)</P>
+</TD>
+<TD>
+<P>9 (4.0)</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>0.004</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Anorexia, n (%)</P>
+</TD>
+<TD>
+<P>5 (2.2)</P>
+</TD>
+<TD>
+<P>1 (0.5)</P>
+</TD>
+<TD>
+<P>0.216</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Febrile neutropenia, n (%)</P>
+</TD>
+<TD>
+<P>4 (1.8)</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>0.123</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Infection with grade 3/4 neutropenia, n (%)</P>
+</TD>
+<TD>
+<P>3 (1.3)</P>
+</TD>
+<TD>
+<P>1 (0.5)</P>
+</TD>
+<TD>
+<P>0.623</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Rash, n (%)</P>
+</TD>
+<TD>
+<P>3 (1.3)</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>0.248</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-05" MODIFIED="2012-03-13 06:45:52 +0100" MODIFIED_BY="[Empty name]" NO="5">
+<TITLE>Summary of grade 3/4 toxicities from pemetrexed/cisplatin-trreated patients</TITLE>
+<TABLE COLS="4" ROWS="15">
+<TR>
+<TH>
+<P>Toxicities</P>
+</TH>
+<TH>
+<P>FS (n=168)</P>
+</TH>
+<TH>
+<P>PS + NS (n=58)</P>
+</TH>
+<TH>
+<P>P (Fisher's exact)</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Haemoglobin, n (%)</P>
+</TD>
+<TD>
+<P>7 (4.2)</P>
+</TD>
+<TD>
+<P>4 (6.9)</P>
+</TD>
+<TD>
+<P>0.479</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Neutrophils, n (%)</P>
+</TD>
+<TD>
+<P>39 (23.2)</P>
+</TD>
+<TD>
+<P>24 (41.4)</P>
+</TD>
+<TD>
+<P>0.011</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Leukocytes, n (%)</P>
+</TD>
+<TD>
+<P>25 (14.9)</P>
+</TD>
+<TD>
+<P>15 (25.9)</P>
+</TD>
+<TD>
+<P>0.072</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Platelets, n (%)</P>
+</TD>
+<TD>
+<P>9 (5.4)</P>
+</TD>
+<TD>
+<P>4 (6.9)</P>
+</TD>
+<TD>
+<P>0.744</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Nausea, n (%)</P>
+</TD>
+<TD>
+<P>20 (11.9)</P>
+</TD>
+<TD>
+<P>13 (22.4)</P>
+</TD>
+<TD>
+<P>0.082</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Fatigue, n (%)</P>
+</TD>
+<TD>
+<P>17 (10.1)</P>
+</TD>
+<TD>
+<P>6 (10.3)</P>
+</TD>
+<TD>
+<P>0.999</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Vomiting, n (%)</P>
+</TD>
+<TD>
+<P>18 (10.7)</P>
+</TD>
+<TD>
+<P>12 (20.7)</P>
+</TD>
+<TD>
+<P>0.071</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Diarrhoea, n (%)</P>
+</TD>
+<TD>
+<P>6 (3.6)</P>
+</TD>
+<TD>
+<P>4 (6.9)</P>
+</TD>
+<TD>
+<P>0.284</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Dehydration, n (%)</P>
+</TD>
+<TD>
+<P>7 (4.2)</P>
+</TD>
+<TD>
+<P>2 (3.4)</P>
+</TD>
+<TD>
+<P>0.999</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Stomatitis, n (%)</P>
+</TD>
+<TD>
+<P>5 (3.0)</P>
+</TD>
+<TD>
+<P>4 (6.9)</P>
+</TD>
+<TD>
+<P>0.240</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Anorexia, n (%)</P>
+</TD>
+<TD>
+<P>2 (1.2)</P>
+</TD>
+<TD>
+<P>3 (5.2)</P>
+</TD>
+<TD>
+<P>0.108</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Febrile neutropenia, n (%)</P>
+</TD>
+<TD>
+<P>1 (0.6)</P>
+</TD>
+<TD>
+<P>3 (5.2)</P>
+</TD>
+<TD>
+<P>0.053</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Infection with grade 3/4 neutropenia, n (%)</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>3 (5.2)</P>
+</TD>
+<TD>
+<P>0.016</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Rash, n (%)</P>
+</TD>
+<TD>
+<P>1 (0.6)</P>
+</TD>
+<TD>
+<P>2 (3.4)</P>
+</TD>
+<TD>
+<P>0.163</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES"/>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2012-03-13 06:23:59 +0100" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2012-03-13 06:22:43 +0100" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2012-03-13 06:22:43 +0100" MODIFIED_BY="[Empty name]">MEDLINE (Ovid, 1980 to October 2005)</TITLE>
+<APPENDIX_BODY MODIFIED="2012-03-13 06:22:12 +0100" MODIFIED_BY="[Empty name]">
+<TABLE COLS="1" ROWS="2">
+<TR>
+<TH>
+<P/>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>1.mesothelio$.tw.<BR/>2.pleural mesothelioma.tw.<BR/>3.exp mesothelioma<BR/>4.exp neoplasms, mesothelial<BR/>5.exp antineoplastic agents<BR/>6.chemothera$.tw<BR/>7.or/1-4<BR/>8.or/5-6<BR/>9.7 and 8<BR/>10.animal<BR/>11.human<BR/>12.10 not 11<BR/>13.9 not 12</P>
+</TD>
+</TR>
+</TABLE>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2012-03-13 06:23:59 +0100" MODIFIED_BY="[Empty name]" NO="2">
+<TITLE MODIFIED="2012-03-13 06:23:55 +0100" MODIFIED_BY="[Empty name]">EMBASE (Ovid, 1980 to October 2005)</TITLE>
+<APPENDIX_BODY MODIFIED="2012-03-13 06:23:59 +0100" MODIFIED_BY="[Empty name]">
+<TABLE COLS="1" ROWS="2">
+<TR>
+<TH>
+<P/>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>1.mesothelio$.tw<BR/>2.exp mesothelioma or exp pleura mesothelioma<BR/>3.chemothera$.tw<BR/>4.exp cancer chemotherapy<BR/>5.exp cancer combination chemotherapy<BR/>6.or/1-2<BR/>7.or/3-5<BR/>8.6 and 7<BR/>9.limit 7 to human</P>
+</TD>
+</TR>
+</TABLE>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

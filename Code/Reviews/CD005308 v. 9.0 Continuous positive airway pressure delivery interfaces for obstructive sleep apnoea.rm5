@@ -1,0 +1,1609 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD005308.pub2" GROUP_ID="AIRWAYS" ID="456804090722130329" MERGED_FROM="" MODIFIED="2014-06-26 11:35:29 +0100" MODIFIED_BY="Emma J Welsh" NOTES="&lt;p&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;CJC Editing following Peer Review responses&lt;br&gt;1. Background sentences are not correct and have been removed. They are not really relevant to this review about interfaces anyway. &amp;quot;Auto-CPAP, bilevel-PAP, patient titration, humidification and patient education have not been demonstrated in an unselected patient population to clearly improve compliance. However, there may be certain subgroups of patients who will benefit from such interventions, e.g. auto-CPAP may be useful in patients who have been previously identified as being poor compliers or who require higher CPAP pressures.&amp;quot;&lt;br&gt;2. The sentence about paucity of studies in the discussion sentence has been modified in the light of peer reviewer feedback in relation to the difficulty in carrying out these studies. (New version in red).&lt;br&gt;This review is now ready for submission.&lt;/p&gt;&lt;p&gt;============================================&lt;br&gt;CJC Editing June 2006&lt;/p&gt;&lt;p&gt;This is a well written review and is almost ready to send for peer review. Well done.&lt;/p&gt;&lt;p&gt;Authors' Contribution: fine&lt;/p&gt;&lt;p&gt;References: Liz checked&lt;/p&gt;&lt;p&gt;Table of included studies: fine&lt;/p&gt;&lt;p&gt;Metaview Labels: I cannot tell how the GIV data has been entered but the graph labels do not seem to always match the direction of effect (first intervention should be on the left for adverse interventions and to the right for beneficial ones). Please could authors or Toby check data entry and labels to comply with this. For example ESS seems to vary in direction and I think may be wrong in comparisons 1 and 3?&lt;/p&gt;&lt;p&gt;Synopsis: Reads well but 310 words seems rather long. Can it be shortened by taking out some of the background description?&lt;/p&gt;&lt;p&gt;Abstract: Fine. I have added significant in a couple of places (in red)&lt;/p&gt;&lt;p&gt;Methods : fine&lt;/p&gt;&lt;p&gt;Results : fine. I have not checked all the CI resutls.&lt;/p&gt;&lt;p&gt;Discussion : fine.&lt;/p&gt;&lt;p&gt;Spellchecked: done p changed to P throughout and some typos amended.&lt;/p&gt;&lt;p&gt;Next action: back to authors to check metaview labels and shorten synopis. Then this can go for peer review.&lt;/p&gt;&lt;p&gt;==================================&lt;br&gt;Liz Arnold has approved the search strtaegy (210105)&lt;/p&gt;&lt;p&gt;PROTOCOL&lt;/p&gt;&lt;p&gt;Editing by CJC 27 Jan 2005&lt;/p&gt;&lt;p&gt;Reviewers Contributions: This section of the cover sheet is blank. It is the third tab on the reviewers part and needs to be completed to say who will carry out the tasks of the review please.&lt;/p&gt;&lt;p&gt;References: fine&lt;/p&gt;&lt;p&gt;Objectives: fine but I have taken out compliance from the objective as this is the main outcome to be measured. Will the same machine need to be used with different interfaces in the trials? If not this is a source of confounding.&lt;/p&gt;&lt;p&gt;Methods: I think this section needs a little more work. I do not find the lumped score from Jadad very informative and suggest that most trials will not be blind so can you tease out the major threats to validity that you would worry about and use these to assess quality. &lt;br&gt;If you plan to calculate NNT you need to say how you will do it in advance, e.g. &amp;quot;Numbers needed to treat (NNT) will be calculated from the pooled OR and its 95% CI applied to the risk in the placebo group using an online calculator (Visual Rx at www.nntonline.net). This calculator converts the risk in the placebo group to the corresponding odds, applies the OR to estimate the odds in the tiotropium group, converts that odds to the corresponding risk and calculates the risk difference, the inverse of which is the NNT.&amp;quot;&lt;br&gt;Crossover trial data will need to be combined using the Generic Inverse Variance method in RevMAn.&lt;br&gt;Any subgroup analysis must be prespecified and kept to a small number of baseline factors.&lt;br&gt;Senstivity analysis on the basis of trial quality should be mentioned.&lt;br&gt;Funnel plot for publication bias would also be useful.&lt;/p&gt;&lt;p&gt;Next action: Toby please return to authors for attention to the above.&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2014-06-26 11:35:29 +0100" NOTES_MODIFIED_BY="Emma J Welsh" REVIEW_NO="DEL-SLP" REVMAN_SUB_VERSION="5.3.3 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="9.0">
+<COVER_SHEET MODIFIED="2014-06-26 11:33:55 +0100" MODIFIED_BY="Emma J Welsh">
+<TITLE>Continuous positive airway pressure delivery interfaces for obstructive sleep apnoea</TITLE>
+<CONTACT>
+<PERSON ID="9AE2E64882E26AA201609AF98C5A2C2D" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Ching Li</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Chai-Coetzer</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>chingli.chai-coetzer@health.sa.gov.au</EMAIL_1>
+<EMAIL_2>chingchai@optusnet.com.au</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Adelaide Insititute for Sleep Health</DEPARTMENT>
+<ORGANISATION>Repatriation General Hospital</ORGANISATION>
+<ADDRESS_1>Daws Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Daw Park</CITY>
+<ZIP>5041</ZIP>
+<REGION>South Australia</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2014-06-26 11:31:53 +0100" MODIFIED_BY="Emma Welsh">
+<PERSON ID="9AE2E64882E26AA201609AF98C5A2C2D" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Ching Li</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Chai-Coetzer</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>chingli.chai-coetzer@health.sa.gov.au</EMAIL_1>
+<EMAIL_2>chingchai@optusnet.com.au</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Adelaide Insititute for Sleep Health</DEPARTMENT>
+<ORGANISATION>Repatriation General Hospital</ORGANISATION>
+<ADDRESS_1>Daws Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Daw Park</CITY>
+<ZIP>5041</ZIP>
+<REGION>South Australia</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="9AE7DAF582E26AA201609AF9B137D2E2" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Anna</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Pathinathan</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1/>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Respiratory Medicine Unit</DEPARTMENT>
+<ORGANISATION>The Queen Elizabeth Hospital</ORGANISATION>
+<ADDRESS_1>28 Woodville Road</ADDRESS_1>
+<ADDRESS_2>Woodville South</ADDRESS_2>
+<CITY>South Australia</CITY>
+<ZIP>5011</ZIP>
+<REGION/>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="4994" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Brian</FIRST_NAME>
+<MIDDLE_INITIALS>J</MIDDLE_INITIALS>
+<LAST_NAME>Smith</LAST_NAME>
+<SUFFIX/>
+<POSITION>Senior Lecturer</POSITION>
+<EMAIL_1>brian.smith@health.sa.gov.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Medicine, University of Adelaide</DEPARTMENT>
+<ORGANISATION>The Queen Elizabeth Hospital</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY>Adelaide</CITY>
+<ZIP>5011</ZIP>
+<REGION>South Australia</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2011-02-17 15:19:29 +0000" MODIFIED_BY="Emma J Welsh" NOTES="&lt;p&gt;Minor update: 15/08/06&lt;/p&gt;&lt;p&gt;New studies sought but none found: 04/01/08&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 25/01/07&lt;/p&gt;" NOTES_MODIFIED="2011-02-17 15:19:29 +0000" NOTES_MODIFIED_BY="Emma J Welsh">
+<UP_TO_DATE>
+<DATE DAY="14" MONTH="1" YEAR="2011"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="14" MONTH="1" YEAR="2011"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="10" MONTH="1" YEAR="2013"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="2005"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2006"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2006"/>
+</DATES>
+<WHATS_NEW MODIFIED="2014-06-26 11:33:55 +0100" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2014-06-26 11:33:55 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="26" MONTH="6" YEAR="2014"/>
+<DESCRIPTION>
+<P>Typos in abstract corrected</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2014-06-26 11:33:41 +0100" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2014-06-26 11:33:41 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="14" MONTH="1" YEAR="2011"/>
+<DESCRIPTION>
+<P>New literature search run. No new included studies found.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-02-17 15:19:42 +0000" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="9" MONTH="1" YEAR="2009"/>
+<DESCRIPTION>
+<P>Literature search re-run, no new studies identified. </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-01-09 13:36:02 +0000" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="23" MONTH="7" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="15" MONTH="8" YEAR="2006"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2014-06-26 11:35:29 +0100" MODIFIED_BY="Emma J Welsh">
+<SUMMARY>
+<TITLE>Continuous positive airway pressure delivery interfaces for obstructive sleep apnoea in adults</TITLE>
+<SUMMARY_BODY>
+<P>Obstructive sleep apnoea (OSA) is a condition whereby patients experience obstruction of their airways and develop an irregular breathing pattern during their sleep. If untreated, OSA can cause a variety of health problems, including high blood pressure, heart problems, difficulty concentrating, excessive sleepiness and an increased risk of having a motor vehicle accident. One widely recommended form of treatment for OSA is CPAP (continuous positive airway pressure), which consists of a pump which blows air into a patient's nose and/or mouth during sleep to hold open the airways and stop obstructions from occurring. The pump is connected to the patient via a connecting hose and an "interface" which rests on the patient's face. There are many different types of interface available for CPAP use, including masks which cover the nose, the mouth, both the nose and mouth, and even the entire face. Unfortunately, patients will often experience side effects related to their interface, which may make them want to stop their CPAP treatment. This review compares the different interface options for CPAP in patients with OSA. Four trials involving 132 people were included. Two studies compared nasal masks with an oral mask called the Oracle, and there did not appear to any significant differences between the two in terms of compliance, sleep study recordings, sleepiness or other symptoms of OSA. One study assessing nasal masks versus nasal pillows (consisting of prongs that rest within the nostrils) showed that patients using the nasal pillows had fewer overall side effects and reported greater satisfaction. The nose mask performed better than the face mask (which covers both the nose and mouth) with one study showing greater compliance and less sleepiness, and was the preferred mask in almost all patients. The choice of interface for a particular person will need to be tailored to the individual. Further trials comparing the many interfaces for CPAP in the treatment of OSA are needed.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2014-06-26 11:35:29 +0100" MODIFIED_BY="Emma J Welsh">
+<ABS_BACKGROUND>
+<P>Continuous positive airway pressure (CPAP) is the mainstay of therapy for moderate to severe obstructive sleep apnoea (OSA). However, compliance with CPAP has been less than ideal. There are many different CPAP interfaces now available for the treatment of OSA. The type of CPAP delivery interface is likely to influence a patient's acceptance of CPAP therapy and long term compliance. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>This review aims to compare the efficacy of the various CPAP delivery interfaces available for the treatment of obstructive sleep apnoea.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2011-03-09 11:23:56 +0000" MODIFIED_BY="[Empty name]">
+<P>We searched the Cochrane Airways Group Specialised Register and the Cochrane Central Register of Controlled Trials (CENTRAL). Searches were current as of January 2011.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomised, controlled trials comparing different forms of CPAP delivery interface for the treatment of OSA were considered for inclusion.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two review authors independently assessed trial quality and extracted data. Attempts were made to contact study authors to obtain additional, unpublished data.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2014-06-26 11:35:22 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Four trials involving 132 people were included. Two studies compared nasal mask with the Oracle oral mask and showed no significant difference in compliance at one month (mean difference (MD) 0.17 hours per night, 95%CI 0.54 to 0.87). There were also no significant differences in any of the physiological parameters (e.g. AHI, arousal index, minimum oxygen saturation), Epworth Sleepiness Scale (ESS), or symptoms of OSA. A single study comparing nasal mask with nasal pillows showed a significant difference in compliance when expressed as the percentage of days used in favour of nasal pillows (nasal pillows mean 94.1± SD 8.3%; nasal mask 85.7 ± 23.5%, P = 0.02), however there were no significant differences in the mean daily use for all days or when use was greater than 0 minutes per day. Nasal pillows were also associated with fewer overall adverse effects (P &lt; 0.001) and greater interface satisfaction (P = 0.001). One study comparing nasal mask with face mask showed that compliance was significantly greater with use of a nasal mask (MD 1.0 hour per night,95% CI 0.3 to 1.8). Nasal mask was also associated with significantly lower ESS scores and was the preferred interface in almost all patients.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2014-06-26 11:35:29 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Due to the limited number of studies available comparing various interface types, the optimum form of CPAP delivery interface remains unclear. The results of our review suggest that nasal pillows or the Oracle oral mask may be useful alternatives when a patient is unable to tolerate conventional nasal masks. The face mask can not be recommended as a first line interface, but may be considered if nasal obstruction or dryness limits the use of a nasal mask. Further randomised studies comparing the different forms of CPAP delivery interface now available for the treatment of OSA, in larger groups of patients and for longer durations, are required.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2014-06-26 11:32:46 +0100" MODIFIED_BY="Emma J Welsh">
+<BACKGROUND MODIFIED="2014-06-26 11:32:36 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Obstructive sleep apnoea (OSA) is characterised by recurrent episodes of hypopnoea and apnoea during sleep, as a result of repetitive obstruction of the upper airways. The resulting airflow limitation leads to oxygen desaturation and sleep fragmentation. Clinically, patients will present with loud snoring, daytime hyper somnolence and cognitive impairment, and, if untreated, is associated with increased risk of hypertension (<LINK REF="REF-Peppard-2000" TYPE="REFERENCE">Peppard 2000</LINK>), cardiovascular complications (<LINK REF="REF-Shahar-2001" TYPE="REFERENCE">Shahar 2001</LINK>), motor vehicle accidents (<LINK REF="REF-Barbe-1998" TYPE="REFERENCE">Barbe 1998</LINK>) and premature death. The prevalence of obstructive sleep apnea-hypopnoea syndrome has been estimated to be 4% in middle-aged men and 2% in middle-aged women (<LINK REF="REF-Young-1993" TYPE="REFERENCE">Young 1993</LINK>).</P>
+<P>Nocturnal continuous positive airway pressure (CPAP), which acts as a pneumatic splint to maintain patency within the upper airways during sleep, is the mainstay of therapy for patients with moderate to severe OSA. It has been shown to reduce symptoms of daytime somnolence, improve ventilatory parameters and is associated with enhanced quality of life (<LINK REF="REF-Engleman-1998" TYPE="REFERENCE">Engleman 1998</LINK>; <LINK REF="REF-Jenkinson-1999" TYPE="REFERENCE">Jenkinson 1999</LINK>). Unfortunately, compliance with CPAP has been less than ideal, with studies showing adherence rates ranging from 46 to 80% (<LINK REF="REF-Kribbs-1993" TYPE="REFERENCE">Kribbs 1993</LINK>; <LINK REF="REF-Pepin-1999" TYPE="REFERENCE">Pepin 1999</LINK>).<BR/>
+<BR/>Various interface options are available for CPAP delivery, including nasal masks, oronasal masks, oral masks, total face masks and nasal pillows. The type of interface prescribed is likely to influence a patient's acceptance of CPAP therapy and compliance with the treatment. Adherence to CPAP will be affected by the occurrence of side effects such as claustrophobia, air leaks, pressure sores, nasal stuffiness, dry mouth, and mask discomfort. A study by <LINK REF="REF-Pepin-1995" TYPE="REFERENCE">Pepin 1995</LINK> in patients using nasal CPAP showed that 50% of patients experienced at least one side effect related to the use of their mask. Different interface designs for CPAP have been developed over the years in an effort to minimise the occurrence of such adverse effects and to improve compliance. Other interventions to improve compliance have been tried and previously reviewed (<LINK REF="REF-Haniffa-2004" TYPE="REFERENCE">Haniffa 2004</LINK>). The type of CPAP delivery interface is likely to influence a patient's acceptance of CPAP therapy and long term compliance. Our review, therefore, aims to evaluate the relative compliance benefits of a range of CPAP interfaces.</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2014-06-26 11:32:38 +0100" MODIFIED_BY="Emma J Welsh">
+<P>This review aims to compare the efficacy of the various forms of CPAP delivery interface available for the treatment of obstructive sleep apnoea.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2014-06-26 11:32:46 +0100" MODIFIED_BY="Emma J Welsh">
+<SELECTION_CRITERIA MODIFIED="2014-06-26 11:32:46 +0100" MODIFIED_BY="Emma J Welsh">
+<CRIT_STUDIES>
+<P>All randomised controlled trials with a parallel or cross-over design comparing different forms of CPAP delivery interface were included. Studies of any duration were considered.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Participants were adults over the age of 18 years of either sex with a diagnosis of obstructive sleep apnoea, based on a history of daytime hyper somnolence and an apnoea-hypopnoea index of at least five diagnosed by polysomnography or oximetry studies showing desaturation index of at least five per hour, reported by a qualified physician.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2014-06-26 11:32:46 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Patients received treatment with continuous positive airways pressure delivered by various forms of delivery interface, including nasal mask, oral mask, naso-oral (full face) mask or nasal pillows. The therapeutic pressure was set at a level which was shown to overcome respiratory disturbance for the particular individual, with amelioration of apneas, hypopnoeas, snoring and hypoxia.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2011-02-17 15:20:42 +0000" MODIFIED_BY="Emma J Welsh">
+<P>The following outcomes were evaluated:</P>
+<OL>
+<LI>objective compliance (download of compliance data);</LI>
+<LI>physiological parameters (apnoea-hypopnoea index, oxygen desaturation index, minimum oxygen desaturation, daytime oxygen saturation);</LI>
+<LI>adverse effects (e.g. claustrophobia, mask discomfort, air leaks, pressure sores);</LI>
+<LI>patient satisfaction and preference;</LI>
+<LI>symptom scores (e.g. Epworth Sleepiness Scale);</LI>
+<LI>quality of life scores.</LI>
+</OL>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2011-03-09 11:23:20 +0000" MODIFIED_BY="[Empty name]">
+<P>
+<BR/>
+</P>
+<ELECTRONIC_SEARCHES MODIFIED="2011-03-09 11:23:20 +0000" MODIFIED_BY="[Empty name]">
+<P>Trials were identified using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (please see the <A HREF="http://www.mrw.interscience.wiley.com/cochrane/clabout/articles/AIRWAYS/frame.html">Airways Group Module</A> for further details). All records in the Specialised Register coded as 'sleep apnoea' were searched using the following terms:</P>
+<P>interface* or mask* or oracle or (nasal* AND (pillow* or prong*)) or "oral CPAP" or "nasal CPAP"</P>
+<P>An additional search of CENTRAL was conducted using the search strategy in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.</P>
+<P>The most recent searches were carried out in January 2011.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2008-07-23 09:11:10 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We assessed reference lists from retrieved articles to identify other relevant reports. In addition, we contacted authors of included studies to identify any additional published or unpublished studies which fulfilled the inclusion criteria.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2014-06-26 11:32:46 +0100" MODIFIED_BY="Emma J Welsh">
+<STUDY_SELECTION MODIFIED="2008-07-23 09:11:36 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two review authors independently assessed the titles and abstracts, and subsequently the full text, of studies to determine whether reports were eligible for inclusion in the review, based on pre-specified criteria. Disagreements were resolved by discussion and, if necessary, a third party.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-07-23 09:11:52 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two independent review authors extracted data from selected studies and entered this into the Cochrane Collaboration software program Review Manager 4.2 (<LINK REF="REF-RevMan-2002" TYPE="REFERENCE">RevMan 2002</LINK>). We attempted to contact the original authors to confirm extracted data and to provide further information.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-07-23 09:29:36 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two review authors independently assessed study quality using the methods described within the Cochrane Handbook for Systematic Reviews of Interventions (<LINK REF="REF-Cochrane-Handbook" TYPE="REFERENCE">Cochrane Handbook</LINK>).</P>
+<P>Allocation concealment was categorised as being of low risk bias (Yes), unclear risk of bias (Unclear) and high risk of bias (No). Similarly blinding and handling of missing data were assessed on these terms.</P>
+</QUALITY_ASSESSMENT>
+<BIAS_ASSESSMENT MODIFIED="2008-07-23 09:13:53 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>A funnel plot was to be performed to assess whether the review was subject to publication bias. If asymmetry was present, reasons other than publication bias would need to be considered.</P>
+</BIAS_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-07-23 09:14:21 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We pooled data with Review Manager software. </P>
+<P>Due to the small number of studies which fulfilled the inclusion criteria for the review, our ability to pool data for meta analyses was limited. A generic inverse variance approach was used to combine data when studies included cross-over trials.</P>
+<P>The following statistical considerations were planned prior to conducting the review, but could not be applied due to the limited number of studies included:</P>
+<P>For dichotomous data, a meta analysis was to be performed using pooled odds ratios (OR) with 95% confidence intervals for all outcomes. A chi-squared test for statistical heterogeneity was to be performed, with trial data considered heterogenous if P &lt; 0.1. Homogenous data was to be pooled using the Mantel-Haenszel fixed-effect model. If heterogeneity was demonstrated, data would be analysed using the DerSimonian and Laird random-effects model.</P>
+<P>A weighted mean difference (WMD) with 95% confidence intervals was to be calculated for continuous data which were measured on the same scale. Continuous data that were measured on different scales were to be calculated as a standardised mean difference (SMD) with 95% confidence intervals. A fixed-effect model was to be used, unless significant heterogeneity was found, in which a random-effects model was to be used.</P>
+<P>Numbers needed to treat (NNT) was to be calculated from the pooled OR and its 95% confidence interval applied to the risk in the inferior interface group using the online calculator Visual Rx (<LINK REF="REF-Cates-2003" TYPE="REFERENCE">Cates 2003</LINK>). This programme will convert the risk in the inferior interface group to the corresponding odds, applies the OR to estimate the odds in the superior interface group, converts that odds to the corresponding risk and calculates the risk difference, the inverse of which is the NNT.</P>
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS MODIFIED="2014-06-26 11:32:46 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Subgroup analyses that were to be performed included:</P>
+<OL>
+<LI>Severity of obstructive sleep apnoea (apnoea-hypopnoea index (AHI) &lt; 15 versus AHI &gt; 15);</LI>
+<LI>Gender (male versus female);</LI>
+<LI>Weight (BMI &lt; 30 versus BMI &gt; 30);</LI>
+<LI>CPAP experience (CPAP naive versus second or subsequent attempts at using CPAP).</LI>
+</OL>
+<P>Sensitivity analyses on the basis of methodological quality was to be performed (i.e. allocation concealment rating: Low risk of bias versus unclear/high risk of bias).</P>
+</SUBGROUP_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2011-03-09 11:28:49 +0000" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2011-03-09 11:28:49 +0000" MODIFIED_BY="[Empty name]">
+<SEARCH_RESULTS MODIFIED="2011-03-09 11:28:49 +0000" MODIFIED_BY="[Empty name]">
+<P>A search conducted on the Cochrane Airways Group Specialised Register and CENTRAL in January 2005 yielded a total of 376 studies, 10 of which were identified as possibly fulfilling the inclusion criteria. A total of four studies met the inclusion criteria of the review. The six remaining articles were excluded. A further search of MEDLINE identified an additional study potentially fulfilling study criteria (<LINK REF="STD-Beecroft-2003" TYPE="STUDY">Beecroft 2003</LINK>), however, it was excluded due to a lack of randomisation. Update searches conducted in January 2009 identified seven references, none of which were retrieved for further scrutiny. Update searches in Jan 2011 identified 22 references, none of which were retrieved for further scrutiny.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2009-01-12 09:57:49 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>Four randomised studies fulfilled the inclusion criteria of the review.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Types of studies</HEADING>
+<P>Three of the studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>; <LINK REF="STD-Mortimore-1998" TYPE="STUDY">Mortimore 1998</LINK>) used a crossover design, whilst the fourth study (<LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>) was conducted using parallel groups.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Types of participants</HEADING>
+<P>The number of participants in each study ranged from 20 to 42 patients. Participants were recruited from hospital-based sleep laboratories in two of the studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>). The recruitment setting was not described in the remaining two studies. The diagnosis of OSA was confirmed on the basis of results of polysomnography in all studies, and therapeutic CPAP pressures were determined using split-night polysomnography or full-night CPAP titration. Participants from all of the studies had received a new diagnosis of OSA and/or had never received prior treatment with continuous positive airway pressure. The inclusion criteria specified a baseline apnoea-hypopnoea index (AHI) of at least 15 in two of the studies (<LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>), and at least 20 in another study (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>). The high mean AHI reported by the studies, ranging from 34 to 82 events per hour, indicated that most participants suffered from a severe degree of OSA. There appeared to be a predominance of males in the two studies that had reported on gender (<LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>). The mean age of participants in the studies varied from 46 to 52 years. The mean body mass index (BMI) reported by the studies ranged from 32 to 43, indicating that a large number of participants were obese.</P>
+<P>
+<B>
+<I>Types of interventions</I>
+</B>
+<BR/>Two studies compared nasal masks with a novel oral mask (Oracle) for the delivery of CPAP in patients with OSA (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>). The Oracle is a strapless butterfly-shaped interface made from silicone which rests between the lips and teeth. It also has a "snap-flap" which lies over the lips and cheeks to achieve a seal, as well as a tongue guide to prevent the tongue from being displaced posteriorly and causing occlusion of the oral cavity. One study (<LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>) performed a comparison of nasal pillows versus a nasal mask. <LINK REF="STD-Mortimore-1998" TYPE="STUDY">Mortimore 1998</LINK> compared nose mask and face mask CPAP therapy. Three of the studies used CPAP machines with integrated heated humidification in both treatment arms (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>). In two of the studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>) follow-up telephone calls were conducted at various times during the study to address issues of mask discomfort and to provide ongoing support.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Types of outcomes</HEADING>
+<P>Compliance with CPAP was reported as a major outcome in all of the studies. Three of the studies recorded the hours of use per night, measured as the run-time from the hour counter meter on the CPAP machine (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>; <LINK REF="STD-Mortimore-1998" TYPE="STUDY">Mortimore 1998</LINK>). <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK> measured compliance using a pressure transducer which recorded use only when the patient was breathing with the mask in place. Physiological data was reported in two of the studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>). <LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK> presented physiological variables recorded by polysomnography at baseline, on nasal CPAP and on oral CPAP, including arousal index, apnoea-hypopnoea index, sleep efficiency and minimum oxygen saturation. <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK> reported only the apnoea-hypopnoea index , which was recorded on the CPAP machine used by each participant. All studies assessed adverse effects associated with CPAP usage. However, the types of adverse effects reported were highly variable between studies, as were the scales used by each study group to rate each of these. The more commonly assessed side effects included dry mouth, dry nose, nasal congestion, gum pain, air leaks and claustrophobia. Mask preference was reported by two of the studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Mortimore-1998" TYPE="STUDY">Mortimore 1998</LINK>). The other two studies (<LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>) assessed overall satisfaction with interface type. All studies assessed the degree of daytime somnolence using the Epworth Sleepiness Scale. Symptoms of OSA, sleep quality and functional outcomes were reported by three studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>) using various rating scales.</P>
+</SUBSECTION>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2008-07-23 09:15:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>See <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>. </P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-07-23 09:25:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>See <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK> for an overview of our judgements of the risk of bias for each of the three domains listed below. </P>
+<ALLOCATION MODIFIED="2008-07-23 09:25:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The method of randomisation was not stated in any of the studies. However, after contacting <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>, it was determined that they had used a computer to generate a list of 40 consecutive random numbers. One of the studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>) reported that their method of allocation concealment was through use of 'sealed envelopes', but it was not reported if these envelopes were opaque and serially numbered. The method of allocation concealment was unclear in the other three studies. Attempts to contact authors for further clarification of allocation concealment were unsuccessful. All studies were scored as unclear.</P>
+</ALLOCATION>
+<BLINDING MODIFIED="2008-07-23 09:15:52 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>In all studies, it was not possible to blind participants to their interface type. However, participants were not made aware in any of the studies that compliance was a major outcome and data was covertly recorded on their CPAP machines. It was unclear in most of the studies as to whether sleep technicians, respiratory therapists and investigators involved were blinded.</P>
+</BLINDING>
+<EXCLUSIONS MODIFIED="2008-07-23 09:15:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>In three of the studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>; <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>), small numbers of patients who were initially randomised did not complete the treatment protocol for various reasons and were excluded from analysis, i.e. intention-to-treat analysis was not used. There were three withdrawals from the study by <LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>, eleven withdrawals from the study by <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK> and three withdrawals from the study by <LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>. There was no loss to follow up in the <LINK REF="STD-Mortimore-1998" TYPE="STUDY">Mortimore 1998</LINK> trial.</P>
+</EXCLUSIONS>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2011-02-17 15:27:06 +0000" MODIFIED_BY="Emma J Welsh">
+<SUBSECTION>
+<HEADING LEVEL="4">Nasal mask versus oral mask (oracle)</HEADING>
+<P>Two studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>) compared nasal mask with oral mask (Oracle).</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Compliance at one month</HEADING>
+<P>Both studies assessed compliance as the hours of use per night. The study by <LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK> used a crossover design, whilst the study by <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK> was a parallel group trial. A generic inverse variance approach was used to pool the data from the two studies. There was no statistically significant difference in the mean hours per night of recorded use for nasal and oral CPAP (mean difference, 0.17 hours per night 95%CI -0.54 to 0.87) (refer to Comparison 01/01).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Physiological parameters</HEADING>
+<P>Only the study by <LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK> reported on physiological parameters. No statistically significant differences were found for polysomnographic variables between nasal mask and oral mask, including the arousal index (mean difference 3.0 per hour, [95% CI -1.8 to 7.8) (refer to Comparison 01/02), apnoea-hypopnoea index (mean difference 4.6 per hour, 95% CI -1.0 to 10) (refer to Comparison 01/03), sleep efficiency (mean difference 1.7% [95% CI -2.6 to 5.9) (refer to Comparison 01/04), and minimum oxygen saturation (mean difference 1.3%, 95%CI -3.0 to 5.6) (refer to Comparison 01/05).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse effects</HEADING>
+<P>Due to differences in study design and the way in which results were reported in the two studies (<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>; <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK>), it was not possible to pool data for comparison. The types of adverse effects assessed by each of the studies were variable, as were the scales used to rate each of these effects. Side effects reported by both of the studies included oral dryness, nasal congestion, gum pain, air leaks and claustrophobia. Data from each of the studies are shown in individual tables (see <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>; <LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>).</P>
+<P>
+<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK>, which rated side effects on a scale of 0 (no problem) to 3 (major problem), reported a 'total side effect score' which showed no statistically significant difference between the nasal and oral mask (mean difference 2.0, 95% CI 1.4 to 5.3; P = 0.23). The adverse effects which limited the use of treatment with the nasal mask were pressure from the mask or straps, air leaks from the mask and mask dislodgement. With oral mask use, the side effects that were rated as severe enough to limit use of CPAP were dry mouth or throat, excess salivation and sore lips or gums.</P>
+<P>The study by <LINK REF="STD-Khanna-2003" TYPE="STUDY">Khanna 2003</LINK> reported side effects using a scale of 1 (worst) to 5 (best). The group using the nasal mask experienced more nasal dryness at one month (nasal 4.4 ± 0.9; oral 4.9 ± 0.39; P &#8804; 0.04) and more problems with nasal congestion at one month (nasal 3.6 ± 1.2; oral 4.8 ± 0.5; P &#8804; 0.001). The oral group reported more complaints of oral dryness (nasal 4.1 ± 0.9; oral 3.3 ± 0.9; P &#8804; 0.007 at one month) and gum pain (nasal 4.7 ± 1.0; oral 4.3 ± 0.8; P &#8804; 0.02 at one month).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Mask preference</HEADING>
+<P>Only the study by <LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK> reported data on mask preference. Six of 21 patients (29%) preferred the oral interface, whilst 15 of the 21 patients (71%) chose to continue with the nasal mask. There was, however, no statistically significant difference between the two groups in terms of mask preference (P = 0.407).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Epworth sleepiness scale and symptoms</HEADING>
+<P>
+<LINK REF="STD-Anderson-2003" TYPE="STUDY">Anderson 2003</LINK> showed no statistically significant difference between oral mask and nasal mask for Epworth Sleepiness Scale scores (mean difference 0.7, 95% CI -1.7 to 3.1) (refer to Comparison 01/06). There was also no significant difference in OSA symptoms between the two groups (mean difference 7.7, 95% CI -2.4 to 17.7) (refer to Comparison 01/07).</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Nasal pillows versus nasal mask</HEADING>
+<P>One study (<LINK REF="STD-Massie-2003" TYPE="STUDY">Massie 2003</LINK>) compared nasal pillows with nasal mask.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Compliance</HEADING>
+<P>Three indexes of compliance were reported: the percentage of days used, mean daily use for all days and mean daily use for days with use &gt; 0 minutes. A statistically significant difference was observed in percentage of days used, favouring nasal pillows (nasal pillows 94.1 ± 8.3%; nasal mask 85.7 ± 23.5%; P = 0.02) (refer to Comparison 02/01). However, no difference was shown between nasal pillows and nasal mask on mean daily use for all days or on mean daily use for days with use &gt; 0 minutes (P &#8805; 0.10).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Physiological parameters</HEADING>
+<P>There was no significant difference in mean apnoea-hypopnoea index (AHI) between the two interface types (nasal pillows 10.2 ± 9.8; nasal mask 7.0 ± 7.7; P = 0.83) (refer to Comparison 02/02).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse effects</HEADING>
+<P>Adverse effects were assessed using a scale of 0 (not a problem) to 3 (a major problem). The twelve adverse effects examined were: pressure from the mask, skin irritation, mask dislodgement, air leaks, difficulty putting on the mask, claustrophobia, machine noise, dry mouth or throat, dry or congested nose, headache, difficulty breathing and chest discomfort, and a global score was calculated by summing results for all of the above. Use of nasal pillows was associated with fewer overall adverse effects (t = 3.8, P &lt; 0.001).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Satisfaction with the interface</HEADING>
+<P>Satisfaction was rated using a 100 mm visual analogue scale (0 = poorest and 100 = highest possible rating). Patients reported a greater degree of overall satisfaction with nasal pillows (nasal pillows 65 ± 27; nasal mask 43 ± 28; P = 0.001) (refer to Comparison 02/03).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Epworth sleepiness scale and symptoms</HEADING>
+<P>There was no significant difference in Epworth Sleepiness Scale score between the two interfaces (nasal pillows 5.9 ± 3.4; nasal mask 6.4 ± 3.8; P = 0.84) (refer to Comparison 02/04).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Quality of life</HEADING>
+<P>Quality of life was assessed using the Functional Outcomes of Sleep Questionnaire (FOSQ) which examines the effect of excessive daytime sleepiness on activities of daily living. There was no statistically significant difference in the FOSQ total score or individual scales between nasal pillows and nasal mask (all P values &#8805; 0.83).</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Nasal mask versus face mask</HEADING>
+<P>One study (<LINK REF="STD-Mortimore-1998" TYPE="STUDY">Mortimore 1998</LINK>) compared nasal mask with face mask.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Compliance</HEADING>
+<P>The study showed that nightly compliance was significantly higher with use of a nasal mask than a face mask (mean difference 1.0 hour per night, 95% CI 0.3 to 1.8], P = 0.01) (refer to Comparison 03/01).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse effects</HEADING>
+<P>Adverse effects were assessed using a 10 cm visual analogue scale and reported as median symptom scores. Face mask use was associated with significantly fewer complaints of dry throat/mouth (face mask 1.0, nasal mask 2.0; P = 0.03) and dry nose (face mask 0, nasal mask 1.5; P = 0.05) compared to a nasal mask, however, was associated with more complaints of air leaks (face mask 6.0; nasal mask 1.0; P = 0.003), red/sore eyes (face mask 1.4; nasal mask 0; P = 0.02) , claustrophobia (face mask 4.0, nasal mask 0; P = 0.0004) and difficulty exhaling (face mask 1.0; nasal mask 0; P = 0.04).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Mask preference</HEADING>
+<P>The nasal mask was rated significantly more comfortable than the face mask, with 19 out of the 20 patients preferring the nasal mask (P = 0.001).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Epworth Sleepiness Scale</HEADING>
+<P>The Epworth Sleepiness Scale score was significantly lower with the use of a nasal mask compared to a face mask (nasal mask 8.2, face mask 9.8; P &lt; 0.01) (refer to Comparison 03/02).</P>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>This review has examined the evidence from four randomised controlled trials comparing the efficacy of various interface options for CPAP in obstructive sleep apnoea. Two of the studies compared nasal mask with an oral mask (Oracle), one study assessed nasal mask versus nasal pillows, and the other study compared nasal mask with face mask. </P>
+<P>When nasal mask was compared with the oral mask (Oracle), no statistically significant difference could be found between the two interfaces in terms of compliance at one month, polysomnographic variables, total adverse effect scores, mask preference and Epworth Sleepiness Scale or symptoms of OSA. The nasal mask was associated with more frequent reports of excessive pressure from the mask or straps, air leaks and mask dislodgement. On the other hand, oral mask use was limited by complaints of dry mouth and throat, excessive salivation and sore lips or gums. A non-randomised study comparing the Oracle oral interface with conventional nasal &amp; oronasal masks was conducted by <LINK REF="STD-Beecroft-2003" TYPE="STUDY">Beecroft 2003</LINK> and allowed patients to self-select the type of interface that they wished to use with their CPAP machine. In this study, 27% of patients selected the Oracle mask as their preferred interface, compared to 66% who chose a nasal mask, and 7% who chose an oronasal mask. The Oracle mask was as effective as the nasal &amp; oronasal masks in controlling OSA, and scored similar subjective ratings for adherence, efficacy and mask comfort. The main limitations to its use were complaints of upper airway dryness &amp; "rain-out", whereby excess condensation collects within the CPAP tubing. The Oracle oral interface appears to be a useful alternative for patients who are unable to tolerate nasal CPAP.</P>
+<P>The comparison between nasal mask and nasal pillows in a single study showed that the use of nasal pillows was associated with significantly greater compliance when expressed as the percentage of days used, fewer overall adverse effects and a greater degree of overall satisfaction with the interface. However, there appeared to be no statistically significant difference between nasal pillows and nasal mask when compliance was expressed as the mean daily use for all days or mean daily use for days with use greater than 0 minutes. There were also no significant differences seen in the AHI, Epworth Sleepiness scale and quality of life between the two interfaces. Nasal pillows are a viable alternative to nasal mask, and could even be offered as the first line of interface given the relative advantages for some outcomes.</P>
+<P>A single study assessing the use of nasal mask versus full face mask showed that compliance was significantly greater with use of the nasal mask. Use of the nasal mask was also associated with a significantly lower Epworth Sleepiness Scale and was rated overall in the study as the preferred form of interface. The face mask was associated with more complaints of air leaks, red or sore eyes, claustrophobia and difficulty exhaling. Use of the nasal mask was associated with more frequent reports of dry throat, mouth and nose. The face mask can not be recommended as the initial therapeutic option. Rather, it may be best utilised where nasal obstruction or dryness limits the benefit of CPAP. The Oracle oral device may also be useful in this circumstance. The advantages and disadvantages of the four different types of interface, based on the findings of this review, have been summarised in <LINK REF="TBL-03" TYPE="TABLE">Table 3</LINK>.</P>
+<P>There is only limited reported evidence available addressing the efficacy of different interface options for CPAP in OSA. From the current literature, we were able to identify only a small number of studies, each with small numbers of participants. There is a paucity of studies assessing effectiveness and compliance in relation to the various CPAP interfaces, given the wide range of interface options that are currently on the market. For example, there are no randomised controlled trials reported comparing conventional masks to the newer "total face" mask (which covers the entire face, including the eyes). There is a need for further randomised controlled studies comparing the different forms of CPAP delivery interface that are now available for the treatment of OSA.</P>
+<P>Participants in all four of the studies were newly diagnosed with OSA and, therefore, were CPAP naive. There is no data currently available which examines the impact of alternative CPAP interfaces in patients who have previously been intolerant to conventional masks to assess whether compliance rates can be improved. Further studies addressing this issue are required.</P>
+<P>The high mean baseline AHI reported by the studies, ranging from 34 to 82 events per hour, indicate that the majority of patients had a severe degree of OSA. CPAP therapy is generally recommended for those with moderate to severe OSA, however, can also be useful in patients with mild forms of OSA who are symptomatic from their condition. A previous Cochrane review on CPAP in OSA showed a more pronounced effect of CPAP in patients who were more symptomatic, with an Epworth Sleepiness Score greater than 14 compared to those with an ESS less than 10, but showed no association between AHI and compliance (<LINK REF="REF-Giles-2006" TYPE="REFERENCE">Giles 2006</LINK>). One study showed clinically significant improvements in sleepiness as well as in health and functional status with the use of CPAP in mild OSA (<LINK REF="REF-Engleman-1999" TYPE="REFERENCE">Engleman 1999</LINK>). However, it has been reported that patients with less severe forms of OSA and those who have a lack of subjective benefit from therapy are more likely to discontinue CPAP treatment (<LINK REF="REF-Janson-2000" TYPE="REFERENCE">Janson 2000</LINK>). The impact of different interfaces on compliance and patient preference in milder forms of disease requires further assessment.</P>
+<P>All of the included studies assessed outcomes after relatively short treatment periods, ranging from three to eight weeks. Although <LINK REF="REF-Popescu-2001" TYPE="REFERENCE">Popescu 2001</LINK> suggested that a patient's behaviour in the first two weeks of therapy is a good indicator of their long term commitment, it is not entirely clear whether the results of these studies can be taken as an indicator of long term compliance. Studies of a more prolonged duration are needed to assess the long term outcomes and compliance rates associated with different interface types. </P>
+<P>An important consideration in patient preference is the cost of the CPAP interface. Prices of the various interface options from an online CPAP retailer (www.talkaboutsleep.biz) were compared. Nasal masks appear to be the cheaper form of interface, ranging from US$69 (Fisher and Paykel Flexifit Nasal Mask) to US$129.95 (Resmed Ultra Mirage II). The price of nasal pillows range from US$89 (Puritan Bennett Breeze Nasal Pillows) to US$129 (Resmed Mirage Swift Nasal Pillows). The cost of the Fisher and Paykel Oracle 452 Oral Mask is US$115.95. Face masks appear to be the most expensive form of CPAP delivery interface, with costs ranging from US$119.95 (Fisher and Paykel Flexifit 431 Full Face Mask) to US$169 (Resmed Ultra Mirage Full Face Mask).</P>
+<P>It became apparent whilst conducting this review that there was a lack of standardised measures for the reporting of outcomes such as adverse effects, symptoms and quality of life, which limited the opportunity for statistical comparisons to be made between studies. The use of standardised scales for these outcome measures would help to overcome these limitations.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Due to the paucity of randomised studies comparing different forms of CPAP interface, it is difficult to make any definite conclusions or recommendations as to which is the best. The large majority of studies evaluating the effectiveness of CPAP in the treatment of OSA have used nasal masks, and, therefore, these have emerged as the interface of first choice during CPAP titration studies. If a patient is unable to tolerate nasal CPAP, we would recommend trialling different forms of CPAP interface during CPAP titration, targeted to the individuals' face shape and body habitus, physiological parameters, side effects experienced, tolerance and overall preference. Results of this review suggest that nasal pillows or the Oracle oral interface are potentially useful alternatives when patients are unable to tolerate a nasal mask. Regular review of patients to address any issues related to the use of their CPAP machine and interface is necessary to ensure ongoing tolerance and compliance.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>A wide range of new CPAP interfaces continue to be introduced onto the market and evidence of their effectiveness in the treatment of obstructive sleep apnoea is necessary. Further randomised, controlled trials evaluating the effectiveness of different interface types with larger numbers of patients and for longer periods of time are required. Assessment of the impact of different interface options in milder forms of OSA and also in patients who have previously tried but have been intolerant of CPAP is also important. In addition, the use of standardised scales for outcome measures such as adverse effects, symptoms and quality of life would enable better statistical comparisons to be made between studies.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank the Cochrane Airways Group Editorial Team, in particular Toby Lasserson, Chris Cates &amp; Elizabeth Arnold, for their assistance with the search strategy and constructive comments. We are grateful to the Australasian Cochrane Centre, including Denise O'Connor &amp; Sarah Hetrick, for their teaching and support. We would also like to thank the study authors Fiona Anderson &amp; Clifford Massie who responded promptly to our requests for information.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Ching Li Chai: protocol development, study selection, quality assessment, data extraction and data entry, interpretation of results, writing up of review<BR/>Anna Pathinathan: assistance with protocol, study selection, quality assessment, data extraction and data entry<BR/>Brian Smith: supervisor, coordinator, proof-reading of drafts, to act as third party in the event of disagreement amongst review authors</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2009-01-09 13:56:00 +0000" MODIFIED_BY="Toby J Lasserson">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anderson-2003" NAME="Anderson 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Anderson FE, Kingshott RN, Taylor DR, Jones DR, Kline LR, Whyte KF</AU>
+<TI>A randomized crossover efficacy trial of oral CPAP (Oracle) compared with nasal CPAP in the management of obstructive sleep apnea</TI>
+<SO>Sleep</SO>
+<YR>2003</YR>
+<VL>26</VL>
+<NO>6</NO>
+<PG>721-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Khanna-2003" NAME="Khanna 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Khanna R, Kline LR</AU>
+<TI>A prospective 8 week trial of nasal interfaces vs. a novel oral interface (Oracle) for treatment of obstructive sleep apnea hypopnea syndrome</TI>
+<SO>Sleep Medicine</SO>
+<YR>2003</YR>
+<VL>4</VL>
+<NO>4</NO>
+<PG>333-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Massie-2003" NAME="Massie 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Massie CA, Hart RW</AU>
+<TI>Clinical outcomes related to interface type in patients with obstructive sleep apnea/hypopnea syndrome who are using continuous positive airway pressure</TI>
+<SO>Chest</SO>
+<YR>2003</YR>
+<VL>123</VL>
+<NO>4</NO>
+<PG>1112-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mortimore-1998" NAME="Mortimore 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mortimore IL, Douglas NJ</AU>
+<TI>Comparison of nose and face mask CPAP therapy for sleep apnoea</TI>
+<SO>Thorax</SO>
+<YR>1998</YR>
+<VL>53</VL>
+<NO>4</NO>
+<PG>290-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Beecroft-2003" NAME="Beecroft 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Beecroft J, Zanon S, Lukic D, Hanly P</AU>
+<TI>Oral continuous positive airway pressure for sleep apnea - effectiveness, patient preference and adherence</TI>
+<SO>Chest</SO>
+<YR>2003</YR>
+<VL>124</VL>
+<NO>6</NO>
+<PG>2200-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Forman-2002" NAME="Forman 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Forman M, Rankin N, Whyte K, Jordan V</AU>
+<TI>Use of face mask instead of nasal mask to overcome drying of the airways during CPAP</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2002</YR>
+<VL>165</VL>
+<NO>Suppl 8</NO>
+<PG>A410</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mediano-2006" NAME="Mediano 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mediano O, Garcia-Rio F, Villasante C</AU>
+<TI>Comparison of carbon dioxide rebreathing during application of continuous positive airway pressure with 3 types of nasal mask</TI>
+<SO>Archivos De Bronconeumologia</SO>
+<YR>2006</YR>
+<VL>42</VL>
+<NO>4</NO>
+<PG>189-93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Prosise-2004" NAME="Prosise 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Prosise GL, Berry RB</AU>
+<TI>Oral-nasal continuous positive airway pressure as a treatment for obstructive sleep apnea</TI>
+<SO>Chest</SO>
+<YR>1994</YR>
+<VL>106</VL>
+<NO>1</NO>
+<PG>180-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sanders-1994" NAME="Sanders 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sanders MH, Kern NB, Stiller RA, Strollo PJ, Martin TJ, Atwood CW</AU>
+<TI>CPAP therapy via oronasal mask for obstructive sleep apnea</TI>
+<SO>Chest</SO>
+<YR>1994</YR>
+<VL>106</VL>
+<NO>3</NO>
+<PG>774-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Smith-2003" NAME="Smith 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Smith PL, O'Donnell CP, Allan L, Schwartz AR</AU>
+<TI>A physiologic comparison of nasal and oral positive airway pressure</TI>
+<SO>Chest</SO>
+<YR>2003</YR>
+<VL>123</VL>
+<NO>3</NO>
+<PG>689-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-2004" NAME="Wilson 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson GN, Piper AJ, Norman M, Chaseling WG, Millross MA, Collins ER, et al</AU>
+<TI>Nasal versus full face mask for noninvasive ventilation in chronic respiratory failure</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2004</YR>
+<VL>23</VL>
+<NO>4</NO>
+<PG>605-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2009-01-09 13:56:00 +0000" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2009-01-09 13:56:00 +0000" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Barbe-1998" NAME="Barbe 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Barbe F, Pericas J, Munoz A, Findley L, Anto JM, Agusti AG</AU>
+<TI>Automobile accidents in patients with sleep apnea syndrome</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1998</YR>
+<VL>158</VL>
+<NO>1</NO>
+<PG>18-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cates-2003" NAME="Cates 2003" TYPE="COMPUTER_PROGRAM">
+<TI>Visual Rx. Online NNT Calculator. http://www.nntonline.net</TI>
+<YR>2003</YR>
+<PB>Cates C</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cochrane-Handbook" MODIFIED="2008-07-23 09:29:23 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Cochrane Handbook" TYPE="BOOK">
+<AU>Higgins JPT, Green S, editors</AU>
+<SO>Cochrane Handbook for Systematic Reviews of Interventions Version 5.0.0 [updated February 2008]. Available from www.cochrane-handbook.org</SO>
+<YR>2008</YR>
+<PB>The Cochrane Collaboration</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Engleman-1998" NAME="Engleman 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Engleman HM, Martin SE, Kingshott RN, Mackay TW, Deary IJ, Douglas NJ</AU>
+<TI>Randomised placebo controlled trial of daytime function after continuous positive airway pressure (CPAP) therapy for the sleep apnoea / hypopnoea syndrome</TI>
+<SO>Thorax</SO>
+<YR>1998</YR>
+<VL>53</VL>
+<NO>5</NO>
+<PG>341-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Engleman-1999" NAME="Engleman 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Engleman HM, Kingshott RN, Wraith PK, Mackay TW, Deary IJ, Douglas NJ</AU>
+<TI>Randomized, placebo-controlled crossover trial of continuous positive airway pressure for mild sleep apnea / hypopnea syndrome</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<NO>2</NO>
+<PG>461-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Giles-2006" MODIFIED="2009-01-09 13:56:00 +0000" MODIFIED_BY="Toby J Lasserson" NAME="Giles 2006" TYPE="COCHRANE_REVIEW">
+<AU>Giles TL, Lasserson TJ, Smith BJ, White J, Wright J, Cates CJ</AU>
+<TI>Continuous positive airways pressure for obstructive sleep apnoea in adults (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>1</NO>
+<IDENTIFIERS MODIFIED="2009-01-09 13:56:00 +0000" MODIFIED_BY="Toby J Lasserson">
+<IDENTIFIER MODIFIED="2009-01-09 13:56:00 +0000" MODIFIED_BY="Toby J Lasserson" TYPE="DOI" VALUE="10.1002/14651858.CD001106.pub3"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Haniffa-2004" MODIFIED="2009-01-09 13:55:19 +0000" MODIFIED_BY="Toby J Lasserson" NAME="Haniffa 2004" TYPE="COCHRANE_REVIEW">
+<AU>Hannifa M, Lasserson T, Smith I</AU>
+<TI>Interventions to improve compliance with continuous positive airway pressure for obstructive sleep apnoea (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>1</NO>
+<IDENTIFIERS MODIFIED="2009-01-09 13:55:19 +0000" MODIFIED_BY="Toby J Lasserson">
+<IDENTIFIER MODIFIED="2009-01-09 13:55:19 +0000" MODIFIED_BY="Toby J Lasserson" TYPE="DOI" VALUE="10.1002/14651858.CD003531.pub2"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Janson-2000" NAME="Janson 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Janson C, Noges E, Svedberg-Randt S, Linberg E</AU>
+<TI>What characterizes patients who are unable to tolerate continuous positive airway pressure (CPAP) treatment?</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2000</YR>
+<VL>94</VL>
+<NO>2</NO>
+<PG>145-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jenkinson-1999" NAME="Jenkinson 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Jenkinson C, Davies RJO, Mullins R, Stradling JR</AU>
+<TI>Comparison of therapeutic and subtherapeutic nasal continuous positive airway pressure for obstructive sleep apnoea: a randomised prospective parallel trial</TI>
+<SO>Lancet</SO>
+<YR>1999</YR>
+<VL>353</VL>
+<PG>2100-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kribbs-1993" NAME="Kribbs 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Kribbs NB, Pack AI, Kline LR, Smith PL, Schwartz AR, Schubert NM, et al</AU>
+<TI>Objective measurement of patterns of nasal CPAP use by patients with obstructive sleep apnea</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1993</YR>
+<VL>147</VL>
+<NO>4</NO>
+<PG>887-95</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pepin-1995" NAME="Pepin 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Pepin JL, Leger P, Veale D, Langevin B, Robert D, Levy P</AU>
+<TI>Side effects of nasal continuous positive airway pressure in sleep apnea syndrome. Study of 193 patients in two French sleep centers</TI>
+<SO>Chest</SO>
+<YR>1995</YR>
+<VL>107</VL>
+<NO>2</NO>
+<PG>375-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pepin-1999" NAME="Pepin 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Pepin JL, Krieger J, Rodenstien D, Cornette A, Sforza E, Delguste P, et al</AU>
+<TI>Effective compliance during the first 3 months of continuous positive airways pressure</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>160</VL>
+<NO>4</NO>
+<PG>1124-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Peppard-2000" NAME="Peppard 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Peppard PE, Young T, Palta M, Skatrud J</AU>
+<TI>Prospective study of the association between sleep-disordered breathing and hypertension</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>2000</YR>
+<VL>342</VL>
+<NO>19</NO>
+<PG>1378-84</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Popescu-2001" NAME="Popescu 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Popescu G, Latham M, Allgar V, Elliot MW</AU>
+<TI>Continuous positive airway pressure for sleep apnoea / hypopnoea syndrome: usefulness of a 2 week trial to identify factors associated with long term use</TI>
+<SO>Thorax</SO>
+<YR>2001</YR>
+<VL>56</VL>
+<NO>9</NO>
+<PG>727-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-RevMan-2002" NAME="RevMan 2002" TYPE="COMPUTER_PROGRAM">
+<TI>Review Manager (RevMan)</TI>
+<YR>2002</YR>
+<EN>4.2 for Windows</EN>
+<PB>The Cochrane Collaboration</PB>
+<CY>Oxford, England</CY>
+<MD>CD-ROM and Internet</MD>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Shahar-2001" NAME="Shahar 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Shahar E, Whitney CW, Redline S, Lee ET, Newman AB, Nieto FJ, et al</AU>
+<TI>Sleep-disordered breathing and cardiovascular disease</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>2001</YR>
+<VL>163</VL>
+<NO>1</NO>
+<PG>19-25</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Young-1993" NAME="Young 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S</AU>
+<TI>The occurrence of sleep-disordered breathing among middle-aged adults</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>1993</YR>
+<VL>328</VL>
+<NO>17</NO>
+<PG>1230-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2014-06-26 11:33:15 +0100" MODIFIED_BY="Emma J Welsh">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2014-06-26 11:33:13 +0100" MODIFIED_BY="Emma J Welsh" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2009-01-12 09:58:26 +0000" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Anderson-2003">
+<CHAR_METHODS>
+<P>Randomised, crossover trial in which patients with OSA were assigned to receive CPAP treatment via a nasal mask and via an oral mask.<BR/>Duration of study: 4 weeks in each arm, with no washout period (total of 8 weeks)</P>
+<P>Method of randomisation: Not stated.<BR/>Allocation concealment: Used sealed envelopes, but unclear if opaque.</P>
+<P>Blinding of participants: Not possible to blind mask type; Participants were not made aware that compliance was being monitored<BR/>Blinding of technicians: A qualified PSG technologist, who was blinded to mask sequence, analysed the diagnostic portion of the first study &amp; each of the on-treatment studies, at the final titrated pressures; Questionnaires were issued by the attending technician, not one of the investigators<BR/>Blinding of investigators: Follow-up phone calls were made by one on the investigators knowledgeable about the interfaces (this information was not available in publication, but obtained from author after request for further clarification)</P>
+<P>Withdrawals: 3 pts dropped out after randomisation - 1 refused to use CPAP machine (nasal); 1 unable to tolerate nasal mask &amp; switched to oral mask for continued therapy; 1 unable to tolerate oral mask &amp; refused further treatment<BR/>1 pt was excluded from analysis because compliance data was unobtainable due to technical complications (oral)<BR/>All pts who completed both arms of the trial were included in the analysis regardless of CPAP use.<BR/>Intention to treat analysis: Not used<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>42 CPAP naïve pts recruited prior to polysomnography. 25 fulfilled criteria &amp; all agreed to participate (nasal n = 13; oral n = 12). 21 pts analysed (nasal n = 11; oral n = 10)</P>
+<P>Recruited from consecutive pts referred to the Greenlane Hospital Sleep Disordered Breathing Unit (Hospital-based sleep laboratory)</P>
+<P>Inclusion criteria: AHI &gt; 20, ESS &gt; 12, and at least 2 symptoms of OSA</P>
+<P>Exclusion criteria: previous CPAP therapy for OSA, coexisting COPD, coexisting sleep disorders, claustrophobia, gum or mouth disease, inability to communicate in English &amp; no home telephone for communication</P>
+<P>Males/Females: Numbers not stated<BR/>Age range: Not stated<BR/>Mean age (SD): 46 (12)<BR/>Mean BMI (SD): 43 (8)<BR/>Baseline AHI (95% CI): 85 (69-100)<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Nasal mask (Aclaim, Fisher &amp; Paykel Healthcare; Sullivan Modular, Mirage or Ultramirage, Resmed) vs Oral mask (Oracle, Fisher &amp; Paykel Healthcare)</P>
+<P>CPAP machine: Fisher and Paykel HC 201 with integrated heated humidification used in both arms</P>
+<P>Diagnostic study: Split-night polysomnography for diagnosis and to determine <BR/>CPAP requirements. At crossover, patients returned for second full-night titration study with alternate interface.<BR/>Therapeutic CPAP pressure: Minimum pressure required to eliminate all evidence of upper airway obstruction.</P>
+<P>Follow-up telephone calls done 3 times during the first week &amp; once a week thereafter to address issues of discomfort &amp; ensure ongoing support<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-01-12 09:58:26 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>1) CPAP compliance - recorded from hour meter of CPAP machine (run-time)</P>
+<P>2) Physiological parameters (e.g. arousals, apnoea-hypopnoea index, sleep efficiency, minimum oxygen saturation)</P>
+<P>3) CPAP side effects - using posttreatment questionnaire containing 19 possible side effects with a 4-point scale</P>
+<P>4) Mask preference at end of the 8-week trial</P>
+<P>5) Epworth Sleepiness Scale</P>
+<P>6) Symptoms - 12-item questionnaire with 4-point Likert scale (0 = never to 3 = always); Patients rated the severity of: snoring, choking, breathing pauses, nocturnal awakenings, poor sleep quality, feeling unrefreshed on awakening, headaches, daytime sleepiness, concentration difficulties, decreased well-being, daytime &amp; evening napping<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Further information regarding study quality and data obtained from author<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-26 11:33:01 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Khanna-2003">
+<CHAR_METHODS>
+<P>Randomised, parallel trial of nasal mask vs oral mask (Oracle) for treatment of OSAHS<BR/>Duration of study: 8 weeks</P>
+<P>Method of randomisation: Not stated<BR/>Allocation concealment: Unclear</P>
+<P>Blinding of participants: Not possible to blind mask type; Patients were not made aware that compliance was a major outcome<BR/>Blinding of technician: Unclear<BR/>Blinding of therapists: Not blinded<BR/>Blinding of investigators: Unclear</P>
+<P>Withdrawals: Patients who abandoned treatment or used CPAP &lt; 20 min/night were considered "dropouts" &amp; removed from analyses in the month that treatment was not used<BR/>5 patients in the nasal group abandoned therapy before completion of 8 weeks. Complained of intolerable nasal congestion, throat inflammation, severe claustrophobia &amp; excessive pressure from tight fitting mask.<BR/>6 patients in oral group dropped out. One stopped CPAP due to a major cerebrovascular accident. 3 patients complained of excessive oral dryness &amp; gum pain, requiring change to nasal mask. 1 patient stopped using CPAP completely. 1 patient declined further participation.<BR/>Intention to treat analysis: Not used<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>42 patients were enrolled and randomised. 38 patients analysed (nasal n = 17; oral n = 21)</P>
+<P>Recruitment setting not stated</P>
+<P>Inclusion criteria: Patients with a suspicion of OSAHS who had full polysomnography showing an AHI greater than or equal to 15/hr</P>
+<P>Exclusion criteria: severe cardiac disease, chronic pulmonary disease, significant psychiatric illness</P>
+<P>Male/Female: Nasal 11/6; Oral 13/8<BR/>Age range: Not stated<BR/>Mean age (nasal): 50.9 ± 11.0<BR/>Mean age (oral): 52.5 ± 12.6<BR/>BMI (nasal): 34.2±6.0<BR/>BMI (oral): 34.9±5.4<BR/>AHI (nasal): 63±39.3<BR/>AHI (oral): 58.5±34.8</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2009-01-12 09:58:40 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>Nasal mask (chosen from a large array for maximal pt comfort) vs Oral mask (Oracle, Fisher &amp; Paykel Healthcare)</P>
+<P>CPAP machine: Both groups treated with the Fisher-Paykel HC201 CPAP device with integrated heated humidifier &amp; hour counter meter</P>
+<P>Diagnostic study: Full night polysomnography, with return for full night CPAP titration if eligible for inclusion.<BR/>Therapeutic CPAP pressure: Level sufficient to abolish apnoeas &amp; arousals on PSG (RDI less than or equal to 5 and oxygen saturation greater than or equal to 92%)</P>
+<P>Patients contacted by telephone within the first 3 days to assess if any major difficulties &amp; pressure or mask adjustments done as requested by the treating physician.<BR/>At the end of the first &amp; second month, a respiratory therapist visited patients to check equipment &amp; record compliance.<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-01-12 09:58:43 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>1) Compliance</P>
+<P>2) Side effects (including oral dryness, nasal dryness, nasal congestion, gum pain, air leaks, gag reflex, bloating, mask dislodgement, headache, chest discomfort, sensation of excessive pressure, claustrophobia). Pts scored each on scale of 1(worst) to 5(best) or 1(worst) to 6(best). Side effects considered severe if scored less than or equal to 3.</P>
+<P>3) Epworth sleepiness scale</P>
+<P>4) Subjective data (Pt's overall satisfaction, level of functioning, complaints of sleepiness, feelings of being refreshed, quality of sleep, memory &amp; concentrating abilities)<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2014-06-26 11:33:01 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Age range of pts not stated</P>
+<P>Not all data on subjective scores were presented (i.e. overall satisfaction, level of functioning, complaints of sleepiness, quality of sleep, memory &amp; concentrating ability)</P>
+<P>Not all data for side effects were presented, including gag reflex, bloating, mask dislodgement, headache<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-26 11:33:03 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Massie-2003">
+<CHAR_METHODS MODIFIED="2009-01-12 09:58:48 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>Randomised, crossover trial comparing nasal pillows and nasal mask in OSAHS patients receiving CPAP<BR/>Duration of study: 3 weeks for each arm, with no washout period (total of 6 weeks)</P>
+<P>Method of randomisation: A computer program was used to generate a list of 40 consecutive random numbers (choices were 1 or 2)<BR/>Allocation concealment: Not stated</P>
+<P>Blinding of participants: Not possible to blind interface type; Patients were not informed that study designed to assess compliance<BR/>Blinding of technician: Unclear<BR/>Blinding of investigator: Unclear</P>
+<P>Withdrawals: 3 pts were unable to complete the protocol (1 pt travelled to Europe and was unable to use the equipment; 1 pt developed an unrelated medical condition; 1 pt was unavailable for follow up). 39 pts completed the 6 week protocol.<BR/>Intention to treat analysis: Not used.<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>42 patients were enrolled in the study.</P>
+<P>Recruited from two suburban community-based hospital sleep laboratories</P>
+<P>Inclusion criteria: OSAHS diagnosis - AHI greater than or equal to 15 or AHI greater than or equal to 5 + daytime somnolence &amp; had not received treatment with CPAP previously</P>
+<P>Exclusion criteria: wake resting arterial oxygen sat &lt; 90%; Upper airway tract infection or flu-like symptoms at time of titration; Elective surgery scheduled before conclusion of study; Prior surgical intervention for OSAHS </P>
+<P>Males/Females: Nasal pillows 18/2; Nasal mask 14/5<BR/>Age range: 18-70yrs<BR/>Mean age (SD): nasal pillows 47.7 (8.9) years; nasal mask 49.8 (8.2) years<BR/>Mean BMI (SD): nasal pillows 36.3 (6.8); nasal mask 35.5 (6.0)<BR/>Mean AHI (SD): nasal pillows 48.6 (36.9); nasal mask 47.1 (35.1)<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2014-06-26 11:33:03 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Nasal pillows (Breeze, Mallinckrodt Corporation) vs Nasal mask (Contour, Respironics)</P>
+<P>CPAP machine: Both groups treated with Mallinckrodt 418A CPAP machine &amp; HC100 heated humidifier</P>
+<P>Diagnostic study: Patients underwent either an all-night CPAP titration or split-night study<BR/>Therapeutic CPAP pressure: level at which evidence of apneas, hypopnoeas, snoring &amp; hypoxaemia were ameliorated<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1) Compliance - a pressure transducer recorded use only when the pt was breathing with the mask in place.</P>
+<P>2) AHI - reported by the Mallinckrodt 418A CPAP machine.</P>
+<P>3) Adverse effects</P>
+<P>4) Satisfaction with CPAP therapy</P>
+<P>5) Epworth Sleepiness Scale</P>
+<P>6) Sleep quality</P>
+<P>7) Functional Outcomes of Sleep Questionnaire (QoL instrument) - completed prior to initiating CPAP therapy and at end of each treatment period<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Further information provided by study author</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2009-01-12 09:58:56 +0000" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Mortimore-1998">
+<CHAR_METHODS>
+<P>Randomised, crossover trial comparing nose and face mask CPAP therapy<BR/>Duration of study: 4 weeks in each arm. Not stated if washout period used.</P>
+<P>Method of randomisation: Unclear<BR/>Allocation concealment: Unclear</P>
+<P>Blinding of participants: Not possible to blind interface type; Patients were not informed that study designed to assess compliance<BR/>Blinding of technicians: CPAP titration performed using standard protocol by staff who were unaware of the trials<BR/>Blinding of investigators: Not stated</P>
+<P>Withdrawals: None.<BR/>Intention to treat analysis: No withdrawals.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>20 patients were enrolled in the study.</P>
+<P>Recruitment setting: Not stated</P>
+<P>Inclusion criteria: Newly diagnosed pts with sleep apnoea-hypopnoea syndrome were enrolled after their CPAP titration night</P>
+<P>Exclusion criteria: Not stated</P>
+<P>Male/Female: Numbers not stated<BR/>Age range: Not stated<BR/>Mean age (SE): 52 (3)<BR/>Mean BMI (SE): 32 (1)</P>
+<P>Mean AHI (SE): 34 (5.2) <BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Nose mask (Resmed or Respironics) vs Face mask (Respironics)</P>
+<P>CPAP machine: Sullivan III, Resmed. Not stated if heated humidification used.</P>
+<P>Diagnostic study: CPAP titration performed using nose mask<BR/>Therapeutic CPAP pressure: Not stated how this was determined.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2009-01-12 09:58:56 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>1) CPAP compliance</P>
+<P>2) Side effects (10 cm visual analogue scale)</P>
+<P>3) Mask preference</P>
+<P>4) Epworth sleepiness score<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>The study also compared nose &amp; face mask CPAP in patients with unsuccessful uvulopalatopharyngoplasties - but this part of study was not randomised<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>AHI: apnoea-hypopnoea index; CPAP: Continuous positive airway pressure; OSAHS: Obstructive sleep apnoea hypopnoea syndrome; PSG: Polysomnography; QoL: Quality of Life; RDI: Respiratiory disturbance index; vs: versus</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2014-06-26 11:33:15 +0100" MODIFIED_BY="Emma J Welsh" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Beecroft-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomised, controlled trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Forman-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study compared respiratory water losses and humidity between face mask and nasal mask in healthy participants without OSA, and did not address the outcomes of interest</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2009-01-09 13:38:16 +0000" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Mediano-2006">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2009-01-09 13:38:16 +0000" MODIFIED_BY="Toby J Lasserson">
+<P>Assessment made of carbon dioxide rebreathing</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Prosise-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomised, controlled trial<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sanders-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomised, controlled trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Smith-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study compared upper airway pressure-flow relationships in oral mask versus nasal mask, and did not address the outcomes of interest</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2014-06-26 11:33:15 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Wilson-2004">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2014-06-26 11:33:15 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Participants had a diagnosis of "nocturnal hypoventilation" and not all were due to obstructive sleep apnoea</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES>
+<P>OSA: Obstructive sleep apnoea</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2009-01-12 09:58:58 +0000" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2009-01-12 09:58:58 +0000" MODIFIED_BY="Toby J Lasserson" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 09:18:28 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Anderson-2003">
+<DESCRIPTION>
+<P>Described as randomised; other information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 09:20:41 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Khanna-2003">
+<DESCRIPTION>
+<P>Described as randomised; other information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 09:21:56 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Massie-2003">
+<DESCRIPTION>
+<P>A computer program was used to generate a list of 40 consecutive random numbers (choices were 1 or 2)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-01-12 09:58:58 +0000" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Mortimore-1998">
+<DESCRIPTION>
+<P>Described as randomised; information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-07-23 09:23:31 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 09:18:12 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Anderson-2003">
+<DESCRIPTION>
+<P>Sealed envelopes. Not clear if opaque. </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 09:20:46 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Khanna-2003">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 09:22:17 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Massie-2003">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 09:23:31 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Mortimore-1998">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2008-07-23 09:24:16 +0100" MODIFIED_BY="Toby J Lasserson" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-07-23 09:19:35 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Anderson-2003">
+<DESCRIPTION>
+<P>Participants: Not possible to blind mask type; Participants were not made aware that compliance was being monitored.</P>
+<P>Technicians: A qualified PSG technologist, who was blinded to mask sequence, analysed the diagnostic portion of the first study &amp; each of the on-treatment studies, at the final titrated pressures; Questionnaires were issued by the attending technician, not one of the investigators </P>
+<P>Investigators: Follow-up phone calls were made by one on the investigators knowledgeable about the interfaces (this information was not available in publication, but obtained from author after request for further clarification)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-07-23 09:20:59 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Khanna-2003">
+<DESCRIPTION>
+<P>No information available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-07-23 09:22:09 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Massie-2003">
+<DESCRIPTION>
+<P>No information available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-07-23 09:24:16 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Mortimore-1998">
+<DESCRIPTION>
+<P>Participants: Not possible to blind interface type; Patients were not informed that study designed to assess compliance </P>
+<P>Technicians: CPAP titration performed using standard protocol by staff who were unaware of the trials </P>
+<P>Investigators: Not stated</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2008-07-23 09:24:34 +0100" MODIFIED_BY="Toby J Lasserson" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-07-23 09:20:26 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Anderson-2003">
+<DESCRIPTION>
+<P>Withdrawals: 3 pts dropped out after randomisation - 1 refused to use CPAP machine (nasal); 1 unable to tolerate nasal mask &amp; switched to oral mask for continued therapy; 1 unable to tolerate oral mask &amp; refused further treatment<BR/>1 pt was excluded from analysis because compliance data was unobtainable due to technical complications (oral)<BR/>All pts who completed both arms of the trial were included in the analysis regardless of CPAP use.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-07-23 09:21:18 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Khanna-2003">
+<DESCRIPTION>
+<P>Patients who abandoned treatment or used CPAP &lt; 20 min/night were considered "dropouts" &amp; removed from analyses in the month that treatment was not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-07-23 09:22:50 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Massie-2003">
+<DESCRIPTION>
+<P>Completers used for analysis. </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2008-07-23 09:24:34 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Mortimore-1998">
+<DESCRIPTION>
+<P>All participants completed the study</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2014-06-26 11:33:15 +0100" MODIFIED_BY="Emma J Welsh">
+<ADDITIONAL_TABLE ID="TBL-01" NO="1">
+<TITLE>Nasal mask versus Oral mask: Adverse effects - Anderson 2003</TITLE>
+<TABLE COLS="3" ROWS="11">
+<TR>
+<TH>
+<P>Side Effects n = 21</P>
+</TH>
+<TH>
+<P>Nasal CPAP</P>
+</TH>
+<TH>
+<P>Oral CPAP</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Dry mouth / throat</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+<TD>
+<P>11</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Excess salivation</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>5</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Sore gums / lips</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>5</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Skin irritation</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Air leaks</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Congested nose</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Mask dislodgement</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Pressure from straps / mask</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Difficulty fitting mask</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Claustrophobia</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" NO="2">
+<TITLE>Nasal mask versus Oral mask: Adverse effects - Khanna 2003</TITLE>
+<TABLE COLS="3" ROWS="7">
+<TR>
+<TH>
+<P>Side effects</P>
+</TH>
+<TH>
+<P>Nasal mask</P>
+</TH>
+<TH>
+<P>Oral mask</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>at one month (scale 1 worst -5 best)</P>
+</TD>
+<TD>
+<P>mean +/- SD</P>
+</TD>
+<TD>
+<P>mean +/- SD</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Oral dryness</P>
+</TD>
+<TD>
+<P>4.1 +/- 0.9</P>
+</TD>
+<TD>
+<P>3.3 +/- 0.9</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Nasal dryness</P>
+</TD>
+<TD>
+<P>4.4 +/- 0.9</P>
+</TD>
+<TD>
+<P>4.9 +/- 0.39</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Nasal congestion</P>
+</TD>
+<TD>
+<P>3.6 +/- 1.2</P>
+</TD>
+<TD>
+<P>4.8 +/- 0.5</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Gum pain</P>
+</TD>
+<TD>
+<P>4.7 +/- 1.0</P>
+</TD>
+<TD>
+<P>4.3 +/- 0.8</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Air leaks</P>
+</TD>
+<TD>
+<P>3.9 +/- 1.1</P>
+</TD>
+<TD>
+<P>4.6 +/- 0.8</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-03" MODIFIED="2014-06-26 11:33:15 +0100" MODIFIED_BY="Emma J Welsh" NO="3">
+<TITLE>Table of advantages &amp; disadvantages of interfaces</TITLE>
+<TABLE COLS="3" ROWS="5">
+<TR>
+<TH>
+<P>Type</P>
+</TH>
+<TH>
+<P>Advantage</P>
+</TH>
+<TH>
+<P>Disadvantage</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Nasal Mask</P>
+</TD>
+<TD>
+<P>Conventional CPAP interface which has been most frequently assessed in CPAP efficacy trials<BR/>
+<BR/>Relatively cheap</P>
+</TD>
+<TD>
+<P>Adverse effects: pressure from mask/straps, air leaks, mouth leaks, mask dislodgment, dry throat, mouth &amp; nose, nasal congestion, epistaxis<BR/>
+<BR/>Requires cumbersome headgear</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Oracle oral mask</P>
+</TD>
+<TD>
+<P>Strapless device, lack of headgear<BR/>
+<BR/>Bypasses the nasal passages - useful in patients with nasal obstruction or experiencing intolerable nasal symptoms on nasal CPAP<BR/>
+<BR/>Fewer air leaks &amp; nasal dryness or congestion compared to nasal masks<BR/>
+<BR/>Comparable to conventional nasal masks in terms of: compliance at one month; polysomnographic measures (e.g.. arousal index, AHI, sleep efficiency &amp; minimum oxygen saturation); Epworth Sleepiness Scale &amp; OSA symptoms<BR/>
+</P>
+</TD>
+<TD>
+<P>Adverse effects: dry mouth or throat, sore lips &amp; gums, excess salivation<BR/>
+<BR/>All patients require heated humidification<BR/>
+</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Nasal pillows</P>
+</TD>
+<TD>
+<P>Less contact with the face<BR/>
+<BR/>Fewer overall adverse effects compared to nasal mask<BR/>
+<BR/>Greater patient satisfaction than nasal mask<BR/>
+</P>
+</TD>
+<TD>
+<P>Expensive</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Face mask</P>
+</TD>
+<TD>
+<P>Useful for patients experiencing mouth leaks &amp; nasal dryness with nasal CPAP<BR/>
+<BR/>
+</P>
+</TD>
+<TD>
+<P>Better compliance with nasal mask<BR/>
+<BR/>Expensive<BR/>
+<BR/>Adverse effects: air leaks, red/sore eyes, claustrophobia, difficulty exhaling<BR/>
+<BR/>Not as comfortable as nasal mask<BR/>
+<BR/>Requires cumbersome headgear<BR/>
+</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Nasal mask versus Oral mask (Oracle)</NAME>
+<IV_OUTCOME CHI2="0.4818580446200549" CI_END="0.8712847586141856" CI_START="-0.5386581504129617" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.166313304100612" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.059839883013613204" LOG_CI_START="NaN" LOG_DATA="NO" LOG_EFFECT_SIZE="-0.7790730083488683" NO="1" P_CHI2="0.4875819436818082" P_Q="1.0" P_Z="0.6438053978338827" Q="0.0" RANDOM="NO" SCALE="4.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="38" TOTAL_2="42" WEIGHT="99.99999999999999" Z="0.46238480168246443">
+<NAME>Compliance with mask at one month (hours per night)</NAME>
+<GROUP_LABEL_1>Nasal</GROUP_LABEL_1>
+<GROUP_LABEL_2>Oral (Oracle)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours oral mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>mean difference</EFFECT_MEASURE>
+<IV_DATA CI_END="1.099665305692342" CI_START="-0.4996653056923421" EFFECT_SIZE="0.3" ESTIMABLE="YES" ESTIMATE="0.3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1" SE="0.408" STUDY_ID="STD-Anderson-2003" TOTAL_1="21" TOTAL_2="21" WEIGHT="77.71888401676865"/>
+<IV_DATA CI_END="1.1934925562195213" CI_START="-1.7934925562195214" EFFECT_SIZE="-0.3" ESTIMABLE="YES" ESTIMATE="-0.3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="2" SE="0.762" STUDY_ID="STD-Khanna-2003" TOTAL_1="17" TOTAL_2="21" WEIGHT="22.281115983231334"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Arousal index (#/hour)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Oral mask (Oracle)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours oral mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>#/hour</EFFECT_MEASURE>
+<IV_DATA CI_END="7.501449283293143" CI_START="-1.5014492832931428" EFFECT_SIZE="3.0" ESTIMABLE="YES" ESTIMATE="3.0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="3" SE="2.2967" STUDY_ID="STD-Anderson-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Apnoea-hypopnoea index (events/hour)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Oral mask</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours oral mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>events/hour</EFFECT_MEASURE>
+<IV_DATA CI_END="9.804684360946114" CI_START="-0.6046843609461146" EFFECT_SIZE="4.6" ESTIMABLE="YES" ESTIMATE="4.6" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="4" SE="2.6555" STUDY_ID="STD-Anderson-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Sleep efficiency (%)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Oral mask</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours nasal mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours oral mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>%</EFFECT_MEASURE>
+<IV_DATA CI_END="5.685586762562201" CI_START="-2.2855867625622004" EFFECT_SIZE="1.7" ESTIMABLE="YES" ESTIMATE="1.7" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="5" SE="2.0335" STUDY_ID="STD-Anderson-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="5" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Minimum oxygen saturation (%)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Oral mask</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours oral mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>%</EFFECT_MEASURE>
+<IV_DATA CI_END="5.3324299017927075" CI_START="-2.732429901792708" EFFECT_SIZE="1.3" ESTIMABLE="YES" ESTIMATE="1.3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="6" SE="2.0574" STUDY_ID="STD-Anderson-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="6" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Epworth Sleepiness Scale</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Oral mask</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours oral mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>mean difference</EFFECT_MEASURE>
+<IV_DATA CI_END="2.950626643447344" CI_START="-1.5506266434473444" EFFECT_SIZE="0.7" ESTIMABLE="YES" ESTIMATE="0.7" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="7" SE="1.1483" STUDY_ID="STD-Anderson-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="7" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Symptoms of OSA</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Oral mask</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours oral mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>mean difference</EFFECT_MEASURE>
+<IV_DATA CI_END="17.124682816059305" CI_START="-1.724682816059306" EFFECT_SIZE="7.7" ESTIMABLE="YES" ESTIMATE="7.7" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="8" SE="4.8086" STUDY_ID="STD-Anderson-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Nasal mask versus Nasal pillows</NAME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Percentage of days used (%)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Nasal pillows</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours nasal mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal pillow</GRAPH_LABEL_2>
+<EFFECT_MEASURE>%</EFFECT_MEASURE>
+<IV_DATA CI_END="15.179123429727142" CI_START="1.62087657027286" EFFECT_SIZE="8.4" ESTIMABLE="YES" ESTIMATE="8.4" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="9" SE="3.4588" STUDY_ID="STD-Massie-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Apnoea-hypopnoea index (events/hour)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Nasal pillows</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours nasal pillow</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>events/hour</EFFECT_MEASURE>
+<IV_DATA CI_END="32.211778891958794" CI_START="-25.81177889195879" EFFECT_SIZE="3.2" ESTIMABLE="YES" ESTIMATE="3.2" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="10" SE="14.8022" STUDY_ID="STD-Massie-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.03" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Satisfaction with mask (mm visual analogue scale)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Nasal pillow</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours nasal mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal pillow</GRAPH_LABEL_2>
+<EFFECT_MEASURE>mm VAS</EFFECT_MEASURE>
+<IV_DATA CI_END="34.09297778461213" CI_START="9.907022215387865" EFFECT_SIZE="22.0" ESTIMABLE="YES" ESTIMATE="22.0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="11" SE="6.17" STUDY_ID="STD-Massie-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Epworth Sleepiness Scale</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Nasal pillows</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours nasal mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal pillow</GRAPH_LABEL_2>
+<EFFECT_MEASURE>mean difference</EFFECT_MEASURE>
+<IV_DATA CI_END="5.320727416374718" CI_START="-4.320727416374718" EFFECT_SIZE="0.5" ESTIMABLE="YES" ESTIMATE="0.5" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="12" SE="2.4596" STUDY_ID="STD-Massie-2003" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Nasal mask versus Face mask</NAME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Compliance (hours/night)</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Face mask</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours face mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>hours/night</EFFECT_MEASURE>
+<IV_DATA CI_END="1.7034310740514256" CI_START="0.29656892594857454" EFFECT_SIZE="1.0" ESTIMABLE="YES" ESTIMATE="1.0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="13" SE="0.3589" STUDY_ID="STD-Mortimore-1998" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-003.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="NO" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Epworth Sleepiness Scale</NAME>
+<GROUP_LABEL_1>Nasal mask</GROUP_LABEL_1>
+<GROUP_LABEL_2>Face mask</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours face mask</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours nasal mask</GRAPH_LABEL_2>
+<EFFECT_MEASURE>mean difference</EFFECT_MEASURE>
+<IV_DATA CI_END="2.6962078565532526" CI_START="0.5037921434467476" EFFECT_SIZE="1.6" ESTIMABLE="YES" ESTIMATE="1.6" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="14" SE="0.5593" STUDY_ID="STD-Mortimore-1998" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2009-01-12 09:58:59 +0000" MODIFIED_BY="Toby J Lasserson">
+<FIGURE FILENAME="Risk of bias summary.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2009-01-12 09:58:59 +0000" MODIFIED_BY="Toby J Lasserson" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_TABLE_PLOT">
+<CAPTION>
+<P>Methodological quality summary: review authors' judgements about each methodological quality item for each included study.</P>
+</CAPTION>
+<FILE>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
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2009-01-09 16:29:35 +0000" MODIFIED_BY="[Empty name]">
+<APPENDIX ID="APP-01" MODIFIED="2009-01-09 16:29:35 +0000" MODIFIED_BY="[Empty name]" NO="1">
+<TITLE MODIFIED="2009-01-09 16:26:02 +0000" MODIFIED_BY="[Empty name]">Search strategy for CENTRAL</TITLE>
+<APPENDIX_BODY MODIFIED="2009-01-09 16:29:35 +0000" MODIFIED_BY="[Empty name]">
+<P>#1. SLEEP APNEA, OBSTRUCTIVE (MeSH)<BR/>#2. sleep near apn*<BR/>#3. OSA or OSAHS<BR/>#4. #1 or #2 or #3<BR/>#5. ncpap or cpap or apap or auto-cpap<BR/>#6. positive near airway* near pressure*<BR/>#7. #5 or #6<BR/>#8. interface* or mask*<BR/>#9. total face mask* or whole face mask* or full face mask* or nasal mask* or nasal pillow* or nasal prong* or oral mask* or oracle<BR/>#10. #8 or #9<BR/>#11. #4 or #7<BR/>#12. #10 and #11</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

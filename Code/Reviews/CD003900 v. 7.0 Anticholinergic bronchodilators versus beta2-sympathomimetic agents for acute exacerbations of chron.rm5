@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003900" GROUP_ID="AIRWAYS" ID="630899122013335919" MERGED_FROM="" MODIFIED="2008-06-30 14:57:40 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.1&lt;/p&gt;&lt;p&gt;Technical Editing by CJC: - 18 Jan 2002&lt;/p&gt;&lt;p&gt;Authors and contributions: - Contributions of each author need to be added please.&lt;/p&gt;&lt;p&gt;References: - One typo corrected but otherwise fine. &lt;/p&gt;&lt;p&gt;Table of included studies: - EXCELLENT but readers may not understand SPPG so please expand or explain this and CrOv in the notes below.&lt;/p&gt;&lt;p&gt;Metaview Labels: - I have re-entered the data without the negative signs and reversed the labels on the Metaview graphs as the group policy is now to enter real values for lung function and show that treatment is better to the right. The results in the text have been altered to match this, and the erroneous reference to an Odds Ratio changed to WMD. I have also changed the default statistic to use a fixed method as there are few studies and no statistical heterogeneity.&lt;/p&gt;&lt;p&gt;Text of the review: - Methods of the review. As far as I can see from the table of included studies you have analysed Karpel using first arm data as if it was a parallel trial. This seems very reasonable in view of the possibility of carry-over. I am unclear how you used the paired t-test data from the Lloberes study and whether again you used first arm data. Could you clarify how cross-overs were handled please?&lt;br&gt;Methodological quality of included studies: &amp;quot;All but one of the studies (Lloberes) was randomized.&amp;quot; As it stands this is confusing as non-RCTs were excluded. Could this be explained in the text (as you do in the table of included studies please).&lt;br&gt;Discussion: &amp;quot;Also, two studies reported variances only for pre-and post-treatment scores, rather than the observed pre-post changes. We then had to estimate the variance of changes with the sum of the pre- and post-treatment variances, which overestimates the true variance and decreases the power of our analysis.&amp;quot; Good point - please insert links to show which these two studies were.&lt;br&gt;Is it worth putting in the text the admission to hospital data and making a comparison table for this data as most of the studies are in ED and this is an important outcome for patients?&lt;/p&gt;&lt;p&gt;Synopsis:- At present this uses too many technical terms which will not be understood by consumers. This needs a re-write please (eg Dyspnoea could be replaced with shortness of breath) and made short and simple. The question being addressed, number of studies and bottom line results ( no significant difference between types of drug or addition of anticholinergics, as in the current final sentence.) I think results and CIs can be put in the abstract and are not appropriate here.&lt;/p&gt;&lt;p&gt;I have had a stab at this but you may wish to re-write yourselves, perhaps with the help of a consumer?&lt;/p&gt;&lt;p&gt;Author reply pasted in here on 15/3/2&lt;br&gt;Dear Chris:&lt;/p&gt;&lt;p&gt;Thank you for taking the time to read our review. Your comments were very helpful. I have made some of the changes you suggested. Attached is an edited review for your final approval. Her is a check list of what/where to look for changes.&lt;/p&gt;&lt;p&gt;1. Table of included studies - I put the explanation of abbreviations in the notes section of the table. VERY CLEAR, THANKS&lt;/p&gt;&lt;p&gt;2. Methods of review - The information of how the cross over stidies were handled is actually under the statistical considerations heading. I did expand on this point a little and commented on the paired t-test. It was not a factor in our analysis. FINE&lt;/p&gt;&lt;p&gt;3. Medologiacl quality - The method of enrollment is included in this section. Because the patients were blinded, I felt that the data was less likely to be biased. I REMAIN CONFUSED AS TO WHETHER LLOBERES WAS RANDOMISED OR NOT. THE INCLUDED STUDIES TABLE SUGGESTS THAT IT MAY HAVE BEEN IN WHICH CASE PLEASE REMOVE THE SENTENCE THAT ALL BUT ONE STUDY WAS RANDOMISED???? IF NOT AN RCT IT SHOULD HAVE BEEN EXCLUDED?&lt;/p&gt;&lt;p&gt;4. Discussion - links were made GREAT&lt;/p&gt;&lt;p&gt;5. Synopsis - totally rewritten. I await your comments on this version MUCH MORE USER FRIENDLY&lt;/p&gt;&lt;p&gt;I did not put admission data in the review because only 1 study included actual numbers (Karpel) and they were statistically insignificant. The other ED studies confirm that the admissions were small in number and not significant for quantification by them. UNDERSTOOD.&lt;/p&gt;&lt;p&gt;Let know what you think of the changes. &lt;/p&gt;&lt;p&gt;[Brown, Cynthia D] &lt;br&gt;23/3/2002 &lt;br&gt;Chris: &lt;/p&gt;&lt;p&gt;I have reread the review and revised the statement I made about Lloberes in methodological quality of studies. Please read and if it works, then it is okay for sending on for publication. Thanks for all your input.&lt;/p&gt;&lt;p&gt;Cynthia&lt;/p&gt;&lt;p&gt;23/3/2002 discussed with Paul - problems in relation to randomisation for Looberes and the fact that Myoaddi is an in-patient study. He will look in to this and get back to Cynthia.&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2008-06-30 13:56:11 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" REVIEW_NO="ACBR-COP" REVMAN_SUB_VERSION="5.0.13" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2008-06-30 14:57:40 +0200" MODIFIED_BY="Toby Lasserson">
+<TITLE>Anticholinergic bronchodilators versus beta2-sympathomimetic agents for acute exacerbations of chronic obstructive pulmonary disease</TITLE>
+<CONTACT MODIFIED="2008-06-30 14:57:40 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="6867" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Douglas</FIRST_NAME><MIDDLE_INITIALS>C</MIDDLE_INITIALS><LAST_NAME>McCrory</LAST_NAME><SUFFIX>MD, MHS</SUFFIX><POSITION>Associate Professor of Medicine</POSITION><EMAIL_1>mccro002@mc.duke.edu</EMAIL_1><URL>www.clinpol.mc.duke.edu</URL><ADDRESS><DEPARTMENT>Center for Clinical Health Policy Research</DEPARTMENT><ORGANISATION>Duke University</ORGANISATION><ADDRESS_1>2200 W. Main Street, Suite 220</ADDRESS_1><CITY>Durham</CITY><ZIP>27705</ZIP><REGION>NC</REGION><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>+1 919 286 9225</PHONE_1><PHONE_2>+1 919 286 3399</PHONE_2><FAX_1>+1 919 286 5601</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2008-06-30 14:57:40 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="6867" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Douglas</FIRST_NAME><MIDDLE_INITIALS>C</MIDDLE_INITIALS><LAST_NAME>McCrory</LAST_NAME><SUFFIX>MD, MHS</SUFFIX><POSITION>Associate Professor of Medicine</POSITION><EMAIL_1>mccro002@mc.duke.edu</EMAIL_1><URL>www.clinpol.mc.duke.edu</URL><ADDRESS><DEPARTMENT>Center for Clinical Health Policy Research</DEPARTMENT><ORGANISATION>Duke University</ORGANISATION><ADDRESS_1>2200 W. Main Street, Suite 220</ADDRESS_1><CITY>Durham</CITY><ZIP>27705</ZIP><REGION>NC</REGION><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>+1 919 286 9225</PHONE_1><PHONE_2>+1 919 286 3399</PHONE_2><FAX_1>+1 919 286 5601</FAX_1></ADDRESS></PERSON><PERSON ID="12392" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Cynthia</FIRST_NAME><MIDDLE_INITIALS>D</MIDDLE_INITIALS><LAST_NAME>Brown</LAST_NAME><SUFFIX>MD</SUFFIX><POSITION>Assistant Professor</POSITION><EMAIL_1>cdbrownmd@yahoo.com</EMAIL_1><ADDRESS><DEPARTMENT>Section of Pulmonary &amp; Critical Care Medicine</DEPARTMENT><ORGANISATION>Brody School of Medicine</ORGANISATION><ADDRESS_1>Room E-149B, Brody Medical Science Building</ADDRESS_1><ADDRESS_2>600 Moye Blvd</ADDRESS_2><CITY>Greenville</CITY><ZIP>27858</ZIP><REGION>North Carolina</REGION><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>252-744-2007</PHONE_1><PHONE_2>252-744-4653</PHONE_2><FAX_1>252-744-4887</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-06-30 14:57:40 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Minor update: 30/01/03&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 04/10/05&lt;/p&gt;&lt;p&gt;Feedback added: 15/01/03&lt;/p&gt;&lt;p&gt;Response to feedback added: 20/01/03&lt;/p&gt;">
+<UP_TO_DATE>
+<DATE DAY="4" MONTH="10" YEAR="2005"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="4" MONTH="10" YEAR="2005"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2001"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2002"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2002"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="30" MONTH="6" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="31" MONTH="8" YEAR="2002"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Agency for Health Care Policy and Research (Contract No. 290-97-0014)</NAME>
+<COUNTRY CODE="US">USA</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-06-30 13:56:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2008-06-30 13:51:26 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-06-30 13:51:26 +0100" MODIFIED_BY="Toby J Lasserson">Anticholinergic bronchodilators versus beta2-sympathomimetic agents for acute exacerbations of chronic obstructive pulmonary disease</TITLE>
+<SUMMARY_BODY>
+<P>Shortness of breath is the main complaint of persons with chronic obstructive pulmonary disease (COPD). This symptom worsens during an exacerbation or 'flare' of COPD. Trials comparing ipratropium bromide versus beta-agonists showed no significant difference in short-term or long-term effects (24 hours) on ease of breathing. Side effects of these drugs were reported by only a minority of patients and include dry mouth and tremor, and a 'strange feeling' after drug administration.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Inhaled bronchodilators form the mainstay of treatment for acute exacerbations of COPD. Two types of agent are used routinely, either singly or in combination: anticholinergic agents and beta2-sympathomimetic agonists.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the effect of anti-cholinergic agents on lung function and dyspnea in patients with acute exacerbations of COPD, compared with placebo or short-acting beta-2 agonists.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Airways Group Specialised Register using pre-specified terms. We also searched references listed in each included trial for additional trial reports. Searches were current as of October 2005 and will be updated annually.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>We included studies if the participants were adult patients with a known diagnosis of COPD and had symptoms consistent with criteria for acute exacerbation of COPD. All randomized controlled trials that compared inhaled ipratropium bromide or oxitropium bromide to appropriate controls were considered. Appropriate control treatments included placebo, other bronchodilating agents, or combination therapies. Studies of acute asthma or ventilated patients were excluded.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two reviewers assessed all trials that appeared to be relevant who independently selected trials for inclusion. Differences were resolved by consensus.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Four trials compared the short-term effects of ipratropium bromide versus a beta2-agonist. Short-term changes in FEV1 (up to 90 minutes) showed no significant difference between beta2-agonist and ipratropium bromide treated patients. The differences were similar among the studies and when combined: Weighted Mean Difference (WMD) 0.0 liters (95% Confidence Interval (95% CI) -0.19 to 0.19). There was no significant additional increase in change in FEV1 on adding ipratropium to beta2-agonist: WMD 0.02 liter (95% CI -0.08 to 0.12). Long-term effects (24 hours) of the ipratropium bromide and beta2-agonist treatment combination were similar: WMD 0.05 liters (95% CI -0.14 to 0.05). </P>
+<P>Neither of two studies found significant changes in PaO2, either short- or long-term, with ipratropium versus beta-agonist, although one showed an increase in PaO2 in subjects receiving ipratropium bromide at 60 minutes. Adverse drug reactions included dry mouth and tremor.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>There was no evidence that the degree of bronchodilation achieved with ipratropium bromide was greater than that using a short-acting beta2-agonist. The combination of a beta2-agonist and ipratropium did not appear to increase the effect on FEV1 more than either used alone.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-06-30 13:56:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND>
+<P>Dyspnea secondary to airflow limitation is the main complaint of persons with chronic obstructive pulmonary disease (COPD). The cause of chronic airflow limitation is a combination of the accumulation of mucous in the airways and hypertrophy/constriction of bronchial smooth muscle. Additionally, inflammatory cells infiltrate the airways and contribute to mucous secretion and airway edema. Mucous accumulation in COPD is due to the increased number and size of mucous glands and goblet cells in the airway wall. These cell types are stimulated to increase the production and release of mucous through mediators of inflammation. Smooth muscles surround the bronchi; when they are stimulated, their contraction causes physical narrowing of the airways. Hypertrophy of the smooth muscle further decreases the diameter of the effective airway. Control of these functions (or dysfunction) is the central airway muscarinic receptor. It is here that the mediators bind and create the narrowed/obstructed airway. </P>
+<P>The natural history of moderate to severe COPD is punctuated by acute exacerbations, in which worsening symptoms of dyspnea and an increase in amount or purulence of sputum may be accompanied by chest discomfort, fever, and other constitutional symptoms. The increasing dyspnea of acute exacerbations is due to an increase in mucous production, inflammation and broncho-constriction, leading to further compromising of airflow limitation. Acute exacerbations are often the reason that those with mild disease seek medical care. Treatment is often multifaceted, with antibiotics, corticosteroids and bronchodilators.</P>
+<P>Anti-cholinergic receptor blockers act by preventing the stimulation of muscarinic receptors. By blocking the activity of the receptor, the level of bronchoconstriction and mucous production is lessened. This review will evaluate the evidence for using anti-cholinergic medications to achieve relief of dyspnea during COPD exacerbations. Currently available inhaled anticholinergic bronchodilators include ipratropium, oxitropium and tiotropium bromide (only ipratropium bromide is available in the US at this time).</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To describe and assess the effect of anti-cholinergic agents such as ipratropium and oxitropium bromide, administered by inhalation, on ventilatory function and dyspnea in patients with acute exacerbation of COPD.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-06-30 13:55:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>All randomized controlled trials comparing inhaled ipratropium bromide. oxitropium bromide or tiotropium bromide with appropriate control where other co-interventions are standardized. Studies of acute asthma were excluded. Appropriate control treatments include placebo, other bronchodilating agents, or combination therapies.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Studies were included if the participants are adult patients with a known diagnosis of COPD and have symptoms of acute exacerbation increased shortness of breath, increased sputum production, or sputum purulence consistent with criteria for defining/diagnosing acute exacerbation of COPD (<LINK REF="REF-Anthonisen-1987" TYPE="REFERENCE">Anthonisen 1987</LINK>, <LINK REF="REF-Murphy-1992" TYPE="REFERENCE">Murphy 1992</LINK>).</P>
+<P>Studies of patients receiving ventilatory assistance were excluded. We assumed that most cases of exacerbation were due to infection, but did not limit the target population to this suspected etiology. We expected that patients with acute exacerbations of COPD could have various co-morbidities (such as congestive heart failure or pulmonary embolus) or complications of COPD (e.g. pneumothorax) as the etiology of exacerbation of their symptoms. We required that studies in some way assured that patients with other reasons for these symptoms were not studied.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Any studies employing ipratropium or oxitropium bromide administered by inhalation via nebulizer, or metered dose inhaler.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>Outcome measures included:<BR/>(1) Lung function measurements, forced expiratory volume in 1 second (FEV1), forced vital capacity (FVC) or peak expiratory flow rate (PEFR)<BR/>(2) Arterial blood gas measurements<BR/>(3) Symptom scores<BR/>The above short term outcomes will be assessed as post-treatment data or change from pre- to post-treatment in two time frames - within 90 minutes and greater than one day.</P>
+<P>Outcomes also to be assessed:<BR/>(4) Health status or quality of life assessments<BR/>(5) Functional capacity - timed walking tests, endurance tests<BR/>(6) Health services utilization measures, duration of hospitalization or time to emergency room discharge<BR/>(7) Hospital readmission or return to emergency room<BR/>(8) Mortality<BR/>(9) Adverse drug reactions.</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-06-30 13:51:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Trials were identified using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and CINAHL, and handsearching of respiratory journals and meeting abstracts. All records in the Specialised Register coded as 'COPD' were searched using the following terms:</P>
+<P>(Anticholinerg* and inhal*) or (ipratropium or oxitropium or tiotropium or darifenacin or rispenzipine or revatropate or bronchodilat* or atrovent or combivent)</P>
+<P>The most recent search was run in October 2005 and will be updated annually.</P>
+<P>We then searched references listed in each included trial for additional trial reports. </P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-06-30 13:55:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>
+<BR/>
+</P>
+<STUDY_SELECTION MODIFIED="2008-06-30 13:52:07 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two reviewers assessed all trials that appear to be relevant were who independently selected trials for inclusion. Differences were resolved by consensus.</P>
+</STUDY_SELECTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-06-30 13:54:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>All trials were entered and scored using the following principles:<BR/>Grade A - Double blind<BR/>Grade B - Single blind<BR/>Grade C - Obviously not blinded or not known</P>
+<P>The internal validity of individual trials was assessed using the scale devised by <LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>, which was operationalized as follows:<BR/>(1) Was the study described as randomized? (1 = yes; 0 = no)<BR/>(2) Was the method of randomization well described and adequate? (0 = not described; 1 = described and adequate; -1 = described, but not adequate)<BR/>(3) Was the study described as double-blind? (1 = yes; 0 = no)<BR/>(4) Was the method of double-blinding well described and adequate? (0 = not described; 1 = described and adequate; -1 = described, but not adequate)<BR/>(5) Was there a description of withdrawals and dropouts sufficient to determine the number of patients in each treatment group entering and completing the trial? (1 = yes; 0 = no).</P>
+<P>The external validity of the trials was described using the following features:</P>
+<P>(1) Validity of the underlying COPD diagnosis:<BR/>(a) Is COPD diagnosis based on spirometry-based criteria (e.g. ATS (<LINK REF="REF-ATS-1995" TYPE="REFERENCE">ATS 1995</LINK>) or Siafakas (<LINK REF="REF-Siafakas-1995" TYPE="REFERENCE">Siafakas 1995</LINK>))?<BR/>(b) Is the baseline stable FEV1 of study population described?</P>
+<P>(2) Validity of diagnosis of AECB (Acute exacerbation of chronic bronchitis):<BR/>Does the definition of AECB include at least two of the following: increased sputum production, increased sputum volume, and increased dyspnea?</P>
+<P>(3) Characterization of severity of AECB:<BR/>Does the study describe the severity of AECB at enrollment based upon at least two of the following domains:<BR/>(a) Mental status change<BR/>(b) Work of breathing (e.g. respiratory rate or use of accessory muscles)?<BR/>(c) Ventilatory status (e.g. FEV1 or PEFR, O2 saturation or pO2 and pCO2)?<BR/>(4) Duration of follow-up:<BR/>Is there an outcome assessment at 24 hours or longer?</P>
+</QUALITY_ASSESSMENT>
+<UNIT_OF_ANALYSIS MODIFIED="2008-06-30 13:55:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>For crossover studies, we only analyzed first arm data (before the change over). This was to prevent the possibility of effects from the previously administered drug contaminating the second set of results. <LINK REF="STD-Lloberes-1988" TYPE="STUDY">Lloberes 1988</LINK> used a paired t-test to compare the change in FEV1 seen between drugs administered in each arm of the protocols. Because we did not use information from the second arm, the paired t-tests were not of value. We utilized the raw data (actual change in FEV1 +/- a calculated standard deviation) in our analyses.</P>
+</UNIT_OF_ANALYSIS>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2008-06-30 13:53:38 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We tested the size of the treatment effects for homogeneity. If we found that the study estimates were homogeneous, they were combined using a fixed effect model.</P>
+</HETEROGENEITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-06-30 13:53:12 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We combined trials using Review Manager software. </P>
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS MODIFIED="2008-06-30 13:54:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>When significant heterogeneity was present, we made an attempt to explain the differences based on the clinical characteristics of the included studies. Clinically dissimilar studies could not be statistically combined. However, when a group of studies with heterogeneous results appeared clinically similar, we combined the study estimates using a random effects model.</P>
+<P>Planned subgroup analyses included:</P>
+<P>(1) A comparison of studies using concurrent medication vs those that did not. Such co-interventions may include beta2 agonists or other bronchodilating agents, mucus clearing therapies, or corticosteroids.<BR/>(2) A comparison of studies by severity of exacerbation of included patients or degree of airways obstruction.<BR/>(3) A comparison of studies utilizing delivery of bronchodilators by metered dose inhaler versus nebulizer.</P>
+</SUBGROUP_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-06-30 13:56:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-06-30 13:56:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<SEARCH_RESULTS MODIFIED="2008-06-30 13:56:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>A combined database of 1267 entries was created from the results of MEDLINE and COPD-RCT register literature searches. After excluding articles that focused on pediatric patients and/or asthma there were 342 entries for further evaluation. We then excluded studies in which the study population had stable COPD. Twenty-two studies were selected for full-text evaluation for inclusion in the review. Of those 22 reports, only nine were RCTs that met the criteria for inclusion (See characteristics of included/excluded studies). An updated search in October 2005 did not identify any further studies for inclusion.</P>
+<P>We identified no placebo-controlled comparisons of ipratropium bromide. Four studies permitted a direct comparison of ipratropium to an inhaled beta2-agonist (<LINK REF="STD-Backman-1985" TYPE="STUDY">Backman 1985</LINK>; <LINK REF="STD-Karpel-1990" TYPE="STUDY">Karpel 1990</LINK>; <LINK REF="STD-Lloberes-1988" TYPE="STUDY">Lloberes 1988</LINK>; <LINK REF="STD-Rebuck-1987" TYPE="STUDY">Rebuck 1987</LINK>). Five studies compared a combination of ipratropium and a short-acting beta2-agonist to use of a beta2-agonist alone (<LINK REF="STD-Lloberes-1988" TYPE="STUDY">Lloberes 1988</LINK>; <LINK REF="STD-Moayyedi-1995" TYPE="STUDY">Moayyedi 1995</LINK>; <LINK REF="STD-Patrick-1990" TYPE="STUDY">Patrick 1990</LINK>; <LINK REF="STD-O_x0027_Driscoll-1989" TYPE="STUDY">O'Driscoll 1989</LINK>; <LINK REF="STD-Rebuck-1987" TYPE="STUDY">Rebuck 1987</LINK>; <LINK REF="STD-Shretha-1991" TYPE="STUDY">Shretha 1991</LINK>). Details of these studies are given in <LINK TAG="CHARACTERISTICS_OF_INCLUDED_STUDIES" TYPE="SECTION">Characteristics of included studies</LINK>. </P>
+</SEARCH_RESULTS>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>All but one of the studies (<LINK REF="STD-Lloberes-1988" TYPE="STUDY">Lloberes 1988</LINK>) was randomized. Instead, they tested the same 13 participants on three different occasions when admitted for AECB. Each time, the subjects received drugs by a different protocol and the protocols were compared to each other. The participants were blinded as to the medications being administered. <LINK REF="STD-Rebuck-1987" TYPE="STUDY">Rebuck 1987</LINK> used a computer generated randomization schedule, while <LINK REF="STD-Cydulka-1995" TYPE="STUDY">Cydulka 1995</LINK> used a block-design scheme. <LINK REF="STD-Patrick-1990" TYPE="STUDY">Patrick 1990</LINK> used a random number sequence known only to the pharmacist dispensing the drugs. A random drawing of pieces of paper was the method employed by <LINK REF="STD-Shretha-1991" TYPE="STUDY">Shretha 1991</LINK>, while <LINK REF="STD-O_x0027_Driscoll-1989" TYPE="STUDY">O'Driscoll 1989</LINK> used the subjects year of birth to determine which drug a study enrollee would receive. In those studies that added ipratropium to a beta-agonist, placebos were used for those not randomized to the study drug (ipratropium). The remaining studies did not detail the method of randomization in their methods. </P>
+<P>Three studies were either single-blinded (<LINK REF="STD-Lloberes-1988" TYPE="STUDY">Lloberes 1988</LINK>, <LINK REF="STD-Moayyedi-1995" TYPE="STUDY">Moayyedi 1995</LINK>) or not blinded at all (<LINK REF="STD-Rebuck-1987" TYPE="STUDY">Rebuck 1987</LINK>). The remaining six studies were designed in a double-blind format. ATS criteria were utilized for the diagnosis of COPD and COPD exacerbations in almost all of the included studies. In the two studies that did not employ ATS criteria, <LINK REF="STD-Backman-1985" TYPE="STUDY">Backman 1985</LINK> used the criteria set by the British MRC and <LINK REF="STD-Rebuck-1987" TYPE="STUDY">Rebuck 1987</LINK> did not state the diagnostic criteria used in its evaluation. Severity of disease was described using FEV1 and/or PEFR at the time of entry into the study. Spirometry was overwhelmingly the outcome measurement of choice.</P>
+<P>The following parameters were used to measure efficacy: change in FEV1, PEFR, PaO2, and PaCO2. Because all the participants were admitted to hospitals for care of severe exacerbations, the participant population tended to include those patients with more severe disease (i.e. FEV1 &lt; 1 liter). There was also a lack of standardization of co-interventions in the studies. All allowed the use of additional medications, such as corticosteroids, theophylline, and antibiotics; however, use of these interventions was left to the discretion of the admitting physician.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>The most common outcome reported was FEV1. All but two studies reported short-term (up to 90 minutes) changes in FEV1. The exceptions, <LINK REF="STD-Moayyedi-1995" TYPE="STUDY">Moayyedi 1995</LINK>, and <LINK REF="STD-Patrick-1990" TYPE="STUDY">Patrick 1990</LINK>, described changes in FEV1 at 24 hours after starting treatment. Both of these studies tested the potential benefits of adding ipratropium bromide to a treatment regimen already including a beta2-agonist. </P>
+<P>Four trials compared the short-term effects of ipratropium bromide versus beta2-agonists. Short-term changes in FEV1 (up to 90 minutes) showed no significant difference between beta-agonists and ipratropium bromide treated patients. The differences were similar among the studies and when combined resulted in a Weighted Mean Difference of 0.0 liters with a 95% confidence interval range from -0.19 liters to +0.19 liters. </P>
+<P>There were five studies describing the change in FEV1 after adding ipratropium to a beta2-agonist treatment regimen. Three studies, looking at short-term effects, found no advantage to adding ipratropium to beta2-agonist treatment. The 95% confidence range for the Weighted Mean Difference in this group is -0.08 liters to 0.12 liters. Long-term effects (24 hours) of the ipratropium bromide and beta2-agonist treatment combination confirm this finding with a Weighted Mean Difference of -0.05 liters (95%CI -0.14, 0.05). </P>
+<P>The data on changes in blood gases were limited. Only two of the nine studies (<LINK REF="STD-Backman-1985" TYPE="STUDY">Backman 1985</LINK>, <LINK REF="STD-Karpel-1990" TYPE="STUDY">Karpel 1990</LINK>) reported changes in hypoxia measures. Neither found significant changes in PaO2, either short- or long-term. <LINK REF="STD-Karpel-1990" TYPE="STUDY">Karpel 1990</LINK> showed an increase in PaO2 in subjects receiving ipratropium bromide at 60 minutes. At the same time, those receiving metaproterenol showed a decrease in PaO2. However, this difference was gone after 90 minutes, when levels returned to baseline.</P>
+<P>Adverse drug reactions were reported by only a minority of the included studies (n = 4). The reaction described dry mouth and tremor (<LINK REF="STD-Karpel-1990" TYPE="STUDY">Karpel 1990</LINK>, <LINK REF="STD-Rebuck-1987" TYPE="STUDY">Rebuck 1987</LINK>), and a 'strange feeling' after drug administration (<LINK REF="STD-Backman-1985" TYPE="STUDY">Backman 1985</LINK>). <LINK REF="STD-O_x0027_Driscoll-1989" TYPE="STUDY">O'Driscoll 1989</LINK> and <LINK REF="STD-Karpel-1990" TYPE="STUDY">Karpel 1990</LINK> specifically looked at hemodynamic changes and found no differences between the treatment groups.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>There was no evidence that the degree of bronchodilation achieved with ipratropium bromide was greater than that using a short-acting beta2-agonist. The combination of a beta2-agonist and ipratropium did not appear to increase the effect on FEV1 more than either used alone. </P>
+<P>Only a few studies have been conducted in populations of patients with acute exacerbations of COPD. The studies available for this analysis describe both short- and long-term impact on ventilatory function. The analysis of these studies does not show that ipratropium bromide has a greater effect than beta2-agonists. The results showed similar effects and the combined estimate of no difference in the studies looking at short term effects of ipratropium versus beta2-agonist. Studies looking at the effects of combination treatment also found no statistically significant differences. </P>
+<P>A major limitation of this analysis is the small number of studies performed in this patient population. The few studies that met criteria for inclusion had a scarcity of subjects. Also, two studies reported variances only for pre-and post-treatment scores, rather than the observed pre-post changes (<LINK REF="STD-Karpel-1990" TYPE="STUDY">Karpel 1990</LINK>, <LINK REF="STD-Lloberes-1988" TYPE="STUDY">Lloberes 1988</LINK>). We then had to estimate the variance of changes with the sum of the pre- and post-treatment variances, which overestimates the true variance and decreases the power of our analysis.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Ipratropium bromide appears to result in short-term improvement of FEV1 and PEFR. The effect was at least equivalent to beta2-agonists and combined treatment appears to be no more effective than the use of either as a single agent. In all studies, the use of a bronchodilator improved FEV1 and PEFR. Symptomatic benefits were not assessed.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Few studies of bronchodilating drugs have been performed in populations with acute exacerbation of COPD. Most studies included one or more additional medications, usually a corticosteroid, an antibiotic, or both, which may confound the results. In order to determine the true effect of anti-cholinergic drugs on the short and long term outcomes of patients with acute exacerbations of COPD, we would ideally conduct a large, multi-center RCT with strict control of co-interventions . Studies should measure both the objective changes (i.e. FEV1, PEFR, PaO2) and the more subjective patient-oriented outcomes such as quality of life, dyspoena, symptom scores. This may not be possible because of ethical constraints in trying to perform research on therapies that have already become a part of standard and accepted patient care.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to acknowledge the following persons, without whom this project would not be possible: Ms. Karen Blackhall for obtaining all articles reviewed for this analysis; Dr. John White for his editing skills, and Mr. Steve Milan for his patience. Thanks also to Kirsty Olsen who has copy edited this review.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>DM: Collection of articles, writing/editing of review. CB: Collection of articles, writing/editing of review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Backman-1985" NAME="Backman 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Backman R, Hellstrom PE</AU>
+<TI>Fenoterol and ipratropium in respiratory treatment of patients with chronic bronchitis</TI>
+<SO>Current Therapeutic Research, Clinical and Experimental</SO>
+<YR>1985</YR>
+<VL>38</VL>
+<NO>1</NO>
+<PG>135-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cydulka-1995" NAME="Cydulka 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;1. Cydulka RK, Emerman CL. Effects of combined treatment with glycopyrrolate and albuterol in acute exacerbation of chronic obstructive pulmonary disease. Ann Emerg Med 1995; 25(4):470-3.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Cydulka RK, Emerman CL</AU>
+<TI>Effects of combined treatment with glycopyrrolate and albuterol in acute exacerbation of chronic obstructive pulmonary disease</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>1995</YR>
+<VL>25</VL>
+<NO>4</NO>
+<PG>470-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Karpel-1990" NAME="Karpel 1990" YEAR="1990">
+<REFERENCE NOTES="&lt;p&gt;2. Karpel JP, Pesin J, Greenberg D, Gentry E. A comparison of the effects of ipratropium bromide and metaproterenol sulfate in acute exacerbations of COPD. Chest 1990; 98(4):835-9.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Karpel JP, Pesin J, Greenberg D, Gentry E</AU>
+<TI>A comparison of the effects of ipratropium bromide and metaproterenol sulfate in acute exacerbations of COPD</TI>
+<SO>Chest</SO>
+<YR>1990</YR>
+<VL>98</VL>
+<NO>4</NO>
+<PG>835-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lloberes-1988" NAME="Lloberes 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lloberes P, Ramis L, Montserrat JM, Serra J, Campistol J, Picado C, et al</AU>
+<TI>Effect of three different bronchodilators during an exacerbation of chronic obstructive pulmonary disease</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1988</YR>
+<VL>1</VL>
+<PG>536-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Moayyedi-1995" NAME="Moayyedi 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;3. Moayyedi P, Congleton J, Page RL, Pearson SB, Muers MF. Comparison of nebulised salbutamol and ipratropium bromide with salbutamol alone in the treatment of chronic obstructive pulmonary disease. Thorax 1995; 50(8):834-7.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Moayyedi P, Congleton J, Page RL, Pearson SB, Muers MF</AU>
+<TI>Comparison of nebulised salbutamol and ipratropium bromide with salbutamol alone in the treatment of chronic obstructive pulmonary disease</TI>
+<SO>Thorax</SO>
+<YR>1995</YR>
+<VL>50</VL>
+<NO>8</NO>
+<PG>834-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-O_x0027_Driscoll-1989" NAME="O'Driscoll 1989" YEAR="1989">
+<REFERENCE NOTES="&lt;p&gt;O'Driscoll BR. Taylor RJ. Horsley MG. Chambers DK. Bernstein A. Nebulised salbutamol with and without ipratropium bromide in acute airflow&lt;br&gt;obstruction. [see comments.]. [Clinical Trial. Journal Article. Randomized Controlled Trial] Lancet. 1(8652):1418-20, 1989 Jun 24. &lt;br&gt;UI: 2567431&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>O'Driscoll BR, Taylor RJ, Horsley MG, Chambers DK, Bernstein A</AU>
+<TI>Nebulized salbutamol with and without ipratropium bromide in acute airflow obstruction</TI>
+<SO>Lancet</SO>
+<YR>1989</YR>
+<VL>1</VL>
+<NO>8652</NO>
+<PG>1418-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Patrick-1990" NAME="Patrick 1990" YEAR="1990">
+<REFERENCE NOTES="&lt;p&gt;4. Patrick DM, Dales RE, Stark RM, Laliberte G, Dickinson G. Severe exacerbations of COPD and asthma. Incremental benefit of adding ipratropium to usual therapy. Chest 1990; 98(2):295-7.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Patrick DM, Dales RE, Stark RM, Laliberte G, Dickinson G</AU>
+<TI>Severe exacerbations of COPD and asthma. Incremental benefit of adding ipratropium to usual therapy</TI>
+<SO>Chest</SO>
+<YR>1990</YR>
+<VL>98</VL>
+<NO>2</NO>
+<PG>295-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rebuck-1987" NAME="Rebuck 1987" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rebuck AS, Chapman KR, Abboud R, Pare PD, et al</AU>
+<TI>Nebulized anticholinergic and sympathomimetic treatment of asthma and chronic obstructive airways disease in the emergency room</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>1987</YR>
+<VL>82</VL>
+<PG>59-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shretha-1991" NAME="Shretha 1991" YEAR="1991">
+<REFERENCE NOTES="&lt;p&gt;5. Shrestha M, O'Brien T, Haddox R, Gourlay HS, Reed G. Decreased duration of emergency department treatment of chronic obstructive pulmonary disease exacerbations with the addition of ipratropium bromide to beta-agonist therapy. Ann Emerg Med 1991; 20(11):1206-9.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Shrestha M, O'Brien T, Haddox R, Gourlay HS, Reed G</AU>
+<TI>Decreased duration of emergency department treatment of chronic obstructive pulmonary disease exacerbations with the addition of ipratropium bromide to beta-agonist therapy</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>1991</YR>
+<VL>20</VL>
+<NO>11</NO>
+<PG>1206-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Alabaster-1997" NAME="Alabaster 1997" YEAR="1997">
+<REFERENCE NOTES="&lt;p&gt;1. Alabaster VA. Discovery and development of selective M3 antagonists for clinical use. Life Sciences. Vol 60(13-14) (Pp 1053-1060), 1997 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Alabaster VA</AU>
+<TI>Discovery and development of selective M3 antagonists for clinical use</TI>
+<SO>Life Sciences</SO>
+<YR>1997</YR>
+<VL>Vol 60</VL>
+<NO>13-14</NO>
+<PG>1053-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anonymous-1992" NAME="Anonymous 1992" YEAR="">
+<REFERENCE NOTES="&lt;p&gt;2. Anonymous. Bronchodilation for COPD? Emergency Medicine 1992; 24(11):62.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Anonymous</AU>
+<TI>Bronchodilation for COPD?</TI>
+<SO>Emergency Medicine</SO>
+<YR>1992</YR>
+<VL>24</VL>
+<NO>11</NO>
+<PG>62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anonymous-1997a" NAME="Anonymous 1997a" YEAR="">
+<REFERENCE NOTES="&lt;p&gt;3. Anonymous. Combivent. Hospital Formulary. Vol 32(2) (Pp 119), 1997 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Anonymous</AU>
+<TI>Combivent</TI>
+<SO>Hospital Formulary</SO>
+<YR>1997</YR>
+<VL>32</VL>
+<NO>2</NO>
+<PG>119</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anonymous-1997b" NAME="Anonymous 1997b" YEAR="1997">
+<REFERENCE NOTES="&lt;p&gt;4. Anonymous. Routine nebulized ipratropium and albuterol together are better than either alone in COPD. The COMBIVENT Inhalation Solution Study Group. Chest 1997; 112(6):1514-21.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Anonymous</AU>
+<TI>Routine nebulized ipratropium and albuterol together are better than either alone in COPD. The COMBIVENT Inhalation Solution Study Group</TI>
+<SO>Chest</SO>
+<YR>1997</YR>
+<VL>112</VL>
+<NO>6</NO>
+<PG>1514-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anzueto-2004" NAME="Anzueto 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Anzueto A, Kesten S</AU>
+<TI>Effects of tiotropium in COPD patients only treated with PRN albuterol [Abstract]</TI>
+<SO>American Thoracic Society 100th International Conference, May 21-26, Orlando</SO>
+<YR>2004</YR>
+<PG>C47, Poster F81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Arsokski-2004" NAME="Arsokski 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Arsovki Z, Dokic D, Boskovska M, Goseva Z, Kaeva B, Gliugorovski L, et al</AU>
+<TI>The effect of combined B2-agonist and anticholinergic inhaled therapy in patients with COPD [Abstract]</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2004</YR>
+<VL>24</VL>
+<NO>Suppl 48</NO>
+<PG>341s</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Balkinssoon-2005" NAME="Balkinssoon 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Balkinssoon RC, Murphy JR, Make B</AU>
+<TI>Safety and efficacy of albuterol vs aulbuterol/ipratropium bromide in COPD subjects on fluticasone/salmeterol 500/50 [Abstract]</TI>
+<SO>American Thoracic Society 2005 International Conference; May 20-25; San Diego, California</SO>
+<YR>2005</YR>
+<PG>Poster F8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bleecker-1991" NAME="Bleecker 1991" YEAR="1991">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Bleecker ER, Britt EJ</AU>
+<TI>Acute bronchodilating effects of ipratropium bromide and theophylline in chronic obstructive pulmonary disease</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>1991</YR>
+<VL>91</VL>
+<NO>4A</NO>
+<PG>24A-27S</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="92059092"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Blosser-1995" NAME="Blosser 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;5. Blosser SA, Maxwell SL, Reeves-Hoche MK, Localio AR, Zwillich CW. Is an anticholinergic agent superior to a beta2-agonist in improving dyspnea and exercise limitation in COPD? Chest: the Cardiopulmonary Journal 1995; 108(3):730-5.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Blosser SA, Maxwell SL, Reeves-Hoche MK, Localio AR, Zwillich CW</AU>
+<TI>Is an anticholinergic agent superior to a beta2-agonist in improving dyspnea and exercise limitation in COPD?</TI>
+<SO>Chest</SO>
+<YR>1995</YR>
+<VL>108</VL>
+<NO>3</NO>
+<PG>730-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Celikel-2004" NAME="Celikel 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Celikel S, Yilmaz A, Seyfikli Z, Etikan I</AU>
+<TI>Evaluation of bronchodiltor response to single dose tiotropium bromide [Abstract]</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2004</YR>
+<VL>24</VL>
+<NO>Suppl 48</NO>
+<PG>504s</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chapman-1990" NAME="Chapman 1990" YEAR="1990">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Chapman KR</AU>
+<TI>The role of anticholinergic bronchodilators in adult asthma and chronic obstructive pulmonary disease</TI>
+<SO>Lung</SO>
+<YR>1990</YR>
+<VL>168</VL>
+<NO>Suppl</NO>
+<PG>295-303</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="90348303"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-de-Guia--2004" NAME="de Guia  2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>de Guia T, Punzal P, Canizares L, Sy-Naval S, Salonga R, Tan D, et al</AU>
+<TI>Evaluation of the response of Filipino COPD patients to Tiotropium (EVEREST STUDY) [Abstract]</TI>
+<SO>American Thoracic Society 100th International Conference, May 21-26; Orlando</SO>
+<YR>2004</YR>
+<PG>Poster F78</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dejaegher-1984" NAME="Dejaegher 1984" YEAR="1984">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Dejaegher P, Demedts M, Rochette F, Van der Veken J</AU>
+<TI>Effects of 40 mcg. and 400 mcg. of ipratropium bromide in obstructive lung disease</TI>
+<SO>Acta Clinica Belgica</SO>
+<YR>1984</YR>
+<VL>39</VL>
+<NO>3</NO>
+<PG>136-40</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="85019143"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Disse-1999" NAME="Disse 1999" YEAR="1999">
+<REFERENCE NOTES="&lt;p&gt;6. Disse B, Speck GA, Rominger KL, Witek TJ Jr, Hammer R. Tiotropium (spiriva(TM)): Mechanistical considerations and clinical profile in obstructive lung disease. Life Sciences. Vol 64(6-7) (Pp 457-464), 1999 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Disse B, Speck GA, Rominger KL, Witek TJ Jr, Hammer R</AU>
+<TI>Tiotropium (spiriva(TM)): Mechanistical considerations and clinical profile in obstructive lung disease</TI>
+<SO>Life Sciences</SO>
+<YR>1999</YR>
+<VL>64</VL>
+<NO>6-7</NO>
+<PG>457-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dusser-2004" NAME="Dusser 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dusser D, Bravo ML, Iacono P, MISTRAL Study Group</AU>
+<TI>Tiotropium reduces COPD exacerbations: the MISTRAL study</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2004</YR>
+<VL>24</VL>
+<NO>Suppl 48</NO>
+<PG>513s</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dusser D, Bravo ML, Iacono P</AU>
+<TI>Tiotropium reduces health resource utilization associated with COPD exacerbations [Abstract]</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2004</YR>
+<VL>24</VL>
+<NO>Suppl 48</NO>
+<PG>513s</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fernandez-1994" NAME="Fernandez 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Fernandez A, Muñoz J, de la Calle B, Alia I, Ezpeleta A, de la Cal MA, et al</AU>
+<TI>Comparison of one versus two bronchodilators in ventilated COPD patients</TI>
+<SO>Intensive Care Medicine</SO>
+<YR>1994</YR>
+<VL>20</VL>
+<PG>199-202</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="94284401"/>
+<IDENTIFIER TYPE="OTHER" VALUE="EMBASE 94097968"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gross-1987" NAME="Gross 1987" YEAR="1987">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Gross NJ, Bankwala Z</AU>
+<TI>Effects of an anticholinergic bronchodilator on arterial blood gases of hypoxemic patients with chronic obstructive pulmonary disease. Comparison with a beta-adrenergic agent</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1987</YR>
+<VL>136</VL>
+<NO>5</NO>
+<PG>1091-4</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="88047665"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ikeda-1998" NAME="Ikeda 1998" YEAR="">
+<REFERENCE NOTES="&lt;p&gt;7. Ikeda A, Nishimura K, Izumi T. Pharmacological treatment in acute exacerbations of chronic obstructive pulmonary disease. Drugs &amp;amp; Aging. Vol 12(2) (Pp 129-137), 1998 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Ikeda A, Nishimura K, Izumi T</AU>
+<TI>Pharmacological treatment in acute exacerbations of chronic obstructive pulmonary disease</TI>
+<SO>Drugs &amp; Aging</SO>
+<YR>1998</YR>
+<VL>12</VL>
+<NO>2</NO>
+<PG>129-37</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kalberg-2004" NAME="Kalberg 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Kalberg C, Emmett A, Bourne E, Merchant K, Knobil K</AU>
+<TI>Fluticasone propionate/salmeterol provides greater relief of dyspnea than Ipratropium/Albuterol in patients with COPD [Abstract]</TI>
+<SO>American Thoracic Society 100th International Conference, May 21-26; Orlando</SO>
+<YR>2004</YR>
+<PG>Poster 528</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Limauro-1995" NAME="Limauro 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Limauro J, Mahler DA, Olmstead EM, Tosteson ANA</AU>
+<TI>Responses to inhaled bronchodilator in patients with acute airflow obstruction</TI>
+<SO>Respiratory Care</SO>
+<YR>1995</YR>
+<VL>40</VL>
+<NO>8</NO>
+<PG>815-9</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="EMBASE 1995258156"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lode-1999" NAME="Lode 1999" YEAR="">
+<REFERENCE NOTES="&lt;p&gt;8. Lode H. [Inhalational anticholinergic versus inhaled beta-mimetic drugs in COPD]. [German]. Internist 1999; 40(1):114.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Lode H</AU>
+<TI>Inhalational anticholinergic versus inhaled beta-mimetic drugs in COPD</TI>
+<SO>Internist</SO>
+<YR>1999</YR>
+<VL>40</VL>
+<NO>1</NO>
+<PG>114</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Madison-1998" NAME="Madison 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Madison JM, Irwin RS</AU>
+<TI>Chronic obstructive pulmonary disease</TI>
+<SO>Lancet</SO>
+<YR>1998</YR>
+<VL>352</VL>
+<NO>9126</NO>
+<PG>467-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Matera-1996" NAME="Matera 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;9. Matera MG, Caputi M, Cazzola M. A combination with clinical recommended dosages of salmeterol and ipratropium is not more effective than salmeterol alone in patients with chronic obstructive pulmonary disease. Respiratory Medicine. Vol 90(8) (Pp 497-499), 1996 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Matera MG, Caputi M, Cazzola M</AU>
+<TI>A combination with clinical recommended dosages of salmeterol and ipratropium is not more effective than salmeterol alone in patients with chronic obstructive pulmonary disease</TI>
+<SO>Respiratory Medicine</SO>
+<YR>1996</YR>
+<VL>90</VL>
+<NO>8</NO>
+<PG>497-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Miravitlles-1999a" NAME="Miravitlles 1999a" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Miravitlles M, Murio C, Guerrero T, Segu JL</AU>
+<TI>Treatment of chronic bronchitis and chronic pulmonary obstructive disease in primary care</TI>
+<SO>Archivos de bronchopneumologia</SO>
+<YR>1999</YR>
+<VL>35</VL>
+<NO>4</NO>
+<PG>173-8</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="99260797"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Miravitlles-1999b" NAME="Miravitlles 1999b" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Miravitlles M, Mayordomo C, Artes M, Sanchez-Agudo L, Nicolau F, Segu JL</AU>
+<TI>Treatment of chronic obstructive pulmonary disease and its exacerbations in general practice. EOLO Group</TI>
+<SO>Respiratory Medicine</SO>
+<YR>1999</YR>
+<VL>93</VL>
+<NO>3</NO>
+<PG>173-9</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="99394140"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Musil-1998a" NAME="Musil 1998a" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Musil J, Hirsch V, Vondra V, Reisova M</AU>
+<TI>Dosage of drugs in combined nebulisation therapy of patients with chronic obstructive pulmonary disease (COPD)</TI>
+<SO>Studia Pneumologica et Phtiseologica</SO>
+<YR>1998</YR>
+<VL>57</VL>
+<NO>6</NO>
+<PG>257-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Musil-1998b" NAME="Musil 1998b" YEAR="1998">
+<REFERENCE NOTES="&lt;p&gt;11. Musil J, Hirsch V, Vondra V, Reisova M. What is the adequate dose in combined inhalation treatment of patients with exacerbations of chronic obstructive pulmonary disease? Vnitrni Lekarstvi. Vol 44(7) (Pp 415-417), 1998 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Musil J, Hirsch V, Vondra V, Reisova M</AU>
+<TI>What is the adequate dose in combined inhalation treatment of patients with exacerbations of chronic obstructive pulmonary disease?</TI>
+<SO>Vnitrni Lekarstvi</SO>
+<YR>1998</YR>
+<VL>44</VL>
+<NO>7</NO>
+<PG>415-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nair-2005" NAME="Nair 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nair S, Thomas E, Pearson SB, Henry MT</AU>
+<TI>A randomized controlled trial to assess the optimal dose and effect of nebulized albuterol in acute exacerbations of COPD</TI>
+<SO>Chest</SO>
+<YR>2005</YR>
+<VL>128</VL>
+<NO>1</NO>
+<PG>48-54</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nakanishi-1997" NAME="Nakanishi 1997" YEAR="1997">
+<REFERENCE NOTES="&lt;p&gt;Nakanishi N, Ueda N, Kitade M, Moritaka T, Kamei T. Effects of oxitropium bromide on exercise and lung function in patients with pulmonary emphysema. Japanese Journal of Thoracic Diseases. Vol 35(1) (Pp 38-42), 1997 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Nakanishi N, Ueda N, Kitade M, Moritaka T, Kamei T</AU>
+<TI>Effects of oxitropium bromide on exercise and lung function in patients with pulmonary emphysema</TI>
+<SO>Japanese Journal of Thoracic Diseases.</SO>
+<YR>1997</YR>
+<VL>35</VL>
+<NO>1</NO>
+<PG>38-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nardini-1996" NAME="Nardini 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;13. Nardini S. Inhaled antimuscarinic agents and COPD. Monaldi Archives for Chest Disease. Vol 51(1) (Pp 52-53), 1996 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Nardini S</AU>
+<TI>Inhaled antimuscarinic agents and COPD</TI>
+<SO>Monaldi Archives for Chest Disease</SO>
+<YR>1996</YR>
+<VL>51</VL>
+<NO>1</NO>
+<PG>52-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-O_x0027_Connor-1996" NAME="O'Connor 1996" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>O'Connor BJ, Towse LJ, Barnes PJ</AU>
+<TI>Prolonged effect of tiotropium bromide on methacholine-induced bronchoconstriction in asthma</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1996</YR>
+<VL>154</VL>
+<NO>4 Pt 1</NO>
+<PG>876-80</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="97042378"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rees-1998" NAME="Rees 1998" YEAR="1998">
+<REFERENCE NOTES="&lt;p&gt;14. Rees PJ. Bronchodilators in the therapy of chronic obstructive pulmonary disease. EUR RESPIR MONOGR, Vol 3(7) (Pp 135-149), 1998 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Rees PJ</AU>
+<TI>Bronchodilators in the therapy of chronic obstructive pulmonary disease</TI>
+<SO>European Respiratory Monograph</SO>
+<YR>1998</YR>
+<VL>3</VL>
+<NO>7</NO>
+<PG>135-49</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rennard-1996" NAME="Rennard 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;Rennard SI, Serby CW, Ghafouri M, Johnson PA, Friedman M. Extended therapy with ipratropium is associated with improved lung function in patients with COPD: A retrospective analysis of data from seven clinical trials. Chest. Vol 110(1) (Pp 62-70), 1996 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Rennard SI, Serby CW, Ghafouri M, Johnson PA, Friedman M</AU>
+<TI>Extended therapy with ipratropium is associated with improved lung function in patients with COPD: A retrospective analysis of data from seven clinical trials</TI>
+<SO>Chest</SO>
+<YR>1996</YR>
+<VL>110</VL>
+<NO>1</NO>
+<PG>62-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rennard-1997" NAME="Rennard 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rennard SI</AU>
+<TI>Choice of bronchodilator therapy in chronic obstructive pulmonary disease</TI>
+<SO>Respirology</SO>
+<YR>1997</YR>
+<VL>2</VL>
+<NO>Suppl 1</NO>
+<PG>S11-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sabradillo-1997" NAME="Sabradillo 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sabradillo PV</AU>
+<TI>The outpatient and hospital use of anticholinergics in COPD</TI>
+<SO>Archivos De Bronconeumologia</SO>
+<YR>1997</YR>
+<VL>33</VL>
+<NO>Suppl 2</NO>
+<PG>34-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sawa-1997" NAME="Sawa 1997" YEAR="1997">
+<REFERENCE NOTES="&lt;p&gt;18. Sawa T, Yasuda N, Gotoh K et al. Effect of additional high dose inhalation of oxitropium bromide on respiratory function in the patients with COPD. Therapeutic Research. Vol 18(3) (Pp 389-395), 1997 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Sawa T, Yasuda N, Gotoh K et al</AU>
+<TI>Effect of additional high dose inhalation of oxitropium bromide on respiratory function in the patients with COPD</TI>
+<SO>Therapeutic Research</SO>
+<YR>1997</YR>
+<VL>18</VL>
+<NO>3</NO>
+<PG>389-95</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shioya-1996" NAME="Shioya 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;19. Shioya T, Kagaya M, Sano M, Itaba M, Shindo T, Miura M. Antimuscarinic effect of tiquizium bromide in vitro and in vivo. European Journal of Clinical Pharmacology. Vol 50(5) (Pp 375-380), 1996 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Shioya T, Kagaya M, Sano M, Itaba M, Shindo T, Miura M</AU>
+<TI>Antimuscarinic effect of tiquizium bromide in vitro and in vivo</TI>
+<SO>European Journal of Clinical Pharmacology</SO>
+<YR>1996</YR>
+<VL>50</VL>
+<NO>5</NO>
+<PG>375-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tashkin-2005" NAME="Tashkin 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Tashkin D, Celli B, Decramer M, Pauwels R, Menjoge S, Burkhart D, et al</AU>
+<TI>Bronchodilator responsiveness in COPD patients enrolled in the UPLIFT trial [Abstract]</TI>
+<SO>American Thoracic Society 2005 International Conference; May 20-25; San Diego, California</SO>
+<YR>2005</YR>
+<PG>Poster J102</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tzelepis-1996" NAME="Tzelepis 1996" YEAR="1996">
+<REFERENCE NOTES="&lt;p&gt;21. Tzelepis G, Komanapolli S, Tyler D, Vega D, Fulambarker A. Comparison of nebulized glycopyrrolate and metaproterenol in chronic obstructive pulmonary disease. European Respiratory Journal. Vol 9(1) (Pp 100-103), 1996 .&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Tzelepis G, Komanapolli S, Tyler D, Vega D, Fulambarker A</AU>
+<TI>Comparison of nebulized glycopyrrolate and metaproterenol in chronic obstructive pulmonary disease</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1996</YR>
+<VL>9</VL>
+<NO>1</NO>
+<PG>100-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Anthonisen-1987" NAME="Anthonisen 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Anthonisen NR, Manfreda J, Warren CP, Hershfield ES, Harding GK, Nelson NA</AU>
+<TI>Antibiotic therapy in exacerbations of chronic obstructive pulmonary disease</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1987</YR>
+<VL>106</VL>
+<NO>2</NO>
+<PG>196-204</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="87098280"/>
+<IDENTIFIER TYPE="OTHER" VALUE="EMBASE 87077377"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-ATS-1995" NAME="ATS 1995" TYPE="JOURNAL_ARTICLE">
+<AU>American Thoracic Society</AU>
+<TI>Standards for the diagnosis and care of patients with chronic obstructive pulmonary disease</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>1995</YR>
+<VL>152</VL>
+<NO>5 (Pt 2)</NO>
+<PG>S77-121</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="96048961"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports of randomized clinical trials: is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>1-12</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="96308458"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Murphy-1992" NAME="Murphy 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Murphy TF, Sethi S</AU>
+<TI>Bacterial infection in chronic obstructive pulmonary disease</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1992</YR>
+<VL>146</VL>
+<NO>4</NO>
+<PG>1067-83</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="93036759"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Siafakas-1995" NAME="Siafakas 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Siafakas NM, Vermeire P, Pride NB, Paoletti P, Gibson J, Howard P, et al</AU>
+<TI>Optimal assessment and management of chronic obstructive pulmonary disease (COPD). The European Respiratory Society Task Force</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1995</YR>
+<VL>8</VL>
+<NO>8</NO>
+<PG>1398-420</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="96087552"/>
+</IDENTIFIERS>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Backman-1985">
+<CHAR_METHODS>
+<P>Design: SPPG<BR/>Dates: N/S<BR/>Location: Finland<BR/>Assessment period: 7 days</P>
+<P>External validity: 2/5<BR/>COPD dx-<BR/>COPD bl-<BR/>AECB dx-<BR/>AECB sev+<BR/>Tx duration+</P>
+<P>Internal validity: 3/5<BR/>r, db, dd<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 40<BR/>Setting: Inpatient (hospital)<BR/>Inclusion (COPD): Chronic bronchitis, according to criteria of the British Medical Council [no ref given]</P>
+<P>Inclusion (AcEx): Acute exacerbation of chronic bronchitis (no diagnostic criteria given)</P>
+<P>Exclusion: N/S</P>
+<P>Smoking history: N/S</P>
+<P>Baseline stable FEV1: N/S</P>
+<P>FEV1 before treatment on day 1: Ipratropium, 0.73 ± 0.35 (SD) L; fenoterol, 0.93 ± 0.56 L (n.s.; p-value not reported)</P>
+<P>Age: Range: 48 to 77<BR/>Sex: 36 M, 4 F<BR/>Race: N/S</P>
+<P>Dropouts: 1/40 pts (2.5%), treatment group N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Experimental: Nebulized ipratropium 0.2 mg, 3x/day</P>
+<P>Control: Nebulized fenoterol 0.5 mg, 3x/day</P>
+<P>Co-interventions: Pts with signs of an acute infection (fever, pneumonic infiltration, and positive sputum bacteriology) were treated with antibiotics before the start of the trial; pts taking beta2-receptor stimulants (n = 16) stopped them at least 8 hrs before starting the trial; all pts received daily physical treatment; otherwise, pts continued their usual regimens, which included oral theophyllamine (n = 7), combination treatment with ephedrine and hydroxyzine (n = 4), prednisolone (n = 2), and no continuous treatment (n = 7)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1: Measured on the 1st and 7th day immediately before and 5, 10, 15, 30, 60, 120, and 240 min after the morning study drug administration. Investigators compared mean FEV1 scores for identical timepoints on days 1 and 7. Blood gases: Arterial PaO2 and PaCO2 measured on 1st and 7th day. Investigators analyzed change from day 1 to 7. There were no significant differences between the two treatment groups for any of the outcomes measured (no between-group p-values reported). Dropouts: 1/40 pts (2.5%), treatment group N/S</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>FEV1 improvements were small with both interventions. In the ipratropium group (n = 17), mean scores at 15 min (p &lt; 0.02) and 30 min (p &lt; 0.05) post-treatment were significantly higher on the 7th day than on the 1st; no significant differences were noted between the 1st and 7th day at 0, 5, 10, 60, 120, or 240 min. In the fenoterol group (n = 20), mean scores at 60 min post-treatment were significantly higher on the 7th day than on the 1st (p &lt; 0.05); otherwise, no significant differences were observed between the 1st and 7th day.</P>
+<P>Mean pre-treatment FEV1 scores on days 1 and 7 were:</P>
+<P>(a) Ipratropium (n = 17): Day 1, 0.73 ± 0.35 (SD) L; Day 7, 0.82 ± 0.34 L<BR/>(b) Fenoterol (n = 20): Day 1, 0.93 ± 0.56 L; Day 7, 1.02 ± 0.66 L</P>
+<P>Blood gases/oximetry: Investigators stated that there were no significant changes in PaO2 or PaCO2 from day 1 to day 7 in either group, but did not report any data.</P>
+<P>Adverse events: 1/19 pts (5%) taking ipratropium and 1/20 (5%) taking fenoterol complained of a "strange feeling"<BR/>Two pts in the ipratropium group who did not withdraw prematurely were unable to perform spirometry and so were not included in the FEV1 analysis</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Cydulka-1995">
+<CHAR_METHODS>
+<P>Design: SPPG<BR/>Dates: Feb '91 to Feb '92<BR/>Location: US<BR/>Assessment period: 3 hrs from administration of study med<BR/>External validity: 2/5<BR/>COPD dx+<BR/>COPD bl-<BR/>AECB dx-<BR/>AECB sev+<BR/>Tx duration-<BR/>Internal validity: 4/5<BR/>r+,db+, dnd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 57<BR/>Setting: Pts presenting to ED (urban teaching hospital)<BR/>Inclusion (COPD): Pts with self-reported diagnosis of COPD or histories consistent with COPD, as defined by ATS Inclusion (AcEx): Acute respiratory distress plus cough, wheezing, or both<BR/>Exclusion: Personal history of asthma; initial FEV1 readings &gt; 75% of predicted normal value; clinical or radiographic evidence of pneumothorax, pneumonia, decompensated CHF, or history of lung cancer; inability to perform spirometry; having received prehospital aerosol treatment; contraindications to study med; age &lt; 18; pregnant; nursing mothers; prisoners<BR/>Smoking history: 46 pack-yrs (n = 51 current or past smokers)<BR/>Baseline stable FEV1: N/S<BR/>FEV1 at admission: Glycopyrrolate grp, 0.89 ± 0.36 (SD) L; placebo grp, 0.93 ± 0.42 L (p = 0.05)<BR/>Age: 61.5<BR/>Sex: N/S<BR/>Race: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Experimental: Single dose of aerosolized glycopyrrolate 2 mg, administered as first aerosol<BR/>Control: Placebo<BR/>Co-interventions: Nebulized albuterol every hr for 3 aerosols; oxygen by nasal cannula</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Spirometry performed at baseline and 1 hr after first and third aerosolsFEV1: (a) Mean absolute values at baseline, 1 hr, and 3 hrs(b) Mean % change in absolute value from baseline to 1 and 3 hrs. Percentage of pts admitted to hospital Note: No. of pts in each treatment grp unclear. <BR/>FEV1: (a) No significant differences between mean pre- and post-treatment scores (± SD) for either grp: Glycopyrrolate grp, 0.89 ± 0.36 and 1.31 ± 0.61 (p = 0.11); placebo grp, 0.93 ± 0.42 and 1.09 ± 0.57 (p = 0.19). No between-grp results reported.(b) Repeated-measures analysis showed glycopyrrolate significantly better than placebo for mean % change (increase) in absolute FEV1 values from pre- to post-treatment: Glycopyrrolate grp, 56.0% ± 56.1%; placebo grp, 19.3% ± 40.9% (p &lt; 0.01).Percentage of pts admitted to hospital: Overall, 30/57 pts (53%) admitted. No significant differences between grps: Glycopyrrolate grp, 50% admitted vs. 57% in placebo grp (p = 0.05) Adverse events: Glycopyrrolate + albuterol grp (27% of pts): Dry mouth, headache, hypotension, palpitations. Albuterol-alone (placebo) grp (15% of pts): Tremors, anxiety, palpitations. Dropouts: Not described</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>FEV1 results accompanied by large SDs<BR/>Small sample size yielded low power to detect differences in AEs between grps<BR/>Within-pt analysis found difference missed by comparison of grp means</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Karpel-1990">
+<CHAR_METHODS>
+<P>Design: CrOv<BR/>Dates: N/S<BR/>Location: US<BR/>Assessment period: 90 min for each phase of crossover<BR/>External validity: 3/5<BR/>COPD dx+<BR/>COPD bl-<BR/>AECB dx+<BR/>AECB sev+<BR/>Tx duration-<BR/>Internal validity: 5/5<BR/>r+, db+, dd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 32<BR/>Setting: ED and pulmonary clinic<BR/>Inclusion (COPD): Chronic bronchitis or emphysema as defined by the ATS Committee on Diagnostic Standards for Nontuberculous Respiratory Disease (1962)<BR/>Inclusion (AcEx): Increasing dyspnea and/or change in sputum production newly occurring in previous 24 hrs; FEV1 &lt; 60% of predicted<BR/>Exclusion: Asthma; baseline pulmonary function tests which failed to show persistent airway obstruction; any acute concomitant medical problem; respiratory acidosis with pH &lt; 7.3; need for continuous oxygen therapy; need for medications other than those included in study protocol; use of inhaled b-agonist or ipratropium in previous 6 hrs<BR/>Smoking history: N/S<BR/>Baseline stable FEV1: N/S<BR/>FEV1 at admission: Ipratropium first: 0.62 ± 0.08 (SEM) L; metaproterenol first: 0.69 ± 0.06 L<BR/>Age: 61.6<BR/>Sex: N/S<BR/>Race: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Experimental: Ipratropium, single dose of 3 puffs (54 mg) administered by MDI<BR/>Control: Metaproterenol, single dose of 3 puffs (1.95 mg) administered by MDI<BR/>Co-interventions: None<BR/>Crossover design: Pts treated with one of the two study meds initially (phase 1), then crossed over to treatment with the other after 90 min (phase 2); no washout; no information on possible carry-over effect<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1: Measured at entry and at 30, 60, and 90 min after administration of study med in both phases of crossover; investigators analyzed change in mean FEV1 from 0 to 90 min in phase 1Blood gases: Recorded only for the first 20 pts randomized into the study; measured at entry and at 30, 60, and 90 min after administration of study med in phase 1 only; investigators analyzed mean changes in PaO2, PaCO2, and pH from 0 to 30 min and 0 to 90 min<BR/>Percentage of pts admitted to hospital</P>
+<P>FEV1: In phase 1 of the trial, mean FEV1 (± SEM) improved significantly in both treatment groups from 0 to 90 min. For ipratropium (n = 17), scores improved 25%, from 0.62 ± 0.08 to 0.88 ± 0.11 (p&lt; 0.01). For metaproterenol (n = 15), the improvement was 18%, from 0.69 ± 0.06 to 0.92 ± 0.09 (p &lt; 0.01). There was no significant difference between the two groups for this outcome (p &gt; 0.05).For phase 2 of the trial, investigators reported only that there was no further improvement in FEV1 in either group. Blood gases: At 30 min, there was a significant (p &lt; 0.05) rise in PaO2 with ipratropium (n = 10) (5.8 ± 3.0 [SEM]), and a significant (p &lt; 0.05) decine in PaO2 with metaproterenol (n = 10) (-6.2 ± 1.2). At 90 min, these changes were no longer significant.There were no other significant changes in PO2, PCO2, or pH during phase 1. Percentage of pts admitted to hospital: 3/17 pts (18%) from the ipratropium-first group, 2/15 pts (13%) from the metaproterenol-first group. Adverse events: Recorded for phase 1 only. Ipratropium: Nervousness (2 pts), tremors (2), dry mouth (1), palpitations (1), headache (1). Metaproterenol: Palpitations (3 pts), nervousness (3), tremors (2), dry mouth (1), headache (1).Dropouts: 0</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lloberes-1988">
+<CHAR_METHODS>
+<P>Design: CrOv<BR/>Dates: N/S<BR/>Location: Spain<BR/>Assessment period: 4 days; 3-day treatment period after an initial 24-hr washout period; 3 crossover periods (protocols), with 2 different treatment phases in each period (see "crossover design")<BR/>External validity: 4/5<BR/>COPD dx+<BR/>COPD bl+<BR/>AECB dx+<BR/>AECB sev+<BR/>Tx duration-<BR/>Internal validity: 0/5<BR/>nr, ndb, dnd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = ? (see "Notes" column)<BR/>Setting: Hospitalized pts drawn from outpt clinic where they received regular bronchodilator treatment (including beta2-adrenergics and oral theophylline) <BR/>Inclusion (COPD): Chronic bronchitis, emphysema, or both, and evidence of severe airflow obstruction, with FEV1 &lt; 1 L (determined by clinical diagnosis)<BR/>Inclusion (AcEx): 'Acute exacerbation' defined as "an increase of symptoms (breathlessness and mucus secretion) and gasometric deterioration, attributed to a bronchial infection"<BR/>Exclusion: Episodic attacks of wheezing indicative of bronchial asthma; lung function reversibility of &gt; 15% after inhalation of 2 puffs of albuterol while clinically stable<BR/>Smoking history: N/S<BR/>Baseline stable FEV1: 0.82 ± 0.19 (SD) L (range, 0.54-1.1)<BR/>FEV1 at admission: 0.64 ± 0.11 (SD) L (range, 0.35-1.01)<BR/>Age: 65 (range, 50-75)<BR/>Sex: N/S<BR/>Race: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Interventions:<BR/>Crossover Design: After the initial AcEx phase had been stabilized, bronchodilator treatment was withheld for 24 hrs (washout); pts (n = 13) then completed 3 crossover periods (protocols), 1 per day, with 2 phases per period. During phase 1, pts took an initial treatment every 30 min until a bronchodilatation phase was reached; during phase 2, pts were randomized to 1 of 2 different treatments for 45 min. Time between protocols was not specified.</P>
+<P>Description of Protocols: <BR/>Protocol A: Inhaled albuterol 200 :g (2 puffs), administered every 30 min until bronchodilatation plateau reached (n = 13); then pts randomized to receive either ipratropium bromide 40 mg (n = 5), using a metered-dose inhaler, or a loading dose of aminophylline IV (n = 8), 5.6 mg/kg in 30 min followed by a continuous infusion of 0.9 mg/kg-hr; both treatments assessed at 45 min</P>
+<P>Protocol B: Inhaled ipratropium bromide 40 :g (n = 13), administered every 30 min, using a metered-dose inhaler, until bronchodilatation plateau reached; then pts randomized to receive either a single dose of albuterol (amount and route of administration N/S) (n = 7) or aminophylline IV (n = 6), administered as described above; both treatments assessed at 45 min</P>
+<P>Protocol C: Aminophylline IV (n = 13), administered using loading dose of 5.6 mg/kg in 30 min followed by a continuous infusion of 0.9 <BR/>mg/kg-hr; administered every 30 min until bronchodilatation plateau reached; then pts randomized to receive either a single dose of albuterol (amount and route of administration N/S) (n = 5) or a single dose of ipratropium (amount and route of administration N/S) (n = 8); both treatments assessed at 45 min</P>
+<P>Co-interventions: Corticosteroids and antibiotics were permitted</P>
+<P/>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Forced spirometric measurements (by Vitalograph) were taken on each of 3 days before initial study drug was administered and at 45 min after 2nd study drug was administered</P>
+<P>FEV1: (a) Absolute (mean ± SEM) and percentage pre- to post-treatment changes in baseline FEV1 for each protocol; 3-way ANOVA used to analyze changes among the 3 protocols</P>
+<P>(b) Absolute and percentage changes in FEV1 after second drug was administered, compared with maximal bronchodilatation FEV1 obtained with the first treatment (for each protocol); paired t-test used to analyze changes from first to second drug<BR/>FEV1: (a) There were no significant differences in baseline FEV1 values among the three drugs (no p-values reported). All three agents improved significantly from baseline to the maximal treatment effect achieved at end of phase 1 of each protocol (no p-values reported), but there were no signficant differences between the increases achieved by ipratropium, albuterol, or aminophylline alone (no p-values reported). Absolute and percentage change increases in FE</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Low quality score (0)</P>
+<P>Not clear how many pts entered trial or if those selected (n = 13) were chosen randomly; during phase 2 of each protocol, however, pts were randomized to receive 2 different treatments during each protocol</P>
+<P>Not clear whether order of protocols was randomized<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Moayyedi-1995">
+<CHAR_METHODS>
+<P>Design: SPPG<BR/>Dates: N/S<BR/>Location: UK<BR/>Assessment period: To discharge (mean time to discharge, 11.1 days; 19 pts discharged on day 14 or later)<BR/>External validity: 3/5<BR/>COPD dx+<BR/>COPD bl-<BR/>AECB dx-<BR/>AECB sev+<BR/>Tx duration+<BR/>Internal validity: 4/5<BR/>r, db+, dd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 70<BR/>Setting: Hospital<BR/>Inclusion (COPD): Age &gt; 45 yrs; smoking history &gt; 10 pack-yrs; baseline stable FEV1 &lt; 65% of predicted; &gt; 3-yr history of exertional dyspnea resulting from respiratory disease; previous diagnosis of non-asthmatic COPD<BR/>Inclusion (AcEx): Clinical diagnosis of acute exacerbation of COPD (no details provided)<BR/>Exclusion: Regular home use of nebulized bronchodilators; history suggestive of asthma; peripheral eosinophilia of &gt; 10%; &gt; 20% (at least 200 ml) reversibility of FEV1 to 400 mg of inhaled albuterol at discharge<BR/>Smoking history: 51.7 pack-yrs<BR/>Baseline stable FEV1: N/S<BR/>FEV1 on Day 1: 0.78 ± 0.41 (SD) L in the albuterol + ipratropium group and 0.77 ± 0.34 in the albuterol group<BR/>Age: 69.2<BR/>Sex: N/S<BR/>Race: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Interventions:<BR/>Experimental: Nebulized albuterol 5 mg + ipratropium 500 mg, 4x/day, given as a mixture<BR/>Control: Nebulized albuterol 5 mg, 4x/day<BR/>Co-interventions: Prescribed at discretion of attending physician; included aminophylline IV, steroids IV, and antibiotics</P>
+<P/>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1: Spirometric values were measured once on days 1, 3, and 7, and then weekly and on day of discharge. All readings were taken just before the nebulizer treatment at 18.00 hrs. NB: Not measured immediately on admission - day 1 reading either from 18.00 hrs on day of admission (if pt admitted before 18.00 hrs) or 18.00 hrs of next day (if pt admitted after 18.00 hrs). Investigators analyzed mean change in FEV1 from day 1 to (a) day 3, (b) day 7, (c) day 14, and (d) day of discharge.<BR/>Length of stay in hospital: Mean no. of days</P>
+<P>FEV1: No significant differences between the two groups for mean change in FEV1 from day 1 to (a) day 3, (b) day 7, (c) day 14, and (d) day of discharge (p &gt; 0.05, all time points). (a)Albuterol + ipratropium (n = 29), 0.05 ± 0.24 (SD); albuterol (n = 33), 0.17 ± 0.28 (b)Albuterol + ipratropium (n = 29), 0.15 ± 0.26; albuterol (n = 33), 0.21 ± 0.42 (c)Albuterol + ipratropium (n = 10), 0.26 ± 0.29; albuterol (n = 9), 0.06 ± 0.11 (d) Albuterol + ipratropium (n = 29), 0.15 ± 0.32; albuterol (n = 33), 0.23 ± 0.32 Length of stay in hospital: No significant difference between the two groups for mean no. of days in hospital: Albuterol + ipratropium (n =29), 11.8 ± 4.4 (SD); albuterol (n = 33), 10.5 ± 4.7 (p &gt; 0.05).Adverse events: Two pts withdrawn due to AEs, 1 from albuterol + ipratropium group (wheezing) and 1 from albuterol group (chest pain). No further data reported on AEs. Dropouts: 8/70 pts (11%) overall; 4/33 (12%) in the combination therapy group, 4/37 (11%) in the albuterol group.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No significant difference between the two groups in the mean number of days on aminophylline IV, steroids IV, or antibiotics<BR/>No significant difference between the two groups in the average time of day at which pts admitted</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-O_x0027_Driscoll-1989">
+<CHAR_METHODS>
+<P>Design: SPPG<BR/>Dates: N/S<BR/>Location: UK<BR/>Assessment period: 1 hr<BR/>External validity: 1/5<BR/>COPD dx+<BR/>COPD bl-<BR/>AECB dx-<BR/>AECB sev-<BR/>Tx duration-<BR/>Internal validity: 2/5<BR/>r-, db, dd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 47 COPD pts and 56 asthma pts completed trial; total of 125 randomized to treatment (not broken down by diagnosis)<BR/>Setting: ED<BR/>Inclusion (COPD): Criteria of ATS (1987)<BR/>Inclusion (AcEx): Acute airflow obstruction (no further details provided)<BR/>Exclusion: Use of home nebulizer or nebulizer treatment en route to ED; history of heart disease or renal disease<BR/>Smoking history: N/S<BR/>Baseline stable FEV1: N/S<BR/>FEV1 at admission: N/S<BR/>Age: 66.6 (range, 47-81) (COPD pts)<BR/>Sex: N/S<BR/>Race: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Experimental: Nebulized albuterol 10 mg + ipratropium 0.5 mg<BR/>Control: Nebulized albuterol 10 mgCo-interventions: Aminophylline IV, hydrocortisone IV administered to some pts<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Peak flow rate (PFR): Improvement from pre-treatment to 1 hr</P>
+<P>PFR: No significant difference between the two treatment groups (p = 0.55). Mean pre-treatment and 1-hr PFR scores were as follows (no variance data reported):(a)Albuterol alone (n = 21): Pre-treatment, 109 l/min; 1 hr, 134(b)Albuterol + ipratropium (n = 26): Pre-treatment, 116; 1 hr, 135. Adverse events: Tremor reported by 2/44 pts (5%) receiving albuterol alone and by 5/59 (8%) receiving the combined therapy (not broken down by diagnosis). No other AEs reported. Dropouts: 22/125 pts (18%), 11 from each treatment group (not broken down by diagnosis)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>For entire patient population, no significant differences between treatment groups in number of pts receiving aminophylline or hydrocorti-sone; not broken down by diagnosis.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Patrick-1990">
+<CHAR_METHODS>
+<P>Design: SPPG<BR/>Dates: N/S<BR/>Location: Canada<BR/>Assessment period: 24 hrs<BR/>External validity: 1/5<BR/>COPD dx-<BR/>COPD bl-<BR/>AECB dx-<BR/>AECB sev-<BR/>Tx duration+<BR/>Internal validity: 4/5<BR/>r, db+, dd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 68; of 50 pts included in analysis, 21 had admission diagnosis of asthma, 29 acute exacerbation of COPD<BR/>Setting: ED<BR/>Inclusion (general): (1) Presented at ED because of dyspnea, cough, wheeze or chest discomfort, and (2) FEV1 &lt; 60% predicted and FEV1/FVC &lt; 60% predicted, and (3) clinical diagnosis by ED physician compatible with airflow limitation requiring hospital admission but not mechanical ventilation, and (4) nebulized b-agonist, aminophylline IV, and corticosteroids IV administered on admissionInclusion (AcEx): No indication of criteria used to distinguish pts with acute exacerbation of COPD from those with asthma<BR/>Exclusion: N/S<BR/>Smoking history: N/S<BR/>Baseline stable FEV1: N/S<BR/>FEV1 at admission: COPD pts only: Ipratropium, 0.62 L ± 0.33 (SD); placebo, 0.44 L ± 0.14 (no p-value reported)<BR/>Age: 57.6 (all pts)<BR/>Sex: 23 M, 27 F (all pts)<BR/>Race: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Interventions:<BR/>Experimental: Ipratropium 80 mg by MDI at 0 and 2 hrs, then every 3 hrs (immediately after each albuterol treatment)<BR/>Control: Placebo<BR/>Co-interventions: Nebulized albuterol at 0 and 2 hrs, then every 3 hrs; aminophylline IV by continuous infusion; methylprednisolone IV every 6 hrs; broad spectrum antibiotic (ampicillin, tetracycline, or erythromycin), dosing schedule N/S<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1: Measured before and 15 min after nebulized albuterol treatment on entry and at 24 hrs. Investigators analyzed mean change in pre-bronchodilator FEV1 from 0 to 24 hrs</P>
+<P>FEV1: Among pts with acute exacerbation of COPD, there was no significant difference between the two treatment groups for mean change in pre-bronchodilator FEV1 from 0 to 24 hrs: Ipratropium (n = 13), 0.15 L ± 0.24 (SD); placebo (n = 16), 0.10 L ± 0.18 (no p-value reported). Adverse events: No data reported. Dropouts: 18/68 pts (26%), treatment group and diagnosis N/S</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Trial included both pts with asthma and pts with acute exacerbation of COPD. FEV1 results were reported separately for the two types of patients.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Rebuck-1987">
+<CHAR_METHODS>
+<P>Design: SPPG<BR/>Dates: N/S<BR/>Location: Canada<BR/>Assessment period: 90 min<BR/>External validity: 2/5<BR/>COPD dx+<BR/>COPD bl-<BR/>AECB dx-<BR/>AECB sev+<BR/>Tx duration-<BR/>Internal validity: 5/5<BR/>r+, db+, dd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 52 with acute exacerbation of COPD (see Notes)<BR/>Setting: 4 EDs<BR/>Inclusion (COPD): ATS criteria (1962)<BR/>Inclusion (AcEx): Age &gt; 18 yrs; FEV1 &lt; 70% of predicted<BR/>Exclusion: Complicating medical illnesses (e.g., pneumonia, pulmonary edema, acute myocardial infarction, frequent ventricular ectopic beats); pregnancy or breastfeeding; use of nebulized bronchodilator in previous 6 hrs; need for medications other than those specified in study protocol<BR/>Smoking history: N/S<BR/>Baseline stable FEV1: N/S<BR/>FEV1 at admission: 0.67 ± 0.29 (SD) L (28% of predicted) (COPD pts only)<BR/>Age: 66.2 (COPD pts only)<BR/>Sex: 28 M, 23 F<BR/>Race: N/S</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Interventions:<BR/>Experimental: Nebulized ipratropium 0.5 mg + fenoterol 1.25 mg, single dose<BR/>Control 1: Nebulized ipratropium 0.5 mg, single dose<BR/>Control 2: Nebulized fenoterol 1.25 mg, single dose<BR/>Co-interventions: Aminophylline IV or corticosteroids IV could be used at discretion of attending physician; all other drugs proscribed<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1: Mean change from pre-treatment to 45 and 90 min</P>
+<P>FEV1: Each of the three treatment regimens produced a significant improvement in FEV1 from 0 to 90 min (p &lt; 0.05). There was no significant difference among the three treatments for this outcome (p &lt; 0.2). Mean improvement scores (± SEM) were reported in graphic form only. Pre-treatment and 90-min mean FEV1 scores (± SD) for the three groups were:Fenoterol: Pre-: 0.69 ± 0.30; 90-min: 0.88 ± 0.44 Ipratropium: Pre-: 0.69 ± 0.26; 90-min: 0.89 ± 0.41Ip + Fen: Pre-: 0.63 ± 0.31; 90-min: 0.80 ± 0.40. Adverse events: Pts were questioned about specific AEs. Results were not reported separately for pts with asthma and COPD. The most commonly reported AEs were dry mouth (10.6% of pts taking combination treatment, 19.1% taking fenoterol alone, 7.4% taking ipratropium alone); tremor (16.7% of pts taking combination treatment, 13.2% taking fenoterol alone, 2.9% taking ipratropium alone); and bad taste (8.4% overall). Eye irritation, sweating, and dizziness were each reported by &lt; 3% of pts overall. Dropouts: 1/52 pts (2%), from ipratropium group.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Trial included both pts with acute asthma (n = 150) and pts with acute exacerbation of COPD (n = 52). Most results were reported separately for the two types of patients. No significant difference in the proportion of COPD pts receiving aminophylline IV and cortico-steroids IV in the three treatment groups.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Shretha-1991">
+<CHAR_METHODS>
+<P>Design: SPPG<BR/>Dates: April -Sept '88<BR/>Location: US<BR/>Assessment period: To discharge from ED (range, 80-530 min)<BR/>External validity: 1/5<BR/>COPD dx-<BR/>COPD bl-<BR/>AECB dx-<BR/>AECB sev+<BR/>Tx duration-<BR/>Internal validity: 5/5<BR/>r+, db+, dd</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 68<BR/>Setting: ED<BR/>Inclusion (COPD): Age &gt; 40 yrs<BR/>Inclusion (AcEx): Clinical diagnosis of COPD exacerbation (ATS [= ATS Committee on Diagnostic Standards for Nontuberculous Respiratory Disease], 1962); FEV1 &lt; 40% of predicted<BR/>Exclusion: N/S<BR/>Smoking history: N/S<BR/>Baseline stable FEV1: N/S<BR/>FEV1 at admission: Ipratropium, 0.68 ± 0.27 (SD); placebo, 0.69 ± 0.25 (p &gt; 0.05)<BR/>Age: <BR/>Ipratropium grp, 62 ± 9.3 (median ± SD); placebo grp, 63 ± 8.0 Sex: 35 M, 20 F<BR/>Race: <BR/>33 Black, <BR/>16 White, <BR/>6 Latin American</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Interventions:<BR/>Experimental: Ipratropium by MDI; 3 puffs (54 mg) given w/in 5-10 min of initial isoetharine dose; further doses of 2 puffs (36 mg) each given at 1 and 3 hrs, just after isoetharine<BR/>Control: Placebo<BR/>Co-interventions: Nebulized isoetharine on presentation and every hr thereafter; aminophylline IV given if serum theophylline level not adequate; methylprednisolone IV administered "if there was no contraindication and if the physician thought that the patient would benefit from corticosteroid treatment"<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Outcomes:Percentage of pts admitted to hospital<BR/>Length of stay in ED: Mean (in min)</P>
+<P>Percentage of pts admitted to hospital: 2/30 pts (7%) receiving ipratropium, 3/25 pts receiving placebo (12%); not analyzed by investigators (too few pts). Length of stay in ED: Mean length of stay significantly (p &lt; 0.05) shorter for pts receiving ipratropium (n = 30) than for pts receiving placebo (n = 25):Ipra: 226 ± 102 (SD) minPlac: 317 ± 135 min. Adverse events: Specific AEs were not sought, and none were reported during trial. Dropouts: 13/68 (19%) total, 8/33 (24%) in the placebo group, 5/35 (14%) in the ipratropium group.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No significant differences between treatment grps in the proportion of pts receiving aminophylline and methyl-prednisolone</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>1. External validity score (5 points possible): COPD dx = COPD diagnosis based on spirometry (+ = yes = 1; - = no = 0); COPD bl = baseline stable ventilatory status of population described (+ = yes = 1; - = no = 0); AECB dx = diagnosis of AECB includes at least two of following: increased sputum purulence, increased sputum volume, increased dyspnea (+ = yes = 1; - = no = 0); AECB sev = severity of AECB at enrollment described based on at least two of following: mental status change, work of breathing, ventilatory status (+ = yes = 1; - = no = 0); Tx duration = outcomes assessed at 24 hours or later (+ = yes = 1; - = no = 0).</P>
+<P>2. Internal validity score (5 points possible): Randomization: r = study described as randomized, method of randomization not described (1 point); r+ = method of randomization described and adequate (2 points); r- = method of randomization described but inadequate (0 points). Double-blinding: ndb = not double-blind (0 points); db = study described as double-blind, method of blinding not described (1 point); db+ = method of blinding described and adequate (2 points); db- = method of blinding described but inadequate (0 points). Dropouts: dd = dropouts described (1 point); dnd = dropouts not described (0 points).</P>
+<P>3. Abbreviations of study designs: SPPG - single period parallel group (2 groups of patients, each recieving a particular treatment for a specified time); CrOv - crossover (each group of patients are assigned to a treatment and then switched to the alternate treatment after a specified time).<BR/>
+</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Alabaster-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Anonymous-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Anonymous-1997a">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Anonymous-1997b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Anzueto-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Arsokski-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Balkinssoon-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bleecker-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Blosser-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Celikel-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Chapman-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-de-Guia--2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dejaegher-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Disse-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dusser-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fernandez-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>All patients on mechanical ventilation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gross-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ikeda-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kalberg-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Limauro-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study does not separate results by diagnosis; lumps data on asthmatic, cystic fibrosis and COPD patients.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lode-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Madison-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Matera-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Miravitlles-1999a">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Miravitlles-1999b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Musil-1998a">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Dosage study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Musil-1998b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nair-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Correct population but does not have the correct intervention and comparison groups</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nakanishi-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT. Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nardini-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-O_x0027_Connor-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients are asthmatic, not acute exacerbation of COPD</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rees-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rennard-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rennard-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sabradillo-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sawa-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shioya-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tashkin-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not acute exacerbations</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tzelepis-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD, not acute exacerbation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Backman-1985">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Cydulka-1995">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Karpel-1990">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lloberes-1988">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Moayyedi-1995">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-O_x0027_Driscoll-1989">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Patrick-1990">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Rebuck-1987">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Shretha-1991">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Ipratropium vs. Beta-2 Agonist</NAME>
+<CONT_OUTCOME CHI2="0.22753154634719197" CI_END="0.19137923218491507" CI_START="-0.18875910517831265" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.001310063503301193" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="0.9730269813579112" P_Q="1.0" P_Z="0.9892215672645154" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="61" TOTAL_2="68" UNITS="" WEIGHT="100.0" Z="0.013509173011809414">
+<NAME>Change in FEV-1 at 90 minutes</NAME>
+<GROUP_LABEL_1>Ipatropium</GROUP_LABEL_1>
+<GROUP_LABEL_2>Beta-2 agonist</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Beta-2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Ipatropium</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.39159943646849316" CI_START="-0.6115994364684931" EFFECT_SIZE="-0.11000000000000001" ESTIMABLE="YES" MEAN_1="0.15" MEAN_2="0.26" ORDER="1605" SD_1="0.94" SD_2="0.52" SE="0.2559227824720482" STUDY_ID="STD-Backman-1985" TOTAL_1="17" TOTAL_2="20" WEIGHT="14.358506549738433"/>
+<CONT_DATA CI_END="0.3706452297697319" CI_START="-0.31064522976973186" EFFECT_SIZE="0.03" ESTIMABLE="YES" MEAN_1="0.26" MEAN_2="0.23" ORDER="1606" SD_1="0.56" SD_2="0.42" SE="0.17380178026570792" STUDY_ID="STD-Karpel-1990" TOTAL_1="17" TOTAL_2="15" WEIGHT="31.132839096317102"/>
+<CONT_DATA CI_END="0.4151462086615513" CI_START="-0.37514620866155124" EFFECT_SIZE="0.01999999999999999" ESTIMABLE="YES" MEAN_1="0.16" MEAN_2="0.14" ORDER="1607" SD_1="0.72" SD_2="0.1" SE="0.20160891311188067" STUDY_ID="STD-Lloberes-1988" TOTAL_1="13" TOTAL_2="13" WEIGHT="23.137035437238932"/>
+<CONT_DATA CI_END="0.3493463714964098" CI_START="-0.3293463714964098" EFFECT_SIZE="0.010000000000000009" ESTIMABLE="YES" MEAN_1="0.2" MEAN_2="0.19" ORDER="1608" SD_1="0.48" SD_2="0.52" SE="0.17313908529602107" STUDY_ID="STD-Rebuck-1987" TOTAL_1="14" TOTAL_2="20" WEIGHT="31.371618916705533"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Addition of Ipratropium to Beta-2 agonist treatment</NAME>
+<CONT_OUTCOME CHI2="0.333619651875964" CI_END="0.11828467558094427" CI_START="-0.07931668010767337" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.019483997736635453" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="0.8463605777989338" P_Q="1.0" P_Z="0.6991153727330135" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="60" TOTAL_2="58" UNITS="" WEIGHT="100.0" Z="0.38651489718362436">
+<NAME>Change in FEV-1at 90 minutes</NAME>
+<GROUP_LABEL_1>Added Ipatropium</GROUP_LABEL_1>
+<GROUP_LABEL_2>Beta-2 agonist alone</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Beta-2 alone</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Ipatropium</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.1653283308855458" CI_START="-0.1653283308855458" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="0.14" MEAN_2="0.14" ORDER="1609" SD_1="0.21" SD_2="0.22" SE="0.08435273922869735" STUDY_ID="STD-Lloberes-1988" TOTAL_1="13" TOTAL_2="13" WEIGHT="35.712913828835354"/>
+<CONT_DATA CI_END="0.21232710981123432" CI_START="-0.2523271098112343" EFFECT_SIZE="-0.01999999999999999" ESTIMABLE="YES" MEAN_1="0.17" MEAN_2="0.19" ORDER="1610" SD_1="0.35" SD_2="0.37" SE="0.11853641783410353" STUDY_ID="STD-Rebuck-1987" TOTAL_1="17" TOTAL_2="20" WEIGHT="18.085064784209813"/>
+<CONT_DATA CI_END="0.19535481936907936" CI_START="-0.09535481936907939" EFFECT_SIZE="0.04999999999999999" ESTIMABLE="YES" MEAN_1="0.24" MEAN_2="0.19" ORDER="1611" SD_1="0.3" SD_2="0.25" SE="0.07416198487095663" STUDY_ID="STD-Shretha-1991" TOTAL_1="30" TOTAL_2="25" WEIGHT="46.20202138695483"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="2.7367174644365493" CI_END="0.0491751097334776" CI_START="-0.1399568053507199" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.04539084780862115" ESTIMABLE="YES" I2="63.45987435696489" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.09806609900383922" P_Q="1.0" P_Z="0.34682485734268764" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="42" TOTAL_2="49" UNITS="" WEIGHT="100.0" Z="0.9407658870585773">
+<NAME>Change in FEV-1 at 24 hours</NAME>
+<GROUP_LABEL_1>Added Ipatropium</GROUP_LABEL_1>
+<GROUP_LABEL_2>Beta-2 agonist alone</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Beta-2 alone</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Ipatropium</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.00944615443382997" CI_START="-0.24944615443383" EFFECT_SIZE="-0.12000000000000001" ESTIMABLE="YES" MEAN_1="0.05" MEAN_2="0.17" ORDER="1612" SD_1="0.24" SD_2="0.28" SE="0.06604516993928701" STUDY_ID="STD-Moayyedi-1995" TOTAL_1="29" TOTAL_2="33" WEIGHT="53.36927988038822"/>
+<CONT_DATA CI_END="0.17848373341383644" CI_START="-0.09848373341383643" EFFECT_SIZE="0.04000000000000001" ESTIMABLE="YES" MEAN_1="0.13" MEAN_2="0.09" ORDER="1613" SD_1="0.21" SD_2="0.16" SE="0.07065626435290569" STUDY_ID="STD-Patrick-1990" TOTAL_1="13" TOTAL_2="16" WEIGHT="46.63072011961179"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK>
+<FEEDBACK_ITEM ID="FBK-01" NO="1">
+<TITLE>Included studies</TITLE>
+<DATE_SUBMITTED>
+<DATE DAY="" MONTH="" YEAR=""/>
+</DATE_SUBMITTED>
+<FEEDBACK_SUMMARY>
+<P>It is said in the review that 9 studies were included. However only eight were characterized in the table (Backman 1985 was not), 1 study concerning glycopyrrolate not ipratropium (Cydulka 1995) was not included into the analysis (the authors did not mention it), the study of O'Driscoll 1989 was included only into the analysis of safety and not of efficacy. The objective was to compare the effect of anti-cholinergic agents with beta-2 agonists, in Karpel 1990 metaproterenol was used which is beta-agonist (not beta-2 agonist).</P>
+</FEEDBACK_SUMMARY>
+<FEEDBACK_REPLY>
+<P>Dr. Lesniak raises a number of issues:</P>
+<P>1. The exclusion of the Backman (1985) study from the "characteristics of included studies" table was an oversight on our part. Thank you for pointing this out. It will be remedied at the time of the next update. [This has now been addressed]</P>
+<P>2. Although our inclusion criteria state that only ipratropium or oxitropium interventions are included in the review we describe the Cydulka (1995) study because its intervention glycopyrrolate, is an anticholinergic drug which is the scope implied by the review's title "Anti-cholinergic bronchodilators versus beta2-sympathomimetic agents for acute exacerbations of chronic obstructive pulmonary disease". We will update the inclusion criteria in the next update of the review.</P>
+<P>3. The O'Driscoll study (1989) was included only in the safety analysis because the efficacy results did not include any variance data (standard deviation or SEM). The graph depicted a standard error bar, however, it was too poorly resolved to provide an accurate estimate of the SEM. Had variance data been available, the peak flow outcome from O'Driscoll could have bee combined with those from Backman (1985) which also included peak flow changes. Our safety analysis was based on the number of patients having an event, which did not require mean deviation data.</P>
+<P>4. Karpel 1990: Metaproterenol is not a strict beta-2 agonist; it has both beta-1 and beta-2 agonist properties. It has been used as a bronchodilator for a long time. Many of the more currently used short-acting beta-2 agonists were given approval for use based on efficacy studies versus metaproterenol. This is why we felt comfortable including the study in our analysis. When this study is removed from the analysis, the results do not change. (WMD -0.01 (95% CI -0.24 to 0.22 without Karpel 1990).</P>
+</FEEDBACK_REPLY>
+<FEEDBACK_CONTRIBUTORS>
+<P>Lesniak W</P>
+</FEEDBACK_CONTRIBUTORS>
+</FEEDBACK_ITEM>
+</FEEDBACK>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD006979" GROUP_ID="NEONATAL" ID="573106112117320186" MERGED_FROM="" MODIFIED="2011-01-15 21:34:34 +0100" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;/p&gt;&lt;p&gt;CL 1/08 (protocol)&lt;/p&gt;" NOTES_MODIFIED="2011-01-11 09:45:27 -0500" NOTES_MODIFIED_BY="Diane Haughton" REVIEW_NO="" REVMAN_SUB_VERSION="5.0.25" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="3.0">
+<COVER_SHEET MODIFIED="2011-01-15 21:34:34 +0100" MODIFIED_BY="Diane Haughton">
+<TITLE MODIFIED="2010-12-09 15:36:34 -0500" MODIFIED_BY="[Empty name]">Strategies for the withdrawal of nasal continuous positive airway pressure (NCPAP) in preterm infants</TITLE>
+<CONTACT MODIFIED="2011-01-15 21:34:34 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="4B1B57BB82E26AA201AFF012E9678D2A" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Luke</FIRST_NAME><MIDDLE_INITIALS>A</MIDDLE_INITIALS><LAST_NAME>Jardine</LAST_NAME><SUFFIX>MBBS, FRACP, MCIinEpi</SUFFIX><POSITION>Neonatologist</POSITION><EMAIL_1>Luke.Jardine@mater.org.au</EMAIL_1><ADDRESS><DEPARTMENT>Department of Neonatology</DEPARTMENT><ORGANISATION>Mater Mother's Hospital, Mater Medical Research Institute, The University of Queensland</ORGANISATION><ADDRESS_1>Raymond Terrace</ADDRESS_1><CITY>South Brisbane</CITY><ZIP>4101</ZIP><REGION>Queensland</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 7 31636091</PHONE_1><FAX_1>+61 7 31631435</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2011-01-15 21:34:34 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="4B1B57BB82E26AA201AFF012E9678D2A" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Luke</FIRST_NAME><MIDDLE_INITIALS>A</MIDDLE_INITIALS><LAST_NAME>Jardine</LAST_NAME><SUFFIX>MBBS, FRACP, MCIinEpi</SUFFIX><POSITION>Neonatologist</POSITION><EMAIL_1>Luke.Jardine@mater.org.au</EMAIL_1><ADDRESS><DEPARTMENT>Department of Neonatology</DEPARTMENT><ORGANISATION>Mater Mother's Hospital, Mater Medical Research Institute, The University of Queensland</ORGANISATION><ADDRESS_1>Raymond Terrace</ADDRESS_1><CITY>South Brisbane</CITY><ZIP>4101</ZIP><REGION>Queensland</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 7 31636091</PHONE_1><FAX_1>+61 7 31631435</FAX_1></ADDRESS></PERSON><PERSON ID="15239" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Garry</FIRST_NAME><MIDDLE_INITIALS>DT</MIDDLE_INITIALS><LAST_NAME>Inglis</LAST_NAME><SUFFIX>MB, BS, FRACP</SUFFIX><POSITION>Staff Neonatologist</POSITION><EMAIL_1>garry_inglis@health.qld.gov.au</EMAIL_1><ADDRESS><DEPARTMENT>Grantley Stable Neonatal Unit, Royal Brisbane and Women's Hospital</DEPARTMENT><ORGANISATION>Department of Paediatrics &amp; Child Health, The University of Queensland</ORGANISATION><ADDRESS_1>Butterfield Street</ADDRESS_1><ADDRESS_2>Herston</ADDRESS_2><CITY>Brisbane</CITY><ZIP>4029</ZIP><REGION>Queensland</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 7 3636 8111 ext 62262</PHONE_1><FAX_1>+61 7 3636 5259</FAX_1></ADDRESS></PERSON><PERSON ID="3CD66AA082E26AA20112E9E66ECCE9CB" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Mark W</FIRST_NAME><LAST_NAME>Davies</LAST_NAME><SUFFIX>MB BS FRACP DCH</SUFFIX><POSITION>Staff Consultant Neonatologist</POSITION><EMAIL_1>Mark_Davies@health.qld.gov.au</EMAIL_1><ADDRESS><DEPARTMENT>Grantley Stable Neonatal Unit, Royal Brisbane and Women's Hospital</DEPARTMENT><ORGANISATION>Department of Paediatrics &amp; Child Health, The University of Queensland</ORGANISATION><ADDRESS_1>Butterfield St</ADDRESS_1><ADDRESS_2>Herston</ADDRESS_2><CITY>Brisbane</CITY><ZIP>4029</ZIP><REGION>Queensland</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 7 3636 2245</PHONE_1><PHONE_2>+61 (0)408 159 138</PHONE_2><FAX_1>+61 7 3636 5259</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2011-01-06 11:54:22 -0500" MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="8" MONTH="10" YEAR="2010"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="30" MONTH="6" YEAR="2010"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="8" MONTH="10" YEAR="2012"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2008"/>
+<REVIEW_PUBLISHED ISSUE="" YEAR=""/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2008"/>
+</DATES>
+<WHATS_NEW MODIFIED="2009-07-20 10:16:51 -0400" MODIFIED_BY="[Empty name]"/>
+<HISTORY MODIFIED="2009-07-20 10:16:51 -0400" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-07-20 10:16:51 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="27" MONTH="10" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT MODIFIED="2010-07-08 19:09:33 -0400" MODIFIED_BY="[Empty name]">
+<INTERNAL_SOURCES MODIFIED="2010-07-08 19:09:33 -0400" MODIFIED_BY="[Empty name]">
+<SOURCE MODIFIED="2010-07-08 19:09:13 -0400" MODIFIED_BY="[Empty name]">
+<NAME>Department of Neonatology, Mater Mother's Hospital, South Brisbane</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE MODIFIED="2010-07-08 19:09:13 -0400" MODIFIED_BY="[Empty name]">
+<NAME>Grantley Stable Neonatal Unit, Royal Brisbane and Women's Hospital, Brisbane</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE MODIFIED="2010-07-08 19:09:04 -0400" MODIFIED_BY="[Empty name]">
+<NAME>Department of Paediatrics and Child Health, The University of Queensland, Royal Children's Hospital, Brisbane</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2011-01-06 11:54:49 -0500" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2011-01-01 12:14:55 -0500" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2009-07-20 10:22:17 -0400" MODIFIED_BY="[Empty name]">Strategies used for the withdrawal of nasal continuous positive airway pressure (NCPAP) in preterm infants</TITLE>
+<SUMMARY_BODY MODIFIED="2011-01-01 12:14:55 -0500" MODIFIED_BY="[Empty name]">
+<P>Nasal continuous positive airway pressure (NCPAP) is a form of respiratory support commonly used in the treatment of preterm infants. Potential risks of NCPAP include damage to the nose and leaking of air from the lungs. Infants on NCPAP require more nursing care and the use of extra equipment. However, potential complications of removing NCPAP from babies too early include increasing episodes of forgetting to breathe, increased oxygen needs, increased effort of breathing, the need to restart NCPAP and the need for a breathing tube with mechanical ventilation. Any of these complications can be seen as a "failure" and are potentially distressing to staff and family. The best way to withdraw NCPAP once it has been started is unknown. Options include simply stopping, weaning the pressure, increasing the time off NCPAP each day or combinations of both. A recent study has suggested that stopping the NCPAP all together once compared to having periods of time off NCPAP decreases the incidence of chronic neonatal lung disease and the length of hospital stay.</P>
+<P>We aimed to determine the benefits and risks of different strategies used for the withdrawal of NCPAP in preterm infants who are stable and may be ready to have NCPAP withdrawn. This review identified three studies but, due to differences in the studies and the limited data available, the results could not be combined.</P>
+<P>Infants who have their NCPAP pressure weaned to a predefined level and then stop NCPAP completely have less total time on NCPAP and shorter durations of oxygen therapy and hospital stay compared with those that have NCPAP removed for a predetermined number of hours each day. Clear criteria need to be established for the definition of stability prior to attempting to withdraw NCPAP and for the definition of failure to withdraw.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2011-01-01 12:14:48 -0500" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2010-12-06 15:19:57 -0500" MODIFIED_BY="[Empty name]">
+<P>While indications for the use of nasal continuous positive airway pressure (NCPAP) and its associated risks and benefits are extensively investigated, the best strategy for the withdrawal of NCPAP remains unknown. In a survey of Australian and New Zealand Neonatologists, 56% stated that their approach to NCPAP weaning was "ad hoc" (<A HREF="Jardine 2008">Jardine 2008</A>). At what point an infant is considered stable enough to attempt to start withdrawing their NCPAP is not clearly established. The criteria for a failed attempt at NCPAP withdrawal is also not clear.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2010-06-27 20:29:40 -0400" MODIFIED_BY="[Empty name]">
+<P>To determine the risks and benefits of different strategies used for the withdrawal of NCPAP in preterm infants.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2011-01-01 12:14:29 -0500" MODIFIED_BY="[Empty name]">
+<P>Searches were made of the Cochrane Neonatal Review Group Specialised Register, MEDLINE from 1966 to June 2010, CINAHL from 1982 to June 2010, and the Cochrane Central Register of Controlled Trials (CENTRAL, <I>The Cochrane Library </I>2010, Issue 2). Previous reviews (including cross references) were also searched.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2011-01-01 12:14:34 -0500" MODIFIED_BY="[Empty name]">
+<P>We included all randomised and quasi-randomised controlled trials in which either individual newborn infants or clusters of infants (such as separate neonatal units) were randomised to different NCPAP withdrawal strategies (from the first time they come off NCPAP and any subsequent weaning and/or withdrawal attempt).</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2011-01-01 12:14:38 -0500" MODIFIED_BY="[Empty name]">
+<P>We used standard methods of The Cochrane Collaboration and its Neonatal Review Group.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2011-01-01 12:14:43 -0500" MODIFIED_BY="[Empty name]">
+<P>We identified four potentially eligible studies. Three studies are included in this review. One study showed a significant decrease in the duration of oxygen therapy and a significantly decreased length of stay for babies randomised to a weaning strategy where NCPAP is simply stopped when infants met predefined stability criteria.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2011-01-01 12:14:48 -0500" MODIFIED_BY="[Empty name]">
+<P>Infants who have their NCPAP pressure weaned to a predefined level and then stop NCPAP completely have less total time on NCPAP and shorter durations of oxygen therapy and hospital stay compared with those that have NCPAP removed for a predetermined number of hours each day. Future trials of withdrawing NCPAP should compare proposed strategies with weaning NCPAP pressure to a predefined level and then stopping NCPAP completely. Clear criteria need to be established for the definition of stability prior to attempting to withdraw NCPAP.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2011-01-06 11:54:49 -0500" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2011-01-01 12:15:07 -0500" MODIFIED_BY="[Empty name]">
+<CONDITION MODIFIED="2010-12-06 14:51:59 -0500" MODIFIED_BY="[Empty name]">
+<P>Continuous positive airway pressure (CPAP) is a widely accepted method of respiratory support used in the care of preterm infants with a number of established risks and benefits (<LINK REF="REF-Davis-2003" TYPE="REFERENCE">Davis 2003</LINK>; <LINK REF="REF-Ho-2002a" TYPE="REFERENCE">Ho 2002a</LINK>; <LINK REF="REF-Ho-2002b" TYPE="REFERENCE">Ho 2002b</LINK>). While other investigators have attempted to determine the optimal technique of CPAP delivery (<LINK REF="REF-De-Paoli-2002" TYPE="REFERENCE">De Paoli 2002</LINK>), the best strategy for the withdrawal of NCPAP remains unknown. At what point an infant is considered stable enough to attempt to start withdrawing their NCPAP is not clearly established. The criteria for a failed attempt at NCPAP withdrawal is also not clear. In a survey of Australian and New Zealand Neonatologists, 56% stated that CPAP weaning was "ad hoc" in their units (<LINK REF="REF-Jardine-2008" TYPE="REFERENCE">Jardine 2008</LINK>). Reported criteria used for assessing the failure of coming off CPAP include an increased oxygen requirement, increased work of breathing, tachypnoea, increasing frequency and severity of apnoea, a PaCO<SUB>2</SUB> &gt; 60 mmHg, pH &lt; 7.2 and bradycardia (<LINK REF="REF-Jardine-2008" TYPE="REFERENCE">Jardine 2008</LINK>).</P>
+</CONDITION>
+<INTERVENTION MODIFIED="2011-01-01 12:14:57 -0500" MODIFIED_BY="[Empty name]">
+<P>Possible strategies for withdrawal of NCPAP include:</P>
+<OL>
+<LI>Stopping NCPAP completely, independent of the level of airway pressure, and remaining off NCPAP unless certain criteria are met that require the infant to go back onto NCPAP;</LI>
+<LI>Decreasing NCPAP to predefined level of airway pressure, then stopping NCPAP completely;</LI>
+<LI>Removing NCPAP for a predetermined number of hours each day (this can be a single time period: e.g., 4 hours off, 20 on; or a number of smaller time periods e.g., 1 hour off, 5 on) gradually increasing the amount of time off NCPAP each day until NCPAP is able to be stopped completely (graded time off);</LI>
+<LI>Stopping NCPAP and starting low flow oxygen or humidified high flow air (and oxygen if required) via nasal cannula;</LI>
+<LI>Combinations of the above strategies (e.g. decrease NCPAP to a defined level and then discontinuing NCPAP for a number of hours each day);</LI>
+<LI>Combinations of the above strategies in addition to co-interventions (e.g. methylxanthines).</LI>
+</OL>
+</INTERVENTION>
+<THEORY MODIFIED="2011-01-01 12:15:04 -0500" MODIFIED_BY="[Empty name]">
+<P>The possible benefits of different methods of NCPAP withdrawal are mostly anecdotal. Weaning the distending pressure may gradually increase respiratory muscle strength without the associated risk of atelectasis. Having periods of time off may have a similar effect of respiratory muscle training but for shorter more intense periods. Time off NCPAP may be more likely to cause "atelectotrauma" (due to alveolar collapse when off NCPAP and re-recruitment once NCPAP recommences). Having periods of time off NCPAP may reduce the incidence of nasal trauma or possibly lead to increased nasal trauma secondary to the frequent re-application of the prongs.</P>
+</THEORY>
+<IMPORTANCE MODIFIED="2011-01-01 12:15:07 -0500" MODIFIED_BY="[Empty name]">
+<P>While an infant is on NCPAP they have a risk of nasal trauma (<LINK REF="REF-Caliumi_x002d_Pelleg.-1974" TYPE="REFERENCE">Caliumi-Pelleg. 1974</LINK>; <LINK REF="REF-Fischer-2010" TYPE="REFERENCE">Fischer 2010</LINK>; <LINK REF="REF-Kattwinkel-1973" TYPE="REFERENCE">Kattwinkel 1973</LINK>) and pneumothorax (<LINK REF="REF-Ho-2002b" TYPE="REFERENCE">Ho 2002b</LINK>; <LINK REF="REF-Morley-2007" TYPE="REFERENCE">Morley 2007</LINK>). Another reported risk of NCPAP may be an increased risk of intraventricular haemorrhage (<LINK REF="REF-Han-1987" TYPE="REFERENCE">Han 1987</LINK>). Infants on NCPAP may also require more intensive nursing care and the use of extra equipment compared to those not on NCPAP. Therefore, minimising the amount of time that a patient requires NCPAP may be beneficial. Possible disadvantages of removing NCPAP too early include: increasing apnoea, increased oxygen requirement, increased work of breathing, the need to re-start NCPAP, and intubation and mechanical ventilation. Any of these complications can be seen as a "failure" and are potentially distressing to baby, family and staff.</P>
+<P>Despite the paucity of evidence, the practice of weaning NCPAP is widespread. In a survey of Australian Neonatologists, 70% of respondents reported using a graded time off NCPAP weaning strategy and 74% used a weaning strategy involving decreasing airway pressure prior to coming off NCPAP (<LINK REF="REF-Jardine-2008" TYPE="REFERENCE">Jardine 2008</LINK>). The approach to withdrawing NCPAP may vary depending on the clinical situation. Different strategies may be used depending on birth weight, gestational age at birth, time already spent on respiratory support, presence of chronic lung disease and gestational age of the baby (<LINK REF="REF-Jardine-2008" TYPE="REFERENCE">Jardine 2008</LINK>). The incidence of failure to come off NCPAP is unknown.</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2011-01-01 12:15:13 -0500" MODIFIED_BY="[Empty name]">
+<P>To determine the benefits and harms of different strategies for the withdrawal of NCPAP in preterm infants who are stable and may be ready to have NCPAP withdrawn.</P>
+<P>We planned subgroup analyses to attempt to determine whether results differed by:</P>
+<OL>
+<LI>gestational age at birth (e.g. &lt; 29 weeks, &#8805; 29 weeks);</LI>
+<LI>birth weight (e.g. &lt; 1000 grams, &#8805; 1000 grams);</LI>
+<LI>postnatal age (e.g. &lt; 4 weeks of age, &#8805; 4 weeks of age);</LI>
+<LI>indication for NCPAP (e.g. respiratory distress, post extubation, apnoea, chronic lung disease);</LI>
+<LI>delivery method of NCPAP (e.g. single prong versus binasal prong, bubble bottles versus ventilator).</LI>
+</OL>
+<P>It is unclear for which patient groups (if any) these strategies would be most beneficial.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2011-01-01 12:17:55 -0500" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2011-01-01 12:16:34 -0500" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2011-01-01 12:15:26 -0500" MODIFIED_BY="[Empty name]">
+<P>We considered randomised controlled trials of adequate quality and some non-randomised controlled trials (e.g. quasi-randomised trials) in which either individual newborn infants or clusters of infants (such as separate neonatal units) were randomised to different NCPAP withdrawal strategies (from the first time they come off NCPAP and any subsequent weaning and/or withdrawal attempt). We excluded trials that included varying nasal pressure waveforms (e.g. nasal intermittent positive pressure ventilation, bi-level NCPAP). We also excluded studies that did not include criteria for stability of participants prior to their first attempt at withdrawal.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2010-06-17 20:34:22 -0400" MODIFIED_BY="[Empty name]">
+<P>Infants who were born preterm (less than 37 weeks completed gestational age), who were currently receiving NCPAP, who had not been discharged from hospital and in whom the decision had been made to attempt withdrawal. </P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2011-01-01 12:16:18 -0500" MODIFIED_BY="[Empty name]">
+<P>Any strategy that involved the stopping or gradual withdrawal of NCPAP. Possible strategies for withdrawal of NCPAP included:</P>
+<OL>
+<LI>stopping NCPAP completely, independent of the level of airway pressure, and remaining off NCPAP unless certain criteria are met that require the infant to go back onto NCPAP;</LI>
+<LI>decreasing NCPAP to predefined level of airway pressure, then stopping NCPAP completely;</LI>
+<LI>removing NCPAP for a predetermined number of hours each day (this can be a single time period: e.g. four hours off, 20 on; or a number of smaller time periods e.g., one hour off, five on) gradually increasing the amount of time off NCPAP each day until NCPAP is able to be stopped completely (graded time off);</LI>
+<LI>stopping NCPAP and starting high flow air (and oxygen if required) via nasal cannula;</LI>
+<LI>combinations of the above strategies (e.g. decrease NCPAP to a defined level and then discontinuing NCPAP for a number of hours each day).</LI>
+<LI>combinations of the above strategies in addition to co-interventions (e.g. methylxanthines).</LI>
+</OL>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2011-01-01 12:16:34 -0500" MODIFIED_BY="[Empty name]">
+<P>We planned intention-to-treat analysis based on the first assigned method of withdrawal.</P>
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2010-12-02 11:59:49 -0500" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>Time (from treatment group allocation) to successfully coming off NCPAP altogether (hours, days).</LI>
+<LI>Failure to stop or wean NCPAP (e.g. needing to restart NCPAP once it has stopped or needing to restart NCPAP during time off NCPAP or delaying any further weaning of NCPAP) however defined in individual studies.</LI>
+<LI>Endotracheal intubation and mechanical ventilation, excluding episodes required for elective procedures (e.g. surgery).</LI>
+</UL>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2011-01-01 12:16:34 -0500" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>Duration of NCPAP from birth (days).</LI>
+<LI>Total duration of respiratory support (i.e. any form of mechanical ventilation or NCPAP).</LI>
+<LI>Duration of hospital stay (days).</LI>
+<LI>Incidence of air leak (any and those requiring drainage) from time of treatment group allocation.</LI>
+<LI>Apnoea (defined as cessation of breathing &gt; 20 seconds or &gt; 10 seconds with desaturation) - however defined in individual studies.</LI>
+<LI>New intraventricular haemorrhage (grade 1 - 4), severe intraventricular haemorrhage (grade 3 - 4).</LI>
+<LI>Nasal trauma.</LI>
+<LI>Duration of oxygen therapy (days).</LI>
+<LI>Chronic lung disease (oxygen requirement at 36 weeks gestational age).</LI>
+<LI>Mortality (neonatal, at hospital discharge, or at one year).</LI>
+<LI>Neurodevelopmental outcome (cerebral palsy, sensorineural hearing loss, visual impairment and/or developmental delay - at one year, 18 months, two years, or five years).</LI>
+<LI>Any other clinically relevant outcomes identified in individual studies.</LI>
+</UL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2011-01-01 12:16:54 -0500" MODIFIED_BY="[Empty name]">
+<P>See: Neonatal Group search strategy</P>
+<ELECTRONIC_SEARCHES MODIFIED="2011-01-01 12:16:45 -0500" MODIFIED_BY="[Empty name]">
+<P>We used the standard search strategy for the Cochrane Neonatal Review Group. We searched the Cochrane Neonatal Review Group Specialised Register, MEDLINE from 1966 to June 2010, CINAHL from 1982 to June 2010, and the Cochrane Central Register of Controlled Trials (CENTRAL, <I>The Cochrane Library</I> 2010, Issue 2) using the following strategy:</P>
+<P>MeSH search terms "Continuous Positive Airway Pressure", "Respiration, Artificial", "Positive-Pressure Respiration" OR the textwords "continuous distending pressure", "CPAP", "CDAP", "distending pressure", "continuous positive transpulmonary pressure", "continuous transpulmonary pressure", "continuous inflating pressure", "positive pressure", "positive expiratory pressure", "positive end expiratory pressure", "PEEP"<BR/>AND<BR/>MeSH search term "Infant, Premature" OR the textwords "neonat$", "infant", "preterm", "newborn", "premature".<BR/>AND<BR/>MeSH search term "Ventilator Weaning" OR text words "ceasing", "cessation", "wean", "weaning", "stop", "stopping", "withdraw$", "discontin$".</P>
+<P>We did not restrict searches to publications in the English language.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2011-01-01 12:16:54 -0500" MODIFIED_BY="[Empty name]">
+<P>We searched previous reviews (including cross references). Searches were not restricted to publications in the English language or to published data.</P>
+<P>We searched ongoing trials at the following web sites: clinicaltrials.gov and controlled-trials.com.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2011-01-01 12:17:55 -0500" MODIFIED_BY="[Empty name]">
+<P>We used the standard methods of The Cochrane Collaboration and its Neonatal Review Group. This review planned to analyse only studies that allocated subsequent withdrawal attempts to the policy originally allocated.</P>
+<STUDY_SELECTION MODIFIED="2009-07-20 15:19:38 -0400" MODIFIED_BY="[Empty name]">
+<P>Two of the authors worked independently to search for trials for inclusion.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2011-01-01 12:17:23 -0500" MODIFIED_BY="[Empty name]">
+<P>Authors extracted data independently and resolved differences by discussion. We attempted to contact study investigators for additional information or data as required.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2011-01-01 12:17:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Two of the authors worked independently to assess trials for methodological quality. We assessed studies using the following key criteria: allocation concealment (blinding of randomisation), blinding of intervention, completeness of follow up and blinding of outcome measurement assigning a rating of 'Yes', 'No' or 'Unknown' for each.</P>
+<P>In addition, we evaluated the following issues and entered the findings into the Risk of Bias Table:</P>
+<P>1. Sequence generation: Was the allocation sequence adequately generated? </P>
+<P>2. Allocation concealment: Was allocation adequately concealed? </P>
+<P>3. Blinding of participants, personnel and outcome assessors: Was knowledge of the allocated intervention adequately prevented during the study? At study entry? At the time of outcome assessment? </P>
+<P>4. Incomplete outcome data: Were incomplete outcome data adequately addressed? </P>
+<P>5. Selective outcome reporting: Are reports of the study free of suggestion of selective outcome reporting? </P>
+<P>6. Other sources of bias: Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES MODIFIED="2011-01-01 12:17:33 -0500" MODIFIED_BY="[Empty name]">
+<P>Statistical analyses will be performed using Review Manager software. Categorical data will be analysed using relative risk (RR), risk difference (RD) and the number needed to treat (NNT). Continuous data will be analysed using weighted mean difference (WMD). The 95% confidence interval (CI) will be reported on all estimates.</P>
+</EFFECT_MEASURES>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2011-01-01 12:17:40 -0500" MODIFIED_BY="[Empty name]">
+<P>If sufficient included studies were identified, we planned to assess heterogeneity using two statistics (I<SUP>2</SUP> test) of heterogeneity, which are thought to be better at quantifying the heterogeneity than the Chi<SUP>2</SUP> test. If statistical heterogeneity had been found we planned to look for an explanation. Apart from the planned subgroup analyses detailed below, there were no other a priori specific potential causes of heterogeneity.</P>
+</HETEROGENEITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2011-01-01 12:17:51 -0500" MODIFIED_BY="[Empty name]">
+<P>For the meta-analysis we planned to report weighted mean differences (WMD) and 95% CI for continuous variables. For the categorical outcomes we planned to report the RR and 95% CI. For significant findings we planned to report the RD and NNT.</P>
+<P>We planned to use the fixed-effect model for meta-analysis.</P>
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS MODIFIED="2011-01-01 12:17:55 -0500" MODIFIED_BY="[Empty name]">
+<P>We planned subgroup analyses to attempt to determine whether results differed by:</P>
+<OL>
+<LI>gestational age at birth (e.g. &lt; 29 weeks, &#8805; 29 weeks);</LI>
+<LI>birth weight (e.g. &lt; 1000 grams, &#8805; 1000 grams);</LI>
+<LI>postnatal age (e.g. &lt; 4 weeks of age, &#8805; 4 weeks of age);</LI>
+<LI>indication for NCPAP (e.g. respiratory distress, post extubation, apnoea, chronic lung disease);</LI>
+<LI>delivery method of NCPAP (e.g. single prong versus binasal prong, bubble bottles versus ventilator).</LI>
+</OL>
+</SUBGROUP_ANALYSIS>
+<SENSITIVITY_ANALYSIS MODIFIED="2009-07-20 15:18:59 -0400" MODIFIED_BY="[Empty name]">
+<P>We planned to perform a sensitivity analysis (data permitting) to see if results differed by quality of included studies - e.g., adequacy of randomisation: quasi-randomised versus randomised.</P>
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2011-01-01 12:20:19 -0500" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2011-01-01 12:18:42 -0500" MODIFIED_BY="[Empty name]">
+<SEARCH_RESULTS MODIFIED="2011-01-01 12:18:04 -0500" MODIFIED_BY="[Empty name]">
+<P>The above search strategy identified four potential studies for inclusion (<LINK REF="STD-Abdel_x002d_Hady-1998" TYPE="STUDY">Abdel-Hady 1998</LINK>; <LINK REF="STD-Singh-2006" TYPE="STUDY">Singh 2006</LINK>; <LINK REF="STD-Soe-2008" TYPE="STUDY">Soe 2008</LINK>; <LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK>). After review, we excluded <LINK REF="STD-Abdel_x002d_Hady-1998" TYPE="STUDY">Abdel-Hady 1998</LINK> as the intervention involved a comparison of weaning pressure versus staying on NCPAP and no attempt to withdraw NCPAP was actually made. <LINK REF="STD-Soe-2008" TYPE="STUDY">Soe 2008</LINK> has been partially published in a narrative review on the topic and results are also available as an abstract. The other included studies (<LINK REF="STD-Singh-2006" TYPE="STUDY">Singh 2006</LINK>; <LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK>) have been published in abstract form only.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2011-01-01 12:18:42 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK> is an ongoing study of 154 infants and some outcome measures have been reported in abstract form only. Babies were eligible if they met all of the following criteria: less than 30 weeks gestation, requiring NCPAP for over 24 hours, no congenital abnormalities, no severe IVH (Grade IV) and being treated with primary NCPAP or secondary NCPAP following extubation. Once patients had reached stability criteria, they were randomised to one of three methods of NCPAP weaning. In method one, they were taken off NCPAP. In method two, they started having periods of time off NCPAP from a minimum of 30 minutes off at a time to complete withdrawal. When they were on NCPAP they were on for six hours before their next period of time off. The clinician gradually increased the duration of the periods off NCPAP until complete withdrawal. Method three also started having periods of time off NCPAP as in method two, but when the baby was having the time off they had supplemental air or oxygen via nasal cannula at 0.5 L/min. If certain failure criteria were met, the baby was recommenced on NCPAP for at least 48 hours, stability criteria had to be met before further attempts (in originally assigned method) were undertaken.</P>
+<P>
+<LINK REF="STD-Singh-2006" TYPE="STUDY">Singh 2006</LINK> was a study of 112 infants with birth weights less than 1500 grams who were requiring less than 0.3 FiO<SUB>2</SUB> and were stable on NCPAP. Patients were then randomised to a strategy of gradual reduction of NCPAP pressure (actual methods are not described) or increasing duration of time off (actual methods are not described) NCPAP with nasal cannula and low flow oxygen. Participants were considered successfully weaned if they were off NCPAP for seven days.</P>
+<P>
+<LINK REF="STD-Soe-2008" TYPE="STUDY">Soe 2008</LINK> studied 98 preterm infants (23 to 31 weeks) who had required respiratory support for surfactant deficiency or immature lung disease. Infants were stratified according to gestational age (23 to 27 weeks or 28 to 31 weeks). Patients were then randomised into two groups. The controlled time weaning group were treated with the <I>Infant Flow Driver</I> NCPAP at 6 cm H<SUB>2</SUB>O. Each day was divided into three eight-hour time periods. On day one, each time period consisted of seven hours on NCPAP and one hour off. For the next five days, the time on NCPAP was decreased daily by one hour in each period and the time off NCPAP was correspondingly increased by one hour as long as stability criteria (satisfactory gases, incubator oxygen less than 0.3, no frequent bradycardia/apnoea) were met. The pressure weaning group were treated with <I>Infant Flow Driver</I> NCPAP at 6 cm H<SUB>2</SUB>O for two days, then 5 cm H<SUB>2</SUB>O for two days and 4 cm H<SUB>2</SUB>O for two days. In both groups the "Not to wean NCPAP criteria" were: pH less than 7.25, FiO<SUB>2</SUB> more than 0.4, apnoea requiring IPPV, more than 1 apnoea requiring stimulation per hour, more than 5 self limiting bradycardia/apnoea episodes per hour, or a decision by an on-call registrar/nurse. If any of these criteria were met the baby did not progress to the next stage or went back a step, whichever was deemed appropriate. Infants were considered successfully weaned if they were off NCPAP for six days.</P>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2009-07-20 15:25:37 -0400" MODIFIED_BY="[Empty name]">
+<P>
+<LINK REF="STD-Abdel_x002d_Hady-1998" TYPE="STUDY">Abdel-Hady 1998</LINK>
+</P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2011-01-01 12:18:48 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<LINK REF="STD-Singh-2006" TYPE="STUDY">Singh 2006</LINK>:</P>
+<UL>
+<LI>blinding of randomisation (allocation concealment) - unknown;</LI>
+<LI>blinding of intervention - no;</LI>
+<LI>completeness of follow-up - unknown;</LI>
+<LI>blinding of outcome measurement - unknown.</LI>
+</UL>
+<P>
+<LINK REF="STD-Soe-2008" TYPE="STUDY">Soe 2008</LINK>:</P>
+<UL>
+<LI>blinding of randomisation (allocation concealment) - unknown;</LI>
+<LI>blinding of intervention - no;</LI>
+<LI>completeness of follow-up - unknown;</LI>
+<LI>blinding of outcome measurement - unknown.</LI>
+</UL>
+<P>
+<LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK>:</P>
+<UL>
+<LI>blinding of randomisation (allocation concealment) - yes;</LI>
+<LI>blinding of intervention - no;</LI>
+<LI>completeness of follow-up - unknown;</LI>
+<LI>blinding of outcome measurement - unknown.</LI>
+</UL>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2011-01-01 12:20:19 -0500" MODIFIED_BY="[Empty name]">
+<P>Due to the lack of pre-specified outcome measures, abstract results only being available for two studies, and the possibility of significant heterogeneity in methods of weaning CPAP, there has been no attempt to pool results. Results of individual studies are described below. Only data available from <LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK> is suitable for possible meta-analysis and has been entered into RevMan.</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Singh 2006</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Primary outcome measures</HEADING>
+<UL>
+<LI>The study stated that the median (range) number of days on NCPAP in the pressure group was 1.5 (0.9 to 50.5) days and in the time off group was 8.9 (9.0 to 33.3) days and this result was significant (P &lt; 0.001).</LI>
+</UL>
+<UL>
+<LI>The study stated that 36 (65%) infants in the pressure group compared to 21 (37%) in the time off group successfully weaned and this result was significant (P = 0.006).</LI>
+</UL>
+<UL>
+<LI>No other predefined primary outcome measure was reported.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Secondary outcome measures</HEADING>
+<UL>
+<LI>This study stated that the median (range) total time spent on NCPAP in the pressure group was 6.0 (2.1 to 60.0) days and in the time off group was 13.2 (10.0 to 46.0) days and this result was significant (P = 0.001).</LI>
+</UL>
+<UL>
+<LI>No other predefined secondary outcome measure was reported.</LI>
+</UL>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Soe 2008</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Primary outcome measures</HEADING>
+<UL>
+<LI>The study stated that "there was no difference in total CPAP days". It is unclear if this was calculated from treatment group allocation or total time spent on NCPAP. In the 23 to 27 week subgroup, total NCPAP days for the pressure group were 10 days and the time arm 15 days. It is uncertain if this reported number is a total for all babies or a mean or median.</LI>
+</UL>
+<UL>
+<LI>The study stated that 45 (92%) infants in the pressure group compared to 38 (78%) in the controlled time weaning group weaned successfully and this result was significant (P = 0.005). In the 23 to 27 week subgroup, 18 (82%) infants in the pressure group compared to 12 (55%) in the controlled time weaning group weaned successfully and this result was significant (P &lt; 0.05). In the 28 to 31 week subgroup, all infants except one were successfully weaned.</LI>
+</UL>
+<UL>
+<LI>No other predefined primary outcome measure was reported.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Secondary outcome measures</HEADING>
+<UL>
+<LI>The study stated that "there was no difference in total CPAP days". It is unclear if this was calculated from treatment group allocation or was the total time spent on NCPAP. In the 23 to 27 week subgroup, total NCPAP days for the pressure group was 10 and for the controlled time weaning group 15. It is uncertain if this reported number is a total for all babies or a mean or a median.</LI>
+</UL>
+<UL>
+<LI>Total duration of respiratory support (i.e. any form of mechanical ventilation or NCPAP) was not reported.</LI>
+</UL>
+<UL>
+<LI>The study stated that duration of hospital stay was a reported outcome measure but no information is available in the study except for the statement "there were no differences in the other outcome data".</LI>
+</UL>
+<UL>
+<LI>The study stated that there were "no differences" in number of apnoea and bradycardia episodes between the two groups.</LI>
+</UL>
+<UL>
+<LI>The study stated that intraventricular haemorrhage was a reported outcome measure but no information is available in the study except for the statement "there were no differences in the other outcome data".</LI>
+</UL>
+<UL>
+<LI>The study stated that three patients (6%) in the pressure arm and 13 (26%) in the time weaning arm developed chronic lung disease (not further defined), P = 0.005. The study states that in the 23 to 27 week subgroup there was a "trend to less CLD" but actual results are not provided. In the 28 to 31 week subgroup, it stated that one (4%) infant in the pressure group compared to seven (26%) in the time arm developed CLD, the significance level was not provided for the subgroup.</LI>
+</UL>
+<UL>
+<LI>Mortality in hospital was a reported outcome measure however no information was available in the study except for the statement "there were no differences in the other outcome data.</LI>
+</UL>
+<UL>
+<LI>Periventricular leukomalacia was a reported outcome measure but no information is available in the study except for the statement "there were no differences in the other outcome data".</LI>
+<LI>Retinopathy of prematurity was a reported outcome measure but no information is available in the study except for the statement "there were no differences in the other outcome data".</LI>
+<LI>No other predefined secondary outcome measure was reported.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Other outcome measures reported in study that were not pre-specified</HEADING>
+<UL>
+<LI>pH at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP) - authors reported "no differences" but no further details were provided in the study.</LI>
+<LI>pCO<SUB>2</SUB> at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP) - authors reported "no differences" but no further details were provided in the study.</LI>
+<LI>FiO<SUB>2</SUB> at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP) - authors reported "no differences" but no further details were provided in the study.</LI>
+<LI>abdominal circumference at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP) - authors reported "no differences" but no further details were provided in the study.</LI>
+<LI>gastric air volume at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP) - authors reported "no differences" but no further details were provided in the study.</LI>
+<LI>gastric aspirate volume at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP) - authors reported "no differences" but no further details were provided in the study.</LI>
+</UL>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Todd 2010</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">Primary outcome measures</HEADING>
+<UL>
+<LI>Method one has significantly shorter duration of wean with a mean (SD) of 8.8 (0.8) days compared to method two with 14.2 (1.0) days and method three with 18.2 (1.3) days.</LI>
+<LI>No other predefined primary outcome measure has been reported to date, the study is ongoing.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Secondary outcome measures</HEADING>
+<UL>
+<LI>Method one significantly shortens the length of stay with a reported mean (SD) of 54.2 +/- 0.1 days, compared to method two with a mean (SD) of 58.6 +/- 0.1 days and method three with a mean (SD) of 66.8 +/- 0.2 days.</LI>
+<LI>Method one significantly shortens duration of oxygen with a reported mean (SD) of 20.3 (1.4) days, compared to method two with 35.9 (2.0) days and method three with 31.3 (1.9) days.</LI>
+<LI>No other predefined secondary outcome measure has been reported to date, the study is ongoing.</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Other outcome measures reported in study that were not pre-specified</HEADING>
+<UL>
+<LI>Gestational age at discharge was also reported, this provides the same information as length of stay data.</LI>
+</UL>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2011-01-01 12:20:41 -0500" MODIFIED_BY="[Empty name]">
+<P>The studies included in this review have provided limited data about the best method of weaning NCPAP in preterm infants who are stable and may be ready to have NCPAP withdrawn.</P>
+<P>
+<LINK REF="STD-Singh-2006" TYPE="STUDY">Singh 2006</LINK> is particularly limited as it has been published only as an abstract and therefore the exact methods are not known and the available results are extremely limited. We could not tell which pressure generation device was used in this study and exactly how the withdrawal and weaning of NCPAP was done.</P>
+<P>The pressure source used for NCPAP generation is known for only one of the studies (<LINK REF="STD-Soe-2008" TYPE="STUDY">Soe 2008</LINK> used the <I>Infant Flow Driver)</I>. This may be an independent confounder. The results of this study may not be generalisable to infants who are being treated with other types of NCPAP.</P>
+<P>
+<LINK REF="STD-Soe-2008" TYPE="STUDY">Soe 2008</LINK> provided stability criteria and "not to wean criteria" both of which are important when considering applying the results in practice and for future meta-analysis; no such criteria were available for <LINK REF="STD-Singh-2006" TYPE="STUDY">Singh 2006</LINK>. Stability criteria and failure criteria are clearly provided in the ongoing study as described by <LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK> and if adopted by future studies, would greatly help in any further meta-analysis.</P>
+<P>In <LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK> all babies initially had their NCPAP pressure reduced before randomisation. Both <LINK REF="STD-Singh-2006" TYPE="STUDY">Singh 2006</LINK> and <LINK REF="STD-Soe-2008" TYPE="STUDY">Soe 2008</LINK> compared weaning the NCPAP pressure to increasing periods of time off NCPAPbefore any attempt was made to withdraw the NCPAP. It is not known if this approach is necessary or not and should be considered as part of the weaning strategy. Although both included studies seem to favour a "weaning pressure" approach, the description of trial methods and results makes it impossible to confirm the veracity of these findings.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2011-01-06 11:54:49 -0500" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2011-01-06 11:54:49 -0500" MODIFIED_BY="[Empty name]">
+<P>The currently available evidence suggests that infants who have their NCPAP pressure weaned to a predefined level and then stop NCPAP completely have less total time on NCPAP and shorter durations of oxygen therapy and hospital stay compared with those that have NCPAP removed for a predetermined number of hours each day.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2011-01-03 23:59:44 -0500" MODIFIED_BY="[Empty name]">
+<P>Further research is required into the best methods for withdrawal on NCPAP and to which subgroups these apply. Any future trials of withdrawing NCPAP should compare proposed strategies with weaning NCPAP pressure to a predefined level and then stopping NCPAP completely. Clear criteria for the definition of stability prior to attempting to withdraw NCPAP have been defined by <LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK>, whether or not these or other criteria are best, needs to be established.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2011-01-01 12:20:59 -0500" MODIFIED_BY="[Empty name]">
+<P>Dr Fiona Lawlor for work on the protocol and attempts to contact authors of studies included in review.</P>
+<P>Editorial support of the Cochrane Neonatal Review Group has been funded with Federal funds from the Eunice Kennedy Shriver National Institute of Child Health and Human Development National Institutes of Health, Department of Health and Human Services, USA, under Contract No. HHSN267200603418C.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2011-01-01 12:21:01 -0500" MODIFIED_BY="[Empty name]">
+<P>Dr Jardine is a co-investigator in <LINK REF="STD-Todd-2010" TYPE="STUDY">Todd 2010</LINK>.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2010-12-09 15:48:24 -0500" MODIFIED_BY="[Empty name]">
+<P>LAJ and MWD performed the searches.</P>
+<P>LAJ wrote the review.<BR/>MWD and GDI revised the review</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2011-01-01 12:21:03 -0500" MODIFIED_BY="[Empty name]">
+<P>The background has been substantially amended. The following sections were also completed: abstract, plain language summary, results, discussion, authors' conclusions, acknowledgements, contributions of authors, differences between protocol and review, characteristics of studies table, and references to studies.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="SOUGHT" ID="STD-Singh-2006" MODIFIED="2011-01-01 12:23:26 -0500" MODIFIED_BY="[Empty name]" NAME="Singh 2006" YEAR="2006">
+<REFERENCE MODIFIED="2011-01-01 12:23:26 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Singh SD, Bowe L, Clarke P, Glover K, Pasquill A, Robinson MJ, et al</AU>
+<TI>Is decreasing pressure or increasing time off the better strategy in weaning VLBW infants from nasal CPAP</TI>
+<SO>European Journal of Pediatrics, Book of Abstracts European Academy of Pediatrics</SO>
+<YR>2006</YR>
+<VL>165</VL>
+<PG>48</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="SOUGHT" ID="STD-Soe-2008" MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]" NAME="Soe 2008" YEAR="2008">
+<REFERENCE MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Soe A, Hodgkinson J, Jani B, Ducker DA</AU>
+<TI>Nasal continuous positive airway pressure weaning in preterm infants</TI>
+<SO>European Journal of Paediatrics, Book of Abstracts European Academy of Paediatrics</SO>
+<YR>2006</YR>
+<VL>165</VL>
+<PG>48-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2010-12-02 12:09:43 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Soe A</AU>
+<TI>Weaning from nasal CPAP in premature infants</TI>
+<SO>Inspire</SO>
+<YR>2007</YR>
+<VL>5</VL>
+<NO>1</NO>
+<PG>8-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS MODIFIED="2009-07-03 01:35:53 -0400" MODIFIED_BY="[Empty name]"/>
+</STUDY>
+<STUDY DATA_SOURCE="SOUGHT" ID="STD-Todd-2010" MODIFIED="2011-01-01 12:24:09 -0500" MODIFIED_BY="[Empty name]" NAME="Todd 2010" NOTES="&lt;p&gt;Multicentre randomised controlled trial being conducted by David Todd. Abstract initially presented at PSANZ 2009. 2 further abstracts with results presented PSANZ 2010&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Broom M, Chauhan M, Meskell S, Cameron K, Wright A, Cameron C, Padernia A, Rochefort M, Jardine L, Stewart A, Ramakrishnan S, Shadbolt B, Todd D. A multicentre RCT comparing CPAP weaning methods in neonates &amp;lt;30 weeks gestation. In: Journal of Paediatrics and Child Health, Perinatal Society of Australia and New Zealand PSANZ 13th Annual Congress, 19-22 April 2009, Darwin Australia. Program and Abstracts; April 2009; 45 (1): P016.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Broom M, Shadbolt B, Wright A, Chauhan M, Cameron C, Jardine L, Todd D. CPAP Weaning: Impact on length of stay. In: Journal of Paediatrics and Child Health, Perinatal Society of Australia and New Zealand PSANZ 14th Annual Congress, Wellington, New Zealand; March 2010; 46 (1): A144.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Todd DA, Shadbolt B, Wright A, Chauhan M, Cameron C, Jardine L, Broom M. CPAP Weaning: Impact on Time of CPAP and Oxygen Durationn. In: Journal of Paediatrics and Child Health, Perinatal Society of Australia and New Zealand PSANZ 14th Annual Congress, Wellington, New Zealand; March 2010; 46 (1): A143.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" NOTES_MODIFIED="2011-01-01 12:24:09 -0500" NOTES_MODIFIED_BY="[Empty name]" YEAR="2010">
+<REFERENCE MODIFIED="2011-01-01 12:24:09 -0500" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="CONFERENCE_PROC">
+<AU>Todd D, Shadbolt B, Wright A, Chauhan M, Cameron C, Jardine L, et al</AU>
+<TI>CPAP Weaning: Impact on time of CPAP and oxygen duration?</TI>
+<SO>Abstracts of the 14th Annual Congress of the Perinatal Society of Austalia and New Zealand 28-31 March 2010, Wellington, New Zealand. Journal of Paediatrics and Child Health</SO>
+<YR>March 2010</YR>
+<VL>46</VL>
+<NO>1</NO>
+<PG>A143</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS MODIFIED="2010-07-01 22:07:56 -0400" MODIFIED_BY="[Empty name]"/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Abdel_x002d_Hady-1998" MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]" NAME="Abdel-Hady 1998" YEAR="1998">
+<REFERENCE MODIFIED="2011-01-01 12:25:23 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Abdel-Hady H, Mohareb S, Khashaba M, Abu-Alkhair M, Greisen G</AU>
+<TI>Randomized controlled trial of discontinuation of nasal-CPAP in stable preterm infants breathing room air</TI>
+<SO>Acta Paediatrica</SO>
+<YR>1998</YR>
+<VL>87</VL>
+<NO>1</NO>
+<PG>82-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2009-07-03 01:35:32 -0400" MODIFIED_BY="[Empty name]"/>
+<ONGOING_STUDIES MODIFIED="2010-06-21 20:41:38 -0400" MODIFIED_BY="[Empty name]"/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2010-12-11 14:20:38 -0500" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2010-12-11 14:20:38 -0500" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Caliumi_x002d_Pelleg.-1974" MODIFIED="2010-12-02 12:13:45 -0500" MODIFIED_BY="[Empty name]" NAME="Caliumi-Pelleg. 1974" TYPE="JOURNAL_ARTICLE">
+<AU>Calimui-Pellegrini G, Agostino R, Orzalesi M, Nodari S, Marzetti G, Savigoni PG, et al</AU>
+<TI>Twin nasal cannula for administration of continuous positive airway pressure to newborn infants</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1974</YR>
+<VL>49</VL>
+<NO>3</NO>
+<PG>228-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Davis-2003" MODIFIED="2010-12-09 16:00:32 -0500" MODIFIED_BY="[Empty name]" NAME="Davis 2003" TYPE="COCHRANE_REVIEW">
+<AU>Davis PG, Henderson-Smart DJ</AU>
+<TI>Nasal continuous positive airway pressure immediately after extubation for preventing morbidity in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2003</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2010-12-09 16:00:32 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2010-12-09 16:00:32 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000143"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-De-Paoli-2002" MODIFIED="2010-12-02 11:57:13 -0500" MODIFIED_BY="[Empty name]" NAME="De Paoli 2002" TYPE="COCHRANE_REVIEW">
+<AU>De Paoli AG, Davis PG, Faber B, Morley CJ</AU>
+<TI>Devices and pressure sources for administration of nasal continuous positive airway pressure (NCPAP) in preterm neonates</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2010-12-02 11:57:13 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2010-12-02 11:57:13 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD002977.pub2 "/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Fischer-2010" MODIFIED="2010-12-02 12:16:38 -0500" MODIFIED_BY="[Empty name]" NAME="Fischer 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Fischer Cl, Bertelle V, Hohlfeld J, Forcada-Guex M, Stadelmann-Diaw C, Tolsa J-F</AU>
+<TI>Nasal trauma due to continuous positive airway pressure in neonates</TI>
+<SO>Archives of Disease in Childhood. Fetal and Neonatal Edition</SO>
+<YR>2010</YR>
+<VL>95</VL>
+<NO>6</NO>
+<PG>F447-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Han-1987" MODIFIED="2010-12-02 12:19:09 -0500" MODIFIED_BY="[Empty name]" NAME="Han 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Han V, Beverley DW, Clarson C, Sumabat WO, Shaheed WA, Brabyn DG, et al</AU>
+<TI>Randomised controlled trial of very early continuous distending pressure in the management of preterm infants</TI>
+<SO>Early Human Development</SO>
+<YR>1987</YR>
+<VL>15</VL>
+<NO>1</NO>
+<PG>21-32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ho-2002a" MODIFIED="2010-12-11 14:20:38 -0500" MODIFIED_BY="[Empty name]" NAME="Ho 2002a" TYPE="COCHRANE_REVIEW">
+<AU>Ho JJ, Henderson-Smart DJ, Davis PG</AU>
+<TI>Early versus delayed initiation of continuous distending pressure for respiratory distress syndrome in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2010-12-11 14:20:38 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2010-12-11 14:20:38 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD002975"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Ho-2002b" MODIFIED="2010-12-02 11:56:43 -0500" MODIFIED_BY="[Empty name]" NAME="Ho 2002b" TYPE="COCHRANE_REVIEW">
+<AU>Ho JJ, Subramaniam P, Henderson-Smart DJ, Davis PG</AU>
+<TI>Continuous distending pressure for respiratory distress syndrome in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2010-12-02 11:56:43 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2010-12-02 11:56:43 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD002271 "/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Jardine-2008" MODIFIED="2010-12-02 12:25:57 -0500" MODIFIED_BY="[Empty name]" NAME="Jardine 2008" TYPE="JOURNAL_ARTICLE">
+<AU>Jardine, LA. Davies, MW</AU>
+<TI>Withdrawal of neonatal continuous positive airway pressure: current practice in Australia</TI>
+<SO>Pediatrics International</SO>
+<YR>2008</YR>
+<VL>50</VL>
+<NO>4</NO>
+<PG>572-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kattwinkel-1973" MODIFIED="2010-12-02 12:26:51 -0500" MODIFIED_BY="[Empty name]" NAME="Kattwinkel 1973" TYPE="JOURNAL_ARTICLE">
+<AU>Kattwinkel J, Fleming D, Cha CC, Fanaroff AA, Klaus MH</AU>
+<TI>A device for administration of continuous positive airway pressure by the nasal route</TI>
+<SO>Pediatrics</SO>
+<YR>1973</YR>
+<VL>52</VL>
+<NO>1</NO>
+<PG>131-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Morley-2007" MODIFIED="2010-12-02 12:31:13 -0500" MODIFIED_BY="[Empty name]" NAME="Morley 2007" TYPE="JOURNAL_ARTICLE">
+<AU>Morley CJ, Davis PG, Doyle LW, Brion L, Hascoet J-M, Carlin JB</AU>
+<TI>A randomized controlled trial of nasal continuous positive airway pressure or intubation and ventilation for very preterm infants at birth: the coin trial</TI>
+<SO>Acta Paediatrica</SO>
+<YR>2007</YR>
+<VL>96 (Suppl. 456, Abstract)</VL>
+<PG>233</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2011-01-01 12:21:48 -0500" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2011-01-01 12:21:48 -0500" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2011-01-01 12:21:18 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Singh-2006">
+<CHAR_METHODS MODIFIED="2009-07-03 02:11:21 -0400" MODIFIED_BY="[Empty name]">
+<P>Randomised controlled trial</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-01-01 12:21:16 -0500" MODIFIED_BY="[Empty name]">
+<P>Infants &lt;1500 grams and stable in &lt; 0.3 FiO2 on NCPAP.</P>
+<P>The study enrolled 112 infants with birth weights less than 1500 grams who were requiring less than 0.3 FiO<SUB>2</SUB> and were stable on NCPAP. The median (range) birth weights and gestation were:</P>
+<UL>
+<LI>'pressure' group, 940 g (614 - 1400 g) and 27 (24 - 32) weeks;</LI>
+<LI>'time off' group, 1080 g (520 - 1496 g) and 28 (24 - 31) weeks.</LI>
+</UL>
+<P>Median PMA at randomisation 29 (28 - 31) weeks for both groups.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-07-01 21:37:03 -0400" MODIFIED_BY="[Empty name]">
+<P>Patients were randomised to a strategy of gradual reduction of NCPAP pressure (actual methods are not described) or increasing duration of time off (actual methods are not described) NCPAP with nasal cannula and low flow oxygen. Participants were considered successfully weaned if they were off NCPAP for 7 days.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2011-01-01 12:21:18 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<B>Primary outcome measures</B>
+</P>
+<UL>
+<LI>Number of days on NCPAP.</LI>
+</UL>
+<UL>
+<LI>Successful weaning.</LI>
+</UL>
+<UL>
+<LI>No other predefined primary outcome measure was reported.</LI>
+</UL>
+<P>
+<B>Secondary outcome measures</B>
+</P>
+<UL>
+<LI>Total time spent on NCPAP.</LI>
+</UL>
+<UL>
+<LI>No other predefined secondary outcome measure was reported.</LI>
+</UL>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2009-07-03 01:35:26 -0400" MODIFIED_BY="[Empty name]">
+<P>Attempts to contact author for further information unsuccessful.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2011-01-01 12:21:31 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Soe-2008">
+<CHAR_METHODS MODIFIED="2009-07-03 02:12:55 -0400" MODIFIED_BY="[Empty name]">
+<P>Randomised controlled trial</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-01-01 12:21:24 -0500" MODIFIED_BY="[Empty name]">
+<P>Preterm infants (24 - 31 weeks) with respiratory distress or immature lungs.</P>
+<P>In total 98 infants were randomised to pressure (n = 49) or time weaning (n = 49). The subgroups consisted of 44 infants 24 - 27 weeks gestation and 54 infants 28 - 31 weeks gestation.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2011-01-01 12:21:26 -0500" MODIFIED_BY="[Empty name]">
+<P>Time weaning versus pressure weaning over 6 days.</P>
+<P>In the time weaning group, on day one, each time period consisted of seven hours on NCPAP and one hour off. For the next five days, the time on NCPAP was decreased daily by one hour in each period and the time off NCPAP was correspondingly increased by one hour as long as stability criteria (satisfactory gases, incubator oxygen &lt; 0.3, no frequent bradycardia/apnoea) were met.</P>
+<P>The pressure weaning group were treated with <I>Infant Flow Driver</I> CPAP at 6 cm H<SUB>2</SUB>O for two days, then 5 cm H<SUB>2</SUB>O for two days and 4 cm H<SUB>2</SUB>O for two days.</P>
+<P>In both groups the "Not to wean NCPAP criteria" were: pH &lt; 7.25, FiO<SUB>2</SUB> &gt; 0.4, apnoea requiring IPPV, &gt; 1 apnoea requiring stimulation per hour, &gt; 5 self limiting bradycardias/apnoeas per hour, or a decision by an on-call registrar/nurse. If any of these criteria were met the baby did not progress to the next stage or went back a step, whichever was deemed appropriate.</P>
+<P>Infants were considered successfully weaned if they were off NCPAP for six days.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2011-01-01 12:21:30 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<B>Primary outcome measures</B>
+</P>
+<UL>
+<LI>Total NCPAP days. It is unclear if this was calculated from treatment group allocation or total time spent on NCPAP.</LI>
+</UL>
+<UL>
+<LI>Weaned successfully.</LI>
+</UL>
+<UL>
+<LI>No other predefined primary outcome measure was reported.</LI>
+</UL>
+<P>
+<B>Secondary outcome measures</B>
+</P>
+<UL>
+<LI>Duration of hospital stay.</LI>
+</UL>
+<UL>
+<LI>Number of apnoea and bradycardia episodes.</LI>
+</UL>
+<UL>
+<LI>Intraventricular haemorrhage.</LI>
+</UL>
+<UL>
+<LI>Chronic lung disease (not further defined).</LI>
+</UL>
+<UL>
+<LI>Mortality in hospital.</LI>
+</UL>
+<UL>
+<LI>Periventricular leukomalacia.</LI>
+<LI>Retinopathy of prematurity.</LI>
+<LI>No other predefined secondary outcome measure was reported. Total duration of respiratory support (i.e. any form of mechanical ventilation or NCPAP) was not reported.</LI>
+</UL>
+<P>
+<B>Other outcome measures reported in study that were not pre-specified</B>
+</P>
+<UL>
+<LI>pH at 6 and 24 hours. (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP).</LI>
+<LI>pCO<SUB>2</SUB> at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP).</LI>
+<LI>FiO<SUB>2</SUB> at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP).</LI>
+<LI>abdominal circumference at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP).</LI>
+<LI>gastric air volume at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP).</LI>
+<LI>gastric aspirate volume at 6 and 24 hours (it is unclear when these 6 and 24 hour measures were actually made, e.g. day 1 versus every day versus once off NCPAP).</LI>
+</UL>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2011-01-01 12:21:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Study initially published in abstract form but also described in subsequent editorial by Soe</P>
+<P>Attempts to contact author for further information unsuccessful.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2011-01-01 12:21:45 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Todd-2010">
+<CHAR_METHODS MODIFIED="2011-01-01 12:21:36 -0500" MODIFIED_BY="[Empty name]">
+<P>Multicentre randomised controlled trial. Randomisation via online web-based server.</P>
+<P>To meet stability criteria babies must have had all of the following for the previous 12 hours:</P>
+<OL>
+<LI>NCPAP &lt; 6 cm H2O</LI>
+<LI>Oxygen requirement less than 26% and not increasing</LI>
+<LI>RR less than 60</LI>
+<LI>No significant chest recession</LI>
+<LI>Less than 3 episodes of mild self reverting apnoea and/or bradycardias and/or desaturations in 1 hour for the previous 6 hours</LI>
+<LI>Average saturation above 87% most of the time and/or transcutaneous (TcPO2)/arterial PaO2 &gt; 50 mm Hg.</LI>
+<LI>Tolerating nose rests well during nursing cares</LI>
+<LI>Not treated for patent ductus arteriosus (PDA) or sepsis</LI>
+</OL>
+<P>Criteria for failed trial &#8220;OFF&#8221; were at least 2 of the following:</P>
+<OL>
+<LI>Increase work of breathing (Intercostal recession and accessory muscles contributing for respiration) with RR &gt; 75 for &gt; 1 hour</LI>
+<LI>Increased apnoea and/or bradycardias and/or desaturations &gt; 2 in previous 1 hour</LI>
+<LI>Major apnoea or bradycardia requiring more sustained stimulation/ resuscitation</LI>
+<LI>Increased O2 requirement &gt; 25% with average saturation &lt; 85% and/or TcPO2/PaO2 &lt; 45mmHg</LI>
+<LI>pH of &lt; 7.2 6.PaCO2 of &gt; 65 mmHg.</LI>
+</OL>
+<P>The babies were put back on NCPAP if they failed trial &#8220;OFF&#8221; CPAP for 48 hours before the next attempt at weaning was made.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2011-01-01 12:21:37 -0500" MODIFIED_BY="[Empty name]">
+<P>Eligibility criteria</P>
+<OL>
+<LI>Baby born &lt; 30 weeks gestation</LI>
+<LI>Baby requiring NCPAP for &gt; 24 hours</LI>
+<LI>No congenital abnormalities</LI>
+<LI>No severe IVH (Grade IV)</LI>
+<LI>Primary NCPAP of Secondary NCPAP following extubation</LI>
+</OL>
+<P>154 patients enrolled. 50 in method 1, 55 in method 2, 49 in method 3. No significant differences in reported demographics. Mean (SD) gestational age 27.2 +/- 1.4 weeks in method 1, 27.2 +/- 1.7 weeks in method 2 and 27.2 +/- 2.1 weeks in method 3. Mean (SD) birth weight 999 +/- 252 grams in method 1, 1030 +/- 236 grams in method 2 and 940 +/- 254 grams in method 3.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2011-01-01 12:21:39 -0500" MODIFIED_BY="[Empty name]">
+<P>This trial investigated 3 methods of weaning NCPAP.</P>
+<P>Method 1. When the baby reached the stability criteria they were taken off NCPAP.</P>
+<P>Method 2. When the baby reached the stability criteria they were started having periods of time off NCPAP from a minimum of 30 minutes off at a time to completely off. When they were on NCPAP they were on for 6 hours before their next period of time off. The clinician gradually increased the duration of the periods off NCPAP until the baby was completely off.</P>
+<P>Method 3. When the baby reached the stability criteria they started having periods of time off NCPAP as in Method 2, but when the baby was having their time off they had supplemental air or oxygen via nasal cannula at 0.5 L/min.</P>
+<P>Patients were considered successfully weaned if they spent 5 continuous days off NCPAP.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2011-01-01 12:21:45 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<B>Primary outcome measures</B>
+</P>
+<UL>
+<LI>Duration of wean.</LI>
+<LI>No other predefined primary outcome measure has been reported to date, the study is ongoing.</LI>
+</UL>
+<P>
+<B>Secondary outcome measures</B>
+</P>
+<UL>
+<LI>Length of stay.</LI>
+<LI>Duration of oxygen.</LI>
+<LI>No other predefined secondary outcome measure has been reported to date, the study is ongoing.</LI>
+</UL>
+<P>
+<B>Other outcome measures reported in study that were not pre-specified</B>
+</P>
+<UL>
+<LI>Gestational age at discharge was also reported, this provides the same information as length of stay data.</LI>
+</UL>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2010-08-23 18:37:53 -0400" MODIFIED_BY="[Empty name]">
+<P>Study is ongoing and results to date only published in two separate abstracts.</P>
+<P>Australian Clinical Trials Registry Number (ATCRN) ACTRN1260600015594</P>
+<P>Reduction in time of respiratory support. For methods one and two this was defined as 24 hours "OFF" NCPAP and for those in method three, this was 24 hours "OFF" nasal cannula. So the time on NCPAP was calculated from the time commenced NCPAP to "OFF" support. This is recorded once off NCPAP for 5 days.</P>
+<P>Reduction in Chronic Lung Disease (CLD) rate defined as requiring oxygen at 36 weeks postconceptional age. </P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2010-07-01 21:20:06 -0400" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2010-07-01 21:20:06 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Abdel_x002d_Hady-1998">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2010-07-01 21:20:06 -0400" MODIFIED_BY="[Empty name]">
+<P>Not a RCT of methods of weaning NCPAP. One group was weaned and the other group simply stayed on NCPAP.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2009-07-03 01:35:32 -0400" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES MODIFIED="2010-06-21 20:41:38 -0400" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2011-01-01 12:21:48 -0500" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2011-01-01 12:21:46 -0500" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-06-22 22:53:36 -0400" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Singh-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Soe-2008">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-01-01 12:21:46 -0500" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Todd-2010">
+<DESCRIPTION>
+<P>Web-based computer generated</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2011-01-01 12:21:46 -0500" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-07-06 23:33:35 -0400" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Singh-2006">
+<DESCRIPTION>
+<P>Method not described</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2009-07-03 02:20:33 -0400" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Soe-2008">
+<DESCRIPTION>
+<P>Method not described</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-01-01 12:21:46 -0500" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Todd-2010">
+<DESCRIPTION>
+<P>Web-based computer generated</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2011-01-01 12:21:48 -0500" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-08-23 18:41:46 -0400" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Singh-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-08-23 18:41:53 -0400" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Soe-2008">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2011-01-01 12:21:48 -0500" MODIFIED_BY="[Empty name]" RESULT="NO" STUDY_ID="STD-Todd-2010">
+<DESCRIPTION>
+<P>Blinding of intervention not possible</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2010-06-21 20:57:05 -0400" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" RESULT="UNKNOWN" STUDY_ID="STD-Singh-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" RESULT="UNKNOWN" STUDY_ID="STD-Soe-2008">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" RESULT="UNKNOWN" STUDY_ID="STD-Todd-2010">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2010-06-21 20:57:05 -0400" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Singh-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Soe-2008">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Todd-2010">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2010-06-21 20:57:05 -0400" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Singh-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Soe-2008">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Todd-2010">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2010-12-02 12:40:14 -0500" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" MODIFIED="2010-12-02 12:40:14 -0500" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Duration of hospital stay (days)</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-4.361701973648151" CI_START="-4.438298026351847" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-4.399999999999999" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.01" MODIFIED="2010-12-02 12:40:05 -0500" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="51.90614392549857" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="50" TOTAL_2="55" UNITS="" WEIGHT="100.0" Z="225.17717891642988">
+<NAME>Off versus Periods off (no cannulae)</NAME>
+<GROUP_LABEL_1>Off</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods off (no cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-4.361701973648151" CI_START="-4.438298026351847" EFFECT_SIZE="-4.399999999999999" ESTIMABLE="YES" MEAN_1="54.2" MEAN_2="58.6" MODIFIED="2010-06-25 01:12:42 -0400" MODIFIED_BY="[Empty name]" ORDER="3" SD_1="0.1" SD_2="0.1" SE="0.01954016841836789" STUDY_ID="STD-Todd-2010" TOTAL_1="50" TOTAL_2="55" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-12.537516590076033" CI_START="-12.662483409923956" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-12.599999999999994" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.02" MODIFIED="2010-12-02 12:40:14 -0500" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="85.95654740198617" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="50" TOTAL_2="49" UNITS="" WEIGHT="100.0" Z="395.2336505843306">
+<NAME>Off versus Periods off (plus cannulae)</NAME>
+<GROUP_LABEL_1>Off</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods off (cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-12.537516590076033" CI_START="-12.662483409923956" EFFECT_SIZE="-12.599999999999994" ESTIMABLE="YES" MEAN_1="54.2" MEAN_2="66.8" MODIFIED="2010-06-25 01:15:55 -0400" MODIFIED_BY="[Empty name]" ORDER="4" SD_1="0.1" SD_2="0.2" SE="0.03187987657774485" STUDY_ID="STD-Todd-2010" TOTAL_1="50" TOTAL_2="49" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-8.138078018362656" CI_START="-8.261921981637336" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-8.199999999999996" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.03" MODIFIED="2010-06-25 01:17:40 -0400" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="55" TOTAL_2="49" UNITS="" WEIGHT="100.0" Z="259.5476476730994">
+<NAME>Periods off - no cannulae versus cannulae</NAME>
+<GROUP_LABEL_1>Periods off (no cannulae)</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods off (cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-8.138078018362656" CI_START="-8.261921981637336" EFFECT_SIZE="-8.199999999999996" ESTIMABLE="YES" MEAN_1="58.6" MEAN_2="66.8" MODIFIED="2010-06-25 01:17:40 -0400" MODIFIED_BY="[Empty name]" ORDER="5" SD_1="0.1" SD_2="0.2" SE="0.031593428310812154" STUDY_ID="STD-Todd-2010" TOTAL_1="55" TOTAL_2="49" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" MODIFIED="2010-12-02 11:58:09 -0500" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Time (from treatment allocation) to successfully coming off NCPAP altogether</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-5.055013944143117" CI_START="-5.74498605585688" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-5.399999999999999" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.01" MODIFIED="2010-06-25 01:21:58 -0400" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="50" TOTAL_2="55" UNITS="" WEIGHT="100.0" Z="30.67893712465592">
+<NAME>Off versus Periods off (no cannulae)</NAME>
+<GROUP_LABEL_1>Off</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods off (no cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-5.055013944143117" CI_START="-5.74498605585688" EFFECT_SIZE="-5.399999999999999" ESTIMABLE="YES" MEAN_1="8.8" MEAN_2="14.2" MODIFIED="2010-06-25 01:21:58 -0400" MODIFIED_BY="[Empty name]" ORDER="7" SD_1="0.8" SD_2="1.0" SE="0.17601652814954108" STUDY_ID="STD-Todd-2010" TOTAL_1="50" TOTAL_2="55" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-8.973781976378945" CI_START="-9.826218023621053" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-9.399999999999999" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" MODIFIED="2010-06-25 01:23:14 -0400" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="50" TOTAL_2="49" UNITS="" WEIGHT="100.0" Z="43.22590888614507">
+<NAME>Off versus Periods off (plus cannulae)</NAME>
+<GROUP_LABEL_1>Off</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods off (cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-8.973781976378945" CI_START="-9.826218023621053" EFFECT_SIZE="-9.399999999999999" ESTIMABLE="YES" MEAN_1="8.8" MEAN_2="18.2" MODIFIED="2010-06-25 01:23:14 -0400" MODIFIED_BY="[Empty name]" ORDER="8" SD_1="0.8" SD_2="1.3" SE="0.21746217123529174" STUDY_ID="STD-Todd-2010" TOTAL_1="50" TOTAL_2="49" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-3.55018244077698" CI_START="-4.449817559223019" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-4.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.03" MODIFIED="2010-06-25 01:25:31 -0400" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="4.9735289337958285E-68" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="55" TOTAL_2="49" UNITS="" WEIGHT="100.0" Z="17.42896820591482">
+<NAME>Periods off - no cannulae versus cannulae</NAME>
+<GROUP_LABEL_1>Periods off (no cannulae)</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods off (cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-3.55018244077698" CI_START="-4.449817559223019" EFFECT_SIZE="-4.0" ESTIMABLE="YES" MEAN_1="14.2" MEAN_2="18.2" MODIFIED="2010-06-25 01:25:31 -0400" MODIFIED_BY="[Empty name]" ORDER="9" SD_1="1.0" SD_2="1.3" SE="0.2295029718765871" STUDY_ID="STD-Todd-2010" TOTAL_1="55" TOTAL_2="49" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" MODIFIED="2010-12-02 11:58:09 -0500" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Duration of oxygen therapy (days)</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-14.944283590952292" CI_START="-16.255716409047704" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-15.599999999999998" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.01" MODIFIED="2010-06-25 01:09:38 -0400" MODIFIED_BY="[Empty name]" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="50" TOTAL_2="55" UNITS="" WEIGHT="100.0" Z="46.629057526910756">
+<NAME>Off versus Periods off (no cannulae)</NAME>
+<GROUP_LABEL_1>Off CPAP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods Off (no cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-14.944283590952292" CI_START="-16.255716409047704" EFFECT_SIZE="-15.599999999999998" ESTIMABLE="YES" MEAN_1="20.3" MEAN_2="35.9" MODIFIED="2010-06-25 01:04:05 -0400" MODIFIED_BY="[Empty name]" ORDER="1" SD_1="1.4" SD_2="2.0" SE="0.3345553358224506" STUDY_ID="STD-Todd-2010" TOTAL_1="50" TOTAL_2="55" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-10.341517817551651" CI_START="-11.658482182448349" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-11.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.02" MODIFIED="2010-06-25 01:10:31 -0400" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="50" TOTAL_2="49" UNITS="" WEIGHT="100.0" Z="32.74136249181159">
+<NAME>Off versus Periods off (plus cannulae)</NAME>
+<GROUP_LABEL_1>Off CPAP</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods Off with cannulae</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-10.341517817551651" CI_START="-11.658482182448349" EFFECT_SIZE="-11.0" ESTIMABLE="YES" MEAN_1="20.3" MEAN_2="31.3" MODIFIED="2010-06-25 01:07:50 -0400" MODIFIED_BY="[Empty name]" ORDER="2" SD_1="1.4" SD_2="1.9" SE="0.3359664706302626" STUDY_ID="STD-Todd-2010" TOTAL_1="50" TOTAL_2="49" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="5.349928278006595" CI_START="3.850071721993401" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="4.599999999999998" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.03" MODIFIED="2010-06-25 01:19:31 -0400" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="2.714371416810266E-33" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="55" TOTAL_2="49" UNITS="" WEIGHT="100.0" Z="12.02226211931821">
+<NAME>Periods off - no cannulae versus cannulae</NAME>
+<GROUP_LABEL_1>Periods off (no cannulae)</GROUP_LABEL_1>
+<GROUP_LABEL_2>Periods off (cannulae)</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="5.349928278006595" CI_START="3.850071721993401" EFFECT_SIZE="4.599999999999998" ESTIMABLE="YES" MEAN_1="35.9" MEAN_2="31.3" MODIFIED="2010-06-25 01:19:31 -0400" MODIFIED_BY="[Empty name]" ORDER="6" SD_1="2.0" SD_2="1.9" SE="0.3826234991672987" STUDY_ID="STD-Todd-2010" TOTAL_1="55" TOTAL_2="49" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

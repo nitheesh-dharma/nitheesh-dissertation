@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002166" GROUP_ID="AIRWAYS" ID="435799110411155769" MERGED_FROM="" MODIFIED="2008-09-30 16:00:32 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.1&lt;br&gt;Technical Edit by CJCates 30/10/2001&lt;br&gt;Checklist for Technical Editing&lt;/p&gt;&lt;p&gt;Authors and contributions: ok&lt;/p&gt;&lt;p&gt;References: ok &lt;/p&gt;&lt;p&gt;Table of included studies: very thin, details of study type (parallel?), elements of Jadad score, patient types and locations all should be added please.&lt;/p&gt;&lt;p&gt;Text of the review:&lt;br&gt;Synopsis is missing. [I have made a stab at this]&lt;br&gt;OUTCOMES: A primary outcome is needed from this extensive list to avoid data-dredging. [Mike thought endurance would do so i have put this first]&lt;br&gt;METHODS: rather thin with no mention of subgroup analysis, sensitivity analyses, or checking for publication bias.  &lt;br&gt;RESULTS: there appear to be huge baseline differences between the active and control groups suggesting possible problems with randomisation.  Do the authors mention this.  I think it would be possible to enter some of the data into Metaview on the basis of  the change from baseline with a standard error back calculated from the P value so that control and active groups can be compared.  This may not be worth it if full data can be obtained from the authors or will be published soon.  The current comparisons to baseline alone are not of any use (as the authors point out).  PLEASE SEE BELOW FOR MY STAB AT THIS.&lt;br&gt;DISCUSSION: I am not sure that any conclusion can be drawn about the benefit of treatment until enough data is presented to allow comparison of active and control arms.  At the moment too much emphasis is being put on the results of a flawed analysis......&lt;/p&gt;&lt;p&gt;&lt;br&gt;6/11/2001&lt;br&gt;Key issues discussed on the phone with Mike Greenstone:&lt;br&gt;1. He will try to find out from the authors if the patients in the 2 Newell trials overlap (pooling of totals is not appropriate if they are the same patients!) for now I have assumed they are separate and gone ahead and pooled the results from the two trials.&lt;br&gt;2. Data from the post treatment columns have been entered into RevMan for analysis to compare the results of treatment with the results of sham or no treatment; (it is not correct to separately assess the p values of the treatment results compared to its baseline and the placebo compared to placebo baseline).&lt;br&gt;3. I have entered all the data into RevMan both as change and absolute results.  Since the baselines are quite different for some outcomes I suggest change scores are the most reliable to use.&lt;br&gt;4.  No data is presented from the 3rd group in Newellb so I have deleted the reference to the effects of PR as they cannot be elicited from the data provided.&lt;br&gt;5.  Using Metaview the effect sizes can be assessed using the SMD and are not quite the same as those presented previously.  I am not sure where the other effect sizes came from so have taken them out but feel free to re-instate these if suitable data is available to back them up.  Do you have other data not shown in the abstracts?&lt;/p&gt;&lt;p&gt;As you will see I have substantially altered the results and a bit of the discussion in the review as well as adding a synopsis and making some alterations to the abstract results section.  I hoped it would be helpful to do this for you, but please get back to me about the changes suggested.  Could you check through the altered version and let me know if you are happy with it ?&lt;/p&gt;&lt;p&gt;chris@nntonline.net&lt;/p&gt;&lt;p&gt;Toby/ Steve&lt;/p&gt;&lt;p&gt;Find attached ammended review which has changes made as per &lt;br&gt;Chris's instructions.&lt;/p&gt;&lt;p&gt;Can you address the following issues:&lt;/p&gt;&lt;p&gt;1. Should WMD be calculated for RV, VC, TLC see Newall a. If so &lt;br&gt;we would need to be instructed on how to do.&lt;br&gt;I AM NOT SURE THAT THIS WOULD ADD MUCH IF IT IS FROM ONE STUDY (cjc)&lt;/p&gt;&lt;p&gt;2. Re heterogenity- Chris states that post treatment scores for &lt;br&gt;endurance shows heterogenity p=0.08. However change scores for &lt;br&gt;QoL also show heterogenity p=0.07. How do we deal with this.&lt;br&gt;SINCE THERE ARE ONLY TWO STUDIES WE HAVE DECIDED TO STICK WITH A FIXED MODEL FOR THIS.&lt;/p&gt;&lt;p&gt;Thanks&lt;/p&gt;&lt;p&gt;Judy and Fidelma&lt;/p&gt;&lt;p&gt;22/2/2&lt;br&gt;I am happy to sign this off and pass the review on to Paul.&lt;br&gt;Chris&lt;/p&gt;" NOTES_MODIFIED="2008-09-30 14:59:38 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" REVIEW_NO="PHYS-BRO" REVMAN_SUB_VERSION="5.0.16" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2008-09-30 16:00:32 +0200" MODIFIED_BY="Toby Lasserson">
+<TITLE>Physical training for bronchiectasis</TITLE>
+<CONTACT MODIFIED="2008-09-30 16:00:32 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="11610" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Judy</FIRST_NAME><MIDDLE_INITIALS>M</MIDDLE_INITIALS><LAST_NAME>Bradley</LAST_NAME><POSITION>Reader in Physiotherapy</POSITION><EMAIL_1>jm.bradley@ulster.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Rehabilitation Sciences Research Institute School</DEPARTMENT><ORGANISATION>University of Ulster and Belfast City Hospital</ORGANISATION><ADDRESS_1>University of Ulster</ADDRESS_1><ADDRESS_2>Shore Road</ADDRESS_2><CITY>Newtownabbey</CITY><ZIP>BT37 0QB</ZIP><REGION>Northern Ireland</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 2890 368991</PHONE_1><PHONE_2>+44 2890 329241 ext. 2719</PHONE_2><FAX_1>+44 2890 368419</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2008-09-30 16:00:32 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="11610" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Judy</FIRST_NAME><MIDDLE_INITIALS>M</MIDDLE_INITIALS><LAST_NAME>Bradley</LAST_NAME><POSITION>Reader in Physiotherapy</POSITION><EMAIL_1>jm.bradley@ulster.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Rehabilitation Sciences Research Institute School</DEPARTMENT><ORGANISATION>University of Ulster and Belfast City Hospital</ORGANISATION><ADDRESS_1>University of Ulster</ADDRESS_1><ADDRESS_2>Shore Road</ADDRESS_2><CITY>Newtownabbey</CITY><ZIP>BT37 0QB</ZIP><REGION>Northern Ireland</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 2890 368991</PHONE_1><PHONE_2>+44 2890 329241 ext. 2719</PHONE_2><FAX_1>+44 2890 368419</FAX_1></ADDRESS></PERSON><PERSON ID="11757" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Fidelma</FIRST_NAME><LAST_NAME>Moran</LAST_NAME><POSITION>Lecturer in Physiotherapy</POSITION><EMAIL_1>f.moran@ulster.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Room 14J07, School of Health Sciences</DEPARTMENT><ORGANISATION>University of Ulster</ORGANISATION><ADDRESS_1>Shore Road</ADDRESS_1><CITY>Newtownabbey</CITY><ZIP>BT37 0QB</ZIP><REGION>Northern Ireland</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 2890 366193</PHONE_1><FAX_1>+44 2890 368419</FAX_1></ADDRESS></PERSON><PERSON ID="7552" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Michael</FIRST_NAME><LAST_NAME>Greenstone</LAST_NAME><POSITION>Consultant Chest Physician</POSITION><EMAIL_1>greenstone.mike@googlemail.com</EMAIL_1><EMAIL_2>mike.greenstone@hey.nhs.uk</EMAIL_2><ADDRESS><ORGANISATION>Castle Hill Hospital</ORGANISATION><CITY>Cottingham</CITY><ZIP>HU16 5JQ</ZIP><REGION>North Humberside</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 1482 875875</PHONE_1><FAX_1>+44 1482 876331</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-09-30 14:56:26 +0100" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Minor update: 2/12/02&lt;/p&gt;&lt;p&gt;New studies sought but none found: 2/3/04&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 2/10/05&lt;/p&gt;" NOTES_MODIFIED="2008-09-30 14:56:26 +0100" NOTES_MODIFIED_BY="Toby Lasserson">
+<UP_TO_DATE>
+<DATE DAY="10" MONTH="2" YEAR="2005"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="10" MONTH="2" YEAR="2005"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="2001"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2002"/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2002"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="30" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="1" MONTH="2" YEAR="2002"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>NHS Research and Development</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Garfield Weston Foundation</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-09-30 14:59:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2008-09-30 14:57:02 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-09-30 14:57:02 +0100" MODIFIED_BY="Toby J Lasserson">Physical training for bronchiectasis</TITLE>
+<SUMMARY_BODY>
+<P>A search for controlled trials of physical training in bronchiectasis only identified two early reports (abstracts) including 43 patients in total. These suggest some benefits of inspiratory muscle training on exercise capacity, quality of life and respiratory muscle function at eight weeks, but further research is needed to confirm these findings in larger numbers of people with bronchiectasis. Further research is also needed to assess the benefit of other types of physical training and pulmonary rehabilitation in bronchiectasis.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>The pathophysiology of bronchiectasis may result in the development of dyspnoea and decreased exercise tolerance, both of which can impact on a patient's quality of life and ability to perform activities of daily living. There is little information regarding the benefits of physical training in bronchiectasis: however it is probable that the benefits of physical training in bronchiectasis are at least comparable to benefits demonstrated in other respiratory conditions. There is also no information regarding the effects of non-adherence to prescribed physical training in bronchiectasis. However as in patients with COPD non-adherence may contribute to a deterioration in the patient's condition and conceivably the long term prognosis. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>The objective of this review is to determine whether a prescribed regime of physical training produces improvements or prevents deterioration in physiological and clinical outcomes in bronchiectasis compared to no physical training.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Airways Group trials register and the Cochrane Central Register of Controlled Trials.<BR/> </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised or quasi randomised controlled trials in which a prescribed regimen of physical training is compared to no physical training in patients with bronchiectasis. </P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>We identified three studies. One was did not meet the inclusion criteria and two appeared in abstract form only. More comprehensive data will be incorporated into this review once data from those two trials are published, and when further data is made available to the authors of this review. An update search in February 2005 identified one excluded study. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Results from the two studies published in abstract showed that inspiratory muscle training compared to sham or no inspiratory muscle training improved endurance exercise capacity: Weighted Mean Difference (WMD) 264 metres (95% CI 16.4 to 512 metres). Maximum inspiratory pressure (PiMax) improved: WMD 25 cms H20 (95% CI 11.6 to 38.4 cms H2O ) as did quality of life measured with the CRQ: WMD 12.4 units (95% CI 2.4 to 22.5 units). <BR/> </P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>This review only provides evidence of the benefits of inspiratory muscle training and provides no evidence of the effect of other types of physical training (including pulmonary rehabilitation) in bronchiectasis. </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-09-30 14:59:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND>
+<P>Bronchiectasis can be defined as a disease that results in an abnormal dilatation of one or more bronchi. The primary cause of bronchiectasis is an insult to the respiratory tract e.g. severe pneumonia, viral infection or aspiration of a foreign body. Genetic diseases such as cystic fibrosis (CF), primary ciliary dyskinesia (including Kartagener's syndrome) and immunodeficiency can also result in bronchiectasis. Any one of these conditions predisposes the airways to lower respiratory colonisation by bacteria such as Haemophilus influenzae or Pseudomonas aeruginosa. </P>
+<P>Although infection and obstruction are implicated in the development of bronchiectasis , the inflammatory response may also be important in disease progression: the host's response to infection may fail to completely eradicate the infecting organism and chronic colonisation is established . A vicious cycle of microbial colonisation/ infection has been proposed whereby bacteria elaborate substances toxic to the mucociliary escalator and perpetuates the failure to eliminate the organisms. The inflammatory response leads to further damage of the bronchial tree and lung parenchyma and is usually associated with excessive secretions and the development of airflow obstruction. </P>
+<P>The consequences of this may include the development of chronic respiratory symptoms including cough, excessive purulent sputum, haemoptysis, breathlessness and decreased exercise tolerance. The causes of breathlessness and decreased exercise tolerance are multifactorial and may include altered pulmonary mechanics, inefficient gas exchange, decreased muscle bulk and confounding psychological morbidity. All of these factors initiate a cyclical phenomenon whereby decreased exercise tolerance leads to progressive detraining which in turn results in further reductions in exercise tolerance. </P>
+<P>Physical training is defined as participation in a programme of regular vigorous physical activity designed to improve physical performance, and/or cardiovascular function and/or muscle strength (<LINK REF="REF-Shepherd-1994" TYPE="REFERENCE">Shepherd 1994</LINK>). Physical training has been shown to improve exercise tolerance and reduce symptoms of breathlessness in many patient populations including CF and chronic obstructive pulmonary disease (COPD). A meta-analysis of randomised trials examining the role of physical training in COPD conducted by <LINK REF="REF-Smith-1992" TYPE="REFERENCE">Smith 1992</LINK>, indicated a small non-significant trend in favour of respiratory muscle training for most outcomes. There is little information regarding the benefits of physical training in bronchiectasis: however it is probable that the benefits of physical training in bronchiectasis are at least comparable to benefits demonstrated in other respiratory conditions (<LINK REF="REF-Morgan-1997" TYPE="REFERENCE">Morgan 1997</LINK>). There is also no information regarding the effects of non-adherence to prescribed physical training in bronchiectasis. However as in patients with COPD non-adherence may contribute to a deterioration in the patient's condition and conceivably the long term prognosis.</P>
+<P>This review will aim to determine the evidence base benefit for the use of physical training programmes in the management of patients with bronchiectasis. </P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>The objective of this review is to determine whether a prescribed regime of physical training in bronchiectasis produces improvements or prevents deterioration in physiological and clinical outcomes in bronchiectasis compared to no physical training.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-09-30 14:58:46 +0100" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA MODIFIED="2008-09-30 14:58:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>Only randomised or quasi -randomised controlled trials in which a prescribed regimen of physical training is compared to no physical training in patients with bronchiectasis will be considered for this review. Single blind and open studies will be considered for inclusion.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>We will include patients (adults and children) with stable bronchiectasis. Patients with cystic fibrosis will be excluded. Diagnosis will be based on symptoms and appropriate imaging (bronchography or high resolution CT scanning).</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>We will consider any type of prescribed physical training including pulmonary rehabilitation. We will record, wherever possible, the precise nature of the training (intensity, frequency and duration) will be recorded. We will exclued any studies which do not include a prescribed physical training component. Important alterations in patient management such as airway clearance techniques or medication must be controlled for. </P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-09-30 14:58:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The most appropriate outcome measure in bronchiectasis has not been defined. The assessment of impairment, disability and handicap is necessary to provide a comprehensive evaluation of treatment outcome.<BR/>
+</P>
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-09-30 14:57:24 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Exercise tolerance: Objective change in exercise tolerance (maximal oxygen uptake (VO2 max), peak oxygen uptake (VO2 peak), maximal ventilation (Ve max), heart rate, subjective assessment of dyspnoea) as measured during formal exercise tests or field exercise tests.</P>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2008-09-30 14:58:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<OL>
+<LI>Measures of specific indices of respiratory muscle strength: peak inspiratory pressure (PImax), peak expiratory strength (PEMax). Other measures of muscle strength, mass, effort and general fatigue will be included.</LI>
+<LI>Pulmonary function tests: forced expiratory volume in one second (FEV1), forced vital capacity (FVC), forced expiratory flow at 25 to 75% of FVC (FEF25-75), peak expiratory flow (PEF), total lung capacity (TLC) and fixed respiratory capacity (FRC): change in % predicted or and absolute change from baseline compared to control will be assessed. Peak inspiratory If other parameters are used, they will be considered.</LI>
+<LI>Dyspnoea: All measures of dyspnoea used will be considered.</LI>
+<LI>Quality of life: Change in quality of life as measured by generic or disease - specific quality of life instruments, or by subjective perception of well-being. All quality of life instruments used will be considered.</LI>
+<LI>Weight: Absolute weight change, change in % ideal body weight, or weight standard deviation score or change in body composition will be assessed.</LI>
+<LI>Expectorated secretions: Dry or wet weight or volume.</LI>
+<LI>Changes in physical symptoms such as cough and wheeze</LI>
+<LI>Number of acute exacerbations, duration, hospitalisation, IV antibiotic courses and time off work will be considered.</LI>
+<LI>Oxygen saturation measured by pulsed or transcutaneous oximetry.</LI>
+<LI>Compliance with physical training will be recorded in detail.</LI>
+<LI>Compliance with other treatment, such as airway clearance techniques, nutritional regimes if measured. Methods of assessing compliance will be recorded in detail.</LI>
+<LI>Adverse effects including fractures, skeletal muscle injuries and death will be recorded.</LI>
+<LI>Cost evaluation.</LI>
+</OL>
+<P>If outcomes have been measured more than once in a study, we will record the outcome measured most distant from the commencement of physical training.</P>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>We carried out a search using the Cochrane Airways Group trials register and the Cochrane Central Register of Controlled Trials. This database is comprised of systematic MEDLINE, CINAHL and EMBASE searches. </P>
+<P>We searched these registers using the search terms; </P>
+<P>Bronchiectasis AND training OR physical training OR physical fitness OR physical activity OR physical rehabilitation OR physical therapy OR exercise training OR exercise rehabilitation OR exercise therapy OR exercise OR pulmonary rehabilitation OR physiotherapy </P>
+<P>We searched the reference lists of each RCT for additional studies. We also contacted authors of RCTs for information on other published and unpublished studies. </P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-09-30 14:58:46 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two reviewers (JB, FM) independently selected the trials to be included in the review using a proforma capturing the main inclusion criteria listed above. Each reviewer assessed the methodological quality of each included trial.</P>
+<P>The methodological quality of the RCTs was assessed using the modified version of the five point instrument proposed by <LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK> and the system for assessing treatment allocation concealment used by the Cochrane Collaboration.</P>
+<P>JADAD FIVE POINT SYSTEM:<BR/>(1) Was the study described as randomised (1 = yes; 0 = no)?<BR/>(2) Was the study described as being double blind (1 = yes; 0 = no)?<BR/>(3) Was there a description of withdrawals and dropouts (1 = yes; 0 = no)?<BR/>(4) Was the method of randomisation well described and appropriate (1 = yes; 0 = no)?<BR/>(5) Was the method of double blinding well described and appropriate (1 = yes; 0 = no)?<BR/>(6) Deduct 1 point if methods for randomisation or blinding were inappropriate.</P>
+<P>Concealment system:<BR/>A - adequate concealment<BR/>B - uncertain<BR/>C - clearly inadequate</P>
+<P>We resolved disagreements by consensus.</P>
+<P>For binary outcome measures, we sought data on the number of participants with each outcome event, by allocated treated group, (irrespective of compliance or subsequent eligibility) to allow an intention-to-treat analysis. For continuous outcomes, we aimed to record either mean change from baseline for each group or mean post treatment / intervention values and the standard deviation (SD) or standard error (standard error will be converted to SD). For binary outcomes, we aimed to calculate a pooled estimate of the treatment effect for each outcome across studies, (the odds of an outcome among treatment allocated patients to the corresponding odds among controls). For continuous outcomes we aimed to calculate a pooled estimate of treatment effect by calculating the weighted mean difference.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-09-30 14:59:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION>
+<P>Electronic searches yielded a total of 38 references. Three of these were identified as potentially relevant. One was excluded (<LINK REF="STD-Choe-1996" TYPE="STUDY">Choe 1996</LINK>), for details see "Excluded studies table". The other two fulfilled the inclusion criteria for the review but have been published in abstract form only. In spite of efforts to obtain complete data from these trials none has been made available to the authors of this review. It is anticipated that more complete data will be available at a later date and will be incorporated into updated versions of this review. An update search conducted in February 2005 identified one excluded study (<LINK REF="STD-Kellett-2005" TYPE="STUDY">Kellett 2005</LINK>). </P>
+<P>Both studies are described below, but will be subject to amendment upon their full journal publication. </P>
+<P>
+<LINK REF="STD-Newall-2000a" TYPE="STUDY">Newall 2000a</LINK> was a randomised controlled eight week study. NIneteen participants were involved (10 in the inspiratory muscle training group, nine in the control group). Inspiratory muscle training was carried out using a pressure threshold device. The control group had no intervention. Concealment of allocation was unclear and no drop outs were reported. </P>
+<P>
+<LINK REF="STD-Newall-2000b" TYPE="STUDY">Newall 2000b</LINK> was a randomised controlled study, conducted over an eight week period. 33 patients were randomised to receive either inspiratory muscle training (using a pressure threshold device) plus pulmonary rehabilitation (education, exercise training) or sham inspiratory muscle training plus pulmonary rehabilitation or no intervention. Twelve participants were in the active inspiratory muscle training group, 12 in the sham inspiratory muscle training group and nine in the control group. No data was available for the control group in this study.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-09-30 14:58:52 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>In the two trials in this review, we ranked the method of concealment unclear (Grade B). Both studies achieved a score of 1/5 on the Jadad scale however both studies are only available in abstract form and this score may change when the full text studies are published. We will, therefore, provide a clearer indication of study quality when more data becomes available.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-09-30 14:59:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>A limited amount of data was reported in abstract form on 43 participants with bronchiectasis from the two included studies (<LINK REF="STD-Newall-2000a" TYPE="STUDY">Newall 2000a</LINK>; <LINK REF="STD-Newall-2000b" TYPE="STUDY">Newall 2000b</LINK>). No data was available for the control group in <LINK REF="STD-Newall-2000b" TYPE="STUDY">Newall 2000b</LINK>, therefore no comparison has been made between pulmonary rehabilitation and no pulmonary rehabilitation. There were considerable baseline difference between groups in the studies. Therefore the results have been presented using changes from baseline, but the absolute post treatment results are also shown as a second comparison.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">EXERCISE TOLERANCE</HEADING>
+<P>The pooled results of the two studies show significant increase from baseline in the inspiratory muscle training group versus sham or no inspiratory muscle training in endurance (method of assessment not detailed), Weighted Mean Difference (WMD) 264 metres (95% CI 16.4 to 512 metres). Maximal exercise capacity (incremental shuttle walking test) did not show a significant increase from baseline, WMD 54 metres (95% CI -34 to 142 metres). The post treatment results showed bigger treatment effects, but also introduced heterogeneity. The baseline endurance in the treatment group was 160 m less (500 m versus 661 m) in the treatment group in <LINK REF="STD-Newall-2000a" TYPE="STUDY">Newall 2000a</LINK> and 328 m more (732 m versus 404 m) in <LINK REF="STD-Newall-2000b" TYPE="STUDY">Newall 2000b</LINK>.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">QUALITY OF LIFE</HEADING>
+<P>The pooled results of the two studies indicate an increase in the quality of life following treatment compared to baseline in the inspiratory muscle training group versus sham or no inspiratory muscle training WMD 12.4 units on the CRQ scale (95% CI 2.38 to 22.48). Again the larger treatment effects shown in the post treatment scores relate to the higher baseline quality of life in the treatment groups.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">PULMONARY FUNCTION</HEADING>
+<P>Pooled results from the two trials showed significant increases in maximal inspiratory pressure (PiMax) from baseline following treatment compared to baseline in the inspiratory muscle training group versus sham or no inspiratory muscle training WMD 25 cms of water (95% CI 11.6 to 38.4 cms). Post treatment analysis showed similar results.</P>
+<P>At present there is no evidence from randomised control trials to indicate whether physical training in bronchiectasis has an effect on peripheral muscle strength, mass, effort and general fatigue; dyspnoea; weight; expectorated secretions; physical symptoms; number of and treatment of acute exacerbations; duration, hospitalisation, IV antibiotic courses and time off work ; oxygen saturation of the haemoglobin of arterial blood (SaO2); bone mineral density and diabetes; compliance; nutritional regimes; adverse effects and cost.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>This systematic review examined the effectiveness of physical training in the management of bronchiectasis. This was in order to determine whether a prescribed regimen of physical training in bronchiectasis produces improvements or prevents deterioration, in physiological and clinical outcomes in bronchiectasis compared to no physical training.</P>
+<P>Despite an exhaustive review of available literature, we only identified two relevant primary trials. Both of these trials investigated the efficacy of inspiratory muscle training in bronchiectasis. As there are only two studies the results should be viewed in the context of possible publication bias. </P>
+<P>Neither study was reported to be double blinded however this quality issue must be considered in the context of the difficulty of blinding any type of physical training study. Both studies used random allocation, however neither provided details on the specific procedures used. This may be due to the fact that both studies were reported in abstract form only. In both studies the randomisation used was not successful in ensuring the groups were balanced at baseline in all measures. These quality issues effect the internal validity of the studies and justify the low Jadad scores reported. </P>
+<P>The primary outcome measure in this review was exercise tolerance. Secondary outcome measures included pulmonary function tests and quality of life. Analyses of the two studies suggest that there is some evidence of the effect of inspiratory muscle training on endurance exercise capacity, lung function and quality of life but did not show any benefit in terms of maximal exercise capacity. Baseline differences make it difficult to be sure of the size of the treatment effect, and the standard deviation of the changes from baseline is not reported so has been assumed to be similar to the standard deviation of the post treatment results (this is likely to be a conservative estimate).</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>It has been suggested that the magnitude of improvement from physical training programmes in patients with bronchiectasis should at least be comparable to the improvements demonstrated in other respiratory disease populations. These claims are based primarily on expert opinion of the benefits of training in bronchiectasis, albeit supported by a sound physiological rationale. This review only provides evidence of the benefits of inspiratory muscle training and provides no evidence of the effect of other types of physical training (including pulmonary rehabilitation) in bronchiectasis. </P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>This review has identified that there are no trials assessing the effect of physical training in bronchiectasis. There is a need for well designed, adequately powered, randomised controlled clinical trials to assess the net benefit (positive effects and side effects) of adherence to different forms of prescribed physical training programmes, in patients with bronchiectasis. As it is likely that the benefits and side effects of adherence to different types of physical training differs in patients with mild, moderate and severe disease, the influence of disease severity should be considered in the design of any future trial. The full benefit of any prescribed physical training is unlikely to be demonstrated in programmes that are of insufficient length or intensity. Therefore any future trial should be of sufficient duration, intensity and frequency to assess the net benefit of training on measures of disease impairment, disability and handicap. Further research should also consider whether physical training programmes delivered within the context of a pulmonary rehabilitation program offers any additional advantages to physical training alone. </P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We gratefully thank Claire Allen for assistance with the preparation of the synopsis and Kirsty Olsen who copy edited this review.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>The review was conceived by the Cochrane Airways Group and designed by Dr Judy Bradley and Ms Fidelma Moran. Searches for relevant studies were conducted by Dr Judy Bradley and Ms Fidelma Moran and by the Cochrane Airways Group. Dr Judy Bradley and Ms Fidelma Moran screened, appraised and abstracted data for review. Data entry was and analysis was performed by Dr Judy Bradley and Ms Fidelma Moran with advice from the editor, Dr Mike Greenstone and the Cochrane Airways Group</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-09-30 14:58:46 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Newall-2000a" NAME="Newall 2000a" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Newall C, Henson M, McConnell AK, Stockley RA, Hill SL</AU>
+<TI>The effect of inspiratory muscle training (IMT) on pulmonary function, exercise tolerance, and quality of life in patients with bronchiectasis (BE)</TI>
+<SO>European Respiratory Society</SO>
+<YR>2000</YR>
+<VL>August- September</VL>
+<PG>1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Newall-2000b" NAME="Newall 2000b" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Newall C, Henson M, McConnell AK, Stockley RA, Hill SL</AU>
+<TI>The effects of pulmonary rehabilitation (PR ) in patients with bronchiectasis (BE)</TI>
+<SO>European Respiratory Society</SO>
+<YR>2000</YR>
+<VL>August-Sept</VL>
+<PG>3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Choe-1996" NAME="Choe 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Choe KH Park YJ, et al</AU>
+<TI>The effect of pulmonary rehabilitation in patients with chronic lung disease</TI>
+<SO>Tuberculosis and respiratory diseases</SO>
+<YR>1996</YR>
+<VL>43</VL>
+<NO>5</NO>
+<PG>736-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kellett-2005" NAME="Kellett 2005" YEAR="2005">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kellett F, Redfern J, Niven RMcL</AU>
+<TI>Evaluation of nebulised hypertonic saline (7%) as an adjunct to physiotherapy in patients with stable bronchiectasis</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2005</YR>
+<VL>99</VL>
+<NO>1</NO>
+<PG>27-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-09-30 14:58:46 +0100" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2008-09-30 14:58:46 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Jadad-1996" MODIFIED="2008-09-30 14:58:46 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad A, Moore RA, Carroll D, Jenkinson C, Reynolds JM, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports of randomised controlled trials: is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Morgan-1997" MODIFIED="2008-09-30 14:57:18 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Morgan 1997" TYPE="BOOK">
+<AU>Morgan M, Singh S</AU>
+<SO>Practical Pulmonary Rehabilitation</SO>
+<YR>1997</YR>
+<EN>1st</EN>
+<PB>Chapman and Hall Medical</PB>
+<CY>London</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Revill-1999" NAME="Revill 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Revill SM, Morgan MDL, Singh SJ, Williams J, Hardman AE</AU>
+<TI>The endurance shuttle walk: A new field test for the assessment of endurance capacity in chronic obstructive pulmonary disease</TI>
+<SO>Thorax</SO>
+<YR>1999</YR>
+<VL>54</VL>
+<NO>3</NO>
+<PG>213-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Shepherd-1994" MODIFIED="2008-09-30 14:57:18 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Shepherd 1994" TYPE="BOOK">
+<AU>Shephard RJ</AU>
+<SO>Aerobic Fitness and Health</SO>
+<YR>1994</YR>
+<PB>Human Kinetic Publishers</PB>
+<CY>Leeds, England</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Smith-1992" MODIFIED="2008-09-30 14:57:18 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Smith 1992" TYPE="JOURNAL_ARTICLE">
+<AU>Smith K, Cook D, Guyatt G, Madhavan J, Oxman A</AU>
+<TI>Respiratory Muscle Training in Chronic Airflow Limitation: A Meta-Analysis</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1992</YR>
+<VL>145</VL>
+<NO>3</NO>
+<PG>533-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-09-30 14:59:38 +0100" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-09-30 14:59:38 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Newall-2000a">
+<CHAR_METHODS>
+<P>8 week study; concealment unclear; no dropouts specified; groups not similar at baseline</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>19 patients with bronchiectasis (IMT group, n = 10. Mean age 62.4 +/- 16.53); (control group, n = 9. Mean age 62.8 +/- 11.6)<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>8 weeks IMT using a pressure threshold device</P>
+<P>control no intervention</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Included in this study were PImax; VC; RV; TLC; endurance; ISWT; CRDQ</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad = 1</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Newall-2000b">
+<CHAR_METHODS>
+<P>8 week study concealment unclear; no dropouts specified; groups not similar at baseline</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>33 patients with bronchiectasis<BR/>(IMT plus PR: n = 12; mean age 56.8 +/- 7.8 years) </P>
+<P>(sham IMT plus PR: n = 12 mean age 63 +/- 8.9)</P>
+<P>(control: n = 9 mean age 62 +/- 11.6)</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>IMT using a pressure threshold device plus PR (education and exercise training)</P>
+<P>sham IMT plus PR</P>
+<P>control- no intervention</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Included in this study were PImax; endurance; ISWT; CRDQ</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad = 1</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>CRDQ: Chronic respiratory disease questionnaire<BR/>IMT: Inspiratory muscle training<BR/>ISWT: Incremental shuttle walking test<BR/>PImax: Peak inspiratory pressure (cmH2O)<BR/>PR: pulmonary rehabilitation (education, exercise training)<BR/>RV: Residual Volume (L)<BR/>TLC: Total Lung Capacity (L)<BR/>VC: Vital Capacity (L)</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Choe-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Inappropriate patient population (only 1 patient had bronchiectasis) and no randomisation</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kellett-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Assessment of the addition of hypertonic saline to breathing technique. In the absence of an inactive control we excluded the study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-09-30 14:59:35 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-09-30 14:59:35 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-30 14:59:30 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Newall-2000a">
+<DESCRIPTION>
+<P>Information not available (Cochrane Grade B)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-30 14:59:35 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Newall-2000b">
+<DESCRIPTION>
+<P>Information not available (Cochrane Grade B)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Inspiratory Muscle Training versus Sham or no intervention (change from baseline)</NAME>
+<CONT_OUTCOME CHI2="0.049929615336948674" CI_END="512.0233378875315" CI_START="16.395581470086995" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="264.20945967880925" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="0.8231857947126475" P_Q="0.8231857947126475" P_Z="0.03665042878861119" Q="0.049929615336948674" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="100.0" Z="2.089636904471912">
+<NAME>Endurance (metres)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="783.2127557270749" CI_START="-374.0127557270749" DF="0.0" EFFECT_SIZE="204.59999999999997" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.01" NO="1" P_CHI2="1.0" P_Z="0.4882770282544959" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="18.34320591943932" Z="0.6930518334892125">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="783.2127557270749" CI_START="-374.0127557270749" EFFECT_SIZE="204.59999999999997" ESTIMABLE="YES" MEAN_1="271.4" MEAN_2="66.8" ORDER="12447" SD_1="651.2" SD_2="634.6" SE="295.2160143202112" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="18.34320591943932"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="551.8391547981671" CI_START="3.3608452018328308" DF="0.0" EFFECT_SIZE="277.59999999999997" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.02" NO="2" P_CHI2="1.0" P_Z="0.04725766150622943" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="81.65679408056067" Z="1.983983660206188">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="551.8391547981671" CI_START="3.3608452018328308" EFFECT_SIZE="277.59999999999997" ESTIMABLE="YES" MEAN_1="678.3" MEAN_2="400.7" ORDER="12448" SD_1="400.3" SD_2="273.3" SE="139.92050719366813" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="81.65679408056067"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.008511246451793833" CI_END="142.00615023088503" CI_START="-33.984586360870566" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="54.01078193500723" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.9264943153752523" P_Q="0.9264943153752523" P_Z="0.2289730033436188" Q="0.008511246451793833" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="100.0" Z="1.2030086289714386">
+<NAME>Incremental shuttle walking test (metres)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="223.4655999337886" CI_START="-129.8655999337886" DF="0.0" EFFECT_SIZE="46.8" ESTIMABLE="YES" I2="0.0" ID="CMP-001.02.01" NO="1" P_CHI2="1.0" P_Z="0.6036152227459601" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="24.809364598464814" Z="0.5192086886799245">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="223.4655999337886" CI_START="-129.8655999337886" EFFECT_SIZE="46.8" ESTIMABLE="YES" MEAN_1="57.8" MEAN_2="11.0" ORDER="12449" SD_1="162.9" SD_2="221.9" SE="90.13716646188618" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="24.809364598464814"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="157.86941054207932" CI_START="-45.08941054207931" DF="0.0" EFFECT_SIZE="56.39" ESTIMABLE="YES" I2="0.0" ID="CMP-001.02.02" NO="2" P_CHI2="1.0" P_Z="0.27610484013128866" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="75.19063540153519" Z="1.0891112640271459">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="157.86941054207932" CI_START="-45.08941054207931" EFFECT_SIZE="56.39" ESTIMABLE="YES" MEAN_1="110.89" MEAN_2="54.5" ORDER="12450" SD_1="134.9" SD_2="118.2" SE="51.77616085935045" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="75.19063540153519"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="3.089930177130251" CI_END="22.427493950026495" CI_START="2.3769006463581377" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="12.402197298192316" ESTIMABLE="YES" I2="67.63680916153444" I2_Q="67.63680916153444" ID="CMP-001.03" NO="3" P_CHI2="0.07877845270211858" P_Q="0.07877845270211858" P_Z="0.015323048502747297" Q="3.089930177130251" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="99.99999999999999" Z="2.424652444490973">
+<NAME>Health Status (CRDQ score)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="17.315213303399922" CI_START="-13.515213303399921" DF="0.0" EFFECT_SIZE="1.8999999999999995" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.01" NO="1" P_CHI2="1.0" P_Z="0.809109424494775" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="42.29561924070155" Z="0.24157509191291993">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="17.315213303399922" CI_START="-13.515213303399921" EFFECT_SIZE="1.8999999999999995" ESTIMABLE="YES" MEAN_1="7.3" MEAN_2="5.4" ORDER="12451" SD_1="10.7" SD_2="21.3" SE="7.865049268758588" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="42.29561924070155"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="33.29753553304387" CI_START="6.902464466956129" DF="0.0" EFFECT_SIZE="20.1" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.02" NO="2" P_CHI2="1.0" P_Z="0.0028353389530086223" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="57.70438075929844" Z="2.9850479273662534">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="33.29753553304387" CI_START="6.902464466956129" EFFECT_SIZE="20.1" ESTIMABLE="YES" MEAN_1="10.5" MEAN_2="-9.6" ORDER="12452" SD_1="19.5" SD_2="12.8" SE="6.733560227200269" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="57.70438075929844"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.40663881572972477" CI_END="38.441175125292496" CI_START="11.625249359313804" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="25.03321224230315" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="0.5236804729688314" P_Q="0.5236804729688314" P_Z="2.5287305855324816E-4" Q="0.40663881572972477" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="100.0" Z="3.659332505649235">
+<NAME>Pi Max (cms of water)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="58.71444982268523" CI_START="6.085550177314765" DF="0.0" EFFECT_SIZE="32.4" ESTIMABLE="YES" I2="0.0" ID="CMP-001.04.01" NO="1" P_CHI2="1.0" P_Z="0.015811816127813696" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="25.961932083448758" Z="2.4132305074587976">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="58.71444982268523" CI_START="6.085550177314765" EFFECT_SIZE="32.4" ESTIMABLE="YES" MEAN_1="30.8" MEAN_2="-1.6" ORDER="12453" SD_1="31.6" SD_2="26.9" SE="13.42598641110258" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="25.961932083448758"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="38.03243272485743" CI_START="6.867567275142566" DF="0.0" EFFECT_SIZE="22.45" ESTIMABLE="YES" I2="0.0" ID="CMP-001.04.02" NO="2" P_CHI2="1.0" P_Z="0.0047462569545833975" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="74.03806791655124" Z="2.8237690628840366">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="38.03243272485743" CI_START="6.867567275142566" EFFECT_SIZE="22.45" ESTIMABLE="YES" MEAN_1="28.25" MEAN_2="5.8" ORDER="12454" SD_1="25.7" SD_2="9.9" SE="7.950366867845365" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="74.03806791655124"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Inspiratory Muscle Training v Sham or no intervention (post treatment results)</NAME>
+<CONT_OUTCOME CHI2="2.955062687214521" CI_END="750.298433765151" CI_START="254.6706773477065" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="502.48455555642875" ESTIMABLE="YES" I2="66.15977033832021" I2_Q="66.15977033832021" ID="CMP-002.01" NO="1" P_CHI2="0.0856091546543516" P_Q="0.0856091546543516" P_Z="7.062851814886832E-5" Q="2.955062687214521" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="100.0" Z="3.974158504749766">
+<NAME>Endurance (metres)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="5.79296070293553E-34" CI_END="622.5127557270748" CI_START="-534.7127557270749" DF="0.0" EFFECT_SIZE="43.899999999999984" ESTIMABLE="YES" I2="100.0" ID="CMP-002.01.01" NO="1" P_CHI2="0.0" P_Z="0.8817866760981339" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="18.34320591943932" Z="0.14870467003996296">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="622.5127557270748" CI_START="-534.7127557270749" EFFECT_SIZE="43.89999999999998" ESTIMABLE="YES" MEAN_1="772.1" MEAN_2="728.2" ORDER="12455" SD_1="651.2" SD_2="634.6" SE="295.2160143202112" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="18.34320591943932"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="879.7391547981672" CI_START="331.26084520183286" DF="0.0" EFFECT_SIZE="605.5" ESTIMABLE="YES" I2="0.0" ID="CMP-002.01.02" NO="2" P_CHI2="1.0" P_Z="1.5084067501921036E-5" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="81.65679408056067" Z="4.327457155096711">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="879.7391547981672" CI_START="331.26084520183286" EFFECT_SIZE="605.5" ESTIMABLE="YES" MEAN_1="1410.0" MEAN_2="804.5" ORDER="12456" SD_1="400.3" SD_2="273.3" SE="139.92050719366813" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="81.65679408056067"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="4.357479889331664" CI_END="236.951528053669" CI_START="60.9607914619134" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="148.9561597577912" ESTIMABLE="YES" I2="77.05095547432632" I2_Q="77.05095547432632" ID="CMP-002.02" NO="2" P_CHI2="0.036846987532028974" P_Q="0.036846987532028974" P_Z="9.07380052939214E-4" Q="4.357479889331664" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="100.0" Z="3.317773583480096">
+<NAME>Incremental shuttle walking test (metres)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="162.4655999337886" CI_START="-190.8655999337886" DF="0.0" EFFECT_SIZE="-14.199999999999989" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.01" NO="1" P_CHI2="1.0" P_Z="0.8748211150857473" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="24.809364598464814" Z="0.1575376790439086">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="162.4655999337886" CI_START="-190.8655999337886" EFFECT_SIZE="-14.199999999999989" ESTIMABLE="YES" MEAN_1="448.8" MEAN_2="463.0" ORDER="12457" SD_1="162.9" SD_2="221.9" SE="90.13716646188618" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="24.809364598464814"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="304.2694105420793" CI_START="101.31058945792071" DF="0.0" EFFECT_SIZE="202.79000000000002" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.02" NO="2" P_CHI2="1.0" P_Z="8.97814895992968E-5" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="75.19063540153519" Z="3.9166673742164377">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="304.2694105420793" CI_START="101.31058945792071" EFFECT_SIZE="202.79000000000002" ESTIMABLE="YES" MEAN_1="579.09" MEAN_2="376.3" ORDER="12458" SD_1="134.9" SD_2="118.2" SE="51.77616085935045" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="75.19063540153519"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.7555981896738023" CI_END="32.918690920171045" CI_START="12.868097616502684" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="22.893394268336863" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.03" NO="3" P_CHI2="0.38470961268797177" P_Q="0.38470961268797177" P_Z="7.616107981911931E-6" Q="0.7555981896738023" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="99.99999999999999" Z="4.475700800495187">
+<NAME>Health Status (CRDQ score)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="33.115213303399926" CI_START="2.284786696600081" DF="0.0" EFFECT_SIZE="17.700000000000003" ESTIMABLE="YES" I2="0.0" ID="CMP-002.03.01" NO="1" P_CHI2="1.0" P_Z="0.024419588825955692" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="42.29561924070155" Z="2.2504626983466762">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="33.115213303399926" CI_START="2.284786696600081" EFFECT_SIZE="17.700000000000003" ESTIMABLE="YES" MEAN_1="97.2" MEAN_2="79.5" ORDER="12459" SD_1="10.7" SD_2="21.3" SE="7.865049268758588" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="42.29561924070155"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="2.783754411998645E-31" CI_END="39.89753553304388" CI_START="13.502464466956134" DF="0.0" EFFECT_SIZE="26.700000000000006" ESTIMABLE="YES" I2="100.0" ID="CMP-002.03.02" NO="2" P_CHI2="0.0" P_Z="7.333046095238202E-5" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="57.70438075929844" Z="3.96521291844174">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="39.89753553304388" CI_START="13.50246446695613" EFFECT_SIZE="26.700000000000003" ESTIMABLE="YES" MEAN_1="101.5" MEAN_2="74.8" ORDER="12460" SD_1="19.5" SD_2="12.8" SE="6.733560227200269" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="57.70438075929844"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.014057436396403875" CI_END="39.177667139445546" CI_START="12.361741373466854" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="25.7697042564562" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.04" NO="4" P_CHI2="0.9056207426607732" P_Q="0.9056207426607732" P_Z="1.6522612957444447E-4" Q="0.014057436396403875" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="22" TOTAL_2="21" UNITS="" WEIGHT="100.0" Z="3.766992247493591">
+<NAME>Pi Max (cms of water)</NAME>
+<GROUP_LABEL_1>IMT</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours IMT</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="50.71444982268524" CI_START="-1.9144498226852278" DF="0.0" EFFECT_SIZE="24.400000000000006" ESTIMABLE="YES" I2="0.0" ID="CMP-002.04.01" NO="1" P_CHI2="1.0" P_Z="0.06916030630748453" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="9" WEIGHT="25.961932083448758" Z="1.8173711229010703">
+<NAME>Compared to no intervention</NAME>
+<CONT_DATA CI_END="50.71444982268524" CI_START="-1.9144498226852278" EFFECT_SIZE="24.400000000000006" ESTIMABLE="YES" MEAN_1="100.0" MEAN_2="75.6" ORDER="12461" SD_1="31.6" SD_2="26.9" SE="13.42598641110258" STUDY_ID="STD-Newall-2000a" TOTAL_1="10" TOTAL_2="9" WEIGHT="25.961932083448758"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="41.83243272485743" CI_START="10.667567275142567" DF="0.0" EFFECT_SIZE="26.25" ESTIMABLE="YES" I2="0.0" ID="CMP-002.04.02" NO="2" P_CHI2="1.0" P_Z="9.608900130800275E-4" STUDIES="1" TAU2="0.0" TOTAL_1="12" TOTAL_2="12" WEIGHT="74.03806791655124" Z="3.3017344276483724">
+<NAME>Compared to sham (both groups had Pulmonary Rehabilitation)</NAME>
+<CONT_DATA CI_END="41.83243272485743" CI_START="10.667567275142567" EFFECT_SIZE="26.25" ESTIMABLE="YES" MEAN_1="100.55" MEAN_2="74.3" ORDER="12462" SD_1="25.7" SD_2="9.9" SE="7.950366867845365" STUDY_ID="STD-Newall-2000b" TOTAL_1="12" TOTAL_2="12" WEIGHT="74.03806791655124"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

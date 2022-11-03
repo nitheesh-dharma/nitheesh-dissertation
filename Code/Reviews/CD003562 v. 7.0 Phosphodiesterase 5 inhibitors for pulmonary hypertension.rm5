@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003562.pub2" GROUP_ID="AIRWAYS" ID="266101051616494968" MERGED_FROM="" MODIFIED="2014-06-05 17:10:44 +0100" MODIFIED_BY="Emma Welsh" NOTES="&lt;p&gt;Exported from Review Manager 4.2.6&lt;/p&gt;&lt;p&gt;030304&lt;br&gt;TJL: amended the points raised by EHW. Tense of methods section left in future - given the lack of studies past tense would not have been applicable. Stylistically it reads better in future tense, with the conditional caveat of 'in future, shoudl studies meet the inclusion crtieria, we will...' &lt;/p&gt;&lt;p&gt;Amended Results to reflect the direction of the effect - PVR ratio favours Sild. because it is higher. Added text in the synopsis and abstract about sildenafil being a vasodilator. &lt;br&gt;__________________________________________________________________________&lt;br&gt;Editing by CJC 8 April 2004&lt;br&gt;RESPONSE BY TJL 130404&lt;/p&gt;&lt;p&gt;Authors' Contribution: please complete this section of the cover sheet.&lt;br&gt;DONE - thanks.&lt;br&gt;Objectives: Fine. &lt;/p&gt;&lt;p&gt;References: Fine&lt;/p&gt;&lt;p&gt;Table of included studies/; fine. Spellchecked.&lt;/p&gt;&lt;p&gt;Metaview Labels: The data need to be reentered for the second comparison where there is a randomised check of the low and high dose Sildenafil (with and without Iloprost in two subgroups). Thus the data should be entered with high dose Sildenafil as the treatment and low dose as the comparison. The first subgroup does not have Iloprost as a co-intervention and the second subgroup does.&lt;br&gt;[DONE]. - thanks.&lt;br&gt;Synopsis: Currently too long and technical. Also please use an introductory summary sentence.&lt;br&gt;[HAVE REWORDED] - thanks, slight amendment made.&lt;/p&gt;&lt;p&gt;Abstract: If you wish to discuss the lack of primary outcome data in the abstract please say what this outcome is (?NYHA status).&lt;br&gt;[DONE] - good&lt;br&gt;Methods: Data analysis section needs padding out in the main text. More information on methods is given in the abstract than in the methods section (eg choice of summary stats for continuous and dichotomous outcomes).&lt;br&gt;Please be careful when describing how you will explore heterogeneity. This is always post-hoc and should not be considered to explain differences (as there will be many between study differences and there is no randomisation). This is hypothesis generating not testing. I have changed explain to explore in the text.&lt;br&gt;[OK]&lt;br&gt;Results : Good but will need adjusting after Metaview data has been re-entered&lt;br&gt;[DONE] fine&lt;br&gt;Discussion: fine&lt;/p&gt;&lt;p&gt;Contentious issues: Comparison of Sildenafil with Sildenafil and Iloprost is not appropriate for this review.&lt;br&gt;[HAVE REMOVED TEXT INDICATING THAT THIS REVIEW HAS EXAMINED THE EFFECTS OF ADDITIONAL ILOPROST DATA FROM REVIEW] &lt;br&gt;Spellchecked: run on tables but not main document.&lt;br&gt;[REVIEW SPELLCHECKED]&lt;br&gt;Next action : back to Toby.&lt;br&gt;____________________________________________________________________________&lt;br&gt;Looking good. Just the extra methods bit to go in please.&lt;br&gt;Chris (20th April 2004)&lt;/p&gt;&lt;p&gt;This has been done by Toby. For peer review next.27 April CJC&lt;br&gt;NEW STUDY IDENTIFIED BY PEER REVIEWER&amp;gt;&amp;gt;&amp;gt;&amp;gt;&lt;br&gt;Toby will ask authors for the proper paired t-test results. The mean and SD do not match the paired t p-values in the text and are therefore misleading.&lt;/p&gt;&lt;p&gt;Also please ask Author about WHO classification.&lt;br&gt;________________________________________________________________________________&lt;br&gt;CJC Edit 24 June 2004&lt;br&gt;Thanks for obtaining the SEM from Sastry and entering it as GIV.&lt;br&gt;I am happy for this to go forward.&lt;br&gt;Old title: #Sildenafil for pulmonary hypertension (WITH CHRIS 210404)&lt;br&gt;Old title: #Sildenafil for pulmonary hypertension (READY TO GO? 090804)&lt;/p&gt;" NOTES_MODIFIED="2014-06-05 17:10:44 +0100" NOTES_MODIFIED_BY="Emma Welsh" REVIEW_NO="PDE5-PAH" REVMAN_SUB_VERSION="5.2.7 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2014-06-05 17:10:44 +0100" MODIFIED_BY="Emma Welsh">
+<TITLE MODIFIED="2014-06-05 17:05:36 +0100" MODIFIED_BY="Emma J Welsh">Phosphodiesterase 5 inhibitors for pulmonary hypertension</TITLE>
+<CONTACT>
+<PERSON ID="12438" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Parthipan</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Kanthapillai</LAST_NAME>
+<SUFFIX/>
+<POSITION>Consultant Physician</POSITION>
+<EMAIL_1>Parthipan.Pillai@ldh.nhs.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Luton and Dunstable NHS Trust</ORGANISATION>
+<ADDRESS_1>Lewsey Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Luton</CITY>
+<ZIP>LU4 0DZ</ZIP>
+<REGION>Bedfordshire</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1582 49 11 22</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2014-06-05 17:10:44 +0100" MODIFIED_BY="Emma Welsh">
+<PERSON ID="12438" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Parthipan</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Kanthapillai</LAST_NAME>
+<SUFFIX/>
+<POSITION>Consultant Physician</POSITION>
+<EMAIL_1>Parthipan.Pillai@ldh.nhs.uk</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Luton and Dunstable NHS Trust</ORGANISATION>
+<ADDRESS_1>Lewsey Road</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Luton</CITY>
+<ZIP>LU4 0DZ</ZIP>
+<REGION>Bedfordshire</REGION>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<PHONE_1>+44 1582 49 11 22</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="DA990F8082E26AA2005DA36437887272" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>E. Haydn</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Walters</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>Haydn.Walters@utas.edu.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>NHMRC CRE for Chronic Respiratory Disease</DEPARTMENT>
+<ORGANISATION>School of Medicine, University of Tasmania</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY>Hobart</CITY>
+<ZIP/>
+<REGION>Tasmania</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>+61 3 6226 4805</PHONE_1>
+<PHONE_2/>
+<FAX_1>+61 3 6226 7704</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-08-22 10:26:18 +0100" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;New studies found but not yet included or excluded: 01/10/06&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 13/10/05&lt;/p&gt;" NOTES_MODIFIED="2008-08-22 10:26:18 +0100" NOTES_MODIFIED_BY="Toby Lasserson">
+<UP_TO_DATE>
+<DATE DAY="13" MONTH="10" YEAR="2005"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="1" MONTH="10" YEAR="2006"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="2001"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2004"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2004"/>
+</DATES>
+<WHATS_NEW MODIFIED="2014-06-05 17:06:01 +0100" MODIFIED_BY="Toby J Lasserson">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2014-06-05 17:06:01 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="5" MONTH="6" YEAR="2014"/>
+<DESCRIPTION>
+<P>Title and PLS title amended</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2014-06-05 17:05:46 +0100" MODIFIED_BY="Toby J Lasserson">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2014-06-05 17:05:46 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="15" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-08-15 15:57:03 +0100" MODIFIED_BY="Toby J Lasserson">
+<DATE DAY="2" MONTH="10" YEAR="2006"/>
+<DESCRIPTION>
+<P>Literature search re-run, no new studies found</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="1" MONTH="8" YEAR="2004"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT MODIFIED="2008-08-15 15:52:39 +0100" MODIFIED_BY="Toby J Lasserson">
+<INTERNAL_SOURCES MODIFIED="2008-08-15 15:52:39 +0100" MODIFIED_BY="Toby J Lasserson">
+<SOURCE MODIFIED="2008-08-15 15:52:39 +0100" MODIFIED_BY="Toby J Lasserson">
+<NAME>Division of Community Health Sciences, St George's, University of London</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2014-06-05 17:07:33 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2014-06-05 17:07:33 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2014-06-05 17:07:33 +0100" MODIFIED_BY="Toby J Lasserson">Phosphodiesterase 5 (sildenafil) inhibitors for pulmonary hypertension</TITLE>
+<SUMMARY_BODY>
+<P>Pulmonary hypertension (PH) is high blood pressure in the lung circulation. It can occur without a known cause, or it can be caused by another lung disease or be secondary to abnormalities in the left side of the heart. The review sought to determine whether there was evidence that sildenafil (also known as Viagra), a drug which opens up the arteries and increases the flow of blood, could decrease pulmonary artery blood pressure and alleviate symptoms of PH. A limited number of studies of short term i duration indicated that the drug can open up the arteries. One small longer-term study found some favourable effects in terms of symptoms, but in the absence of longer term outcomes, we could not establish whether this meant that the people given the drug felt that their levels of daily activity were better. Future studies should be longer in duration, and should measure the impact of treatment on daily activities, mortality, quality of life and exercise capacity.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-08-15 15:47:39 +0100" MODIFIED_BY="Toby J Lasserson">
+<ABS_BACKGROUND>
+<P>Pulmonary Hypertension (PH) can be either of unknown aetiology (primary pulmonary hypertension (PPH)) or due to a known underlying cause (secondary pulmonary hypertension (SPH). Pulmonary arteriolar vasoconstriction is considered to be an important characteristic of PH. Therapies which aim to vasodilate are used to treat pulmonary hypertension.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine the clinical efficacy of sildenafil, a vasodilator which works through inhibition of the enzyme phosphodiesterase type V (PDE5I), administered via any route to people with pulmonary hypertension in primary or secondary forms.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2008-08-15 15:47:39 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>MEDLINE, EMBASE and CENTRAL were searched with pre-defined search terms. Searches were current as of October 2006.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised controlled trials were considered for inclusion in the review. We included studies which assessed the effects of sildenafil in participants with PPH and SPH.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two reviewers independently assessed and extracted data from clinical trials. Data were entered in RevMan Analyses 1.0.2. Continuous data were pooled with an estimate on either WMD (weighted mean difference) or SMD (standardised mean difference) scales. Dichotomous data were pooled and a RR (relative risk) was calculated.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Four studies recruiting 77 participants met the inclusion criteria of the review. Two studies assessed the acute effects of sildenafil. Two small crossover study assessed the effects of long term administration. The 'acute effect' studies indicated that sildenafil has a pulmonary vasodilatory effect. The two crossover studies showed improvement in symptoms. One study showed improvement in fatigue domains from a validated health status questionnaire. Both crossover studies reported that the drug was well tolerated.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>The validity of the observed effects is undermined by small participant numbers and inadequate exploration of the different disease etiologies. The effects on long term outcome such as NYHA functional class, symptoms, mortality and exercise capacity require further validation. More studies of adequate size are required before the long term effects of sildenafil on clinically important outcomes can be established.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2014-06-05 17:06:20 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND>
+<P>Pulmonary artery hypertension is characterised by resting mean pulmonary artery pressure of greater than 25 mm Hg. This can be divided into primary where there is no demonstrable cause identified and secondary where there are underlying causes.</P>
+<P>Primary pulmonary hypertension (PPH) is a disease of unclear aetiology. It is sporadic and a familial predisposition has been observed in 10% of the cases. Observation suggests that pulmonary arteriolar vasoconstriction plays an important role in the pathogenesis of PPH, characterised by pathologic demonstration of medial hypertrophy, impaired pulmonary vascular endothelial production of the vasodilator prostacyclin and nitric oxide and increased pulmonary vascular endothelial production of the vasoconstrictor endothelin. </P>
+<P>The main symptoms of PPH are exertional dyspnoea, exertional chest pain, syncope, and oedema. Mean age upon diagnosis of PPH is 36 years.</P>
+<P>Secondary pulmonary hypertension is mainly due to chronic hypoxaemia, parenchymal lung disease, chronic thromboembolic disease, left sided valvular or myocardial disease, congenital heart disease and systemic connective tissue disease.</P>
+<P>Until now the efficacy of pulmonary vasodilator therapy has been limited due to the lack of potency and lack of selectivity, as almost all pulmonary vasodilators are also systemic vasodilators. Thus apparent benefits on the pulmonary circulation may be merely due to decreased venous blood return and decreasing right ventricular stroke output. Currently available proven therapeutic interventions for PPH include anticoagulation, vasodilators such as calcium channel blockers, epoprostenol infusion (prostacyclin analogue), nitric oxide, and lung transplantation. A Cochrane review examining the efficacy of prostacyclin has shown it to confer at least a short-term benefit (<LINK REF="REF-Paramothayan-2004" TYPE="REFERENCE">Paramothayan 2004</LINK>). </P>
+<P>Nitric oxide (NO) is a potent, short acting vasodilator. Within the vascular smooth muscle it activates soluble guanylate cyclase, which generate cGMP, which in turn relaxes smooth muscle. cGMP is degraded by phosphodiesterase (PDE). Sildenafil is a potent and selective inhibitor of PDE-5, best known for its use as a treatment for male erectile dysfunction (Viagra). In addition to its high concentration in the corpora cavernosa, PDE-5 is abundant in the vascular, tracheal and visceral smooth muscle and in platelets. The work so far with PDE-5 inhibitors have shown improved haemodynamics in pulmonary hypertension.</P>
+<P>The reviewers intend to summarise the evidence currently published<I> </I>concerning the use of sildenafil in pulmonary hypertension.</P>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2014-06-05 17:06:20 +0100" MODIFIED_BY="Emma J Welsh">
+<P>To determine the efficacy of sildenafil in the treatment of patients with pulmonary hypertension.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-08-15 16:36:35 +0100" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA MODIFIED="2008-08-15 15:48:31 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>Randomised, double blind or single blind, placebo controlled studies were included.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Adult and paediatric subjects with a diagnosis of pulmonary hypertension who require medical treatment for their condition. All patients had to be anticoagulated. We included studies where mean PAP was 25&gt; mm Hg. </P>
+<P>Studies were included if diagnosis was based on clinical findings, pulmonary and cardiac imaging and ideally pulmonary angiograms.</P>
+<P>Studies which included subjects with severe current other diagnoses were excluded.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>The following interventions have been included.</P>
+<UL>
+<LI>Sildenafil versus placebo</LI>
+<LI>Sildenafil versus prostacyclin</LI>
+<LI>Sildenafil + prostacyclin versus prostacyclin alone</LI>
+<LI>Sildenafil + inhaled NO (nitric oxide) versus inhaled NO alone</LI>
+<LI>High dose versus low dose sildenafil</LI>
+</UL>
+<P>
+<BR/>Any route of administration of sildenafil was considered, such as oral, IV and inhalation. Any co-intervention was acceptable. Studies of any duration were considered.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-08-15 15:48:31 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-08-15 15:48:12 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Improvement in NYHA functional class status</P>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2008-08-15 15:48:31 +0100" MODIFIED_BY="Toby J Lasserson">
+<OL>
+<LI>Haemodynamics including CO, PA pressure, others</LI>
+<LI>Gas exchange, ABG</LI>
+<LI>Exercise capacity</LI>
+<LI>Quality of life/ Health status</LI>
+<LI>Dyspnoea score</LI>
+<LI>Mortality</LI>
+<LI>Hospitalisation/intervention</LI>
+<LI>Adverse events</LI>
+</OL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-08-15 15:51:51 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>
+<B>
+<BR/>
+</B>
+</P>
+<ELECTRONIC_SEARCHES MODIFIED="2008-08-15 15:51:51 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Searches with pre-defined terms were conducted on MEDLINE (1966-Sept 2005, <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>); EMBASE (1980- Sept 2005, <LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK>), and the Cochrane Central Register of Controlled Trials (CENTRAL Issue 3,2005, <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK>) for relevant trials.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2008-08-15 15:48:59 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Hand searches of abstracts from meetings of ATS, BTS and ERS were conducted. Drug companies were contacted for relevant trial data where appropriate.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-08-15 16:36:35 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUBSECTION>
+<HEADING LEVEL="3">Selection of studies  </HEADING>
+<P>All trials which appeared to fit the criteria for inclusion were identified for full review by two reviewers (PK and TL).Two reviewers (PK and TL) independently selected trials for inclusion in the review. Disagreement was resolved by discussion between the two reviewers.</P>
+</SUBSECTION>
+<STUDY_SELECTION MODIFIED="2008-08-15 16:18:56 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>All trials which appeared to fit the criteria for inclusion were identified for full review by two reviewers (PK and TL).Two reviewers (PK and TL) independently selected trials for inclusion in the review. Disagreement was resolved by discussion between the two reviewers.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-08-15 16:27:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two authors independently assessed studies for inclusion in the review. Data were extracted and entered into Review Manager software. </P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-08-15 16:36:35 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We assessed the risk of bias for each study in terms of allocation, blinding and other sources of bias relating to treatment or population recruited. The domains we used as the basis for this assessment (allocation generation, allocation concealment, and blinding) were judged to be at low, high or unclear risk of bias.</P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-08-15 16:27:50 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>For continuous data variables (e.g. blood pressure) a weighted mean difference was calculated by pooling the data from different studies together, where a common metric had been used. A standardised mean difference was calculated where studies had measured the same outcome but with different metrics (e.g. L/min and % predicted). We pooled data using a Fixed Effect model.</P>
+<P>For dichotomous variables (e.g. side effects), an Odds Ratio (OR) was calculated based on the event rate data in the studies. Data were pooled using a Fixed Effect model.</P>
+<P>Heterogeneity was tested using the I<SUP>2</SUP> statistic, which measures the extent of heterogeneity not attributable to the play of chance. Where the statistic exceeds 20% Random Effects modelling was applied to see if the results altered.</P>
+<P>Limited meta-analysis prevented the investigation of heterogeneity when the trials were combined. In anticipation of future studies meeting the inclusion criteria of this review, heterogeneity will be explored where the I<SUP>2</SUP> statistic reaches 20%. Attempts will be made explore the differences based on the clinical characteristics of the included studies. Clinically dissimilar studies will not be statistically combined. However, when a group of studies with heterogeneous results appear to be clinically similar, the pooled effect estimates will be combined using both Fixed and Random effect models, and differences between the two types of modelling (if any) will be reported.</P>
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS MODIFIED="2008-08-15 16:19:26 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Possible subgroup analyses include:</P>
+<OL>
+<LI>Primary versus secondary pulmonary hypertension (where data are reported separately) .</LI>
+<LI>Adults &gt; 18 versus children &lt; 18 years.</LI>
+<LI>Route of administration of sildenafil such as oral, IV and inhalation.</LI>
+<LI>Dosage of sildenafil (high versus low).</LI>
+</OL>
+</SUBGROUP_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-08-15 16:30:54 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-08-15 16:28:59 +0100" MODIFIED_BY="Toby J Lasserson">
+<SEARCH_RESULTS MODIFIED="2008-08-15 16:28:19 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Electronic searches yielded a total of 193 references. Of these we retrieved 19 studies that were potentially relevant. One study was identified from a search of PubMed in May 2004. Four studies met the inclusion criteria (<LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK>; <LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK>; <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK>; <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK>). Sixteen studies failed to meet the inclusion criteria (review articles: N = four; before and after studies: N = six; RCTs not assessing sildenafil: N = two; retrospective analysis: N = one; animal studies: N = one; observational studies: N = one; correspondence: N = one). For details of these studies, please see "Characteristics of Excluded Studies". An update search was conducted in October 2005, in which 286 references were retrieved. Of these eight were obtained for full scrutiny but none met the inclusion criteria (see <LINK REF="TBL-02" TYPE="TABLE">Table 2</LINK>).</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-08-15 16:28:59 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUBSECTION>
+<HEADING LEVEL="5">Study design</HEADING>
+<P>All included studies were randomised. Two studies had a parallel open label design (<LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK>; <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK>). <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> and <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> were double-blind crossover studies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Participants</HEADING>
+<P>Participants suffered from a mixture of PPH and secondary PH in <LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK>, and suffered from PH secondary to lung fibrosis in <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK>. <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> recruited participants with PPH. <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> recruited participants with PH of varied etiologies. In the two parallel studies, participants were classified as being in either NYHA class III or IV. In <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> and <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK>, participants were classified as being in NYHA class II or above. Mean PAP in the short-term studies suggested that participants were suffering from particularly severe forms of PH (<LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK>: treatment group mean PAPs were 53 to 59mmHg; <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK>: 40mmHg). <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> reported very high baseline mean PAP (80.78 (SD 21.3). <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK>, reported particularly high baseline mean PAP of 107.36 (SD 24.98), and included only participants with a baseline mean PAP in excess of 30mm Hg.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Interventions</HEADING>
+<P>Two studies were short term (&lt; 3 hours, <LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK>; <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK>). In these studies, the acute effects of treatment were assessed in the trials after an initial inhalation of NO. <LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK> compared oral sildenafil in four treatment regimens: 12.5mg, 50mgs, 12.5mgs + inhaled iloprost and 50mgs + inhaled iloprost. <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK> compared oral sildenafil 50mgs versus IV epoprostenol. <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> and <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> assessed the effects of oral sildenafil compared with a placebo, for six and two week periods respectively, in addition to concomitant therapies such as digoxin and diuretics. <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> also reported that oral anticoagulants were used at the physician's discretion. Co-interventions did not include other vasodilators in either study.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Setting </HEADING>
+<P>
+<LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK> conducted the study in an ITU, <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK> did not report the setting of the trial. <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> and <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> were conducted in an outpatient setting.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Outcomes</HEADING>
+<P>
+<LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> reported change in NYHA functional class status. <LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK>; <LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK> assessed the acute effects of sildenafil and focused on haemodynamic variables. <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> and <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> measured exercise capacity. <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> assessed treatment effects in terms of the 'Chronic Heart Failure Questionnaire'. <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> and <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> measured symptoms and adverse effects.</P>
+</SUBSECTION>
+</INCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>All studies with the exception of <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> were well reported, and adequately randomised by computer generated randomisation schedules. However, in the two short term studies, blinding was not attempted. In clinical trials this may contribute to an overestimation of treatment effects, where there is subjective assessment of treatment effects, e.g. physician or patient rated clinical and/symptom scores. However, due to the short-term duration of the studies, this aspect may not have threatened internal validity. Due to the design of the two acute studies they have not measured longer term clinical symptoms, such as NYHA functional class status. The primary outcome of the review (change in NYHA functional class status), was measured in one study (<LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK>).</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-08-15 16:30:54 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUBSECTION>
+<HEADING LEVEL="4">Oral sildenafil versus placebo (plus usual care) - crossover studies </HEADING>
+<P>
+<LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> (n=9, treatment period 2 weeks); <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> (n=22, treatment period 6 weeks)</P>
+<SUBSECTION>
+<HEADING LEVEL="5">NYHA</HEADING>
+<P>Following treatment with sildenafil, <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> reported that two participants improved their NYHA status by one class (no significant difference reported).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Quality of life</HEADING>
+<P>Total scores were not reported, but the findings from three domains of the CHFQ reported by <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> were:</P>
+<P>Dyspnoea: Significant difference in favour of sildenafil (21.95 (SD 6.02)) versus placebo (17.62 (SD 5.68)), P = 0.009.<BR/>Fatigue: Significant difference in favour of sildenafil (22.33 (4.82)) versus placebo (20.67 (SD 5.19)), P = 0.04.<BR/>Emotional function: No significant difference between sildenafil (37.33 (SD 9.32)) and placebo (34.71 (SD 10.91)), P = 0.06.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Borg scores</HEADING>
+<P>
+<LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> reported a significant difference in Borg breathlessness scores ) (Scale 0 10) after the 6 minute walk test of 1.55 (P &lt; 0.01)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Exercise capacity</HEADING>
+<P>This was measured by <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> as time on treadmill. Participants were able to spend longer on the treadmill compared with placebo treatment (686.82 seconds (SD 224.02) versus 475.05 seconds (SD 168.02), P &lt; 0.0001.</P>
+<P>This was measured by <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> as distance covered in a 6 minute walk test. Participants treated with sildenafil were able to walk further than those treated with placebo by 93.37metres (P &lt; 0.005).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Haemodynamic variables</HEADING>
+<P>Data from <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> and <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> were pooled with a subgroup analysis by etiology (PPH versus mixed population studies). With a Fixed Effect model there was a significant reduction in mean PAP in favour of sildenafil of -11.14mmHg [-17.56, -4.72]. However, there was a significant level of heterogeneity (I<SUP>2</SUP> 72.5%), and a Random Effects model gave a non-significant result (-12.76 [-25.7, 0.19]). The etiology of disease may not be the only variable to distinguish between these two studies. There were also different baseline arterial pressures in addition to different study duration and dosing regimens. In the absence of other studies, and the small sample sizes involved, the subgroup analysis is under-powered to provide useful insights into different responses to treatment.</P>
+<P>
+<LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> reported a significant difference in cardiac index in favour of sildenafil (Sildenafil: 3.45 l/m<SUP>2</SUP> (SD 1.16) versus placebo: 2.80 (SD 0.90), P &lt; 0.0001).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse effects</HEADING>
+<P>A table of adverse effects is given in <LINK REF="TBL-01" TYPE="TABLE">Table 1</LINK>. No statistical analysis was undertaken on the difference in the side-effects in the study. No participants withdrew due to side-effects. One death occurred in the placebo group during the first arm of treatment.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">High dose oral sildenafil versus low dose sildenafil with and without iloprost - parallel studies </HEADING>
+<P>
+<LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK> (n=30, treatment duration single dose)</P>
+<SUBSECTION>
+<HEADING LEVEL="5">NYHA functional class status</HEADING>
+<P>No data on functional class status were reported</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Haemodynamic variables</HEADING>
+<P>Data were presented on change from baseline scores for PVR, mean PAP, Cardiac Index and PVR/SVR. We have extracted data only for PVR as these were presented at equivalent time points (120 minutes). Data for all other variables were presented at 120 mins for sildenafil only treatment, and at 180 minutes for sildenafil plus additional iloprost inhalation. We entered data for the two sets of comparisons and stratified them on the basis of co-intervention. The trialists reported that combination therapy led to significant decrease in PVR compared with sildenafil alone (p &lt; 0.001), and also to significant increase in cardiac index (p &lt; 0.001). Data for all four treatment groups were presented in the original paper in graph format. These were extracted, entered and pooled by co-intervention to give a WMD in favour of high dose sildenafil of -15.86% (-30.64 to -1.08). The significant effect we observed in meta-analysis should be interpreted with caution due to the wide distribution of change scores in the study as a result of the small numbers.</P>
+<P>Data on arterial oxygen saturation were not presented (non-significant differences reported).</P>
+<P>Treatment effects for both single administration of sildenafil and combination therapy outlasted the observation periods of 120 minutes and 180 minutes respectively.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Safety</HEADING>
+<P>No adverse events were reported during combination therapy. No comment was made on the side-effects of single administration of sildenafil.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Oral sildenafil versus IV epoprostenol - parallel studies </HEADING>
+<P>
+<LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK> (n=16, treatment duration- single dose)</P>
+<SUBSECTION>
+<HEADING LEVEL="5">NYHA </HEADING>
+<P>No data were reported on the effects of treatment on functional class status.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Haemodynamic variables</HEADING>
+<P>Epoprostenol (a prostaglandin analogue) caused a 42% median increase in cardiac index , compared with 9.1% in sildenafil treated patients (p = 0.002). Change in mean PAP and PVR did not differ significantly between the two groups (p = 0.054 and p = 0.197 respectively, no values are reported). Mean systematic arterial blood pressure was reduced by both treatments, but differed statistically between the groups in favour of sildenafil (p = 0.0005). However, no values were reported. Mean PaO2 differed significantly and was higher with sildenafil (p = 0.005, no values presented). Sildenafil also led to a higher, more favourable PVR/SVR ratio compared with prostacyclin (p = 0.02, no values were presented).</P>
+<P>Treatment effects for sildenafil outlasted the observation period of 120-150 minutes.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Safety</HEADING>
+<P>No adverse events were reported during combination therapy</P>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-08-15 15:55:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Four small studies have been included in this review. Due to the acute nature of two studies, and the limited assessment of functional class status in the remaining studies, firm conclusions regarding the effects of sildenafil on the course of PH are difficult to draw. Additionally, the participants in all the studies had very high pulmonary artery pressures, and in the case of <LINK REF="STD-Ghofrani-2002" TYPE="STUDY">Ghofrani 2002</LINK>, were recruited in an ITU setting. Therefore they were representative of patients from the more severe end of the spectrum. Only one study explicitly recruited participants who conformed to the <LINK REF="REF-WHO-2001" TYPE="REFERENCE">WHO 2001</LINK> classification of PH (<LINK REF="STD-Ghofrani-2002a" TYPE="STUDY">Ghofrani 2002a</LINK>). Whilst this classification may become more commonly used in clinical trials in PH, there is currently limited evidence in our review to draw a distinction between this diagnostic model and others such as functional status (NYHA), threshold blood pressure levels or even disease etiology.</P>
+<P>The positive physiological effects observed in the acute studies require replication in larger and more rigorously controlled trials, but would indicate that there is a vasodilatory effect in PH when sildenafil is administered. <LINK REF="STD-Bharani-2003" TYPE="STUDY">Bharani 2003</LINK> and <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> showed differences in terms of important outcomes such as symptoms and exercise capacity over two and six weeks. Nevertheless, these effects require confirmation on a larger scale, as well as its correlation with long term benefits including hospitalisation, mortality, and functional class status. Although <LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK> reported mild side-effects, the study design and duration means that we cannot exclude the possibility that sildenafil may have long term side effects. Data from small non-randomised studies in people with PH have not found any systemic side-effects, such as visual disturbance, flushing, headache and dyspepsia (<LINK REF="STD-Ghofrani-2003" TYPE="STUDY">Ghofrani 2003</LINK>; <LINK REF="STD-Kothari-2002" TYPE="STUDY">Kothari 2002</LINK>) which have been reported in one large study of sildenafil for erectile dysfunction (<LINK REF="REF-Rosen-2003" TYPE="REFERENCE">Rosen 2003</LINK>).</P>
+<P>In an uncontrolled trial <LINK REF="STD-Ghofrani-2003" TYPE="STUDY">Ghofrani 2003</LINK> measured the effects of long term sildenafil treatment in addition to inhaled iloprost in severe pulmonary hypertension. The participants in the study were adults with mixed PH (PPH: N = 9, PH secondary to collagen vascular disease: N = 5), and were already deemed to have failed treatment with iloprost. After 12 months of additional sildenafil treatment improvements were noted in functional class status, exercise capacity and haemodynamic variables. <LINK REF="STD-Kothari-2002" TYPE="STUDY">Kothari 2002</LINK> also assessed long-term effects of sildenafil in paediatric and adult populations with mixed PH (PPH: N = 9, PH secondary to surgical correction of heart defect: N = 5). After a follow-up period of 7.3 months (SEM 2.4), improvements were observed in terms of NYHA status, exercise capacity and right ventricular systolic pressure. Findings from these studies indicate that randomised studies measuring similar outcomes are warranted. In such studies the etiology of the disease should be considered as a potential explanation for different responses to treatment, and ideally studies should be limited to specific diagnostic groups e.g. solely PPH.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-08-15 15:55:56 +0100" MODIFIED_BY="Toby J Lasserson">
+<IMPLICATIONS_PRACTICE MODIFIED="2008-08-15 15:55:56 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Current evidence from randomised studies does not indicate whether long term administration of sildenafil in PH is justified. The studies have shown that there may be a vasodilatory effect either in combination or in comparison with inhaled iloprost in selected patients. Two small studies reported differences on exercise capacity and symptoms over two to six weeks, which require validation in larger studies. Further work is urgently required to establish that the short term effects observed in these patients can be replicated in larger, more representative and better defined patient samples, and that short term improvements in haemodynamic variables correlate with long term outcomes. A more adequate side-effect profile is also required.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2008-08-15 15:55:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Further studies are required and should take account of the following methodological and clinical considerations:<BR/>
+</P>
+<OL>
+<LI>Adequate blinding of both study participant and trialist.</LI>
+<LI>Trials should measure outcomes which are clinically relevant (e.g. mortality, NYHA functional class, hospitalisation) and which have been collected from adequate follow-up periods, so that long term effects can be established. Assessment of side-effects in larger samples of patients with PH would also be appropriate.</LI>
+<LI>Disease etiology should be clearly described in future studies, and if possible data on participants with PPH and secondary PH should be analysed separately, to facilitate better identification of effects within these two subgroups.</LI>
+<LI>Future studies should also assess the effects of treatment in less severe forms of PH.</LI>
+<LI>To date the studies have recruited predominantly adult populations. The effects of sildenafil in children with PH needs also to be established.</LI>
+<LI>Confirmatory studies are required to establish whether there is a dose response to sildenafil.</LI>
+</OL>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We would like to thank the staff of the Cochrane Airways Group, namely Karen Blackhall, Liz Arnold and Sarah Tracy for logistical and technical support. We would also like to thank Dr Sastry for communicating additional data (<LINK REF="STD-Sastry-2004" TYPE="STUDY">Sastry 2004</LINK>). </P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>PK: Initiation of the review, study assessment, data extraction and entry, interpretation<BR/>TJL: Study assessment, data extraction and entry, analysis, interpretation<BR/>EHW: Content supervision, interpretation and editorial support</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bharani-2003" NAME="Bharani 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bharani A, Mathew V, Sahu A, Lunia B</AU>
+<TI>The efficacy and tolerability of sildenafil in patients with moderate-to-severe pulmonary hypertension</TI>
+<SO>Indian Heart Journal</SO>
+<YR>2003</YR>
+<VL>55</VL>
+<NO>1</NO>
+<PG>55-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ghofrani-2002" NAME="Ghofrani 2002" YEAR="2002">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Ghofrani HA, Wiedemann R, Rose F, OIschewski H, Schermuly RT, Weissmann N, et al</AU>
+<TI>Combination therapy with oral sildenafil and inhaled iloprost for severe pulmonary hypertension</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>2002</YR>
+<VL>136</VL>
+<NO>7</NO>
+<PG>515-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ghofrani-2002a" NAME="Ghofrani 2002a" YEAR="2002">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Ghofrani HA, Wiedemann R, Rose F, Schermuly RT, Olschewski H, Weissmann N, et al</AU>
+<TI>Sildenafil for treatment of lung fibrosis and pulmonary hypertension: a randomised controlled trial</TI>
+<SO>Lancet</SO>
+<YR>2002</YR>
+<VL>360</VL>
+<NO>9337</NO>
+<PG>895-900</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sastry-2004" NAME="Sastry 2004" YEAR="2004">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Sastry BKS, Narasimhan C, Reddy K, Raju S</AU>
+<TI>Clinical efficacy of sildenafil in primary pulmonary hypertension</TI>
+<SO>Journal of the American College of Cardiology</SO>
+<YR>2004</YR>
+<VL>43</VL>
+<NO>7</NO>
+<PG>1149-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anonymous-2001" NAME="Anonymous 2001" YEAR="2001">
+<REFERENCE NOTES="&lt;p&gt;Requested 111203&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Anonymous</AU>
+<TI>Sildenafil shows some promise for the treatment of pulmonary hypertension</TI>
+<SO>Pharmaceutical Journal</SO>
+<YR>2001</YR>
+<VL>267</VL>
+<NO>7158</NO>
+<PG>112</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Anonymous-2001a" NAME="Anonymous 2001a" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Anonymous</AU>
+<TI>Pharmacologic therapy of persistent pulmonary hypertension of the newborn</TI>
+<SO>Pharmacology &amp; Therapeutics</SO>
+<YR>2001</YR>
+<VL>89</VL>
+<NO>1</NO>
+<PG>67-79</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Channick-2001" NAME="Channick 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Channick RN, Rubin LJ</AU>
+<TI>New and experimental therapies for pulmonary hypertension</TI>
+<SO>Clinics in Chest Medicine</SO>
+<YR>2001</YR>
+<VL>22</VL>
+<NO>3</NO>
+<PG>539-45</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chockalingam-2005" NAME="Chockalingam 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Before and after&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chockalingam A, Gnanavelu G, Venkatesan S, Elangovan S, Jagannathan V, Subramaniam T, et al</AU>
+<TI>Efficacy and optimal dose of sildenafil in primary pulmonary hypertension</TI>
+<SO>International Journal of Cardiology</SO>
+<YR>2005</YR>
+<VL>99</VL>
+<NO>1</NO>
+<PG>91-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Deeb-1989" NAME="Deeb 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Deeb GM, Bolling SF, Guynn TP, Nicklas JM</AU>
+<TI>Amrinone versus conventional therapy in pulmonary hypertensive patients awaiting cardiac transplantation</TI>
+<SO>Annals of Thoracic Surgery</SO>
+<YR>1989</YR>
+<VL>48</VL>
+<NO>5</NO>
+<PG>665-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dweik-2002" NAME="Dweik 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dweik RA</AU>
+<TI>Pulmonary hypertension and the search for the selective pulmonary vasodilator</TI>
+<SO>The Lancet</SO>
+<YR>2002</YR>
+<VL>360</VL>
+<NO>9337</NO>
+<PG>886-87</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ewert-2003" NAME="Ewert 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ewert R, Hoper M, Halank M, Winkler J, Wensel R, Opitz C</AU>
+<TI>Sildenafil in pulmonary hypertension</TI>
+<SO>Pneumologie</SO>
+<YR>2003</YR>
+<VL>57</VL>
+<NO>5</NO>
+<PG>291</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Frost-2005" NAME="Frost 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Not PDE5 inhibtor study (endothelin receptor antagonists)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Frost AE, Langleben D, Oudiz R, Hill N, Horn E, McLaughlin V, et al</AU>
+<TI>The 6-min walk test (6MW) as an efficacy endpoint in pulmonary arterial hypertension clinical trials: Demonstration of a ceiling effect</TI>
+<SO>Vascular Pharmacology</SO>
+<YR>2005</YR>
+<VL>43</VL>
+<NO>1</NO>
+<PG>36-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ghofrani-2003" NAME="Ghofrani 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ghofrani HA, Rose F, Schermuly RT, Olschewski H, Wiedemann R, Kreckel A, et al</AU>
+<TI>Oral sildenafil as long-term adjunct therapy to inhaled Iloprost in severe pulmonary arterial hypertension</TI>
+<SO>Journal of the American College of Cardiology</SO>
+<YR>2003</YR>
+<VL>42</VL>
+<NO>1</NO>
+<PG>158-64</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ghofrani-2004" NAME="Ghofrani 2004" YEAR="2004">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Healthy subjects&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Ghofrani HA, Reichenberger F, Kohstall MG, Mrosek E, Seeger T, Schermuly RT, et al</AU>
+<TI>Sildenafil reduces hypoxia-induced pulmonary hypertension and increases exercise capacity during oxygen deprivation at a low altitude and at Mount Everest base camp: a randomized placebo controlled study</TI>
+<SO>American Thoracic Society 100th International Conference</SO>
+<YR>2004</YR>
+<PG>A56 Poster B3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoeper-2003" NAME="Hoeper 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoeper MM, Galie N, Simonneau G, Rubin LJ</AU>
+<TI>New treatments for pulmonary arterial hypertension</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2002</YR>
+<VL>165</VL>
+<NO>9</NO>
+<PG>1209-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Humpl-2005" NAME="Humpl 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Before and after study&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Humpl T, Reyes JT, Holtby H, Stephens D, Adatia I</AU>
+<TI>Beneficial effect of oral sildenafil therapy on childhood pulmonary arterial hypertension: Twelve-month clinical trial of a single-drug, open-label, pilot study</TI>
+<SO>Circulation</SO>
+<YR>2005</YR>
+<VL>111</VL>
+<NO>24</NO>
+<PG>3274-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ikeda-2005" NAME="Ikeda 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Observational study&lt;br&gt;&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ikeda D, Tsujino I, Ohira H, Itoh N, Kamigaki M, Ishimaru S, et al</AU>
+<TI>Addition of oral sildenafil to beraprost is a safe and effective therapeutic option for patients with pulmonary hypertension</TI>
+<SO>Journal of Cardiovascular Pharmacology</SO>
+<YR>2005</YR>
+<VL>45</VL>
+<NO>4</NO>
+<PG>286-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kothari-2002" NAME="Kothari 2002" YEAR="2002">
+<REFERENCE NOTES="&lt;p&gt;.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kothari SS, Duggal B</AU>
+<TI>Chronic oral sildenafil therapy in severe pulmonary artery hypertension</TI>
+<SO>Indian Heart Journal</SO>
+<YR>2002</YR>
+<VL>54</VL>
+<NO>4</NO>
+<PG>404-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kulkarni-1996" NAME="Kulkarni 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kulkarni H, Srinivas A, Vora A, Kerkar P, Dalvi B</AU>
+<TI>Acute hemodynamic response to vasodilators in primary pulmonary hypertension</TI>
+<SO>Journal of Postgraduate Medicine</SO>
+<YR>1996</YR>
+<VL>42</VL>
+<NO>1</NO>
+<PG>7-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lepore-2002" NAME="Lepore 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lepore JJ, Maroo A, Pereira NL, Ginns LC, Dec GW, Zapo IWM, et al</AU>
+<TI>Effect of Sildenafil on the acute pulmonary vasodilator response to inhaled nitric oxide in adults with primary pulmonary hypertension</TI>
+<SO>American Journal of Cardiology</SO>
+<YR>2002</YR>
+<VL>90</VL>
+<NO>6</NO>
+<PG>677-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Machado-2005" NAME="Machado 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Before and after study&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Machado RF, Martyr S, Kato GJ, Barst RJ, Anthi A, Robinson MR, et al</AU>
+<TI>Sildenafil therapy in patients with sickle cell disease and pulmonary hypertension</TI>
+<SO>British Journal of Haematology</SO>
+<YR>2005</YR>
+<VL>130</VL>
+<NO>3</NO>
+<PG>445-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-McKay-1989" NAME="McKay 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>McKay CR, Brundage BH, Ports TA, Parmley WW, Chatterjee K</AU>
+<TI>Long-term clinical results after vasodilator evaluation in patients with primary (unexplained) and secondary precapillary pulmonary hypertension: acute hemodynamic comparisons and long-term survival</TI>
+<SO>International Journal of Cardiology</SO>
+<YR>1989</YR>
+<VL>22</VL>
+<NO>3</NO>
+<PG>311-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Michelakis-2002" NAME="Michelakis 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Michelakis E, Tymchak W, Lien D, Webster L, Hashimoto K, Archer S</AU>
+<TI>Oral sildenafil is an effective and specific pulmonary vasodilator in patients with pulmonary arterial hypertension: Comparison with inhaled nitric oxide</TI>
+<SO>Circulation</SO>
+<YR>2002</YR>
+<VL>105</VL>
+<NO>20</NO>
+<PG>2398-403</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Richalet-2004" NAME="Richalet 2004" YEAR="2004">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Health controls&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Richalet JP, Gratadour P, Pham I, Robach P, Joncquiert-Latarjet A</AU>
+<TI>Sildenafil inhibits the altitude-induced pulmonary hypertension. A double-blind placebo-controlled study</TI>
+<SO>American Thoracic Society 100th International Conference</SO>
+<YR>2004</YR>
+<PG>A88</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Richalet-2005" NAME="Richalet 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Health volunteers&lt;br&gt;&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Richalet JP, Gratadour P, Robach P, Pham I, Dechaux M, Joncquiert-Latarjet A, et al</AU>
+<TI>Sildenafil inhibits altitude-induced hypoxemia and pulmonary hypertension</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2005</YR>
+<VL>171</VL>
+<NO>3</NO>
+<PG>275-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schmid-1999" NAME="Schmid 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schmid ER, Burki C, Engel MH, Schmidlin D, Tornic M, Seifert B</AU>
+<TI>Inhaled nitric oxide versus intravenous vasodilators in severe pulmonary hypertension after cardiac surgery</TI>
+<SO>Anesthesia &amp; Analgesia</SO>
+<YR>1999</YR>
+<VL>89</VL>
+<NO>5</NO>
+<PG>1108-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilkens-2001" NAME="Wilkens 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilkens H, Guth A, Ko J, Forestier N, Cremers B, Hennen B, et al</AU>
+<TI>Effect of inhaled iloprost plus oral sildenafil in patients with primary pulmonary hypertension</TI>
+<SO>Circulation</SO>
+<YR>2001</YR>
+<VL>104</VL>
+<NO>11</NO>
+<PG>1218-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilkins-2005" NAME="Wilkins 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;EXCLUDE - Comparison between sildenafil and bosentan&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilkins MR, Paul GA, Strange JW, Tunariu N, Gin-Sing W, Banya WA, et al</AU>
+<TI>Sildenafil versus endothelin receptor antagonist for pulmonary hypertension (SERAPH) study</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2005</YR>
+<VL>171</VL>
+<NO>11</NO>
+<PG>1292-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zhao-2001" NAME="Zhao 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zhao L, Mason NA, Morrell NW, Kojonazarov B, Sadykov A, Maripov A, et al</AU>
+<TI>Sildenafil inhibits hypoxia-induced pulmonary hypertension</TI>
+<SO>Circulation</SO>
+<YR>2001</YR>
+<VL>104</VL>
+<NO>4</NO>
+<PG>424-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Aldashev-2006" NAME="Aldashev 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Aldashev AA, Kojonazarov BK, Amatov TA, Sooronbaev TM, Mirrakhimov MM, Morrell NW et al</AU>
+<TI>Phosphodiesterase type 5 and high altitude pulmonary hypertension</TI>
+<SO>Thorax</SO>
+<YR>2005</YR>
+<VL>60</VL>
+<NO>8</NO>
+<PG>683-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Badesch-2005" NAME="Badesch 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;[Abstract].&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Badesch D, Burgess G, Parpia T, Torbicki A</AU>
+<TI>Sildenafil citrate in patients with pulmonary arterial hypertension (PAH) results of a multicenter multinational randomized double-blind placebo controlled trial by WHO functional class (FC)</TI>
+<SO>American Thoracic Society 2005 International Conference; May 20-25; San Diego, California</SO>
+<YR>2005</YR>
+<PG>A57; Poster: K39</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bratel-2005" NAME="Bratel 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;. .&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bratel T, Lagerstrand L, Brodin LA, Nowak J, Randmaa I</AU>
+<TI>Ventilation/perfusion ratios in pulmonary arterial hypertension: effects of IV and inhaled prostacyclin derivatives</TI>
+<SO>Chest</SO>
+<YR>2005</YR>
+<VL>128</VL>
+<NO>6 Suppl</NO>
+<PG>615s-6s</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chua-2005" NAME="Chua 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;. .&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chua R, Keogh A</AU>
+<TI>Combining treprostinil and sildenafil in the treatment of pulmonary hypertension</TI>
+<SO>Internal Medicine Journal</SO>
+<YR>2005</YR>
+<VL>35</VL>
+<NO>11</NO>
+<PG>684-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Coyne-2005" NAME="Coyne 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;. [Abstract].&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Coyne TC, Garces PC, Kramer W</AU>
+<TI>No clinical interaction between sitaxsentan and sildenafil</TI>
+<SO>American Thoracic Society 2005 International Conference; May 20-25; San Diego, California</SO>
+<YR>2005</YR>
+<PG>A57; Poster: K70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gali_x00e8_-2005" NAME="Galiè 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;[Abstract].&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Galiè N, Burgess G, Parpia T, Barst R</AU>
+<TI>Effects of sildenafil on 1 year survival of patients with idiopathic pulmonary arterial hypertension (PAH)</TI>
+<SO>American Thoracic Society 2005 International Conference; May 20-25; San Diego, California</SO>
+<YR>2005</YR>
+<PG>C88</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Galiè N, Ghofrani HA, Torbicki A, Barst RJ, Rubin LJ, Badesch D (Sildenafil Use in Pulmonary Arterial Hypertension = (SUPER) Study Group)</AU>
+<TI>Sildenafil citrate therapy for pulmonary arterial hypertension</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2005</YR>
+<VL>353</VL>
+<NO>20</NO>
+<PG>2148-57</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Galiè N, Rubin LJ, Simonneau G</AU>
+<TI>The authors reply</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2006</YR>
+<VL>354</VL>
+<NO>10</NO>
+<PG>1092-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gordeuk-2005" NAME="Gordeuk 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gordeuk VR</AU>
+<TI>Efficacy and safety of sildenafil in the treatment of severe pulmonary hypertension in patients with hemoglobinopathies</TI>
+<SO>Haematologica</SO>
+<YR>2005</YR>
+<VL>90</VL>
+<NO>4</NO>
+<PG>433-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoeper-2006" NAME="Hoeper 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoeper M</AU>
+<TI>Is sitaxsentan a safe and efficacious treatment for pulmonary arterial hypertension?</TI>
+<SO>Nature Clinical Practice Cardiovascular Medicine</SO>
+<YR>2006</YR>
+<VL>3</VL>
+<NO>10</NO>
+<PG>536-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kataoka-2005" NAME="Kataoka 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kataoka M, Satoh T, Manabe T, Anzai T, Yoshikawa T, Mitamura H, Ogawa S</AU>
+<TI>Oral sildenafil improves primary pulmonary hypertension refractory to epoprostenol</TI>
+<SO>Circulation Journal</SO>
+<YR>2005</YR>
+<VL>69</VL>
+<NO>4</NO>
+<PG>461-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Khush-2006" NAME="Khush 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Khush KK, De Marco T, Vakharia KT, Harmon C, Fineman JR, Chatterjee K et al</AU>
+<TI>Nesiritide acutely increases pulmonary and systemic levels of nitric oxide in patients with pulmonary hypertension</TI>
+<SO>Journal of Cardiac Failure</SO>
+<YR>2006</YR>
+<VL>12</VL>
+<NO>7</NO>
+<PG>507-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pepke_x002d_Zaba-2005" NAME="Pepke-Zaba 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;[Abstract].&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Pepke-Zaba J, Brown MCJ, Parpia T, Gilbert C, Burgess G</AU>
+<TI>The impact of sildenafil citrate on health-related quality of life in patients with pulmonary arterial hypertension (PAH) results of a multicenter, multinational, randomized double-blind, placebo controlled trial</TI>
+<SO>American Thoracic Society 2005 International Conference; May 20-25; San Diego, California</SO>
+<YR>2005</YR>
+<PG>B16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Preston-2005" NAME="Preston 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Preston IR, Klinger JR, Houtches J, Nelson D, Farber HW, Hill NS</AU>
+<TI>Acute and chronic effects of sildenafil in patients with pulmonary arterial hypertension</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2005</YR>
+<VL>99</VL>
+<NO>12</NO>
+<PG>1501-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rubin-2005" NAME="Rubin 2005" YEAR="2005">
+<REFERENCE NOTES="&lt;p&gt;[Abstract].&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Rubin L, Burgess G, Parpia T, Simoneau G</AU>
+<TI>Effects of sildenafil on 6 minute walk distance (6MWD) and WHO functional class (FC) after 1 year of treatment</TI>
+<SO>American Thoracic Society 2005 International Conference; May 20-25; San Diego, California</SO>
+<YR>2005</YR>
+<PG>B16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Singh-2006" NAME="Singh 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Singh TP, Rohit M, Grover A, Malhotra S, Vijayvergiya R</AU>
+<TI>A randomized, placebo-controlled, double-blind, crossover study to evaluate the efficacy of oral sildenafil therapy in severe pulmonary artery hypertension.</TI>
+<SO>American Heart Journal</SO>
+<YR>2006</YR>
+<VL>151</VL>
+<NO>4</NO>
+<PG>851 (e1-5)</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Singh-2006a" NAME="Singh 2006a" YEAR="2006">
+<REFERENCE NOTES="&lt;p&gt;.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Singh TSD, Kumar D, Basu S, Panja M, Mitra B</AU>
+<TI>Tadalafil in the management of severe pulmonary artery hypertension</TI>
+<SO>Indian Heart Journal</SO>
+<YR>2006</YR>
+<VL>58</VL>
+<NO>1</NO>
+<PG>52-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Souza-2006" NAME="Souza 2006" YEAR="20065">
+<REFERENCE NOTES="&lt;p&gt;[3].&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Souza R, Sitbon O, Parent F, Simonneau G, Humbert M</AU>
+<TI>Long term imatinib treatment in pulmonary arterial hypertension</TI>
+<SO>Thorax</SO>
+<YR>2006</YR>
+<VL>61</VL>
+<NO>8</NO>
+<PG>736</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tapson-2006" NAME="Tapson 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tapson VF, Gomberg-Maitland M, McLaughlin VV, Benza RL, Widlitz AC, Krichman A et al</AU>
+<TI>Safety and efficacy of IV treprostinil for pulmonary arterial hypertension: A prospective, multicenter, open-label, 12-week trial</TI>
+<SO>Chest</SO>
+<YR>2006</YR>
+<VL>129</VL>
+<NO>3</NO>
+<PG>683-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Abrams-2000" NAME="Abrams 2000" NOTES="&lt;p&gt;Abrams D. Schulze-Neick I. Magee AG. Sildenafil as a selective pulmonary vasodilator in childhood primary pulmonary hypertension. [Journal&lt;br&gt;Article] Heart (British Cardiac Society). 84(2):E4, 2000 Aug. &lt;br&gt;UI: 10908271&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Abrams D, Schulze-Neick I, Magee AG</AU>
+<TI>Sildenafil as a selective pulmonary vasodilator in childhood primary pulmonary hypertension</TI>
+<SO>Heart (Online)</SO>
+<YR>2000</YR>
+<VL>84</VL>
+<NO>2</NO>
+<PG>E4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Barst-1994" NAME="Barst 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Barst R, Rubin L, McGoon M, Caldwell E, Long W, Levy P</AU>
+<TI>Survival in primary pulmonary hypertension with long-term continuous intravenous prostacyclin</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1994</YR>
+<VL>121</VL>
+<PG>409-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Bigatello-2000" NAME="Bigatello 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Bigatello LM, Hess D, Dennehy KC, Medoff BD, Hurford WE</AU>
+<TI>Sildenafil can increase the response to inhaled nitric oxide</TI>
+<SO>Anesthesiology</SO>
+<YR>2000</YR>
+<VL>92</VL>
+<PG>1827-29</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lodato-2001" NAME="Lodato 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Lodato RF</AU>
+<TI>Viagra for impotence of pulmonary vasodilator therapy?</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>2001</YR>
+<VL>163</VL>
+<PG>312-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Paramothayan-2004" MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Paramothayan 2004" TYPE="COCHRANE_REVIEW">
+<AU>Paramothayan NS, Lasserson TJ, Wells A, Walters EH</AU>
+<TI>Prostacyclin for pulmonary hypertension (Cochrane review)</TI>
+<SO>The Cochrane Database of Systematic Reviews</SO>
+<YR>2004</YR>
+<NO>1</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Prasad-2000" NAME="Prasad 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Prasad S, Wilkinson J, Gatzoulis MA</AU>
+<TI>Sildenafil in primary pulmonary hypertension (letter)</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2000</YR>
+<VL>343</VL>
+<NO>18</NO>
+<PG>1342</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rosen-2003" MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Rosen 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Rosen RC, Kostis JB</AU>
+<TI>Overview of phosphodiesterase 5 inhibition in erectile dysfunction</TI>
+<SO>American Journal of Cardiology</SO>
+<YR>2003</YR>
+<VL>92</VL>
+<NO>1 (Suppl 1)</NO>
+<PG>9-18</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-WHO-2001" MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson" NAME="WHO 2001" TYPE="OTHER">
+<AU>World Health Organisation</AU>
+<TI>Executive summary from the World Symposium on Primary Pulmonary Hypertension 1998, Evian, France, 6-10 September 1998</TI>
+<SO>http//:www.who.int</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-08-15 16:31:04 +0100" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-08-15 16:31:04 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-08-15 16:31:04 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Bharani-2003">
+<CHAR_METHODS>
+<P>Randomised, double-blind, crossover study. Methods of randomisation: Not reported. Method of blinding: unclear. Withdrawals: N = 1. Jadad score: 3 (R: 1; B: 1; W: 1)</P>
+<P>Statistical analysis: Paired t test.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 16:31:04 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>N = 9 (5F). PPH: N = 3; PH secondary to ILD: N = 2; Thromboembolism: 1; Eisenmeger syndrome: Ventricular septal defect: N = 2; Patent ducus arteriosis: N = 1. NYHA status: II: N = 3; III: N = 5; IV: N = 1. Mean age: 32.11 (SD 15.06).</P>
+<P>Diagnosis established by clinical examination; routine lab evaluation; chest x-ray; ECG</P>
+<P>Inclusion criteria: NYHA &gt;/= II; Doppler-estimated pulmonary systolic pressure: &gt;/=35 mmHg; normal left ventricular function.</P>
+<P>Exclusion criteria: Reversible cause for PAH; contraindications for sildenafil therapy.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-15 15:55:29 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Sildenafil 25mg 3 times per day versus placebo. Previous vasodilator therapy was withheld from 1 week to study entry. All other conventional therapy was maintained (warfarin; nifedipine; diuretics (N = 2); digoxin (N = 2).</P>
+<P>Study duration: 2 x 2 week treatment periods<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>6 minute walk test; change in symptoms; change in NYHA functional class; change in Borg; change in resting pulmonary artery systolic pressure.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Ghofrani-2002">
+<CHAR_METHODS>
+<P>Randomised, parallel group open label study. Methods of randomisation: Computer generated randomisation (blocks of 4). Blinding not undertaken. No withdrawals. Jadad score: 3 (R: 2; B: 0; W: 1)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 30 (23F). PPH: N = 10; Calcinosis: N = 6; chronic thromboembolic PH: N = 13; PH due to aplasia of left pulmonary artery: N = 1. NYHA: III or IV. </P>
+<P>Sildenafil 12.5: N = 7; Sildenafil 50: N = 8; Sildenafil 12.5 + iloprost: N = 7; Sildenafil 50 + iloprost: N = 8</P>
+<P>Inclusion criteria: Mean PAP: &gt;40 mm Hg; PH as defined by WHO World Symposium in PPH</P>
+<P>Exclusion criteria: PH secondary to COPD; pulmonary venous congestion; congenital heart disease; acute or chronic inflammatory lung disease; pregnancy or insufficient contraceptive methods; previous treatment with PDE inhibitors (including theophylline). </P>
+<P>Response to NO was recorded, but was not an inclusion nor an exclusion criterion. <BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>All participants had inhaled NO. Subsequently they were randomised to one of the following treatment groups: </P>
+<P>Sildenafil 12.5 mg <BR/>Sildenafil 50 mg <BR/>Sildenafil 12.5 mg + iloprost <BR/>Sildenafil 50 mg plus iloprost. </P>
+<P>Study duration: 120 minutes for participants receiving sildenafil alone; 180 minutes for participants receiving sildenafil plus iloprost</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Arterial pressure; cardiac output; central venous pressure; peripheral oxygen saturation; blood gases;</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No blinding undertaken. Short term study assessing the acute effects of sildenafil alone or in combination with iloprost. No assessment of safety undertaken/possible due to the short term nature of the study. </P>
+<P>Mixed population. Trialists undertook subgroup analysis - no significant difference in response to treatment determined by type of PH.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-15 15:54:21 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Ghofrani-2002a">
+<CHAR_METHODS>
+<P>Randomised, open label parallel group trial. Patients were randomised by computer in blocks of four. Blinding not possible. No participants withdrew. Jadad score: 3 (R: 2; B: 0; W: 1)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-15 15:54:21 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Eligible: 25; N = 16. Mean age: 56.5 years (27 to 79); mean PAP: 40 mm Hg (25 to 62); Cardiac Index: 2.3 L/min/m2 (1.2 to 4.3); PVR: 1108.7 dyne/s/cm-5/m2 (448 to 3296); PaO2: 73.5 mm Hg (52 to 104); NYHA status: III (N = 10); IV: (N = 6)</P>
+<P>Inclusion criteria: Lung fibrosis defined by ATS and ERS guidelines; severe PH (mean PAP &gt;35 mm Hg)</P>
+<P>Exclusion criteria: Pulmonary venous PH (pulmonary arterial wedge pressure &gt;15 mm Hg); underlying lung disease other than fibrosis (COPD; recurrent PE); prior treatment with theophyllines</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>All participants inhaled NO prior to randomisation. </P>
+<P>Participants were randomised to IV iloprost (epoprostenol given in doses increased by 2 ng/kg/min) or oral sildenafil 50 mg</P>
+<P>Study duration: 60 minutes</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>PVR; mean PAP; pulmonary shunt flow; PaO2; cardiac output; adverse effects (short term)</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Short term study assessing the acute effects of sildenafil versus epoprostenol in terms of haemodynamic variables. No blinding undertaken.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Sastry-2004">
+<CHAR_METHODS>
+<P>Randomised, double-blind, crossover study. Method of randomisation: computer generated random numbers. Blinding: unclear. Withdrawals: N = 2. ITT analysis. Jadad score: 4 (R: 2, B: 1, W:1). </P>
+<P>Statistical analysis: Paired t test.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>N = 22. Age range: 16-55 years; mean PAP: &gt; 30 mmHg (mean not reported); Cardiac Index (L/m2): 2.83 (SD 1.06); Pulmonary artery systolic pressure (mmHg) 107.36 (SD 24.98); NYHA status: II (N = 18); III (N = 4); Quality of Life (CHFQ): Dyspnoea: 21.86 (SD 6.47); Fatigue: 20.38 (SD 5.12); Emotional function: 34.14 (SD 10.38)</P>
+<P>Inclusion criteria: 12-65 years of age; NYHA II &amp; III; estimated PAP &gt;30mmHg; able to walk on a treadmill</P>
+<P>Exclusion criteria: NYHA I or IV; significant r-to-l shunt; valvular heart disease; left ventricular systolic dysfunction; systemic hypertension; secondary pulmonary hypertension; severe co-morbid conditions</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Oral sildenafil versus placebo. Participants could not use other vasodilators. Digoxin, diuretics and oral anticoagulants were used at clinician's discretion.</P>
+<P>Dosage varied according to body weight (0-25kg, 3x25mg per day; 26-50kg, 3x50mg per day; &gt;51kg, 100mg 3x100 per day)</P>
+<P>Study duration: 6 weeks. No washout phase was undertaken</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Exercise capacity; Quality of life (dyspnoea, emotion, fatigue); change in pulmonary artery systolic pressure; cardiac output; adverse events</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>CHFQ: Chronic heart failure questionnaire; COPD: chronic obstructive pulmonary disease; Jadad scores: R: Randomisation; B: Blinding: W: Withdrawals; NO: Nitric oxide; NYHA: New York Heart Association Funcional Class Status; PAP: pulmonary arterial pressure; PVR: Pulmonary vascular resistance; PH: Pulmonary hypertension; PPH: Primary pulmonary hypertension; ILD: Interstitial Lung Disease</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Anonymous-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study in healthy volunteers who had breathed in low levels of oxygen to induce 'pulmonary hypertension'.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Anonymous-2001a">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article on pulmonary hypertension in neonates</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Channick-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Chockalingam-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Deeb-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective analysis of amrinone therapy in patients with pulmonary hypertension</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dweik-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ewert-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Correspondence in response to a non-randomised study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Frost-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study of endothelin</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ghofrani-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ghofrani-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Healthy volunteers</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hoeper-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Humpl-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ikeda-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Observational study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kothari-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study of sildenafil administered to 14 people with PAH.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kulkarni-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Randomised controlled trial comparing the effects of oxygen, sublingual isosorbide dinitrate, IV aminophylline, and sublingual nifedipine. Sildenafil was not administered.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lepore-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomised prospective observational study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Machado-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-McKay-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study in 10 patients with pulmonary hypertension.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Michelakis-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Richalet-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Healthy volunteers</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Richalet-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Healthy volunteers</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schmid-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Randomised controlled trial examining the effects of iNO (inhaled nitric oxide) in post-operative with severe PH post-operative in comparison with IV vasodilators. Excluded as neither of the two vasodilators used as comparators were sildenafil.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilkens-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before and after study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilkins-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison of sildenafil and endothelin</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Zhao-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Animal study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES>
+<P>IV: Intravenous</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Aldashev-2006">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Badesch-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Bratel-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Chua-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Coyne-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Gali_x00e8_-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Gordeuk-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Hoeper-2006">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Kataoka-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Khush-2006">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Pepke_x002d_Zaba-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Preston-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Rubin-2005">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Singh-2006">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Singh-2006a">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Souza-2006">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Tapson-2006">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-08-15 16:35:49 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2008-08-15 16:35:23 +0100" MODIFIED_BY="Toby J Lasserson" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 16:33:12 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Bharani-2003">
+<DESCRIPTION>
+<P>Described as randomised, no other information available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 15:54:44 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Ghofrani-2002">
+<DESCRIPTION>
+<P>Computer generated randomisation (blocks of 4)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 16:34:48 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Ghofrani-2002a">
+<DESCRIPTION>
+<P>Computer generated randomisation</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 16:35:23 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Sastry-2004">
+<DESCRIPTION>
+<P>Computer generated random numbers</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-08-15 16:35:49 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 16:33:23 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Bharani-2003">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 15:55:04 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Ghofrani-2002">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 16:34:59 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Ghofrani-2002a">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 16:35:49 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Sastry-2004">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2008-08-15 16:35:47 +0100" MODIFIED_BY="Toby J Lasserson" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-08-15 16:33:58 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Bharani-2003">
+<DESCRIPTION>
+<P>Placebo-controlled; uncertain of similarity between treatments. </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-08-15 16:34:32 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Ghofrani-2002">
+<DESCRIPTION>
+<P>Open label trial</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-08-15 16:35:12 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Ghofrani-2002a">
+<DESCRIPTION>
+<P>Open label trial </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-08-15 16:35:47 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Sastry-2004">
+<DESCRIPTION>
+<P>Placebo-controlled; uncertain of similarity between treatments.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_TABLE ID="TBL-01" MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson" NO="1">
+<TITLE>Adverse effects in Sastry 2004</TITLE>
+<TABLE COLS="3" ROWS="14">
+<TR>
+<TH>
+<P>Effect</P>
+</TH>
+<TH>
+<P>Sildenafil (N/22)</P>
+</TH>
+<TH>
+<P>Placebo (N/22)</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>Body aches</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Backache</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Headache</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Insomnia</P>
+</TD>
+<TD>
+<P>2</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Leg pains</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>6</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Numbness of hands &amp; feet</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Anorexia</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Nausea &amp; vomiting</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+<TD>
+<P>5</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Abdominal discomfort</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>6</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Constipation</P>
+</TD>
+<TD>
+<P>3</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Giddiness</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+<TD>
+<P>4</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Syncope</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>Death</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>1</P>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+<ADDITIONAL_TABLE ID="TBL-02" MODIFIED="2008-08-15 16:28:27 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<TITLE>Seach update detail</TITLE>
+<TABLE COLS="6" ROWS="3">
+<TR>
+<TH>
+<P>Search date</P>
+</TH>
+<TH>
+<P>Articles retrieved</P>
+</TH>
+<TH>
+<P>N assessed</P>
+</TH>
+<TH>
+<P>Unique studies</P>
+</TH>
+<TH>
+<P>Included</P>
+</TH>
+<TH>
+<P>Excluded</P>
+</TH>
+</TR>
+<TR>
+<TD>
+<P>October 2004-5</P>
+</TD>
+<TD>
+<P>285</P>
+</TD>
+<TD>
+<P>8</P>
+</TD>
+<TD>
+<P>8</P>
+</TD>
+<TD>
+<P>0</P>
+</TD>
+<TD>
+<P>8 (observational study/before and after study: 3; Healthy volunteers: 3; RCT of wrong comparison: 1; study of ERAs: 1)</P>
+</TD>
+</TR>
+<TR>
+<TD>
+<P>October 2005-6</P>
+</TD>
+<TD>
+<P>396</P>
+</TD>
+<TD>
+<P>19</P>
+</TD>
+<TD>
+<P>17</P>
+</TD>
+<TD>
+<P/>
+</TD>
+<TD>
+<P/>
+</TD>
+</TR>
+</TABLE>
+<FOOTNOTES/>
+</ADDITIONAL_TABLE>
+</ADDITIONAL_TABLES>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2008-08-15 16:38:15 +0100" MODIFIED_BY="Toby J Lasserson">
+<COMPARISON ID="CMP-001" MODIFIED="2008-08-15 16:37:56 +0100" MODIFIED_BY="Toby J Lasserson" NO="1">
+<NAME>Oral sildenafil versus placebo</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="OR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="2" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" MODIFIED="2008-08-15 16:37:56 +0100" MODIFIED_BY="Toby J Lasserson" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="202.54901269172493" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="9" TOTAL_2="9" WEIGHT="0.0" Z="0.0">
+<NAME>Improvement in NYHA status - post treatment in crossover studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="152.86338377459515" CI_START="0.26239842479384706" EFFECT_SIZE="6.333333333333333" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="2.184303468871679" LOG_CI_START="-0.5810387764053463" LOG_EFFECT_SIZE="0.8016323462331665" ORDER="323" O_E="0.0" SE="1.6243757235406069" STUDY_ID="STD-Bharani-2003" TOTAL_1="9" TOTAL_2="9" VAR="2.63859649122807" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1000.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0" Z="0.0">
+<NAME>Exercise time on treadmill - crossover studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Placebo better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Sildenafil better</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Seconds</EFFECT_MEASURE>
+<IV_DATA CI_END="269.6169357431586" CI_START="153.78306425684139" EFFECT_SIZE="211.7" ESTIMABLE="YES" ESTIMATE="211.7" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="324" SE="29.55" STUDY_ID="STD-Sastry-2004" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.03" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="10" TOTAL_2="12" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Exercise time on treadmill - 1st arm/parallel studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours sildenafil</GRAPH_LABEL_2>
+<CONT_DATA CI_END="439.35937250313197" CI_START="52.640627496868035" EFFECT_SIZE="246.0" ESTIMABLE="YES" MEAN_1="698.1" MEAN_2="452.1" ORDER="325" SD_1="272.9" SD_2="165.6" SE="98.65455387360483" STUDY_ID="STD-Sastry-2004" TOTAL_1="10" TOTAL_2="12" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="9" TOTAL_2="9" WEIGHT="0.0" Z="0.0">
+<NAME>Exercise capacity - 6 minute walk test - crossover studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Metres</EFFECT_MEASURE>
+<IV_DATA CI_END="145.38744414969304" CI_START="41.35255585030696" EFFECT_SIZE="93.37" ESTIMABLE="YES" ESTIMATE="93.37" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="326" SE="26.54" STUDY_ID="STD-Bharani-2003" TOTAL_1="9" TOTAL_2="9" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="5" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0" Z="0.0">
+<NAME>Cardiac index - crossover studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Placebo better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Sildenafil better</GRAPH_LABEL_2>
+<EFFECT_MEASURE>L/m2</EFFECT_MEASURE>
+<IV_DATA CI_END="0.8926435412860587" CI_START="0.4073564587139413" EFFECT_SIZE="0.65" ESTIMABLE="YES" ESTIMATE="0.65" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="327" SE="0.1238" STUDY_ID="STD-Sastry-2004" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="3.6426105393804624" CI_END="-4.72337270190405" CI_START="-17.564591387665168" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_SIZE="-11.14398204478461" ESTIMABLE="YES" I2="72.5471611859422" I2_Q="72.5471611859422" ID="CMP-001.06" LOG_CI_END="NaN" LOG_CI_START="NaN" LOG_DATA="NO" LOG_EFFECT_SIZE="NaN" NO="6" P_CHI2="0.05631875902622985" P_Q="0.05631875902622985" P_Z="6.693694901589357E-4" Q="3.6426105393804624" RANDOM="NO" SCALE="100.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="29" TOTAL_2="29" WEIGHT="100.0" Z="3.40182719204961">
+<NAME>Pulmonary artery systolic pressure - crossover studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Sildenafil better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Placebo better</GRAPH_LABEL_2>
+<EFFECT_MEASURE>mmHg</EFFECT_MEASURE>
+<IV_SUBGROUP CHI2="0.0" CI_END="1.1294555780056168" CI_START="-14.589455578005618" DF="0" EFFECT_SIZE="-6.73" ESTIMABLE="YES" I2="0.0" ID="CMP-001.06.01" LOG_CI_END="0.05286915459554361" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" NO="1" P_CHI2="1.0" P_Z="0.09328772086425548" STUDIES="1" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="66.73713606040234" Z="1.6783042394014964">
+<NAME>Primary pulmonary hypertension</NAME>
+<IV_DATA CI_END="1.1294555780056168" CI_START="-14.589455578005618" EFFECT_SIZE="-6.73" ESTIMABLE="YES" ESTIMATE="-6.73" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="328" SE="4.01" STUDY_ID="STD-Sastry-2004" TOTAL_1="20" TOTAL_2="20" WEIGHT="66.73713606040234"/>
+</IV_SUBGROUP>
+<IV_SUBGROUP CHI2="0.0" CI_END="-8.867404567812493" CI_START="-31.132595432187507" DF="0" EFFECT_SIZE="-20.0" ESTIMABLE="YES" I2="0.0" ID="CMP-001.06.02" LOG_CI_END="NaN" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" NO="2" P_CHI2="1.0" P_Z="4.297171424984984E-4" STUDIES="1" TAU2="0.0" TOTAL_1="9" TOTAL_2="9" WEIGHT="33.26286393959766" Z="3.5211267605633805">
+<NAME>Mixed population studies</NAME>
+<IV_DATA CI_END="-8.867404567812493" CI_START="-31.132595432187507" EFFECT_SIZE="-20.0" ESTIMABLE="YES" ESTIMATE="-20.0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="329" SE="5.68" STUDY_ID="STD-Bharani-2003" TOTAL_1="9" TOTAL_2="9" WEIGHT="33.26286393959766"/>
+</IV_SUBGROUP>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="7" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="4.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="9" TOTAL_2="9" WEIGHT="0.0" Z="0.0">
+<NAME>Borg dyspnea score - crossover studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Sildenafil better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Placebo better</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Borg</EFFECT_MEASURE>
+<IV_DATA CI_END="-0.5884416691846495" CI_START="-2.5115583308153506" EFFECT_SIZE="-1.55" ESTIMABLE="YES" ESTIMATE="-1.55" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="330" SE="0.4906" STUDY_ID="STD-Bharani-2003" TOTAL_1="9" TOTAL_2="9" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.08" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="8" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0" Z="0.0">
+<NAME>Quality of life: dyspnoea - crossover studies</NAME>
+<GROUP_LABEL_1>Sildeanfil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Sildenafil better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Placebo better</GRAPH_LABEL_2>
+<EFFECT_MEASURE>CHFQ score</EFFECT_MEASURE>
+<IV_DATA CI_END="7.448302699403227" CI_START="1.2116973005967737" EFFECT_SIZE="4.33" ESTIMABLE="YES" ESTIMATE="4.33" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="331" SE="1.591" STUDY_ID="STD-Sastry-2004" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.09" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="9" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0" Z="0.0">
+<NAME>Quality of life: fatigue - crossover studies</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Placebo better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Sildenafil better</GRAPH_LABEL_2>
+<EFFECT_MEASURE>CHFQ score</EFFECT_MEASURE>
+<IV_DATA CI_END="3.243650899508364" CI_START="0.0763491004916359" EFFECT_SIZE="1.66" ESTIMABLE="YES" ESTIMATE="1.66" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="332" SE="0.808" STUDY_ID="STD-Sastry-2004" TOTAL_1="1" TOTAL_2="1" WEIGHT="0.0"/>
+</IV_OUTCOME>
+<IV_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.10" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_DATA="NO" LOG_EFFECT_SIZE="-Infinity" NO="10" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SHOW_PARTICIPANTS="YES" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0" Z="0.0">
+<NAME>Quality of life - emotional function (crossover studies)</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Placebo better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Sildenafil better</GRAPH_LABEL_2>
+<EFFECT_MEASURE>CHFQ score</EFFECT_MEASURE>
+<IV_DATA CI_END="5.3649295603483464" CI_START="-0.12492956034834624" EFFECT_SIZE="2.62" ESTIMABLE="YES" ESTIMATE="2.62" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="333" SE="1.4005" STUDY_ID="STD-Sastry-2004" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0"/>
+</IV_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" MODIFIED="2008-08-15 16:38:02 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>High dose oral sildenafil versus low dose oral sildenafil</NAME>
+<CONT_OUTCOME CHI2="0.015238322318301196" CI_END="-1.0831122677974747" CI_START="-30.63519999634669" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="-15.859156132072082" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.01" MODIFIED="2008-08-15 16:38:02 +0100" MODIFIED_BY="Toby J Lasserson" NO="1" P_CHI2="0.9017558367611785" P_Q="0.9017558367611785" P_Z="0.03541046498176106" Q="0.015238322318301196" RANDOM="NO" SCALE="127.99289500149187" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="16" TOTAL_2="14" UNITS="" WEIGHT="100.0" Z="2.1036330921574993">
+<NAME>Change in pulmonary vascular resistance</NAME>
+<GROUP_LABEL_1>High dose</GROUP_LABEL_1>
+<GROUP_LABEL_2>Low dose</GROUP_LABEL_2>
+<GRAPH_LABEL_1>High dose better</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Low dose better</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="6.37595809049234" CI_START="-40.37595809049234" DF="0" EFFECT_SIZE="-17.0" ESTIMABLE="YES" I2="0.0" ID="CMP-002.01.01" NO="1" P_CHI2="1.0" P_Z="0.15405029561155262" STUDIES="1" TAU2="0.0" TOTAL_1="8" TOTAL_2="7" WEIGHT="39.9555858985307" Z="1.4253699295744742">
+<NAME>Sildenafil plus iloprost</NAME>
+<CONT_DATA CI_END="6.37595809049234" CI_START="-40.37595809049234" EFFECT_SIZE="-17.0" ESTIMABLE="YES" MEAN_1="-35.0" MEAN_2="-18.0" ORDER="334" SD_1="18.38" SD_2="26.46" SE="11.926728386275927" STUDY_ID="STD-Ghofrani-2002" TOTAL_1="8" TOTAL_2="7" WEIGHT="39.9555858985307"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="3.968734236179051" CI_START="-34.16873423617905" DF="0" EFFECT_SIZE="-15.1" ESTIMABLE="YES" I2="0.0" ID="CMP-002.01.02" NO="2" P_CHI2="1.0" P_Z="0.12065242853841547" STUDIES="1" TAU2="0.0" TOTAL_1="8" TOTAL_2="7" WEIGHT="60.04441410146929" Z="1.5520409377987687">
+<NAME>Sildenafil alone</NAME>
+<CONT_DATA CI_END="3.968734236179051" CI_START="-34.16873423617905" EFFECT_SIZE="-15.1" ESTIMABLE="YES" MEAN_1="-21.5" MEAN_2="-6.4" ORDER="335" SD_1="21.21" SD_2="16.4" SE="9.729124813818412" STUDY_ID="STD-Ghofrani-2002" TOTAL_1="8" TOTAL_2="7" WEIGHT="60.04441410146929"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" MODIFIED="2008-08-15 16:38:15 +0100" MODIFIED_BY="Toby J Lasserson" NO="3">
+<NAME>Oral sildenafil versus prostacyclin</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-003.01" MODIFIED="2008-08-15 16:38:15 +0100" MODIFIED_BY="Toby J Lasserson" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="73.33048868578125" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="8" TOTAL_2="8" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in pulmonary vascular resistance</NAME>
+<GROUP_LABEL_1>Sildenafil</GROUP_LABEL_1>
+<GROUP_LABEL_2>Iloprost</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours sildenafil</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours iloprost</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-003.01.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="0" TAU2="0.0" TOTAL_1="0" TOTAL_2="0" WEIGHT="0.0" Z="0.0">
+<NAME>Low dose sildenafil</NAME>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-003.01.02" NO="2" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="8" TOTAL_2="8" WEIGHT="0.0" Z="0.0">
+<NAME>High dose sildenafil</NAME>
+<CONT_DATA CI_END="32.52123598428729" CI_START="-23.721235984287286" EFFECT_SIZE="4.399999999999999" ESTIMABLE="YES" MEAN_1="-32.5" MEAN_2="-36.9" ORDER="336" SD_1="25.4" SD_2="31.65" SE="14.347833024537188" STUDY_ID="STD-Ghofrani-2002" TOTAL_1="8" TOTAL_2="8" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2008-08-15 15:51:25 +0100" MODIFIED_BY="Toby J Lasserson">
+<APPENDIX ID="APP-01" MODIFIED="2008-08-15 15:49:36 +0100" MODIFIED_BY="Toby J Lasserson" NO="1">
+<TITLE MODIFIED="2008-08-15 15:49:20 +0100" MODIFIED_BY="Toby J Lasserson">MEDLINE search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2008-08-15 15:49:36 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>(combined with RCT filter outlined in Group Module)</P>
+<P>1 exp Hypertension, Pulmonary/<BR/>2 (pulmonary adj5 hypertens$).mp. [mp=title, original title, abstract, name of substance, mesh subject heading]<BR/>3 1 or 2<BR/>4 exp Vasodilator Agents/<BR/>5 [exp VASODILATION/de [Drug Effects]]<BR/>6 (viagra or sildenafil).mp. [mp=title, original title, abstract, name of substance, mesh subject heading]<BR/>7 exp Phosphodiesterase Inhibitors/<BR/>8 PDE5.mp.<BR/>9 4 or 5 or 6 or 7 or 8<BR/>10 3 and 9</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2008-08-15 15:51:00 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<TITLE MODIFIED="2008-08-15 15:50:58 +0100" MODIFIED_BY="Toby J Lasserson">EMBASE search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2008-08-15 15:51:00 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>(combined with RCT filter outlined in Group Module)</P>
+<P>1. exp Pulmonary Hypertension/<BR/>2. (pulmonary adj5 hypertens$).mp. [mp=title, abstract, subject headings, drug trade name, original title, device manufacturer, drug manufacturer name]<BR/>3. 1 or 2<BR/>4. exp Vasodilator Agent/<BR/>5. exp Vasodilatation/<BR/>6. exp Sildenafil/<BR/>7. sildenafil.mp.<BR/>8. viagra.mp.<BR/>9. exp Phosphodiesterase Inhibitor/<BR/>10. PDE5.mp. [mp=title, abstract, subject headings, drug trade name, original title, device manufacturer, drug manufacturer name]<BR/>11. 4 or 5 or 6 or 7 or 8 or 9 or 10<BR/>12. 3 and 11</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-03" MODIFIED="2008-08-15 15:51:25 +0100" MODIFIED_BY="Toby J Lasserson" NO="3">
+<TITLE MODIFIED="2008-08-15 15:51:22 +0100" MODIFIED_BY="Toby J Lasserson">CENTRAL search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2008-08-15 15:51:25 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>#1. HYPERTENSION PULMONARY explode tree 1 (MeSH)<BR/>#2. (pulmonary near hypertens*)<BR/>#3. (#1 or #2)<BR/>#4. VASODILATOR AGENTS explode tree 1 (MeSH)<BR/>#5. VASODILATION [de] single term (MeSH)<BR/>#6. PHOSPHODIESTERASE INHIBITORS single term (MeSH)<BR/>#7. pde5<BR/>#8. (viagra or sildenafil)<BR/>#9. (#4 or #5 or #6 or #7 or #8)<BR/>#10. (#9 and #3)</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

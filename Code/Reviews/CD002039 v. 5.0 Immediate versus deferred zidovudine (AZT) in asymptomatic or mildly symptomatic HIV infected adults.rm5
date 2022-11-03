@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002039" GROUP_ID="HIV" ID="738399093016075253" MERGED_FROM="" MODIFIED="2010-02-08 23:48:37 +0100" MODIFIED_BY="Rose Whitmore" NOTES="&lt;p&gt;Exported from Review Manager 4.2.6&lt;br&gt;Short title (no longer in use): Immediate versus deferred AZT in early infection&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" NOTES_MODIFIED="2010-02-08 14:46:03 -0800" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="JD01" REVMAN_SUB_VERSION="5.0.22" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="5.0">
+<COVER_SHEET MODIFIED="2010-02-08 23:48:37 +0100" MODIFIED_BY="Rose Whitmore">
+<TITLE>Immediate versus deferred zidovudine (AZT) in asymptomatic or mildly symptomatic HIV infected adults</TITLE>
+<CONTACT MODIFIED="2010-02-08 23:48:37 +0100" MODIFIED_BY="Rose Whitmore"><PERSON ID="7344" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Janet</FIRST_NAME><LAST_NAME>Darbyshire</LAST_NAME><EMAIL_1>j.darbyshire@ctu.mrc.ac.uk</EMAIL_1><ADDRESS><ORGANISATION/><ADDRESS_1>MRC Clinical Trials Unit</ADDRESS_1><ADDRESS_2>222 Euston Road</ADDRESS_2><CITY>London</CITY><ZIP>NW1 2DA</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 20 7670 4700</PHONE_1><PHONE_2>+44 020 7670 4711</PHONE_2><FAX_1>+44 20 7670 4818</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2010-02-08 23:48:37 +0100" MODIFIED_BY="Rose Whitmore"><PERSON ID="7344" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Janet</FIRST_NAME><LAST_NAME>Darbyshire</LAST_NAME><EMAIL_1>j.darbyshire@ctu.mrc.ac.uk</EMAIL_1><ADDRESS><ORGANISATION/><ADDRESS_1>MRC Clinical Trials Unit</ADDRESS_1><ADDRESS_2>222 Euston Road</ADDRESS_2><CITY>London</CITY><ZIP>NW1 2DA</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 20 7670 4700</PHONE_1><PHONE_2>+44 020 7670 4711</PHONE_2><FAX_1>+44 20 7670 4818</FAX_1></ADDRESS></PERSON><PERSON ID="14085" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Mary</FIRST_NAME><LAST_NAME>Foulkes</LAST_NAME><EMAIL_1>foulkes@cber.fda.gov</EMAIL_1><ADDRESS><DEPARTMENT>Division of Biostatistics and Epidemiology</DEPARTMENT><ORGANISATION>FDA/CBER/OCD</ORGANISATION><ADDRESS_1>1401 Rockville Pike (HFM 210)</ADDRESS_1><CITY>Rockville</CITY><ZIP>MD 20853-1442</ZIP><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>+1 301 827 3034</PHONE_1><PHONE_2>+1 301 827 3529</PHONE_2></ADDRESS></PERSON><PERSON ID="7994" ROLE="AUTHOR"><PREFIX>Prof Sir</PREFIX><FIRST_NAME>Richard</FIRST_NAME><LAST_NAME>Peto</LAST_NAME><ADDRESS><DEPARTMENT>Clinical Trial Service and Epidemiological Studies Unit</DEPARTMENT><ORGANISATION>University of Oxford</ORGANISATION><ADDRESS_1>Richard Doll Building</ADDRESS_1><ADDRESS_2>Old Road Campus</ADDRESS_2><CITY>Oxford</CITY><ZIP>OX2 7LF</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 1865404801</PHONE_1><FAX_1>+44 1865 558817</FAX_1></ADDRESS></PERSON><PERSON ID="14084" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>William</FIRST_NAME><LAST_NAME>Duncan</LAST_NAME><POSITION>Associate Director</POSITION><EMAIL_1>wduncan@mercury.niaid.nih.gov</EMAIL_1><ADDRESS><DEPARTMENT>Therapeutics Research</DEPARTMENT><ORGANISATION>NIH, Division of AIDS</ORGANISATION><ADDRESS_1>3700-B Rockledge Drive - MSC 7624</ADDRESS_1><CITY>Bethesda</CITY><ZIP>MD 20892-7624</ZIP><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>+1 301 496 8210</PHONE_1><FAX_1>+1 301 402 3171</FAX_1></ADDRESS></PERSON><PERSON ID="7137" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Abdel</FIRST_NAME><LAST_NAME>Babiker</LAST_NAME><ADDRESS><ORGANISATION/><ADDRESS_1>Head of HIV Division, MRC Clinical Trials Unit</ADDRESS_1><ADDRESS_2>222 Euston Road</ADDRESS_2><CITY>London</CITY><ZIP>NW1 2DA</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 20 7670 4719</PHONE_1><PHONE_2>+44 207 670 4711/f:7670 4711</PHONE_2><FAX_1>+44 20 7670 4718</FAX_1></ADDRESS></PERSON><PERSON ID="14077" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Rory</FIRST_NAME><LAST_NAME>Collins</LAST_NAME><EMAIL_1>secretary@ctsu.ox.ac.uk</EMAIL_1><ADDRESS><ORGANISATION>ICRF Clinical Trial Service Unit</ORGANISATION><ADDRESS_1>Harkness Building, Radcliffe Infirmary</ADDRESS_1><ADDRESS_2>Woodstock Road</ADDRESS_2><CITY>Oxford</CITY><ZIP>OX2 6HE</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+1865 404834</PHONE_1><PHONE_2>+1865 557241</PHONE_2><FAX_1>+1865 558817</FAX_1></ADDRESS></PERSON><PERSON ID="14092" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Mike</FIRST_NAME><LAST_NAME>Hughes</LAST_NAME><EMAIL_1>mhughes@sdac.harvard.edu</EMAIL_1><ADDRESS><DEPARTMENT>Department of Biostatistics</DEPARTMENT><ORGANISATION>Harvard School of Public Health</ORGANISATION><ADDRESS_1>677 Huntingdon Avenue</ADDRESS_1><CITY>Boston</CITY><ZIP>MA 02115</ZIP><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>+1 617 432 3161</PHONE_1><FAX_1>+1 617 432 2843</FAX_1></ADDRESS></PERSON><PERSON ID="14122" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Tim</FIRST_NAME><MIDDLE_INITIALS>EA</MIDDLE_INITIALS><LAST_NAME>Peto</LAST_NAME><POSITION>Consultant Physician in Infectious Diseases</POSITION><EMAIL_1>tim.peto@ndm.ox.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>The Nuffield Department of Medicine</DEPARTMENT><ORGANISATION>John Radcliffe Hospital</ORGANISATION><ADDRESS_1>Level 7</ADDRESS_1><ADDRESS_2>Headington</ADDRESS_2><CITY>Oxford</CITY><ZIP>OX3 9DU</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+1865 220154</PHONE_1><FAX_1>+1865 222962</FAX_1></ADDRESS></PERSON><PERSON ID="D328415F82E26AA20080535F6B7181B9" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Sarah</FIRST_NAME><MIDDLE_INITIALS>A</MIDDLE_INITIALS><LAST_NAME>Walker</LAST_NAME><POSITION>Statistician</POSITION><EMAIL_1>asw@ctu.mrc.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>HIV Division</DEPARTMENT><ORGANISATION>MRC Clinical Trials Unit</ORGANISATION><ADDRESS_1>222 Euston Rd</ADDRESS_1><CITY>London</CITY><ZIP>NW1 2D4</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 020 7670 4726</PHONE_1><FAX_1>+44 020 7670 4818</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-11-10 16:54:54 -0800" MODIFIED_BY="Tara Horvath" NOTES="&lt;p&gt;Minor update: 11/01/00&lt;/p&gt;" NOTES_MODIFIED="2008-11-10 16:54:54 -0800" NOTES_MODIFIED_BY="Tara Horvath">
+<UP_TO_DATE>
+<DATE DAY="6" MONTH="3" YEAR="2000"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="6" MONTH="3" YEAR="2000"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="22" MONTH="12" YEAR="2008"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="" YEAR=""/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2000"/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2000"/>
+</DATES>
+<WHATS_NEW MODIFIED="2010-02-08 14:46:03 -0800" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2010-02-08 14:46:03 -0800" MODIFIED_BY="[Empty name]">
+<DATE DAY="8" MONTH="2" YEAR="2010"/>
+<DESCRIPTION>
+<P>This review's conclusions are firm and it will no longer be updated. </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2010-02-08 14:44:23 -0800" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2010-02-08 14:44:23 -0800" MODIFIED_BY="[Empty name]">
+<DATE DAY="29" MONTH="10" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="6" MONTH="3" YEAR="2000"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Medical Research Council</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Clinical Trial Service Unit (CTSU), Oxford</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Division of AIDS, NIH</NAME>
+<COUNTRY CODE="US">USA</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT>
+<SUMMARY>
+<TITLE>While AZT slows down the progression of HIV disease in the short-term, the improvement does not last and it does not increase survival</TITLE>
+<SUMMARY_BODY>
+<P>Zidovudine (AZT) was the first antiretroviral drug used in HIV and AIDS. It is expensive and has several adverse effects including nausea, vomiting, blood problems (anaemia and neutropenia) and myopathy (muscle weakness). The review of trials found that AZT does delay the early progression of HIV disease, but this improvement is not sustained. AZT alone does not increase survival for people without AIDS.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Zidovudine (AZT) monotherapy was the first antiretroviral drug to be tested widely. Subsequent trials in asymptomatic or early symptomatic HIV infection indicated short-term delays in disease progression with AZT, but not improved survival.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the effects of immediate versus deferred zidovudine (AZT) on HIV disease progression and survival.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>Investigators and pharmaceutical companies were contacted, and MEDLINE searches were supplemented by searching conference abstracts.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised controlled trials comparing immediate versus deferred AZT in participants without AIDS which prospectively collected deaths and new AIDS events.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Individual patient data with, wherever possible, follow-up obtained beyond that previously published was obtained and checked for internal consistency and consistency with any published reports; any apparent discrepancies were resolved with the trialists. <BR/>Time to death and to disease progression (defined as a new AIDS-defining event or prior death) were analysed on an intention to treat basis, stratified to avoid direct comparisons between participants in different trials.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Nine trials were included in the meta-analysis. During a median follow-up of 50 months, 1908 individuals developed disease progression, of whom 1351 died. In the deferred group, 61% started antiretroviral therapy (median time to therapy 28 months, which was AZT monotherapy in 94%). During the first year of follow-up immediate AZT halved the rate of disease progression (P&lt;0.0001), increasing the probability of AIDS-free survival at one year from 96% to 98%, but this early benefit did not persist: after 6 years AIDS-free survival was 54% in both groups, and at no time was there any difference in overall survival, which at 6 years was 64% with immediate and 65% with deferred AZT (rate ratio [RR] 1.04, 95% confidence interval [CI] 0.94 to 1.15).</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Although immediate use of AZT halved disease progression during the first year, this effect was not sustained, and there was no improvement in survival in the short or long term.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P>Early projections of substantial improvements in survival led to randomised trials of therapies for HIV infection that were too small to be able to detect more moderate benefits (<LINK REF="REF-Fischl-1987" TYPE="REFERENCE">Fischl 1987</LINK>). Zidovudine (AZT) monotherapy was the first antiretroviral drug to be tested widely. In the first reported trial (<LINK REF="REF-Fischl-1987" TYPE="REFERENCE">Fischl 1987</LINK>), AZT over an average of 16 weeks in patients with AIDS and advanced AIDS-related complex (ARC) delayed the occurrence of opportunistic infections and improved short term survival. Subsequent trials in asymptomatic or early symptomatic HIV infection indicated short-term delays in disease progression with AZT, but not improved survival (<LINK REF="REF-Volberding-1994" TYPE="REFERENCE">Volberding 1994</LINK>).</P>
+<P>One year's supply of AZT costs around 2600 UK pounds. Side effects are gastrointestinal (nausea, vomiting), anaemia, neutropenia and myopathy.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>This meta-analysis of individual patient data with updated follow-up from those trials aims to assess the prolonged effects of immediate versus deferred AZT in asymptomatic or early symptomatic HIV infection on HIV disease progression (to AIDS or death) and survival, overall and in subgroups of participants.</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Trials were eligible if adult individuals without AIDS were randomly allocated between immediate and deferred treatment with AZT, and deaths and development of new AIDS events were systematically recorded. Participants in the "deferred therapy" arm were initially allocated matching placebo and subsequently offered open label AZT at disease progression or at a low CD4 cell count (in some trials), or after the formal end of the trial.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>HIV-infected adults without AIDS.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Immediate versus deferred AZT, including participants originally randomised to AZT versus placebo with the placebo arm subsequently offered open label AZT at disease progression or at a low CD4 cell count (in some trials), or after the formal end of the trial.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>Mortality and HIV disease progression (AIDS-defining event or prior death)</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>Investigators and pharmaceutical companies were contacted, and MEDLINE and EMBASE searches (using the Cochrane Collaboration strategy (<LINK REF="REF-Dickersin-1996" TYPE="REFERENCE">Dickersin 1996</LINK>)) were supplemented by searching conference abstracts and the Cochrane Controlled Trials Register.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>Baseline information was sought for every participating individual: age, sex, likely routes of infection ('risk factors'), disease stage, CD4 count and p24 antigen status, as was date of randomisation, allocated treatment, date of starting and stopping it, use of other antiretroviral therapy or prophylaxis against Pneumocystis carinii pneumonia (PCP); and dates of AIDS-defining events, death, last assessment for disease stage and last known vital status (with, wherever possible, follow-up obtained beyond that previously published). This was checked at the MRC Clinical Trials Unit for internal consistency and consistency with any published reports; any apparent discrepancies were resolved with the trialists. </P>
+<P>Systematic follow-up continued after the reported trial period in five trials (<LINK REF="STD-CONCORDE" TYPE="STUDY">CONCORDE</LINK>; <LINK REF="STD-EACG-009" TYPE="STUDY">EACG 009</LINK>; <LINK REF="STD-EACG-017" TYPE="STUDY">EACG 017</LINK>; <LINK REF="STD-EACG-020" TYPE="STUDY">EACG 020</LINK>; <LINK REF="STD-VA-298" TYPE="STUDY">VA 298</LINK>). In the other trials, the proportion lost to follow-up increased markedly (to more than half) at some time after the trial closed; the present analyses include follow-up only until this time, thereby excluding 200 deaths and 160 AIDS events. This was to avoid potential bias from systematic differences in follow-up, but in practice, the overall results were largely unaffected. </P>
+<P>Time to death and to disease progression (defined as an AIDS-defining event or prior death) were analysed on an intention to treat basis, stratified to avoid direct comparisons between participants in different trials. This avoids the unjustified assumption that the true effects of treatment must be the same in different trials, or over time. <BR/> The observed (O) and logrank expected (E) numbers of events and the variance (V) of O-E were summed over trials to give a summary rate ratio (RR=exp[(O-E)/V]) and statistical significance test (based on z=(O-E)/sqrt(V)), using the "one-step" formula (<LINK REF="REF-EBCTCG-1990" TYPE="REFERENCE">EBCTCG 1990</LINK>). For subgroup analyses, O-E and V were calculated separately for each subgroup within each trial and then summed over trials. Comparisons between different trials or subgroups involved standard chi-squared heterogeneity or trend tests. Analyses of published data referred to for comparison derive O-E and V (used as above) from standard analyses of "2x2" tables of outcome by treatment arm.</P>
+<P>Event-free probabilities were calculated by the standard adaptation of 'actuarial' survival curves to overview analyses (with the event rate in the final year plotted based on the rate from events in the entire period during and after that year) (<LINK REF="REF-EBCTCG-1990" TYPE="REFERENCE">EBCTCG 1990</LINK>).</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>Two trials included participants with HIV-related symptoms but not AIDS (<LINK REF="STD-ACTG-016" TYPE="STUDY">ACTG 016</LINK>; <LINK REF="STD-VA-298" TYPE="STUDY">VA 298</LINK>), while the other 7 included only asymptomatic participants. BW002 (<LINK REF="STD-BW002" TYPE="STUDY">BW002</LINK>) and ACTG001 (unpublished) were not eligible as they included only participants with advanced AIDS-related complex (ARC) or AIDS.</P>
+<P>Follow-up was not available for 51 HIV positive individuals (0.7%) who had major violations of eligibility criteria, leaving 7722 randomised participants for the present analyses, of whom all but 109 (66 immediate AZT, 43 deferred AZT) started their allocated therapy. One trial (<LINK REF="STD-ACTG-016" TYPE="STUDY">ACTG 016</LINK>) used CDC 1986 (<LINK REF="REF-CDC-1986" TYPE="REFERENCE">CDC 1986</LINK>) guidelines to define AIDS; the others used CDC 1987 (<LINK REF="REF-CDC-1987" TYPE="REFERENCE">CDC 1987</LINK>). In each trial, progressions were reviewed by a committee or trial physician, and only those satisfying the AIDS-defining criteria are included.</P>
+<P>Low and high dose AZT in ACTG019 (<LINK REF="STD-ACTG-019A1" TYPE="STUDY">ACTG 019A1</LINK>; <LINK REF="STD-ACTG-019A2" TYPE="STUDY">ACTG 019A2</LINK>; <LINK REF="STD-ACTG-019B" TYPE="STUDY">ACTG 019B</LINK>) are combined. The low:high:placebo allocation ratio for participants with CD4&lt;500 cells per mm3 changed on 1 June 1988 from 2:2:3 to 3:3:2, and these periods were included as two separate chronological strata (A1 and A2). For those with CD4&lt;=500 (<LINK REF="STD-ACTG-019B" TYPE="STUDY">ACTG 019B</LINK>) it was 1:1:1 throughout. Hence, the ratios of immediate:deferred AZT are 4:3, 6:2 and 2:1 for ACTG019 A1, A2 and B respectively. In all other trials the ratio was 1:1.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>Only properly randomised trials were included, where prior knowledge of the treatment assignment was not possible. All data received were checked thoroughly for internal and external consistency, and the quality of the randomisation and follow-up were also assessed. This led to restrictions on follow-up included for five trials (see Methods of the review).</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>Of participants allocated deferred AZT, 50% (by Kaplan-Meier analysis) started open label antiretroviral therapy (ART) within 28 months; overall 61% did so during the follow-up period (either because of disease progression or after the blinded phase), of whom 94% received AZT monotherapy. During a median follow-up of 50 months, 1351 of 7722 participants died and 1908 developed AIDS or died.</P>
+<P>Overall effects on death and disease progression: Compared with deferred treatment, immediate AZT was associated with a small and non-significant increase in death (RR=1.04; 95% CI 0.93 to 1.16, P=0.5), and a small and non-significant decrease in disease progression (RR=0.96; 95% CI 0.87 to 1.05, P=0.3). There was no evidence of heterogeneity between the effects observed in different trials and trial strata on death (chi-squared=8.3, df=10, P=0.6) or disease progression (chi-squared=5.3, df=10, P=0.9). Excluding Kaposi's sarcoma (KS) from the definition of AIDS made little difference to the estimated effect on disease progression (RR=0.97; 95% CI 0.89 to 1.07, P=0.6).</P>
+<P>Effects in subgroups of trials and participants: The effects in trials where participants had early HIV-related symptoms at entry (<LINK REF="STD-ACTG-016" TYPE="STUDY">ACTG 016</LINK>; <LINK REF="STD-VA-298" TYPE="STUDY">VA 298</LINK>) were not significantly different from those in the trials in asymptomatic participants, either for death (heterogeneity chi-squared=0.8, df=1, P=0.4) or for progression (chi-squared=0.8, df=1, P=0.4). Likewise, the effects were not significantly different in trials where the median time to AZT in the deferred group was under two years, two to three years or more than three years, for death (trend chi-squared=0.9, df=1, P=0.3) or for progression (trend chi-squared=0.9, df=1, P=0.3). There were no significant differences in the treatment effects with respect to sex, age, race, risk factors, CD4 cell count or p24 antigenaemia. </P>
+<P>Effects by duration of follow-up: Six years after randomisation there appeared to be no differences between immediate and deferred AZT in overall survival or AIDS-free survival (<LINK REF="REF-HIVTCG-1999" TYPE="REFERENCE">HIVTCG 1999</LINK>). For mortality, there was no difference between the treatment groups during any particular year after randomisation. By contrast, there was a definite but transient effect on disease progression: immediate AZT halved the progression rate during the first year after randomisation (RR=0.52, 99% CI 0.36 to 0.74; or, after excluding Kaposi's sarcoma, 0.51, 99% CI 0.34 to 0.75: both P&lt;0.0001). The estimated percentages with disease progression by one year were 2% (SD 0.4%) for immediate and 4% (SD 0.7%) for deferred AZT. This effect during the first year was similar in all trials (heterogeneity chi-squared=8.4, df=10, P=0.6), in participants with baseline CD4 under and over 350 (chi-squared=0.1, df=1, P=0.8), and in the trials in symptomatic and asymptomatic HIV infection (chi-squared=0.3, df=1, P=0.6). In no subsequent year was there any further delay of progression. Indeed, within a few years there was no apparent difference in the cumulative proportions who had progressed (<LINK REF="REF-HIVTCG-1999" TYPE="REFERENCE">HIVTCG 1999</LINK>).</P>
+<P>Effects on AIDS and death before AIDS: The effects of treatment on AIDS ignoring death (1497 progressions) and on death before AIDS (411 deaths) were considered separately. Immediate AZT was associated with a marginally significant reduction in AIDS ignoring death (RR=0.88; 95% CI 0.80 to 0.98, P=0.02) but a marginally significant increase in death before AIDS (RR=1.26; 95% CI 1.04 to 1.54, P=0.02). The effect on AIDS was substantial only in the first year (RR=0.44; 99% CI 0.30 to 0.65, P&lt;0.0001), with no additional effect during subsequent years.</P>
+<P>Impact of PCP prophylaxis: There has been considerable debate about the potential impact of PCP prophylaxis, which became widely used after 1989, on the effect of immediate AZT. There is no good evidence that the effect of immediate AZT on mortality before 1989 was different from its effect after 1989. For disease progression, the treatment comparison before and after 1989 is confounded with the effect of immediate AZT in the first year after randomisation because the first year from randomisation for many participants coincided with the introduction of PCP prophylaxis. There was no evidence of a difference in the effect on disease progression in the first year from randomisation before (RR=0.49, 95% CI 0.36 to 0.68) or after (RR=0.57, 95% CI 0.35 to 0.93) 1 October 1989. In any event, with the widespread use of PCP prophylaxis, the question of what the effect of an antiretroviral treatment might be in its absence is of little practical relevance.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>Immediate AZT therapy reduced disease progression during the first year after randomisation. This early delay, which was consistent across all trials and independent of baseline CD4, confirms the findings of the previous short term trials and meta-analysis based on published data (<LINK REF="REF-Ioannidis-1995" TYPE="REFERENCE">Ioannidis 1995</LINK>). However, the effect on disease progression did not persist, and there was no overall effect on death, either during the first year or subsequently. </P>
+<P>It is possible that the effect of immediate AZT on progression to AIDS in the short-term only is due to emerging viral resistance to AZT when given as monotherapy (<LINK REF="REF-Larder-1989" TYPE="REFERENCE">Larder 1989</LINK>) in early HIV infection, leading to no short-term benefit in survival. </P>
+<P>The published data from another 3000 participants (at varying stages of disease) in the trials of adding AZT to ddI or ddC likewise suggest no effect of AZT on survival (<LINK REF="REF-HIVTCG-1999" TYPE="REFERENCE">HIVTCG 1999</LINK>). In BW002 (<LINK REF="STD-BW002" TYPE="STUDY">BW002</LINK>), which was not eligible for the meta-analysis of immediate versus deferred AZT as it included only patients with more advanced disease (previous PCP or advanced ARC), 144 individuals were allocated AZT and 137 placebo between February and June 1986. During the blinded phase, 3 AZT and 22 placebo participants died (P&lt;0.0001), so in September 1986 all participants were offered open AZT after an average deferral of only 5 months. Including both the blinded phase (which was terminated early) and the additional follow-up (<LINK REF="REF-Fischl-1989" TYPE="REFERENCE">Fischl 1989</LINK>) (up to 18 months), there was no evidence of a survival benefit from immediate AZT (total deaths 68 AZT versus 71 placebo, P=0.44). In the present overview, among those with baseline CD4 below 200 (a similar population to BW002), any survival benefit in the first year was not statistically significant (3 versus 9 deaths, P=0.1) and did not persist.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Although immediate AZT does delay early disease progression, there is no evidence that it produces any sustained delay in disease progression, or any improvement in short-term or longer-term survival.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>More recently, the protease inhibitors have been shown to produce large mortality reductions (<LINK REF="REF-Hammer-1997" TYPE="REFERENCE">Hammer 1997</LINK>) on a background of nucleoside analogues. It is not yet known which combinations of nucleoside analogues will most enhance their long-term effect.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>The chief acknowledgement is to the thousands of participants in these trials, and to those collaborating trialists who shared their data. This project is funded by the UK Medical Research Council and US National Institute of Health, and co-ordinated by the MRC Clinical Trials Unit, co-operating with the MRC Clinical Trial Service Unit at Oxford and Division of AIDS, NIAID. The HIVTCG secretariat accept responsibility for this report. We are also grateful to T Economou, H Gorski, A Kimberley and A Newberry for assistance with data preparation and checking. The trialists, secretariat (*), advisory group (&#8224;) and other individuals who constitute the HIVTCG are, alphabetically: D Abrams, D Allan, F Antunes, A Babiker*, A Breckenridge, J Bruun, W Cameron, C Carbon, I Chalmers, H Chang, J Chodakewitz, N Clendenin, N Clumeck, A Collier, R Collins*, G Collins, E Cooper, D Cooper, S Danner, R D'Aquila, J Darbyshire*, V DeGruttola, R DeMasi, L Dee, L Deyton, D Dixon, J Dormont&#8224;, W Duncan*, C Farthing, J Feinberg, M Fischl, M Flepp, M Foulkes*, M Gartland, J Gatell, B Gazzard, F Goebel, P Gotzsche, A Gringeri, D Hall, J Hamilton, S Hammer, P Hartigan, M Heath-Chiozzi, K Henry, A Hill, B Hirschel, M Hughes*, J Ioannidis, J Kahn, C Katlama, D Katzenstein, J Killen, E King, S Kinloch de Loes, S Kravcik, J Lange, R Leavitt, J Leonard, A Maeland, P Mannucci, L Mathiesen, H McDade, A Meibohn, H Melander, T Merigan, J Mulder, M Myers, J Neaton, M Nessling, L Perrin, R Peto*, T Peto*, C Pettinelli, J Phair, A Phillips, A Pinching, A Poppa, L Power, P Reiss, D Richman, J Rooney, F Rousseau, G Rutherford, M Salgo, M Sande&#8224;, E Sandstrom, L Saravolatz, G Savidge, S Schnittman, R Schooley, M Seligmann, M Simberkoff, G Skowron, P Slade, D Smith, RP Smith, V Soriano, K Stanley, G Stingl, P Stoffels, L Struthers, C Tierney, M Thompson, R Van Der Broeck, R Van Leeuven, G Van Weverling, J Veenstra, S Vella, P Volberding, S Walker*, J Weber, I Weller&#8224;, D Winslow, P Yeni, J Yeo.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>There is no known conflict of interest.<BR/>
+</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Prof Darbyshire, Prof R Peto, Dr Foulkes and Dr Duncan conceived, designed and coordinated the review, and also organised funding. Data collection and analysis was undertaken by Dr Walker and Dr Babiker. Dr Walker entered the review into RevMan. All reviewers contributed substantially to the interpretation of the data and writing the review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-ACTG-016" NAME="ACTG 016" YEAR="1987">
+<REFERENCE NOTES="&lt;p&gt;Fischl MA, Richman DD, Hansen N, Collier AC, Carey JT, et al. The safety and efficacy of zidovudine (AZT) in the treatment of subjects with mildly symptomatic human immunodeficiency virus type 1 (HIV) infection. Ann Intern Med 1990; 112:727-737.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fischl MA, Richman DD, Hansen N, Collier AC, Carey JT, et al</AU>
+<TI>The safety and efficacy of zidovudine (AZT) in the treatment of subjects with mildly symptomatic human immunodeficiency virus type 1 (HIV) infection</TI>
+<SO>Ann Intern Med</SO>
+<YR>1990</YR>
+<VL>112</VL>
+<PG>727-737</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-ACTG-019A1" NAME="ACTG 019A1" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Volberding PA, Lagakos SW, Grimes JM, Stein DS, Balfour HH, Reichman RC et al</AU>
+<TI>The duration of zidovudine benefit in persons with asymptomatic HIV infection</TI>
+<SO>J Am Med Ass</SO>
+<YR>1994</YR>
+<VL>272</VL>
+<PG>437-442</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;Volberding PA, Lagakos SW, Koch MA, Pettinelli CB, et al. Zidovudine in asymptomatic HIV infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter. N Eng J Med 1990; 322:941-949.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Volberding PA, Lagakos SW, Koch MA, Pettinelli CB, et al</AU>
+<TI>Zidovudine in asymptomatic HIV infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter</TI>
+<SO>N Eng J Med</SO>
+<YR>1990</YR>
+<VL>322</VL>
+<PG>941-949</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-ACTG-019A2" NAME="ACTG 019A2" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Volberding PA, Lagakos SW, Grimes JM, Stein DS, Balfour HH, Reichman RC et al</AU>
+<TI>The duration of zidovudine benefit in persons with asymptomatic HIV infection</TI>
+<SO>J Am Med Ass</SO>
+<YR>1994</YR>
+<VL>272</VL>
+<PG>437-442</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;Volberding PA, Lagakos SW, Koch MA, Pettinelli CB, et al. Zidovudine in asymptomatic HIV infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter. N Eng J Med 1990; 322:941-949.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Volberding PA, Lagakos SW, Koch MA, Pettinelli CB, et al</AU>
+<TI>Zidovudine in asymptomatic HIV infection: a controlled trial in persons with fewer than 500 CD4-positive cells per cubic millimeter</TI>
+<SO>N Eng J Med</SO>
+<YR>1990</YR>
+<VL>322</VL>
+<PG>941-949</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-ACTG-019B" NAME="ACTG 019B" YEAR="1987">
+<REFERENCE NOTES="&lt;p&gt;* Volberding PA, Lagakos SW, Grimes JM, Stein DS, Rooney J, Meng T-C et al. A comparison of immediate with deferred zidovudine therapy for asymptomatic HIV-infected adults with CD4 cell counts of 500 or more per cubic millimeter. N Eng J Med 1995; 333:401-407.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Volberding PA, Lagakos SW, Grimes JM, Stein DS, Rooney J, Meng T-C et al</AU>
+<TI>A comparison of immediate with deferred zidovudine therapy for asymptomatic HIV-infected adults with CD4 cell counts of 500 or more per cubic millimeter</TI>
+<SO>N Eng J Med</SO>
+<YR>1995</YR>
+<VL>333</VL>
+<PG>401-407</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-ACTG-036" NAME="ACTG 036" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Merigan TC, Amato DA, Balsley J, Power M, Price WA, Benoit S et al. Placebo-controlled trial to evaluate zidovudine in treatment of HIV infection in asymptomatic patients with hemophilia. Blood 1991; 78:900-906.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Merigan TC, Amato DA, Balsley J, Power M, Price WA, Benoit S et al</AU>
+<TI>Placebo-controlled trial to evaluate zidovudine in treatment of HIV infection in asymptomatic patients with hemophilia</TI>
+<SO>Blood</SO>
+<YR>1991</YR>
+<VL>78</VL>
+<PG>900-906</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-CONCORDE" NAME="CONCORDE" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Concorde Coordinating Committee. Concorde: MRC/ ANRS randomised double-blind controlled trial of immediate and deferred zidovudine in symptom-free HIV infection. Lancet 1994; 343:871-882.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Concorde Coordinating Committee</AU>
+<TI>Concorde: MRC/ ANRS randomised double-blind controlled trial of immediate and deferred zidovudine in symptom-free HIV infection</TI>
+<SO>Lancet</SO>
+<YR>1994</YR>
+<VL>343</VL>
+<PG>871-882</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Joint Concorde and Opal Coordinating Committee</AU>
+<TI>Long-term follow-up of randomized trials of immediate versus deferred zidovudine in symptom-free HIV infection</TI>
+<SO>AIDS</SO>
+<YR>1998</YR>
+<VL>12</VL>
+<PG>1259-1265</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-EACG-009" NAME="EACG 009" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Joint Concorde and Opal Coordinating Committee</AU>
+<TI>Long-term follow-up of randomized trials of immediate versus deferred zidovudine in symptom-free HIV infection</TI>
+<SO>AIDS</SO>
+<YR>1998</YR>
+<VL>12</VL>
+<PG>1259-1265</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;Mannucci PM, Gringeri A, Savidge G, Gatenby P, Laurian Y, Pabinger-Fasching I et al. Randomized double-blind, placebo-controlled trial of twice daily zidovudine in asymptomatic haemophiliacs infected with HIV type-1. Br J Haem 1994; 86:174-179.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Mannucci PM, Gringeri A, Savidge G, Gatenby P, Laurian Y, Pabinger-Fasching I et al</AU>
+<TI>Randomized double-blind, placebo-controlled trial of twice daily zidovudine in asymptomatic haemophiliacs infected with HIV type-1</TI>
+<SO>Br J Haem</SO>
+<YR>1994</YR>
+<VL>86</VL>
+<PG>174-179</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-EACG-017" NAME="EACG 017" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Joint Concorde and Opal Coordinating Committee</AU>
+<TI>Long-term follow-up of randomized trials of immediate versus deferred zidovudine in symptom-free HIV infection</TI>
+<SO>AIDS</SO>
+<YR>1998</YR>
+<VL>12</VL>
+<PG>1259-1265</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;Mulder JW, Cooper DA, Mathiesen L, Sandstrom E, Clumeck N, Gatell J et al. Zidovudine twice daily in asymptomatic subjects with HIV infection and a high risk of progression to AIDS: a randomised, double-blind placebo-controlled study. AIDS 1994; 8:313-321.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Mulder JW, Cooper DA, Mathiesen L, Sandstrom E, Clumeck N, Gatell J et al</AU>
+<TI>Zidovudine twice daily in asymptomatic subjects with HIV infection and a high risk of progression to AIDS: a randomised, double-blind placebo-controlled study</TI>
+<SO>AIDS</SO>
+<YR>1994</YR>
+<VL>8</VL>
+<PG>313-321</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-EACG-020" NAME="EACG 020" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Cooper DA, Gatell JM, Kroon S, Clumeck N, Millard J, Goebel FD et al. Zidovudine in persons with asymptomatic HIV infection and CD4 cell counts greater than 400 per cubic millimeter. N Eng J Med 1993; 329:297-303.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Cooper DA, Gatell JM, Kroon S, Clumeck N, Millard J, Goebel FD et al</AU>
+<TI>Zidovudine in persons with asymptomatic HIV infection and CD4 cell counts greater than 400 per cubic millimeter</TI>
+<SO>N Eng J Med</SO>
+<YR>1993</YR>
+<VL>329</VL>
+<PG>297-303</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Joint Concorde and Opal Coordinating Committee</AU>
+<TI>Long-term follow-up of randomized trials of immediate versus deferred zidovudine in symptom-free HIV infection</TI>
+<SO>AIDS</SO>
+<YR>1998</YR>
+<VL>12</VL>
+<PG>1259-1265</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Primary-Infection" NAME="Primary Infection" YEAR="1991">
+<REFERENCE NOTES="&lt;p&gt;Kinloch-De Loes S, Hirschel BJ, Hoen B, Cooper DA, Tindall B, et al. A controlled trial of zidovudine in primary HIV infection. N Eng J Med 1995; 333:408-413.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kinloch-De Loes S, Hirschel BJ, Hoen B, Cooper DA, Tindall B, et al</AU>
+<TI>A controlled trial of zidovudine in primary HIV infection</TI>
+<SO>N Eng J Med</SO>
+<YR>1995</YR>
+<VL>333</VL>
+<PG>408-413</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-VA-298" NAME="VA 298" YEAR="1987">
+<REFERENCE NOTES="&lt;p&gt;Hamilton JD, Hartigan PM, Simberkoff MS, Day PL, Diamond GR, Dickinson GM et al. A controlled trial of early versus late treatment with zidovudine in symptomatic HIV infection. N Eng J Med 1992; 326:437-448.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hamilton JD, Hartigan PM, Simberkoff MS, Day PL, Diamond GR, Dickinson GM et al</AU>
+<TI>A controlled trial of early versus late treatment with zidovudine in symptomatic HIV infection</TI>
+<SO>N Eng J Med</SO>
+<YR>1992</YR>
+<VL>326</VL>
+<PG>437-448</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x1_x003a_-0_x002d_" NAME="x1: 0-" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x1_x003a_-1_x002d_" NAME="x1: 1-" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x1_x003a_-2_x002d_" NAME="x1: 2-" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x1_x003a_-3_x002d_" NAME="x1: 3-" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x1_x003a_-4_x002d_" NAME="x1: 4-" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x1_x003a_-5_x002b_" NAME="x1: 5+" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x2_x003a_-Asymptomatic" NAME="x2: Asymptomatic" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x2_x003a_-Symptomatic" NAME="x2: Symptomatic" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x3_x003a_-2_x002d_3-years" NAME="x3: 2-3 years" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x3_x003a_-_x003c_2-years" NAME="x3: &lt;2 years" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x3_x003a_-_x003e_3-years" NAME="x3: &gt;3 years" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x4_x003a_-Female" NAME="x4: Female" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x4_x003a_-Male" NAME="x4: Male" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x5_x003a_-35-or-over" NAME="x5: 35 or over" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x5_x003a_-under-35" NAME="x5: under 35" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x6_x003a_-no" NAME="x6: no" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x6_x003a_-yes" NAME="x6: yes" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x7_x003a_-201_x002d_350" NAME="x7: 201-350" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x7_x003a_-351_x002d_500" NAME="x7: 351-500" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x7_x003a_-_x003c__x003d_200" NAME="x7: &lt;=200" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x7_x003a_-_x003e_500" NAME="x7: &gt;500" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x8_x003a_-missing" NAME="x8: missing" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x8_x003a_-negative" NAME="x8: negative" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-x8_x003a_-positive" NAME="x8: positive" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-BW002" NAME="BW002" YEAR="1987">
+<REFERENCE NOTES="&lt;p&gt;Fischl MA, Richman DD, Grieco MH, Gottlieb MS, Volberding PA, Laskin OL et al. The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex. A double-blind, placebo-controlled trial. N Eng J Med 1987; 317:185-191.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<TI>Fischl MA, Richman DD, Grieco MH, Gottlieb MS, Volberding PA, Laskin OL et al</TI>
+<TO>The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex. A double-blind, placebo-controlled trial</TO>
+<SO>New England Journal of Medicine</SO>
+<YR>1987</YR>
+<VL>317</VL>
+<PG>185-191</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-CDC-1986" NAME="CDC 1986" NOTES="&lt;p&gt;Centers for Disease Control. Classification system for human T-lymphotropic virus type III/lymphadenopathy-associated virus infections. Ann Intern Med 1986; 105:234-237.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Centers for Disease Control</AU>
+<TI>Classification system for human T-lymphotropic virus type III/lymphadenopathy-associated virus infections</TI>
+<SO>Ann Intern Med</SO>
+<YR>1986</YR>
+<VL>105</VL>
+<PG>234-237</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-CDC-1987" NAME="CDC 1987" NOTES="&lt;p&gt;Centers for Disease Control. Revision of the CDC surveillance case definition for acquired immunodeficiency syndrome. MMWR 1987; 36 (suppl 1S): 1-15.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Centers for Disease Control</AU>
+<TI>Revision of the CDC surveillance case definition for acquired immunodeficiency syndrome</TI>
+<SO>MMWR</SO>
+<YR>1987</YR>
+<VL>36</VL>
+<NO>suppl 1S</NO>
+<PG>1-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dickersin-1996" NAME="Dickersin 1996" TYPE="BOOK_SECTION">
+<AU>Dickersin K, Larson K</AU>
+<TI>Establishing and maintaining an international register of RCTs</TI>
+<SO>The Cochrane Collaboration Handbook, Oxford: The Cochrane Collaboration, 1995. Available in: The Cochrane Library, Oxford: Update Software, 1996. Updated quarterly</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-EBCTCG-1990" NAME="EBCTCG 1990" NOTES="&lt;p&gt;Early Breast Cancer Trialists' Collaborative Group. Treatment of early breast cancer: Worldwide evidence 1985-1990. Oxford: Oxford University Press, 1990.&lt;/p&gt;" TYPE="BOOK">
+<AU>Early Breast Cancer Trialists' Collaborative Group</AU>
+<SO>Treatment of early breast cancer: Worldwide evidence 1985-1990</SO>
+<YR>1990</YR>
+<PB>Oxford University Press</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fischl-1987" NAME="Fischl 1987" NOTES="&lt;p&gt;Fischl MA, Richman DD, Grieco MH, Gottlieb MS, Volberding PA, Laskin OL et al. The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex. A double-blind, placebo-controlled trial. N Eng J Med 1987; 317:185-191.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Fischl MA, Richman DD, Grieco MH, Gottlieb MS, Volberding PA, Laskin OL et al</AU>
+<TI>The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex. A double-blind, placebo-controlled trial</TI>
+<SO>N Eng J Med</SO>
+<YR>1987</YR>
+<VL>317</VL>
+<PG>185-191</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fischl-1989" NAME="Fischl 1989" NOTES="&lt;p&gt;Fischl MA, Richman DD, Causey DM, Grieco MH, Bryson Y, Mildvan D, et al. Prolonged zidovudine therapy in patients with AIDS and advanced AIDS-related complex. J Am Med Ass 1989; 262:2405-2410.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Fischl MA, Richman DD, Causey DM, Grieco MH, Bryson Y, Mildvan D, et al</AU>
+<TI>Prolonged zidovudine therapy in patients with AIDS and advanced AIDS-related complex</TI>
+<SO>J Am Med Ass</SO>
+<YR>1989</YR>
+<VL>262</VL>
+<PG>2405-2410</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hammer-1997" NAME="Hammer 1997" NOTES="&lt;p&gt;Hammer SM, Squires KE, Hughes MD, Grimes JM, Demeter LM, Currier JS, et al. A controlled trial of two nucleoside analogues plus indinavir in persons with human immunodeficiency virus infection and CD4 cell counts of 200 per cubic millimeter or less. N Eng J Med 1997;337(11): 725-733.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Hammer SM, Squires KE, Hughes MD, Grimes JM, Demeter LM, Currier JS, et al</AU>
+<TI>A controlled trial of two nucleoside analogues plus indinavir in persons with human immunodeficiency virus infection and CD4 cell counts of 200 per cubic millimeter or less</TI>
+<SO>N Eng J Med</SO>
+<YR>1997</YR>
+<VL>337</VL>
+<NO>11</NO>
+<PG>725-733</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ioannidis-1995" NAME="Ioannidis 1995" NOTES="&lt;p&gt;Ioannidis JPA, Cappelleri JC, Lau J, Skolnik PR, Melville B, et al. Early or deferred zidovudine therapy in HIV-infected patients without an AIDS-defining illness. Ann Intern Med 1995; 122:856-866.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Ioannidis JPA, Cappelleri JC, Lau J, Skolnik PR, Melville B, et al</AU>
+<TI>Early or deferred zidovudine therapy in HIV-infected patients without an AIDS-defining illness</TI>
+<SO>Ann Intern Med</SO>
+<YR>1995</YR>
+<VL>122</VL>
+<PG>856-866</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Larder-1989" NAME="Larder 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Larder B, Darby G, Richman DD</AU>
+<TI>HIV with reduced sensitivity in zidovudine (AZT) isolated during prolonged therapy</TI>
+<SO>Science</SO>
+<YR>1989</YR>
+<VL>243</VL>
+<PG>1731-1734</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Montaner-1998" NAME="Montaner 1998" NOTES="&lt;p&gt;Montaner JSG, Hogg R, Raboud J, Harrigan R and O&amp;#8217;Shaughnessy. Antiretroviral treatment in 1998. Lancet 1998; 352:1919-22&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Montaner JSG, Hogg R, Raboud J, Harrigan R and O&#8217;Shaughnessy</AU>
+<TI>Antiretroviral treatment in 1998</TI>
+<SO>Lancet</SO>
+<YR>1998</YR>
+<VL>352</VL>
+<PG>1919-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Volberding-1994" NAME="Volberding 1994" NOTES="&lt;p&gt;Volberding PA, Graham NMH. Initiation of antiretroviral therapy in HIV infection: a review of interstudy consistencies. J Acquir Immune Defic Syndr 1994; 7:S12-S23.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Volberding PA, Graham NMH</AU>
+<TI>Initiation of antiretroviral therapy in HIV infection: a review of interstudy consistencies</TI>
+<SO>J Acquir Immune Defic Syndr</SO>
+<YR>1994</YR>
+<VL>7</VL>
+<PG>S12-S23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES>
+<REFERENCE ID="REF-HIVTCG-1999" NAME="HIVTCG 1999" TYPE="JOURNAL_ARTICLE">
+<AU>HIV Trialists Collaborative Group</AU>
+<TI>Zidovudine, didanosine, and zalcitabine in the treatment of HIV infection: meta-analyses of the randomised evidence</TI>
+<SO>Lancet</SO>
+<YR>1999</YR>
+<VL>353</VL>
+<PG>2014-25</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-ACTG-016">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 8/87<BR/>Last randomisation (date): 5/89<BR/>Published follow-up to (date): 8/89 (13)<BR/>(median, in months)<BR/>Present follow-up to (date): 12/91 (36)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 21<BR/>% deferred group receiving AZT<BR/>before end of follow up: 57 (18)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 711 (350 deferred AZT)<BR/>Male (%): 95<BR/>Age (median, in years): 36<BR/>Homo/bi sexual (%): 87<BR/>Heterosexual (%): 10<BR/>Injecting drug users (%): 15<BR/>Blood product user (%): 4<BR/>Baseline median CD4 per mm3 (10,90 centiles): 397 (243,657)<BR/>Baseline p24 antigen positive (%): 14</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 1200<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-ACTG-019A1">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 7/87<BR/>Last randomisation (date): 5/88<BR/>Published follow-up to (date): 12/91 (11*)<BR/>(median, in months)<BR/>Present follow-up to (date): 12/91 (45)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 28<BR/>% deferred group receiving AZT<BR/>before end of follow up: 47 (24)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 685 (292 deferred AZT)<BR/>Male (%): 93<BR/>Age (median, in years): 34<BR/>Homo/bi sexual (%): 85<BR/>Heterosexual (%): 9<BR/>Injecting drug users (%): 9<BR/>Blood product user (%): 5<BR/>Baseline median CD4 per mm3 (10,90 centiles): 335 (158,462)<BR/>Baseline p24 antigen positive (%): NK</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 500, 1500 (combined)<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death</P>
+<P>* 35 months in extended follow-up (Volberding et al 1994)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-ACTG-019A2">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 6/88<BR/>Last randomisation (date): 7/89<BR/>Published follow-up to (date): 12/91 (11*)<BR/>(median, in months)<BR/>Present follow-up to (date): 12/91 (33)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 15<BR/>% deferred group receiving AZT<BR/>before end of follow up: 80 (8)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 880 (201 deferred AZT)<BR/>Male (%): 89<BR/>Age (median, in years): 34<BR/>Homo/bi sexual (%): 78<BR/>Heterosexual (%): 13<BR/>Injecting drug users (%): 1<BR/>Blood product user (%): 5<BR/>Baseline median CD4 per mm3 (10,90 centiles): 356 (211,470)<BR/>Baseline p24 antigen positive (%): NK</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 500, 1500 (combined)<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death</P>
+<P>* 35 months in extended follow-up (Volberding et al 1994)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-ACTG-019B">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 7/87<BR/>Last randomisation (date): 7/89<BR/>Published follow-up to (date): 1/94 (60)<BR/>(median, in months)<BR/>Present follow-up to (date): 1/94 (60)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 33<BR/>% deferred group receiving AZT<BR/>before end of follow up: 44 (49)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 1637 (547 deferred AZT)<BR/>Male (%): 91<BR/>Age (median, in years): 33<BR/>Homo/bi sexual (%): 82<BR/>Heterosexual (%): 12<BR/>Injecting drug users (%): 6<BR/>Blood product user (%): 3<BR/>Baseline median CD4 per mm3 (10,90 centiles): 654 (522,961)<BR/>Baseline p24 antigen positive (%): NK</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 500, 1500 (combined)<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death <BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-ACTG-036">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 2/88<BR/>Last randomisation (date): 9/89<BR/>Published follow-up to (date): 11/89 (12)<BR/>(median, in months)<BR/>Present follow-up to (date): 10/90 (19)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 9<BR/>% deferred group receiving AZT<BR/>before end of follow up: NK<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 193 (101 deferred AZT)<BR/>Male (%): 99<BR/>Age (median, in years): 30<BR/>Homo/bi sexual (%): 0<BR/>Heterosexual (%): 0<BR/>Injecting drug users (%): 4<BR/>Blood product user (%): 100<BR/>Baseline median CD4 per mm3 (10,90 centiles): 285 (114,479)<BR/>Baseline p24 antigen positive (%): 5</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 1500<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-CONCORDE">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 10/88<BR/>Last randomisation (date): 10/91<BR/>Published follow-up to: (date) 12/92 (40)<BR/>(median, in months)<BR/>Present follow-up to: (date) 3/95 (62)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 16<BR/>% deferred group receiving AZT<BR/>before end of follow up: 60 (37)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 1749 (872 deferred AZT)<BR/>Male (%): 85<BR/>Age (median, in years): 30<BR/>Homo/bi sexual (%): 64<BR/>Heterosexual (%): 15<BR/>Injecting drug users (%): 14<BR/>Blood product user (%): 8<BR/>Baseline median CD4 per mm3 (10,90 centiles): 448 (213,845)<BR/>Baseline p24 antigen positive (%): 16</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 1000<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death and CD4&lt;50% of baseline, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-EACG-009">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 7/88<BR/>Last randomisation (date): 6/90<BR/>Published follow-up to: (date) 4/91 (28)<BR/>(median, in months)<BR/>Present follow-up to: (date) 3/95 (68)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 10<BR/>% deferred group receiving AZT<BR/>before end of follow up: 85 (25)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 140 (71 deferred AZT)<BR/>Male (%): 99<BR/>Age (median, in years): 28<BR/>Homo/bi sexual (%): 0<BR/>Heterosexual (%): 0<BR/>Injecting drug users (%): 0<BR/>Blood product user (%): 100<BR/>Baseline median CD4 per mm3 (10,90 centiles): 266 (130,425)<BR/>Baseline p24 antigen positive (%): 21</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 1000<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-EACG-017">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 4/88<BR/>Last randomisation (date): 9/90<BR/>Published follow-up to: (date) 12/90 (22)<BR/>(median, in months)<BR/>Present follow-up to: (date) 3/95 (61)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 14<BR/>% deferred group receiving AZT<BR/>before end of follow up: 85 (24)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 329 (162 deferred AZT)<BR/>Male (%): 92<BR/>Age (median, in years): 36<BR/>Homo/bi sexual (%): 81<BR/>Heterosexual (%): 9<BR/>Injecting drug users (%): 9<BR/>Blood product user (%): 2<BR/>Baseline median CD4 per mm3 (10,90 centiles): 315 (200,499)<BR/>Baseline p24 antigen positive (%): 29</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 1000<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-EACG-020">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 12/88<BR/>Last randomisation (date): 1/92<BR/>Published follow-up to (date): 12/92 (23)<BR/>(median, in months)<BR/>Present follow-up to (date): 3/95 (62)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 24<BR/>% deferred group receiving AZT<BR/>before end of follow up: 57 (39)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 983 (489 deferred AZT)<BR/>Male (%): 86<BR/>Age (median, in years): 32<BR/>Homo/bi sexual (%): 68<BR/>Heterosexual (%): 15<BR/>Injecting drug users (%): 20<BR/>Blood product user (%): 3<BR/>Baseline median CD4 per mm3 (10,90 centiles): 586 (384,976)<BR/>Baseline p24 antigen positive (%): 10</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 1000<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death,<BR/>progression to AIDS or death <BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected advanced ARC, AIDS or death and CD4&lt;350, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Primary-Infection">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 4/91<BR/>Last randomisation (date): 1/94<BR/>Published follow-up to (date): 7/94 (17)<BR/>(median, in months)<BR/>Present follow-up to (date): 12/94 (21)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 34<BR/>% deferred group receiving AZT<BR/>before end of follow up: NK<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 77 (38 deferred AZT)<BR/>Male (%): 88<BR/>Age (median, in years): 30<BR/>Homo/bi sexual (%): 65<BR/>Heterosexual (%): 25<BR/>Injecting drug users (%): 8<BR/>Blood product user (%): 0<BR/>Baseline median CD4 per mm3 (10,90 centiles): 460 (189,798)<BR/>Baseline p24 antigen positive (%): 60</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 500<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected ARC, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-VA-298">
+<CHAR_METHODS>
+<P>Parallel group, double blind design<BR/>First randomisation (date): 1/87<BR/>Last randomisation (date): 1/90<BR/>Published follow-up to (date): 12/91 (28)<BR/>(median, in months)<BR/>Present follow-up to (date): 5/96 (64)<BR/>(median, in months)<BR/>% not seen in previous 6 months: 36<BR/>% deferred group receiving AZT<BR/>before end of follow up: 89 (16)<BR/>(median months to start)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P># randomised with follow-up: 338 (168 deferred AZT)<BR/>Male (%): 99<BR/>Age (median, in years): 39<BR/>Homo/bi sexual (%): 72<BR/>Heterosexual (%): 6<BR/>Injecting drug users (%): 25<BR/>Blood product user (%): 3<BR/>Baseline median CD4 per mm3 (10,90 centiles): 356 (234,494)<BR/>Baseline p24 antigen positive (%): 20</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>AZT dose (mg/day): 1500<BR/>matching placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>death, <BR/>progression to AIDS or death</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Also collected ARC, AIDS or death</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x1_x003a_-0_x002d_">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x1_x003a_-1_x002d_">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x1_x003a_-2_x002d_">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x1_x003a_-3_x002d_">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x1_x003a_-4_x002d_">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x1_x003a_-5_x002b_">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x2_x003a_-Asymptomatic">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x2_x003a_-Symptomatic">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x3_x003a_-2_x002d_3-years">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x3_x003a_-_x003c_2-years">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x3_x003a_-_x003e_3-years">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x4_x003a_-Female">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x4_x003a_-Male">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x5_x003a_-35-or-over">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x5_x003a_-under-35">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x6_x003a_-no">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x6_x003a_-yes">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x7_x003a_-201_x002d_350">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x7_x003a_-351_x002d_500">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x7_x003a_-_x003c__x003d_200">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x7_x003a_-_x003e_500">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x8_x003a_-missing">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x8_x003a_-negative">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-x8_x003a_-positive">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-BW002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Included only participants with advanced AIDS-related complex or AIDS.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-ACTG-016">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-ACTG-019A1">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-ACTG-019A2">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-ACTG-019B">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-ACTG-036">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-CONCORDE">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-EACG-009">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-EACG-017">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-EACG-020">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Primary-Infection">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-VA-298">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x1_x003a_-0_x002d_">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x1_x003a_-1_x002d_">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x1_x003a_-2_x002d_">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x1_x003a_-3_x002d_">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x1_x003a_-4_x002d_">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x1_x003a_-5_x002b_">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x2_x003a_-Asymptomatic">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x2_x003a_-Symptomatic">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x3_x003a_-2_x002d_3-years">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x3_x003a_-_x003c_2-years">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x3_x003a_-_x003e_3-years">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x4_x003a_-Female">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x4_x003a_-Male">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x5_x003a_-35-or-over">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x5_x003a_-under-35">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x6_x003a_-no">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x6_x003a_-yes">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x7_x003a_-201_x002d_350">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x7_x003a_-351_x002d_500">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x7_x003a_-_x003c__x003d_200">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x7_x003a_-_x003e_500">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x8_x003a_-missing">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x8_x003a_-negative">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-x8_x003a_-positive">
+<DESCRIPTION>
+<P>D - Not used</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Imm vs Def</NAME>
+<IPD_OUTCOME CHI2="8.283340296993705" CI_END="1.1573830055653098" CI_START="0.9323841780117563" CI_STUDY="99" CI_TOTAL="95" DF="10" EFFECT_SIZE="1.0388097045603624" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.06347710111082243" LOG_CI_START="-0.030405104800204343" LOG_EFFECT_SIZE="0.016535998155309036" NO="1" P_CHI2="0.6011821048109749" P_Q="1.0" P_Z="0.4899182613586427" Q="0.0" SCALE="5.0" SORT_BY="USER" STUDIES="11" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="99.99999999999999" Z="0.6904388434064227">
+<NAME>Death</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.7122946717570344" CI_START="0.48575790814578795" EFFECT_SIZE="0.912009143529754" ESTIMABLE="YES" EVENTS_1="33" EVENTS_2="34" LOG_CI_END="0.2335785052627232" LOG_CI_START="-0.31358012035016425" LOG_EFFECT_SIZE="-0.040000807543720575" ORDER="1" O_E="-1.54" SE="0.24455799402225925" STUDY_ID="STD-ACTG-016" TOTAL_1="361" TOTAL_2="350" VAR="16.72" WEIGHT="5.084848853476065"/>
+<IPD_DATA CI_END="1.9019684449397487" CI_START="0.6446190133044447" EFFECT_SIZE="1.1072691733780227" ESTIMABLE="YES" EVENTS_1="58" EVENTS_2="36" LOG_CI_END="0.27920330739517857" LOG_CI_START="-0.1906968889393769" LOG_EFFECT_SIZE="0.04425320922790078" ORDER="2" O_E="2.31" SE="0.21002657004177172" STUDY_ID="STD-ACTG-019A1" TOTAL_1="393" TOTAL_2="292" VAR="22.67" WEIGHT="6.894349492123349"/>
+<IPD_DATA CI_END="3.4860257037009257" CI_START="0.4876535442449085" EFFECT_SIZE="1.3038300463398622" ESTIMABLE="YES" EVENTS_1="33" EVENTS_2="7" LOG_CI_END="0.5423305849926554" LOG_CI_START="-0.31188861500317483" LOG_EFFECT_SIZE="0.11522098499474025" ORDER="3" O_E="1.82" SE="0.38180177416060623" STUDY_ID="STD-ACTG-019A2" TOTAL_1="679" TOTAL_2="201" VAR="6.86" WEIGHT="2.0862477951462806"/>
+<IPD_DATA CI_END="1.4055831529725376" CI_START="0.5651477376168438" EFFECT_SIZE="0.8912699585057154" ESTIMABLE="YES" EVENTS_1="95" EVENTS_2="51" LOG_CI_END="0.14785654315505964" LOG_CI_START="-0.24783800661480107" LOG_EFFECT_SIZE="-0.049990731729870695" ORDER="4" O_E="-3.68" SE="0.17685961768191652" STUDY_ID="STD-ACTG-019B" TOTAL_1="1090" TOTAL_2="547" VAR="31.97" WEIGHT="9.722644607992212"/>
+<IPD_DATA CI_END="4.617357104330247" CI_START="0.0688042919678846" EFFECT_SIZE="0.5636434922238741" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="4" LOG_CI_END="0.6643934639907556" LOG_CI_START="-1.1623844699064843" LOG_EFFECT_SIZE="-0.24899550295786438" ORDER="5" O_E="-0.86" SE="0.816496580927726" STUDY_ID="STD-ACTG-036" TOTAL_1="92" TOTAL_2="101" VAR="1.5" WEIGHT="0.45617663159175226"/>
+<IPD_DATA CI_END="1.5964624110050287" CI_START="0.9766085923636505" EFFECT_SIZE="1.248646830762446" ESTIMABLE="YES" EVENTS_1="241" EVENTS_2="199" LOG_CI_END="0.20315869745405515" LOG_CI_START="-0.010279459040525062" LOG_EFFECT_SIZE="0.09643961920676504" ORDER="6" O_E="24.4" SE="0.0953983085648246" STUDY_ID="STD-CONCORDE" TOTAL_1="877" TOTAL_2="872" VAR="109.88" WEIGHT="33.41645885286783"/>
+<IPD_DATA CI_END="1.6401898820555847" CI_START="0.4027764115434772" EFFECT_SIZE="0.8127913600329838" ESTIMABLE="YES" EVENTS_1="25" EVENTS_2="29" LOG_CI_END="0.21489412850828715" LOG_CI_START="-0.39493597167471695" LOG_EFFECT_SIZE="-0.0900209215832149" ORDER="7" O_E="-2.79" SE="0.2725696334003587" STUDY_ID="STD-EACG-009" TOTAL_1="69" TOTAL_2="71" VAR="13.46" WEIGHT="4.093424974149991"/>
+<IPD_DATA CI_END="1.5018895590193517" CI_START="0.632141032368182" EFFECT_SIZE="0.9743746796492029" ESTIMABLE="YES" EVENTS_1="71" EVENTS_2="71" LOG_CI_END="0.17663799813290734" LOG_CI_START="-0.19918601863804236" LOG_EFFECT_SIZE="-0.011274010252567471" ORDER="8" O_E="-0.92" SE="0.16797828517084895" STUDY_ID="STD-EACG-017" TOTAL_1="167" TOTAL_2="162" VAR="35.44" WEIGHT="10.777933215741132"/>
+<IPD_DATA CI_END="1.347151455136339" CI_START="0.5933901497793325" EFFECT_SIZE="0.8940841144650753" ESTIMABLE="YES" EVENTS_1="74" EVENTS_2="84" LOG_CI_END="0.12941642455175234" LOG_CI_START="-0.22665966720688777" LOG_EFFECT_SIZE="-0.04862162132756772" ORDER="9" O_E="-4.42" SE="0.1591517535198076" STUDY_ID="STD-EACG-020" TOTAL_1="494" TOTAL_2="489" VAR="39.48" WEIGHT="12.00656894349492"/>
+<IPD_DATA CI_END="39.1595692130775" CI_START="0.10218420630909386" EFFECT_SIZE="2.0003723402017815" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="1" LOG_CI_END="1.5928379055669435" LOG_CI_START="-0.9906162239944343" LOG_EFFECT_SIZE="0.3011108407862546" ORDER="10" O_E="0.52" SE="1.1547005383792515" STUDY_ID="STD-Primary-Infection" TOTAL_1="39" TOTAL_2="38" VAR="0.75" WEIGHT="0.22808831579587613"/>
+<IPD_DATA CI_END="1.3738722817342988" CI_START="0.6634734135651383" EFFECT_SIZE="0.9547396150599287" ESTIMABLE="YES" EVENTS_1="100" EVENTS_2="101" LOG_CI_END="0.13794636160552812" LOG_CI_START="-0.17817647532146122" LOG_EFFECT_SIZE="-0.020115056857966527" ORDER="11" O_E="-2.32" SE="0.1412942485863086" STUDY_ID="STD-VA-298" TOTAL_1="170" TOTAL_2="168" VAR="50.09" WEIGHT="15.233258317620582"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="5.263879741894742" CI_END="1.0477720133789816" CI_START="0.8727851857754871" CI_STUDY="99" CI_TOTAL="95" DF="10" EFFECT_SIZE="0.9562844196928708" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.020266793999883043" LOG_CI_START="-0.05909263385711237" LOG_EFFECT_SIZE="-0.01941291992861466" NO="2" P_CHI2="0.8728679062712721" P_Q="1.0" P_Z="0.3376123591719591" Q="0.0" SCALE="5.0" SORT_BY="USER" STUDIES="11" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="0.9588936040065124">
+<NAME>Progression to AIDS or death</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.2514913147918856" CI_START="0.48981583157769315" EFFECT_SIZE="0.782943330686869" ESTIMABLE="YES" EVENTS_1="56" EVENTS_2="65" LOG_CI_END="0.09742784000013764" LOG_CI_START="-0.3099671819395275" LOG_EFFECT_SIZE="-0.10626967096969492" ORDER="1" O_E="-7.38" SE="0.18208926018230745" STUDY_ID="STD-ACTG-016" TOTAL_1="361" TOTAL_2="350" VAR="30.16" WEIGHT="6.553957147203268"/>
+<IPD_DATA CI_END="1.6537204083014576" CI_START="0.6941704356912604" EFFECT_SIZE="1.071430733338442" ESTIMABLE="YES" EVENTS_1="89" EVENTS_2="57" LOG_CI_END="0.21846208599291553" LOG_CI_START="-0.1585338866161465" LOG_EFFECT_SIZE="0.029964099688384496" ORDER="2" O_E="2.43" SE="0.16850210249810096" STUDY_ID="STD-ACTG-019A1" TOTAL_1="393" TOTAL_2="292" VAR="35.22" WEIGHT="7.653526880785779"/>
+<IPD_DATA CI_END="1.8048707369238035" CI_START="0.5077522218787992" EFFECT_SIZE="0.9573020040076625" ESTIMABLE="YES" EVENTS_1="73" EVENTS_2="22" LOG_CI_END="0.2564461036095765" LOG_CI_START="-0.2943481674847693" LOG_EFFECT_SIZE="-0.01895103193759643" ORDER="3" O_E="-0.72" SE="0.24618298195866548" STUDY_ID="STD-ACTG-019A2" TOTAL_1="679" TOTAL_2="201" VAR="16.5" WEIGHT="3.585553479073406"/>
+<IPD_DATA CI_END="1.3093902877332164" CI_START="0.6393324007805197" EFFECT_SIZE="0.9149511660275497" ESTIMABLE="YES" EVENTS_1="155" EVENTS_2="81" LOG_CI_END="0.11706911526360568" LOG_CI_START="-0.19427328536182123" LOG_EFFECT_SIZE="-0.03860208504910776" ORDER="4" O_E="-4.59" SE="0.13915758499784417" STUDY_ID="STD-ACTG-019B" TOTAL_1="1090" TOTAL_2="547" VAR="51.64" WEIGHT="11.221695858142464"/>
+<IPD_DATA CI_END="3.1659361156183436" CI_START="0.20085523665912577" EFFECT_SIZE="0.7974301522705269" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="8" LOG_CI_END="0.5005021471295095" LOG_CI_START="-0.697116840942443" LOG_EFFECT_SIZE="-0.09830734690646675" ORDER="5" O_E="-0.79" SE="0.5352877275721892" STUDY_ID="STD-ACTG-036" TOTAL_1="92" TOTAL_2="101" VAR="3.49" WEIGHT="0.7583988873918901"/>
+<IPD_DATA CI_END="1.2954481527878554" CI_START="0.8618953115784012" EFFECT_SIZE="1.056664889773836" ESTIMABLE="YES" EVENTS_1="331" EVENTS_2="309" LOG_CI_END="0.11242003607234602" LOG_CI_START="-0.06454548169837641" LOG_EFFECT_SIZE="0.023937277186984827" ORDER="6" O_E="8.81" SE="0.07909649964604158" STUDY_ID="STD-CONCORDE" TOTAL_1="877" TOTAL_2="872" VAR="159.84" WEIGHT="34.73423443000565"/>
+<IPD_DATA CI_END="1.3541674566345296" CI_START="0.37173099157270295" EFFECT_SIZE="0.709497012967806" ESTIMABLE="YES" EVENTS_1="28" EVENTS_2="37" LOG_CI_END="0.1316723726176071" LOG_CI_START="-0.42977122984339083" LOG_EFFECT_SIZE="-0.1490494286128918" ORDER="7" O_E="-5.45" SE="0.2509428066142478" STUDY_ID="STD-EACG-009" TOTAL_1="69" TOTAL_2="71" VAR="15.88" WEIGHT="3.450823590768829"/>
+<IPD_DATA CI_END="1.3887346187275629" CI_START="0.628125446318275" EFFECT_SIZE="0.93396978120595" ESTIMABLE="YES" EVENTS_1="84" EVENTS_2="85" LOG_CI_END="0.14261926184002252" LOG_CI_START="-0.20195361230877804" LOG_EFFECT_SIZE="-0.02966717523437773" ORDER="8" O_E="-2.88" SE="0.15401027590842437" STUDY_ID="STD-EACG-017" TOTAL_1="167" TOTAL_2="162" VAR="42.16" WEIGHT="9.161632404711199"/>
+<IPD_DATA CI_END="1.2663705365824325" CI_START="0.6164295643088472" EFFECT_SIZE="0.883531684841619" ESTIMABLE="YES" EVENTS_1="96" EVENTS_2="109" LOG_CI_END="0.10256079766248002" LOG_CI_START="-0.2101165404463323" LOG_EFFECT_SIZE="-0.0537778713919261" ORDER="9" O_E="-6.34" SE="0.13975424859373686" STUDY_ID="STD-EACG-020" TOTAL_1="494" TOTAL_2="489" VAR="51.2" WEIGHT="11.126081098700508"/>
+<IPD_DATA CI_END="13.274292944817734" CI_START="0.07685541853474318" EFFECT_SIZE="1.010050167084168" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="2" LOG_CI_END="1.1230113976750162" LOG_CI_START="-1.1143255080369514" LOG_EFFECT_SIZE="0.004342944819032472" ORDER="10" O_E="0.01" SE="1.0" STUDY_ID="STD-Primary-Infection" TOTAL_1="39" TOTAL_2="38" VAR="1.0" WEIGHT="0.21730627145899428"/>
+<IPD_DATA CI_END="1.3289503775305107" CI_START="0.6553110746981174" EFFECT_SIZE="0.9332073189382881" ESTIMABLE="YES" EVENTS_1="106" EVENTS_2="107" LOG_CI_END="0.1235087648652143" LOG_CI_START="-0.18355249244422858" LOG_EFFECT_SIZE="-0.030021863789507164" ORDER="11" O_E="-3.67" SE="0.13724408537914387" STUDY_ID="STD-VA-298" TOTAL_1="170" TOTAL_2="168" VAR="53.09" WEIGHT="11.536789951758006"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="99" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="6" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="19500" TOTAL_2="14787" WEIGHT="0.0" Z="0.0">
+<NAME>Death - by years from randomisation</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="2.728510271951462" CI_START="0.5493007835887518" EFFECT_SIZE="1.2242437789970166" ESTIMABLE="YES" EVENTS_1="24" EVENTS_2="18" LOG_CI_END="0.4359255930993521" LOG_CI_START="-0.26018978144827837" LOG_EFFECT_SIZE="0.08786790582553687" ORDER="1" O_E="2.09" SE="0.31113569564352755" STUDY_ID="STD-x1_x003a_-0_x002d_" TOTAL_1="4431" TOTAL_2="3291" VAR="10.33" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.3388447480746026" CI_START="0.528844580014048" EFFECT_SIZE="0.8414515960526352" ESTIMABLE="YES" EVENTS_1="65" EVENTS_2="63" LOG_CI_END="0.1267302193095104" LOG_CI_START="-0.27667194225530145" LOG_EFFECT_SIZE="-0.07497086147289551" ORDER="2" O_E="-5.31" SE="0.1803046114936547" STUDY_ID="STD-x1_x003a_-1_x002d_" TOTAL_1="4210" TOTAL_2="3134" VAR="30.76" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.5169842644402998" CI_START="0.7888172388496111" EFFECT_SIZE="1.0939028013741008" ESTIMABLE="YES" EVENTS_1="147" EVENTS_2="111" LOG_CI_END="0.18098107590723747" LOG_CI_START="-0.10302360687078524" LOG_EFFECT_SIZE="0.03897873451822609" ORDER="3" O_E="5.57" SE="0.12693871989191832" STUDY_ID="STD-x1_x003a_-2_x002d_" TOTAL_1="3908" TOTAL_2="2860" VAR="62.06" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.1918486554641323" CI_START="0.6864377693685301" EFFECT_SIZE="0.9045053523786803" ESTIMABLE="YES" EVENTS_1="182" EVENTS_2="175" LOG_CI_END="0.07622111088257931" LOG_CI_START="-0.1633988286309953" LOG_EFFECT_SIZE="-0.043588858874208" ORDER="4" O_E="-8.75" SE="0.10710051709325487" STUDY_ID="STD-x1_x003a_-3_x002d_" TOTAL_1="3143" TOTAL_2="2428" VAR="87.18" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.7671285830610972" CI_START="0.9801306459657576" EFFECT_SIZE="1.3160611230563066" ESTIMABLE="YES" EVENTS_1="187" EVENTS_2="126" LOG_CI_END="0.24726815159062318" LOG_CI_START="-0.008716031409179975" LOG_EFFECT_SIZE="0.11927606009072159" ORDER="5" O_E="20.98" SE="0.1144146786057434" STUDY_ID="STD-x1_x003a_-4_x002d_" TOTAL_1="2285" TOTAL_2="1818" VAR="76.39" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.3409425851291497" CI_START="0.69742415031062" EFFECT_SIZE="0.9670603616367612" ESTIMABLE="YES" EVENTS_1="129" EVENTS_2="124" LOG_CI_END="0.12741018314958585" LOG_CI_START="-0.15650301800816116" LOG_EFFECT_SIZE="-0.014546417429287655" ORDER="6" O_E="-2.08" SE="0.12689783127114682" STUDY_ID="STD-x1_x003a_-5_x002b_" TOTAL_1="1523" TOTAL_2="1256" VAR="62.1" WEIGHT="0.0"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.769868049699123" CI_END="1.157351049341168" CI_START="0.9323553693711796" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="1.0387793149175657" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="0.06346510974466207" LOG_CI_START="-0.03041852376120849" LOG_EFFECT_SIZE="0.016523292991726814" NO="4" P_CHI2="0.38025791474990833" P_Q="1.0" P_Z="0.49025842312711854" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="0.6898978652708947">
+<NAME>Death - by HIV stage (trial characteristic)</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.2480922454671293" CI_START="0.9078697572767525" EFFECT_SIZE="1.0644741443319512" ESTIMABLE="YES" EVENTS_1="601" EVENTS_2="482" LOG_CI_END="0.09624668487914145" LOG_CI_START="-0.041976450766498474" LOG_EFFECT_SIZE="0.027135117056321507" ORDER="1" O_E="16.37" SE="0.06178020632152155" STUDY_ID="STD-x2_x003a_-Asymptomatic" TOTAL_1="3900" TOTAL_2="2773" VAR="262.0" WEIGHT="79.6812749003984"/>
+<IPD_DATA CI_END="1.2935094169693908" CI_START="0.6887268250108296" EFFECT_SIZE="0.9438615543981743" ESTIMABLE="YES" EVENTS_1="133" EVENTS_2="135" LOG_CI_END="0.11176959480204475" LOG_CI_START="-0.16195300148207917" LOG_EFFECT_SIZE="-0.02509170334001723" ORDER="2" O_E="-3.86" SE="0.12234303898769312" STUDY_ID="STD-x2_x003a_-Symptomatic" TOTAL_1="531" TOTAL_2="518" VAR="66.81" WEIGHT="20.318725099601593"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="1.044110164586543" CI_END="1.159287935702749" CI_START="0.9332247561968499" CI_STUDY="99" CI_TOTAL="95" DF="2" EFFECT_SIZE="1.0401327805420553" ESTIMABLE="YES" EVENTS_1="730" EVENTS_2="612" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="0.06419131633994099" LOG_CI_START="-0.030013748942710444" LOG_EFFECT_SIZE="0.017088783698615273" NO="5" P_CHI2="0.5933001000516083" P_Q="1.0" P_Z="0.4770381978055387" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4300" TOTAL_2="3152" WEIGHT="100.0" Z="0.7110743034546604">
+<NAME>Death - by median years to AZT in deferred group (trial characteristic)</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.3129508714622684" CI_START="0.7204128936452439" EFFECT_SIZE="0.9725568037519339" ESTIMABLE="YES" EVENTS_1="166" EVENTS_2="142" LOG_CI_END="0.11824847578329489" LOG_CI_START="-0.14241852296401075" LOG_EFFECT_SIZE="-0.012085023590357881" ORDER="1" O_E="-2.05" SE="0.11650770971587575" STUDY_ID="STD-x3_x003a_-_x003c_2-years" TOTAL_1="1210" TOTAL_2="719" VAR="73.67" WEIGHT="22.5587163548397"/>
+<IPD_DATA CI_END="1.3296226064271308" CI_START="0.7232414048876623" EFFECT_SIZE="0.9806314913578665" ESTIMABLE="YES" EVENTS_1="154" EVENTS_2="136" LOG_CI_END="0.12372839043755066" LOG_CI_START="-0.14071671887187737" LOG_EFFECT_SIZE="-0.00849416421716334" ORDER="2" O_E="-1.4" SE="0.11819637383815294" STUDY_ID="STD-x3_x003a_-2_x002d_3-years" TOTAL_1="629" TOTAL_2="525" VAR="71.58" WEIGHT="21.918731053066725"/>
+<IPD_DATA CI_END="1.3247015357014746" CI_START="0.9035764599088127" EFFECT_SIZE="1.094060841116666" ESTIMABLE="YES" EVENTS_1="410" EVENTS_2="334" LOG_CI_END="0.12211803978294664" LOG_CI_START="-0.0440350919004957" LOG_EFFECT_SIZE="0.03904147394122552" ORDER="3" O_E="16.3" SE="0.07426379606006137" STUDY_ID="STD-x3_x003a_-_x003e_3-years" TOTAL_1="2461" TOTAL_2="1908" VAR="181.32" WEIGHT="55.52255259209358"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.009879451330865423" CI_END="1.1554410210359856" CI_START="0.9305898801744499" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="1.036938629483212" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="0.06274778201561075" LOG_CI_START="-0.031241674571170813" LOG_EFFECT_SIZE="0.01575305372221997" NO="6" P_CHI2="0.9208243125495951" P_Q="1.0" P_Z="0.511182542568096" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.00000000000001" Z="0.6569974774472306">
+<NAME>Death - by sex</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.2028459480771674" CI_START="0.8964814714867522" EFFECT_SIZE="1.0384262638743766" ESTIMABLE="YES" EVENTS_1="688" EVENTS_2="574" LOG_CI_END="0.0802100095641865" LOG_CI_START="-0.0474586820239589" LOG_EFFECT_SIZE="0.016375663770113798" ORDER="1" O_E="11.58" SE="0.05706279249325597" STUDY_ID="STD-x4_x003a_-Male" TOTAL_1="4007" TOTAL_2="2931" VAR="307.11" WEIGHT="93.61111957813883"/>
+<IPD_DATA CI_END="1.7822833150215993" CI_START="0.5784744192820932" EFFECT_SIZE="1.0153843142639558" ESTIMABLE="YES" EVENTS_1="46" EVENTS_2="43" LOG_CI_END="0.2509767414351432" LOG_CI_START="-0.2377158412243569" LOG_EFFECT_SIZE="0.006630450105393175" ORDER="2" O_E="0.32" SE="0.21842601416525947" STUDY_ID="STD-x4_x003a_-Female" TOTAL_1="424" TOTAL_2="360" VAR="20.96" WEIGHT="6.388880421861189"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.14281192390774136" CI_END="1.1528899471932184" CI_START="0.9281698730401141" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="1.0344456080024476" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="0.06178785230089266" LOG_CI_START="-0.032372532216035844" LOG_EFFECT_SIZE="0.01470766004242842" NO="7" P_CHI2="0.7055015537406368" P_Q="1.0" P_Z="0.5403493776607029" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4428" TOTAL_2="3290" WEIGHT="100.0" Z="0.6122847549509741">
+<NAME>Death - by age</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.3139310908064001" CI_START="0.8539605631500486" EFFECT_SIZE="1.0592664132527714" ESTIMABLE="YES" EVENTS_1="317" EVENTS_2="269" LOG_CI_END="0.11857258922126755" LOG_CI_START="-0.06856218505079373" LOG_EFFECT_SIZE="0.025005202085236888" ORDER="1" O_E="8.23" SE="0.08364175006200557" STUDY_ID="STD-x5_x003a_-under-35" TOTAL_1="2519" TOTAL_2="1944" VAR="142.94" WEIGHT="43.72858541360744"/>
+<IPD_DATA CI_END="1.2279712793291122" CI_START="0.8398904547848112" EFFECT_SIZE="1.0155596271309797" ESTIMABLE="YES" EVENTS_1="417" EVENTS_2="348" LOG_CI_END="0.08918820933385539" LOG_CI_START="-0.07577735439631886" LOG_EFFECT_SIZE="0.006705427468768279" ORDER="2" O_E="2.84" SE="0.07373300074254073" STUDY_ID="STD-x5_x003a_-35-or-over" TOTAL_1="1909" TOTAL_2="1346" VAR="183.94" WEIGHT="56.27141458639257"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.30558248482771294" CI_END="1.1506103129906846" CI_START="0.9268213975490901" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="1.032671418371024" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.08" LOG_CI_END="0.06092826231495759" LOG_CI_START="-0.033003948198610085" LOG_EFFECT_SIZE="0.013962157058173769" NO="8" P_CHI2="0.5804037849960682" P_Q="1.0" P_Z="0.5601214330690534" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="0.5826611517155689">
+<NAME>Death - by homo/bisexual risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.4343037882826661" CI_START="0.8235517562455287" EFFECT_SIZE="1.0868410204946282" ESTIMABLE="YES" EVENTS_1="185" EVENTS_2="165" LOG_CI_END="0.156641145475401" LOG_CI_START="-0.0843091023284433" LOG_EFFECT_SIZE="0.03616602157347888" ORDER="1" O_E="7.18" SE="0.10769511162520641" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="1153" TOTAL_2="988" VAR="86.22" WEIGHT="26.248972508904924"/>
+<IPD_DATA CI_END="1.1965562582965623" CI_START="0.8593812808279695" EFFECT_SIZE="1.0140503191842218" ESTIMABLE="YES" EVENTS_1="549" EVENTS_2="452" LOG_CI_END="0.07793312258453836" LOG_CI_START="-0.06581411041667047" LOG_EFFECT_SIZE="0.0060595060839338894" ORDER="2" O_E="3.38" SE="0.06424925662032355" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="3278" TOTAL_2="2303" VAR="242.25" WEIGHT="73.75102749109507"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.08098699212097134" CI_END="1.152138657390434" CI_START="0.9278566701141744" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="1.0339340105423092" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.09" LOG_CI_END="0.06150474863218796" LOG_CI_START="-0.032519105878189986" LOG_EFFECT_SIZE="0.014492821376999022" NO="9" P_CHI2="0.7759643089966501" P_Q="1.0" P_Z="0.5456993509214902" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="0.6042170485609041">
+<NAME>Death - by IDU risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.1960901416520193" CI_START="0.8835819621528384" EFFECT_SIZE="1.0280290240419079" ESTIMABLE="YES" EVENTS_1="646" EVENTS_2="546" LOG_CI_END="0.07776391087886089" LOG_CI_START="-0.05375315859671849" LOG_EFFECT_SIZE="0.012005376141071205" ORDER="1" O_E="8.0" SE="0.05878286329600767" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="3977" TOTAL_2="2900" VAR="289.4" WEIGHT="88.27746087911417"/>
+<IPD_DATA CI_END="1.6356055809160959" CI_START="0.7124769935081164" EFFECT_SIZE="1.0795051398007312" ESTIMABLE="YES" EVENTS_1="88" EVENTS_2="71" LOG_CI_END="0.2136785837586308" LOG_CI_START="-0.1472291548335431" LOG_EFFECT_SIZE="0.03322471446254381" ORDER="2" O_E="2.94" SE="0.16131130616527575" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="454" TOTAL_2="391" VAR="38.43" WEIGHT="11.722539120885825"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.04449991327263088" CI_END="1.1591088223526376" CI_START="0.9336762034808175" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="1.0403039578293125" ESTIMABLE="YES" EVENTS_1="754" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.10" LOG_CI_END="0.06412421139815475" LOG_CI_START="-0.029803709875450266" LOG_EFFECT_SIZE="0.01716025076135225" NO="10" P_CHI2="0.8329264064442349" P_Q="1.0" P_Z="0.4738956744142956" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="99.99999999999999" Z="0.7161549622705824">
+<NAME>Death - by haemophiliac risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.2127830374651027" CI_START="0.8992010700572538" EFFECT_SIZE="1.0442872234380285" ESTIMABLE="YES" EVENTS_1="688" EVENTS_2="554" LOG_CI_END="0.08378311409040082" LOG_CI_START="-0.04614318496041878" LOG_EFFECT_SIZE="0.018819964564991003" ORDER="1" O_E="12.85" SE="0.0580718526204592" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="4084" TOTAL_2="2970" VAR="296.53" WEIGHT="90.26788432267882"/>
+<IPD_DATA CI_END="1.5834824406826993" CI_START="0.6366763268436173" EFFECT_SIZE="1.0040745908323878" ESTIMABLE="YES" EVENTS_1="66" EVENTS_2="63" LOG_CI_END="0.19961325182103992" LOG_CI_START="-0.19608129794882082" LOG_EFFECT_SIZE="0.0017659769361095424" ORDER="2" O_E="0.13" SE="0.17685961768191652" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="347" TOTAL_2="321" VAR="31.97" WEIGHT="9.732115677321156"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.0818329270925146" CI_END="1.1512544669091462" CI_START="0.9272210961160352" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="1.0331831535192493" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.11" LOG_CI_END="0.061171328286538186" LOG_CI_START="-0.03281669587259146" LOG_EFFECT_SIZE="0.01417731620697342" NO="11" P_CHI2="0.7748286924968334" P_Q="1.0" P_Z="0.5543269904941326" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="0.5912887181468578">
+<NAME>Death - by heterosexual risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.2047811020948593" CI_START="0.8946818955168518" EFFECT_SIZE="1.0382176265625191" ESTIMABLE="YES" EVENTS_1="672" EVENTS_2="560" LOG_CI_END="0.08090814667178944" LOG_CI_START="-0.048331350805443846" LOG_EFFECT_SIZE="0.016288397933172785" ORDER="1" O_E="11.24" SE="0.05776487982086298" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="3920" TOTAL_2="2875" VAR="299.69" WEIGHT="91.34662277493294"/>
+<IPD_DATA CI_END="1.5916358585755872" CI_START="0.6052586330029512" EFFECT_SIZE="0.9815046326940788" ESTIMABLE="YES" EVENTS_1="62" EVENTS_2="57" LOG_CI_END="0.20184371497176085" LOG_CI_START="-0.2180590073570179" LOG_EFFECT_SIZE="-0.008107646192628503" ORDER="2" O_E="-0.53" SE="0.18767970137030252" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="511" TOTAL_2="416" VAR="28.39" WEIGHT="8.653377225067057"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.8876947989850204" CI_END="1.1664630260247753" CI_START="0.9381348827159509" CI_STUDY="99" CI_TOTAL="95" DF="3" EFFECT_SIZE="1.0460877850889214" ESTIMABLE="YES" EVENTS_1="730" EVENTS_2="615" I2="0.0" I2_Q="0.0" ID="CMP-001.12" LOG_CI_END="0.06687097729359112" LOG_CI_START="-0.02773471534387711" LOG_EFFECT_SIZE="0.01956813097485695" NO="12" P_CHI2="0.8283963853349828" P_Q="1.0" P_Z="0.417484377020206" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4410" TOTAL_2="3275" WEIGHT="100.0" Z="0.8107933230287004">
+<NAME>Death - by CD4 cells per mm3</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.545337563920417" CI_START="0.7056412921013351" EFFECT_SIZE="1.0442480525897726" ESTIMABLE="YES" EVENTS_1="100" EVENTS_2="87" LOG_CI_END="0.18902336151804178" LOG_CI_START="-0.15141601346714662" LOG_EFFECT_SIZE="0.01880367402544757" ORDER="1" O_E="1.87" SE="0.15216276731324618" STUDY_ID="STD-x7_x003a_-_x003c__x003d_200" TOTAL_1="249" TOTAL_2="213" VAR="43.19" WEIGHT="13.338068620487322"/>
+<IPD_DATA CI_END="1.3681309268718393" CI_START="0.8412710257679874" EFFECT_SIZE="1.0728321901557483" ESTIMABLE="YES" EVENTS_1="242" EVENTS_2="215" LOG_CI_END="0.1361276603206204" LOG_CI_START="-0.07506406837164677" LOG_EFFECT_SIZE="0.03053179597448681" ORDER="2" O_E="7.89" SE="0.09439424529809984" STUDY_ID="STD-x7_x003a_-201_x002d_350" TOTAL_1="1021" TOTAL_2="807" VAR="112.23" WEIGHT="34.65921373645039"/>
+<IPD_DATA CI_END="1.2754036659344008" CI_START="0.7232362345949971" EFFECT_SIZE="0.960426022626965" ESTIMABLE="YES" EVENTS_1="173" EVENTS_2="163" LOG_CI_END="0.10564766095983999" LOG_CI_START="-0.14071982355806548" LOG_EFFECT_SIZE="-0.017536081299112778" ORDER="3" O_E="-3.33" SE="0.11011639949661768" STUDY_ID="STD-x7_x003a_-351_x002d_500" TOTAL_1="1202" TOTAL_2="860" VAR="82.47" WEIGHT="25.46863901670733"/>
+<IPD_DATA CI_END="1.4518813010742322" CI_START="0.8328380858725469" EFFECT_SIZE="1.0996281388273066" ESTIMABLE="YES" EVENTS_1="215" EVENTS_2="150" LOG_CI_END="0.16193111195934703" LOG_CI_START="-0.07943942265928802" LOG_EFFECT_SIZE="0.04124584465002946" ORDER="4" O_E="8.16" SE="0.10788296300052577" STUDY_ID="STD-x7_x003a_-_x003e_500" TOTAL_1="1938" TOTAL_2="1395" VAR="85.92" WEIGHT="26.53407862635496"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="1.555590993338707" CI_END="1.1550974455181369" CI_START="0.9298946400359631" CI_STUDY="99" CI_TOTAL="95" DF="2" EFFECT_SIZE="1.0363970876582722" ESTIMABLE="YES" EVENTS_1="734" EVENTS_2="617" I2="0.0" I2_Q="0.0" ID="CMP-001.13" LOG_CI_END="0.06261862341922429" LOG_CI_START="-0.031566255578448214" LOG_EFFECT_SIZE="0.015526183920388036" NO="13" P_CHI2="0.45941782652249186" P_Q="1.0" P_Z="0.518154973769847" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="99.99999999999999" Z="0.6461920772241473">
+<NAME>Death - by p24 antigen</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.3212700115587968" CI_START="0.8838868343155062" EFFECT_SIZE="1.0806725534558177" ESTIMABLE="YES" EVENTS_1="344" EVENTS_2="315" LOG_CI_END="0.12099157805909247" LOG_CI_START="-0.05360333496247922" LOG_EFFECT_SIZE="0.03369412154830663" ORDER="1" O_E="12.74" SE="0.07803693425689588" STUDY_ID="STD-x8_x003a_-negative" TOTAL_1="1672" TOTAL_2="1650" VAR="164.21" WEIGHT="50.26169997857426"/>
+<IPD_DATA CI_END="1.2448685095407592" CI_START="0.6543099547903531" EFFECT_SIZE="0.9025130792390481" ESTIMABLE="YES" EVENTS_1="124" EVENTS_2="137" LOG_CI_END="0.09512348107297479" LOG_CI_START="-0.18421647221633866" LOG_EFFECT_SIZE="-0.04454649557168198" ORDER="2" O_E="-6.58" SE="0.12485377261518042" STUDY_ID="STD-x8_x003a_-positive" TOTAL_1="301" TOTAL_2="301" VAR="64.15" WEIGHT="19.63515043922745"/>
+<IPD_DATA CI_END="1.3714392479535211" CI_START="0.8157816270816436" EFFECT_SIZE="1.057731034402957" ESTIMABLE="YES" EVENTS_1="266" EVENTS_2="165" LOG_CI_END="0.1371765739799743" LOG_CI_START="-0.08842608002764182" LOG_EFFECT_SIZE="0.024375246976166255" ORDER="3" O_E="5.52" SE="0.10083535181118582" STUDY_ID="STD-x8_x003a_-missing" TOTAL_1="2458" TOTAL_2="1340" VAR="98.35" WEIGHT="30.103149582198274"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="99" CI_TOTAL="95" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.14" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="14" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="6" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="18155" TOTAL_2="13513" WEIGHT="0.0" Z="0.0">
+<NAME>Progression to AIDS or death - by years from randomisation</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="0.7426877854823581" CI_START="0.36118626940002946" EFFECT_SIZE="0.5179272444729494" ESTIMABLE="YES" EVENTS_1="78" EVENTS_2="131" LOG_CI_END="-0.12919371859313045" LOG_CI_START="-0.44226876787443414" LOG_EFFECT_SIZE="-0.28573124323378235" ORDER="1" O_E="-33.6" SE="0.1399320095610172" STUDY_ID="STD-x1_x003a_-0_x002d_" TOTAL_1="4431" TOTAL_2="3291" VAR="51.07" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.2405617435160232" CI_START="0.70871671701052" EFFECT_SIZE="0.9376603042219089" ESTIMABLE="YES" EVENTS_1="197" EVENTS_2="160" LOG_CI_END="0.09361838424788525" LOG_CI_START="-0.14952732310161676" LOG_EFFECT_SIZE="-0.027954469426865726" ORDER="2" O_E="-5.45" SE="0.10867639412229155" STUDY_ID="STD-x1_x003a_-1_x002d_" TOTAL_1="4077" TOTAL_2="2968" VAR="84.67" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.346484683390101" CI_START="0.814635985653936" EFFECT_SIZE="1.0473274928222895" ESTIMABLE="YES" EVENTS_1="251" EVENTS_2="189" LOG_CI_END="0.12920141756409506" LOG_CI_START="-0.0890364093424052" LOG_EFFECT_SIZE="0.020082504110844942" ORDER="3" O_E="4.86" SE="0.09754356903036576" STUDY_ID="STD-x1_x003a_-2_x002d_" TOTAL_1="3632" TOTAL_2="2586" VAR="105.1" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.4704130392200114" CI_START="0.8537440768582594" EFFECT_SIZE="1.1204268930944297" ESTIMABLE="YES" EVENTS_1="212" EVENTS_2="157" LOG_CI_END="0.16743934526360219" LOG_CI_START="-0.06867229636657135" LOG_EFFECT_SIZE="0.04938352444851548" ORDER="4" O_E="10.21" SE="0.10553244843339221" STUDY_ID="STD-x1_x003a_-3_x002d_" TOTAL_1="2763" TOTAL_2="2105" VAR="89.79" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.3182556781486274" CI_START="0.7261594067547155" EFFECT_SIZE="0.9783985697022674" ESTIMABLE="YES" EVENTS_1="164" EVENTS_2="143" LOG_CI_END="0.11999965065269987" LOG_CI_START="-0.13896803236498015" LOG_EFFECT_SIZE="-0.009484190856140131" ORDER="5" O_E="-1.63" SE="0.11574818363587983" STUDY_ID="STD-x1_x003a_-4_x002d_" TOTAL_1="1952" TOTAL_2="1535" VAR="74.64" WEIGHT="0.0"/>
+<IPD_DATA CI_END="1.5516943690415572" CI_START="0.7742907878093912" EFFECT_SIZE="1.0961125195182215" ESTIMABLE="YES" EVENTS_1="124" EVENTS_2="102" LOG_CI_END="0.19080618411938885" LOG_CI_START="-0.11109590776132662" LOG_EFFECT_SIZE="0.039855138179031115" ORDER="6" O_E="5.04" SE="0.13493814503750112" STUDY_ID="STD-x1_x003a_-5_x002b_" TOTAL_1="1300" TOTAL_2="1028" VAR="54.92" WEIGHT="0.0"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.78942497713018" CI_END="1.0477492448834127" CI_START="0.8727662198121084" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.9562636392584878" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.15" LOG_CI_END="0.020257356508425275" LOG_CI_START="-0.059102071348570144" LOG_EFFECT_SIZE="-0.019422357420072422" NO="15" P_CHI2="0.3742741036330419" P_Q="1.0" P_Z="0.3373775488392182" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="0.9593597652140993">
+<NAME>Progression to AIDS or death - by HIV stage (trial characteristic)</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.1133991099124128" CI_START="0.8539087378460399" EFFECT_SIZE="0.9750596026214052" ESTIMABLE="YES" EVENTS_1="864" EVENTS_2="710" LOG_CI_END="0.04665086978187519" LOG_CI_START="-0.06858854238802993" LOG_EFFECT_SIZE="-0.010968836303077366" ORDER="1" O_E="-9.52" SE="0.051507402338778985" STUDY_ID="STD-x2_x003a_-Asymptomatic" TOTAL_1="3900" TOTAL_2="2773" VAR="376.93" WEIGHT="81.90925290103873"/>
+<IPD_DATA CI_END="1.1612027249084955" CI_START="0.6602333106109018" EFFECT_SIZE="0.8755939237778757" ESTIMABLE="YES" EVENTS_1="162" EVENTS_2="172" LOG_CI_END="0.06490804628755102" LOG_CI_START="-0.1803025680857484" LOG_EFFECT_SIZE="-0.05769726089909867" ORDER="2" O_E="-11.06" SE="0.1095993248702382" STUDY_ID="STD-x2_x003a_-Symptomatic" TOTAL_1="531" TOTAL_2="518" VAR="83.25" WEIGHT="18.090747098961277"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.9214658670850431" CI_END="1.0495299540545224" CI_START="0.8734647776671488" CI_STUDY="99" CI_TOTAL="95" DF="2" EFFECT_SIZE="0.9574588492323032" ESTIMABLE="YES" EVENTS_1="1018" EVENTS_2="872" I2="0.0" I2_Q="0.0" ID="CMP-001.16" LOG_CI_END="0.02099483805414894" LOG_CI_START="-0.05875460318616159" LOG_EFFECT_SIZE="-0.01887988256600634" NO="16" P_CHI2="0.6308211595386966" P_Q="1.0" P_Z="0.3534056405808307" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4300" TOTAL_2="3152" WEIGHT="100.0" Z="0.9280037398685597">
+<NAME>Progression to AIDS or death - by median years to AZT in deferred group (trial characteristic)</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.150054332837965" CI_START="0.6866188202609679" EFFECT_SIZE="0.8886219383119112" ESTIMABLE="YES" EVENTS_1="235" EVENTS_2="194" LOG_CI_END="0.060718358522580035" LOG_CI_START="-0.1632842967106375" LOG_EFFECT_SIZE="-0.05128296909402874" ORDER="1" O_E="-11.78" SE="0.10012021643290916" STUDY_ID="STD-x3_x003a_-_x003c_2-years" TOTAL_1="1210" TOTAL_2="719" VAR="99.76" WEIGHT="21.89207575325331"/>
+<IPD_DATA CI_END="1.2255102034499206" CI_START="0.7188520672176604" EFFECT_SIZE="0.9385949835505787" ESTIMABLE="YES" EVENTS_1="201" EVENTS_2="179" LOG_CI_END="0.088316931486546" LOG_CI_START="-0.14336047401385077" LOG_EFFECT_SIZE="-0.027521771263652357" ORDER="2" O_E="-5.91" SE="0.10355052245771279" STUDY_ID="STD-x3_x003a_-2_x002d_3-years" TOTAL_1="629" TOTAL_2="525" VAR="93.26" WEIGHT="20.465667449362506"/>
+<IPD_DATA CI_END="1.1628352653447402" CI_START="0.846196950611006" EFFECT_SIZE="0.9919615192121413" ESTIMABLE="YES" EVENTS_1="582" EVENTS_2="499" LOG_CI_END="0.06551819416167123" LOG_CI_START="-0.07252854404277602" LOG_EFFECT_SIZE="-0.0035051749405523667" ORDER="3" O_E="-2.12" SE="0.06170136372935658" STUDY_ID="STD-x3_x003a_-_x003e_3-years" TOTAL_1="2461" TOTAL_2="1908" VAR="262.67" WEIGHT="57.642256797384185"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="1.1615932140447358E-4" CI_END="1.0389755024180942" CI_START="0.8652339406884757" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.948133359942575" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.17" LOG_CI_END="0.016605307624483534" LOG_CI_START="-0.06286645275050981" LOG_EFFECT_SIZE="-0.023130572563013173" NO="17" P_CHI2="0.9914007873968317" P_Q="1.0" P_Z="0.25390712331599885" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="99.99999999999999" Z="1.1409106568516714">
+<NAME>Progression to AIDS or death - by sex</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.0738381655760367" CI_START="0.8373661762989605" EFFECT_SIZE="0.9482593309176008" ESTIMABLE="YES" EVENTS_1="962" EVENTS_2="820" LOG_CI_END="0.030938835280523005" LOG_CI_START="-0.07708458553147349" LOG_EFFECT_SIZE="-0.023072875125475213" ORDER="1" O_E="-22.79" SE="0.04828214317486584" STUDY_ID="STD-x4_x003a_-Male" TOTAL_1="4007" TOTAL_2="2931" VAR="428.97" WEIGHT="93.4819560669456"/>
+<IPD_DATA CI_END="1.5156152354544306" CI_START="0.5908740217207491" EFFECT_SIZE="0.9463285209451311" ESTIMABLE="YES" EVENTS_1="64" EVENTS_2="62" LOG_CI_END="0.18058896229346225" LOG_CI_START="-0.22850510372712088" LOG_EFFECT_SIZE="-0.02395807071682934" ORDER="2" O_E="-1.65" SE="0.18284866484620954" STUDY_ID="STD-x4_x003a_-Female" TOTAL_1="424" TOTAL_2="360" VAR="29.91" WEIGHT="6.5180439330543924"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.502262780414872" CI_END="1.0444659421351155" CI_START="0.8696951437720541" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.9530828703267168" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.18" LOG_CI_END="0.01889428310623991" LOG_CI_START="-0.06063295494418337" LOG_EFFECT_SIZE="-0.02086933591897172" NO="18" P_CHI2="0.47850761396844976" P_Q="1.0" P_Z="0.30364064041689987" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4428" TOTAL_2="3290" WEIGHT="100.0" Z="1.0286575463998517">
+<NAME>Progression to AIDS or death - by age</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.0968760154269783" CI_START="0.7717624424487892" EFFECT_SIZE="0.920069406474001" ESTIMABLE="YES" EVENTS_1="465" EVENTS_2="424" LOG_CI_END="0.04015754019184799" LOG_CI_START="-0.1125163600405015" LOG_EFFECT_SIZE="-0.03617940992432678" ORDER="1" O_E="-17.89" SE="0.06823911939349404" STUDY_ID="STD-x5_x003a_-under-35" TOTAL_1="2519" TOTAL_2="1944" VAR="214.75" WEIGHT="46.86408868715084"/>
+<IPD_DATA CI_END="1.1596421853989494" CI_START="0.8335722806786843" EFFECT_SIZE="0.9831813572552197" ESTIMABLE="YES" EVENTS_1="561" EVENTS_2="458" LOG_CI_END="0.06432400571084744" LOG_CI_START="-0.07905673568136315" LOG_EFFECT_SIZE="-0.007366364985257824" ORDER="2" O_E="-4.13" SE="0.06408544954769958" STUDY_ID="STD-x5_x003a_-35-or-over" TOTAL_1="1909" TOTAL_2="1346" VAR="243.49" WEIGHT="53.13591131284916"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="1.5686158307776454" CI_END="1.0372787730335666" CI_START="0.8638209450516778" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.9465849829803452" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="36.249527744199334" I2_Q="0.0" ID="CMP-001.19" LOG_CI_END="0.01589549054501295" LOG_CI_START="-0.06357626982998034" LOG_EFFECT_SIZE="-0.02384038964248368" NO="19" P_CHI2="0.2104081858009733" P_Q="1.0" P_Z="0.2396259730654131" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="1.1759222359285437">
+<NAME>Progression to AIDS or death - by homo/bisexual risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.334349348476855" CI_START="0.823195190366145" EFFECT_SIZE="1.0480600965280311" ESTIMABLE="YES" EVENTS_1="243" EVENTS_2="221" LOG_CI_END="0.1252695479110875" LOG_CI_START="-0.08449717566489615" LOG_EFFECT_SIZE="0.02038618612309564" ORDER="1" O_E="5.34" SE="0.09375732507716866" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="1153" TOTAL_2="988" VAR="113.76" WEIGHT="24.7907949790795"/>
+<IPD_DATA CI_END="1.0514728463757568" CI_START="0.7968284559200229" EFFECT_SIZE="0.9153379073431984" ESTIMABLE="YES" EVENTS_1="783" EVENTS_2="661" LOG_CI_END="0.02179806178559209" LOG_CI_START="-0.09863516501059368" LOG_EFFECT_SIZE="-0.03841855161250081" ORDER="2" O_E="-30.53" SE="0.05382882948415912" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="3278" TOTAL_2="2303" VAR="345.12" WEIGHT="75.2092050209205"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.08937573044813128" CI_END="1.0431233163449725" CI_START="0.868604940644662" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.9518729254889476" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.20" LOG_CI_END="0.018335653050113556" LOG_CI_START="-0.0611777046898715" LOG_EFFECT_SIZE="-0.021421025819878998" NO="20" P_CHI2="0.7649723056582436" P_Q="1.0" P_Z="0.2909523006351311" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="1.0560348679062908">
+<NAME>Progression to AIDS or death - by IDU risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.076340286187354" CI_START="0.8333344304402246" EFFECT_SIZE="0.9470751920253253" ESTIMABLE="YES" EVENTS_1="907" EVENTS_2="779" LOG_CI_END="0.03194959572615985" LOG_CI_START="-0.07918067428703848" LOG_EFFECT_SIZE="-0.023615539280439333" ORDER="1" O_E="-22.04" SE="0.0496707803502818" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="3977" TOTAL_2="2900" VAR="405.32" WEIGHT="88.42059336823735"/>
+<IPD_DATA CI_END="1.408904043165282" CI_START="0.6946903004254276" EFFECT_SIZE="0.9893189440302299" ESTIMABLE="YES" EVENTS_1="119" EVENTS_2="103" LOG_CI_END="0.14888141543517258" LOG_CI_START="-0.1582087648957925" LOG_EFFECT_SIZE="-0.004663674730309994" ORDER="2" O_E="-0.57" SE="0.13725701281150704" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="454" TOTAL_2="391" VAR="53.08" WEIGHT="11.579406631762652"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="2.55309336959093E-4" CI_END="1.0477734898069229" CI_START="0.8726701945503913" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.9562220951194078" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.21" LOG_CI_END="0.020267405968944878" LOG_CI_START="-0.05914985680896961" LOG_EFFECT_SIZE="-0.019441225420012365" NO="21" P_CHI2="0.9872516220969958" P_Q="1.0" P_Z="0.3372603980810338" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.00000000000001" Z="0.9595924187189544">
+<NAME>Progression to AIDS or death - by haemophiliac risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.0846625728819408" CI_START="0.843380550108942" EFFECT_SIZE="0.956443054969689" ESTIMABLE="YES" EVENTS_1="942" EVENTS_2="801" LOG_CI_END="0.03529465474951958" LOG_CI_START="-0.07397641882715575" LOG_EFFECT_SIZE="-0.019340882038818123" ORDER="1" O_E="-18.67" SE="0.0488397939969184" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="4084" TOTAL_2="2970" VAR="419.23" WEIGHT="91.23414071510959"/>
+<IPD_DATA CI_END="1.431448032119138" CI_START="0.635701500632943" EFFECT_SIZE="0.9539253965044694" ESTIMABLE="YES" EVENTS_1="84" EVENTS_2="81" LOG_CI_END="0.15577558583748238" LOG_CI_START="-0.19674676337552494" LOG_EFFECT_SIZE="-0.020485588769021297" ORDER="2" O_E="-1.9" SE="0.1575633729158136" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="347" TOTAL_2="321" VAR="40.28" WEIGHT="8.765859284890428"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.5485731953015134" CI_END="1.0400910690348437" CI_START="0.8662285466358277" CI_STUDY="99" CI_TOTAL="95" DF="1" EFFECT_SIZE="0.9491873235030885" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.22" LOG_CI_END="0.017071367229306016" LOG_CI_START="-0.06236750815855251" LOG_EFFECT_SIZE="-0.022648070464623287" NO="22" P_CHI2="0.45890136648007906" P_Q="1.0" P_Z="0.26374908712342093" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="99.99999999999999" Z="1.1175737877268956">
+<NAME>Progression to AIDS or death - by heterosexual risk</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.0649985710007595" CI_START="0.8281454333483658" EFFECT_SIZE="0.9391345500495731" ESTIMABLE="YES" EVENTS_1="937" EVENTS_2="806" LOG_CI_END="0.027349025045271858" LOG_CI_START="-0.08189338863250108" LOG_EFFECT_SIZE="-0.02727218179361462" ORDER="1" O_E="-26.34" SE="0.048826984169829224" STUDY_ID="STD-x6_x003a_-no" TOTAL_1="3920" TOTAL_2="2875" VAR="419.45" WEIGHT="91.33170752950397"/>
+<IPD_DATA CI_END="1.5972450101196127" CI_START="0.7059506517070611" EFFECT_SIZE="1.061873888853941" ESTIMABLE="YES" EVENTS_1="89" EVENTS_2="76" LOG_CI_END="0.20337154004668648" LOG_CI_START="-0.1512256565124603" LOG_EFFECT_SIZE="0.026072941767113052" ORDER="2" O_E="2.39" SE="0.158490746589775" STUDY_ID="STD-x6_x003a_-yes" TOTAL_1="511" TOTAL_2="416" VAR="39.81" WEIGHT="8.668292470496015"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="2.13051812644505" CI_END="1.0589325690692806" CI_START="0.8809070031032762" CI_STUDY="99" CI_TOTAL="95" DF="3" EFFECT_SIZE="0.965826648994152" ESTIMABLE="YES" EVENTS_1="1020" EVENTS_2="878" I2="0.0" I2_Q="0.0" ID="CMP-001.23" LOG_CI_END="0.024868305892654347" LOG_CI_START="-0.0550699374118777" LOG_EFFECT_SIZE="-0.01510081575961167" NO="23" P_CHI2="0.5457635160284279" P_Q="1.0" P_Z="0.45899787430249783" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4410" TOTAL_2="3275" WEIGHT="100.0" Z="0.7404980095262057">
+<NAME>Progression to AIDS or death - by CD4 cells per mm3</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.2910406786031152" CI_START="0.6353417673708829" EFFECT_SIZE="0.905677683556025" ESTIMABLE="YES" EVENTS_1="122" EVENTS_2="111" LOG_CI_END="0.11093992639851964" LOG_CI_START="-0.19699259320488477" LOG_EFFECT_SIZE="-0.04302633340318254" ORDER="1" O_E="-5.23" SE="0.13763350473379593" STUDY_ID="STD-x7_x003a_-_x003c__x003d_200" TOTAL_1="249" TOTAL_2="213" VAR="52.79" WEIGHT="11.639546677250076"/>
+<IPD_DATA CI_END="1.2384522675515635" CI_START="0.8121315537980166" EFFECT_SIZE="1.002888909277258" ESTIMABLE="YES" EVENTS_1="320" EVENTS_2="291" LOG_CI_END="0.09287927265908193" LOG_CI_START="-0.09037361551137768" LOG_EFFECT_SIZE="0.0012528285738520985" ORDER="2" O_E="0.43" SE="0.08190670242939774" STUDY_ID="STD-x7_x003a_-201_x002d_350" TOTAL_1="1021" TOTAL_2="807" VAR="149.06" WEIGHT="32.86589936940512"/>
+<IPD_DATA CI_END="1.113131248123915" CI_START="0.6899456135598444" EFFECT_SIZE="0.8763561045371282" ESTIMABLE="YES" EVENTS_1="244" EVENTS_2="233" LOG_CI_END="0.0465463745552113" LOG_CI_START="-0.16118514210588006" LOG_EFFECT_SIZE="-0.057319383775334375" ORDER="3" O_E="-15.31" SE="0.09284766908852593" STUDY_ID="STD-x7_x003a_-351_x002d_500" TOTAL_1="1202" TOTAL_2="860" VAR="116.0" WEIGHT="25.576575384751067"/>
+<IPD_DATA CI_END="1.2880280119181353" CI_START="0.8276681135906573" EFFECT_SIZE="1.0325016779047904" ESTIMABLE="YES" EVENTS_1="334" EVENTS_2="243" LOG_CI_END="0.10992530812409336" LOG_CI_START="-0.08214377593365764" LOG_EFFECT_SIZE="0.013890766095217838" ORDER="4" O_E="4.34" SE="0.08584718893582573" STUDY_ID="STD-x7_x003a_-_x003e_500" TOTAL_1="1938" TOTAL_2="1395" VAR="135.69" WEIGHT="29.91797856859373"/>
+</IPD_OUTCOME>
+<IPD_OUTCOME CHI2="0.45103412589435377" CI_END="1.0494036319074123" CI_START="0.8737192453867124" CI_STUDY="99" CI_TOTAL="95" DF="2" EFFECT_SIZE="0.9575406776613825" ESTIMABLE="YES" EVENTS_1="1026" EVENTS_2="882" I2="0.0" I2_Q="0.0" ID="CMP-001.24" LOG_CI_END="0.020942562925611977" LOG_CI_START="-0.058628097991800625" LOG_EFFECT_SIZE="-0.018842767533094305" NO="24" P_CHI2="0.7981035929836539" P_Q="1.0" P_Z="0.35327253458921415" Q="0.0" SCALE="2.0" SORT_BY="USER" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="4431" TOTAL_2="3291" WEIGHT="100.0" Z="0.9282603740656812">
+<NAME>Progression to AIDS or death - by p24 antigen</NAME>
+<GROUP_LABEL_1/>
+<GROUP_LABEL_2/>
+<GRAPH_LABEL_1>Favours Imm</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Def</GRAPH_LABEL_2>
+<EFFECT_MEASURE>Peto Odds Ratio</EFFECT_MEASURE>
+<IPD_DATA CI_END="1.1243032669856554" CI_START="0.8006176284247155" EFFECT_SIZE="0.9487555086766112" ESTIMABLE="YES" EVENTS_1="458" EVENTS_2="466" LOG_CI_END="0.050883472633060124" LOG_CI_START="-0.09657485159877299" LOG_EFFECT_SIZE="-0.022845689482856424" ORDER="1" O_E="-12.11" SE="0.06590796578529097" STUDY_ID="STD-x8_x003a_-negative" TOTAL_1="1672" TOTAL_2="1650" VAR="230.21" WEIGHT="50.292742604972254"/>
+<IPD_DATA CI_END="1.2175591295712216" CI_START="0.6830993453029299" EFFECT_SIZE="0.9119834671076591" ESTIMABLE="YES" EVENTS_1="156" EVENTS_2="167" LOG_CI_END="0.08549006148661877" LOG_CI_START="-0.1655161309021456" LOG_EFFECT_SIZE="-0.040013034707763406" ORDER="2" O_E="-7.32" SE="0.11218971615224345" STUDY_ID="STD-x8_x003a_-positive" TOTAL_1="301" TOTAL_2="301" VAR="79.45" WEIGHT="17.357014899287805"/>
+<IPD_DATA CI_END="1.2321625878772742" CI_START="0.8068814701699824" EFFECT_SIZE="0.9971003762885986" ESTIMABLE="YES" EVENTS_1="412" EVENTS_2="249" LOG_CI_END="0.09066801818477224" LOG_CI_START="-0.09319025788248154" LOG_EFFECT_SIZE="-0.0012611198488546823" ORDER="3" O_E="-0.43" SE="0.08217728657577665" STUDY_ID="STD-x8_x003a_-missing" TOTAL_1="2458" TOTAL_2="1340" VAR="148.08" WEIGHT="32.35024249573994"/>
+</IPD_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

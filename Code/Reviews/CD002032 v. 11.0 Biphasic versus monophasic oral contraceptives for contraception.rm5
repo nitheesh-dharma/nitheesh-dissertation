@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002032.pub2" GROUP_ID="FERTILREG" ID="091200082114290291" MERGED_FROM="" MODIFIED="2011-05-09 10:46:39 +0200" MODIFIED_BY="Anja Helmerhorst" NOTES="&lt;p&gt;Exported from Review Manager 4.2.7&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Short title (no longer in use): Biphasic versus monophasic oral contraceptives.&lt;br&gt;Old title: Biphasic versus monophasic oral contraceptives for contraception&lt;br&gt;Old title: Biphasic versus monophasic oral contraceptives for contraception&lt;/p&gt;" NOTES_MODIFIED="2011-05-09 10:42:32 +0200" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="0023" REVMAN_SUB_VERSION="5.1.0 beta 5" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="11.0">
+<COVER_SHEET MODIFIED="2011-05-09 10:42:32 +0200" MODIFIED_BY="[Empty name]">
+<TITLE>Biphasic versus monophasic oral contraceptives for contraception</TITLE>
+<CONTACT>
+<PERSON ID="4664" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>David</FIRST_NAME>
+<MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+<LAST_NAME>Grimes</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>dgrimes@fhi.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Clinical Sciences</DEPARTMENT>
+<ORGANISATION>FHI</ORGANISATION>
+<ADDRESS_1>PO Box 13950</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Research Triangle Park</CITY>
+<ZIP>NC 27709</ZIP>
+<REGION>North Carolina</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 919 5447040 ext. 541</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 919 5447261</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2011-05-09 10:40:17 +0200" MODIFIED_BY="Anja Helmerhorst">
+<PERSON ID="13665" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Huib</FIRST_NAME>
+<MIDDLE_INITIALS>AAM</MIDDLE_INITIALS>
+<LAST_NAME>Van Vliet</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>haam.vliet@worldonline.nl</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE>0031-6-14362657</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>Department of Gynaecology, Division of Reproductive Medicine</DEPARTMENT>
+<ORGANISATION>Leiden University Medical Center</ORGANISATION>
+<ADDRESS_1>PO Box 9600</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Leiden</CITY>
+<ZIP>2300 RC</ZIP>
+<REGION/>
+<COUNTRY CODE="NL">Netherlands</COUNTRY>
+<PHONE_1>+31 61 436 2657</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="4664" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>David</FIRST_NAME>
+<MIDDLE_INITIALS>A</MIDDLE_INITIALS>
+<LAST_NAME>Grimes</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>dgrimes@fhi.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Clinical Sciences</DEPARTMENT>
+<ORGANISATION>FHI</ORGANISATION>
+<ADDRESS_1>PO Box 13950</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Research Triangle Park</CITY>
+<ZIP>NC 27709</ZIP>
+<REGION>North Carolina</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 919 5447040 ext. 541</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 919 5447261</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5555" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Frans</FIRST_NAME>
+<MIDDLE_INITIALS>M</MIDDLE_INITIALS>
+<LAST_NAME>Helmerhorst</LAST_NAME>
+<SUFFIX/>
+<POSITION>Co-ordinating Editor, Cochrane Fertility Regulation Group</POSITION>
+<EMAIL_1>f.m.helmerhorst@lumc.nl</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Gynaecology, Division of Reproductive Medicine and Dept. of Clinical Epidemiology</DEPARTMENT>
+<ORGANISATION>Leiden University Medical Center</ORGANISATION>
+<ADDRESS_1>PO Box 9600</ADDRESS_1>
+<ADDRESS_2>Albinusdreef 2</ADDRESS_2>
+<CITY>Leiden</CITY>
+<ZIP>NL 2300 RC</ZIP>
+<REGION/>
+<COUNTRY CODE="NL">Netherlands</COUNTRY>
+<PHONE_1>+31 71 5262871</PHONE_1>
+<PHONE_2>+31 654661933</PHONE_2>
+<FAX_1>+31 71 5248181</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="735D5A7582E26AA2008F53C86BBDE520" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Kenneth</FIRST_NAME>
+<MIDDLE_INITIALS>F</MIDDLE_INITIALS>
+<LAST_NAME>Schulz</LAST_NAME>
+<SUFFIX>PhD, MBA</SUFFIX>
+<POSITION>Vice President</POSITION>
+<EMAIL_1>kschulz@fhi.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Quantitative Sciences</DEPARTMENT>
+<ORGANISATION>FHI</ORGANISATION>
+<ADDRESS_1>P.O. Box 13950</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Research Triangle Park</CITY>
+<ZIP>NC 27709</ZIP>
+<REGION>North Carolina</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 919 5447040 ext. 524</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 919 5447261</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="3B53A95682E26AA20114382D371E0DCB" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Laureen</FIRST_NAME>
+<MIDDLE_INITIALS>M</MIDDLE_INITIALS>
+<LAST_NAME>Lopez</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>llopez@fhi.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Clinical Sciences</DEPARTMENT>
+<ORGANISATION>FHI</ORGANISATION>
+<ADDRESS_1>P.O. Box 13950</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Research Triangle Park</CITY>
+<ZIP>27709</ZIP>
+<REGION>North Carolina</REGION>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>+1 919 5447040 ext: 11443</PHONE_1>
+<PHONE_2/>
+<FAX_1>+1 919 5447261</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2011-05-09 10:42:32 +0200" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Minor update: 5/15/06&lt;/p&gt;&lt;p&gt;New studies sought but none found: 4/11/06&lt;/p&gt;&lt;p&gt;Reformatted: 5/8/06&lt;/p&gt;" NOTES_MODIFIED="2011-05-09 10:42:32 +0200" NOTES_MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="4" MONTH="5" YEAR="2011"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="3" MONTH="5" YEAR="2011"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="1" MONTH="5" YEAR="2013"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2001"/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2006"/>
+</DATES>
+<WHATS_NEW MODIFIED="2011-05-04 15:39:03 +0200" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;The review was updated April 2006. No new trials were to be found.&lt;br&gt;May 2006: Review was edited for current Cochrane style issues, and the Synopsis was revised to be a Plain Language Summary.&lt;/p&gt;" NOTES_MODIFIED="2011-05-04 15:39:03 +0200" NOTES_MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-05-04 15:39:03 +0200" MODIFIED_BY="[Empty name]">
+<DATE DAY="4" MONTH="5" YEAR="2011"/>
+<DESCRIPTION>
+<P>Searches updated; no new trials found.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2011-05-02 21:37:20 +0200" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-05-02 21:37:20 +0200" MODIFIED_BY="[Empty name]">
+<DATE DAY="25" MONTH="11" YEAR="2008"/>
+<DESCRIPTION>
+<P>Searches were updated in Oct and Nov 2008; no new trials were found. Added searches of clinical trials databases.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-02-11 16:00:10 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="14" MONTH="4" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="15" MONTH="5" YEAR="2006"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>National Institute of Child Health and Human Development</NAME>
+<COUNTRY CODE="US">USA</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>U.S. Agency for International Development</NAME>
+<COUNTRY CODE="US">USA</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2011-05-04 15:42:12 +0200" MODIFIED_BY="[Empty name]">
+<SUMMARY>
+<TITLE>Birth control pills with two phases versus one phase</TITLE>
+<SUMMARY_BODY>
+<P>Side effects of birth control pills may keep women from using them as planned. Attempts to decrease side effects led to the two-phase pill. Pills with phases provide different amounts of hormones over three weeks. Whether two-phase pills lead to fewer pregnancies than one-phase pills is unknown. Nor is it known if the pills give better cycle control or have fewer side effects. This review looked at whether two-phase pills worked as well as one-phase pills. It also studied whether women had fewer side effects with these pills.</P>
+<P>We did a computer search for studies of birth control pills with two phases versus pills with one phase. We also wrote to researchers and manufacturers to find other trials. We included randomized trials in any language. </P>
+<P>We found only one trial that looked at one-phase versus two-phase birth control pills. The study authors did not report all their methods. Many of the women dropped out of the trial, and the authors did not give the reasons. The pills did not differ in any major ways, including bleeding patterns and the numbers of women who stopped using the pills. </P>
+<P>This review did not find enough evidence to say if two-phase pills worked any better than one-phase types for birth control, bleeding patterns, or staying on the pill. The one trial report had method problems and lacked data on pregnancies. Therefore, one-phase pills are the better choice, since we have much more evidence for such pills and two-phase pills have no clear reason for use.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2011-05-03 21:23:40 +0200" MODIFIED_BY="Laureen M Lopez">
+<ABS_BACKGROUND MODIFIED="2008-11-24 20:02:45 +0100" MODIFIED_BY="Laureen M Lopez">
+<P>Side effects caused by oral contraceptives discourage compliance with, and continuation of, oral contraceptives (OCs). Three approaches have been used to decrease these adverse effects: reduction of steroid dose, development of new steroids, and new formulas and schedules of administration. The third strategy led to the biphasic oral contraceptive pill.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2008-11-24 20:04:21 +0100" MODIFIED_BY="Laureen M Lopez">
+<P>To compare biphasic with monophasic oral contraceptives in terms of efficacy, cycle control, and discontinuation due to side effects. Our a priori hypotheses were: (a) biphasic oral contraceptives are less effective than monophasic OCs in preventing pregnancy; (b) biphasic oral contraceptives cause more side effects, give poorer cycle control, and have lower continuation rates.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2011-05-03 21:23:40 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>We searched the computerized databases MEDLINE, POPLINE, LILACS and CENTRAL, as well as clinical trials databases (ClinicalTrials.gov and ICTRP). In addition, we searched the reference lists of relevant articles and book chapters. We also contacted the authors of relevant studies and pharmaceutical companies.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2008-11-24 20:02:52 +0100" MODIFIED_BY="Laureen M Lopez">
+<P>We included randomized controlled trials comparing any biphasic with any monophasic OC when used to prevent pregnancy.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2008-11-24 20:03:54 +0100" MODIFIED_BY="Laureen M Lopez">
+<P>We examined the studies found during the various literature searches for possible inclusion and assessed their methodology using Cochrane guidelines. We contacted the authors of included studies and possibly randomized studies for information about methodology and outcomes. We entered the data into RevMan, and calculated Peto odds ratios for the incidence of intermenstrual bleeding, absence of withdrawal bleeding, and study discontinuation due to intermenstrual bleeding.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2008-11-24 20:03:20 +0100" MODIFIED_BY="Laureen M Lopez">
+<P>Only one trial of limited quality compared a biphasic and monophasic preparation. The study examined 533 user cycles of a biphasic pill (500 &#956;g norethindrone plus 35 &#956;g ethinyl estradiol (EE) for 10 days, followed by 1000 &#956;g norethindrone plus 35 &#956;g EE for 11 days; Ortho 10/11) and 481 user cycles of a monophasic contraceptive pill (1500 &#956;g norethindrone acetate plus 30 &#956;g EE daily; Loestrin). The study found no significant differences in intermenstrual bleeding, amenorrhea and study discontinuation due to intermenstrual bleeding between the biphasic and monophasic oral contraceptive pills.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Conclusions are limited by the identification of only one trial, the methodological shortcomings of that trial, and the absence of data on accidental pregnancies. However, the trial found no important differences in bleeding patterns between the biphasic and monophasic preparations studied. Since no clear rationale exists for biphasic pills and since extensive evidence is available for monophasic pills, the latter are preferred.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2011-05-03 21:53:20 +0200" MODIFIED_BY="Laureen M Lopez">
+<BACKGROUND>
+<P>Side effects caused by oral contraceptives discourage compliance with and continuation of oral contraceptives (<LINK REF="REF-Hillard-1992" TYPE="REFERENCE">Hillard 1992</LINK>). Three approaches have been used to decrease these adverse effects: reduction of the steroid dose, development of new steroids, and new formulas and schedules of administration. The third strategy led to the biphasic oral contraceptive pill.</P>
+<P>Biphasic oral contraceptives purportedly attempt to 'mimic' the rising and falling pattern of estrogen and progesterone as seen during the normal menstrual cycle (<LINK REF="REF-Upton-1983" TYPE="REFERENCE">Upton 1983</LINK>). Overall, this results in a lower total monthly steroid dosage in comparison with most older monophasic oral contraceptives. However, alleged disadvantages of the biphasic approach are a decline in cycle control and a higher incidence of pregnancy. Several observational studies have suggested that multiphasic pills may be associated with higher pregnancy rates compared with monophasic pills (<LINK REF="REF-Ketting-1988" TYPE="REFERENCE">Ketting 1988</LINK>; <LINK REF="REF-Kovacs-1989" TYPE="REFERENCE">Kovacs 1989</LINK>). We conducted this systematic review to examine these potential differences.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>The aim of this review was to compare biphasic with monophasic oral contraceptive pills. Our a priori hypotheses were: (a) biphasic oral contraceptives are less effective than monophasic oral contraceptives in preventing pregnancy (<LINK REF="REF-Ketting-1988" TYPE="REFERENCE">Ketting 1988</LINK>; <LINK REF="REF-Kovacs-1989" TYPE="REFERENCE">Kovacs 1989</LINK>); (b) biphasic oral contraceptives cause more side effects, give poorer cycle control, and have lower continuation rates.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2011-05-03 21:53:20 +0200" MODIFIED_BY="Laureen M Lopez">
+<SELECTION_CRITERIA MODIFIED="2008-10-20 18:55:48 +0200" MODIFIED_BY="Laureen M Lopez">
+<CRIT_STUDIES>
+<P>We included only randomized controlled trials in this review.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Healthy women of reproductive age without contra-indications for the use of oral contraceptive who wanted oral contraceptives for preventing pregnancy.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>We included any biphasic compared with any monophasic oral contraceptive pill when used to prevent pregnancy. Both 21-pill and 28-pill packages are included. We excluded studies that examined sequential pills (those containing estrogen alone early in the cycle, followed by estrogen plus progestin later in the cycle). We also excluded studies that compared biphasic with monophasic pills when the pills were used as a treatment and not as a contraceptive.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-10-20 18:55:48 +0200" MODIFIED_BY="Laureen M Lopez">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-10-20 18:55:48 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>Principal outcome measures included the incidence of accidental pregnancy, spotting, breakthrough bleeding, intermenstrual bleeding, amenorrhea, and discontinuation due to side effects.</P>
+<P>We excluded studies that focused primarily on metabolic outcome measures and follicular growth and which did not provide data of clinical interest.</P>
+</CRIT_OUTCOMES_PRIMARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2011-05-03 21:53:20 +0200" MODIFIED_BY="Laureen M Lopez">
+<ELECTRONIC_SEARCHES MODIFIED="2011-05-03 21:53:20 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>We searched computerized databases MEDLINE using PubMed, POPLINE, LILACS and Cochrane Central Register of Controlled Trials (CENTRAL) for publications comparing monophasic, biphasic or triphasic oral contraceptives. In addition, we searched for recent clinical trials through ClinicalTrials.gov and the International Clinical Trials Registry Platform (ICTRP). The current search strategies are shown below, along with the search dates. For the initial review (2006) and the 2008 update, we also searched EMBASE (<LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="4">MEDLINE via PubMed (Jun 2008 to 02 May 2011)</HEADING>
+<P>contraceptives, oral[MeSH Terms] AND (monophasic[ALL] OR biphasic[ALL] OR triphasic[ALL] OR multiphasic[ALL]) AND (clinical trials[MeSH Terms] OR clinical trial*[ALL] OR controlled clinical trial*[ALL] OR comparative stud*[ALL] OR compar* OR randomized controlled trial[ALL] OR random allocation[MeSH Terms] OR random allocation[Text Word] OR random[ALL] OR double-blind method[MeSH Terms] OR double blind method[Text Word] OR single-blind method[MeSH Terms] OR single blind method[Text Word] OR multicenter stud*[ALL])</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">POPLINE (past 5 years to 03 May 2011)</HEADING>
+<P>(oral &amp; contracept*) &amp; (monophasic/biphasic/triphasic/multiphasic)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">LILACS (to 03 May 2011)</HEADING>
+<P>(((("contraceptives, oral") or "contraceptive")) or "contraceptives") or "contraception" [Words]<BR/>and<BR/>((("monophasic") or "biphasic") or "triphasic") or "multiphasic" [Words]</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">CENTRAL (2008 to 02 May 2011)</HEADING>
+<P>oral AND contracept* in Title, Abstract or Keywords<BR/>AND (monophasic OR biphasic OR triphasic OR multiphasic) in Abstract</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">ClinicalTrials.gov (03 May 2011)</HEADING>
+<P>Search terms: biphasic OR triphasic OR multiphasic<BR/>Condition: NOT diabetes<BR/>Interventional Studies<BR/>Studies with Female Participants<BR/>Received on or after 07/01/2008</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">ICTRP (03 May 2011)</HEADING>
+<P>Intervention: (monophasic OR biphasic OR triphasic OR multiphasic) NOT insulin<BR/>Date of registration from 01 Jul 2008</P>
+</SUBSECTION>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2011-05-02 21:35:36 +0200" MODIFIED_BY="[Empty name]">
+<P>For the initial review, we searched relevant book chapters and review articles identified with the above searches for relevant trials. We reviewed the reference lists of identified studies for previously unidentified trials. We also searched the holdings of the FHI Library for relevant trials, book chapters and review articles.</P>
+<P>We attempted to contact the authors of all included trials. For the initial review, we also wrote letters to pharmaceutical companies in the USA and Europe that market oral contraceptives. We did not contact the US Food and Drug Administration. In the contact letters, we provided a list of studies that had been identified and asked if correspondents knew of unpublished or published trials that we had not found.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-10-20 20:41:50 +0200" MODIFIED_BY="Laureen M Lopez">
+<STUDY_SELECTION MODIFIED="2008-10-20 20:41:32 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>For the initial review, two authors evaluated the titles and abstracts found during the literature search, and all potentially relevant articles were photocopied. Two authors independently examined each study for possible inclusion. For the updates, one author reviewed the search results and identified reports for inclusion or exclusion. A second author examined reports identified for appropriate categorization.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-10-20 18:56:54 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>After inclusion of the study, two authors abstracted the data. There was no disagreement about the inclusion of studies or the abstracted data. We wrote to the author of the one study included and to the author of a possibly randomized study. In the letters we asked for details about the methods used in the study and the various outcome measures. We then entered the data into RevMan 3.1, and later imported the review into RevMan 4.1. Another author verified that the data had been correctly entered.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-10-20 18:56:39 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>We assessed the methodology using Cochrane guidelines. We focused on the method of randomization, use of allocation concealment, use of blinding, and exclusion of participants after randomization.</P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-10-20 20:41:50 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>We calculated Peto odds ratios (Peto OR) with 95% confidence intervals (CI) for the incidence of intermenstrual bleeding, amenorrhea, and study discontinuation due to intermenstrual bleeding. Since person-time denominators do not allow calculation of true odds ratios, the odds ratios (OR) reported in RevMan should be considered as approximations. Cycles of exposure were the denominators for bleeding outcomes, and a woman could experience an outcome in more than one cycle.</P>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-11-25 22:16:20 +0100" MODIFIED_BY="Laureen M Lopez">
+<STUDY_DESCRIPTION MODIFIED="2008-11-25 22:16:20 +0100" MODIFIED_BY="Laureen M Lopez">
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-11-25 22:16:06 +0100" MODIFIED_BY="Laureen M Lopez">
+<P>Only one study (<LINK REF="STD-Percival_x002d_Smith-1990" TYPE="STUDY">Percival-Smith 1990</LINK>) met the inclusion criteria for this review. The trial compared a monophasic pill containing 1500 &#956;g norethindrone acetate plus 30 &#956;g ethinyl estradiol daily (Loestrin, Parke-Davis) with three different multiphasic pills. These included one biphasic oral contraceptive pill (Ortho 10/11, Ortho Pharmaceuticals) and two triphasic pills (Triphasil, Wyeth-Ayerst; Ortho 7/7/7, Ortho Pharmaceuticals). The biphasic formulation contained 500 &#956;g norethindrone plus 35 &#956;g EE daily for 10 days, followed by 11 days of 1000 &#956;g norethindrone plus 35 &#956;g EE. This review only focuses on the comparison in this study between the biphasic and monophasic pills.</P>
+<P>The trial randomized 469 women, of whom only 391 women had begun taking the pills and completed at least one month. A total of 116 women were randomized to receive the biphasic, while 117 women were allocated to the monophasic pill. Of these, 81 women assigned to the biphasic pill completed six cycles of use, in contrast to 68 women assigned to the monophasic pill. The main objective of the trial was to compare bleeding patterns with the different products over a six-month observation period. Women were asked to maintain diary cards for their bleeding.</P>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2008-11-25 22:16:20 +0100" MODIFIED_BY="Laureen M Lopez">
+<P>We excluded five studies from this review. <LINK REF="STD-Balogh-1988" TYPE="STUDY">Balogh 1988</LINK> reported only that the study was prospective but did not mention randomization, and we were unable to reach the author. We excluded two studies (<LINK REF="STD-Gaspard-1983" TYPE="STUDY">Gaspard 1983</LINK>; <LINK REF="STD-Dik-1984" TYPE="STUDY">Dik 1984</LINK>) that examined sequential pills. Because of probable fraud (<LINK REF="REF-Rossiter-1992" TYPE="REFERENCE">Rossiter 1992</LINK>), we excluded two studies by Briggs (<LINK REF="STD-Briggs-1980" TYPE="STUDY">Briggs 1980</LINK>; <LINK REF="STD-Briggs-1982" TYPE="STUDY">Briggs 1982</LINK>).</P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>The included study (<LINK REF="STD-Percival_x002d_Smith-1990" TYPE="STUDY">Percival-Smith 1990</LINK>) was a randomized controlled trial with the investigators blinded to treatment. The study was sponsored by Parke-Davis, manufacturer of a monophasic pill. The report neither described the method of randomization nor the use of allocation concealment. It did, however, provide an a priori hypothesis and a sample size calculation. Of the 469 women who started the trial, 169 women discontinued after randomization. The reasons for discontinuation are unclear. This raises the strong possibility of selection bias in this study.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-10-20 18:25:46 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>This trial examined 533 user cycles of the biphasic pill and 481 user cycles of the monophasic pill. The term 'Intermenstrual bleeding' included both breakthrough bleeding and spotting ("bleeding during active medication which is limited to minor staining, whether or not sanitary protection was used"). For all user cycles, the odds ratio of intermenstrual bleeding with the biphasic pill was 1.3 times higher than that with the monophasic pill (<LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>: OR 1.29; 95% CI 0.99 to 1.69). The reported rates of intermenstrual bleeding (34% and 29%, respectively) cannot be confirmed from the data provided. For all user cycles, the odds ratio of failure to have withdrawal bleeding with the biphasic pill was 0.7 times that with the monophasic pill (<LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>: OR 0.71; 95% CI 0.43 to 1.18). Again, the published numbers do not confirm the reported incidence rates (5% and 6%, respectively). The frequency of study discontinuation due to intermenstrual bleeding was similar in both groups (<LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK>: OR 0.97; 95% CI 0.33 to 2.86).</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>We identified only one randomized controlled trial comparing a biphasic and monophasic regimen (<LINK REF="STD-Percival_x002d_Smith-1990" TYPE="STUDY">Percival-Smith 1990</LINK>). The study enrolled a limited number of participants and had four different treatment arms. Of the women participating in the trial, 36% discontinued after randomization, and the reasons for discontinuation are unclear. The report described neither the method of randomization nor the use of allocation concealment. Exclusion after randomization as well as inadequate allocation concealment can bias results (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>; <LINK REF="REF-Schulz-1996" TYPE="REFERENCE">Schulz 1996</LINK>). Unclear denominators in the published report precluded our replication of the reported incidence rates for several outcomes.</P>
+<P>We were unable to confirm or refute our a priori hypotheses about biphasic pills. We postulated that the multiphasic pill could result in higher pregnancy rates, more side effects, and poorer continuation rates than the monophasic pill. Reasons for our inability to reach a conclusion include the identification of only one trial, the methodological shortcomings of that trial, and the absence of data on pregnancies. The trial reported no significant differences between the biphasic and monophasic preparation in intermenstrual bleeding and amenorrhea, and similar proportions of women quit the study because of intermenstrual bleeding. </P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-10-20 18:06:06 +0200" MODIFIED_BY="Laureen M Lopez">
+<IMPLICATIONS_PRACTICE MODIFIED="2008-10-20 18:06:06 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>Data are insufficient to compare biphasic and monophasic combined oral contraceptives adequately. This dearth of information probably has little public health impact, since biphasic pills are not as widely available today as monophasic and triphasic pills (<LINK REF="REF-Wallach-2000" TYPE="REFERENCE">Wallach 2000</LINK>). The putative benefits of the lower total steroid dose per cycle remain to be established. No scientific rationale for biphasic pills exists, and far greater experience is available for monophasic pills. Hence, monophasic are preferred over biphasic pills, although information is limited concerning the latter.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Given the limited availability and use of biphasic oral contraceptives today, further research on this regimen is of low priority. However, claims of superiority for all new pill regimens should require that randomized controlled trials be properly conducted as supporting evidence.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2011-05-04 15:41:10 +0200" MODIFIED_BY="[Empty name]">
+<P>Carol Manion of FHI assisted with the literature search.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2011-05-04 15:36:44 +0200" MODIFIED_BY="[Empty name]">
+<P>DA Grimes has consulted with the pharmaceutical companies Bayer Healthcare Pharmaceuticals and Merck &amp; Co, Inc.<BR/>
+</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2011-05-04 15:42:12 +0200" MODIFIED_BY="[Empty name]">
+<P>F Helmerhorst came up with the idea of comparing multiphasic with monophasic oral contraceptives. For the initial review, D Grimes and H Van Vliet developed the protocol, conducted the literature searches, assessed the methodological quality of the studies, abstracted the data and entered the data in RevMan. K Schulz verified the correct entry of the data. D Grimes and H Van Vliet wrote the manuscript. K Schulz and F Helmerhorst advised on, commentated and proof-read the manuscript. For the 2006 update, H Van Vliet reviewed the search results; L Lopez edited the review for Cochrane style issues, and wrote the Plain Language Summary. For the 2008 and 2011 updates, L Lopez conducted the searches, reviewed the search results, and edited the review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-12-01 22:18:30 +0100" MODIFIED_BY="Laureen M Lopez">
+<STUDIES MODIFIED="2008-10-20 17:50:21 +0200" MODIFIED_BY="Laureen M Lopez">
+<INCLUDED_STUDIES MODIFIED="2008-10-20 17:50:21 +0200" MODIFIED_BY="Laureen M Lopez">
+<STUDY DATA_SOURCE="MIX" ID="STD-Percival_x002d_Smith-1990" MODIFIED="2008-10-20 17:50:21 +0200" MODIFIED_BY="Laureen M Lopez" NAME="Percival-Smith 1990" YEAR="1990">
+<REFERENCE MODIFIED="2008-10-20 17:50:21 +0200" MODIFIED_BY="Laureen M Lopez" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Percival-Smith RK, Yuzpe AA, Desrosiers JA, Rioux JE, Guilbert E</AU>
+<TI>Cycle control on low-dose oral contraceptives: a comparative trial</TI>
+<SO>Contraception</SO>
+<YR>1990</YR>
+<VL>42</VL>
+<PG>253-62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Balogh-1988" NAME="Balogh 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Balogh A</AU>
+<TI>Clinical and endocrine effects of long-term hormonal contraception</TI>
+<SO>Acta Medica Hungarica</SO>
+<YR>1986</YR>
+<VL>43</VL>
+<PG>97-102</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Briggs-1980" NAME="Briggs 1980" YEAR="1980">
+<REFERENCE NOTES="&lt;p&gt;Briggs M, Briggs M. A randomized study of metabolic effects of four oral contraceptive preparations containing levonorgestrel plus ethinyloestradiol in different regimens. In: Greenblatt RB, ed. The development of a new triphasic oral contraptive: Proceedings of a special symposium held at the 10th World Congress on Fertility and Sterility; July 1980, Madrid &lt;br&gt;Lancaster: MTP Press, 1980:79-88.&lt;/p&gt;" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Briggs M, Briggs M</AU>
+<TI>A randomized study of metabolic effects of four oral contraceptive preparations containing levonorgestrel plus ethinylestradiol in different regimens</TI>
+<SO>The development of a new triphasic oral contraceptive. Proceedings of a Special Symposium held at the 10th World Congress on Fertility and Sterility; 1980 July; Madrid</SO>
+<YR>1980</YR>
+<PG>79-88</PG>
+<ED>Greenblatt RB</ED>
+<PB>MTP Press</PB>
+<CY>Lancaster (England)</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Briggs-1982" NAME="Briggs 1982" YEAR="1982">
+<REFERENCE NOTES="&lt;p&gt;Briggs MH, Briggs M. Randomized prospective studies on metabolic effects of oral contraceptives. Acta Obstet Gynecol Scand Suppl 1982;105:25-32.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Briggs MH, Briggs M</AU>
+<TI>Randomized prospective studies on metabolic effects of oral contraceptives</TI>
+<SO>Acta Obstetrica et Gynecologica Scandinavica Supplement</SO>
+<YR>1982</YR>
+<VL>105</VL>
+<PG>25-32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dik-1984" NAME="Dik 1984" YEAR="1984">
+<REFERENCE NOTES="&lt;p&gt;Dik M, Eckert H, Hones S, Schindler AE. Vergleich eines Zweiphasenpraparates (Oviol 22) mit einem niedrig dosierten Einphasenpraparat (Ovoresta M). Geburtsh u Frauenheilk 1984;44:808-12.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dik M, Eckert H, Hones S, Schindler AE</AU>
+<TI>Comparison of a 2-phase preparation (Oviol 22) with a low-dose 1-phase preparation (Ovoresta M)</TI>
+<TO>Vergleich eines Zweiphasenpraparates (Oviol 22) mit einem niedrig dosierten Einphasenpraparat (Ovoresta M)</TO>
+<SO>Geburtshilfe Frauenheilkunde</SO>
+<YR>1984</YR>
+<VL>44</VL>
+<PG>808-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gaspard-1983" NAME="Gaspard 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gaspard UJ, Romus MA, Gillain D, Duvivier J, Demey-Ponsart E, Franchimont P</AU>
+<TI>Plasma hormone levels in women receiving new oral contraceptives containing ethinyl estradiol plus levonorgestrel or desogestrel</TI>
+<SO>Contraception</SO>
+<YR>1983</YR>
+<VL>27</VL>
+<PG>577-90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-12-01 22:18:30 +0100" MODIFIED_BY="Laureen M Lopez">
+<ADDITIONAL_REFERENCES MODIFIED="2008-12-01 22:18:30 +0100" MODIFIED_BY="Laureen M Lopez">
+<REFERENCE ID="REF-Hillard-1992" NAME="Hillard 1992" NOTES="&lt;p&gt;Hillard PJA. Oral contraception noncompliance: the extent of the problem. Adv Contracept 1992;8 Suppl 1:13-20.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Hillard PJA</AU>
+<TI>Oral contraception noncompliance: the extent of the problem</TI>
+<SO>Advances in Contraception</SO>
+<YR>1992</YR>
+<VL>8 Suppl 1</VL>
+<PG>13-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ketting-1988" NAME="Ketting 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Ketting E</AU>
+<TI>The relative reliability of oral contraceptives: findings of an epidemiological study</TI>
+<SO>Contraception</SO>
+<YR>1988</YR>
+<VL>37</VL>
+<PG>343-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kovacs-1989" NAME="Kovacs 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Kovacs GT, Riddoch G, Duncombe P, Welberry L, Chick P, Weisberg E, et al</AU>
+<TI>Inadvertent pregnancies in oral contraceptive users</TI>
+<SO>Medical Journal of Australia</SO>
+<YR>1989</YR>
+<VL>150</VL>
+<PG>549-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rossiter-1992" NAME="Rossiter 1992" NOTES="&lt;p&gt;Rossiter EJR. Reflections of a whistle-blower. Nature 1992;357:434-36.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Rossiter EJR</AU>
+<TI>Reflections of a whistle-blower</TI>
+<SO>Nature</SO>
+<YR>1992</YR>
+<VL>357</VL>
+<PG>434-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1995" NAME="Schulz 1995" NOTES="&lt;p&gt;Schulz KF, Chalmers I, Hayes RJ, Altman DG. Empirical evidence of bias: dimensions of methodological quality associated with estimates of treatment effects in controlled trials. JAMA 1995;273:408-12.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Chalmers I, Hayes RJ, Altman DG</AU>
+<TI>Empirical evidence of bias: dimensions of methodological quality associated with estimates of treatment effects in controlled trials</TI>
+<SO>Journal of the American Medical Association</SO>
+<YR>1995</YR>
+<VL>273</VL>
+<PG>408-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1996" NAME="Schulz 1996" NOTES="&lt;p&gt;Schulz KF. Randomised trials, human nature, and reporting guidelines. Lancet 1996;348:596-98.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF</AU>
+<TI>Randomised trials, human nature, and reporting guidelines</TI>
+<SO>Lancet</SO>
+<YR>1996</YR>
+<VL>348</VL>
+<PG>596-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Upton-1983" NAME="Upton 1983" NOTES="&lt;p&gt;Upton GV. The phasic approach to oral contraception: the triphasic concept and its clinical application. Int J Fertil 1983;28:121-40.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Upton GV</AU>
+<TI>The phasic approach to oral contraception: the triphasic concept and its clinical application</TI>
+<SO>International Journal of Fertility</SO>
+<YR>1983</YR>
+<VL>28</VL>
+<PG>121-40</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wallach-2000" NAME="Wallach 2000" TYPE="BOOK">
+<AU>Wallach M, Grimes DA, Chaney EJ, Connell EB, Creinin MD, Emans SJ, et al</AU>
+<SO>Modern Oral Contraception</SO>
+<YR>2000</YR>
+<PB>Emron, Inc.</PB>
+<CY>Totowa (NJ)</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2008-10-20 21:04:42 +0200" MODIFIED_BY="Laureen M Lopez">
+<REFERENCE ID="REF-Van-Vliet-2002" MODIFIED="2008-10-20 21:04:42 +0200" MODIFIED_BY="Laureen M Lopez" NAME="Van Vliet 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Van Vliet H, Grimes D, Helmerhorst F, Schulz K</AU>
+<TI>Biphasic versus monophasic oral contraceptives for contraception</TI>
+<SO>Human Reproduction</SO>
+<YR>2002</YR>
+<VL>17</VL>
+<PG>870-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2011-05-04 15:43:20 +0200" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2011-05-04 15:43:20 +0200" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-10-20 21:03:58 +0200" MODIFIED_BY="Laureen M Lopez" STUDY_ID="STD-Percival_x002d_Smith-1990">
+<CHAR_METHODS>
+<P>Randomized controlled trial with blinding of the investigators. Adequacy of the blinding is unknown. The method of randomization and the use of allocation concealment were not described.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-10-20 17:48:01 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>469 women, 15 to 35 years, at four Canadian sites. Only 391 women were admitted to the study and used the pills for at least one month. Whether potential participants were not admitted or admitted and lost to follow up is unknown.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-10-20 21:03:58 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>Biphasic (norethindrone 500 &#956;g plus EE 35 &#956;g daily for 10 days, followed by norethindrone 1000 &#956;g plus EE 35 &#956;g daily for 11 days; Ortho 10/11; Ortho Pharmaceuticals) or monophasic pill (norethindrone acetate 1500 &#956;g plus EE 30 &#956;g daily; Loestrin; Parke-Davis)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Primary outcomes measures were side effects, cycle control, continuation rates, discontinuation rates and reason for discontinuation.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>The report provides an a priori hypothesis and a sample size calculation. 169 women discontinued, and the reasons for discontinuation are unclear. Intermenstrual bleeding includes both breakthrough bleeding and spotting. Use of daily diary method to collect data on cycle control and side effects.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-10-20 17:49:54 +0200" MODIFIED_BY="Laureen M Lopez" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Balogh-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The report is described only as prospective, and randomization is not mentioned. We attempted without success to reach the author.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-10-20 17:49:32 +0200" MODIFIED_BY="Laureen M Lopez" STUDY_ID="STD-Briggs-1980">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-20 17:49:32 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>Briggs is suspected of scientific fraud (<LINK REF="REF-Rossiter-1992" TYPE="REFERENCE">Rossiter 1992</LINK>). Report focuses on metabolic outcomes.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-10-20 17:49:54 +0200" MODIFIED_BY="Laureen M Lopez" STUDY_ID="STD-Briggs-1982">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-10-20 17:49:54 +0200" MODIFIED_BY="Laureen M Lopez">
+<P>Briggs is suspected of scientific fraud (<LINK REF="REF-Rossiter-1992" TYPE="REFERENCE">Rossiter 1992</LINK>). Report describes 2 studies. One study compares 4 monophasic oral contraceptives in terms of metabolic changes. The other is a duplicate publication (<LINK REF="STD-Briggs-1980" TYPE="STUDY">Briggs 1980</LINK>).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dik-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study examined a sequential pill.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gaspard-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The study examined metabolic outcomes related to a sequential pill.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2011-05-04 15:43:20 +0200" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2011-05-04 15:43:20 +0200" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2011-05-04 15:43:20 +0200" MODIFIED_BY="[Empty name]" RESULT="UNKNOWN" STUDY_ID="STD-Percival_x002d_Smith-1990">
+<DESCRIPTION>
+<P>No information</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2008-10-20 18:22:28 +0200" MODIFIED_BY="Laureen M Lopez">
+<COMPARISON ID="CMP-001" MODIFIED="2008-10-20 18:22:28 +0200" MODIFIED_BY="Laureen M Lopez" NO="1">
+<NAME>Biphasic norethindrone/ethinyl estradiol versus monophasic norethindrone acetate/ethinyl estradiol</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.694412727399383" CI_START="0.9854711663002504" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.2922054351627912" ESTIMABLE="YES" EVENTS_1="169" EVENTS_2="127" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.22901920493206038" LOG_CI_START="-0.006356078132266297" LOG_EFFECT_SIZE="0.11133156339989708" METHOD="PETO" MODIFIED="2008-10-20 18:22:28 +0200" MODIFIED_BY="Laureen M Lopez" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.0637233981321758" Q="0.0" RANDOM="NO" SCALE="10.13876326724968" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="533" TOTAL_2="481" WEIGHT="100.0" Z="1.8541101832404514">
+<NAME>Intermenstrual bleeding</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.694412727399383" CI_START="0.9854711663002504" EFFECT_SIZE="1.2922054351627912" ESTIMABLE="YES" EVENTS_1="169" EVENTS_2="127" LOG_CI_END="0.22901920493206038" LOG_CI_START="-0.006356078132266297" LOG_EFFECT_SIZE="0.11133156339989708" ORDER="6982" O_E="13.410256410256409" SE="0.13826060639842758" STUDY_ID="STD-Percival_x002d_Smith-1990" TOTAL_1="533" TOTAL_2="481" VAR="52.31221211690496" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.1766959478135277" CI_START="0.43029586385932256" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.7115668621880773" ESTIMABLE="YES" EVENTS_1="29" EVENTS_2="36" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.07066425787689877" LOG_CI_START="-0.3662328284740466" LOG_EFFECT_SIZE="-0.14778428529857393" METHOD="PETO" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.1848562128802877" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="533" TOTAL_2="481" WEIGHT="100.0" Z="1.3259501411896761">
+<NAME>Absence of withdrawal bleeding</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.1766959478135277" CI_START="0.43029586385932256" EFFECT_SIZE="0.7115668621880773" ESTIMABLE="YES" EVENTS_1="29" EVENTS_2="36" LOG_CI_END="0.07066425787689877" LOG_CI_START="-0.3662328284740466" LOG_EFFECT_SIZE="-0.14778428529857393" ORDER="6983" O_E="-5.166666666666664" SE="0.25663551119800193" STUDY_ID="STD-Percival_x002d_Smith-1990" TOTAL_1="533" TOTAL_2="481" VAR="15.183311396292641" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="2.8627944489440145" CI_START="0.32676758863950484" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.9671961739233649" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="7" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.4567901664309222" LOG_CI_START="-0.48576102672064553" LOG_EFFECT_SIZE="-0.014485430144861627" METHOD="PETO" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.9519623259328754" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="98" TOTAL_2="95" WEIGHT="100.0" Z="0.06024271485895655">
+<NAME>Study discontinuation due to intermenstrual bleeding</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="2.8627944489440145" CI_START="0.32676758863950484" EFFECT_SIZE="0.9671961739233649" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="7" LOG_CI_END="0.4567901664309222" LOG_CI_START="-0.48576102672064553" LOG_EFFECT_SIZE="-0.014485430144861627" ORDER="6984" O_E="-0.1088082901554408" SE="0.5536592365608844" STUDY_ID="STD-Percival_x002d_Smith-1990" TOTAL_1="98" TOTAL_2="95" VAR="3.262232431295695" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2011-05-03 21:53:02 +0200" MODIFIED_BY="Laureen M Lopez">
+<APPENDIX ID="APP-01" MODIFIED="2011-05-03 21:52:53 +0200" MODIFIED_BY="Laureen M Lopez" NO="1">
+<TITLE MODIFIED="2011-05-03 21:52:46 +0200" MODIFIED_BY="Laureen M Lopez">Previous search strategies</TITLE>
+<APPENDIX_BODY MODIFIED="2011-05-03 21:52:46 +0200" MODIFIED_BY="Laureen M Lopez">
+<SUBSECTION>
+<HEADING LEVEL="3">Initial review (2006) and 2008 update</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">EMBASE</HEADING>
+<P>1. oral contraceptive agent<BR/>2. biphasic<BR/>3. triphasic<BR/>4. multiphasic<BR/>5. 2 OR 3 OR 4<BR/>6. 1 AND 5<BR/>7. monophasic<BR/>8. 6 AND 7</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">CENTRAL</HEADING>
+<P>1. (contraceptives and oral)<BR/>2. monophasic<BR/>3. biphasic<BR/>4. triphasic<BR/>5. multiphasic<BR/>6. (((#2 or #3) or #4) or #5)<BR/>7. (#1 and #6)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">POPLINE</HEADING>
+<P>(kw) oral contraceptives<BR/>AND<BR/>(tw) (monophasic OR biphasic OR triphasic OR multiphasic)<BR/>AND<BR/>(tw) (compar* OR clinical trials OR comparative studies OR random OR double blind studies)</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">ClinicalTrials.gov</HEADING>
+<P>Search terms: biphasic OR triphasic OR multiphasic<BR/>Condition: oral contraceptive</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">ICTRP</HEADING>
+<P>Title: monophasic OR biphasic OR triphasic OR multiphasic<BR/>Intervention or condition: contraception OR contraceptive</P>
+</SUBSECTION>
+</SUBSECTION>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

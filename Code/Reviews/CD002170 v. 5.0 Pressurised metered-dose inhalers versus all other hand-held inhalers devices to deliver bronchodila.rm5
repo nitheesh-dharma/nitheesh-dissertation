@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002170" GROUP_ID="AIRWAYS" ID="485499082312163651" MERGED_FROM="" MODIFIED="2009-05-26 12:32:39 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Exported from Review Manager 4.2.1&lt;br&gt;5/6/2001 Technical Editing &lt;br&gt;Dear Felix,&lt;br&gt;Please re-enter the data putting the pMDI in the first column for all outcomes.  The graphs will need to be re-labelled accordingly for the ones that are changed. I have run spell check on the text.&lt;br&gt;Abstract background:&lt;br&gt;&amp;quot;There is a need to optimise delivery systems that may prevent excessive use of inhaled medication.&amp;quot;  This is only one angle and does not appear very balanced?&lt;br&gt;Methods:&lt;br&gt;Is it reasonable to abandon the data presented as adjusted means from Iacono?&lt;br&gt;Cheers,&lt;br&gt;Chris&lt;/p&gt;&lt;p&gt;6/6/2001 Reviewer reply (Felix)&lt;br&gt;Dear Chris,&lt;br&gt;Thanks for your comments.  &lt;/p&gt;&lt;p&gt;All data has been re-entered and graphs re-labelled. &lt;/p&gt;&lt;p&gt;Abstract background: agree, replaced sentence and revised. &lt;/p&gt;&lt;p&gt;We thought it was reasonable to abondon the Iacono study data as we did not want to combine raw (unadjusted) data with adjusted data for obvious reasons. I have since created another a new comparison (3) and entered the data from Iacono separately (as ADJUSTED DATA) and it would have been entered separately in any case as the device used was Respimat which is different from the devices used in the other two included studies.  &lt;/p&gt;&lt;p&gt;The old comparison 3 which combined comparisons 1 &amp;amp; 2 have been deleted as we have previously agreed not to combine different DPI's using SMD (as in the review with bronchodilators in asthma).&lt;/p&gt;&lt;p&gt;12/6/2001 CJC&lt;br&gt;Thanks Felix.  Metaview looks fine now.  I am happy for this go on to Paul and would value his comments as to whether the results of the single study should be presented numerically in the text (IACONO) and what about the clinical implications when such high doses are used to make these comparisons?  What is a Respimat anyway???&lt;br&gt;Chris&lt;/p&gt;" NOTES_MODIFIED="2009-05-26 11:31:08 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" REVIEW_NO="MDIV-COP" REVMAN_SUB_VERSION="5.0.20" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="5.0">
+<COVER_SHEET MODIFIED="2009-05-26 12:32:39 +0200" MODIFIED_BY="Toby Lasserson">
+<TITLE>Pressurised metered-dose inhalers versus all other hand-held inhalers devices to deliver bronchodilators for chronic obstructive pulmonary disease</TITLE>
+<CONTACT MODIFIED="2009-05-26 12:32:39 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="8583" ROLE="AUTHOR"><PREFIX>Mr</PREFIX><FIRST_NAME>Toby</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Lasserson</LAST_NAME><POSITION>Managing Editor, Cochrane Airways Group</POSITION><EMAIL_1>tlassers@sgul.ac.uk</EMAIL_1><URL>www.airways.cochrane.org</URL><ADDRESS><DEPARTMENT>Community Health Sciences</DEPARTMENT><ORGANISATION>St George's, University of London</ORGANISATION><ADDRESS_1>Cranmer Terrace</ADDRESS_1><ADDRESS_2>Tooting</ADDRESS_2><CITY>London</CITY><ZIP>SW17 ORE</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+20 8725 2790</PHONE_1><FAX_1>+20 8725 3584</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2009-05-26 12:32:39 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="19428" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Felix</FIRST_NAME><MIDDLE_INITIALS>SF</MIDDLE_INITIALS><LAST_NAME>Ram</LAST_NAME><POSITION>Senior Lecturer in Respiratory Medicine &amp; Clinical Pharmacology</POSITION><EMAIL_1>fsfram@yahoo.co.uk</EMAIL_1><ADDRESS><DEPARTMENT>School of Health Sciences</DEPARTMENT><ORGANISATION>Massey University - Auckland</ORGANISATION><ADDRESS_1>24 Portsea Place</ADDRESS_1><ADDRESS_2>Chatswood, North Shore</ADDRESS_2><CITY>Auckland</CITY><COUNTRY CODE="NZ">New Zealand</COUNTRY><FAX_1>+64 9 419 6435</FAX_1></ADDRESS></PERSON><PERSON ID="12391" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>David</FIRST_NAME><MIDDLE_INITIALS>DM</MIDDLE_INITIALS><LAST_NAME>Brocklebank</LAST_NAME><POSITION>Consultant Physician</POSITION><EMAIL_1>brocklebank@freeuk.com</EMAIL_1><ADDRESS><DEPARTMENT>Respiratory Medicine</DEPARTMENT><ORGANISATION>Alexandra Hospital</ORGANISATION><ADDRESS_1>Woodrow Drive</ADDRESS_1><CITY>Redditch</CITY><ZIP>B98  7UB</ZIP><COUNTRY CODE="GB">UK</COUNTRY></ADDRESS></PERSON><PERSON ID="8592" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Martin</FIRST_NAME><LAST_NAME>Muers</LAST_NAME><POSITION>Consultant Physician</POSITION><ADDRESS><ORGANISATION>Leeds General Infirmary</ORGANISATION><ADDRESS_1>Great George Street</ADDRESS_1><CITY>Leeds</CITY><ZIP>LS1 3EX</ZIP><REGION>Yorkshire</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 113 3925299</PHONE_1></ADDRESS></PERSON><PERSON ID="8332" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>John</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Wright</LAST_NAME><POSITION>Director of Research</POSITION><EMAIL_1>john.wright@bradfordhospitals.nhs.uk</EMAIL_1><ADDRESS><DEPARTMENT>Bradford Institute for Health Research</DEPARTMENT><ORGANISATION>Bradford Royal Infirmary</ORGANISATION><ADDRESS_1>Duckworth Lane</ADDRESS_1><CITY>Bradford</CITY><ZIP>BD9 6RJ</ZIP><REGION>W. Yorkshire</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 1274 384279</PHONE_1></ADDRESS></PERSON><PERSON ID="7702" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Paul</FIRST_NAME><LAST_NAME>Jones</LAST_NAME><POSITION>Professor</POSITION><EMAIL_1>pjones@sgul.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Cardiovascular Medicine</DEPARTMENT><ORGANISATION>St George's Hospital Medical School</ORGANISATION><ADDRESS_1>Cranmer Terrace</ADDRESS_1><CITY>London</CITY><ZIP>SW17 0RE</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 20 8725 5371</PHONE_1><FAX_1>+44 20 8725 5955</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-08-22 10:36:20 +0100" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Minor update: 25/11/01&lt;/p&gt;" NOTES_MODIFIED="2008-08-22 10:36:20 +0100" NOTES_MODIFIED_BY="Toby Lasserson">
+<UP_TO_DATE>
+<DATE DAY="25" MONTH="11" YEAR="2001"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="25" MONTH="11" YEAR="2001"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="30" MONTH="11" YEAR="2001"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="3" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2001"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2002"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="18" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="25" MONTH="11" YEAR="2001"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>NHS R&amp;D Health Technology Assessment Programme</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Felix Ram received funding from The Netherlands Astma Fonds</NAME>
+<COUNTRY CODE="NL">Netherlands</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-08-18 16:54:19 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2008-08-18 16:51:17 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-08-18 16:51:17 +0100" MODIFIED_BY="Toby J Lasserson">Pressurised metered-dose inhalers versus all other hand-held inhalers devices to deliver bronchodilators for chronic obstructive pulmonary disease</TITLE>
+<SUMMARY_BODY>
+<P>This review involved the assessment of different inhaler devices for delivery of inhaled bronchodilators in stable chronic obstructive pulmonary disease (COPD). Studies included in this review involved pressurised metered dose inhalers (pMDI) being compared to any other handheld inhaler device containing bronchodilators. Only three randomised controlled trials met the inclusion criteria. Due to the very small number of studies included in this review, it is not possible to draw any conclusions on the use of inhaler devices containing bronchodilators in COPD. There need to be further well designed randomised controlled trials examining the role of bronchodilators in COPD.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Bronchodilator therapy for COPD may be delivered by a number of different inhaler devices.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine the efficacy of pressurised metered dose inhalers (pMDI) compared to any other handheld inhaler device for the delivery of bronchodilators in non-acute COPD.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>The Cochrane Collaboration, Asthma and Wheeze Randomised Controlled Clinical Trials register was searched for studies. The UK pharmaceutical companies who manufacture inhaled COPD medication were also contacted.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Two reviewers independently reviewed the results of computerised search and any potentially relevant articles were obtained in full.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>One reviewer extracted details of each trial and a second reviewer checked all extracted data. Dichotomous outcomes such as exacerbation rate were assessed using relative risk, with 95% confidence interval (CI).</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Fourteen studies appeared potentially relevant but only three studies (61 patients) met the entry criteria. Two studies compared a dry powder device (Turbuhaler or Rotahaler) with a pMDI for beta2-agonist delivery, and one (36 patients cross-over design) the Respimat (soft mist device for ipratropium) vs a pMDI. For the Turbuhaler and Rotahaler, none of the reported outcome measures were significantly different. The Rotahaler study used a high and low dose of medication with or without large volume spacer. The study using the Respimat showed significant increases in FEV1 when compared to a pMDI (difference in change from base line 70 ml, 95% CI 10, 130 ml). The effect on change in FVC was of similar size. There were no differences between these two devices for any other reported outcomes. </P>
+<P>Although none of the included studies required prior patient ability to use any of the inhalers (and no study mentioned device training), it was assumed that all patients randomised into the study would have undergone training in use of the study inhalers and were capable of using those devices.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>In patients with stable COPD, pMDI produced similar outcomes to a dry powder device for delivering beta2-agonists, but the very small number of studies and included patients does not permit firm conclusions to be drawn. The soft mist device for ipratropium was more effective than a pMDI, but the data come from one small study. There need to be further well designed randomised controlled trials to define the role of inhaler devices using bronchodilators in stable COPD.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-08-18 16:54:19 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND>
+<P>Recently published guidelines for the investigation and management of chronic obstructive pulmonary disease (COPD) have emphasised the importance of bronchodilator therapy in this disease (<LINK REF="REF-ATS-1995" TYPE="REFERENCE">ATS 1995</LINK>, <LINK REF="REF-BTS-1997" TYPE="REFERENCE">BTS 1997</LINK>, <LINK REF="REF-ERS-1995" TYPE="REFERENCE">ERS 1995</LINK>). As opposed to asthma, achievable bronchodilatation or lung function reversibility is widely variable in COPD, with many patients showing (at least acutely) some degree of reversibility (<LINK REF="REF-Nisar-1990" TYPE="REFERENCE">Nisar 1990</LINK>). This highlights the importance of optimising delivery systems that may prevent excessive use of inhaled medication (<LINK REF="REF-O_x0027_Driscoll-1997" TYPE="REFERENCE">O'Driscoll 1997</LINK>). The role of bronchodilators in this disease is for symptom relief however evidence suggest that bronchodilators do not affect prognosis (<LINK REF="REF-Anthonisen-1994" TYPE="REFERENCE">Anthonisen 1994</LINK>) therefore this aspect of their effectiveness will not be considered in this review. </P>
+<P>This review was confined to the assessment of different inhaler devices for the delivery of inhaled medication in COPD. Salbutamol is the most widely used bronchodilator in the UK however in the US ipratropium bromide is the frontline bronchodilator. This review proposes an analysis of choice of delivery system using either of these classes of agent.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To determine the clinical effectiveness of pressurised metered dose inhalers (pMDI) with or without spacer device compared to any other handheld inhaler device for the delivery of bronchodilators (short acting beta-2 agonist or ipratropium bromide) in patients with stable COPD.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-08-18 16:51:59 +0100" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA MODIFIED="2008-08-18 16:51:59 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>Randomised controlled trials were only considered. Studies were either laboratory or community based and were of any duration involving patients with non-acute COPD.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Studies were considered in patients who fitted internationally accepted criteria for the definition of COPD (e.g. ATS, BTS or ERS guidelines). Studies were also considered if they met a practical definition of chronic airflow obstruction in the appropriate clinical setting of older (&gt; 30 years), usually (ex-) smoking patients having an FEV1 &lt;70% and FEV1/FVC &lt;70% of predicted or were diagnosed by a (respiratory) physician as having COPD. Whether or not patients were able to use a particular inhaler prior to study entry did not affect the inclusion of that study. It was understood that all patients would probably undergo training in use of the inhaler for the study.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Studies were considered which described the use of pMDI (with or without spacer device) compared with any other hand-held inhaler for the delivery of the same bronchodilator. Co-intervention and or contamination (e.g. from crossover designs) which may have occurred were recorded where data was available.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-08-18 16:51:59 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>
+<BR/>
+</P>
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-08-18 16:51:52 +0100" MODIFIED_BY="Toby J Lasserson">
+<OL>
+<LI>Physiological lung function measurements (e.g. FEV1, FVC, PEFR, FRC and TLC)</LI>
+<LI>Validated quality of life measures (e.g. St George's or Chronic Respiratory Disease Questionnaire)</LI>
+</OL>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2008-08-18 16:51:56 +0100" MODIFIED_BY="Toby J Lasserson">
+<OL>
+<LI>Symptom scores</LI>
+<LI>Use of additional relief medication</LI>
+<LI>Use of inhaled or oral steroid requirement (maintenance, rescue)</LI>
+<LI>Severity of disease</LI>
+<LI>Days off work</LI>
+<LI>Compliance</LI>
+<LI>Patient preference</LI>
+<LI>Side effects</LI>
+<LI>Measures of systemic bioavailability</LI>
+<LI>Subsidiary physiological measures (e.g. 6 or 12 minute walks and arterial blood gases)</LI>
+<LI>Acute exacerbations (hospital admissions and unscheduled primary care attendance)</LI>
+</OL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>The Cochrane Collaboration, Asthma and Wheeze Randomised Controlled Clinical Trials register was searched for studies as well as separate additional searches carried out on MEDLINE (1966-Dec 2000), EMBASE (1980-Dec 2000), CINAHL (1982-Dec 2000) and also on the CURRENT CONTENTS INDEX (1995-Dec 2000) as well as the SCIENCE CITATION INDEX (1995-Dec 2000). Citations were reviewed without language restriction. </P>
+<P>All searches were conducted using the following search terms:</P>
+<P>a) inhaler OR spacer* OR holding chamber OR volumatic OR nebuhaler OR aerochamber* OR fisonair OR extension OR spacing device OR inspirease OR accuhaler OR diskhaler OR turbohaler OR turbuhaler OR easibreathe OR autohaler OR rotahaler OR dry powder OR MDI OR DPI OR CFC-free OR HFA*</P>
+<P>AND </P>
+<P>b) salbutamol OR ventolin OR albuterol OR terbutaline OR bricanyl OR ipratropium OR atrovent OR oxitropium OR oxivent </P>
+<P>The reference lists of all included studies and review articles were checked in order to identify any further relevant citations not captured by electronic and manual searches. Authors of included RCTs were contacted for any other unpublished studies and also if more data or clarification was required.</P>
+<P>In addition, UK pharmaceutical companies who manufacture inhaled COPD medication were contacted in order to obtain details of any further published or unpublished studies.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>Selection of trials:</P>
+<P>Two reviewers independently reviewed the results of computerised search based on study title, abstract and key words/MESH headings, any potentially relevant articles were obtained in full.</P>
+<P>The full text of all potentially relevant articles were reviewed independently by the same two reviewers to assess each study according to previously written criteria. Written criteria included: (1) trials of a single bronchodilator (short-acting) delivered by a standard pMDI (with or without spacer) versus any other hand-held inhaler device in stable COPD, (2) randomised controlled trial, (3) patients with COPD diagnosed according to established internationally accepted guidelines (e.g. BTS, ATS, ERS) or by using a practical and objective definition of COPD &amp; (4) laboratory or community based study of any duration involving one of the following drug: salbutamol OR ventolin OR albuterol OR terbutaline OR bricanyl OR ipratropium OR atrovent OR oxitropium OR oxivent. </P>
+<P>Agreement between the two reviewers on inclusion of studies was complete. In all cases disagreements about inclusion of a study was resolved by consensus. </P>
+<P>Selected studies subsequently excluded on methodological grounds were identified and the reason for exclusion recorded in 'Table of Excluded Studies'. </P>
+<P>Quality assessment:</P>
+<P>Methodological quality assessment was performed using the following methods. Firstly using the Cochrane approach for the assessment of allocation concealment all trials were scored according to the following grades:<BR/>
+<BR/>Grade A: Adequate concealment <BR/>Grade B: Uncertain<BR/>Grade C: Clearly inadequate concealment<BR/>Grade D: Not used </P>
+<P>In addition, each study was assessed using the 0-5 scale described by Jadad et al. (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>) and summarised as follows: </P>
+<P>1) Was the study described as randomised (1=yes; 0=no)?<BR/>2) Was the study described as double blind (1=yes; 0=no)?<BR/>3) Was there a description of withdrawals and dropouts (1=yes; 0=no)?<BR/>4) Was the method of randomisation well described and appropriate (1=yes; 0=no)?<BR/>5) Was the method of double blinding well described and appropriate (1=yes; 0=no)?<BR/>6) Deduct 1 point if methods for randomisation or blinding were inappropriate</P>
+<P>Data extraction:</P>
+<P>Details of each trial (e.g. intervention, duration, participants, design and outcome measures) were extracted and recorded in the table "Characteristics of included studies". First author of included studies were contacted to provide additional information or further data for the study.</P>
+<P>Statistical considerations</P>
+<P>Trials were combined for meta-analysis using Review Manager 4.1. Only trials with the same inhaler device being compared to the pMDI were combined, as different inhaler devices were kept as separate comparisons. Fixed and or random effect models were used. Dichotomous outcomes such as exacerbation rate were assessed using relative risk (with 95% CI). However, most of the outcomes of interest in COPD are either continuous or categorical data such as the level of symptoms, which is usually treated as if it were continuous data. Data from each of the continuous outcomes were analysed as weighted mean differences (with 95% CI), or standardised mean differences if different scales were used.</P>
+<P>If there were sufficient number of included studies sub-group analysis would have been carried out using: type of bronchodilator, age and disease severity. For each outcome measure, the null hypothesis that there is no heterogeneity between included RCTs was tested. Sensitivity tests were used to investigate any possible heterogeneity in the size of the measured response attributable to the sub-groups identified above and due to study quality. If sufficient studies were included, funnel plots would have been constructed for the outcome measures in order to test for possible publication bias.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-08-18 16:54:19 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-08-18 16:54:19 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Formgren 1994 (<LINK REF="STD-Formgren-1994a" TYPE="STUDY">Formgren 1994a</LINK>; <LINK REF="STD-Formgren-1994b" TYPE="STUDY">Formgren 1994b</LINK>)</P>
+<P>Study design &amp; Inclusion: <BR/>Randomised double-blind, double- dummy, crossover study. Study did not have a power calculation for either device superiority or equivalence and the authors did not state their intention but mentioned that the study was designed to compare the effects of lung function of terbutaline inhaled via a CFC pMDI and via Turbuhaler. A one week run-in period was used during which PEFR was measured 5 times a day and patients were included in the study if their diurnal PEF variation did not exceed 15%. Previous patient familiarisation with either the Turbuhaler or the pMDI was not mentioned as a requirement for study entry. </P>
+<P>Patient characteristics: <BR/>15 hospitalised adult patients (4 women) in stable phase of their disease without recent exacerbations and medication unchanged in weeks. All patients were ex-smokers and upon admission all patients demonstrated a &gt;=15% response in FVC and or a decrease in RV without increase (&lt;15%) in FEV1 after inhalation of a beta-2 agonist (4 x 0.1 mg salbutamol or 4 x 0.25 mg terbutaline). COPD diagnoses was based on clinical history, X-ray, spirometry and body plethysmography after a run-in period of 1 week. Mean age 61 years (SD 9, range 44-72), mean % predicted FEV1=35.6% (range 23-48), mean disease duration 11.6 years (range 1-42). Mean basal FEV1 over the five study days for all patients did not vary greater outside 1.0 to 1.1 L. </P>
+<P>Device: Turbuhaler vs. pMDI. A Turbuhaler is a dry powder inhaler containing no propellants or drug-carriers (e.g. lactose). It is primed by twisting twice the bottom half of the device and the patients breathes through the mouth piece with is located at the top of the inhaler. As a result of the patient breathing-in, medication is propelled through the length of the device and through the mouthpiece. The spiral effect of the internal structure of the device helps propel the medication through the device when the patients breathe through the mouth piece located at the top of the inhaler. </P>
+<P>Drug &amp; Dosing: <BR/>Terbutaline (1.0 mg = 2 doses of 0.5 mg) via Turbuhaler and placebo CFC pMDI (four doses); Terbutaline (1.0 mg = 4 doses of 0.5 mg) via CFC pMDI and placebo Turbuhaler (2 doses); Terbutaline (2.5 mg = 5 doses of 0.5 mg) via Turbuhaler and placebo CFC pMDI with Nebuhaler spacer (ten doses); Terbutaline (2.5 mg = 10 doses of 0.25 mg) via CFC pMDI with Nebuhaler and placebo Turbuhaler (five doses); placebo Turbuhaler (five doses) and placebo CFC pMDI with Nebuhaler (ten doses). The two different doses (1.0 mg &amp; 2.5 mg) in this study were entered in RevMan as two references for ease of data entry. </P>
+<P>Duration of study &amp; measurements: <BR/>All treatments and measurements commenced at 0730 hours on each study day with an interval of at least 48 hours. On each study day, the patients underwent lung function measurements using body plethysmograph with registration of lung volumes before and after medication. Study measurements were made 10 minutes before and 5, 20 and 40 minutes after inhalation of test drug. Reported results included: FEV1, FVC, RV &amp; SGaw. Results entered into the review were 40 minutes post bronchodilator. Treatment failures and adverse events were mentioned in study text. Data was reported at 40 minutes after study drug administration as absolute change from baseline. </P>
+<P>
+<LINK REF="STD-Iacono-2000" TYPE="STUDY">Iacono 2000</LINK>
+</P>
+<P>Study design &amp; Inclusion:<BR/>Randomised double blind, three-period crossover study. Interval of at least 2 days between treatment crossover. Study did report a power calculation for equivalence between Respimat and pMDI. A null hypothesis was proposed that FEV1 measured 45-245 minutes after the first inhalation dose would differ by more than 0.12 L between the two treatments. Thirty-six patients were required for an equivalence region of +-0.12 L. Previous patient familiarisation with either the Respimat or the pMDI was not mentioned as a requirement for study entry. </P>
+<P>Patient characteristics:<BR/>Thirty-six patients (7 women) presenting with stable COPD were recruited from outpatient chest clinic. COPD defined according to ATS 1987 criteria with no change in medication six weeks prior to screening visit, patient not on chronic oxygen therapy, oral corticosteroids, beta-blockers, antihistamines or cromolyn/nedocromil sodium. Stable use of inhaled corticosteroids was permitted. Patient baseline characteristics were, mean (SD): Age 52(6) years, FEV1 L 1.8(0.4), FVC L 3.0 (0.6), FEV1 % predicted 52.6(8.9), FVC% 72.1 (10.6), FEV1/FVC% 59.4 (7.7), FEV1 reversibility % 30.7 (7.7), smoking pack year history 49(15) and none of the patients were current smokers. </P>
+<P>Device: Respimat vs. pMDI. <BR/>Respimat device is much like the standard pMDI in shape but it is a reusable, propellant-free, soft mist inhaler. The aerosol it produces has a narrow droplet size distribution, a high proportion of the dose in the fine particle fraction (mass median diameter &lt;5.8 um), and a particle velocity about one-fifth of that of the spray released from standard pMDI. This device was developed, as small particle size and low velocity are know to be important for optimal lung deposition (<LINK REF="REF-Newman-1998" TYPE="REFERENCE">Newman 1998</LINK>). </P>
+<P>Drug &amp; Dosing:<BR/>Patients received cumulative doses of ipratropium bromide for 1 + 1 + 2 + 4 + 8 puffs inhaled at 50 minute intervals from one of the devices: Respimat 10 mcg/puff, Respimat 20 mcg/puff and pMDI 20 mcg/puff. For the purposes of this review, only the 20 mcg comparisons were used which had a total administered dose of 320 mcg. The treatment was open label between devices (Respimat vs pMDI) but was double-blinded for the two Respimat doses. </P>
+<P>Duration of study &amp; measurements:<BR/>180 minutes after the last dose of medication. Spirometry (FEV1, FVC) was performed before and 45, 60, 90, 120 &amp; 180 min after the last dose of bronchodilator. Reported results included: adverse events, heart rate, blood pressure, QTc interval, RV &amp; SGaw. All reported data were adjusted with baseline as covariant.</P>
+<P>Ikeda 1999 (<LINK REF="STD-Ikeda-1999a" TYPE="STUDY">Ikeda 1999a</LINK>; <LINK REF="STD-Ikeda-1999b" TYPE="STUDY">Ikeda 1999b</LINK>)<BR/>
+<BR/>Study design &amp; Inclusion:<BR/>Randomised double-blind, double- dummy, three-period crossover study. Interval between crossover ranged from 2 to 4 days. Study did not have a power calculation for either device superiority or equivalence and the authors did not state their intention but mentioned that the study was designed to compare the bronchodilator effects of salbutamol delivered via three devices (Rotahaler, pMDI, nebuliser). For the purposes of this review, only the Rotahaler and pMDI data were used. Previous patient familiarisation with either the Rotahaler or the pMDI was not mentioned as a requirement for study entry. </P>
+<P>Patient characteristics:<BR/>10 male patients with stable COPD recruited from outpatient chest clinic. No exacerbation's of COPD during the preceding 3 months, no heart disease or other illness and no treatment with oral bronchodilators, theophylline and oral or inhaled corticosteroids during 4 weeks preceding the study. Baseline characteristics include, mean (SD): age 67(4) years, FEV1 L 1.56(0.32) = 60% predicted, smoking pack year history 52(21) and none of the patients were current smokers. </P>
+<P>Device: Rotahaler vs. pMDI. <BR/>The Rotahaler device is a dry powder device, which requires to be loaded each time with a capsule that contains the medication and the carrier (lactose). The device needs to be taken apart in order to load the capsule which is than pierced and the medication is than breathed-in through the mouthpiece located at the top of the device. A rotor at the bottom of the device propels the drug through the device when a patient inhales. This is an old device now rarely used and has been superseded by newer devices. Unlike the pMDI this device does not have any propellants and therefore does not have the "cold feron" effect often felt with the pMDI. However, the Rotahaler device is reusable since only more capsules are required to be purchased. </P>
+<P>Drug &amp; Dosing:<BR/>Salbutamol 200 mcg and 1 mg via Rotahaler or pMDI with large volume (750 ml) spacer. Each treatment regime consisted of the administration of 5 capsules via Rotahaler and 10 puffs via the pMDI. The dose of 200 mcg via the Rotahaler was administered as one active 200 mcg capsule and 4 matching placebos, that of the 200 mcg via the pMDI was administered as 2 puffs of active (100 mcg /puff) drug and 8 puffs of placebo. </P>
+<P>Duration of study &amp; measurements:<BR/>Study measurements were done till 240 minutes after the last dose of study medication with spirometry performed before and 15, 30, 60, 90, 120 &amp; 240 minutes post bronchodilator but only FEV1 max &amp; AUC-FEV1 data were reported. Treatment failures and adverse events were also mentioned. Two doses used in study, therefore separated as two references for ease of data entry into RevMan. Data was reported as absolute mean value at the end of the study period. The 30 minute data was used, as it was the closest match to the data reported by another similar study (Formgren 1994). </P>
+<P>Further details for the three included studies can be found in the table "Characteristics of included studies".</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>The three included studies were of good quality designs with the Ikeda 1999 and <LINK REF="STD-Iacono-2000" TYPE="STUDY">Iacono 2000</LINK> trials scoring an 'A' (for Cochrane quality) and the Formgren 1994 trial scoring a 'B'. All studies scored 5 when the Jadad scale was used, indicating that they were of high methodological quality.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-08-18 16:52:35 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>From the search of the Cochrane Airways Group register, 1,565 abstracts were identified for possible inclusion in the review. Eight abstracts were selected by two reviewers as possibly being appropriate for inclusion in the review and six abstracts were obtained from bibliographies of retrieved articles. A total of 14 full text papers were retrieved for possible inclusion. After reading the full text of these 14 studies, nine were excluded as not appropriate, a further two were excluded on methodological grounds and the remaining three included in the review. Reasons for exclusion of the 11 studies are listed in the table for "Characteristics of excluded studies".</P>
+<P>Data abstracted from the three included studies provided the following non-significant results.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Turbuhaler (containing terbutaline)</HEADING>
+<P>The following outcome measures were not statistically significant: FEV1, FVC, RV, SGaw, treatment failures and adverse effects.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Rotahaler (containing salbutamol)</HEADING>
+<P>The following outcome measures were not statistically significant: FEV1, AUC-FEV1, FVC, pulse rate, systolic blood pressure, diastolic blood pressure, treatment failures and adverse effects.</P>
+<P>The outcome measures were not significantly different whether high or low doses of medication were used or whether a spacer device was used with the pMDI.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Respimat (containing ipratropium bromide)</HEADING>
+<P>One study (<LINK REF="STD-Iacono-2000" TYPE="STUDY">Iacono 2000</LINK>) presented results as adjusted means, which showed that FEV1 and FVC were significantly greater with the use of Respimat inhaler device as opposed to the pMDI (without a spacer). There were no differences between the two devices in pulse rate and adverse events. Unfortunately, there were no other included studies, which used the Respimat device, so these results need to be confirmed by other similar RCT's.</P>
+<P>Data were not available for the following outcome measures: quality of life measures, symptom scores, use of additional relief medication, use of inhaled or oral steroid requirement, severity of disease, days off work, compliance, patient preference, systemic bio-availability, subsidiary physiological measures (e.g. 6 or 12 minute walks, arterial blood gases) and acute exacerbations. In addition, there was insufficient number of included studies for sub-group analysis.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>In patients with stable COPD, pMDI produced similar outcomes to a dry powder device for delivering beta2-agonists, but the very small number of studies and included patients does not permit firm conclusions to be drawn. The soft mist device for ipratropium was more effective than a pMDI, but the data come from one small study. </P>
+<P>A comprehensive search strategy was developed for this review. Every effort was made to identify all of the relevant studies. No study was excluded due to language. While several attempts were made to identify unpublished work, it is still possible that some studies have been missed. However, the small number of eligible studies was not due to restricted selection criteria, but rather to the absence of identified RCTs evaluating inhaler devices (pMDI &amp; DPI's) containing bronchodilators in COPD.</P>
+<P>A common problem with conducting such a systematic review was that the included studies were designed as tests of the superiority of one device over another in which the null hypothesis was of equal efficacy. Such studies require fewer patients than those designed to test equivalence (null hypothesis than one device is superior to the other) and they also require pre-determined limits of equivalence as in <LINK REF="STD-Iacono-2000" TYPE="STUDY">Iacono 2000</LINK> although this study was powered for superiority to test equivalence. Thus the three studies may have been underpowered. Failure to detect a difference should not necessarily imply equivalence as trials designed to compare efficacy increase the chances of type II error. </P>
+<P>Another problem with such trials is that patients are usually selected on the basis of being able to use a pMDI as an inclusion criteria, therefore the results would favour pMDI use. In the three RCTs included in this review previous patient familiarisation with either the pMDI or the DPIs were not mentioned as a requirement for study entry. Therefore the limited results presented from these three RCTs can be applied to most patients with stable COPD. Although, adequate pMDI use was not a requirement for entry into the study, we should assume that all patients recruited into these three RCTs were taught to use both the pMDI and the DPIs prior to commencing the study. </P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-08-18 16:50:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<IMPLICATIONS_PRACTICE MODIFIED="2008-08-18 16:50:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>In patients with stable COPD, the pMDI device produced similar outcomes to a dry powder device for delivering beta2-agonists, but the very small number of studies and included patients does not permit firm conclusions to be drawn. The soft mist device for ipratropium was more effective than a pMDI, but the data come from one small study.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>There needs to be further randomised controlled trials examining the role of inhaler devices containing bronchodilators in COPD.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2008-08-18 16:50:43 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We would like to acknowledge the assistance provided by the Cochrane Airways Review Group (CAG) staff at St George's Hospital in London (Mr Steve Milan, Mrs Karen Blackhall, Ms Bettina Reuben) in identifying trials from the Cochrane Airways register, obtaining copies of papers and for their help and support. We like to thank Professor Paul Jones for his input as the co-ordinating editor of the CAG. We would also like to thank Drs Akihiko Ikeda and P Iacono for responding to our correspondence and supplying additional data for this review. We acknowledge the contribution of Felix Ram to previous versions of this review. </P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>There are no known conflicts of interest.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2008-08-18 16:50:22 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Felix Ram (previous author) carried out all of the work involved in this review with help from the following people. David Brocklebank was involved in the duplicate screening of abstracts and full text papers for inclusion. John Wright was the third reviewer whose opinions were sort if disagreements persisted for study inclusion he also commented on draft versions. Martin Muers was involved in the early developmental stages of the review and also commented on the draft versions of the review. Paul Jones edited and revised many versions of the review before approval for the Cochrane library. </P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-08-18 16:55:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDIES MODIFIED="2008-08-18 16:55:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<INCLUDED_STUDIES MODIFIED="2008-08-18 16:54:19 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Formgren-1994a" MODIFIED="2008-08-18 16:53:56 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Formgren 1994a" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;Written to author for further info (22/12/99).  Entered twice as reference in order to be able to enter the two doses used in the study (1 &amp;amp;2.5mg).&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Formgren H, Sjokvist A, Stahl E, Wiren JE</AU>
+<TI>Terbutaline in COPD comparison between turbuhaler and chloroflurocarbon (CFC) inhaler</TI>
+<SO>Lung</SO>
+<YR>1994</YR>
+<VL>172</VL>
+<PG>271-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Formgren-1994b" MODIFIED="2008-08-18 16:54:04 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Formgren 1994b" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;Entered twice as reference in order to be able to enter the two doses used in the study (1 &amp;amp;2.5mg).&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Formgren H, Sjokvist A, Stahl E, Wiren JE</AU>
+<TI>Terbutaline in COPD comparison between turbuhaler and chloroflurocarbon (CFC) inhaler</TI>
+<SO>Lung</SO>
+<YR>1994</YR>
+<VL>172</VL>
+<PG>271-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Iacono-2000" NAME="Iacono 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Iacono P, Velicitat P, Guemas E, Leclerc V, Thebault JJ</AU>
+<TI>Improved delivery of ipratropium bromide using Respimat (a new soft mist inhaler) compared with a conventional metered dose inhaler: cumulative dose response study in patients with COPD</TI>
+<SO>Respiratory Medicine</SO>
+<YR>2000</YR>
+<VL>94</VL>
+<NO>5</NO>
+<PG>490-5</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="MEDLINE" VALUE="PMID: 10868713"/>
+<IDENTIFIER TYPE="OTHER" VALUE="UI: 20324565"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Ikeda-1999a" MODIFIED="2008-08-18 16:54:12 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Ikeda 1999a" YEAR="1999">
+<REFERENCE NOTES="&lt;p&gt;Written to author for further info (22/12/99).  Entered twice as reference in order to be able to enter the two doses used in the study (0.2 &amp;amp; 1mg).  22/2/2000: email form author with all the required details of the study including data.  23/02/2000: Author replies again with more data on blood pressure, via email, attached updated excel sheet.&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Ikeda A, Nishimura K, Koyama H, Tsukino M, Hajiro T, Mishima M, et al</AU>
+<TI>Comparison of the bronchodilator effects of salbutamol delivered via a metered-dose inhaler with spacer, a dry-powder inhaler, and a jet nebulizer in patients with chronic obstructive pulmonary disease</TI>
+<SO>Respiration</SO>
+<YR>1999</YR>
+<VL>66</VL>
+<PG>119-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Ikeda-1999b" MODIFIED="2008-08-18 16:54:19 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Ikeda 1999b" YEAR="1999">
+<REFERENCE NOTES="&lt;p&gt;Entered twice as reference in order to be able to enter the two doses used in the study (0.2 &amp;amp; 1mg).  22/2/2000: email form author with all the required details of the study including data.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ikeda A, Nishimura K, Koyama H, Tsukino M, Hajiro T, Mishima M, et al</AU>
+<TI>Comparison of the bronchodilator effects of salbutamol delivered via a metered-dose inhaler with spacer, a dry-powder inhaler, and a jet nebulizer in patients with chronic obstructive pulmonary disease</TI>
+<SO>Respiration</SO>
+<YR>1999</YR>
+<VL>66</VL>
+<PG>119-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-08-18 16:55:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Bellamy-1981" NAME="Bellamy 1981" YEAR="1981">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bellamy D, Hutchison DC</AU>
+<TI>The effects of salbutamol aerosol on lung function in patients with pulmonary emphysema</TI>
+<SO>British Journal of Diseases of the Chest</SO>
+<YR>1981</YR>
+<VL>75</VL>
+<NO>2</NO>
+<PG>190-6</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 82000341"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cushley-1983" NAME="Cushley 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cushley MJ, Lewis RA, Tattersfield AE</AU>
+<TI>Comparison of three techniques of inhalation on the airway response to terbutaline</TI>
+<SO>Thorax</SO>
+<YR>1983</YR>
+<VL>38</VL>
+<PG>908-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gimeno-1988" NAME="Gimeno 1988" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Written to author (22/12/99) to provide details on patient inclusion as mixed population was used.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gimeno F, van Veenen R, Berg W, Steenhuis E</AU>
+<TI>A placebo-controlled comparison between the bronchodilatory effects of ipratropium bromide inhaled as a dry powder and by metered dose inhaler in chronic obstructive pulmonary disease</TI>
+<SO>Annals of Allergy</SO>
+<YR>1988</YR>
+<VL>61</VL>
+<PG>341-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Harvey-1992" NAME="Harvey 1992" YEAR="1992">
+<REFERENCE NOTES="&lt;p&gt;Also in 'Excluded studies' of Review 1B.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Harvey J, Williams JG</AU>
+<TI>Randomised cross-over comparison of five inhaler systems for bronchodilator therapy</TI>
+<SO>British Journal of Clinical Practice</SO>
+<YR>1992</YR>
+<VL>46</VL>
+<NO>4</NO>
+<PG>249-51</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 93176620"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Iversen-1999" NAME="Iversen 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Iversen ET, Sorensen T, Heckscher T, Jensen JI</AU>
+<TI>Effect of terbutaline on exercise capacity and pulmonary function in patients with chronic obstructive pulmonary disease</TI>
+<SO>Lung</SO>
+<YR>1999</YR>
+<VL>177</VL>
+<PG>263-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Larsen-1998" NAME="Larsen 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Larsen KR, Svendsen UG, Molgaard F, Petersen BN</AU>
+<TI>Comparability of albuterol delivered by a piezoelectric device versus metered dose inhaler in patients with chronic obstructive airways disease</TI>
+<SO>Journal of Aerosol Medicine</SO>
+<YR>1998</YR>
+<VL>11</VL>
+<NO>2</NO>
+<PG>81-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mutterlein-1990" MODIFIED="2008-08-18 16:55:08 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Mutterlein 1990" YEAR="1990">
+<REFERENCE MODIFIED="2008-08-18 16:55:08 +0100" MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mutterlein VR, Schmidt G, Fleischer W, Freund E</AU>
+<TI>A new inhalation system for bronchodilation. A study of the acceptance of the Ingelheim M inhalator by chronic obstructive pulmonary disease patients</TI>
+<TO>Ein neues Inhalationssystem zur Bronchodilation</TO>
+<SO>Fortscritte der Therapie (Pneumologie)</SO>
+<YR>1990</YR>
+<VL>108</VL>
+<NO>11</NO>
+<PG>225-8/61-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Petersen-1983" NAME="Petersen 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Petersen LN, Petersen BN</AU>
+<TI>Fenoterol inhalation powder and aerosol</TI>
+<SO>European Journal of Respiratory Disease</SO>
+<YR>1983</YR>
+<VL>64</VL>
+<NO>Suppl 130</NO>
+<PG>1-5</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 84084909"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-van-der-Palen-1995" NAME="van der Palen 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>van der Palen J, Klein JJ, Kerkhoff AH, van Herwaarden CL</AU>
+<TI>Evaluation of the effectiveness of four different inhalers in patients with chronic obstructive pulmonary disease</TI>
+<SO>Thorax</SO>
+<YR>1995</YR>
+<VL>50</VL>
+<NO>11</NO>
+<PG>1183-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-van-der-Palen-1998" NAME="van der Palen 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>van der Palen J, Klein JJ, Schildkamp AM</AU>
+<TI>Comparison of a new multidose powder inhaler (diskus/accuhaler) and turbuhaler regarding preference and ease of use</TI>
+<SO>Journal of Asthma</SO>
+<YR>1998</YR>
+<VL>35</VL>
+<NO>2</NO>
+<PG>147-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wetterlin-1988" NAME="Wetterlin 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wetterlin K</AU>
+<TI>Turbuhaler: a new powder inhaler for administration of drugs to the airways</TI>
+<SO>Pharmacological Research</SO>
+<YR>1988</YR>
+<VL>5</VL>
+<NO>8</NO>
+<PG>506-8</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 89220804"/>
+</IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Anthonisen-1994" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Anthonisen 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Anthonisen NR, Commett JE, Kiley JP, Altose MD, Bailey WC, Buist AS, et al</AU>
+<TI>Effects of smoking intervention and the use of an inhaled anticholinergic bronchodilator on the rate of decline of FEV1. The Lung Health Study</TI>
+<SO>Journal of the American Medical Association</SO>
+<YR>1994</YR>
+<VL>272</VL>
+<NO>19</NO>
+<PG>1497-505</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 95056307"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-ATS-1995" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="ATS 1995" TYPE="JOURNAL_ARTICLE">
+<AU>American Thoracic Society</AU>
+<TI>Standards for the diagnosis and care of patients with chronic obstructive pulmonary disease</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1995</YR>
+<VL>152</VL>
+<NO>5 Pt 2</NO>
+<PG>S77-121</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 96048961"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-BTS-1997" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="BTS 1997" TYPE="JOURNAL_ARTICLE">
+<AU>British Thoracic Society</AU>
+<TI>BTS guidelines for the management of chronic obstructive pulmonary disease. The COPD Guidelines Group of the Standards of Care Committee of the BTS</TI>
+<SO>Thorax</SO>
+<YR>1997</YR>
+<VL>52</VL>
+<NO>Suppl 5</NO>
+<PG>S1-S28</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 98134513"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-ERS-1995" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="ERS 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Siafakas NM, Vermeire P, Pride NB, Paoletti P, Gibson J, Howard P, et al</AU>
+<TI>Optimal assessment and management of chronic obstructive pulmonary disease (COPD). The European Respiratory Society Task Force</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1995</YR>
+<VL>8</VL>
+<NO>8</NO>
+<PG>1398-420</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 96087552"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports of randomized clinical trials: is blinding necessary ?</TI>
+<SO>Control Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<NO>1</NO>
+<PG>1-12</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 96308458"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Newman-1998" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Newman 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Newman SP, Brown J, Steed KP, Reader SJ, Kladders H</AU>
+<TI>Lung deposition of fenoterol and flunisolide delivered using a novel device for inhaled medicines: comparisons of RMT with conventional metered-dose inhalers with and without spacer devices</TI>
+<SO>Chest</SO>
+<YR>1998</YR>
+<VL>113</VL>
+<PG>957-63</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nisar-1990" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Nisar 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Nisar M, Walshaw M, Earis JE, Pearson MG, Calverley PM</AU>
+<TI>Assessment of reversibility of airways obstruction in patients with chronic obstructive pulmonary disease</TI>
+<SO>Thorax</SO>
+<YR>1990</YR>
+<VL>45</VL>
+<NO>3</NO>
+<PG>190-4</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 90232464"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-O_x0027_Driscoll-1997" MODIFIED="2008-08-18 16:54:21 +0100" MODIFIED_BY="Toby J Lasserson" NAME="O'Driscoll 1997" TYPE="JOURNAL_ARTICLE">
+<AU>O'Driscoll BR</AU>
+<TI>Nebulisers for chronic obstructive pulmonary disease</TI>
+<SO>Thorax</SO>
+<YR>1997</YR>
+<VL>52</VL>
+<NO>Suppl 2</NO>
+<PG>S49-S52</PG>
+<IDENTIFIERS>
+<IDENTIFIER TYPE="OTHER" VALUE="UID: 97300831"/>
+</IDENTIFIERS>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-08-18 16:54:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-08-18 16:54:48 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-08-18 16:54:48 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Formgren-1994a">
+<CHAR_METHODS MODIFIED="2008-08-18 16:54:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Design: randomised double-blind, double- dummy, crossover, Latin square design.<BR/>Device: Turbuhaler vs pMDI with Nebuhaler spacer for higher dose<BR/>Drug: terbutaline<BR/>Dose: 1.0 mg<BR/>Duration: 40 minutes</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>15 hospitalised adult patients (4 women) in stable phase of their disease without recent exacerbations and medication unchanged in weeks. All patients were ex-smokers and upon admission all patients demonstrated a &gt;=15% response in FVC and or a decrease in RV without increase (&lt;15%) in FEV1 after inhalation of a beta-2 agonist (4 x 0.1 mg salbutamol or 4 x 0.25 mg terbutaline). COPD diagnoses was based on clinical history, X-ray, spirometry and body plethysmography after a run-in period of 1 week. Mean age 61 yrs (SD 9, range 44-72), mean %predicted FEV1=35.6% (range 23-48), mean disease duration 11.6 yrs (range 1-42). Mean basal FEV1 over the five study days for all patients did not vary greater outside 1.0 to 1.1 L.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-18 16:54:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Four treatments regimes: Turbuhaler-terbutaline 1 mg; pMDI(CFC)-terbutaline (no spacer) 1 mg; Turbuhaler-terbutaline 2.5 mg &amp; 2.5 mg pMDI(CFC)-terbutaline with Nebuhaler spacer 2.5 mg. A one week run-in period was used during which PEFR was measured 5 times a day and patients were included in the study if their diurnal PEF variation did not exceed 15%. Interval of at least 48 hours between treatments. for washout. Study measurements were made before and 10 to 40 minutes after study drug administration.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1, FVC, RV &amp; sGaw. Results presented and entered into the review were 40 minutes post bronchodilator. Treatment failures and adverse events were mentioned in text.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Two different doses were used in study (separated by 48 hour washout), therefore separated as two references here for ease of data entry into RevMan.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-18 16:54:44 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Formgren-1994b">
+<CHAR_METHODS MODIFIED="2008-08-18 16:54:44 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Design: randomised double-blind, double- dummy, crossover, Latin square design.<BR/>Device: Turbuhaler vs pMDI with Nebuhaler spacer for higher dose<BR/>Drug: terbutaline<BR/>Dose: 2.5 mg<BR/>Duration: 40 minutes</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>15 hospitalised adult patients (4 women) in stable phase of their disease without recent exacerbations and medication unchanged in weeks. All patients were ex-smokers and upon admission all patients demonstrated a &gt;=15% response in FVC and or a decrease in RV without increase (&lt;15%) in FEV1 after inhalation of a beta-2 agonist (4 x 0.1 mg salbutamol or 4 x 0.25 mg terbutaline). COPD diagnoses was based on clinical history, X-ray, spirometry and body plethysmography after a run-in period of 1 week. Mean age 61 yrs (SD 9, range 44-72), mean %predicted FEV1=35.6% (range 23-48), mean disease duration 11.6 yrs (range 1-42). Mean basal FEV1 over the five study days for all patients did not vary greater outside 1.0 to 1.1 L.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-18 16:54:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Four treatments regimes: Turbuhaler-terbutaline 1 mg; pMDI(CFC)-terbutaline (no spacer) 1 mg; Turbuhaler-terbutaline 2.5 mg &amp; 2.5 mg pMDI(CFC)-terbutaline with Nebuhaler spacer 2.5 mg. A one week run-in period was used during which PEFR was measured 5 times a day and patients were included in the study if their diurnal PEF variation did not exceed 15%. Interval of at least 48 hours between treatments. for washout. Study measurements were made before and 10 to 40 minutes after study drug administration.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1, FVC, RV &amp; sGaw. Results presented and entered into the review were 40 minutes post bronchodilator. Treatment failures and adverse events were mentioned in text.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Two different doses were used in study (separated by 48 hour washout), therefore separated as two references here for ease of data entry into RevMan.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-08-18 16:54:39 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Iacono-2000">
+<CHAR_METHODS>
+<P>Design: randomised 3-way crossover, design. <BR/>Device: Respimat vs pMDI<BR/>Drug: ipratropium bromide<BR/>Dose: 320ug<BR/>Duration: 180 minutes</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-08-18 16:54:36 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>36 patients (29M;7F) presenting with stable COPD recruited from outpatient chest clinic (COPD defined according to the ATS 1987 criteria). No change in pulmonary medication 6 weeks prior to screening visit, not on chronic oxygen therapy, oral corticosteroids, beta-blockers, antihistamines or cromolyn/nedocromil sodium. Stable use of inhaled corticosteroids was permitted. Mean(SD): Age 52(6) yrs; FEV1 L 1.8(0.4); FEV1 % predicted 52.6(8.9); smoking pack year history 49(15) (range 20-80), with no current smokers. Mean FEV1 reversibility 60 min after 40ug ipratropium bromide via MDI was 30.7(7.7).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-08-18 16:54:39 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Ipratropium bromide 320ug total dose administered. Using 20ug per puff for both the pMDI and RP (cumulative puffs were: 1 + 1 + 2 + 4 + 8 inhaled at 50 min intervals). There was also a third arm that used the RP administering a total cumulative dose of 160ug. Interval of at least 2 days between treatments.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Spirometry (FEV1, FVC) was performed before and 45, 60, 90, 120 &amp; 180 min post bronchodilator. Adverse events and vital signs (pulse rate &amp; blood pressure) also recorded. All reported data were adjusted with baseline as the covariant.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Author reply: allocation of treatment was randomised. <BR/>Treatment was open label between devices (RP vs pMDI) but the third arm not used was double-blind (RP 160ug vs RP 320ug).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Ikeda-1999a">
+<CHAR_METHODS>
+<P>Design: randomised double-blind, double- dummy, crossover, design. <BR/>Device: Rotahaler vs pMDI with InspirEase spacer device (750ml)<BR/>Drug: salbutamol<BR/>Dose: 200ug<BR/>Duration: 240 minutes</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>10 male patients with stable COPD recruited from outpatient chest clinic. No exacerbations in the last 3 months and no treatment with oral bronchodilators, theophylline and oral or inhaled corticosteroids during the preceding 4 weeks. Mean(SD): Age 67(4) yrs (range 62-73); FEV1 L 1.56(0.32) = 60% predicted (range 1.12-2.17); smoking pack year history 52(21) (range 20-100), with no current smokers.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Salbutamol 0.2 mg and 1 mg via Rotahaler or pMDI (CFC)-salbutamol with InspirEase spacer. There were also nebuliser arms in the study. Interval of at least 2-4 days between treatments. Each treatment regime consisted of the administration of 5 capsules via Rotahaler, 10 puffs via the pMDI and approximately 2 ml solution via the nebuliser. The dose of 200 ug via the Rotahaler was administered as 1 active 200 ug capsule and 4 matching placebos, that of the 200 ug via the pMDI was administered as 2 puffs of active (100ug /puff) drug and 8 puffs of placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Spirometry was performed before and 15, 30, 60, 90, 120 &amp; 240 min post bronchodilator but only FEV1max &amp; AUC-FEV1 reported. Treatment failures and adverse events mentioned.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Two doses used in study, therefore separated as two references for ease of data entry into RevMan. <BR/>All medication and treatment sequence was coded in advance and the codes not revealed until all patients had completed the protocols. Author reply providing all requested information and data.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Ikeda-1999b">
+<CHAR_METHODS>
+<P>Design: randomised double-blind, double- dummy, crossover, design. <BR/>Device: Rotahaler vs pMDI with InspirEase spacer device (750ml)<BR/>Drug: salbutamol<BR/>Dose: 1000ug<BR/>Duration: 240 minutes</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>10 male patients with stable COPD recruited from outpatient chest clinic. No exacerbations in the last 3 months and no treatment with oral bronchodilators, theophylline and oral or inhaled corticosteroids during the preceding 4 weeks. Mean(SD): Age 67(4) yrs (range 62-73); FEV1 L 1.56(0.32) = 60% predicted (range 1.12-2.17); smoking pack year history 52(21) (range 20-100), with no current smokers.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Salbutamol 0.2 mg and 1 mg via Rotahaler or pMDI (CFC)-salbutamol with InspirEase spacer. There were also nebuliser arms in the study. Interval of at least 2-4 days between treatments. Each treatment regime consisted of the administration of 5 capsules via Rotahaler, 10 puffs via the pMDI and approximately 2 ml solution via the nebuliser. The dose of 200 ug via the Rotahaler was administered as 1 active 200 ug capsule and 4 matching placebos, that of the 200 ug via the pMDI was administered as 2 puffs of active (100ug /puff) drug and 8 puffs of placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Spirometry was performed before and 15, 30, 60, 90, 120 &amp; 240 min post bronchodilator but only FEV1max &amp; AUC-FEV1 reported. Treatment failures and adverse events mentioned.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Two doses used in study, therefore separated as two references for ease of data entry into RevMan. <BR/>All medication and treatment sequence was coded in advance and the codes not revealed until all patients had completed the protocols. Author reply providing all requested information and data.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Bellamy-1981">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison was against a placebo aerosol inhaler.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Cushley-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study compared: MDI vs MDI + spacer vs a mini-nebuliser</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gimeno-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study includes patients with asthma, chronic bronchitis and emphysema. The author grouped all patients together and referred to them all as having COPD, no separate data was provided for each of the groups.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Harvey-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patient allocation not randomised and patients not clearly diagnosed as having COPD.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Iversen-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study compared terbutaline turbuhaler against placebo turbuhaler.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Larsen-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study used a new type of micro-nebuliser (piezoelectric) device vs pMDI with both delivering 100ug per puff. Study also had mixed populations of subjects (Asthma = 39, COPD = 9).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mutterlein-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison of DPI vs DPI (no pMDI involved) using the Ingelheim M inhalator.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Petersen-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Author included mixed population (both asthmatic and COPD patients in study) and data no presented separately.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-van-der-Palen-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomised controlled trial. Study set out to test the differences between inhaler techniques with 4 different devices (pMDI, Turbuhaler, Diskhaler &amp; Rotahaler).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-van-der-Palen-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study compared DPI against DPI (Diskus/Accuhaler vs Turbuhaler). Study also had both asthma and COPD patients.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wetterlin-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a RCT, a qualitative review on the working aspects of the Turbuhaler.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-08-18 16:53:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-08-18 16:53:42 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-18 16:53:01 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Formgren-1994a">
+<DESCRIPTION>
+<P>Information not available (Cochrane Grade B) </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-18 16:53:08 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Formgren-1994b">
+<DESCRIPTION>
+<P>Information not available (Cochrane Grade B)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-18 16:53:31 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Iacono-2000">
+<DESCRIPTION>
+<P>Study investigators were not aware as to order of treatment group assignment (Cochrane Grade A)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-18 16:53:42 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Ikeda-1999a">
+<DESCRIPTION>
+<P>Study investigators were not aware as to order of treatment group assignment (Cochrane Grade A)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-18 16:53:39 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Ikeda-1999b">
+<DESCRIPTION>
+<P>Study investigators were not aware as to order of treatment group assignment (Cochrane Grade A)</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Turbuhaler vs pMDI (absolute change from baseline)</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.06401215568473748" CI_START="-0.06401215568473748" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="1.0" Q="0.0" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="30" UNITS="" WEIGHT="100.0" Z="0.0">
+<NAME>FEV1 (L)</NAME>
+<GROUP_LABEL_1>Turbuhaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Turbuhaler</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0715677657486863" CI_START="-0.0715677657486863" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.01" NO="1" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="80.0" Z="0.0">
+<NAME>Turbuhaler vs pMDI without spacer</NAME>
+<CONT_DATA CI_END="0.0715677657486863" CI_START="-0.0715677657486863" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="0.2" MEAN_2="0.2" ORDER="1052" SD_1="0.1" SD_2="0.1" SE="0.03651483716701108" STUDY_ID="STD-Formgren-1994a" TOTAL_1="15" TOTAL_2="15" WEIGHT="80.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.1431355314973726" CI_START="-0.1431355314973726" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.02" NO="2" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="20.0" Z="0.0">
+<NAME>Turbuhaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="0.1431355314973726" CI_START="-0.1431355314973726" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="0.2" MEAN_2="0.2" ORDER="1053" SD_1="0.2" SD_2="0.2" SE="0.07302967433402216" STUDY_ID="STD-Formgren-1994b" TOTAL_1="15" TOTAL_2="15" WEIGHT="20.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.2054794520547944" CI_END="0.2707042218595723" CI_START="-0.1583754547362847" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.05616438356164382" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.6503338864630148" P_Q="0.6503338864630148" P_Z="0.6078820974573735" Q="0.2054794520547944" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="30" UNITS="" WEIGHT="100.0" Z="0.5130989650595734">
+<NAME>FVC (L)</NAME>
+<GROUP_LABEL_1>Turbuhaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Turbuhaler</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.3862710629947452" CI_START="-0.18627106299474522" DF="0.0" EFFECT_SIZE="0.09999999999999998" ESTIMABLE="YES" I2="0.0" ID="CMP-001.02.01" NO="1" P_CHI2="1.0" P_Z="0.4935627943320129" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="56.16438356164383" Z="0.6846531968814574">
+<NAME>Turbuhaler vs pMDI without spacer</NAME>
+<CONT_DATA CI_END="0.3862710629947452" CI_START="-0.18627106299474522" EFFECT_SIZE="0.09999999999999998" ESTIMABLE="YES" MEAN_1="0.6" MEAN_2="0.5" ORDER="1054" SD_1="0.4" SD_2="0.4" SE="0.14605934866804432" STUDY_ID="STD-Formgren-1994a" TOTAL_1="15" TOTAL_2="15" WEIGHT="56.16438356164383"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.324036841165177" CI_START="-0.324036841165177" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" ID="CMP-001.02.02" NO="2" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="43.83561643835617" Z="0.0">
+<NAME>Turbuhaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="0.324036841165177" CI_START="-0.324036841165177" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="0.7" MEAN_2="0.7" ORDER="1055" SD_1="0.4" SD_2="0.5" SE="0.16532795690182994" STUDY_ID="STD-Formgren-1994b" TOTAL_1="15" TOTAL_2="15" WEIGHT="43.83561643835617"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.8163265306122445" CI_END="0.6365374540212123" CI_START="-0.23109527715046416" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.2027210884353741" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.03" NO="3" P_CHI2="0.36625645581148325" P_Q="0.36625645581148325" P_Z="0.35972706805177646" Q="0.8163265306122445" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="30" UNITS="" WEIGHT="100.0" Z="0.9158853002318893">
+<NAME>RV (L)</NAME>
+<GROUP_LABEL_1>Turbuhaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Turbuhaler</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.0093775671402465" CI_START="-0.20937756714024658" DF="0.0" EFFECT_SIZE="0.3999999999999999" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.01" NO="1" P_CHI2="1.0" P_Z="0.19825639743882553" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="50.680272108843525" Z="1.2865350418053534">
+<NAME>Turbuhaler vs pMDI without spacer</NAME>
+<CONT_DATA CI_END="1.0093775671402465" CI_START="-0.20937756714024658" EFFECT_SIZE="0.3999999999999999" ESTIMABLE="YES" MEAN_1="1.2" MEAN_2="0.8" ORDER="1056" SD_1="0.8" SD_2="0.9" SE="0.3109126351029605" STUDY_ID="STD-Formgren-1994a" TOTAL_1="15" TOTAL_2="15" WEIGHT="50.680272108843525"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.6177255940320776" CI_START="-0.6177255940320776" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.02" NO="2" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="49.31972789115647" Z="0.0">
+<NAME>Turbuhaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="0.6177255940320776" CI_START="-0.6177255940320776" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="0.7" MEAN_2="0.7" ORDER="1057" SD_1="0.7" SD_2="1.0" SE="0.3151719107619417" STUDY_ID="STD-Formgren-1994b" TOTAL_1="15" TOTAL_2="15" WEIGHT="49.31972789115647"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.03683241252302022" CI_END="0.12883159048133613" CI_START="-0.06160016015598315" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.033615715162676495" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="0.8478067261370328" P_Q="0.8478067261370328" P_Z="0.4889623619072081" Q="0.03683241252302022" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="30" UNITS="" WEIGHT="99.99999999999999" Z="0.6919601464871605">
+<NAME>SGaw (kPa/L/s)</NAME>
+<GROUP_LABEL_1>Turbuhaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Turbuhaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours pMDI</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.15539955478715234" CI_START="-0.07539955478715232" DF="0.0" EFFECT_SIZE="0.04000000000000001" ESTIMABLE="YES" I2="0.0" ID="CMP-001.04.01" NO="1" P_CHI2="1.0" P_Z="0.49690585209147164" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="68.07857581338243" Z="0.6793662204867575">
+<NAME>Turbuhaler vs pMDI without spacer</NAME>
+<CONT_DATA CI_END="0.15539955478715234" CI_START="-0.07539955478715232" EFFECT_SIZE="0.04000000000000001" ESTIMABLE="YES" MEAN_1="0.17" MEAN_2="0.13" ORDER="1058" SD_1="0.14" SD_2="0.18" SE="0.058878405775518984" STUDY_ID="STD-Formgren-1994a" TOTAL_1="15" TOTAL_2="15" WEIGHT="68.07857581338243"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.18852651289237918" CI_START="-0.14852651289237914" DF="0.0" EFFECT_SIZE="0.020000000000000018" ESTIMABLE="YES" I2="0.0" ID="CMP-001.04.02" NO="2" P_CHI2="1.0" P_Z="0.8160719685523792" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="31.921424186617553" Z="0.2326000759051707">
+<NAME>Turbuhaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="0.18852651289237918" CI_START="-0.14852651289237914" EFFECT_SIZE="0.020000000000000018" ESTIMABLE="YES" MEAN_1="0.23" MEAN_2="0.21" ORDER="1059" SD_1="0.25" SD_2="0.22" SE="0.08598449472627802" STUDY_ID="STD-Formgren-1994b" TOTAL_1="15" TOTAL_2="15" WEIGHT="31.921424186617553"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="5" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="30" WEIGHT="0.0" Z="0.0">
+<NAME>Treatment Failures/Drop outs</NAME>
+<GROUP_LABEL_1>Turbuhaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Less with Turbuhaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Less with pMDI</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-001.05.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="0.0" Z="0.0">
+<NAME>Turbuhaler vs pMDI without spacer</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1060" O_E="0.0" SE="0.0" STUDY_ID="STD-Formgren-1994a" TOTAL_1="15" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-001.05.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="2" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="0.0" Z="0.0">
+<NAME>Turbuhaler vs pMDI with spacer</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1061" O_E="0.0" SE="0.0" STUDY_ID="STD-Formgren-1994b" TOTAL_1="15" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="6" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="30" WEIGHT="0.0" Z="0.0">
+<NAME>Adverse Events</NAME>
+<GROUP_LABEL_1>Turbuhaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Less with Turbuhaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Less with pMDI</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-001.06.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="0.0" Z="0.0">
+<NAME>Turbuhaler vs pMDI without spacer</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1062" O_E="0.0" SE="0.0" STUDY_ID="STD-Formgren-1994a" TOTAL_1="15" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-001.06.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="2" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="0.0" Z="0.0">
+<NAME>Turbuhaler vs pMDI with spacer</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1063" O_E="0.0" SE="0.0" STUDY_ID="STD-Formgren-1994b" TOTAL_1="15" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Rotahaler vs pMDI (mean absolute value)</NAME>
+<CONT_OUTCOME CHI2="0.007795751315533049" CI_END="0.2518937791656835" CI_START="-0.1899331477098269" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.030980315727928302" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="0.9296433640591181" P_Q="1.0" P_Z="0.7834237004842366" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" UNITS="" WEIGHT="99.99999999999999" Z="0.27486012899131373">
+<NAME>FEV1 (L)</NAME>
+<GROUP_LABEL_1>Rotahaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Rotahaler</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.007795751315533049" CI_END="0.2518937791656835" CI_START="-0.1899331477098269" DF="1.0" EFFECT_SIZE="0.030980315727928302" ESTIMABLE="YES" I2="0.0" ID="CMP-002.01.01" NO="1" P_CHI2="0.9296433640591181" P_Z="0.7834237004842366" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="99.99999999999999" Z="0.27486012899131373">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="0.34895880437974836" CI_START="-0.3089588043797483" EFFECT_SIZE="0.020000000000000018" ESTIMABLE="YES" MEAN_1="1.61" MEAN_2="1.59" ORDER="1065" SD_1="0.36" SD_2="0.39" SE="0.16783920876839237" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" WEIGHT="45.0984213603586"/>
+<CONT_DATA CI_END="0.3381465363053244" CI_START="-0.2581465363053243" EFFECT_SIZE="0.040000000000000036" ESTIMABLE="YES" MEAN_1="1.67" MEAN_2="1.63" ORDER="1064" SD_1="0.33" SD_2="0.35" SE="0.15211837495845135" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" WEIGHT="54.901578639641386"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.32240231020572735" CI_END="21.17470039412591" CI_START="-7.44894968696617" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="6.86287535357987" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.570167641108889" P_Q="1.0" P_Z="0.34729381052300723" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" UNITS="" WEIGHT="100.0" Z="0.9398513806098722">
+<NAME>AUC-FEV1 (L.min)</NAME>
+<GROUP_LABEL_1>Rotahler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Rotahaler</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.32240231020572735" CI_END="21.17470039412591" CI_START="-7.44894968696617" DF="1.0" EFFECT_SIZE="6.86287535357987" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.01" NO="1" P_CHI2="0.570167641108889" P_Z="0.34729381052300723" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="100.0" Z="0.9398513806098722">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="27.30906656554009" CI_START="-7.729066565540091" EFFECT_SIZE="9.79" ESTIMABLE="YES" MEAN_1="31.45" MEAN_2="21.66" ORDER="1067" SD_1="14.98" SD_2="23.97" SE="8.938463514497332" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" WEIGHT="66.73721992704398"/>
+<CONT_DATA CI_END="25.805083806428907" CI_START="-23.825083806428903" EFFECT_SIZE="0.990000000000002" ESTIMABLE="YES" MEAN_1="52.6" MEAN_2="51.61" ORDER="1066" SD_1="29.79" SD_2="26.75" SE="12.660989692753091" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" WEIGHT="33.26278007295601"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.258858720662678" CI_END="0.3379425919946724" CI_START="-0.23883076502734582" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.049555913483663304" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.03" NO="3" P_CHI2="0.6109053559112474" P_Q="1.0" P_Z="0.7362698373339327" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" UNITS="" WEIGHT="100.0" Z="0.3367971299869008">
+<NAME>FVC (L)</NAME>
+<GROUP_LABEL_1>Rotahaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Rotahaler</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.258858720662678" CI_END="0.3379425919946724" CI_START="-0.23883076502734582" DF="1.0" EFFECT_SIZE="0.049555913483663304" ESTIMABLE="YES" I2="0.0" ID="CMP-002.03.01" NO="1" P_CHI2="0.6109053559112474" P_Z="0.7362698373339327" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="100.0" Z="0.3367971299869008">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="0.390822114003054" CI_START="-0.4508221140030536" EFFECT_SIZE="-0.029999999999999805" ESTIMABLE="YES" MEAN_1="2.74" MEAN_2="2.77" ORDER="1069" SD_1="0.49" SD_2="0.47" SE="0.21470910553583888" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" WEIGHT="46.962724344224576"/>
+<CONT_DATA CI_END="0.515990339605317" CI_START="-0.2759903396053168" EFFECT_SIZE="0.1200000000000001" ESTIMABLE="YES" MEAN_1="2.88" MEAN_2="2.76" ORDER="1068" SD_1="0.49" SD_2="0.41" SE="0.20203960007879643" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" WEIGHT="53.03727565577543"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.5125143183687718" CI_END="8.571474010757354" CI_START="-7.81095162199645" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.3802611943804523" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.04" NO="4" P_CHI2="0.474052509297635" P_Q="1.0" P_Z="0.9275024972651441" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" UNITS="" WEIGHT="100.0" Z="0.0909875329101177">
+<NAME>Heart Rate (bpm)</NAME>
+<GROUP_LABEL_1>Rotahaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Rotahaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours pMDI</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.5125143183687718" CI_END="8.571474010757354" CI_START="-7.81095162199645" DF="1.0" EFFECT_SIZE="0.3802611943804523" ESTIMABLE="YES" I2="0.0" ID="CMP-002.04.01" NO="1" P_CHI2="0.474052509297635" P_Z="0.9275024972651441" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="100.0" Z="0.0909875329101177">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="8.781846180786713" CI_START="-13.581846180786725" EFFECT_SIZE="-2.4000000000000057" ESTIMABLE="YES" MEAN_1="75.6" MEAN_2="78.0" ORDER="1071" SD_1="11.68" SD_2="13.75" SE="5.705128394698931" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" WEIGHT="53.662313426992476"/>
+<CONT_DATA CI_END="15.633197246986905" CI_START="-8.433197246986888" EFFECT_SIZE="3.6000000000000085" ESTIMABLE="YES" MEAN_1="80.7" MEAN_2="77.1" ORDER="1070" SD_1="13.11" SD_2="14.32" SE="6.139499165241412" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" WEIGHT="46.33768657300752"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="4.317617364115035E-30" CI_END="9.174471154987518" CI_START="-3.9744711549875205" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="2.599999999999999" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.05" NO="5" P_CHI2="0.9999999999999983" P_Q="1.0" P_Z="0.4382775434667744" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" UNITS="" WEIGHT="100.0" Z="0.7751051361657108">
+<NAME>Systolic Pressure (mmHg)</NAME>
+<GROUP_LABEL_1>Rotahaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Rotahaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours pMDI</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="4.317617364115035E-30" CI_END="9.174471154987518" CI_START="-3.9744711549875205" DF="1.0" EFFECT_SIZE="2.599999999999999" ESTIMABLE="YES" I2="0.0" ID="CMP-002.05.01" NO="1" P_CHI2="0.9999999999999983" P_Z="0.4382775434667744" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="100.0" Z="0.7751051361657108">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="13.10501385998846" CI_START="-7.905013859988443" EFFECT_SIZE="2.6000000000000085" ESTIMABLE="YES" MEAN_1="105.4" MEAN_2="102.8" ORDER="1073" SD_1="15.49" SD_2="6.88" SE="5.35979943654611" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" WEIGHT="39.1677288024762"/>
+<CONT_DATA CI_END="11.029344600481965" CI_START="-5.829344600481976" EFFECT_SIZE="2.5999999999999943" ESTIMABLE="YES" MEAN_1="109.0" MEAN_2="106.4" ORDER="1072" SD_1="6.53" SD_2="11.93" SE="4.300765048221072" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" WEIGHT="60.8322711975238"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0607204289139304" CI_END="3.1987257283782267" CI_START="-3.154805883139413" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.021959922619407053" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.06" NO="6" P_CHI2="0.8053608781601723" P_Q="1.0" P_Z="0.9891901299795473" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" UNITS="" WEIGHT="99.99999999999999" Z="0.013548577411435397">
+<NAME>Diastolic Pressure (mmHg)</NAME>
+<GROUP_LABEL_1>Rotahaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Rotahaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours pMDI</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0607204289139304" CI_END="3.1987257283782267" CI_START="-3.154805883139413" DF="1.0" EFFECT_SIZE="0.021959922619407053" ESTIMABLE="YES" I2="0.0" ID="CMP-002.06.01" NO="1" P_CHI2="0.8053608781601723" P_Z="0.9891901299795473" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="99.99999999999999" Z="0.013548577411435397">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<CONT_DATA CI_END="4.774159255445085" CI_START="-3.9741592554450733" EFFECT_SIZE="0.4000000000000057" ESTIMABLE="YES" MEAN_1="65.0" MEAN_2="64.6" ORDER="64" SD_1="4.12" SD_2="5.73" SE="2.231754914859604" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" WEIGHT="52.74499032742542"/>
+<CONT_DATA CI_END="4.221269234592432" CI_START="-5.021269234592429" EFFECT_SIZE="-0.3999999999999986" ESTIMABLE="YES" MEAN_1="63.4" MEAN_2="63.8" ORDER="1075" SD_1="6.07" SD_2="4.33" SE="2.3578337515609533" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" WEIGHT="47.255009672574566"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-002.07" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="7" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0" Z="0.0">
+<NAME>Treatment Failures/Drop outs</NAME>
+<GROUP_LABEL_1>Rotahaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Less with Rotahaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Less with pMDI</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-002.07.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="0.0" Z="0.0">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1077" O_E="0.0" SE="0.0" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1076" O_E="0.0" SE="0.0" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="7.3225436971144395" CI_START="0.015173840636129785" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.3333333333333333" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-002.08" LOG_CI_END="0.8646619720038995" LOG_CI_START="-1.8189044814432243" LOG_EFFECT_SIZE="-0.4771212547196625" METHOD="MH" NO="8" P_CHI2="1.0" P_Q="0.0" P_Z="0.48584124712227683" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="20" TOTAL_2="20" WEIGHT="100.0" Z="0.6969385642065118">
+<NAME>Adverse Events</NAME>
+<GROUP_LABEL_1>Rotahaler Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Less with Rotahaler</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Less with pMDI</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="7.3225436971144395" CI_START="0.015173840636129785" DF="0.0" EFFECT_SIZE="0.3333333333333333" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" I2="0.0" ID="CMP-002.08.01" LOG_CI_END="0.8646619720038995" LOG_CI_START="-1.8189044814432243" LOG_EFFECT_SIZE="-0.4771212547196625" NO="1" P_CHI2="1.0" P_Z="0.48584124712227683" STUDIES="2" TAU2="0.0" TOTAL_1="20" TOTAL_2="20" WEIGHT="100.0" Z="0.6969385642065118">
+<NAME>Rotahaler vs pMDI with spacer</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="1079" O_E="0.0" SE="0.0" STUDY_ID="STD-Ikeda-1999a" TOTAL_1="10" TOTAL_2="10" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="7.3225436971144395" CI_START="0.015173840636129785" EFFECT_SIZE="0.3333333333333333" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.8646619720038995" LOG_CI_START="-1.8189044814432243" LOG_EFFECT_SIZE="-0.4771212547196625" ORDER="1078" O_E="0.0" SE="1.5763402186230246" STUDY_ID="STD-Ikeda-1999b" TOTAL_1="10" TOTAL_2="10" VAR="2.484848484848485" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Respimat vs pMDI (absolute change from baseline)</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.12543615297398714" CI_START="0.014563847026012884" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.07" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.013328328780333038" Q="0.0" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="36" TOTAL_2="36" UNITS="" WEIGHT="100.0" Z="2.4748737341529163">
+<NAME>FEV1 (L): absolute change from baseline</NAME>
+<GROUP_LABEL_1>Respimat Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Respimat</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.12543615297398714" CI_START="0.014563847026012884" DF="0.0" EFFECT_SIZE="0.07" ESTIMABLE="YES" I2="0.0" ID="CMP-003.01.01" NO="1" P_CHI2="1.0" P_Z="0.013328328780333038" STUDIES="1" TAU2="0.0" TOTAL_1="36" TOTAL_2="36" WEIGHT="100.0" Z="2.4748737341529163">
+<NAME>Respimat vs pMDI without spacer</NAME>
+<CONT_DATA CI_END="0.12543615297398714" CI_START="0.014563847026012884" EFFECT_SIZE="0.07" ESTIMABLE="YES" MEAN_1="0.43" MEAN_2="0.36" ORDER="1080" SD_1="0.12" SD_2="0.12" SE="0.0282842712474619" STUDY_ID="STD-Iacono-2000" TOTAL_1="36" TOTAL_2="36" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.12309839707249462" CI_START="0.07690160292750534" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.09999999999999998" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="2.151973671295965E-17" Q="0.0" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="36" TOTAL_2="36" UNITS="" WEIGHT="100.0" Z="8.485281374238568">
+<NAME>FVC (L): absolute change from baseline</NAME>
+<GROUP_LABEL_1>Respimat Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours pMDI</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Respimat</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.12309839707249462" CI_START="0.07690160292750534" DF="0.0" EFFECT_SIZE="0.09999999999999998" ESTIMABLE="YES" I2="0.0" ID="CMP-003.02.01" NO="1" P_CHI2="1.0" P_Z="2.151973671295965E-17" STUDIES="1" TAU2="0.0" TOTAL_1="36" TOTAL_2="36" WEIGHT="100.0" Z="8.485281374238568">
+<NAME>Respimat vs pMDI without spacer</NAME>
+<CONT_DATA CI_END="0.12309839707249462" CI_START="0.07690160292750534" EFFECT_SIZE="0.09999999999999998" ESTIMABLE="YES" MEAN_1="0.5" MEAN_2="0.4" ORDER="1081" SD_1="0.05" SD_2="0.05" SE="0.011785113019775794" STUDY_ID="STD-Iacono-2000" TOTAL_1="36" TOTAL_2="36" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="5.275346109507889" CI_START="-2.915346109507875" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="1.1800000000000068" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.03" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.5722586420453277" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="38" TOTAL_2="38" UNITS="" WEIGHT="100.0" Z="0.5647282158613915">
+<NAME>Heart Rate (bpm): mean absolute value</NAME>
+<GROUP_LABEL_1>Respimat Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Respimat</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours pMDI</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="5.275346109507889" CI_START="-2.915346109507875" DF="0.0" EFFECT_SIZE="1.1800000000000068" ESTIMABLE="YES" I2="0.0" ID="CMP-003.03.01" NO="1" P_CHI2="1.0" P_Z="0.5722586420453277" STUDIES="1" TAU2="0.0" TOTAL_1="38" TOTAL_2="38" WEIGHT="100.0" Z="0.5647282158613915">
+<NAME>Respimat vs pMDI without spacer</NAME>
+<CONT_DATA CI_END="5.275346109507889" CI_START="-2.915346109507875" EFFECT_SIZE="1.1800000000000068" ESTIMABLE="YES" MEAN_1="66.5" MEAN_2="65.32" ORDER="1082" SD_1="9.58" SD_2="8.61" SE="2.089500695834949" STUDY_ID="STD-Iacono-2000" TOTAL_1="38" TOTAL_2="38" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="16.62202794467537" CI_START="0.821134448727639" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="3.6944444444444446" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="2" I2="0.0" I2_Q="0.0" ID="CMP-003.04" LOG_CI_END="1.2206840081035784" LOG_CI_START="-0.08558572770398129" LOG_EFFECT_SIZE="0.5675491401997985" METHOD="MH" NO="4" P_CHI2="1.0" P_Q="0.0" P_Z="0.0885430877903949" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="36" TOTAL_2="38" WEIGHT="100.0" Z="1.7031335010767712">
+<NAME>Adverse Events</NAME>
+<GROUP_LABEL_1>Respimat Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>pMDI Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Less with Respimat</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Less with pMDI</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="16.62202794467537" CI_START="0.821134448727639" DF="0.0" EFFECT_SIZE="3.6944444444444446" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="2" I2="0.0" ID="CMP-003.04.01" LOG_CI_END="1.2206840081035784" LOG_CI_START="-0.08558572770398129" LOG_EFFECT_SIZE="0.5675491401997985" NO="1" P_CHI2="1.0" P_Z="0.0885430877903949" STUDIES="1" TAU2="0.0" TOTAL_1="36" TOTAL_2="38" WEIGHT="100.0" Z="1.7031335010767712">
+<NAME>Respimat vs pMDI without spacer</NAME>
+<DICH_DATA CI_END="16.62202794467537" CI_START="0.821134448727639" EFFECT_SIZE="3.6944444444444446" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="2" LOG_CI_END="1.2206840081035784" LOG_CI_START="-0.08558572770398129" LOG_EFFECT_SIZE="0.5675491401997985" ORDER="1083" O_E="0.0" SE="0.7673093089528373" STUDY_ID="STD-Iacono-2000" TOTAL_1="36" TOTAL_2="38" VAR="0.5887635756056808" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

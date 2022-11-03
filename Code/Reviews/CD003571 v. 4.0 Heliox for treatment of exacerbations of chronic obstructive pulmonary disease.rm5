@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003571" GROUP_ID="AIRWAYS" ID="650900032921505374" MERGED_FROM="" MODIFIED="2008-09-26 16:31:00 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Exported from Review Manager 4.2.1&lt;br&gt;Technical Editing by Chris Cates: - 4/1/2002&lt;/p&gt;&lt;p&gt;Authors and contributions: - please add contributions&lt;/p&gt;&lt;p&gt;References: - Fine &lt;/p&gt;&lt;p&gt;Table of included studies: - Interventions and comparators are not the same for the 2 included trials, so they have not been pooled. I have added data from the second study to put into RevMan.&lt;/p&gt;&lt;p&gt;Metaview Labels: - &lt;br&gt;Text of the review: - &lt;br&gt;The inclusion criteria state placebo-control, but the trials compared Oxygen with Heliox, so do you want to remove the word placebo? Similarly I am not sure from the text whether the studies were blinded so perhaps this should not be an inclusion criterion?&lt;/p&gt;&lt;p&gt;I have checked the data in Metaview against the original papers. The SD for HR and PCO2 were not correct and have been revised. I could not find any FEV1 data in the Juliet paper and have deleted this outcome. There is a problem using RevMan for crossover trials but since the paired t-tests show a value below 0.05 for the Borg Scale, ViMax , PaCO2 and Ti/Total this is pretty much in keeping with the results on the graphs in Metaview. I would not wish to use the Metaview confidence intervals however.&lt;/p&gt;&lt;p&gt;Paul do you want any of these results from single trials reported in the text (as there are no pooled results).&lt;/p&gt;&lt;p&gt;8/01/02 Discussed with Paul who has asked that the data from the single trials should be reported in the text but not put into metaview. CJC to action next week. &lt;br&gt;22/1/02 All totals removed from Metaview and results from the papers reported in the text.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" NOTES_MODIFIED="2008-09-26 15:29:55 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" REVIEW_NO="HOX-COP" REVMAN_SUB_VERSION="5.0.16" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="4.0">
+<COVER_SHEET MODIFIED="2008-09-26 16:31:00 +0200" MODIFIED_BY="Toby Lasserson">
+<TITLE>Heliox for treatment of exacerbations of chronic obstructive pulmonary disease</TITLE>
+<CONTACT MODIFIED="2008-09-26 16:31:00 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="12486" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Gustavo</FIRST_NAME><MIDDLE_INITIALS>J.</MIDDLE_INITIALS><LAST_NAME>Rodrigo</LAST_NAME><EMAIL_1>gurodrig@adinet.com.uy</EMAIL_1><MOBILE_PHONE>59898584376</MOBILE_PHONE><ADDRESS><ORGANISATION/><ADDRESS_1>Obligado 1180</ADDRESS_1><ADDRESS_2>Ap. 203</ADDRESS_2><CITY>Montevideo</CITY><ZIP>11300</ZIP><COUNTRY CODE="UY">Uruguay</COUNTRY><PHONE_1>59827082354</PHONE_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2008-09-26 16:31:00 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="12486" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Gustavo</FIRST_NAME><MIDDLE_INITIALS>J.</MIDDLE_INITIALS><LAST_NAME>Rodrigo</LAST_NAME><EMAIL_1>gurodrig@adinet.com.uy</EMAIL_1><MOBILE_PHONE>59898584376</MOBILE_PHONE><ADDRESS><ORGANISATION/><ADDRESS_1>Obligado 1180</ADDRESS_1><ADDRESS_2>Ap. 203</ADDRESS_2><CITY>Montevideo</CITY><ZIP>11300</ZIP><COUNTRY CODE="UY">Uruguay</COUNTRY><PHONE_1>59827082354</PHONE_1></ADDRESS></PERSON><PERSON ID="12478" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Charles</FIRST_NAME><MIDDLE_INITIALS>V</MIDDLE_INITIALS><LAST_NAME>Pollack</LAST_NAME><SUFFIX>M.A., M.D., FACEP</SUFFIX><POSITION>Chairman</POSITION><EMAIL_1>pollack2@mindspring.com</EMAIL_1><URL>and pollackc@pahosp.com</URL><ADDRESS><DEPARTMENT>Department of Emergency Medicine</DEPARTMENT><ORGANISATION>Pennsylvania Hospital</ORGANISATION><ADDRESS_1>800 Spruce Street</ADDRESS_1><ADDRESS_2>University of Pennsylvania Health System</ADDRESS_2><CITY>Philadelphia</CITY><ZIP>PA 19107</ZIP><COUNTRY CODE="US">USA</COUNTRY><PHONE_1>215-829-7549</PHONE_1><FAX_1>215-829-8044</FAX_1></ADDRESS></PERSON><PERSON ID="12485" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Carlos</FIRST_NAME><LAST_NAME>Rodrigo</LAST_NAME><SUFFIX>Dr</SUFFIX><EMAIL_1>crodrigo@asesp.com.uy</EMAIL_1><ADDRESS><DEPARTMENT>Unidad de Cuidados Intensivos</DEPARTMENT><ORGANISATION>Sociedad Española Primera en Socorros Mutuos</ORGANISATION><ADDRESS_1>Bulevar Artigas 1465</ADDRESS_1><CITY>Montevideo</CITY><ZIP>11300</ZIP><COUNTRY CODE="UY">Uruguay</COUNTRY><PHONE_1>5982 400 3526</PHONE_1><FAX_1>59824090962</FAX_1></ADDRESS></PERSON><PERSON ID="FB72D3DD82E26AA20100F9CCFABFA64F" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Brian</FIRST_NAME><MIDDLE_INITIALS>H</MIDDLE_INITIALS><LAST_NAME>Rowe</LAST_NAME><SUFFIX>MD, MSc, CCFP (EM), FCCP (BR)</SUFFIX><POSITION>Professor and Research Director</POSITION><EMAIL_1>brian.rowe@ualberta.ca</EMAIL_1><ADDRESS><DEPARTMENT>Department of Emergency Medicine</DEPARTMENT><ORGANISATION>University of Alberta</ORGANISATION><ADDRESS_1>Room 1G1.43 Walter C. Mackenzie Health Sciences Centre</ADDRESS_1><ADDRESS_2>8440  112th Street</ADDRESS_2><CITY>Edmonton</CITY><ZIP>T6G 2B7</ZIP><REGION>Alberta</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 780 407 6707</PHONE_1><PHONE_2>+1 780 407 6761</PHONE_2><FAX_1>+1 780 407 3982</FAX_1></ADDRESS></PERSON><PERSON ID="DA990F8082E26AA2005DA36437887272" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>E. Haydn</FIRST_NAME><LAST_NAME>Walters</LAST_NAME><POSITION>Professor and clinical chief of Medicine</POSITION><EMAIL_1>Haydn.Walters@utas.edu.au</EMAIL_1><ADDRESS><DEPARTMENT>Discipline of Medicine</DEPARTMENT><ORGANISATION>University of Tasmania Medical School</ORGANISATION><ADDRESS_1>43, Collins Street</ADDRESS_1><ADDRESS_2>PO BOX 252-34</ADDRESS_2><CITY>Hobart</CITY><ZIP>7001</ZIP><REGION>Tasmania</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 3 6226 4870</PHONE_1><FAX_1>+61 3 6226 4894</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-07-25 17:25:09 +0100" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;New studies found and included or excluded: 27/09/02&lt;/p&gt;" NOTES_MODIFIED="2008-07-25 17:25:09 +0100" NOTES_MODIFIED_BY="Toby Lasserson">
+<UP_TO_DATE>
+<DATE DAY="27" MONTH="9" YEAR="2002"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="27" MONTH="9" YEAR="2002"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="1999"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2000"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2002"/>
+</DATES>
+<WHATS_NEW>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="25" MONTH="7" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="7" MONTH="11" YEAR="2000"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Departamento de Emergencia Hospital Central de las FF.AA</NAME>
+<COUNTRY CODE="UY">Uruguay</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Garfield Weston Foundation</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-09-26 15:29:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY MODIFIED="2008-07-25 17:13:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-07-25 17:13:42 +0100" MODIFIED_BY="Toby J Lasserson">Helium-oxygen mixture for the treatment of exacerbations of chronic obstructive pulmonary disease</TITLE>
+<SUMMARY_BODY>
+<P>Mixtures of helium and oxygen (heliox) may make breathing easier, but there is not enough evidence from trials to show whether these mixtures can relieve attacks of COPD (chronic obstructive pulmonary disease).</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-07-25 17:13:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<ABS_BACKGROUND>
+<P>Due to its low density properties, helium-oxygen mixtures have the potential to decrease the work of breathing and possibly avoid the need for intubation and mechanical ventilation in patients with respiratory failure.<BR/> </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2008-07-25 17:13:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>To determine the effect of the addition of helium/oxygen mixtures (heliox) to standard medical care during ventilated and non-ventilated acute exacerbations of COPD.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>Randomized controlled trials were identified from the Cochrane Airways Review Group asthma Register. Primary authors and experts were contacted. References from included and excluded studies, known reviews and texts were also searched. <BR/> </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Studies were selected for inclusion if they compared treatment with heliox to placebo (oxygen or air) in randomized controlled trials in adults with an exacerbation of COPD. </P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Data from all trials were combined using the Review Manager (version 4.1). We planned to perform: 1) random effects weighted mean difference (WMD), with 95% confidence intervals (95% CI), 2) Homogeneity of effect sizes with the Dersimonian and Laird method with p&lt;0.1 as the cut point for significance, and 3) sensitivity analysis on different helium-oxygen mixtures (80/20 vs 70/30), and 4) methodological quality (Jadad score &gt;2 vs. &lt;3). An update search conducted in September 2002 identified one further excluded study. <BR/> </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Four studies, all published between 1997 and 2000 met the inclusion criteria. Two studies compared heliox-oxygen vs. air-oxygen in decompensated COPD patients who were not ventilated. One study was performed in mechanical ventilated patients and one in patients undergoing noninvasive pressure support ventilation (NIPSV). Data could be obtained for only two of the studies. One was a randomized crossover study of 70:30 helium-oxygen vs air-oxygen that involved nineteen patients with acute severe COPD, hospitalized in an intensive care unit for NIPSV . In the patients receiving heliox, arterial PCO2 fell more; WMD 0.8 kPa (95% CI 0.26, -1.34). The second was a trial involving 47 patients with acute COPD, who presented to an Emergency Department, randomized to receive updraft nebulization of albuterol and ipratropium bromide using 80% helium and 20% oxygen or compressed air as the driving gas. Treatments were administered at 0, 20, 40, and 120 minutes after randomization. There were no significant differences in the change of FEV1 and FVC between the two groups by either the 1 or 2 hours point, although a small improvement in FEF 25-75 was significantly greater in the heliox group than in the air group.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2008-07-25 17:13:44 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>There is currently insufficient evidence to support the use of helium-oxygen mixtures to treat acute exacerbations of COPD in either ventilated or non-ventilated patients. Suitably designed randomised controlled trials with the endpoint being the avoidance of mechanical ventilation may be justified.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-09-26 15:29:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND MODIFIED="2008-07-25 17:14:54 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>As early as 1935 helium and oxygen mixtures (heliox) were introduced to the medical community for treatment of airway obstruction (<LINK REF="REF-Barach-1935" TYPE="REFERENCE">Barach 1935</LINK>). There was a resurgence in interest in heliox in the 1980's for the treatment of acute asthma. Due to their low density with respect to air, heliox mixtures have the potential to decrease airway resistance and therefore decrease the work of breathing in situations associated with increased airway resistance. Thus, heliox treatment may benefit patients suffering from obstructive lesions of the larynx, trachea, and airways. Additionally, the deposition of inhaled particles in a heliox mixture was shown to be improved, with a greater percentage of particle retention in the lung (<LINK REF="REF-Anderson-1993" TYPE="REFERENCE">Anderson 1993</LINK>). This suggests that one of the beneficial effects of heliox in situations of reactive airway disease may be the improved deposition of aerosolized bronchodilators. </P>
+<P>On the other hand, <LINK REF="REF-Hess-1999" TYPE="REFERENCE">Hess 1999</LINK> concluded that the inhaled mass of albuterol decreased significantly when the nebulizer was powered with heliox rather than air. The authors recommended that the flow to power the nebulizer should be increased when heliox is used. Patients with chronic obstructive pulmonary disease (COPD) have increased resistance to flow due to narrowing of the airways by edema and mucous, and loss of lung collagen, and this increased resistance to flow results in greater work of breathing. It can be expected that breathing a high mixture of helium (&gt;60%) would result in lower resistance to flow, and in a decrease in work of breathing. Research on patients with stable COPD (<LINK REF="STD-Swidwa-1985" TYPE="STUDY">Swidwa 1985</LINK>) has demonstrated a decrease in lung hyperinflation (as measured by a fall in functional residual capacity by 15%). This would be expected to place the respiratory muscles at a better mechanical advantage and decrease the work of breathing. Indeed, a significant decline in VCO2 was also noted supporting a reduced work of breathing. Lastly, there was a small but significant fall in the PaCO2. These findings lend support to the therapeutic use of heliox in patients with COPD. Thus, helium-oxygen mixtures have the potential to stabilize patients with acute respiratory failure who might otherwise require intubation and mechanical ventilation. However, little is unknown regarding the use of heliox in treating patients with acute exacerbations of COPD.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>The objective of this systematic review was to determine the effect of the addition of heliox to standard medical care during acute COPD exacerbations, as measured by pulmonary function and clinical endpoints.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-09-26 15:29:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA MODIFIED="2008-07-25 17:15:24 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>Only randomized, single or double blind, placebo controlled trials (either parallel group or crossover) were considered for inclusion. </P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Participants should be adults ( &gt;18 years of age) with a clinical diagnosis COPD (according to accepted criteria such as those published by the ATS) experiencing an exacerbation of their COPD, presenting to emergency rooms or other acute care settings. Studies involving patients exclusively with asthma were not included. Studies involving both COPD and asthmatic patients were considered if patients with COPD could be separately analyzed by review the study or through correspondence with the authors. COPD patients requiring mechanical or noninvasive ventilation at presentation were included. </P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>All patients must have been treated with either helium-oxygen or air-oxygen administered in random order. Study co-interventions such as the use of corticosteroids and other drugs were monitored and would form subgroup comparisons when possible. Also, different helium-oxygen mixtures (80/20, 70/30, 60/40), and duration of heliox administration would be considered in subgroup analysis. </P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-07-25 17:15:24 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-07-25 17:15:16 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The primary outcome measures were changes in peak expiratory flow (PEF; absolute and percent of predicted), forced expiratory volume in the first second (FEV1; absolute and percent of predicted)</P>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2008-07-25 17:15:23 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Additional outcomes were:<BR/>1) Symptom score/symptoms/signs (wheezing, shortness of breath, dyspnea, accessory muscle use)<BR/>2) Physiological measures: PaO2, SaO2, tidal volume, minute ventilation, inspiratory time and vital signs<BR/>3 ) Side effects/adverse effects<BR/>4) Clinical outcomes: need for mechanical ventilation, admissions to the hospital. The timing of assessment was before, during, and 15-30 minutes after breathing heliox.</P>
+<P>Assessments included up to 6 hours of treatment.</P>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-07-25 17:16:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<ELECTRONIC_SEARCHES MODIFIED="2008-07-25 17:16:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>A search was carried out using the Cochrane Airways group "COPD RCT" register, derived from a search of EMBASE, MEDLINE, and CINAHL for the years 1966 to 2000. In addition, hand searching of the 20 most productive respiratory care journals was completed and relevant RCTs were added to the register, including those published in languages other than English. Search of this register was completed using the following terms:</P>
+<P>(((Emerg* OR acute OR exacerbat*) AND (COPD OR Emphysema OR Chronic bronchitis OR bronchitis OR CAL OR COAD)) AND ((Heliox OR Helium) AND Oxygen))</P>
+<P>An advanced search of CENTRAL, the Cochrane Controlled Trials Register was completed using the above search strategy.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2008-07-25 17:15:51 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Authors of all studies were contacted to locate other unpublished or "in progress" studies which meet the inclusion criteria. References from included studies and any identified reviews were searched for citations. Also we contacted companies that sell heliox or delivery systems for it.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-09-26 15:29:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_SELECTION MODIFIED="2008-07-25 17:19:02 +0100" MODIFIED_BY="Toby J Lasserson">
+<OL>
+<LI>Titles, abstracts, and citations were independently reviewed by the two reviewers (GJR and CR) to assess potential relevance for full review. </LI>
+<LI>From the full text, both reviewers independently assessed studies for inclusion based on the criteria for population, intervention, study design and outcomes. </LI>
+<LI>Agreement was measured using kappa statistic values. Any disagreement over inclusion was resolved by a third reviewer (CVP) and consensus.</LI>
+</OL>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-07-25 17:19:40 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two reviewers (GJR and CR) would independently extracted data from included trials and enter results into the Cochrane Collaboration software program (Review Manager). Data extraction included the following items:</P>
+<OL>
+<LI>Population: age, gender, number of patients studied, patient demographics, withdrawals </LI>
+<LI>Intervention: agent, dose, route of delivery, and duration of therapy</LI>
+<LI>Control: concurrent treatments (beta-agonist, ipratropium bromide, corticosteroids, and aminophylline)</LI>
+<LI>Outcomes: Pulmonary function measures (FEV1 and PEF), symptom score/symptoms (wheezing, shortness of breath, dyspnea, accessory muscle use), physiological measures (PaO2, SaO2, tidal volume, minute ventilation, inspiratory time and vital signs), side effects/adverse effects, clinical outcomes (need for mechanical ventilation, admissions to the hospital)</LI>
+<LI>Design: method of randomization and allocation concealment.</LI>
+</OL>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-07-25 17:17:53 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two reviewers (GJR and CR) assessed the methodological quality of the included trials using two methods. First, using the Cochrane approach to assessment of allocation concealment: 1) Grade A: Adequate concealment; 2) Grade B: Uncertain; 3) Grade C: Clearly inadequate concealment. Second, each study was assessed for validity on a 0-5 scale, by the method of Jadad (<LINK REF="REF-Jadad-1995" TYPE="REFERENCE">Jadad 1995</LINK>): 1) Was the study described as randomized? (1=yes, 0=no); 2) Was the study described as double-blind? (1=yes, 0=no); 3) Was there a description of withdrawals and drop outs? (1=yes, 0=no); 4) Was the method of randomisation well described and appropriate? (1=yes, 0=no); 5) Was the method of double-blinding well described and appropriate? (1=yes, 0=no); 6) Deduct 1 point if methods of randomisation or blinding were inappropriate. Inter-rater reliability was measured for both quality scales by using kappa statistics.</P>
+</QUALITY_ASSESSMENT>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2008-07-25 17:18:16 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>For pooled effects, heterogeneity would be tested using the Breslow-Day test; with p&lt;0.1 considered as statistically significant.</P>
+</HETEROGENEITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-07-25 17:18:05 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>All included trials would be combined using the Review Manager (version 4.1). For continuous variables the results of individual studies would be calculated as random effects weighted mean difference (WMD) or standardized mean difference (SMD), with 95% Confidence Intervals (CI). All similar studies would be pooled using random effects WMD/SMD and 95% CIs. For dichotomous variables, a random effects relative risk (RR) with 95% CI would be calculated for individual studies. All similar studies would be pooled using random effects RR and 95% CIs.</P>
+</DATA_SYNTHESIS>
+<SENSITIVITY_ANALYSIS MODIFIED="2008-09-26 15:29:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Sensitivity analysis would be performed using:</P>
+<OL>
+<LI>Co-interventions with corticosteroids vs. none</LI>
+<LI>Different helium-oxygen mixtures (80/20, vs. 70/30 or 60/40)</LI>
+<LI>Duration of heliox administration (long vs. short)</LI>
+<LI>Methodological quality (concealment Grade A vs. Grades B &amp; C, or Jadad score &gt;2 vs. &lt;3)</LI>
+<LI>Random effects vs. fixed effects modelling</LI>
+</OL>
+</SENSITIVITY_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-07-25 17:24:30 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-07-25 17:24:30 +0100" MODIFIED_BY="Toby J Lasserson">
+<SEARCH_RESULTS MODIFIED="2008-07-25 17:20:12 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Three-hundred and forty two articles were identified in this search. Of these, the reviewers selected eighteen papers about the use of heliox-oxygen in airflow obstruction as potentially eligible.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-07-25 17:24:30 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We selected four studies (<LINK REF="STD-Gerbeaux--1997" TYPE="STUDY">Gerbeaux 1997</LINK>; <LINK REF="STD-Jolliet-1999" TYPE="STUDY">Jolliet 1999</LINK>; <LINK REF="STD-Onn-1999" TYPE="STUDY">Onn 1999</LINK>; <LINK REF="STD-de-Boisblanc-2000" TYPE="STUDY">de Boisblanc 2000</LINK>) published between 1997 and 2000. One study was from France, one from Israel, one from Switzerland, and one from USA. The studies compared heliox-oxygen vs. air-oxygen in decompensated COPD non-ventilated patients, (two studies), in mechanical ventilated patients (one study), and in noninvasive pressure support ventilated patients (one study). Two studies were available in abstract form only, and attempts to contact the authors were unsuccessful so it was not possible to include data from these studies in the meta-analysis (Gerbeaux 1997; <LINK REF="STD-Onn-1999" TYPE="STUDY">Onn 1999</LINK>). Therefore, we extracted data from two studies (<LINK REF="STD-Jolliet-1999" TYPE="STUDY">Jolliet 1999</LINK>; <LINK REF="STD-de-Boisblanc-2000" TYPE="STUDY">de Boisblanc 2000</LINK>). An update search conducted in September 2002 identified one excluded study (<LINK REF="STD-Gerbeaux-2001" TYPE="STUDY">Gerbeaux 2001</LINK>).</P>
+<P>The Jolliet et al study (<LINK REF="STD-Jolliet-1999" TYPE="STUDY">Jolliet 1999</LINK>) was designed to test the hypothesis that, in decompensated COPD, noninvasive pressure support ventilation (NIPSV) using a 70:30 helium:oxygen mixture instead of 70:30 air:oxygen mixture could reduce dyspnea and improve ventilatory variables, gas exchange and haemodynamic tolerance. The study involved 19 severe COPD decompensated patients (FEV1 0.83 L, PCO2 7.3 kPa). The protocol sequence was: 45 min of NIPSV with air:oxygen or helium:oxygen, no ventilation for 45 min, and 45 min of NIPSV with air:oxygen or helium:air. On the other hand, deBoisblanc et al. (<LINK REF="STD-de-Boisblanc-2000" TYPE="STUDY">de Boisblanc 2000</LINK>) performed a randomized trial to determine whether the bronchodilator effects of albuterol and ipratropium bromide are greater if updraft nebulization is driven by 80% helium and 20% oxygen than if driven by compressed room air during the treatment of an acute exacerbation of COPD disease. Treatments were given at 0, 20, 40 and 120 minutes after randomization. The study involved 47 COPD decompensated patients (FEV1 40% of predicted), PaCO2 7.3 kPa).</P>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2008-07-25 17:21:12 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Nine articles were excluded because they mainly involved acute asthma patients (<LINK REF="STD-Shiue-1989" TYPE="STUDY">Shiue 1989</LINK> <LINK REF="STD-Gluck-1990" TYPE="STUDY">Gluck 1990</LINK> <LINK REF="STD-Kass-1995" TYPE="STUDY">Kass 1995</LINK>; <LINK REF="STD-Manthous-1995" TYPE="STUDY">Manthous 1995</LINK>; <LINK REF="STD-Carter-1996" TYPE="STUDY">Carter 1996</LINK>; <LINK REF="STD-Kudukis-1997" TYPE="STUDY">Kudukis 1997</LINK>; <LINK REF="STD-Verbeek-1998" TYPE="STUDY">Verbeek 1998</LINK>; <LINK REF="STD-Henderson-1999" TYPE="STUDY">Henderson 1999</LINK>; <LINK REF="STD-Kass-1999" TYPE="STUDY">Kass 1999</LINK>); five were excluded due to: 1) no randomized trials on COPD decompensated patients (<LINK REF="STD-Diehl-1999" TYPE="STUDY">Diehl 1999</LINK>; <LINK REF="STD-Esquinas-2000" TYPE="STUDY">Esquinas 2000</LINK>; <LINK REF="STD-Jaber-2000" TYPE="STUDY">Jaber 2000</LINK>); 2) helium-oxygen was tested in stable COPD patients (<LINK REF="STD-Swidwa-1985" TYPE="STUDY">Swidwa 1985</LINK>); and 3) letter with anecdotal evidence (<LINK REF="STD-Polito-1995" TYPE="STUDY">Polito 1995</LINK>). See <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>. </P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-07-25 17:24:30 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The first manuscript (<LINK REF="STD-Jolliet-1999" TYPE="STUDY">Jolliet 1999</LINK>) presented a randomized, crossover design. Its methodological quality was high (Jadad score=3), but it did not report the use of concealment allocation. On the other hand, the second one (<LINK REF="STD-de-Boisblanc-2000" TYPE="STUDY">de Boisblanc 2000</LINK>) showed a randomized design; its methodological quality was low (Jadad=2), and it did not report concealment allocation. Full manuscripts were not available on two studies (<LINK REF="STD-Gerbeaux--1997" TYPE="STUDY">Gerbeaux 1997</LINK>; <LINK REF="STD-Onn-1999" TYPE="STUDY">Onn 1999</LINK>), so they were not rated. </P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-07-25 17:24:30 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>In <LINK REF="STD-Jolliet-1999" TYPE="STUDY">Jolliet 1999</LINK>, air:oxygen and helium:oxygen both decreased respiratory rate and increased tidal volume and minute ventilation. Both gases increased total respiratory cycle time and decreased the inspiratory/total time ratio, the reduction in the latter being significantly greater with helium:oxygen (Change in Ti/Ttot -0.27 (SD 0.1) for helium v. -0.23 (SD 0.07) for air , p&lt;0.05). Peak inspiratory flow rate increased more with helium:oxygen. PaO2 increased with both gases, whereas PaCO2, decreased more with helium:oxygen (mean fall in PaCO2 of -7.2 kPa (SD 0.9) with helium v. -6.4 SD 0.8 with air, p&lt;0.05). Dyspnea score (Borg scale) decreased more with helium:oxygen than with air:oxygen, (mean change -1.8 points (SD 1.1) on helium and -0.8 points (SD 0.9) on air, p&lt;0.05). No clinical outcome data such as duration of non-invasive ventilation, or need for intubation and mechanical ventilation were available</P>
+<P>In the second randomized trial (<LINK REF="STD-de-Boisblanc-2000" TYPE="STUDY">de Boisblanc 2000</LINK>) there were no significant differences in the change of FEV1 and FVC between the two groups by either the 1 or 2 hours point. However, the small improvement in FEF 25-75 was significantly greater in the heliox group than in the air group ( increase with Heliox 15% (95% CI 8% to 21%) and with air 7% (95% CI 4% to 11%), p=0.05). The authors concluded that these data do not support the routine use of heliox as a driving gas for nebulization of bronchodilators in acute exacerbations of COPD. </P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-07-25 17:21:44 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>To date, we could find only two adequate studies investigating the use of heliox to treat acute exacerbations of airway obstruction due to COPD. These studies included non-ventilated and noninvasively ventilated patients. The data suggest that heliox can improve gas exchange and reduce symptoms in patients receiving non-invasive ventilation for respiratory failure due to exacerbations of COPD, but it has little additional benefit in non-ventilated acute COPD patients.</P>
+<P>The improvement in arterial PCO2 was small, but could be sufficient to avoid the need for intubation and mechanical ventilation in some patients. There are, however, no published data to support this conclusion. Suitably designed randomised controlled trials with the endpoint being the avoidance of mechanical ventilation may be justified.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-07-25 17:21:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<IMPLICATIONS_PRACTICE MODIFIED="2008-07-25 17:21:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We conclude that currently, there is not enough evidence to support the use of helium-oxygen mixtures to treat acute exacerbations of COPD in either ventilated or non-ventilated patients.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Questions regarding the treatment of acute COPD exacerbations with heliox remain unanswered: </P>
+<UL>
+<LI>Larger randomized and controlled studies are needed to clarify its efficacy</LI>
+<LI>These studies are needed to allow sub-group analyses (severity, clearly defined and based on presenting pulmonary function results and response to initial beta-agonist and/or anticholinergic therapy whenever possible, different helium-oxygen mixtures, and duration of heliox administration).</LI>
+<LI>Studies are required to examine the effect of heliox with specific co interventions (i.e. corticosteroids and other drugs). </LI>
+<LI>Future research must concentrate on well defined outcomes which may lead to more informative reviews. More specifically, criteria for discharge and reporting of lung function test data in a systematic fashion would assist in further work.</LI>
+</UL>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>The authors wish to acknowledge the assistance of Stephen Milan, Anna Bara, and Jane Dennis of the Cochrane Airways Review Group. We would also like to acknowledge the assistance of the following corresponding authors: Stephen Mette, Laurent Brochard and Jesse B. Hall. Finally, the assistance of Professor Paul Jones (Cochrane Airways Review Group Coordinating Editor) was greatly appreciated.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>The authors who have been involved in this review have done so without any known conflicts of interest. They are neither involved with the primary studies nor affiliated with any company that produces heliox.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>GR: Protocol initiation and development, assessed search results, data extraction, entry and analysis, interpretation and write-up<BR/>CR: Protocol initiation and development, assessed search results, data extraction, entry and analysis, interpretation and write-up<BR/>CP: Protocol initiation and development, assessed search results, data extraction, entry and analysis, interpretation and write-up<BR/>BR: Protocol initiation and development, assessed search results, data extraction, entry and analysis, interpretation and write-up<BR/>EHW: Editorial support throughout</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-07-25 17:25:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDIES MODIFIED="2008-07-25 17:24:36 +0100" MODIFIED_BY="Toby J Lasserson">
+<INCLUDED_STUDIES MODIFIED="2008-07-25 17:24:36 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-de-Boisblanc-2000" MODIFIED="2008-07-25 17:24:30 +0100" MODIFIED_BY="Toby J Lasserson" NAME="de Boisblanc 2000" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>de Boisblanc BP, DeBleiux P, Resweber S, Fusco EE</AU>
+<TI>Randomized trial of the use of heliox as a driving gas for updraft nebulization of bronchodilators in the emergency treatment of acute exacerbations of chronic obstructive pulmonary disease</TI>
+<SO>Critical Care Medicine</SO>
+<YR>2000</YR>
+<VL>28</VL>
+<PG>3177-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jolliet-1999" MODIFIED="2008-07-25 17:24:36 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Jolliet 1999" YEAR="1999">
+<REFERENCE MODIFIED="2008-07-25 17:24:36 +0100" MODIFIED_BY="Toby J Lasserson" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Jolliet P, Tassaux D, Thouret JM, Chevrolet JC</AU>
+<TI>Beneficial effects of helium:oxygen versus air:oxygen noninvasive pressure support in patients with decompensated chronic obstructive pulmonary disease</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>27</VL>
+<PG>2422-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Carter-1996" NAME="Carter 1996" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Carter ER, Webb CR, Mofitt DR</AU>
+<TI>Evaluation of heliox in children hospitalized with acute severe asthma</TI>
+<SO>Chest</SO>
+<YR>1996</YR>
+<VL>109</VL>
+<PG>256-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Diehl-1999" NAME="Diehl 1999" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Diehl JL, Mercat A, Guerot E, Michard P, Aissa F, Richard C, et al</AU>
+<TI>Heliox reduces work of breathing during weaning from mechanical ventilation in severe chronic obstructive pulmonary disease (Abstract)</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<PG>A370</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dorfman-unpublished" NAME="Dorfman unpublished" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="UNPUBLISHED">
+<AU>Dorfman TA, Burton JH, Jones P, Shipley ER</AU>
+<TI>Inhaled heliox does not benefit emergency department patients with moderate to severe asthma</TI>
+<SO>Unpublished</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Esquinas-2000" NAME="Esquinas 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Esquinas A, Carrillo A, Bano D, Gil J, Jara P, Rodriguez MD, et al</AU>
+<TI>Gas heliox during noninvasive mechanical ventilation in hypercapnic chronic obstructive pulmonary exacerbation (Abstract)</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2000</YR>
+<VL>161</VL>
+<PG>A557</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gerbeaux-2001" NAME="Gerbeaux 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gerbeaux P, Gainnier M, Boussuges A, Rakotonirina J, Nelh P, Torro D, et al</AU>
+<TI>Use of heliox in patients with severe exacerbation of chronic obstructive pulmonary disease</TI>
+<SO>Critical Care Medicine</SO>
+<YR>2001</YR>
+<VL>29</VL>
+<NO>12</NO>
+<PG>2322-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gluck-1990" NAME="Gluck 1990" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gluck EH, Onorato DJ, Castriotta R</AU>
+<TI>Helium-oxygen mixtures in intubated patients with status asthmaticus and respiratory acidosis</TI>
+<SO>Chest</SO>
+<YR>1990</YR>
+<VL>98</VL>
+<PG>693-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Henderson-1999" NAME="Henderson 1999" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Henderson SO, Acharya P, Kilaghbian T, Perez J, Korn CS, Chan LS</AU>
+<TI>Use of heliox-driven nebulizer therapy in the treatment of acute asthma</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>1999</YR>
+<VL>33</VL>
+<PG>141-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jaber-2000" NAME="Jaber 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jaber S, Fodil R, Carlucci A, Boussarsar M, Pigeot J, Lemaire F, et al</AU>
+<TI>Noninvasive ventilation with helium-oxygen in acute exacerbations of chronic obstructive pulmonary disease</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>2000</YR>
+<VL>161</VL>
+<PG>1191-1200</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kass-1995" NAME="Kass 1995" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kass JE, Castriotta RJ</AU>
+<TI>Heliox therapy in acute severe asthma</TI>
+<SO>Chest</SO>
+<YR>1995</YR>
+<VL>107</VL>
+<PG>757-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kass-1999" NAME="Kass 1999" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kass JE, Terregino CA</AU>
+<TI>The effect of heliox in acute severe asthma. A randomized controlled trial</TI>
+<SO>Chest</SO>
+<YR>1999</YR>
+<VL>116</VL>
+<PG>296-300</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kudukis-1997" NAME="Kudukis 1997" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kudukis TM, Manthous CA, Schmidt GA, Hall JB, Wylam ME</AU>
+<TI>Inhaled helium-oxygen revisited: effect of inhaled helium-oxygen during the treatment of status asthmaticus in children</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>1997</YR>
+<VL>130</VL>
+<PG>217-24</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Manthous-1995" NAME="Manthous 1995" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Manthous CA, Hall JB, Melmed A, Caputo MA, Walter J, et al</AU>
+<TI>Heliox improves pulsus paradoxus and peak expiratory flow in nonintubated patients with severe asthma</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1995</YR>
+<VL>151</VL>
+<PG>310-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Polito-1995" NAME="Polito 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Polito A, Fessler H</AU>
+<TI>Heliox in respiratory failure from obstructive lung disease (letter)</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1995</YR>
+<VL>332</VL>
+<PG>192-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shiue-1989" NAME="Shiue 1989" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shiue ST, Gluck EH</AU>
+<TI>The use of helium-oxygen mixtures in the support of patients with status asthmaticus and respiratory acidosis</TI>
+<SO>Journal of Asthma</SO>
+<YR>1989</YR>
+<VL>26</VL>
+<PG>177-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Swidwa-1985" NAME="Swidwa 1985" YEAR="1985">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Swidwa DM, Montenegro HD, Goldman MD, Lutchen KR, Saidel GM</AU>
+<TI>Helium-oxygen breathing in severe chronic obstructive pulmonar disease</TI>
+<SO>Chest</SO>
+<YR>1985</YR>
+<VL>87</VL>
+<PG>790-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Verbeek-1998" NAME="Verbeek 1998" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Verbeek PR, Chopra A</AU>
+<TI>Heliox does not improve FEV1 in acute asthma patients</TI>
+<SO>Journal of Emergency Medicine</SO>
+<YR>1998</YR>
+<VL>16</VL>
+<PG>545-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gerbeaux--1997" NAME="Gerbeaux  1997" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Gerbeaux PR, Ledoray V, Boussuges A, Jammes Y, Sainty JM</AU>
+<TI>Breathing heliox during mechanical ventilation: effects in patients with chronic obstructive pulmonar disease (Abstract)</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1997</YR>
+<VL>155</VL>
+<PG>A85</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Onn-1999" NAME="Onn 1999" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Onn A, Staroselsky A, Mann A, Schwarz Y, Greif J.</AU>
+<TI>Usefullness of heliox therapy in COPD exacerbation (Abstract)</TI>
+<SO>American Journal of Respiratory &amp; Critical Care Medicine</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<PG>A811</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-07-25 17:25:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2008-07-25 17:25:11 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Anderson-1993" MODIFIED="2008-07-25 17:25:11 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Anderson 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Anderson M, Svartengren M, Bylin G, Philipson K, Camner P</AU>
+<TI>Deposition in asthmaticus of particles inhaled in air or in helium-oxygen</TI>
+<SO>American Review of Respiratory Disease</SO>
+<YR>1993</YR>
+<VL>147</VL>
+<PG>524-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Barach-1935" MODIFIED="2008-07-25 17:25:11 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Barach 1935" TYPE="JOURNAL_ARTICLE">
+<AU>Barach AL</AU>
+<TI>The use of helium in the treatment of asthma and obstructive lesions in the larynx and trachea</TI>
+<SO>Annals of Internal Medicine</SO>
+<YR>1935</YR>
+<VL>9</VL>
+<PG>739-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hess-1999" MODIFIED="2008-07-25 17:25:11 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Hess 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Hess DR, Acosta FL, Ritz RH, Kacmarek RM, Camargo CA</AU>
+<TI>The effect of heliox on nebulizer function using a beta-agonist bronchodilator</TI>
+<SO>Chest</SO>
+<YR>1999</YR>
+<VL>115</VL>
+<PG>184-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1995" MODIFIED="2008-07-25 17:25:11 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Jadad 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports of randomized controlled trials: is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1995</YR>
+<VL>134</VL>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Manthous-1997" NAME="Manthous 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Manthous CA, Morgan S, Pohlman A, Hall JB</AU>
+<TI>Heliox in the treatment of airflow obstruction: A critical review of the literature</TI>
+<SO>Respiratory Care</SO>
+<YR>1997</YR>
+<VL>42</VL>
+<PG>1034-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-07-25 17:22:04 +0100" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-07-25 17:22:04 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-de-Boisblanc-2000">
+<CHAR_METHODS>
+<P>Design: Prospective, randomized</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Randomized: 50<BR/>Eligible: 250<BR/>Completed: 47<BR/>Majors exclusions: non-availability of one of the investigators or significant co-morbid condition<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting: Emergency Department<BR/>Interventions: a nebulization of bronchodilators (albuterol and ipratropium bromide) using either 80% helium and 20% oxygen or compressed room air as the driving gas.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Outcome: pulmonary function (FEV1, FVC, FEF25-75) as % of predicted</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-25 17:22:04 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Jolliet-1999">
+<CHAR_METHODS>
+<P>Design: Prospective, randomized, crossover. <BR/>Method of randomization: not stated</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-07-25 17:21:57 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Eligible: 25<BR/>Randomized: 20 Completed: 19<BR/>Majors exclusions: pneumothorax, severe respiratory failure or haemodynamic instability, with high probability of imminent intubation, hypoxaemia requiring an inspired oxygen fraction &gt;0.3, impaired consciousness.<BR/>Patients with severe COPD (FEV1=0.83) after initial stabilization.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Setting:Medical intensive care unit, university tertiary care center.<BR/>Interventions: Noninvasive pressure support ventilation was administered: 45 min with air:oxygen or helium:oxygen (70:30).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-07-25 17:22:04 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Outcomes included were: dyspnea, respiratory rate, tidal volume, peak inspiratory flow, minute ventilation, inspiratory time, respiratory cycle duration, pH, alveolo-arterial O2 difference, PaO2, PaCO2, systemic arterial pressure, and heart rate.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Carter-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Diehl-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Abstract. Nonrandomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dorfman-unpublished">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Esquinas-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Abstract. Nonrandomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gerbeaux-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective analysis over 18 months</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gluck-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients<BR/>Nonrandomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Henderson-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Jaber-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Nonrandomized trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kass-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients<BR/>Nonrandomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kass-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kudukis-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Manthous-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients<BR/>Nonrandomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Polito-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Letter. Anecdotal evidence</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shiue-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients<BR/>Nonrandomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Swidwa-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Stable COPD patients. Nonrandomized trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Verbeek-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Acute asthma patients<BR/>Nonrandomized trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Gerbeaux--1997">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Onn-1999">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-07-25 17:22:33 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-07-25 17:22:33 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-25 17:22:33 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Jolliet-1999">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-25 17:22:20 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-de-Boisblanc-2000">
+<DESCRIPTION>
+<P>Third party randomisation </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Nonivasive ventilation using helium -O2 vs air-O2</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Dyspnea decrease (Borg scale)</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Helium-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Air-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.36093214190295564" CI_START="-1.6390678580970444" EFFECT_SIZE="-1.0" ESTIMABLE="YES" MEAN_1="-1.8" MEAN_2="-0.8" ORDER="4497" SD_1="1.1" SD_2="0.9" SE="0.32606102108912716" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Tidal volume (mL)</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours air-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours helium-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="118.28923540812727" CI_START="-98.28923540812727" EFFECT_SIZE="10.0" ESTIMABLE="YES" MEAN_1="830.0" MEAN_2="820.0" ORDER="4498" SD_1="160.0" SD_2="180.0" SE="55.25062514530825" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.03" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Inspiratory/Total time ratio</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours helium-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours air-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.019727984524883543" CI_START="-0.12027201547511641" EFFECT_SIZE="-0.06999999999999998" ESTIMABLE="YES" MEAN_1="0.23" MEAN_2="0.3" ORDER="4499" SD_1="0.05" SD_2="0.1" SE="0.025649458802128853" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Peak inspiratory flow rate (L/min)</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours air-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours helium-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="42.487470214392445" CI_START="21.51252978560756" EFFECT_SIZE="32.0" ESTIMABLE="YES" MEAN_1="110.0" MEAN_2="78.0" ORDER="4500" SD_1="20.0" SD_2="12.0" SE="5.350848432479509" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.05" NO="5" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>PaO2 (KPa)</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours air-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours helium-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.3533303432734367" CI_START="-1.9533303432734381" EFFECT_SIZE="-0.3000000000000007" ESTIMABLE="YES" MEAN_1="10.2" MEAN_2="10.5" ORDER="4501" SD_1="2.6" SD_2="2.6" SE="0.8435513898799653" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.07" NO="7" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>PaCO2 (KPa)</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours helium-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours air-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.25855382295936347" CI_START="-1.3414461770406363" EFFECT_SIZE="-0.7999999999999998" ESTIMABLE="YES" MEAN_1="-7.2" MEAN_2="-6.4" ORDER="4502" SD_1="0.9" SD_2="0.8" SE="0.27625312572654126" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.08" NO="8" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>pH</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours helium-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours air-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.03248232879365613" CI_START="-0.012482328793656558" EFFECT_SIZE="0.009999999999999787" ESTIMABLE="YES" MEAN_1="7.41" MEAN_2="7.4" ORDER="4503" SD_1="0.03" SD_2="0.04" SE="0.011470786693528088" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.09" NO="9" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="19" TOTAL_2="19" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Heart rate (/min)</NAME>
+<GROUP_LABEL_1>Helium-O2</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air-O2</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours helium-O2</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours air-O2</GRAPH_LABEL_2>
+<CONT_DATA CI_END="3.902548002241586" CI_START="-13.902548002241586" EFFECT_SIZE="-5.0" ESTIMABLE="YES" MEAN_1="87.0" MEAN_2="92.0" ORDER="4504" SD_1="14.0" SD_2="14.0" SE="4.542199791661351" STUDY_ID="STD-Jolliet-1999" TOTAL_1="19" TOTAL_2="19" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Nebulisation of albuterol and ipatropium using Heliox vs Air</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="24" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>FEV1 (change in % predicted)</NAME>
+<GROUP_LABEL_1>Heliox</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Heliox</GRAPH_LABEL_2>
+<CONT_DATA CI_END="6.291006968959091" CI_START="-6.291006968959091" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="10.0" MEAN_2="10.0" ORDER="4505" SD_1="11.0" SD_2="11.0" SE="3.2097564131697065" STUDY_ID="STD-de-Boisblanc-2000" TOTAL_1="23" TOTAL_2="24" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="24" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>FEF 25-75 (change in % predicted)</NAME>
+<GROUP_LABEL_1>Heliox</GROUP_LABEL_1>
+<GROUP_LABEL_2>Air</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours air</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Heliox</GRAPH_LABEL_2>
+<CONT_DATA CI_END="15.109459331282146" CI_START="0.8905406687178541" EFFECT_SIZE="8.0" ESTIMABLE="YES" MEAN_1="15.0" MEAN_2="7.0" ORDER="4506" SD_1="15.0" SD_2="9.0" SE="3.627341822278702" STUDY_ID="STD-de-Boisblanc-2000" TOTAL_1="23" TOTAL_2="24" WEIGHT="0.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK>
+<FEEDBACK_ITEM ID="FBK-01" NO="1">
+<TITLE>Quality of the review</TITLE>
+<DATE_SUBMITTED>
+<DATE DAY="" MONTH="" YEAR=""/>
+</DATE_SUBMITTED>
+<FEEDBACK_SUMMARY>
+<P>I find it surprising that the Cochrane Library have published a review that concludes that there is insufficient evidence to justify Heliox. If the purpose of the Cochrane library is as stated to synthesise a plethora of articles (so that we do not have to), then why has Rodrigo et al reviewed a subject with only 2 papers and concluded that there is currently not enough data to review!</P>
+<P>As to interpretation of the results of the two papers; That Heliox does not alter lung function is not surprising given that Heliox does not treat the underlying obstruction. The fact that PCO2 does fall with the use of Heliox is significant, and I please refer intensivists to Gerbeaux et al Crit Care Med 2001 29:2322-2324 Use of Heliox in patients with severe exacerbations of COPD, before making any decisions on use.</P>
+<P>I certify that I have no affiliations with or involvement in any organisation or entity with a direct financial interest in the subject matter of my criticisms.</P>
+</FEEDBACK_SUMMARY>
+<FEEDBACK_REPLY/>
+<FEEDBACK_CONTRIBUTORS>
+<P>Paul Simpson.</P>
+</FEEDBACK_CONTRIBUTORS>
+</FEEDBACK_ITEM>
+</FEEDBACK>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

@@ -1,0 +1,2060 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD000195.pub2" GROUP_ID="AIRWAYS" ID="347599100109440273" MERGED_FROM="" MODIFIED="2008-07-23 12:27:20 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3.1&lt;/p&gt;&lt;p&gt;CJC Editing April 2007&lt;br&gt;I have made some minor changes in red. I have removed &amp;quot;; however, oral agents are more popular&amp;quot; from the end of the abstract and this does not flow from the data in this review. NNT adjusted using Visual Rx and Relative Risk with Figures inserted. Hope you approve!&lt;br&gt;Good Update. Thanks Brian&lt;br&gt;Please confirm changes and we can submit this.&lt;/p&gt;&lt;p&gt;============================================&lt;br&gt;1)&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Highlighted the changed areas in red;&lt;br&gt;2)&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Dropped the direct comparisons of IM vs oral, as this is part of a new review (Hoffman 1988 and inserted in excluded studies section);&lt;br&gt;3)&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Added Edmonds 2003, Higgins 2002, CAEP/NAEPP/BTS guideline references, and some newer acute asthma references;&lt;br&gt;4)&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Converted the review to RR, I2, and revised format of stats presentation;&lt;br&gt;5)&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;Tried to standardize the use of corticosteroids, asthma exacerbation, etc.&lt;/p&gt;&lt;p&gt;====================================&lt;br&gt;CJC Editing re Senn comments Jan 30&lt;br&gt;Double counting of the Lee placebo arm corrected by combining the two treatment arms in Comparison one. This has made very small differences to the results shown in red in the text.&lt;br&gt;I have reversed the Lee data in the oral v IM comparison for relapse rates and PFTs as they seem to be the wrong way around. Again result changed in text.&lt;br&gt;Metaview labels also updated.&lt;br&gt;PLEASE CAN YOU CHECK THE HOFFMAN DATA THAT PO IS IN THE FIRST COLUMN AND IM IN THE SECOND!&lt;br&gt;Sue will run a search for new studies.&lt;br&gt;Thanks,&lt;br&gt;Chris&lt;br&gt;=================================&lt;/p&gt;&lt;p&gt;15/11/96 &lt;/p&gt;&lt;p&gt;Refs &amp;amp; SS section checked 1/11/05&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:26:08 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" REVIEW_NO="PREV-AST" REVMAN_SUB_VERSION="5.0.14" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="8.0">
+<COVER_SHEET MODIFIED="2008-07-23 12:27:20 +0200" MODIFIED_BY="Toby Lasserson">
+<TITLE>Corticosteroids for preventing relapse following acute exacerbations of asthma</TITLE>
+<CONTACT MODIFIED="2008-07-23 12:27:20 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="FB72D3DD82E26AA20100F9CCFABFA64F" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Brian</FIRST_NAME><MIDDLE_INITIALS>H</MIDDLE_INITIALS><LAST_NAME>Rowe</LAST_NAME><SUFFIX>MD, MSc, CCFP (EM), FCCP (BR)</SUFFIX><POSITION>Professor and Research Director</POSITION><EMAIL_1>brian.rowe@ualberta.ca</EMAIL_1><ADDRESS><DEPARTMENT>Department of Emergency Medicine</DEPARTMENT><ORGANISATION>University of Alberta</ORGANISATION><ADDRESS_1>Room 1G1.43 Walter C. Mackenzie Health Sciences Centre</ADDRESS_1><ADDRESS_2>8440  112th Street</ADDRESS_2><CITY>Edmonton</CITY><ZIP>T6G 2B7</ZIP><REGION>Alberta</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 780 407 6707</PHONE_1><PHONE_2>+1 780 407 6761</PHONE_2><FAX_1>+1 780 407 3982</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2008-07-23 12:27:20 +0200" MODIFIED_BY="Toby Lasserson"><PERSON ID="FB72D3DD82E26AA20100F9CCFABFA64F" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Brian</FIRST_NAME><MIDDLE_INITIALS>H</MIDDLE_INITIALS><LAST_NAME>Rowe</LAST_NAME><SUFFIX>MD, MSc, CCFP (EM), FCCP (BR)</SUFFIX><POSITION>Professor and Research Director</POSITION><EMAIL_1>brian.rowe@ualberta.ca</EMAIL_1><ADDRESS><DEPARTMENT>Department of Emergency Medicine</DEPARTMENT><ORGANISATION>University of Alberta</ORGANISATION><ADDRESS_1>Room 1G1.43 Walter C. Mackenzie Health Sciences Centre</ADDRESS_1><ADDRESS_2>8440  112th Street</ADDRESS_2><CITY>Edmonton</CITY><ZIP>T6G 2B7</ZIP><REGION>Alberta</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 780 407 6707</PHONE_1><PHONE_2>+1 780 407 6761</PHONE_2><FAX_1>+1 780 407 3982</FAX_1></ADDRESS></PERSON><PERSON ID="5452" ROLE="AUTHOR"><PREFIX>Mrs</PREFIX><FIRST_NAME>Carol</FIRST_NAME><LAST_NAME>Spooner</LAST_NAME><POSITION>Research Associate</POSITION><EMAIL_1>cspooner@ualberta.ca</EMAIL_1><ADDRESS><DEPARTMENT>Division of Emergency Medicine</DEPARTMENT><ORGANISATION>1G1.52 Walter Mackenzie Health Centre</ORGANISATION><ADDRESS_1>8440 - 112 ST</ADDRESS_1><CITY>Edmonton</CITY><ZIP>T6G 2B7</ZIP><REGION>Alberta</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 780 407-7576</PHONE_1><FAX_1>+1 780 407-3314</FAX_1></ADDRESS></PERSON><PERSON ID="5253" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Francine</FIRST_NAME><LAST_NAME>Ducharme</LAST_NAME><EMAIL_1>francine.ducharme@mcgill.ca</EMAIL_1><ADDRESS><DEPARTMENT>Department of Pediatrics</DEPARTMENT><ORGANISATION>McGill University Health Centre</ORGANISATION><ADDRESS_1>Montreal Children's Hospital</ADDRESS_1><ADDRESS_2>2300 Tupper Street, Room C-538E</ADDRESS_2><CITY>Montreal</CITY><ZIP>H3H 1P3</ZIP><REGION>Quebec</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 514 412 4400 ext: 22649</PHONE_1><FAX_1>+1 514 412 4393</FAX_1></ADDRESS></PERSON><PERSON ID="5211" ROLE="AUTHOR"><PREFIX>Ms</PREFIX><FIRST_NAME>Jennifer</FIRST_NAME><LAST_NAME>Bretzlaff</LAST_NAME><POSITION>Research Assistant</POSITION><ADDRESS><DEPARTMENT>St Joseph's Site</DEPARTMENT><ORGANISATION>Sudbury Regional Hospital</ORGANISATION><ADDRESS_1>700 Paris Street</ADDRESS_1><CITY>Sudbury</CITY><ZIP>P3E 3B5</ZIP><REGION>Ontario</REGION><COUNTRY CODE="CA">Canada</COUNTRY></ADDRESS></PERSON><PERSON ID="5206" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Gary</FIRST_NAME><LAST_NAME>Bota</LAST_NAME><ADDRESS><DEPARTMENT>St Joseph's Site</DEPARTMENT><ORGANISATION>Sudbury Regional Hospital</ORGANISATION><ADDRESS_1>700 Paris Street</ADDRESS_1><CITY>Sudbury</CITY><ZIP>P3E 3B5</ZIP><REGION>Ontario</REGION><COUNTRY CODE="CA">Canada</COUNTRY></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-07-23 12:27:20 +0200" MODIFIED_BY="Toby Lasserson" NOTES="&lt;p&gt;Minor update: 03/04/07&lt;/p&gt;&lt;p&gt;New studies sought but none found: 01/10/06&lt;/p&gt;&lt;p&gt;Reformatted: 04/10/99&lt;/p&gt;">
+<UP_TO_DATE>
+<DATE DAY="12" MONTH="4" YEAR="2007"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="1" MONTH="10" YEAR="2006"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="31" MONTH="12" YEAR="2008"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="1999"/>
+<REVIEW_PUBLISHED ISSUE="3" YEAR="2000"/>
+<LAST_CITATION_ISSUE ISSUE="3" YEAR="2007"/>
+</DATES>
+<WHATS_NEW NOTES="&lt;p&gt;Update in Jan 2007 to correct data entry errors for Lee in which the placebo group was being counted twice. Thanks to Stephen Senn for bringing this to our attention.&lt;br&gt;&lt;br&gt;Deleted IM versus oral corticosteroid comparisons. This will form the basis for a separate review. Corrected spelling and grammar errors. Updated searches to 2006. Changed from OR (random effect) to RR (fixed effect). &lt;br&gt;&lt;br&gt;These edits have not made any important differences to the results.&lt;br&gt;&lt;br&gt;Revman 4 update. Synopsis and background added. Correction of spelling/grammatical mistakes. Re-calculation of NNT and 95% CI. Correction of errors in the references sections (from Barney Eskin, NJ, USA - thanked in acknowledgments). Corrected exclusion table Dr. Miles Weinberger, USA - thanked in acknowledgments).&lt;/p&gt;">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT">
+<DATE DAY="23" MONTH="7" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="12" MONTH="4" YEAR="2007"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Department of Emergency Medicine, Faculty of Medicine and Dentistry, University of Alberta</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>NHS Research and Development</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Ministry of Health - Emergency Health Services RAC (# 11469N), Toronto, Ontario</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Canada Research Chairs Program, Government of Canada</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-07-23 11:25:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUMMARY>
+<TITLE>Corticosteroids for preventing relapse following acute exacerbations of asthma</TITLE>
+<SUMMARY_BODY>
+<P>In an asthma attack, the airways (passages to the lungs) narrow from muscle spasms and swelling (inflammation). Bronchodilators (reliever inhalers to open up the lungs and airways) can be used for the spasms, and corticosteroids for the swelling. However, many people who are discharged from the emergency department following treatment for an asthma attacks have a relapse within 10 days. The review of six trials involving 374 people found that a short course of corticosteroids after discharge reduces the chances of a relapse, and lessens the need for using reliever inhalers without major adverse effects. The benefit lasts for about three weeks.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Acute asthma is responsible for many emergency department (ED) visits annually. Between 12 to 16% will relapse to require additional interventions within two weeks of ED discharge. Treatment of acute asthma is based on rapid reversal of bronchospasm and reducing airway inflammation.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine the benefit of corticosteroids (oral, intramuscular, or intravenous) for the treatment of asthmatic patients discharged from an acute care setting (i.e. usually the emergency department) after assessment and treatment of an acute asthmatic exacerbation.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Airways Group Specialised Register and reference lists of articles. In addition, authors of all included studies were contacted to locate unpublished studies. The most recent search was run in October 2006.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomized controlled trials comparing two types of corticosteroids (oral, intra-muscular, or inhaled) with placebo for outpatient treatment of asthmatic exacerbations in adults or children. </P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Two review authors independently assessed trial quality and extracted data. Study authors were contacted for additional information.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Six trials involving 374 people were included. One study used intramuscular corticosteroids, five studies used oral corticosteroids. The review was split into two reviews and although the latest search yielded no additional placebo controlled trials an additional IM study was included.<BR/>
+<BR/>Significantly fewer patients in the corticosteroid group relapsed to receive additional care in the first week (Relative risk (RR) 0.38; 95% confidence interval (CI) 0.2 to 0.74). This favourable effect was maintained over the first 21 days (RR 0.47; 95% CI 0.25 to 0.89) and there were fewer subsequent hospitalizations (RR 0.35; 95% CI 0.13 to 0.95). Patients receiving corticosteroids had less need for beta<SUB>2</SUB>-agonists (mean difference (MD) -3.3 activations/day; 95% CI -5.6 to -1.0). Changes in pulmonary function tests (SMD 0.045; 95% CI -0.47 to 0.56) and side effects (SMD 0.03; 95% CI -0.38 to 0.44) in the first 7 to 10 days, while rarely reported, showed no significant differences between the treatment groups. Statistically significant heterogeneity was identified for the side effect results; all other outcomes were homogeneous. From these results, as few as ten patients need to be treated to prevent relapse to additional care after an exacerbation of asthma.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>A short course of corticosteroids following assessment for an asthma exacerbation significantly reduces the number of relapses to additional care, hospitalizations and use of short-acting beta<SUB>2</SUB>-agonist without an apparent increase in side effects. Intramuscular and oral corticosteroids are both effective.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-07-23 11:25:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<BACKGROUND MODIFIED="2008-07-23 11:15:53 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Asthma is a common emergency department (ED) presentation in many parts of the world. In both the pediatric and adult populations, asthma is responsible for approximately 10 to 15/1000 ED visits (<LINK REF="REF-Bates-1990" TYPE="REFERENCE">Bates 1990</LINK>). Approximately 10 to 20% of patients presenting to the ED will require admission to the hospital (<LINK REF="REF-Weber-2002" TYPE="REFERENCE">Weber 2002</LINK>). Moreover, of patients discharged from North American EDs after initial treatment, between 12 to 16% will relapse to require additional interventions within two weeks (<LINK REF="REF-Rowe-1998" TYPE="REFERENCE">Rowe 1998</LINK>; <LINK REF="REF-Emerman-1999" TYPE="REFERENCE">Emerman 1999</LINK>). Finally, acute care for exacerbations may be received in an ED, clinic, or office setting. The distinguishing feature of the acute presentation is that patients require assessment and additional therapeutic interventions due to an exacerbation of their airways disease.</P>
+<P>The outcomes of these assessments depend on the treatments which are prescribed in the acute care setting and upon discharge. Research indicates that many asthmatics maintain a poor quality of life (QoL) for weeks following exacerbations and are particularly prone to repeat exacerbations (<LINK REF="REF-Fitzgerald-1990" TYPE="REFERENCE">Fitzgerald 1990</LINK>; <LINK REF="REF-Rowe-1998" TYPE="REFERENCE">Rowe 1998</LINK>). Clearly, the acute exacerbation of asthma is an important clinical and patient problem.</P>
+<P>The approach to asthmatic exacerbations is based on pathophysiologic considerations including treatment of acute bronchospasm and airway oedema. Treatment guidelines exist in many countries (<LINK REF="REF-NAEPP-1997" TYPE="REFERENCE">NAEPP 1997</LINK>; <LINK REF="REF-CAEP_x002f_CTS-1999" TYPE="REFERENCE">CAEP/CTS 1999</LINK>; <LINK REF="REF-BTS-2003" TYPE="REFERENCE">BTS 2003</LINK>); however, treatment approaches vary widely. This may be due in part to the rapidly changing management of the disease and the inability of guidelines to influence front-line health care workers (<LINK REF="REF-Cabana-1999" TYPE="REFERENCE">Cabana 1999</LINK>). Most importantly, there remains significant debate about the use, dosage, route and length of corticosteroid (or glucocorticoid) treatment of the asthmatic in the in- and out-patient setting. This study is a systematic overview of all randomized controlled trials of corticosteroid treatment following diagnosis, treatment and discharge from the acute care setting. Our aim was to determine if there is clear evidence that treatment of asthmatic exacerbations with corticosteroids is beneficial.</P>
+<P>Prior to the original review, only two previous overviews have been published dealing with corticosteroid treatment in asthmatic exacerbations (<LINK REF="REF-Engel-1991" TYPE="REFERENCE">Engel 1991</LINK>; <LINK REF="REF-Rowe-1992" TYPE="REFERENCE">Rowe 1992</LINK>); however, both these studies contained methodological weaknesses that mandate a re-examination of the literature and a more focused systematic review of this intervention. Since that time, a variety of other narrative and systematic reviews on this topic have been published.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>The objective of this review was to determine the effect of any form of corticosteroids (intramuscular (IM), oral, inhaled) on relapse rate, pulmonary function tests (PFTs), quality of life (QoL), etc., for the treatment of asthmatic patients discharged from an acute care setting (that is, usually the ED) following the assessment and treatment of an acute asthmatic exacerbation.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-07-23 11:19:06 +0100" MODIFIED_BY="Toby J Lasserson">
+<SELECTION_CRITERIA MODIFIED="2008-07-23 11:17:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>Studies had to be randomized controlled trials.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Studies including patients presenting to an ED or other acute care setting were considered for inclusion in the overview. Studies recruiting pediatric or adult participants or both were reviewed, and this designation formed one of the proposed subgroup analyses.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Patients randomized to receive either corticosteroids (oral, IM, or inhaled) or placebo following discharge from the acute care setting. Studies comparing two types of corticosteroids were also included. Finally, those patients who were randomized to receive an intramuscular corticosteroid injection prior to discharge or IM plus oral steroids were included. Obviously, asthmatic patients received additional regimens, such as beta<SUB>2</SUB>-agonists, anti-cholinergics, theophylline compounds, anti-histamines, etc. Data for these co-interventions were recorded from studies or requested from authors.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-07-23 11:17:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-07-23 11:16:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>All patient outcomes were considered, however the primary dichotomous outcome was relapse to additional care. "Relapse" definitions varied but in general described a patient's perceived need for further assessment and treatment within the follow-up period. Two follow-up periods for relapse were considered for subgroups: 7 to 10 days and 21 days. However, all follow-up intervals were accepted.</P>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2008-07-23 11:17:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<OL>
+<LI>Relapse requiring hospitalization; </LI>
+<LI>Presence of adverse outcomes (including side effects, death, etc);</LI>
+<LI>Continuous data from pulmonary function testing (peak expiratory flow rates (PEFR), forced expiratory volume in one second (FEV-1), forced vital capacity (FVC), % predicted PEFR , FEV-1, FVC);</LI>
+<LI>Symptom scores; </LI>
+<LI>Beta<SUB>2</SUB>-agonist use.</LI>
+</OL>
+<P>We attempted to contact the primary investigators of included studies to obtain individual patient data. We performed Intention to treat analyses.</P>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-07-23 11:17:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<ELECTRONIC_SEARCHES MODIFIED="2008-07-23 11:17:42 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We identified trials using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and CINAHL, and handsearching of respiratory journals and meeting abstracts. We searched all records in the Specialised Register coded as 'asthma' using the following terms:</P>
+<P>(glucocorticoid* or steroid* or corticosteroid* or cortico-steroid* or prednis* or solumedrol or medrol or dexamethasone or methylpred* or solucortef or decadron) and (acute* or emerg* or relaps* or exacerb* or discharg*)</P>
+<P>The most recent search was completed in October 2006; no new studies were identified.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2008-07-23 11:17:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We contacted authors of all included studies to determine if they could identify additional unpublished and "in-progress" studies which met the inclusion criteria. In addition, we searched bibliographies from included studies, known reviews (<LINK REF="REF-Engel-1991" TYPE="REFERENCE">Engel 1991</LINK>; <LINK REF="REF-Rowe-1992" TYPE="REFERENCE">Rowe 1992</LINK>) and texts for additional citations.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-07-23 11:19:06 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_SELECTION MODIFIED="2008-07-23 11:18:05 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>From the title, abstract, or descriptors, two review authors (BR, CS) independently reviewed literature searches to identify potentially relevant trials for full review. From the full text, using specific criteria, two review authors (CS, FD) independently selected trials for inclusion in this review . Agreement was measured using simple agreement and kappa statistics. Disagreement was resolved by consensus or third party adjudication (BHR).</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-07-23 11:18:24 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>One of the review authors (BR) extracted data for the trials and entered this into the Cochrane Collaboration software program (Review Manager). We contacted primary study authors to verify the data and provide additional clarification and information for the review. Unfortunately, most authors could not access their original data source to perform supplemental analyses without some additional resource allocation. In these cases, expansions of graphic reproductions and estimations were used. Data were checked for reliability with the primary author, or by a second extractor (JB).</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-07-23 11:18:15 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Two review authors (BR, CS) independently assessed the quality of included trials using two methods. First, using the Cochrane approach to assessment of allocation concealment, trials were scored and entered using the following principles:<BR/>Grade A: Adequate concealment<BR/>Grade B: Unclear concealment<BR/>Grade C: Obviously not adequate concealment .<BR/>Inter-rater reliability was measured by using simple agreement, kappa, and weighted kappa statistics. Disagreement was resolved by a third party adjudication (JB).</P>
+<P>Second, each study was assessed for validity using a 0 to 5 scale described by <LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK> and summarized as follows:<BR/>1) Was the study described as randomized (1 = yes;0 = no)?;<BR/>2) Was the study described as double-blind (1 = yes;0 = no)?;<BR/>3) Was there a description of withdrawals and dropouts (1 = yes;0 = no)?;<BR/>4) Was the method of randomization well described and appropriate (1 = yes;0 = no);?;<BR/>5) Was the method of double blinding well described and appropriate (1 = yes;0 = no)?;<BR/>6) Deduct 1 point if methods for randomization or blinding were inappropriate. Inter-rater reliability was measured by using simple agreement, kappa, and weighted kappa statistics.</P>
+</QUALITY_ASSESSMENT>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2008-07-23 11:18:51 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Heterogeneity was quantified using the I-squared (I<SUP>2</SUP>)statistic (<LINK REF="REF-Higgins-2002" TYPE="REFERENCE">Higgins 2002</LINK>).</P>
+</HETEROGENEITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-07-23 11:18:38 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>We combined all trials using Review Manager. Subgroup comparisons are identified in the Comparisons section. For dichotomous variables, we calculated individual and pooled statistics as relative risks (RR) with 95% confidence intervals (CI); a fixed-effect model was used. For continuous outcomes, we reported individual trials results as mean and pooled using mean differences (MD) or standardized mean differences (SMD) and 95% CIs using a random-effects model.</P>
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS MODIFIED="2008-07-23 11:19:03 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Since significant statistical heterogeneity was not identified for the main outcomes, a priori subgroup analyses were not required (population: pediatric versus adult; outcomes: well-defined versus ill-defined). However, subgroup analyses were performed for oral versus intramuscular routes of administration; sensitivity analyses were possible for high versus low quality assessment scores.</P>
+</SUBGROUP_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-07-23 11:25:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_DESCRIPTION MODIFIED="2008-07-23 11:19:57 +0100" MODIFIED_BY="Toby J Lasserson">
+<SEARCH_RESULTS MODIFIED="2008-07-23 11:19:34 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>A search that yielded 229 references identified 169 (73%) original publications; 69 (41%) references were found in EMBASE, 41 (24%) in MEDLINE, 59 (35%) from both EMBASE and MEDLINE; one (1%) reference was cited in MEDLINE, EMBASE and CINAHL. An update search run in October 2006 did not yield any further trials.</P>
+<P>Independent review of the abstracts and titles of these publications identified eight potentially relevant studies. The simple agreement for relevance was 98% with a kappa of 0.76 (very good agreement). Additional references were added from bibliographic searching of relevant articles and overviews (13), and from contact with authors (5); a total of 26 studies were reviewed for inclusion. Independent review of these potentially relevant articles resulted in seven studies being included in this meta-analysis; no relevant articles were selected from the bibliographic search or recommendations from authors.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-07-23 11:19:49 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Generally, the evidence for intervention with corticosteroids in asthma originates in older literature; however, for this review most studies were produced in the past 15 years. Since the previous overviews (<LINK REF="REF-Engel-1991" TYPE="REFERENCE">Engel 1991</LINK>; <LINK REF="REF-Rowe-1992" TYPE="REFERENCE">Rowe 1992</LINK>) two additional studies have been published (<LINK REF="STD-Lee-1993a" TYPE="STUDY">Lee 1993a</LINK>; <LINK REF="STD-McNamara-1993" TYPE="STUDY">McNamara 1993</LINK>), and one additional study has been identified (<LINK REF="STD-Deshpande-1986" TYPE="STUDY">Deshpande 1986</LINK>). Five of the seven studies were conducted in North America. Following a split in the review in 2007, the Hoffman paper (<LINK REF="STD-Hoffman-1988" TYPE="STUDY">Hoffman 1988</LINK>) was removed and we inserted in a new study comparing IM versus oral corticosteroid.</P>
+<P>It is important to note that all participants included in these studies were released or "discharged" from the acute care setting, and were not admitted to hospital. The severity of the asthmatic exacerbation could not easily be determined from these studies. In general, significant reductions in the mean pulmonary functions at presentation were demonstrated. Participants generally required less than 80% predicted PEFR or FEV-1 to be eligible for inclusion in the trials. Mean pretreatment PEFRs were reported as: 158 to 169 L/min (<LINK REF="STD-Fiel-1983" TYPE="STUDY">Fiel 1983</LINK>), 193 to 198 (<LINK REF="STD-McNamara-1993" TYPE="STUDY">McNamara 1993</LINK>), and 200 to 210 L/min (<LINK REF="STD-Lee-1993a" TYPE="STUDY">Lee 1993a</LINK>). Chapman reported a mean pretreatment FEV-1 of 46% predicted.</P>
+<P>Different co-interventions were provided in each study, including theophylline, beta<SUB>2</SUB>-agonists, and anticholinergics; however, none of the studies specifically provided inhaled steroid agents to their patients at discharge; use of inhaled steroids prior to the exacerbation was variable (range: 0 to 20%). The use of theophyllines has declined over the span of the studies, and these observations will be discussed in the Implications section. The duration of the oral steroid intervention also varied from 3 to 10 days.</P>
+<P>A variety of outcome measures were reported with "relapse to additional care" being the most common. The definition of a relapse varied slightly, but generally included an unscheduled presentation to receive additional assessment and treatment. Scores from a variety of symptom scales were occasionally used to describe outcomes. Due to the different scores used, no consistent outcome analysis was possible. In addition, a number of pulmonary function results were employed (including PEFR, FEV-1, FVC, % predicted PEFR, % predicted FEV-1); however, consistent reporting was not found and this again limited the possible analyses. Finally, beta<SUB>2</SUB>-agonist use and side-effects were occasionally reported.</P>
+</INCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-07-23 11:25:32 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Overall, the methodological quality was rated as high. Many of the studies were double-blind, placebo controlled, demonstrated an appreciation of the need for concealment of allocation, and reported a sufficient number of outcomes (see <LINK REF="FIG-01" TYPE="FIGURE">Figure 1</LINK>).</P>
+<P>Using the Jadad method, five studies were rated as "strong" (<LINK REF="STD-Chapman-1991" TYPE="STUDY">Chapman 1991</LINK>; <LINK REF="STD-Deshpande-1986" TYPE="STUDY">Deshpande 1986</LINK>; <LINK REF="STD-Fiel-1983" TYPE="STUDY">Fiel 1983</LINK>; <LINK REF="STD-Lee-1993a" TYPE="STUDY">Lee 1993a</LINK>; <LINK REF="STD-Shapiro-1983" TYPE="STUDY">Shapiro 1983</LINK>), and one was rated as "weak" (<LINK REF="STD-McNamara-1993" TYPE="STUDY">McNamara 1993</LINK>). Using the Cochrane methodology, three were rated as having blinded allocation, three were rated as having unclear allocation blinding, and one was rated as having non-blinded allocation.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-07-23 11:25:15 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Results from this meta-analysis are reported by outcome rather than time of follow-up assessment. The main results are reported as overall effects of oral and IM versus placebo; however, more studies used oral than IM steroids as an intervention.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Relapse to Additional Care</HEADING>
+<P>Significantly fewer participants relapsed to require additional care at 7 to 10 days (RR 0.38; 95% CI 0.20 to 0.74; <LINK REF="FIG-02" TYPE="FIGURE">Figure 2</LINK>) after an exacerbation when corticosteroids were used. In addition, fewer hospitalizations occurred in those participants receiving systemic corticosteroids (RR 0.35; 95% CI 0.13 to 0.95). No significant heterogeneity was found in these results (both I<SUP>2</SUP> = 0%). Relapse data were only reported in one study at 21 days, and steroids demonstrated a persistent benefit (RR 0.47, 95% CI 0.25 to 0.89).</P>
+<SUBSECTION>
+<HEADING LEVEL="6">Oral versus IM Corticosteroids</HEADING>
+<P>The combined results for all corticosteroid treatment options (oral/IM) failed to identify heterogeneity. Oral corticosteroids provided a similar reduction in relapses when compared to placebo (RR 0.44; 95% CI 0.21 to 0.94). While IM corticosteroids appeared efficacious, due to small numbers the confidence intervals were wide (RR 0.30; 95% CI 0.08 to 1.09). Overall, no significant difference between IM corticosteroids and oral agents was found when assessment was made within the first 7 to 10 days.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Beta<SUB>2</SUB>-agonist Use</HEADING>
+<P>Patients receiving any form of corticosteroids reported less need for beta<SUB>2</SUB>-agonists at 7 to 10 days of follow-up (MD -3.3 activations/day; 95% CI -5.6 to -1.0). This finding was provided in only two studies and no significant heterogeneity was identified in this result.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Side Effects</HEADING>
+<P>Total side effects were reported as being "rare" in most studies, but only two trials gave sufficient information to be included in this analysis. The pooled estimate revealed similar rates of side effects in both groups (RR 0.96; 95% CI 0.53 to 1.74); however, significant heterogeneity was identified (I<SUP>2</SUP> = 75.5%). An insufficient number of studies were available to provide meaningful sensitivity or sub-group comparisons, or firm conclusions.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Pulmonary Function Testing</HEADING>
+<P>Pulmonary functions were rarely reported; two studies reported results at seven days (<LINK REF="STD-Shapiro-1983" TYPE="STUDY">Shapiro 1983</LINK>; <LINK REF="STD-Lee-1993a" TYPE="STUDY">Lee 1993a</LINK>; <LINK REF="STD-Lee-1993b" TYPE="STUDY">Lee 1993b</LINK>). No significant differences between the treatment groups were demonstrated at two to three days (SMD 0.48; 95% CI -1.2 to 2.2) or 7 to 10 days (SMD 0.09; 95% CI -0.46 to 0.63) of follow up. Insufficient studies reported pulmonary functions and provided meaningful sub-group comparisons.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Symptoms</HEADING>
+<P>A variety of symptom scores were reported. It appeared that symptoms improved in those studies that reported this information. For example, no study reported worsening symptoms in the steroid group. Cough, shortness of breath, and wheezing were all significantly reduced in the corticosteroid treatment group; however due to poor reporting and lack of standardization, no meaningful comparisons could be made.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Numbers Needed to Treat (NNT)</HEADING>
+<P>Given these results, applying the RR to a placebo group baseline relapse risk of 17%, and using Visual Rx (www.nntonline.net) only ten patients (95% CI 8 to 23) would require treatment with corticosteroids to prevent one relapse to additional care in the first 7 to 10 days after outpatient care for an exacerbation,<I> see</I> <LINK REF="FIG-03" TYPE="FIGURE">Figure 3</LINK>. Using similar methods only 11 patients (95% CI 9 to 143) would require treatment with corticosteroids to prevent one relapse to hospitalization after outpatient care for an exacerbation <I>see </I>
+<LINK REF="FIG-04" TYPE="FIGURE">Figure 4</LINK>.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Sensitivity/Subgroup Analyses</HEADING>
+<P>Sensitivity analyses on the results based on quality scores eliminated one paper (<LINK REF="STD-McNamara-1993" TYPE="STUDY">McNamara 1993</LINK>); following this, the 7 to 10 day relapse results were unchanged (RR 0.45; 95% CI 0.21 to 0.96). Further subgroup analyses (<I>see </I>&#8242;Methods&#8242;) could not be performed due to small study numbers or missing data.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-07-23 11:21:18 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>This meta-analysis summarises all of the current evidence regarding the treatment of patients with asthma exacerbations using systemic corticosteroids compared to placebo. Using comprehensive search strategies and methods to avoid selection bias, this review highlights the importance of providing corticosteroid treatment to patients treated as outpatients following an asthma exacerbation. The results indicate that all patients requiring assessment for an exacerbation appear to warrant consideration for this form of therapy. Most studies restricted enrolment to patients with pulmonary functions of less than 80% predicted, suggesting at least a moderate exacerbation. Corticosteroid therapy not only reduced relapses to additional care, it also reduced subsequent admissions to hospital and use of beta<SUB>2</SUB>-agonists. Conversely, there appeared to be no significant difference with respect to pulmonary functions and side effects between treating with corticosteroids and placebo. Both of these conclusions, however, are based on data from a limited number of studies, thus these conclusions should be interpreted cautiously.</P>
+<P>The difference between treating with corticosteroids compared to placebo is pronounced by 7 to 10 days follow up; as few as nine patients require treatment to prevent one relapse to additional care. In addition, the choice of therapy does not appear to affect these conclusions. Providing either oral or intramuscular agents appears to be equally beneficial; patient preference, compliance considerations and costs should all be weighed in the treatment decision. Caution is advised when interpreting the results of the different routes due to the indirect comparisons included in this review and the limited data available. Another Cochrane review will formally summarize the IM versus oral corticosteroid data in more detail.</P>
+<P>These recommendations are in keeping with those provided by the Canadian Association of Emergency Physicians (CAEP; <LINK REF="REF-CAEP_x002f_CTS-1999" TYPE="REFERENCE">CAEP/CTS 1999</LINK>), National Asthma Education Prevention Plan (<LINK REF="REF-NAEPP-1997" TYPE="REFERENCE">NAEPP 1997</LINK>) and the British Thoracic Society (<LINK REF="REF-BTS-2003" TYPE="REFERENCE">BTS 2003</LINK>). All recommend systemic corticosteroids for patients with an exacerbation of asthma.</P>
+<SUBSECTION>
+<HEADING LEVEL="6">Methodological limitations</HEADING>
+<P>Due to the small number of trials included in this meta-analysis and the overall small number of patients upon which these results are based, no firm conclusions regarding subgroups by severity or age can be made. The overall findings seem to apply to all patients. In addition, the small samples preclude an accurate assessment of side effects associated with the corticosteroid treatment.</P>
+<P>There is a possibility of publication bias or study selection bias in this meta-analysis. For example, by missing unpublished negative trials we may be over estimating the effect of corticosteroid treatment. However, a comprehensive search of the published literature for potentially relevant studies was conducted, using a systematic strategy to avoid bias. This was followed by attempts to contact corresponding and first authors. No unpublished or negative trials were uncovered; however, we recognize they may exist. The review has been updated with additional searches and no new data pertaining to this research question have emerged.</P>
+<P>Several other methodological issues limit the applicability of the results of this review. First, most studies were conducted in an emergency setting, and patient presentations may be less severe in ambulatory care, office or clinic settings than those studied. Consequently, these results need confirmation in the community setting. Second, baseline severity was variable and poorly documented. Thus, subgroup comparisons were not possible on the severity of the exacerbation presentation. We agree with others (<LINK REF="STD-Chapman-1991" TYPE="STUDY">Chapman 1991</LINK>), however, who suggest patients included in these studies often had less severe exacerbations than patients with exacerbations who were not enrolled.</P>
+<P>The definition of relapse, while variable, appears an effective measure of asthma outcome. Better standardization of this outcome would however improve study comparability. Evaluation of pulmonary function data was complicated by a lack of standardised reporting and changing analyses within the reports. For example, PFT analyses often changed from comparisons of treatment vs control at the start of the study, to comparisons between relapse and non-relapse groups in the publication. This precluded more formal evaluation of the effects of the interventions based on PFTs and also the effects of the intervention on PFTs at follow-up.</P>
+</SUBSECTION>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>This systematic review of randomized controlled trials confirms evidence from earlier meta-analyses (<LINK REF="REF-Engel-1991" TYPE="REFERENCE">Engel 1991</LINK>; <LINK REF="REF-Rowe-1992" TYPE="REFERENCE">Rowe 1992</LINK>) and strongly supports the use of oral or intramuscular corticosteroids for treatment of outpatients released from the acute care setting with an exacerbation of asthma. Several recommendations can be made.<BR/>
+</P>
+<UL>
+<LI>Patients who present for assessment and treatment with an exacerbation of asthma are likely to benefit from either oral or intramuscular corticosteroid treatment at release to prevent relapse to additional care and reduce beta<SUB>2</SUB>-agonist use.</LI>
+<LI>In this review, oral steroids were provided for a 7 to 10 day period, usually as a tapering dose. Small sample sizes prevented an examination of the relative effectiveness of various regimens and no definitive recommendation concerning dose or dosing protocol emerged from this review. </LI>
+<LI>Insufficient data are available to determine the relative advantage of the route of corticosteroid delivery (IM or PO) on outcomes. The place of IM treatment in asthma therapy may be best reserved for those patients with questionable compliance, inability to afford the price of oral prescription medications, or those who are otherwise unreliable (cognitive impairment, intoxication, etc);</LI>
+</UL>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Despite the strength of the findings from this review, several questions regarding treatment of asthmatic exacerbations with corticosteroids remain unanswered. <BR/>
+</P>
+<UL>
+<LI>A systematic review of studies examining the benefit of adding inhaled corticosteroids to the out-patient management of patients with an asthma exacerbation has been completed, which suggests that inhaled corticosteroids may be beneficial when added to systemic corticosteroids (<LINK REF="REF-Edmonds-2003" TYPE="REFERENCE">Edmonds 2003</LINK>). Inhaled corticosteroids and combined agents including long-acting beta<SUB>2</SUB>-agonists are increasingly employed; the role of systemic corticosteroids in addition to these agents would be an important area for future research.</LI>
+<LI>Patients with mild exacerbations may not require oral corticosteroids, and potentially may be released from the acute care setting on inhaled steroids and beta<SUB>2</SUB>-agonist therapy; however, the definition of what constitutes a "mild" exacerbation is unclear at this time. </LI>
+<LI>Further detailed evaluation of predictors of relapse under the current recommendations is required. For example, many studies are unclear as to the predictors of relapse, since they did not include corticosteroid use as criteria for release following assessment (<LINK REF="REF-Weber-2002" TYPE="REFERENCE">Weber 2002</LINK>). The severity of asthma at presentation, and other potential confounders (such as co-interventions), may impact calculations of the number needed to treat (i.e., less severe: may increase number needed to treat to benefit (NNTB); more severe: may decrease NNTB).</LI>
+<LI>Future research on asthmatic exacerbations must concentrate on well defined outcomes which may lead to more informative overviews in the future. More specifically, complete reporting of PFT data in a systematic fashion would assist in further work. Finally, better description of the methodology would be also be beneficial.</LI>
+</UL>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>The authors of the first version of the review wish to acknowledge the assistance of Stephen Milan, and Anna Bara of the Cochrane Airways Group. We would also like to acknowledge the assistance of the following corresponding authors: Robert McNamara, Kenneth Chapman, Susan McKenzie, Miles Weinberger and Gail Shapiro. The assistance of Dr. Paul Jones (CAG Coordinating Editor; 1995-2003), Dr. Philip Ind, Dr. Chris Cates, and Mr. David Moher in reviewing the manuscript was greatly appreciated. Finally, Drs. Miles Weinberger and Barnet Eskin (USA) provided editorial feedback for the 1999 revision.</P>
+<P>The authors of the revision of the review wish to acknowledge the assistance of Toby Lasserson, Dr. Chris Cates (CAG Coordinating Editor; 2003-present) and the staff members of the Cochrane Airways Group. Finally, Dr. Stephen Senn provided editorial feedback for the 2007 revision.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>Drs. Rowe and Ducharme has received some research grant and consulting fees from GlaxoSmithKline and AstraZeneca, both of whom produce inhaled corticosteroid preparations. The authors of this review were not involved in the original studies included in this review and have no financial or other links to corporations who manufacture corticosteroids.<BR/> </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>BHR initiated the review, wrote the protocol, performed the searches, contributed to selection for inclusion, extracted data, and is the principal author. CHS and FMD contributed to the protocol development, performed selection for inclusion and quality assessments, and contributed to editing. JAB managed the searches, selection for inclusion and quality assessments, data extraction and entry, and draft manuscript development. GWB contributed to protocol development and editing. CHS converted the review to RevMan 4.0.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-07-23 11:26:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDIES MODIFIED="2008-07-23 11:26:02 +0100" MODIFIED_BY="Toby J Lasserson">
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chapman-1991" NAME="Chapman 1991" YEAR="1991">
+<REFERENCE NOTES="&lt;p&gt;Chapman KR, Verbeek PR, White JG, Rebuck AS. Effect of a short course of prednisone in the prevention of early relapse after the emergency room treatment of acute asthma. N Engl J Med 1991;324:788-94.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Chapman KR, Verbeek PR, White JG, Rebuck AS</AU>
+<TI>Effect of a short course of prednisone in the prevention of early relapse after the emergency room treatment of acute asthma</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1991</YR>
+<VL>324</VL>
+<PG>788-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Deshpande-1986" NAME="Deshpande 1986" YEAR="1986">
+<REFERENCE NOTES="&lt;p&gt;Deshpande A, McKenzie SA. Short course of steroids in home treatment of children with acute asthma. British Medical Journal 1986;293:169-171.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Deshpande A, McKenzie SA</AU>
+<TI>Short course of steroids in home treatment of children with acute asthma</TI>
+<SO>British Medical Journal</SO>
+<YR>1986</YR>
+<VL>293</VL>
+<PG>169-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fiel-1983" NAME="Fiel 1983" YEAR="1983">
+<REFERENCE NOTES="&lt;p&gt;Feil SB, Swartz MA, Glanz KG, Francis ME. Efficacy of short-term corticosteroid therapy in outpatient treatment of acute bronchial asthma. Am J Med 1983;75:259-62&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Feil SB, Swartz MA, Glanz KG, Francis ME</AU>
+<TI>Efficacy of short-term corticosteroid therapy in outpatient treatment of acute bronchial asthma</TI>
+<SO>American Journal of Medicine</SO>
+<YR>1983</YR>
+<VL>75</VL>
+<PG>259-62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lee-1993a" NAME="Lee 1993a" YEAR="1993">
+<REFERENCE NOTES="&lt;p&gt;Lee C-H, Lee C-J, Lan R-S, Tsai Y-H, Chiang Y-C, Wang W-J, Tsao TCY. Repository dexamethasone in the treatment of acute broncial asthma. Chang Gung Med J 1993;16:25-9.&lt;br&gt;Lee CH. Lee CJ. Lan RS. Tsai YH. Chiang YC. Wang WJ. Tsao TC. Repository dexamethasone in the treatment of acute bronchial asthma. [Clinical Trial. Journal Article. Randomized Controlled Trial] Changgeng Yi Xue Za Zhi. 16(1):25-9, 1993 Mar. UI: 8490772&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lee CH, Lee CJ, Lan RS, Tsai YH, Chiang YC, Wang WJ, et al</AU>
+<TI>Repository dexamethasone in the treatment of acute bronchial asthma</TI>
+<SO>Changgeng Yi Xue Za Zhi</SO>
+<YR>1993</YR>
+<VL>16</VL>
+<PG>25-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lee-1993b" NAME="Lee 1993b" YEAR="">
+<REFERENCE NOTES="&lt;p&gt;Lee C-H, Lee C-J, Lan R-S, Tsai Y-H, Chiang Y-C, Wang W-J, Tsao TCY. Repository dexamethasone in the treatment of acute broncial asthma. Chang Gung Med J 1993;16:25-9.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lee CH, Lee CJ, Lan RS, Tsai YH, Chiang YC, Wang WJ, et al</AU>
+<TI>Repository dexamethasone in the treatment of acute bronchial asthma</TI>
+<SO>Changgeng Yi Xue Za Zhi</SO>
+<YR>1993</YR>
+<VL>16</VL>
+<PG>25-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-McNamara-1993" NAME="McNamara 1993" YEAR="1993">
+<REFERENCE NOTES="&lt;p&gt;McNamara RM, Rubin JM. Intramuscular methylprednisolone acetate for the prevention of relapse in acute asthma. Annuals of Emergency Medicine 1993; 22:1829-1835.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>McNamara RM, Rubin JM</AU>
+<TI>Intramuscular methylprednisolone acetate for the prevention of relapse in acute asthma</TI>
+<SO>Annuals of Emergency Medicine</SO>
+<YR>1993</YR>
+<VL>22</VL>
+<PG>1829-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shapiro-1983" NAME="Shapiro 1983" YEAR="1983">
+<REFERENCE NOTES="&lt;p&gt;Shapiro GG, Furukawa CT, Pierson WE, Gardinier R, Bierman CW. Double-blind evaluation of methylprednisolone versus placebo for acute asthma episodes. Pediatrics 1983;71:510-514.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shapiro GG, Furukawa CT, Pierson WE, Gardinier R, Bierman CW</AU>
+<TI>Double-blind evaluation of methylprednisolone versus placebo for acute asthma episodes</TI>
+<SO>Pediatrics</SO>
+<YR>1983</YR>
+<VL>71</VL>
+<PG>510-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2008-07-23 11:26:02 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY DATA_SOURCE="PUB" ID="STD-Connet-1994" NAME="Connet 1994" YEAR="1994">
+<REFERENCE NOTES="&lt;p&gt;Connet GT, et al. Prednisolone and salbutamol in the hospital treatment of acute asthma. Archives of Disease in Childhood 1994;70:170-173.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Connet GT, et al</AU>
+<TI>Prednisolone and salbutamol in the hospital treatment of acute asthma</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1994</YR>
+<VL>70</VL>
+<PG>170-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Engel-1990" NAME="Engel 1990" YEAR="1990">
+<REFERENCE NOTES="&lt;p&gt;Engel T, et al. Methylprednisolone pulse therapy in acute severe asthma. Allergy 1990;45:224-30&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Engel T, et al</AU>
+<TI>Methylprednisolone pulse therapy in acute severe asthma</TI>
+<SO>Allergy</SO>
+<YR>1990</YR>
+<VL>45</VL>
+<PG>224-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fanta-1983" NAME="Fanta 1983" YEAR="1983">
+<REFERENCE NOTES="&lt;p&gt;Fanta CH, et al. Glucocorticoids in acute asthma. Am J Med 1983; 71:845-51.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fanta CH, et al</AU>
+<TI>Glucocorticoids in acute asthma</TI>
+<SO>American Journal of Medicine</SO>
+<YR>1983</YR>
+<VL>71</VL>
+<PG>845-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Green-1995" NAME="Green 1995" YEAR="1995">
+<REFERENCE NOTES="&lt;p&gt;Green SS; et al. Oral versus repository corticosteroid therapy after hospitalization for the treatment of asthma. J Allergy Clin Immunol 1995;95:15-22&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Green SS, et al</AU>
+<TI>Oral versus repository corticosteroid therapy after hospitalization for the treatment of asthma</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1995</YR>
+<VL>95</VL>
+<PG>15-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Harris-1986" MODIFIED="2008-07-23 11:25:44 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Harris 1986" YEAR="1986">
+<REFERENCE MODIFIED="2008-07-23 11:25:44 +0100" MODIFIED_BY="Toby J Lasserson" NOTES="&lt;p&gt;Harris JB, Weinberger MM, Nassif E, Smith G, Milavetz G, Stillerman A. Early intervention with short courses of prednisone to prevent progresion of asthma in ambulatory patients incompletely responsive to bronchodilators. J Pediatrics 1986;110:627-633.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:44 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Harris JB, Weinberger MM, Nassif E, Smith G, Milavetz G, Stillerman A</AU>
+<TI>Early intervention with short courses of prednisone to prevent progression of asthma in ambulatory patients incompletely responsive to bronchodilators</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>1986</YR>
+<VL>110</VL>
+<PG>627-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoffman-1988" NAME="Hoffman 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoffman IB, Feil SB</AU>
+<TI>Oral versus repository corticosteroid therapy in acute asthma</TI>
+<SO>Chest</SO>
+<YR>1988</YR>
+<VL>93</VL>
+<NO>1</NO>
+<PG>11-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Littenberg-1986" MODIFIED="2008-07-23 11:25:49 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Littenberg 1986" YEAR="1986">
+<REFERENCE MODIFIED="2008-07-23 11:25:49 +0100" MODIFIED_BY="Toby J Lasserson" NOTES="&lt;p&gt;Littenberg B, et al. A controlled trial methylprednilsolone in the emergency treatment of acute asthma. The New England Journal of Medicine 1986;314:150-151.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:49 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Littenberg B, et al</AU>
+<TI>A controlled trial methylprednisolone in the emergency treatment of acute asthma</TI>
+<SO>The New England Journal of Medicine</SO>
+<YR>1986</YR>
+<VL>314</VL>
+<PG>150-1</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Loren-1980" NAME="Loren 1980" YEAR="1980">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Loren ML, Chai H, Leung P, Rohr C, Brenner AM</AU>
+<TI>Corticosteroids in the treatment of acute exacerbations of asthma</TI>
+<SO>Annals of Allergy</SO>
+<YR>1980</YR>
+<VL>45</VL>
+<PG>67-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-McFadden-1976" NAME="McFadden 1976" YEAR="1976">
+<REFERENCE NOTES="&lt;p&gt;McFadden, ER, et al. A controlled study of the effects of single doses of hydrocortisone on the resolution of acute attacks of asthma. The American Journal of Medicine 1976;60:52-59.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>McFadden ER, et al</AU>
+<TI>A controlled study of the effects of single doses of hydrocortisone on the resolution of acute attacks of asthma</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>1976</YR>
+<VL>60</VL>
+<PG>52-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Morell-1992" MODIFIED="2008-07-23 11:25:56 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Morell 1992" YEAR="1992">
+<REFERENCE MODIFIED="2008-07-23 11:25:56 +0100" MODIFIED_BY="Toby J Lasserson" NOTES="&lt;p&gt;Morell F, et al. Controlled trial of intravenous corticosteroids in severe acute asthma: Effectiveness of low doses. Thorax 1992;47:584-587.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:56 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Morell F, et al</AU>
+<TI>Controlled trial of intravenous corticosteroids in severe acute asthma: effectiveness of low doses</TI>
+<SO>Thorax</SO>
+<YR>1992</YR>
+<VL>47</VL>
+<PG>584-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pedersen-1987" NAME="Pedersen 1987" YEAR="1987">
+<REFERENCE NOTES="&lt;p&gt;Pedersen BK, et al. Methylprednisolone pulse therapy in severe acute asthma. Annals of Allergy 1987;42:154-157.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Pedersen BK, et al</AU>
+<TI>Methylprednisolone pulse therapy in severe acute asthma</TI>
+<SO>Annals of Allergy</SO>
+<YR>1987</YR>
+<VL>42</VL>
+<PG>154-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schneider-1988" NAME="Schneider 1988" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Schneider SM. High-dose methylprednisolone as initial therapy in acute severe asthma. Journal of Asthma 1988;25:189-193.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schneider SM</AU>
+<TI>High-dose methylprednisolone as initial therapy in acute severe asthma</TI>
+<SO>Journal of Asthma</SO>
+<YR>1988</YR>
+<VL>25</VL>
+<PG>189-93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Storr-1987" MODIFIED="2008-07-23 11:26:02 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Storr 1987" YEAR="1987">
+<REFERENCE MODIFIED="2008-07-23 11:26:02 +0100" MODIFIED_BY="Toby J Lasserson" NOTES="&lt;p&gt;Storr J. Effect of a single dose of prenisolone in acute childhood asthma. The Lancet 1987;879-882. 1 (8538):879-82, 1987 Apr 18.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:26:02 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Storr J</AU>
+<TI>Effect of a single dose of prednisolone in acute childhood asthma</TI>
+<SO>The Lancet</SO>
+<YR>1987</YR>
+<VL>1</VL>
+<NO>8538</NO>
+<PG>879-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-1990" NAME="Wilson 1990" YEAR="1990">
+<REFERENCE NOTES="&lt;p&gt;Wilson NM. Treatment of acute episodic asthma in preschool children using intermittent high dose inhaled steroids at home. Archives of Disease in Childhood 1990;675:407-410.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson NM</AU>
+<TI>Treatment of acute episodic asthma in preschool children using intermittent high dose inhaled steroids at home</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1990</YR>
+<VL>675</VL>
+<PG>407-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-07-23 11:26:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<ADDITIONAL_REFERENCES MODIFIED="2008-07-23 11:26:08 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Bates-1990" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Bates 1990" NOTES="&lt;p&gt;Bates DV. Baker-Anderson M. Sizto R. Asthma attack periodicity: a study of hospital emergency visits in Vancouver. [Journal Article] Environmental Research. 51(1):51-70, 1990 Feb. UI: 2298182&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:16 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Bates DV, Baker-Anderson M, Sizto R</AU>
+<TI>Asthma attack periodicity: a study of hospital emergency visits in Vancouver</TI>
+<SO>Environmental Research</SO>
+<YR>1990</YR>
+<VL>51</VL>
+<PG>51-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-BTS-2003" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="BTS 2003" NOTES="&lt;p&gt;. . Thorax 2003;&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:16 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>British Thoracic Society, Scottish Intercollegiate Guidelines N</AU>
+<TI>British guideline on the management of asthma</TI>
+<SO>Thorax</SO>
+<YR>2003</YR>
+<VL>58</VL>
+<NO>Suppl 1</NO>
+<PG>1-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Cabana-1999" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Cabana 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Cabana MD, Rand CS, Powe NR, et al.</AU>
+<TI>Why don't physicians follow clinical practice guidelines? A framework for improvement</TI>
+<SO>JAMA</SO>
+<YR>1999</YR>
+<VL>282</VL>
+<NO>15</NO>
+<PG>1458-65</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-CAEP_x002f_CTS-1999" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="CAEP/CTS 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Boulet L-P, Becker A, Bérubé D, Beveridge R, Ernst P, on behalf of the Canadian Asthma Consensus Group</AU>
+<TO>Canadian asthma consensus report, 1999</TO>
+<SO>CMAJ</SO>
+<YR>1999</YR>
+<VL>161</VL>
+<NO>11 Suppl</NO>
+<PG>S1-62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Edmonds-2003" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Edmonds 2003" TYPE="COCHRANE_REVIEW">
+<AU>Edmonds ML, Camargo CA Jr, Brenner B, Rowe BH</AU>
+<TI>Inhaled steroids in acute asthma following emergency department discharge</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2003</YR>
+<NO>4</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Emerman-1999" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Emerman 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Emerman CL, Woodruff PG, Cydulka RK, et al</AU>
+<TI>Prospective multicenter study of relapse following treatment for acute asthma among adults presenting to the emergency department</TI>
+<SO>Chest</SO>
+<YR>1999</YR>
+<VL>115</VL>
+<PG>919-27</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Engel-1991" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Engel 1991" NOTES="&lt;p&gt;Engel T, Heinig JH. Glucocorticoid therapy in acute severe asthma - A critical review. Eur Respir J 1991;4:1-9.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:16 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Engel T, Heinig JH</AU>
+<TI>Glucocorticoid therapy in acute severe asthma: a critical review</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1991</YR>
+<VL>4</VL>
+<PG>1-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fitzgerald-1990" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Fitzgerald 1990" NOTES="&lt;p&gt;Fitzgerald JM, Hargreaves FE. Acute asthma: Emergency department management and prospective evaluation of outcome. Can Med Assoc J 1990;142:591-595.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:16 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Fitzgerald JM, Hargreaves FE</AU>
+<TI>Acute asthma: Emergency department management and prospective evaluation of outcome</TI>
+<SO>Canadian Medical Association Journal</SO>
+<YR>1990</YR>
+<VL>142</VL>
+<PG>591-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2002" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Higgins 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins JP, Thompson SG</AU>
+<TI>Quantifying heterogeneity in a meta-analysis</TI>
+<SO>Statistics in Medicine</SO>
+<YR>2002</YR>
+<VL>21</VL>
+<NO>11</NO>
+<PG>1539-58</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" MODIFIED="2008-07-23 11:26:08 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Jadad 1996" NOTES="&lt;p&gt;Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, McQuay HJ. Assessing the quailty of reports of randomized clinical trials: is blinding necessary? Controlled Clinical Trials 1996;17:1-12.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:26:08 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore RA, Carroll D, Jenkinson C, Reynolds DJ, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports of randomized clinical trials: Is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>17</VL>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NAEPP-1997" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="NAEPP 1997" TYPE="BOOK">
+<AU>National Asthma Education Prevention Program (NAEPP)</AU>
+<SO>NAEPP Expert Panel Report II: Guidelines for the Diagnosis and Management of Asthma</SO>
+<YR>1997</YR>
+<PB>National Institutes of Health</PB>
+<CY>Bethesda, MD</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rowe-1992" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Rowe 1992" NOTES="&lt;p&gt;Rowe BH, Keller J, Oxman AD. Steroid use in the emergency department treatment of asthma exacerbations: A meta-analysis. Amer J of Emerg Med 1992;10:301-310.&lt;/p&gt;" NOTES_MODIFIED="2008-07-23 11:25:16 +0100" NOTES_MODIFIED_BY="Toby J Lasserson" TYPE="JOURNAL_ARTICLE">
+<AU>Rowe BH, Keller J, Oxman AD</AU>
+<TI>Steroid use in the emergency department treatment of asthma exacerbations: a meta-analysis</TI>
+<SO>American Journal of Emergency Medicine</SO>
+<YR>1992</YR>
+<VL>10</VL>
+<PG>301-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rowe-1998" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Rowe 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Rowe BH, Bota GW, Pollack CV, Emond SD, Camargo CA</AU>
+<TI>Management of acute asthma among adults presenting to Canadian versus US Emergency Departments</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>1998</YR>
+<VL>32</VL>
+<NO>3 (Pt2)</NO>
+<PG>S2-S3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Stein-1990" NAME="Stein 1990" NOTES="&lt;p&gt;Stein LM, Cole RP. Early administration of corticosteroids in emergency room treatment of acute asthma. Arch Intern Med 1990;112:822-827.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Stein LM, Cole RP</AU>
+<TI>Early administration of corticosteroids in emergency room treatment of acute asthma</TI>
+<SO>Archives of Internal Medicine</SO>
+<YR>1990</YR>
+<VL>112</VL>
+<PG>822-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Weber-2002" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Weber 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Weber EJ, Silverman RA, Callaham ML, Pollack CV Jr, Woodruff PG, Clark S, et al</AU>
+<TI>A prospective multicenter study of factors associated with hospital admission among adults with acute asthma</TI>
+<SO>The American Journal of Medicine</SO>
+<YR>2002</YR>
+<VL>113</VL>
+<PG>371-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-07-23 11:24:43 +0100" MODIFIED_BY="Toby J Lasserson">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-07-23 11:24:43 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-07-23 11:21:30 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Chapman-1991">
+<CHAR_METHODS MODIFIED="2008-07-23 11:21:23 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>A randomized double-blind placebo controlled clinical trial comparing oral steroids to placebo. Method of randomization was not described; primary author stated randomization was by computer generated central pharmacy. Allocation was concealed using sealed envelopes.<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-07-23 11:21:24 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Patients presenting to the emergency department with acute exacerbations of asthma who were likely to be sent home upon completion of therapy. Patients had to fulfill American Thoracic Society criteria for diagnosis of asthma.<BR/>Ages: 16 years of age and older.<BR/>Severity: Not indicated.<BR/>PFTs: Mean pretreatment FVC was 2.74 L (62 % of predicted) and mean FEV-1 was 1.73 L (46% of predicted)<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-23 11:21:27 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>40 mg of prednisone decreased by 5 mg per day until supply was exhausted. Control group received placebo inert tablets identical in appearance and taste. Co-interventions were permitted (theophylline compounds and bronchodilators).<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The main outcome was relapse to additional care defined as "an unscheduled medical visit occasioned by the patient's perceived need for further medical treatment". In addition, the patients had diary cards and made spirometric measurements. The outcome measurements were performed at days 1, 7, and 14 as well as a telephone contact at 21 days.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-07-23 11:21:30 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Correspondence with author provided clarification and additional information. The researchers were unable to re-analyze the data for subgroup comparisons.<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Deshpande-1986">
+<CHAR_METHODS>
+<P>A randomized, double-blind placebo controlled clinical trial comparing oral steroid to placebo. A random numbers table was used for randomization.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Children presenting to a pediatric chest clinic with an acute exacerbation asthma were included in the study, provided that they were able to use a peak flow meter. <BR/>Ages: Children ages 5 through 15 (mean 10.5).<BR/>Severity: Not indicated.<BR/>PFTs: Patients were included if their PEFR was between 15 and 80% of the expected value for their height and age.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Each child received one dose of nebulized salbutamol (2 mg in 5 ml physiological saline). Patients were then randomized to receive either prednisolone or identical placebo. The dosage schedule for the medication was as follows:<BR/>Day 1: 2 mg/kg<BR/>Day 2: 1 mg/kg<BR/>Day 3: 0.5 mg/kg</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The main outcome was relapse; however, it was not specifically defined. Participants (with assistance from their parents if necessary) were asked to record the PEFR in the morning and evening before treatment with bronchodilators, until the follow-up on day 4. Participants were allowed to continue any other previously prescribed treatment, and were asked to document the frequency. Symptom scores were calculated at presentation as well as day 4.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Author wrote that after the study was completed, participants were advised to seek follow up after 24 hours; therefore, 4 participants were admitted on day 4 in the placebo group and none in the treatment group. Study data were not available; PEFRs were estimated from graphs at day 3.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Fiel-1983">
+<CHAR_METHODS>
+<P>A randomized double-blind placebo controlled clinical trial comparing oral steroids to placebo. Method of randomization was not described.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients who presented to the Temple University Hospital Emergency Department with acute asthma and fitting the diagnostic criteria set by the American Thoracic Society.<BR/>Ages: Patients between the ages of 15 and 45.<BR/>Severity: Not indicated.<BR/>PFTs: Mean pretreatment PEFR was 168.8 L/min (SD 85.9) in the treatment group and 157.9 L/min (SD 84.9) in the control group.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Intravenous methylprednisolone 4 mg per kilogram and tapering schedule of oral methylprednisolone starting at the dosage of 32 mg BID and decreasing to 0 mg over 8 days. Placebo group received identical placebo injection and oral tablets. Co-interventions were monitored.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The main outcome was relapse defined as "the need for further emergency care within 10 days of enrollment". Contact by phone or by person between 7 and 10 days. Participants were assessed with respect to symptoms, drug compliance, adverse affects, and relapse. </P>
+<P/>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Authors did not respond: Additional information obtained from review of supplemental publication (Glanz K, Feil SB, Swartz MA, Francis ME. Compliance with an experimental drug regimen for the treatment of asthma: Its magnitude, importance and correlates. J Chron Dis 1984;37:815-24.)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-23 11:23:20 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Lee-1993a">
+<CHAR_METHODS MODIFIED="2008-07-23 11:22:53 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>A randomized, double blind, placebo-controlled clinical trial comparing oral and IM steroids to placebo. Randomization was achieved by means of a set of computer-generated set of random-numbers in blocks of nine.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-07-23 11:23:20 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Patients requiring immediate therapy but not hospitalization for an acute exacerbation of asthma were included in the study. Fifty patients who had not ever received corticosteroids prior to admission were included and any patient receiving herb/drug treatments or any medication of an uncertain origin were excluded from the study.<BR/>Ages: Mean ages were 42 (SD 4) for Group A (PO), 37 (SD 4) for Group B (IM), and 40 (SD 4) for Group C (Control).<BR/>Severity: Fischl index was used to determine severity at presentation. All groups were similar : Group A: 2.8 (SD 0.7), Group B: 2.9 (SD 0.3), and Group C: 2.8 (SD 0.7).<BR/>PFTs: PEFRs (L/min) at presentation: Group A: 200 (SD 25), Group B: 210 (SD 30), and Group C: 208 (SD 26).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-23 11:23:14 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Patients were randomized to receive two treatments in three groups:<BR/>A. Oral tablets: dexamethasone 1.5 mg twice a day and tapered to zero at day 8 (3.0 mg day 1 and 2, 2.0 mg day 3, 1.5 mg day 4, 1.0 mg day 5 0.75 mg day 6 and 0.5 mg day 7); active or placebo.<BR/>AND;<BR/>B. Intramuscular injection: 10 mg dexamethasone by intramuscular injection OR placebo intramuscular injection.<BR/>Participants in Group "A" received placebo IM and placebo oral tablets, Group "B" received IM dexamethasone and oral placebo, and Group "C" received placebo injection and oral dexamethasone.<BR/>All participants received oral anhydrous long-acting theophylline at a dose of 250 mg twice daily.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-07-23 11:23:16 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The main outcome was relapse defined as the need for another emergency room visit within 7 days of enrolment into the study. Follow up at 7 days after ED presentation was completed to collect symptom scores, adverse effects, relapse and frequency of beta-agonist usage.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Lee 1993a reports the information from po dexamethasone vs placebo; Lee 1993b reports information for IM dexamethasone injection vs placebo. The authors did not respond.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lee-1993b">
+<CHAR_METHODS>
+<P>See Lee 1993a</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>See Lee 1993a</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>See Lee 1993a</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>See Lee 1993a</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Lee 1993b reports the information from IM steroids vs placebo.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-23 11:23:44 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-McNamara-1993">
+<CHAR_METHODS>
+<P>A randomized, single-blind, placebo-controlled clinical trial comparing IM steroids to placebo. An open random numbers table was used to randomize patients. Concealment of allocation was not discussed.<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients with an acute exacerbation of asthma presenting to the emergency department, judged by the emergency physician eligible to be sent home. Allocation determined at time of discharge by a nurse assistant.<BR/>Ages: Patients between the ages of 18 and 45.<BR/>Severity: Patients were asked to self-describe their asthma as either mild, moderate or severe. In the steroid group; 9 mild, 14 moderate, 7 severe. In the control group; 10 mild, 13 moderate, 3 severe.<BR/>PFTs: Pretreatment PEFRs were 193 L/min (SD 68) for the steroid group and 198 (SD 68) L/min for the control group.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-23 11:23:44 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The treatment group received intramuscular injection of 240 mg methylprednisolone vs saline placebo. "The syringe was not covered; however, the treating physician did not view the syringe."</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The main outcome was relapse defined as a need to seek non-routine medical care for symptoms of asthma within 7 days of study entry. Peak expiratory flow rates were also collected. Admissions to hospital and deaths were recorded.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>3 patients in the placebo group died. Correspondence with author provided clarification and additional information.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-07-23 11:24:43 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Shapiro-1983">
+<CHAR_METHODS>
+<P>A randomized, double-blind, placebo-controlled, clinical trial comparing oral steroids to placebo. A random numbers table was used for randomization.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Patients were children of an Allergy Clinic of a Children's Orthopaedic Hospital and Medical Centre, or of a private practice of one of the investigators. All patients experienced an acute exacerbation of asthma requiring 3 consecutive treatments of beta-adrenergic therapy. Patients were excluded if they had taken inhaled or oral corticosteroids in the previous 2 weeks. If the child was unable to perform PFTs, or had a previous history of marked deterioration and hospitalization for status asthmaticus, the child was excluded.<BR/>Severity: Not indicated.<BR/>PFTs: Patients were included if they had persistent depression in FEV-1 of &lt; 80% of predicted.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-07-23 11:24:43 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Treatment group received methylprednisolone 32 mg by mouth for 8 days while control group received placebo tablets. All participants continued to take theophylline at a dosage that was considered adequate to maintain a serum concentration of 10 to 20 ug/ml. All participants took metaproterenol, 10 to 20 mg TID routinely and up to every 4 hours as needed.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The main outcome was relapse defined as the need to seek additional care. Relapse at 24 hours, 7 days, and 14 days was assessed as well as admission rates and PFTs.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>FEV-1: forced expiratory volume in one second <BR/>FVC: forced vital capacity<BR/>PEFR: peak expiratory flow rates <BR/>PFT: pulmonary function test<BR/>vs: versus</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Connet-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were admitted and relapse was not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Engel-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were admitted and relapse was not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fanta-1983">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were admitted and relapse was not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Green-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were admitted and relapse was not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Harris-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were monitored before emergency department presentation and were treated at home in attempts to prevent emergency visits.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hoffman-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>RCT comparing IM vs oral corticosteroids only; no placebo arm.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Littenberg-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A multi-treatment approach was used. Relapse data was not collected.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Loren-1980">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were hospitalized.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-McFadden-1976">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not the required outcome measures. (Patients were not followed for relapse.)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Morell-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were admitted and relapse was not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Pedersen-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were admitted and relapse was not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schneider-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were hospitalized.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Storr-1987">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Patients were admitted and relapse was not reported.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomized controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES>
+<P>IM: intra-muscular<BR/>vs: versus</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-07-23 11:24:38 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2008-07-23 11:24:28 +0100" MODIFIED_BY="Toby J Lasserson" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:21:54 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Chapman-1991">
+<DESCRIPTION>
+<P>Computer generated randomisation scheme</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:22:20 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Deshpande-1986">
+<DESCRIPTION>
+<P>Random numbers table was used for randomization</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:22:45 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Fiel-1983">
+<DESCRIPTION>
+<P>Described as randomised; other information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:23:02 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Lee-1993a">
+<DESCRIPTION>
+<P>Randomization was achieved by means of a set of computer-generated set of random-numbers in blocks of nine.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:23:32 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Lee-1993b">
+<DESCRIPTION>
+<P>As for <LINK REF="STD-Lee-1993a" TYPE="STUDY">Lee 1993a</LINK>
+</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:24:12 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-McNamara-1993">
+<DESCRIPTION>
+<P>An open random numbers table was used to randomize patients.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:24:28 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Shapiro-1983">
+<DESCRIPTION>
+<P>A random numbers table was used for randomization</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-07-23 11:24:38 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:22:07 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Chapman-1991">
+<DESCRIPTION>
+<P>Centralised randomisation by pharmacy </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:22:29 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Deshpande-1986">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:22:49 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Fiel-1983">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:23:09 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Lee-1993a">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:23:38 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Lee-1993b">
+<DESCRIPTION>
+<P>As for <LINK REF="STD-Lee-1993a" TYPE="STUDY">Lee 1993a</LINK>
+</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:24:17 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-McNamara-1993">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-23 11:24:38 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Shapiro-1983">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Oral or Intramuscular corticosteroid (CS) versus placebo</NAME>
+<DICH_OUTCOME CHI2="1.232449798142149" CI_END="0.6638185999852741" CI_START="0.2629506280933773" CI_STUDY="95" CI_TOTAL="95" DF="4.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.4177936306434005" ESTIMABLE="YES" EVENTS_1="21" EVENTS_2="47" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.17795058296417696" LOG_CI_START="-0.5801257874777834" LOG_EFFECT_SIZE="-0.3790381852209802" METHOD="MH" NO="1" P_CHI2="0.8727276385387936" P_Q="0.0" P_Z="2.203930074610921E-4" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="USER" STUDIES="5" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="222" TOTAL_2="200" WEIGHT="200.0" Z="3.6944156848108705">
+<NAME>Relapse rates</NAME>
+<GROUP_LABEL_1>CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Steroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="1.0756799879099885" CI_END="0.7355725439179006" CI_START="0.19629072996589053" DF="3.0" EFFECT_SIZE="0.37998167270081834" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="27" I2="0.0" ID="CMP-001.01.01" LOG_CI_END="-0.1333744896670849" LOG_CI_START="-0.7071002099248208" LOG_EFFECT_SIZE="-0.4202373497959528" NO="1" P_CHI2="0.7829480624109472" P_Z="0.004088742072805861" STUDIES="5" TAU2="0.0" TOTAL_1="174" TOTAL_2="155" WEIGHT="100.0" Z="2.87123286084723">
+<NAME>7-10 day follow-up</NAME>
+<DICH_DATA CI_END="1.2431807199723668" CI_START="0.09941932771367087" EFFECT_SIZE="0.3515625" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="8" LOG_CI_END="0.09453426619739551" LOG_CI_START="-1.0025291779424448" LOG_EFFECT_SIZE="-0.4539974558725247" ORDER="1" O_E="0.0" SE="0.6444204976393735" STUDY_ID="STD-Chapman-1991" TOTAL_1="48" TOTAL_2="45" VAR="0.4152777777777778" WEIGHT="29.681830491469412"/>
+<DICH_DATA CI_END="1.4712379908453634" CI_START="0.19880012673816794" EFFECT_SIZE="0.5408163265306123" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="10" LOG_CI_END="0.1676829308857293" LOG_CI_START="-0.7015833430691409" LOG_EFFECT_SIZE="-0.2669502060917058" ORDER="188" O_E="0.0" SE="0.5106113122585437" STUDY_ID="STD-Fiel-1983" TOTAL_1="49" TOTAL_2="53" VAR="0.260723912206392" WEIGHT="34.53331841034163"/>
+<DICH_DATA CI_END="6.669847026927312" CI_START="0.02961550143505016" EFFECT_SIZE="0.4444444444444444" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="0.8241158734782895" LOG_CI_START="-1.5284809097010146" LOG_EFFECT_SIZE="-0.35218251811136253" ORDER="189" O_E="0.0" SE="1.3819269959814167" STUDY_ID="STD-Lee-1993a" TOTAL_1="36" TOTAL_2="16" VAR="1.9097222222222223" WEIGHT="4.976701146105748"/>
+<DICH_DATA CI_END="0.9308865352878543" CI_START="0.05042982432862027" EFFECT_SIZE="0.21666666666666667" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="8" LOG_CI_END="-0.03110325145841963" LOG_CI_START="-1.2973125446951939" LOG_EFFECT_SIZE="-0.6642078980768068" ORDER="190" O_E="0.0" SE="0.7437776066843692" STUDY_ID="STD-McNamara-1993" TOTAL_1="30" TOTAL_2="26" VAR="0.5532051282051282" WEIGHT="30.808149952083205"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="191" O_E="0.0" SE="0.0" STUDY_ID="STD-Shapiro-1983" TOTAL_1="11" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.8898243501000636" CI_START="0.2469325125518211" DF="0.0" EFFECT_SIZE="0.46875" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="20" I2="0.0" ID="CMP-001.01.02" LOG_CI_END="-0.0506957139291794" LOG_CI_START="-0.60742172459927" LOG_EFFECT_SIZE="-0.32905871926422475" NO="2" P_CHI2="1.0" P_Z="0.020508398498279862" STUDIES="1" TAU2="0.0" TOTAL_1="48" TOTAL_2="45" WEIGHT="100.0" Z="2.3169143391755154">
+<NAME>21 day follow-up</NAME>
+<DICH_DATA CI_END="0.8898243501000638" CI_START="0.24693251255182105" EFFECT_SIZE="0.46875" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="20" LOG_CI_END="-0.05069571392917929" LOG_CI_START="-0.6074217245992701" LOG_EFFECT_SIZE="-0.32905871926422475" ORDER="1" O_E="0.0" SE="0.32702361450580975" STUDY_ID="STD-Chapman-1991" TOTAL_1="48" TOTAL_2="45" VAR="0.10694444444444445" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="11.125827789809513" CI_END="2.153965368348417" CI_START="-1.193341790633264" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.4803117888575765" ESTIMABLE="YES" I2="91.01190474190216" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="8.51351578281645E-4" P_Q="1.0" P_Z="0.5737901921375959" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="1.3274325598744117" TOTALS="YES" TOTAL_1="35" TOTAL_2="36" UNITS="" WEIGHT="99.99999999999999" Z="0.5624782924296963">
+<NAME>PFTs 2-3 days</NAME>
+<GROUP_LABEL_1>CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Steroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="1.9914346916294912" CI_START="0.6589289912682406" EFFECT_SIZE="1.3251818414488659" ESTIMABLE="YES" MEAN_1="84.0" MEAN_2="60.2" ORDER="193" SD_1="14.9" SD_2="20.1" SE="0.33993116987656036" STUDY_ID="STD-Deshpande-1986" TOTAL_1="22" TOTAL_2="21" WEIGHT="50.53274775890641"/>
+<CONT_DATA CI_END="0.36776987432905023" CI_START="-1.1332824097971992" EFFECT_SIZE="-0.3827562677340745" ESTIMABLE="YES" MEAN_1="70.0" MEAN_2="79.0" ORDER="194" SD_1="20.0" SD_2="25.0" SE="0.38292853745435074" STUDY_ID="STD-Shapiro-1983" TOTAL_1="13" TOTAL_2="15" WEIGHT="49.467252241093576"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="2.6336026796598864" CI_END="0.634605674151746" CI_START="-0.45596679007648555" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.08931944203763019" ESTIMABLE="YES" I2="24.05840047754327" I2_Q="0.0" ID="CMP-001.03" NO="3" P_CHI2="0.26799130054345743" P_Q="1.0" P_Z="0.7481742453579249" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.055893346029939325" TOTALS="YES" TOTAL_1="47" TOTAL_2="31" UNITS="" WEIGHT="100.00000000000001" Z="0.32104769789296916">
+<NAME>PFTs 7-10 days</NAME>
+<GROUP_LABEL_1>PO CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Steroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.8260535066091018" CI_START="-0.8260535066091018" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="370.0" MEAN_2="370.0" ORDER="195" SD_1="30.0" SD_2="30.0" SE="0.4214636152117623" STUDY_ID="STD-Lee-1993a" TOTAL_1="19" TOTAL_2="8" WEIGHT="33.14512349216103"/>
+<CONT_DATA CI_END="0.48420318795578" CI_START="-1.210712844697404" EFFECT_SIZE="-0.363254828370812" ESTIMABLE="YES" MEAN_1="360.0" MEAN_2="370.0" ORDER="196" SD_1="25.0" SD_2="30.0" SE="0.4323844841085003" STUDY_ID="STD-Lee-1993b" TOTAL_1="17" TOTAL_2="8" WEIGHT="31.872441494756927"/>
+<CONT_DATA CI_END="1.3833125842109684" CI_START="-0.2107376927816067" EFFECT_SIZE="0.5862874457146808" ESTIMABLE="YES" MEAN_1="99.0" MEAN_2="90.0" ORDER="197" SD_1="16.0" SD_2="14.0" SE="0.4066529511680419" STUDY_ID="STD-Shapiro-1983" TOTAL_1="11" TOTAL_2="15" WEIGHT="34.98243501308205"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.2900079586878651" CI_END="0.9460338396933807" CI_START="0.13256372842323" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.3541324229780419" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="14" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="-0.024093328577852107" LOG_CI_START="-0.8775752896606578" LOG_EFFECT_SIZE="-0.450834309119255" METHOD="MH" NO="4" P_CHI2="0.8650188622999082" P_Q="0.0" P_Z="0.0383941901937" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="111" TOTAL_2="99" WEIGHT="100.0" Z="2.0706214053960723">
+<NAME>Admissions to hospital</NAME>
+<GROUP_LABEL_1>CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Steroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.4029986344748575" CI_START="0.12084842340124106" EFFECT_SIZE="0.4117647058823529" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="9" LOG_CI_END="0.14705724833390313" LOG_CI_START="-0.9177590110619372" LOG_EFFECT_SIZE="-0.38535088136401713" ORDER="198" O_E="0.0" SE="0.6254783416946091" STUDY_ID="STD-Fiel-1983" TOTAL_1="34" TOTAL_2="42" VAR="0.3912231559290382" WEIGHT="58.67998482741181"/>
+<DICH_DATA CI_END="6.669847026927312" CI_START="0.02961550143505016" EFFECT_SIZE="0.4444444444444444" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="0.8241158734782895" LOG_CI_START="-1.5284809097010146" LOG_EFFECT_SIZE="-0.35218251811136253" ORDER="199" O_E="0.0" SE="1.3819269959814167" STUDY_ID="STD-Lee-1993a" TOTAL_1="36" TOTAL_2="16" VAR="1.9097222222222223" WEIGHT="10.08977114679479"/>
+<DICH_DATA CI_END="1.8185705767306963" CI_START="0.02581392498323491" EFFECT_SIZE="0.21666666666666667" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="4" LOG_CI_END="0.2597301602105916" LOG_CI_START="-1.5881459563642053" LOG_EFFECT_SIZE="-0.6642078980768068" ORDER="200" O_E="0.0" SE="1.0854515780103358" STUDY_ID="STD-McNamara-1993" TOTAL_1="30" TOTAL_2="26" VAR="1.178205128205128" WEIGHT="31.2302440257934"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="201" O_E="0.0" SE="0.0" STUDY_ID="STD-Shapiro-1983" TOTAL_1="11" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.8020732912255636" CI_END="-1.1188434445033753" CI_START="-4.773340470984323" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-2.946091957743849" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.05" NO="5" P_CHI2="0.66962575503956" P_Q="0.6050817165671482" P_Z="0.00157730964918475" Q="0.26739935208172716" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="120" TOTAL_2="83" UNITS="" WEIGHT="200.0" Z="3.16007050517771">
+<NAME>Beta-agonist use</NAME>
+<GROUP_LABEL_1>CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Steroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.5346739391438364" CI_END="-1.0259483983679911" CI_START="-5.58567631730215" DF="1.0" EFFECT_SIZE="-3.3058123578350704" ESTIMABLE="YES" I2="0.0" ID="CMP-001.05.01" NO="1" P_CHI2="0.4646485196121324" P_Z="0.004483767297845831" STUDIES="2" TAU2="0.0" TOTAL_1="80" TOTAL_2="53" WEIGHT="100.0" Z="2.841956044832918">
+<NAME>7-10 days</NAME>
+<CONT_DATA CI_END="0.09903867620842721" CI_START="-5.499038676208428" EFFECT_SIZE="-2.7" ESTIMABLE="YES" MEAN_1="4.8" MEAN_2="7.5" ORDER="202" SD_1="5.3" SD_2="7.2" SE="1.4281071990541088" STUDY_ID="STD-Chapman-1991" TOTAL_1="44" TOTAL_2="37" WEIGHT="66.34375789805168"/>
+<CONT_DATA CI_END="-0.5701486629790913" CI_START="-8.429851337020908" EFFECT_SIZE="-4.5" ESTIMABLE="YES" MEAN_1="1.5" MEAN_2="6.0" ORDER="203" SD_1="5.3" SD_2="7.2" SE="2.005063035861411" STUDY_ID="STD-Lee-1993a" TOTAL_1="36" TOTAL_2="16" WEIGHT="33.65624210194833"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.7554386426488588" CI_START="-5.355438642648858" DF="0.0" EFFECT_SIZE="-2.3" ESTIMABLE="YES" I2="0.0" ID="CMP-001.05.02" NO="2" P_CHI2="1.0" P_Z="0.1401118075530758" STUDIES="1" TAU2="0.0" TOTAL_1="40" TOTAL_2="30" WEIGHT="100.0" Z="1.4753747961157109">
+<NAME>14 days</NAME>
+<CONT_DATA CI_END="0.7554386426488588" CI_START="-5.355438642648858" EFFECT_SIZE="-2.3" ESTIMABLE="YES" MEAN_1="3.5" MEAN_2="5.8" ORDER="204" SD_1="5.3" SD_2="7.2" SE="1.5589259122870465" STUDY_ID="STD-Chapman-1991" TOTAL_1="40" TOTAL_2="30" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="4.082295337409252" CI_END="1.7446964264857192" CI_START="0.5251846219402156" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9572291957229196" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="15" I2="75.5039771170836" I2_Q="0.0" ID="CMP-001.06" LOG_CI_END="0.24171987154081084" LOG_CI_START="-0.2796879990796731" LOG_EFFECT_SIZE="-0.018984063769431153" METHOD="MH" NO="6" P_CHI2="0.04333485303821338" P_Q="0.0" P_Z="0.88651006161875" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="72" TOTAL_2="60" WEIGHT="100.0" Z="0.14272159422533662">
+<NAME>Side effects</NAME>
+<GROUP_LABEL_1>CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Steroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="8.274828680882322" CI_START="0.7127590686318095" EFFECT_SIZE="2.4285714285714284" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="3" LOG_CI_END="0.9177590110619372" LOG_CI_START="-0.14705724833390313" LOG_EFFECT_SIZE="0.3853508813640171" ORDER="205" O_E="0.0" SE="0.6254783416946091" STUDY_ID="STD-Fiel-1983" TOTAL_1="42" TOTAL_2="34" VAR="0.3912231559290382" WEIGHT="20.502092050209207"/>
+<DICH_DATA CI_END="1.19203570102893" CI_START="0.28004795511214753" EFFECT_SIZE="0.5777777777777777" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="12" LOG_CI_END="0.076289262558311" LOG_CI_START="-0.5527675941673625" LOG_EFFECT_SIZE="-0.23823916580452575" ORDER="206" O_E="0.0" SE="0.3695111115223215" STUDY_ID="STD-McNamara-1993" TOTAL_1="30" TOTAL_2="26" VAR="0.13653846153846153" WEIGHT="79.4979079497908"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.27543935293036387" CI_END="0.9588671378305327" CI_START="0.2137274327639046" CI_STUDY="95" CI_TOTAL="95" DF="2.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.45269880906646176" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="19" I2="0.0" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="-0.018241565201037736" LOG_CI_START="-0.6701397308384744" LOG_EFFECT_SIZE="-0.34419064801975613" METHOD="MH" NO="7" P_CHI2="0.8713429238619588" P_Q="0.0" P_Z="0.038484915200185654" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="144" TOTAL_2="129" WEIGHT="100.0" Z="2.0696523153262394">
+<NAME>High Quality Studies (Relapse Rates)</NAME>
+<GROUP_LABEL_1>CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Steroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.2431807199723668" CI_START="0.09941932771367087" EFFECT_SIZE="0.3515625" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="8" LOG_CI_END="0.09453426619739551" LOG_CI_START="-1.0025291779424448" LOG_EFFECT_SIZE="-0.4539974558725247" ORDER="207" O_E="0.0" SE="0.6444204976393735" STUDY_ID="STD-Chapman-1991" TOTAL_1="48" TOTAL_2="45" VAR="0.4152777777777778" WEIGHT="42.897870877732174"/>
+<DICH_DATA CI_END="1.4712379908453634" CI_START="0.19880012673816794" EFFECT_SIZE="0.5408163265306123" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="10" LOG_CI_END="0.1676829308857293" LOG_CI_START="-0.7015833430691409" LOG_EFFECT_SIZE="-0.2669502060917058" ORDER="208" O_E="0.0" SE="0.5106113122585437" STUDY_ID="STD-Fiel-1983" TOTAL_1="49" TOTAL_2="53" VAR="0.260723912206392" WEIGHT="49.909517358513455"/>
+<DICH_DATA CI_END="6.669847026927312" CI_START="0.02961550143505016" EFFECT_SIZE="0.4444444444444444" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="0.8241158734782895" LOG_CI_START="-1.5284809097010146" LOG_EFFECT_SIZE="-0.35218251811136253" ORDER="209" O_E="0.0" SE="1.3819269959814167" STUDY_ID="STD-Lee-1993a" TOTAL_1="36" TOTAL_2="16" VAR="1.9097222222222223" WEIGHT="7.192611763754373"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="210" O_E="0.0" SE="0.0" STUDY_ID="STD-Shapiro-1983" TOTAL_1="11" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Oral corticosteroids versus placebo</NAME>
+<DICH_OUTCOME CHI2="0.3710700954557372" CI_END="0.7437093460769806" CI_START="0.2776310870228843" CI_STUDY="95" CI_TOTAL="95" DF="3.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.4543972207006009" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="39" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="-0.1285967607685926" LOG_CI_START="-0.5565319064931056" LOG_EFFECT_SIZE="-0.3425643336308491" METHOD="MH" NO="1" P_CHI2="0.9461517177792127" P_Q="0.0" P_Z="0.0017014960056696276" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="175" TOTAL_2="174" WEIGHT="200.0" Z="3.1379229446915122">
+<NAME>Relapse rates</NAME>
+<GROUP_LABEL_1>po CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Steroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.3605407817253655" CI_END="0.9362642692291048" CI_START="0.20602032167496467" DF="2.0" EFFECT_SIZE="0.43919183271021317" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="19" I2="0.0" ID="CMP-002.01.01" LOG_CI_END="-0.028601550333611836" LOG_CI_START="-0.6860899390676847" LOG_EFFECT_SIZE="-0.3573457447006483" NO="1" P_CHI2="0.8350444333616283" P_Z="0.03313153903571573" STUDIES="4" TAU2="0.0" TOTAL_1="127" TOTAL_2="129" WEIGHT="100.0" Z="2.1304856531092065">
+<NAME>7-10 day follow-up</NAME>
+<DICH_DATA CI_END="1.2431807199723668" CI_START="0.09941932771367087" EFFECT_SIZE="0.3515625" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="8" LOG_CI_END="0.09453426619739551" LOG_CI_START="-1.0025291779424448" LOG_EFFECT_SIZE="-0.4539974558725247" ORDER="211" O_E="0.0" SE="0.6444204976393735" STUDY_ID="STD-Chapman-1991" TOTAL_1="48" TOTAL_2="45" VAR="0.4152777777777778" WEIGHT="42.37614938041794"/>
+<DICH_DATA CI_END="1.4712379908453634" CI_START="0.19880012673816794" EFFECT_SIZE="0.5408163265306123" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="10" LOG_CI_END="0.1676829308857293" LOG_CI_START="-0.7015833430691409" LOG_EFFECT_SIZE="-0.2669502060917058" ORDER="212" O_E="0.0" SE="0.5106113122585437" STUDY_ID="STD-Fiel-1983" TOTAL_1="49" TOTAL_2="53" VAR="0.260723912206392" WEIGHT="49.30252061033613"/>
+<DICH_DATA CI_END="6.5109789715537785" CI_START="0.012329601758584751" EFFECT_SIZE="0.2833333333333333" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.8136462927124466" LOG_CI_START="-1.9090509507231859" LOG_EFFECT_SIZE="-0.5477023290053697" ORDER="213" O_E="0.0" SE="1.599325838362809" STUDY_ID="STD-Lee-1993a" TOTAL_1="19" TOTAL_2="16" VAR="2.557843137254902" WEIGHT="8.321330009245923"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="214" O_E="0.0" SE="0.0" STUDY_ID="STD-Shapiro-1983" TOTAL_1="11" TOTAL_2="15" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.8898243501000636" CI_START="0.2469325125518211" DF="0.0" EFFECT_SIZE="0.46875" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="20" I2="0.0" ID="CMP-002.01.02" LOG_CI_END="-0.0506957139291794" LOG_CI_START="-0.60742172459927" LOG_EFFECT_SIZE="-0.32905871926422475" NO="2" P_CHI2="1.0" P_Z="0.020508398498279862" STUDIES="1" TAU2="0.0" TOTAL_1="48" TOTAL_2="45" WEIGHT="100.0" Z="2.3169143391755154">
+<NAME>21 day follow-up</NAME>
+<DICH_DATA CI_END="0.8898243501000638" CI_START="0.24693251255182105" EFFECT_SIZE="0.46875" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="20" LOG_CI_END="-0.05069571392917929" LOG_CI_START="-0.6074217245992701" LOG_EFFECT_SIZE="-0.32905871926422475" ORDER="215" O_E="0.0" SE="0.32702361450580975" STUDY_ID="STD-Chapman-1991" TOTAL_1="48" TOTAL_2="45" VAR="0.10694444444444445" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.5787458171207888" CI_END="16.82934960173795" CI_START="-3.502965654877678" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="MD" EFFECT_SIZE="6.663191973430135" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="0.44680447230237386" P_Q="1.0" P_Z="0.19892624533910053" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="31" UNITS="" WEIGHT="99.99999999999999" Z="1.2846167418882768">
+<NAME>PFTs</NAME>
+<GROUP_LABEL_1>po CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Steroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="19.951087627972303" CI_START="-19.951087627972303" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="370.0" MEAN_2="370.0" ORDER="216" SD_1="30.0" SD_2="30.0" SE="10.179313388074442" STUDY_ID="STD-Lee-1993a" TOTAL_1="19" TOTAL_2="16" WEIGHT="25.964533628554054"/>
+<CONT_DATA CI_END="20.81508719337964" CI_START="-2.8150871933796378" EFFECT_SIZE="9.0" ESTIMABLE="YES" MEAN_1="99.0" MEAN_2="90.0" ORDER="217" SD_1="16.0" SD_2="14.0" SE="6.028216480800432" STUDY_ID="STD-Shapiro-1983" TOTAL_1="11" TOTAL_2="15" WEIGHT="74.03546637144593"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Intramuscular corticosteroids versus placebo</NAME>
+<DICH_OUTCOME CHI2="0.8888557955356677" CI_END="1.0898137800220193" CI_START="0.08403141729632706" CI_STUDY="95" CI_TOTAL="95" DF="1.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.3026195574055284" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="9" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="0.03735229498824751" LOG_CI_START="-1.0755583114682743" LOG_EFFECT_SIZE="-0.5191030082400133" METHOD="MH" NO="1" P_CHI2="0.3457876749068296" P_Q="0.0" P_Z="0.06748945406530574" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="47" TOTAL_2="42" WEIGHT="100.0" Z="1.828400582246716">
+<NAME>Relapse rates</NAME>
+<GROUP_LABEL_1>IM CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Steroids</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.8888557955356677" CI_END="1.0898137800220193" CI_START="0.08403141729632706" DF="1.0" EFFECT_SIZE="0.3026195574055284" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="9" I2="0.0" ID="CMP-003.01.01" LOG_CI_END="0.03735229498824751" LOG_CI_START="-1.0755583114682743" LOG_EFFECT_SIZE="-0.5191030082400133" NO="1" P_CHI2="0.3457876749068296" P_Z="0.06748945406530574" STUDIES="2" TAU2="0.0" TOTAL_1="47" TOTAL_2="42" WEIGHT="100.0" Z="1.828400582246716">
+<NAME>7-10 day follow-up</NAME>
+<DICH_DATA CI_END="13.815573537721964" CI_START="0.0641170014672433" EFFECT_SIZE="0.9411764705882353" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.14036891886509" LOG_CI_START="-1.1930267963097887" LOG_EFFECT_SIZE="-0.026328938722349152" ORDER="218" O_E="0.0" SE="1.370648193588798" STUDY_ID="STD-Lee-1993a" TOTAL_1="17" TOTAL_2="16" VAR="1.8786764705882353" WEIGHT="22.748028871126547"/>
+<DICH_DATA CI_END="0.9308865352878543" CI_START="0.05042982432862027" EFFECT_SIZE="0.21666666666666667" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="8" LOG_CI_END="-0.03110325145841963" LOG_CI_START="-1.2973125446951939" LOG_EFFECT_SIZE="-0.6642078980768068" ORDER="219" O_E="0.0" SE="0.7437776066843692" STUDY_ID="STD-McNamara-1993" TOTAL_1="30" TOTAL_2="26" VAR="0.5532051282051282" WEIGHT="77.25197112887345"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="8.902702514879575" CI_START="-28.902702514879575" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-10.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-003.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.2997965926708922" Q="0.0" RANDOM="YES" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="17" TOTAL_2="16" UNITS="" WEIGHT="99.99999999999999" Z="1.036869719024164">
+<NAME>PFTs</NAME>
+<GROUP_LABEL_1>IM CS</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Steroids</GRAPH_LABEL_2>
+<CONT_DATA CI_END="8.902702514879575" CI_START="-28.902702514879575" EFFECT_SIZE="-10.0" ESTIMABLE="YES" MEAN_1="360.0" MEAN_2="370.0" ORDER="220" SD_1="25.0" SD_2="30.0" SE="9.644413195335057" STUDY_ID="STD-Lee-1993b" TOTAL_1="17" TOTAL_2="16" WEIGHT="99.99999999999999"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES MODIFIED="2008-07-23 11:25:30 +0100" MODIFIED_BY="Toby J Lasserson">
+<FIGURE FILENAME="Risk of bias summary.png" FILE_TYPE="PNG" ID="FIG-01" MODIFIED="2008-07-23 11:25:30 +0100" MODIFIED_BY="Toby J Lasserson" NO="1" SHORT_VERSION_FIGURE="YES" TYPE="QUALITY_TABLE_PLOT">
+<CAPTION>
+<P>Methodological quality summary: review authors' judgements about each methodological quality item for each included study.</P>
+</CAPTION>
+<FILE>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
+YII=
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Forest plot.png" FILE_TYPE="PNG" ID="FIG-02" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NO="2" REF_ID="CMP-001.01" SETTINGS="SHOW_EFFECT_SIZE_COLUMN:YES;SHOW_WEIGHT_COLUMN:YES;SHOW_RAW_DATA_COLUMNS:YES;" SHORT_VERSION_FIGURE="YES" TYPE="FOREST_PLOT">
+<CAPTION>
+<P>Forest plot of comparison: 1 Oral or Intramuscular corticosteroid (CS) versus placebo, outcome: 1.1 Relapse rates.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAq0AAAFwCAMAAAClyrL1AAADAFBMVEUAAADAAAAAwAAAAMDg4ADA
+AMAAwMD////AwMD/gICA/4CAgP/g4OBAAAAAQAAAAECAgID/gAAAAAALCwsWFhYhISEsLCw3NzdC
+QkJNTU1YWFhjY2Nubm55eXmEhISPj4+ampqlpaWwsLC7u7vGxsbR0dHc3Nzn5+cAAAAAADMAAGYA
+AJkAAMwAAP8AMwAAMzMAM2YAM5kAM8wAM/8AZgAAZjMAZmYAZpkAZswAZv8AmQAAmTMAmWYAmZkA
+mcwAmf8AzAAAzDMAzGYAzJkAzMwAzP8A/wAA/zMA/2YA/5kA/8wA//8zAAAzADMzAGYzAJkzAMwz
+AP8zMwAzMzMzM2YzM5kzM8wzM/8zZgAzZjMzZmYzZpkzZswzZv8zmQAzmTMzmWYzmZkzmcwzmf8z
+zAAzzDMzzGYzzJkzzMwzzP8z/wAz/zMz/2Yz/5kz/8wz//9mAABmADNmAGZmAJlmAMxmAP9mMwBm
+MzNmM2ZmM5lmM8xmM/9mZgBmZjNmZmZmZplmZsxmZv9mmQBmmTNmmWZmmZlmmcxmmf9mzABmzDNm
+zGZmzJlmzMxmzP9m/wBm/zNm/2Zm/5lm/8xm//+ZAACZADOZAGaZAJmZAMyZAP+ZMwCZMzOZM2aZ
+M5mZM8yZM/+ZZgCZZjOZZmaZZpmZZsyZZv+ZmQCZmTOZmWaZmZmZmcyZmf+ZzACZzDOZzGaZzJmZ
+zMyZzP+Z/wCZ/zOZ/2aZ/5mZ/8yZ///MAADMADPMAGbMAJnMAMzMAP/MMwDMMzPMM2bMM5nMM8zM
+M//MZgDMZjPMZmbMZpnMZszMZv/MmQDMmTPMmWbMmZnMmczMmf/MzADMzDPMzGbMzJnMzMzMzP/M
+/wDM/zPM/2bM/5nM/8zM////AAD/ADP/AGb/AJn/AMz/AP//MwD/MzP/M2b/M5n/M8z/M///ZgD/
+ZjP/Zmb/Zpn/Zsz/Zv//mQD/mTP/mWb/mZn/mcz/mf//zAD/zDP/zGb/zJn/zMz/zP///wD//zP/
+/2b//5n//8z///80TKWtAAAchklEQVR42u1dTc/lRlaufvtGpxNlxKQ7oJBEYSASgi0bFiwQaxCs
+EH+DFfwB9uyABRJiM4IFS34CrCYLWBISKUNPCD1pNRINyVE6E957Xa7vT9tll+3nUTrvvdf15fLj
+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
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Other figure.png" FILE_TYPE="PNG" ID="FIG-03" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NO="3" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Ten patients need to be treated with corticosteroids to prevent one relapse.</P>
+</CAPTION>
+<FILE>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
+</FILE>
+</FIGURE>
+<FIGURE FILENAME="Other figure.png" FILE_TYPE="PNG" ID="FIG-04" MODIFIED="2008-07-23 11:25:16 +0100" MODIFIED_BY="Toby J Lasserson" NO="4" SHORT_VERSION_FIGURE="YES" TYPE="OTHER">
+<CAPTION>
+<P>Eleven patients need to be treated with corticosteroids to prevent on subsequent hospital admission.</P>
+</CAPTION>
+<FILE>iVBORw0KGgoAAAANSUhEUgAAAkcAAAHBCAIAAADsIIj4AABMIklEQVR42u2dLVTjTheHI+sSWTeR
+uCLrUokrsu6PXLeVOCrrWFm3yHWLxLUSx8o6VuJY+TreO7ltmqb5mKSflOeeOZySTPIEuMxvcufO
+jPexYX/f/lIoFAqFcvplU8I89IxCoVAoZ6NtHpJGoVAolLMRNg9Jo1AoFMrZCBuqRqFQKJTzUjV+
+FxQKhUI5D2FD1SgUCoWCqlEoFAqFgqpRKBQKhYKqUSgUCoWyN1X7eP6PQqFQKJS9lkOo2gKGYRiG
+Yfu2mtpWW9XQMwzDMOzw2oaqYRiGYagakoZhGIZ9WmFD1TAMwzBUDcMwDMNQNQzDMAxD1TAMwzBU
+DVXDMAzDUDVU7ejmpWzL+2Tuuaen3dNvoO6pQz7hcd1jV7+Znfx1XKBbPlvdy7fBHezXiKFqX1HS
+Tv+f8/BNwCEbuJN1j9P5SR2hB1Y1DFVD1U5O0nK/rTyYK4rp45X3cTm++XibnffKJ3Ss7H55bqtX
+6wldcFv+II3/muU/TvlVDf6ytX4DJQ/pLsYuP1HRwUpcEcLxUWv9jTBUDfuobM1rNdOOquZ4n/I3
+yMpGrfLO5ZUr318r32trQR3fmLf/QZr9NR1VbSd/WZffQO49y++2ze+55MHKcXV/wC3/RhiqhtWI
+tOQ2H0XdyZJvK///i+5f+cCV0KKXG5dWyf2pKp+wspe9j1913VOVfy+XF/0t/7KOf53K33zdv1QD
+et0ndDnu7gaoGqqGNVc1x1ajVmX3drbuS9X2T9jgqZrp7pa/asc3mwa/qwYqsv3vsNlfpzxYXdld
+q/sbqNVXq/USts2vFEPVMNcI5BFVrTzydixVcxE2VG2Hf9lajlf3sfekas2i4qgaqobtUtXKoxyO
+caTdRiAdI0u1MvS2j0DWDSjtMALp/ob94ZwRs02PxD2kWesvWzcCuU0YcE8RyGZRx7pugKqhalh1
+C1iZteWYuLW/bJEPh8RI91DVPrJFPuqkbjr+FRwzNSpV7aNmwkLRj7PNq/bHdtkiRW52gGyRxhHI
+3WaLoGqoGlZb2Lbp+O87s7+ofq3c7r1m9lc+YWUo2P0dyyU70fEqR32qpWofe8jsd4wofDgnubg8
+w5YRyLq//I+mczYwVA3DTq5jwW8AT8BQNQyjTec3gGGoGobRpvMbwDBUDcMwDEPVUDUMwzAMVcMw
+DMMwVA3DMAzDmpkK0O5VDWHDMAzDTvZFDVXDMAzDzudFrYmqLYQtBvC7xjAMw/YnZmnF2aOqpUkU
+CoVCoeyv1NamxqpGoVAoFMqpFVSNQqFQKKgahUKhUCioGoVCoVAoqBqFQqFQKKgahUKhUFA1CoVC
+oVC+lqoxi+JsZnjw66JQKF96vtoChp32mmku3sCfEsOw82jNmqsajeDn8gb+lBiGnX1rhqrhB/wp
+MQxD1WgHz8gV+FNiGPaJ7O+e9lejKfyyqvby/HJ3exddRZ1uGMZFPsi3clBO7e/x4cKFC7fW6xqq
+hqqV2fvb+3A4DILAb/vBwDeTIHxaFTMO5KDf8oN2INWk8q6eGi5cuHBRNWzHqnY/Honn+V1fHLHz
+P1NSpIJUk8pyyfaPDBcuXLioGrZLVZPe02X30mt5lX6Z8VG5RC5s3OmDCxcuXFQN27GqiW+FYRgM
+/M6bCecmHBjTDeSrfM56pFSYmMvbTuc2XJx9M3KhXN7gHwMuXLhwUTVsx6q25poT43ne92/fp09T
++eq3fPMrSLtmcBFEXTvwq2elvp5q8I8BFy5cuBXcc1I1+R1Vns3UKbnEWzdULW2X3Uvrmv+zPSxx
+uJ+Tn8kp+WxdcNnzMl3z32B1k5fnF3t2GXnwu77cyv0x4cKFC7eC+9VULfO5Uq620bOdaOGBBLWO
+qt2PR17Lk86Udb5BkHY+NTlivi1C4aZtMr0q6XyJyyY9MrmV4yAwXLhw4VZzzywCmStdJa9oqFpd
+VRNXW+s0tXydUPLnz5/X+evfv3+1YxUEtkI4MOKLepUUPSsf5IdKOmU2wanlV8Yx4MKFC9eJ+9VU
+LYlDpgOSJTHGTTlM3ypzYeZImpL5XHJJLuV0VG04HMrr/8Kx4jCCHPz379+PHz+ur68fHx/FR/Wx
+pT9lLsz0aSpOKb4rF8pZ9cKoG6Vj6HJDdeISgwsXLlwn7pdVtVyVclG1yhfBXEr5YxTp2Qm+qwXt
+IOlwyQeNbs9mM31y6WqJp2oA3WbiLh9ejmsFcVMNJgS3fjpnV6z8AeHChQvXiXt+OZCZl7Ai8XAR
+p3JV28wlyRxxUbWiS05T1XTMNu1V6p3ic/ojhGG46Z1yJPFO8eNN70xHJHINLly4cF25qFpjVat8
+Taz1rlZ5k1NQNetVg5R3LiMJ72/vj4+Pw+FQ3FSD4BpJkA6a+Nzr/FWc8vr6+uHhQSMJ/au+Ga9N
+wJTblow5w4ULF64r9yznq1XmiexW1dy10yUCecqqFl1FZhLk9pXEKXVod23U98po8q6cFR/VMIKY
+aZvweW3GpThrf9Avejq4cOHCdeV+TVUrURFHVSvPFikZxiuKZFaOBZ6CqtkVtdcXuRH/y8/QHcTe
+OTFRN8qc/f3rt/TFNpfD6XQ7RU8HFy5cuK5c1hbB3FUt3PTOOJgwfZomdeRzejaldL7ux/fJWemU
+2Q7XJGeRN7l50dPBhQsXrisXVcO2UTXtWIk73t3eiV/KVzv2OzE619KefV6cfZ2/Sm+rc9GRblru
+0qW1/ivgwoULF1XDdh+BTHzLdE14EYaDUAPfZmw3j9BguhyRs3adt7Yxt0HRgty1Ihhw4cKFSwQS
+20W2yLh68whxR6/lmV9BzjrcBaV6tBkuXLhw//dVs0WwPalaJkO3qEidzLQSl0vcM4PhwoUL92tl
+9mN7UjU7m7Jd7XZ2P8C5qeWdctuKWZxw4cKF68JF1TD9k7mumBWsVr4xk/xYgZ1KWcc1za8gaFet
+uAMXLly4Ltx9qBrCdh4vavmrG9+uVin1r/zM5MqFd7a9RSThLTtrMr/D5bI6Kly4cOG6cFE1XtRq
+qVp6RwlNWMoZ9Z1bxxUfXbnpRgW701LTnSzgwoUL96A70awaxPjuKMdpiln6b1Srd2J3/2vHu//F
+e/fldrs0oyk3nVc7a4vR4zfjt+vsOggXLly45dz9qVq63aScZmn8zr3aqT1Oxg2++cn0SZe0pWRL
+XHHT6CpyF2O4cOHCreDuW9Uon7oUqZq8+IcX4cJB5zbArT5aEg2XamYcSGdNKutYsVwehmFl7AIu
+XLhwa3BRNUqz8dGVg74t4ga2M9X2xE3F/3TqiRbpWPkXdgXn1Sjxm+1tyeW1/iXgwoULt5qLqlEa
+Z/2Ib112L8Uj03Fw6U/ZhXDGQeKddrGAdIWnwG970VXU4F8CLly4cBsndaNqFKdc1vvxyG/5Nj7w
+FFTOL5FqUtlxeBkuXLhwa3NRNcr2MzSk92QXxWlLZ8rGEKTDZdfSXhbb/xr49lQ7kGqNu3hw4cKF
+i6pRDqFqib08v0h/qj/od7odu/1EN5QP8q0cLFlQZ3uDCxcuXFSNwmx6DMPOzpivxnw1VA3DMFTN
+Wc+w0/7zN1hbBMMw7MupGq3heTgBf0cMw1A1WkNUDcMw7IxUjabwbPyAPyWGYagaTeHXVbWX55e7
+27voKurE6blxhm4o38rBfWcGw4ULFy6qhu1G1d7f3ofDYRAsZ1NO8mZTtuxsSqm221mccOHChYuq
+YbtUNfeVb+xKbsdYcQcuXLhfiIuqYY1VbbFKacur9MuMj8olcuG2q6PChQsXLqqG7UrV7I4S4WJH
+Cbve9sCYbiBfdQ+ktSIVJubyttO5DRdn35pszgQXLly41VxUDWugamuuOTGe533/9n36NJWvfstu
+IZF2zeAiiLp24FfPSv1kc9smuw7ChQsX7oF3DT1ZVZNfYu63JcfTVuvmuUfORtVWO7XPjTjcz8nP
+5JR8ti647HmZrvlvsLrJy/OLPbuMPPhdX27l/phw4cKFW8H9aqqWVpqMelWKX/ltM3dwEcJPqmr3
+45HX8nQrWzMI0s6nJkfMt0Uo3LRNplclnS9x2aRHJrdyHASGCxcu3Gouqra9qn2pdzVxtbVOU8vX
+CSV//vx5nb/+/ftXO1ZBYCuEAyO+qFdJ0bPyQX4zSafMJji1/Mo4Bly4cOE6cb9gBHIz8Fh0vJbI
+fRFVGw6H8vqfbMoujiUH//379+PHj+vr68fHR/FR/dmlP2UuzPRpKk4pvisXyln1wqgbpWPockN1
+4hKDCxcuXCcuqlZX1b74u1rQDpIOl3zQ6PZsNtP3XelqiadqAN1m4i5/A3JcK4ibajAhuPXTObti
+5Q8IFy5cuE7cr5kt4ihvqFrmT6ljtmmvUu8Un1PnC8Nw0zvlSOKd4seb3pmOSOQaXLhw4bpyv2wO
+ZHosreg4qpb5U1qvGqS8cxlJeH97f3x8HA6H4qYaBNdIgnTQxOde56/ilNfX1w8PDxpJ6F/1zXht
+AqbctmTMGS5cuHBduagaquauatFVZCZBbl9JnFKHdtdGfa+MJu/KWfFRDSOImbYJn9dmXIqz9gf9
+oqeDCxcuXFcu89Xqpod85WwRu6L2+iI34n/5GbqD2DsnJupGmbO/f/2Wvtjmcjidbqfo6eDChQvX
+lcvaIpi7qoWb3hkHE6ZP06SOfE7PppTO1/34PjkrnTLb4ZrkLPImNy96Orhw4cJ15aJq2Daqph0r
+cce72zvxS/lqx34nRuda2rPPi7Ov81fpbXUuOtJNy126tNZ/BVy4cOGiatjuI5CJb5muCS/CcBBq
+4NuM7eYRGkyXI3LWrvPWNuY2KFqQu1YEAy5cuHCJQGK7yBYZV28eIe7otTzzK8hZh7ugVI82w4UL
+F+7/yBbBdqpqmQzdoiJ1MtNKXC5xzwyGCxcuXDL7sR2omp1N2a52O7sf4NzU8k65bcUsTrhw4cJ1
+4aJqmP7JXFfMClYr35hJfqzATqWs45rmVxC0q1bcgQsXLlwX7j5UDWE7jxe1/NWNb1erlPpXfmZy
+5cI7294ikvCWnTWZ3+FyWR0VLly4cF24qBovarVULb2jhCYs5Yz6zq3jio+u3HSjgt1pqelOFnDh
+woV70J1oVg1ifHeU4zTFLP03qtU7sbv/tePd/+K9+3K7XZrRlJvOq521xejxm/HbdXYdhAsXLtxy
+7v5ULd1uUk6zNH7nXu3UHifjBt/8ZPqkS9pSsiWuuGl0FbmLMVy4cOFWcPetapRPXYpUTV78w4tw
+4aBzG+BWHy2Jhks1Mw6ksyaVdaxYLg/DsDJ2ARcuXLg1uKgapdn46MpB3xZxA9uZanvipuJ/OvVE
+i3Ss/Au7E8JqlPjN9rbk8lr/EnDhwoVbzUXVKI2zfsS3LruX4pHpOLj0p+xCOOMg8U67WEC6wlPg
+t73oKmrwLwEXLly4jZO6UTWKUy7r/Xjkt3wbH3gKKueXSDWp7Di8DBcuXLi1ubVUDWFD1Yo6X3ZR
+nLZ0pmwMQTpcdi3tZbH9r4FvT7UDqda4iwcXLly4qBrlEKqW2Mvzi/Sn+oN+p9ux2090Q/kg38rB
+kgV1tje4cOHCbahqCBuqhmEYdrrWQNUQNlQNwzDsrFQNbUPVMAzDzk3VsM9oqBqGYagaqvZFtQ1V
+wzAMVcPOR9hQNQzDUDXsfIStQWb/3e1ddBV14vTcOEM3lG/l4L4zg+HChQsXVcM+djULezgcBsFy
+NuUkbzZly86mlGq7ncUJFy5cuKgatktVc1/5xq7kdowVd+DChfuFuKgatu3qxi2v0i8zPiqXyIXb
+ro4KFy5cuKgatitVsztKhIsdJex62wNjuoF81T2Q1opUmJjL207nNlycfWuyORNcuHDhVnNRNazh
+rqGJa06M53nfv32fPk3lq9+yW0ikXTO4CKKuHfjVs1I/2dy2ya6DcOHChburXUMxVE1ttVP73IjD
+/Zz8TE7JZ+uCy56X6Zr/BqubvDy/2LPLyIPf9eVW7o8KFy5cuBVcVA2rq2r345HX8nQrWzMI0s6n
+JkfMt0Uo3LRNplclnS9x2aRHJrdyHASGCxcu3GouqobVUjVxtbVOU8vXCSV//vx5nb/+/ftXO1ZB
+YCuEAyO+qFdJ0bPywfO8pFNmE5xafmUcAy5cuHCduKgaVkvVhsOhvP4nm7KLY8nBf//+/fjx4/r6
++vHxUXzUuotnO2XmwkyfpuKU4rtyoZxVL4y6UTqGLjdUJy4xuHDhwnXiompYLVUL2kHS4ZIPGt2e
+zWZebNLVEk/VALrNxPUWbiPHtYK4qQYTgls/nbMrVv6QcOHChevERdUwd1XTMdu0V6l3is+p84Vh
+uOmdciTxTvHjTe9MRyRyDS5cuHBduaga5q5q1qsGKe9cRhLe394fHx+Hw6G4qQbBNZIgHTTxudf5
+qzjl9fX1w8ODRhL6V30zXpuAKbctGXOGCxcuXFcuqoa5q1p0FZlJkNtXEqfUod21Ud8ro8m7clZ8
+VMMIYqZtwue1GZfirP1Bv+gJ4cKFC9eVi6ph7qpmV9ReX+RG/C8/Q3cQe+fERN0oc/b3r9/SF9tc
+DqfT7RQ9IVy4cOG6clE1zF3Vwk3vjIMJ06dpUkc+p2dTSufrfnyfnJVOme1wTXIWeZObFz0hXLhw
+4bpyUTVsG1XTjpW4493tnfilfLVjvxOjcy3t2efF2df5q/S2Ohcd6ablLl1a678CLly4cFE1bPcR
+yMS3TNeEF2E4CDXwbcZ28wgNpssROWvXeWsbcxsULchdK4IBFy5cuEQgsV1ki4yrN48Qd/RanvkV
+5KzDXVCqR5vhwoUL939ki2A7VbVMhm5RkTqZaSUul7hnBsOFCxcumf3YDlTNzqZsV7ud3Q9wbmp5
+p9y2YhYnXLhw4bpwUTWs3opZwWrlGzPJjxXYqZR1XNP8CoJ21Yo7cOHChevCRdWweqsb365WKfWv
+/MzkyoV3tr1FJOEtO2syv8PlsjoqXLhw4bpwUTWs8U40mrCUM+o7t44rPrpy040KdqelpjtZwIUL
+Fy470WC7UbUP3f2vHe/+F+/dl9vt0oym3HRe7awtRo/fjN+us+sgXLhw4ZZzUTWsrqp9pHdqj5Nx
+g29+Mn3SJW0p2RJX3DS6itwfFS5cuHAruAdTNW9pmW83D7rcpLxa7oXJ183jO7c93XZPiAaqJi/+
+4UW4cNC5DXCrj5ZEw6WaGQfSWZPKOlYsl4dhWBm7gAsXLtwa3MOoWroJrhSYzQ8u3zYTgMOr2q6I
+x1W1NQd9W8QNbGeq7Ymbiv/p1BMt0rHyL2xHZDVK/GZ7W3J5rX8JuHDhwq3mno6qZd7Vdvhehart
+Q9XUQS+7l+KR6Ti49KfsQjjjIPFOu1hAusJT4Le96Cpq8C8BFy5cuBWAI6paSSzR/WBubHNTIDNS
+WhT8LLnJZp3cI7mvm0VR1qIA7Oavq+gJj6tqySCw3/JtfOApqJxfItWksuPwMly4cOHW5h5+XK2k
+4a5UL3e9zH0vLELXuknJkSIpKnkYx1MuY4THUjXtfNlFcdrSmbIxBOlw2bW0l8X2vwa+PdUOpFrj
+Lh5cuHDhnpCqVTbTzWJ3jhLlomHlopv72EVvnI7SVQtaUvnoqpbYy/OL9Kf6g36n27HbT3RD+SDf
+ysGSBXW2N7hw4cI9RVUrT4bcq6rVuq27ADu+kDV4eztNVcMwDDuynUK2SFEL7pIDuXNV2+ZIY1XL
+Faqi+6NqGIZhx39Xc0+1+CieuJYb8StJoyjRS5dskaKrKn+EyvtUQnO/Pf0IJIZh2FdRNexkDVXD
+MAxVw1A1DMMwVA1D1TAMw1A17FOo2svzy93tXXQVdeL03DhDN5Rv5eC+M4PhwoULF1XDdqNq72/v
+w+EwCJazKSd5sylbdjalVNvtLE64cOHCRdWwXaqa+8o3diW3Y6y4Axcu3C/ERdWwbVc3bnmVfpnx
+UblELtx2dVS4cOHCRdWwXama3VEiXOwoYdfbHhjTDeSr7oG0VqTCxFzedjq34eLsW5PNmeDChQu3
+mouqYQ13DU1cc2I8z/v+7fv0aSpf/ZbdQiLtmsFFEHXtwK+elfrJ5rZNdh2ECxcu3KPvGoqdmaqt
+dmqfG3G4n5OfySn5bF1w2fMyXfPfYHWTl+cXe3YZefC7vtzK/VHhwoULt4KLqmF1Ve1+PPJanm5l
+awZB2vnU5Ij5tgiFm7bJ9Kqk8yUum/TI5FaOg8Bw4cKFW81F1bBaqiauttZpavk6oeTPnz+v89e/
+f/9qxyoIbIVwYMQX9SopelY+eJ6XdMpsglPLr4xjwIULF64TF1XDaqnacDiU1/9kU3ZxLDn479+/
+Hz9+XF9fPz4+io9+xIsvS3/KXJjp01ScUnxXLpSz6oVRN0rH0OWG6sQlBhcuXLhOXFQNq6VqQTtI
+OlzyQaPbs9lMNxOQrpZ4qgbQbSbucmMBOa4VxE01mBDc+umcXbHyh4QLFy5cJy6qhrmrmo7Zpr1K
+vVN8Tp0vDMNN75QjiXeKH296ZzoikWtw4cKF68pF1TB3VbNeNUh55zKS8P72/vj4OBwOxU01CK6R
+BOmgic+9zl/FKa+vrx8eHjSS0L/qm/HaBEy5bcmYM1y4cOG6clE1zF3VoqvITILcvpI4pQ7tro36
+XhlN3pWz4qMaRhAzbRM+r824FGftD/pFTwgXLly4rlxUDXNXNbui9voiN+J/+Rm6g9g7JybqRpmz
+v3/9lr7Y5nI4nW6n6AnhwoUL15WLqmHuqhZuemccTJg+TZM68jk9m1I6X/fj++SsdMpsh2uSs8ib
+3LzoCeHChQvXlYuqYduomnasxB3vbu/EL+WrHfudGJ1rac8+L86+zl+lt9W56Eg3LXfp0lr/FXDh
+woWLqmG7j0AmvmW6JrwIw0GogW8ztptHaDBdjshZu85b25jboGhB7loRDLhw4cIlAmnNW9o2dyg/
+uD3ipLNFxtWbR4g7ei3P/Apy1uEuKNWjzXDhwoX7P7JFSrWnUqscFTF9sARxBqqWydAtKlInM63E
+5RL3zGC4cOHCJbN/B6pWVLPozez8VM3OpmxXu53dD3Buanmn3LZiFidcuHDhunBRtdz3rZIQYq4c
+fhFV+4jXsElC5GaSHyuwUynruKb5FQTtqhV34MKFC9eF+2XH1Yre1SpDiC6qdq7jamLD29Uqpf6V
+n5lcufDOtreIJLxlZ03md7hcVkeFCxcuXBful82B3Imq5V513u9q6R0lNGEpZ9R3bh1XfHTlphsV
+7E5LTXeygAsXLlx2otmXqhW9/J2rqn3o7n/tePe/eO++3G6XZjTlpvNqZ20xevxm/HadXQfhwoUL
+t5zLuNqWEci6l5+Bqn2kd2qPk3GDb34yfdIlbSnZElfcNLqK3B8VLly4cCu4zFfLVSb3bJGSF7iz
+HFdL4gnhRbhw0LkNcKuPlkTDpZoZB9JZk8o6ViyXh2FYGbuACxcu3Bpc1hbBGqjamoO+LeIGtjPV
+9sRNxf906okW6Vj5F1bmV6PEb7a3JZfX+peACxcu3GouqoY1UzV10MvupXhkOg4u/Sm7EM44SLzT
+LhaQrvAU+G0vuooa/EvAhQsXbgUAVcMaq5ra/Xjkt3wbH3gKKueXSDWp7Di8DBcuXLi1uagatqWq
+aefLLorTls6UjSFIh8uupb0stv818O2pdiDVGnfx4MKFCxdVww6haom9PL9If6o/6He6Hbv9RDeU
+D/KtHCxZUGd7gwsXLlxUDdu9qmEYhh3ZUDUMVcMwDFXDUDUMwzBUDUPVMAzDUDUMVcMwDEPVMFQN
+wzBUDVVD1Zpm9t/d3kVXUSdOz40zdEP5Vg7uOzMYLly4cFE1bDeq9v72PhwOg2A5m3KSN5uyZWdT
+SrXdzuKECxcuXFQN26Wqua98Y1dyO8aKO3Dhwv1CXFQN23Z145ZX6ZcZH5VL5MJtV0eFCxcuXFQN
+25Wq2R0lwsWOEna97YEx3UC+6h5Ia0UqTMzlbadzGy7OvjXZnAkuXLhwq7moGtZw19DENSfG87zv
+375Pn6by1W/ZLSTSrhlcBFHXDvzqWamfbG7bZNdBuHDhwmXXUGy3qrbaqX1uxOF+Tn4mp+SzdcFl
+z8t0zX+D1U1enl/s2WXkwe/6civ3R4ULFy7cCi6qhtVVtfvxyGt5upWtGQRp51OTI+bbIhRu2ibT
+q5LOl7hs0iOTWzkOAsOFCxduNRdVw2qpmrjaWqep5euEkj9//rzOX//+/asdqyCwFcKBEV/Uq6To
+WfngeV7SKbMJTi2/Mo4BFy5cuE5cVA2rpWrD4VBe/5NN2cWx5OC/f/9+/PhxfX39+PgoPmrdxbOd
+MnNhpk9TcUrxXblQzqoXRt0oHUOXG6oTlxhcuHDhOnFRNayWqgXtIOlwyQeNbs9mMy826WqJp2oA
+3Wbiegu3keNaQdxUgwnBrZ/O2RUrf0i4cOHCdeKiapi7qumYbdqr1DvF59T5wjDc9E45knin+PGm
+d6YjErkGFy5cuK5cVA1zVzXrVYOUdy4jCe9v74+Pj8PhUNxUg+AaSZAOmvjc6/xVnPL6+vrh4UEj
+Cf2rvhmvTcCU25aMOcOFCxeuKxdVw9xVLbqKzCTI7SuJU+rQ7tqo75XR5F05Kz6qYQQx0zbh89qM
+S3HW/qBf9IRw4cKF68pF1TB3VbMraq8vciP+l5+hO4i9c2KibpQ5+/vXb+mLbS6H0+l2ip4QLly4
+cF25qBrmrmrhpnfGwYTp0zSpI5/Tsyml83U/vk/OSqfMdrgmOYu8yc2LnhAuXLhwXbmoGraNqmnH
+Stzx7vZO/FK+2rHfidG5lvbs8+Ls6/xVeludi45003KXLq31XwEXLly4qBq2+whk4luma8KLMByE
+Gvg2Y7t5hAbT5Yicteu8tY25DYoW5K4VwYALFy5cIpDYLrJFxtWbR4g7ei3P/Apy1uEuKNWjzXDh
+woX7P7JFsJ2qWiZDt6hIncy0EpdL3DOD4cKFC5fMfmwHqmZnU7ar3c7uBzg3tbxTblsxixMuXLhw
+XbioGlZvxaxgtfKNmeTHCuxUyjquaX4FQbtqxR24cOHCdeGiali91Y1vV6uU+ld+ZnLlwjvb3iKS
+8JadNZnf4XJZHRUuXLhwXbioGtZ4JxpNWMoZ9Z1bxxUfXbnpRgW701LTnSzgwoULl51osNqSVrZr
+aDve/S/euy+326UZTbnpvNpZW4wevxm/XWfXQbhw4cIt56JqqFpdVftI79QeJ+MG3/xk+qRL2lKy
+Ja64aXQVuT8tXLhw4VZwUTUkrYGqyYt/eBEuHHRuA9zqoyXRcKlmxoF01qSyjhXL5WEYVsYu4MKF
+C7cGF1VD0hqo2pqDvi3iBrYz1fbETcX/dOqJFulY+Rd2k6TVKPGb7W3J5bX+JeDChQu3mouqIWnN
+VE0d9LJ7KR6ZjoNLf8ouhDMOEu+0iwWkKzwFftuLrqIG/xJw4cKFWwFA1dCzxqqmdj8e+S3fxgee
+gsr5JVJNKjsOL8OFCxdube42qlarfaR8xuKiatr5sovitKUzZWMI0uGya2kvi+1/DXx7qh1ItcZd
+PLhw4cLdl6rR3KNqufby/CL9qf6g3+l27PYT3VA+yLdysGRBne0NLly4cJurGm09qoZhGHaiVlfV
+aOhRNQzDMFSNgqphGIadmKrRyqNqGIZhqBoFVcMwDEPVKKgahmEYqkY5Ymb/3e1ddBV14vTcOEM3
+lG/l4L4zg+HChQv30Kr2MetRTqTsfBb2cDgMguVsyknebMqWnU0p1XY7ixMuXLhwj6Bqi8YUOx1z
+07bdrphlV3I7xoo7cOHC/ULcA6gaenbK2raD1Y1bXqVfZnxULpELt10dFS5cuHAPr2pI2qcWtoqd
+aMLFjhJ2ve2BMd1AvuoeSGtFKkzM5W2ncxsuzr412ZwJLly4cKu5e1U1JO2zC1vZrqGJa06M53nf
+v32fPk3lq9+yW0ikXTO4CKKuHfjVs1I/2dy2ya6DcOHChburXUNRNVRNbbVT+9yIw/2c/ExOyWfr
+gsuel+ma/warm7w8v9izy8iD3/XlVu5PChcuXLgV3P2pGpJ2BsKWq2r345HX8nQrWzMI0s6nJkfM
+t0Uo3LRNplclnS9x2aRHJrdyHASGCxcu3GouqrZpXmxF335xVRNXW+s0tXydUPLnz5/X+evfv3+1
+YxUEtkI4MOKLepUUPSsf5PeZdMpsglPLr4xjwIULF64TF1UrV7UvIWl1VG04HMrrf7IpuziWHPz3
+79+PHz+ur68fHx/FR/X3Jv0pc2GmT1NxSvFduVDOqhdG3SgdQ5cbqhOXGFy4cOE6cVG1ElXblDQv
+ZWclgc6qFrSDpMMlHzS6PZvN9GeXrpZ4qgbQbSbu8rchx7WCuKkGE4JbP52zK1b+gHDhwoXrxEXV
+ilStSNJKlO/sVU3HbNNepd4pPqc/exiGm94pRxLvFD/e9M50RCLX4MKFC9eVi6qVqJpLZPJLqZr1
+qkHKO5eRhPe398fHx+FwKG6qQXCNJEgHTXzudf4qTnl9ff3w8KCRhP5V34zXJmDKbUvGnOHChQvX
+lYuq1X1XKwpCfu4RODdVi64iMwly+0rilDq0uzbqe2U0eVfOio9qGEHMtE34vDbjUpy1P+gXPR1c
+uHDhunJRNfdxtSLd+jqqZlfUXl/kRvwvP0N3EHvnxETdKHP296/f0hfbXA6n0+0UPR1cuHDhunJR
+tRJVKw8wnlX2v5uqhZveGQcTpk/TpI58Ts+mlM7X/fg+OSudMtvhmuQs8iY3L3o6uHDhwnXlomrl
+qpYrbOWJJF9K1bRjJe54d3snfilf7djvxOhcS3v2eXH2df4qva3ORUe6ablLl9b6r4ALFy5cVO1A
+KvilIpCJb5muCS/CcBBq4NuM7eYRGkyXI3LWrvPWNuY2KFqQu1YEAy5cuHCJQKJqu8gWGVdvHiHu
+6LU88yvIWYe7oFSPNsOFCxfu/8gWwXaqapkM3aIidTLTSlwucc8MhgsXLlwy+7EdqJqdTdmudju7
+H+Dc1PJOuW3FLE64cOHCdeGiapi7qn3Ea9gkIXIzyY8V2KmUdVzT/AqCdtWKO3DhwoXrwkXVsFqq
+NrxdrVLqX/mZyZUL72x7i0jCW3bWZH6Hy2V1VLhw4cJ14aJqWC1VS+8ooQlLOaO+c+u44qMrN92o
+YHdaarqTBVy4cOGyEw22G1X70N3/2vHuf/HefbndLs1oyk3n1c7aYvT4zfjtOrsOwoULF245F1XD
+6qraR3qn9jgZN/jmJ9MnXdKWki1xxU2jq8j9MeHChQu3gouqYQ1UTV78w4tw4aBzG+BWHy2Jhks1
+Mw6ksyaVdaxYLg/DsDJ2ARcuXLg1uKga1kDV1hz0bRE3sJ2ptiduKv6nU0+0SMfKv7AT1VejxG+2
+tyWX1/qXgAsXLtxqLqqGNVM1ddDL7qV4ZDoOLv0puxDOOEi80y4WkK7wFPhtL7qKGvxLwIULF24F
+AFXDGqtaMgjst3wbH3gKKueXSDWp7Di8DBcuXLi1uagatqWqaefLLorTls6UjSFIh8uupb0stv81
+8O2pdiDVGnfx4MKFCxdVww6haom9PL9If6o/6He6Hbv9RDeUD/KtHCxZUGd7gwsXLlxUDdu9qmEY
+hh3ZUDUMVcMwDFVD1VA1DMMwVA1D1TAMw1A1DFXDMAz7lKo2m32MRqNerxemipgclFMYqoZhGPY5
+VE10Kww9L/TCGy988MJZqozsQXsq9KQaf7jTVLWX55e727voKurE6blxhm4o38rBfWcGw4ULF+4J
+qZoIlV3wqxcL2EdpmdlqYmjb6aja+9v7cDgMguVsyknebMqWnU0p1XY7ixMuXLhwT07Ver2efQmr
+1LOMtoWeXIgeHV3V3Fe+sSu5HWPFHbhw4X4h7tFVLQx7Nt4YC5X90Iu/5ircg9cb9UIpyVmpGSJs
+R1O1xSqlLa/SLzM+KpfIhduujgoXLly4p6ZqK0l7sEHFm5vRbDaSr/LZjqulJS1+MxuNNs4ibEdS
+NbujRLjYUcKutz0wphvIV90Daa1IhYm5vO10bsPF2bcmmzPBhQsXbjX3iKpmsxyXb2liDw+rt0v5
+bKUreSfrieCt7jabfaTPej1CkYdWtTXXnBj5c3z/9n36NJWvfstuIZF2zeAiiLp24FfPSv1kc9sm
+uw7ChQsX7gnuGmrTQ8LV+1ZatNTkyCoyGXqbl9tY5fJNziMx8rCqttqpfW7E4X5Ofian5LN1wWXP
+y3TNf4PVTV6eX+zZZeTB7/pyK/fHhAsXLtwK7rFUbe1ly/N0Ipp8TWakyYcwXGhermKtvczFb3to
+02FU7X488lqebmVrBkHa+dTkiPm2CIWbtsn0qqTzJS6b9MjkVo6DwHDhwoVbzT2KqtkXtV6OID08
+jOQVbTZbzLa2uhWPqMmRj+XsbP28CGCmxt7khryuHUDVxNXWOk0tXyeU/Pnz53X++vfvX+1YBYGt
+EA6M+KJeJUXPygf7l52nEpxafmUcAy5cuHCduEdRtTBce83SUTEdLbPPvYw3Wt1KaZ6doO2tXuxs
+EHK0luu/Gajct+nzfClVGw6H8vqfbMoujiUH//379+PHj+vr68fHR/FR/c1If8pcmOnTVJxSfFcu
+lLPqhVE3SsfQ5YbqxCUGFy5cuE7cw6uaVa9wTY02VK3XRNXi0bWiJbW8ddurqnkb9gnU0VnVgnaQ
+dLjkg0a3Z7OZ/gjS1RJP1QC6zcRd/lByXCuIm2owIbj10zm7YuUPCBcuXLhO3MOrmlWjm/X51Muf
+YTYbpRd7TEUgF0NuNze9JFUyE4EsH4HLaMauJCT3zpVHPq+q6Zht2qvUO8Xnlj2ScNM75UjinbP4
+r5vxznREItfgwoUL15V7eFXbVKPk9SvzSrfIFumtkv7T6STh5nIkI69306urakXvVY7H3VUt9z65
+oM2b5xJLLix6d9xS1axXDVLeuYwkvL+9Pz4+DodDcVMNgmskQTpo4nOv81dxyuvr64eHB40k9K/6
+Zrw2AVNuWzLmDBcuXLiu3MOrWtjrZdWoPLP/IWc6muhcGOYsoxX2erXehMqVxv34NqpW8tn9Iet+
+bqZq0VVkJkFuX0mcUod210Z9r4wm78pZ8VENI4iZtgmf12ZcirP2B/2i/wq4cOHCdeWehKrN9HVt
+lHpRW5+FvTEdzUraQxNVy33dQdUcVc2uqL2+yI34X36G7iD2zomJulHm7O9fv6UvtrkcTqfbKfqv
+gAsXLlxX7kmo2nLFLE3c1/X710RrlpzVt7Te2shczXe1L6hq1UFIN1ULN70zDiZMn6ZJHfmcnk0p
+na/78X06wdd2uCY5i7zJzQuTZuHChQvXkXsqqrbQJCtL4c2ywijem+ZhdVbz/jOpj6haw/ezXaia
+dqzEHe9u78Qv5av9G02MzrW0Z58XZ1/nr9Lb6lx0pJuWu3Rprf8KuHDhwj0VVbPZIiO3vWa85d6h
+jtvTuGWL7ErVtskWKQmE7lXVdh6BTHzLdE14EYaDUAPfZmw3j9BguhyRs3adt7Yxt0HRgty1Ihhw
+4cKFeyoRyGxmf1G58ZzEzyGzvzwQ1/h4g/lqJdc2zoF0lOqd5EDaUd9x9eYR4o5eyzO/gpx1uAtK
+9WgzXLhw4f7vJLNFsrOwC8patohbKZmFje0kApnJ0C0qUiczrcTlEvfMYLhw4cI9ocz+7FSzghjj
+Ygq2e3k4wopZX03V7GzKdrXb2f0A56aWd8ptK2ZxwoULF64L9+irG6/yQTZevFYRSIeXNlY3PoCq
+fcRr2CQhcjPJjxXYqZR1XNP8CoJ21Yo7cOHChevCPf5ONJromJst0rPa5hUlPc5S73PsRHMoVRve
+rlYp9a/8zOTKhXe2vUUk4S07azK/w+WyOipcuHDhunBPYdfQ7Oy0TLL+rPDlLMk6YdfQg6laekcJ
+TVjKGfWdW8cVH1256UYFu9NS050s4MKFC/e0dqJZpfjfpN66buqlOyYvaiJvvV4PYTqMqn3o7n/t
+ePe/eO++3G6XZjTlpvNqZ20xevxm/HadXQfhwoULt5x7RFWL00ZSwtZbatusbBKbjViG8YvabDkB
+IETSDqpqH+md2uNk3OCbn0yfdElbSrbEFTeNriL3x4QLFy7cCu5xVW1N2FS0bmLR8pYBxtGiLMbY
+vLXsEvsZSTuGqsmLf3gRLhx0bgPc6qMl0XCpZsaBdNakso4Vy+VhGFbGLuDChQu3BvfoqqahSC+z
+rcxs8Vq2Kg/ZCnIJgcdjqdqag74t4ga2M9X2xE3F/3TqiRbpWPkXtkOyGiV+s70tubzWvwRcuHDh
+VnNPQdUWySNeKq5YOi9NY5WkhxxX1dRBL7uX4pHpOLj0p+xCOOMg8U67WEC6wlPgt73oKmrwLwEX
+Lly4FYATUbVE20JN5dfY4yxVRovgZEi648moWjII7Ld8Gx94Cirnl0g1qew4vAwXLly4tbknpWqL
+BnZm5a1307Pr9y+LfKs70WCnpmra+bKL4rSlM2VjCNLhsmtpL4vtfw18e6odSLXGXTy4cOHC/ZSq
+hn06VUvs5flF+lP9Qb/T7djtJ7qhfJBv5WDJgjrbG1y4cOGiatjuVQ3DMOzIhqphqBqGYagaqoaq
+YRiGoWoYqoZhGIaqYagahmHYp1S1RWZ/T5P6vbjY78jsR9UwDMM+k6qNbkbxJGzvxvMePG+WKg/x
+QXs29KQaf7jTVLWX55e727voKurE6blxhm4o38rBfWcGw4ULF+4JqZqumNWLBeyjtCwX92eFkRNS
+tfe39+FwGATL2ZSTvNmULTubUqrtdhYnXLhw4Z6cqvXCXuigZxlts9vRsGD/Caia+8o3diW3Y6y4
+Axcu3C/EPYGdaGxoUYRKd5vpFb+x3VgZ827C1dmbOCCJJB1L1RarlLa8Sr/M+KhcIhduuzoqXLhw
+4Z6aqiWSpmNmo/iDF39+WJe0eKPQ1dkbhO3YqmZ3lAgXO0rY9bYHxnQD+ap7IK0VqTAxl7edzm24
+OPvWZHMmuHDhwq3mHlHVemHvZhlO9FLvZ/pt+oi+wKUVLi17PUKRB1e1NdecGPljff/2ffo0la9+
+y24hkXbN4CKIunbgV89K/WRz2ya7DsKFCxfuCe4aajedSanUzfqb2Sh1MKN5yZFwXedIHjmkqq12
+ap8bcbifk5/JKflsXXDZ8zJd899gdZOX5xd7dhl58Lu+3Mr9MeHChQu3gnssVUsLlRfLWGYUrbfU
+rZt1AUvLXub1Dm06jKrdj0dey9OtbM0gSDufmhwx3xahcNM2mV6VdL7EZZMemdzKcRAYLly4cKu5
+R1G10c0oiSg+xIJ0k0oVGS2Ph6kRNR1yG8VlttTCm3UVZB7bAVRNXG2t09TydULJnz9/Xuevf//+
+1Y5VENgK4cCIL+pVUvSsfLCv2vNUglPLr4xjwIULF64T9yiqln7NGi1H0R4eRrPZSFcV8ZbvaprB
+78UjZ6NR9uxNuJ7rT9rI/lVtOBzK63+yKbs4lhz89+/fjx8/rq+vHx8fxUf1XVz6U+bCTJ+m4pTi
+u3KhnFUvjLpROoYuN1QnLjG4cOHCdeIeXtVms490RPFhKWmZOqpeRfPS5LXMW1c1favbx5Ja3lcI
+bzqrWtAOkg6XfNDo9my2SPGRrpZ4qgbQbSbu8vcmx7WCuKkGE4JbP52zK1b+gHDhwoXrxD28qsn7
+1s1G6ocq2c3NYr3HRE4+4jlqqnnyVc7e3CxWgxzFCSeZCW1FOSPehm2pag1ueNLq6KZqOmab9ir1
+TvE5/enCMNz0TjmSeOcs/uNlvDMdkcg1uHDhwnXlHl7VRJkyc9Hih/4Iw16iECpdYSxaIl2idiJp
+yVmNNEr9h40UEpFFF0WpJTCblV2OnKWqWa8apLxzGUl4f3t/fHwcDofiphoE10iCdNDE517nr+KU
+19fXDw8PGknoX/XNeG0Cpty2ZMwZLly4cF25R1C1sJdZOuQm1q30e0/8TrY2m00Dkl5qEM7LXSIy
+bKJqm+9b5a9iJUeKQJt327x5LrHkwqJ3x/2pWnQVmUmQ21cSp9Sh3bVR3yujybtyVnxUwwhipm3C
+57UZl+Ks/UG/6OngwoUL15V7DFXLLog125CQZFDtYxmETL/Jxa9rvUz4calqXl1Vy+iHy4tdA1Ur
++Vz+hC53KL/zDlXNrqi9vsiN+F9+hu4g9s6JibpR5uzvX7+lL7a5HE6n2yl6Orhw4cJ15Z6CqiU5
+I0mA0VsuHTJapu+Hy+NaIQwLlvMvVbXyFxpUrVLVwk3vjIMJ06dpUkc+p2dTSufrfnyfTvC1Ha5J
+ziJvcvPCpFm4cOHCdeSeQgQyrUl2Ga2l7KWnry1XN7b7iI7C4k1q6kcgi0J8n07VtgpCNlU17ViJ
+O97d3olfylfb7ZgYnWtpzz4vzr7OX6W31bnoSDctd+nSWv8VcOHChXsyqtbrjdz2mvHq7E3TLFsk
+Vyc+9bvaXrNFOnneuVgLoGvCizAchBr4NmO7eYQG0+WInLXrvLWNuQ2KFuSuFcGACxcu3FOJQGYy
++8skqqaqVWb2N1C1bbJFcvM+DqBq+3tXs6O+4+rNI8QdvZZnfgU563AXlOrRZrhw4cL930lmi2Rm
+YZeo2qimqpXMwi6J0ZVnHjaYr1YZzGyQA+miZAfIgcxk6BYVqZOZVuJyiXtmMFy4cOGeUGZ/PNWs
+eufrUWr3GZdtsh9YMWv/EUg7m7Jd7XZ2P8C5qeWdctuKWZxw4cKF68I9+urG5RFFb/m1snKPzWj2
+r2of8Ro2SYjcTPJjBXYqZR3XNL+CoF214g5cuHDhunBPYSea8pyRkUNNdqI5mKoNb1erlPpXfmZy
+5cI7294ikvCWnTWZ3+FyWR0VLly4cF24p7BraK5KbZbyETVe1A6jaukdJTRhKWfUd24dV3x05aYb
+FexOS013soALFy7c09qJJpm41tuccJYsL7JekoO5+4v2ej2E6TCq9qG7/7Xj3f/ivftyu12a0ZSb
+zqudtcXo8Zvx23V2HYQLFy7ccu4RVU3TRm7Wlxcpjzc+LBVulhp7I0nkwKr2kd6pPU7GDb75yfRJ
+l7SlZEtccdPoKnJ/TLhw4cKt4B5X1VTYeqmoo+Ns697yLQ1JO4qqyYt/eBEuHHRuA9zqoyXRcKlm
+xoF01qSyjhXL5WEYVsYu4MKFC7cG9+iqpqHI0FnSVjtfE3g8nqqtOejbIm5gO1NtT9xU/E+nnmiR
+jpV/Yd+wV6PEb7a3JZfX+peACxcu3GruKaiaJo/osNnMYV6aBiFJDzmuqqmDXnYvxSPTcXDpT9mF
+cMZB4p12sYB0hafAb3vRVdTgXwIuXLhwKwAnomqJttn1+HXtq/UESF1AS1fuR89ORNWSQWC/5dv4
+wFNQOb9Eqkllx+FluHDhwq3NPSlVWzSws3ityF5PV+hfLOTf68nBogWxsCOqmna+7KI4belM2RiC
+dLjsWtrLYvtfA9+eagdSrXEXDy5cuHA/paphn07VEnt5fpH+VH/Q73Q7dvuJbigf5Fs5WLKgzvYG
+Fy5cuKgatntVwzAMO7KhahiqhmEYqoaqoWoYhmGoGoaqYRiGoWoYqoZhGIaqYagahmGo2gnMV+st
+zIuLNearnb6qvTy/3N3eRVdRJ07PjTN0Q/lWDu47Mxgu3N3/W8w+buzMWbv4Q1LkWzm417YI7lbc
+U1xbJJQfxnt48GazVRmN7EE9y9oip6Zq72/vw+EwCJazKSd5sylbdjalVNvtLE64cHfOFZP2dLH7
+Vc82PtIcJUW+7S03x5Jqu/1HhLsD7mmtA9mzAhazCotU0B8VbTsRVXNf+cau5HaMFXfgwq3bFknv
+WRrW8rZIKki1XbVFcHfGPYk1+3s9eehKPctoW/yKytDdMVVtsUppy6tsdzJtkFwiF267OipcuDvl
+fsQbY4lVtrOZNtfbekssuLvknsL+ajc3C6GSD3EsNV/h4nfSngh8clZjkkjSUVTN7igRLnaUsOtt
+D4zpBvJV90BaK1JhYi5vO53bcHH2rcnmTHDh7o+rbZG0P0lASL/NbYt0QCTdUmn9xk083F1yj78X
+9s1Kh29uRrPZSL5uyri+mdlVj9fPImxHUbW1pmdi5C/y/dv36dNUvvotu4VEuukJLoKoawf29azU
+Tza3bbLrIFy4u+amm9o4MGYHch4eRjrqs9kWxQ1XT89K/W0aeri75x5R1USlkre0+EdaxUzlsxxJ
+63N6tHA2+8icJRR5YFVb7dQ+N9Kg/Jz8TE7JZ9vELHvWpmv+G6xu8vL8Ys8uI0t+15dbuT8mXLj7
+4KbfHjLjNzr8k7Q2mYEPbYuS5rhuQw93L9xjqZqmOybvW5spLrFEr4bQNi/X307yKyB55GCqdj8e
+eS1Pt7I1gyDduKjJEfNtMdRh2ibTa5bOtTRJSY9bbuU4yA8X7j642p6WdJGT/reGlDZbqqQp+/io
+kdQAd1/cY6laWpbjzwtBTmYnyAf9GeTnzH369B1U+dGmA6iaNCVrneKWrxOG/vz58zp//fv3r3ac
+g8BWCAdG2hq9SoqelQ921HeeSmBr+ZXxIrhw98HVliR5CShqi7Q5zgSNctui3BYZ7kG5R1G19JtW
+WpA0wDqbLWZb608Yp0eOPpazs/WzCns6DhtPd+B1be+qNhwO/a6fbMouDYcc/Pfv348fP66vrx8f
+H6UN0r+d9JfNhZk+TaXRkbZJLpSz2spE3Sg9RiI31EaqxODC3Qc3/QaQbot0IYhkWCRpi/SIzhpO
+zmbS03U0CO7RuEdRtXQef5wG00uEOp27KcfTP78mgyYiP7KWzfVHnvatakE7SDrU8kFHL2b6d/I8
+6UpLS6QDJDbTevm3k+NaQZohDRYFt346J1us/AHhwt0HN/0CofOi0m1RuvFJvxwkZ7UtSoZL3F9f
+4O6Re3hVS0KLxarWa6Bqy7e68xGa9B/7RFRNx+TTrYa2PtKmLP924WbrI0eS1mcW/4UyrU864pRr
+cOHug5uEvIpa26SjXKu1TUfY4B6Be3hVi7Pz11Qt+Rlms1F6scdUBHIRfk2/jWYikCUjcOnfTqZr
+4KgoexWY9M2LPpdf6/5zbalqttUYpFqfZaTo/e398fFxOBxKM6SDHBopkg64tCmv81dpdK6vrx8e
+HjRS1L/qm/HaBFu5bcnYPly4++Dq2oO5bdFyNGStLUqPBqXjZvGko7W2qHxABO5+uYdXtU01ytXb
+5JVOnjv5qdJDi5vLkcRT9no7UalDqpqLwu39Od1ULbqKzCTI7QtLo6ND92uj+ldGk7PlrLRBGiYS
+M20TPq/NqJXGqD/oFz0dXLj74Oragy5tUZLFkLSh6bYoncWQtEUl043g7pd7FFXLPFl5Zr9I4OZz
+i86lw5iZYGat1n/zRccrtZJLln2Neq9iubfNxbn/XHXV0VHV7Irp64sYSfuSn4E9iFufiYm6Uebs
+71+/pa+9udxRp9spejq4cPfB3VyEsCjjPJk4vDl4r5Nrc5cuhHsc7jFULau3+kKaJDdqKDIzIy/z
+mpm7Jqauv1JL1Ryjf47KlKsf7qpWJLcl4nRgVQs3W584WDR9miZ15HN6tqx0ru/H98lZ6XTbDvUk
+ZxE/uXnhfwVcuPvgbjQjlStCbE6TSi970biVh7tL7imoWpLNoon7Olkv/VtIJqLLq2j8lpYdM3RU
+tZJ3rJ2oWmWcsJaaukQXS8bV6g22NVU17ThLc3N3eyftjny1Y78To3Np7dnnxdnX+av0pjsXHemG
+5y5NW6vVgwt3B9y8zvHmSk6ZXGs9u2yLvPSIUeNWHu4uuacQgUxrkk4v1wq6v47+OpINaOL3tpJN
+anoN3tXK1a4kYnkiqub4JrePCGTSdpiuCS/CcBDqwIYZ281BdLBEjshZu45f25jboGjB9VoRKrhw
+t+cWbYMSj3qsrbqrMTFtedJtUW73ulkrD3dn3KOoWpEs5b2i1tihpkG2SN3xqmb6UTJEtytVK6q/
+23c1O6o/rt4cRJobr+WZX0HOOusFpTqbAC7cXXM3sxh22BbVyp6Au0vu0TP7i0qcpl9j9x2XzP5K
+VasbgUwuqZVUWTe8eTrjapkM7KIidTLThlwucc/8hgt3J9xMxnlR0e2xarVFtTLd4e6Ye/RZ2EVl
+M4mzspTMwm4w/lSUGFmeA7mlqm0+ai1Va/Zs7qpmZ8u2q5sVu9/j3NRqfeS2FbN04cLdNTczO3iH
+bVGtWclwd8w9+opZRe+bLr8F98AuthNV+4jXKEqGQMwkPxZkp8rWaXrMryBoV62oBBfuHrjpxLT0
+jsRbtkW1VpCCu2Pu0Vc3TvJBNl+8kgiki4CzuvFhVG14u1qF1r/yM5NnF61P21tEit6ys2LzO9Qu
+q9/ChbsHbnrV3aLhnzgZr0ZbVHe1X7g75h59JxpNdCxKidTtUHN/BctlV9iJ5qCqlt4xRBPSckb1
+57ZhkjZo1QxtVLA7aTXdqQQu3F1x068Ry8m/+W2RWtGcoqQtarAzC9wdc09h19DNvb3TP0aRaKeH
+Ftk19GCq9qG7O7bj3R3jvRlzu9WasZabrq2d8UV2wJvx23V2lYQLd9fc9G6WuVN9k7aoqJmKpyRt
+tYsm3F1yj6VqH6mdT5cT7uqlO5Zvq4rtT9U+4qXTtfnQZOvgm59Mj3VJS0u2PJZmKLqK3B8TLtx9
+cJNJvg3aIn29WG924R6Ve0RV0x8yETZ96GQKdpGM69trMmtP6pMkcnhVe397Dy/CRQM0twMY2gaV
+jHZINTMOpDMulTUXQC4Pw9AlRgQX7l65mQZXN71yaYt0jrBW0xGTuv95cHfPPa6qpYVNfwBVKTEN
+MMrPo0V/Ej2evJ82+7Vi26vaWgP0togL2c5y25NmSNoXnVqkRTrO/oX9262yAN5sb1our9v0wIW7
+J266wc2M8ejxeBF2W9JtURJG26Ytgrtj7tFVTUORmW1ldDgtkTQpmQkAqvMEHo+oatoAXXYvpcVJ
+j3NIf9kudDQOktbHLgaRrvAU+G0vuoqaNT1w4e6J+7HcmjizCK18G69btCjybbqCpi3UCsTB3S/3
+FFQtGUjMXfg4d+kw9yFKbH+qlgzy+y3fxn+egsr5Q1JNKjsO48OFe3iutkVFSxduzpHdVVsEd2fc
+E1G15OfUVH6NPeobW/LepsFJ0h1PTdW0c20XPWpLZ9nGiKRDbddKXxbbvx749lQ7kGrbdKXhwj0A
+9yOeX6VhMQ1/6XuDFh0QWSag7zhcBHcH3JNStUUDO9O1Inu6idxyIf+e7kSDnaCqJfby/CL95f6g
+3+l27PYi3VA+yLdysGThou0NLty9/FvMdMmInvantcTrs++3LYK7FfcEVQ37vKqGYRh2ZEPVMFQN
+wzBUDVVD1TAMw1A1DFXDMAxD1TBUDcMwDFXDUDUMw1A1VA1Va6Rqs9liN/f1DF073WTfmcFwz5j7
+8vxyNxz2u1EUhlHb2BKG8q0c3PeMArifj4uqYTtRNWaPwt05187C/vbdtHzjef953k/Pm6bKz/ig
+nDJBINV2PPsb7uflomrYlqrGSj9w98G9H418z4viBu6jtEzjalL5Hi5cVA3bUtU2VymtLLpK6Zab
+LcA9Y670yqOLjnFo7zJtn1wiF26zqjLcc+CialhjVUtvlaRjLUXrUydLcSdnd7KTBdzz40qb1Wmb
+/zzvXfrmntfzvEv52vJfN5o5qfBdmrkguAmC6fKIXCiXN9sBB+6ZcFE1rJmqJU2e7ul3c9N7eBjp
+6Euma79csbqnZ7fcognuGXOTJk+asOu4b34XN22+5wWe93u9yTNxYCo5+73l66kGDS7cs+KialgD
+Vcvs1J4eR9FhmKTPntkGbzb7SDeLdRs+uOfNjS462uTFWO8lFX3y45L06KWD319vAW2zuGz4+nGo
+Cu4X5aJqWF1V03YtabY2926N91hYDbFkzkqPPm7pFsU9uQDueXPvRyMTN2FyUSfukqfjUXepDru2
+ia/rgy5iwbLV03bwHu7X5KJqWF1VS3fG4277opOezFjSDru2ibmp3unOfm7LmGtwz5j7/vbup9IH
+/HjQJTPQ0o/bso9lwnfm7H3cLE7Xu/+V8TG4Z8hF1bBaqpbuiWt4KungSxf+4WGUtGsantIjOns3
+OZtJE9dRmfIHhHve3Ltv36NlgxXroB1Q6ccjK/24RXuPx120sx/Gx+/j5u8u/vC6bCu/p9pBqSO3
+hfvluKgaVkvV0h15nZ+UdN7V0u1a8m1yVvv7cWZBNhfc/QUC7vlxTcufpnrlXtyE/fzxY/o0vR/f
+9y8vvbgVC+NOehBXiC46d7d3dk2K+Gxf41pts5YLHgRwvxwXVcPcVS0JPRW1eklqQK1WLx3pyn86
+uGfNfXl+SUecHuIm7/ev3+k6r/PXfjfSKJa0fZdhmAlwSbfdW2/1PuK+f8mSS3DPk4uqYe6qpmsA
+Jk1VOkKlad9Jy6WNY3pUJh2/ivduX2v14nWYRiVhMbhnzJX+eDp34FVavZavLd1/g/+ibiR99oT7
+Hs9h0jZRvvav+t+/fZea8u1wOLyTznvqVv+V5jLAPU8uqoa5q5quAVjZB09nEyRtWTrdIJ1NkEzj
+3cy1g/tFuNJJ/7meGiCtnvTBOxed5C1Qmjbb5Y8bNWnapDWUJi85a+IJTFL/90aKwX9wvxoXVcPc
+VW1zMcCizO9kAu/mdCXp0afDXJlgV67BPW9uFIaZxZP+i9s1L2XSo5cj/8W53S9xsyhH0hUeHh7k
+4PvmEoLrsSy4589F1bBtVE2DVEnoKWnUkq765nSl9PITjVtbuOfEjdom0+ppkEpKutXzU+sqRUEQ
+6iKVS+uEYSY8tWj12gbu1+Kiatg2qpa7olK6UdNmUYdkpEKyaMWWrS3cc+JutnpSfsatnjZ8pm28
++Mj7co0lOw+35QdBkESoOhtNXoPWFu45cFE1bEtV0zYrs/qtxqa0+dO1cTWDLpMat01rC/dsuJsR
+qqTN6geBnP2vbV6SpZKWE3jtWrctX/eZvMtr8hpExuCeAxdVw7bJFskty7BV/vruuaVuFgPcc+L2
+u9G9w14kr7qcRJ3tSyqzGOCeIRdVw9xVLZP5XVTihZRq7MhVN+Mc7plxM5nfReVuY/HAylIr4xzu
+mXBRNcxd1TKzdIvKZmK32yXFTwf3rLmZWbolrd5dzVav1uxguGfCRdUwd1X7WF9RaTTKb91cWsbN
+3ZPLHxDueXPNcmfI8nBTtIxQvTo0eb9dVnKCe35cVA2rpWrp1W+LhmHipLjVGExlq1d31V2458dN
+r35bVN6Xe0h+dxuAsavfDodwvxwXVcNqqVq6O7+chJuTTaBJcenmbzPdoPEOKXDPj5vZqaSkTOM4
+1atDtQY7pMA9By6qhtVVtfSukrlTbpOmLTdNfLlixVa7WcI9P256V8ncBLnpenkt7fU3280S7jlw
+UTWsrqp9xBObtNlaTsKtlw63vtWy5/6YcM+bG110+ptTmuJeue5Uki7JwfuNtlIu6XcjuF+Ui6ph
+DVQt0/Dp0jbS9pWMssgpXaVCKms1ndhb90nhnjHXrmDbNkl698+4aSuJR+lWk9oCvqSyvTvxYrhw
+vygXVcOaqVq64cuMtehxaQS1aOsmls4+aNbUwj17rjZ8/bhFm6bassr0Ob2kX7+phXtuXFQNa6xq
+2vClc8GT4RZp3ZJWT75NV9D0gVqBKbhfiittVnTRMW7JBWs7I8eBqQZNLdyz4qJq2Daq9rFMLiha
+QnBzMUD39AG4X5l7Pxr5cfRp6jBvSYNU93Dh7lXVELbPLmmOqqamq7knYSjtv2uJ1wBMEsF37BJw
+z5grvfK74dAEgdG1kdZz5O7jgyaeiivVGr86wD0nrrZaqBqqtgNVW9xpZrv2vZ6dyZsU+VYOliyY
+tIOfAO5Zc1+eX6Sf/l+vpyu42xKG8q0cLFmoCe4X5O5d1RC2Ty1pzYQNwzDsaOYmaVupGsL2qSUN
+VcMw7LOY+4vatqq2EDa07cT0zEXSVsIW+wq/NgzDTlDM0s3UgVRtTdsoJ1Ca/Plip6FQKJQTLLUb
+tJ2oGoVCoVAop1BQNQqFQqGgahQKhUKhoGoUCoVCoaBqFAqFQqGgahQKhUJB1SgUCoVCQdUoFAqF
+QkHVKBQKhULZhaQtVA1ho1AoFAqqRqFQKBTKCUnaStUQNgqFQqF8dklbUzWEjUKhUCifV89yVA3D
+MAzDPrWhahiGYRiqhmEYhmGoGoZhGIahahiGYRhWbf8Hr1p8soRj6KsAAAAASUVORK5CYII=
+</FILE>
+</FIGURE>
+</FIGURES>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

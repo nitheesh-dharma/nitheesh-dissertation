@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002767.pub2" GROUP_ID="CF" ID="356700071023323728" MERGED_FROM="" MODIFIED="2017-06-29 10:27:41 +0100" MODIFIED_BY="Nikki Jahnke" REVIEW_NO="0040" REVMAN_SUB_VERSION="5.1.7" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="14.0">
+<COVER_SHEET MODIFIED="2017-06-29 10:27:40 +0100" MODIFIED_BY="Nikki Jahnke">
+<TITLE>Elective versus symptomatic intravenous antibiotic therapy for cystic fibrosis</TITLE>
+<CONTACT MODIFIED="2017-06-29 10:27:40 +0100" MODIFIED_BY="Nikki Jahnke"><PERSON ID="12966" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Lil</FIRST_NAME><LAST_NAME>Breen</LAST_NAME><POSITION>Consultant Paediatrician</POSITION><EMAIL_1>e.breen@nhs.net</EMAIL_1><ADDRESS><DEPARTMENT>WISCH</DEPARTMENT><ORGANISATION>Wirral Hospitals NHS Trust</ORGANISATION><ADDRESS_1>Arrowe Park Hospital</ADDRESS_1><ADDRESS_2>Arrowe Road</ADDRESS_2><CITY>Wirral</CITY><ZIP>CH49 5PE</ZIP><REGION>Merseyside</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 151 678 5111 ext: 2497</PHONE_1><PHONE_2>+44 151 604 7070</PHONE_2><FAX_1>+44 151 482 7875</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2017-06-29 10:27:40 +0100" MODIFIED_BY="Nikki Jahnke"><PERSON ID="12966" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Lil</FIRST_NAME><LAST_NAME>Breen</LAST_NAME><POSITION>Consultant Paediatrician</POSITION><EMAIL_1>e.breen@nhs.net</EMAIL_1><ADDRESS><DEPARTMENT>WISCH</DEPARTMENT><ORGANISATION>Wirral Hospitals NHS Trust</ORGANISATION><ADDRESS_1>Arrowe Park Hospital</ADDRESS_1><ADDRESS_2>Arrowe Road</ADDRESS_2><CITY>Wirral</CITY><ZIP>CH49 5PE</ZIP><REGION>Merseyside</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 151 678 5111 ext: 2497</PHONE_1><PHONE_2>+44 151 604 7070</PHONE_2><FAX_1>+44 151 482 7875</FAX_1></ADDRESS></PERSON><PERSON ID="12964" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Nivedita</FIRST_NAME><LAST_NAME>Aswani</LAST_NAME><POSITION>Specialist Registrar</POSITION><EMAIL_1>121dita@googlemail.com</EMAIL_1><ADDRESS><DEPARTMENT>Paediatrics</DEPARTMENT><ORGANISATION>Sheffield Children's Hospital</ORGANISATION><ADDRESS_1>Western Bank</ADDRESS_1><CITY>Sheffield</CITY><ZIP>S10 2TH</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 114 271 7000</PHONE_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2012-07-11 13:24:43 +0100" MODIFIED_BY="Tracey Remmington">
+<UP_TO_DATE>
+<DATE DAY="18" MONTH="5" YEAR="2012"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="15" MONTH="3" YEAR="2012"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="18" MONTH="5" YEAR="2014"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="4" YEAR="2001"/>
+<LAST_CITATION_ISSUE ISSUE="7" YEAR="2012"/>
+</DATES>
+<WHATS_NEW MODIFIED="2017-06-29 10:27:40 +0100" MODIFIED_BY="Nikki Jahnke"><WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2017-06-29 10:27:40 +0100" MODIFIED_BY="Nikki Jahnke"><DATE DAY="29" MONTH="6" YEAR="2017"/><DESCRIPTION><P>Contact details updated.</P></DESCRIPTION></WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2012-07-11 13:25:23 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="11" MONTH="7" YEAR="2012"/>
+<DESCRIPTION>
+<P>This review will no longer be regularly updated. Searches will still be undertaken on a two-yearly basis by the Cochrane Cystic Fibrosis &amp; Genetic Disorders Group. If, in future, relevant trials are identified, the review will be updated again.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2017-06-29 10:27:40 +0100" MODIFIED_BY="Nikki Jahnke"><WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2017-06-29 10:27:40 +0100" MODIFIED_BY="Nikki Jahnke"><DATE DAY="13" MONTH="4" YEAR="2015"/><DESCRIPTION><P>Contact details updated.</P></DESCRIPTION></WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2012-07-11 13:25:11 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="18" MONTH="5" YEAR="2012"/>
+<DESCRIPTION>
+<P>A search of the Group's Cystic Fibrosis Trials Register identified 11 references to three studies all of which were ineligible for inclusion in the review.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_OLD_CONCLUSIONS" MODIFIED="2012-07-11 13:25:12 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="18" MONTH="5" YEAR="2012"/>
+<DESCRIPTION>
+<P>No new trials have been included in this review, minor changes to the text have been made throughout.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2012-03-23 15:26:44 +0000" MODIFIED_BY="Tracey Remmington">
+<DATE DAY="16" MONTH="6" YEAR="2010"/>
+<DESCRIPTION>
+<P>A search of the Group's Cystic Fibrosis Trials Register identified 11 references. One was an additional reference (full paper) to an already excluded trial (<LINK REF="STD-Nikolaizik-2005" TYPE="STUDY">Nikolaizik 2005</LINK>) and the remaining 10 were not eligible for inclusion within the review.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2010-05-14 14:10:06 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="17" MONTH="7" YEAR="2008"/>
+<DESCRIPTION>
+<P>The search of the Group's Cystic Fibrosis Trials Register identified no new references for inclusion in the review.</P>
+<P>The trial previously listed in 'Studies awaiting assessment' has now been moved to the 'Excluded studies' section of the review (De Boeck 1999). </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2010-05-14 14:10:05 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="17" MONTH="7" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-07-17 15:47:30 +0100" MODIFIED_BY="Tracey Remmington">
+<DATE DAY="1" MONTH="11" YEAR="2006"/>
+<DESCRIPTION>
+<P>The search of the Group's Cystic Fibrosis Trials Register identified two new references to a single study, but this study was not eligible for inclusion in the review.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-07-17 15:47:32 +0100" MODIFIED_BY="Tracey Remmington">
+<DATE DAY="2" MONTH="5" YEAR="2005"/>
+<DESCRIPTION>
+<P>The search of the Group's Cystic Fibrosis Trials Register identified no new studies to be included in the review.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-07-17 15:47:33 +0100" MODIFIED_BY="Tracey Remmington">
+<DATE DAY="3" MONTH="5" YEAR="2004"/>
+<DESCRIPTION>
+<P>The search identified no new studies to be included in the review.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-07-17 15:47:35 +0100" MODIFIED_BY="Tracey Remmington">
+<DATE DAY="1" MONTH="1" YEAR="2003"/>
+<DESCRIPTION>
+<P>Additional data supplied by primary authors - S. Elborn and R. Prescott (Elborn 2000) were included within the review. The 'Results' and 'Conclusions' sections of the review were not affected by this new data.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="24" MONTH="8" YEAR="2001"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2012-07-11 13:26:12 +0100" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2012-07-11 13:26:01 +0100" MODIFIED_BY="Tracey Remmington">
+<TITLE MODIFIED="2012-03-23 15:43:25 +0000" MODIFIED_BY="Tracey Remmington">Elective (regular) versus symptomatic intravenous antibiotic therapy for cystic fibrosis</TITLE>
+<SUMMARY_BODY MODIFIED="2012-07-11 13:26:01 +0100" MODIFIED_BY="[Empty name]">
+<P>Chronic infection of the airways by <I>Pseudomonas aeruginosa</I> in people with cystic fibrosis is associated with deterioration in respiratory function. Intravenous antibiotics are the standard therapy for pulmonary exacerbations caused by this micro-organism. Many centres advocate the use of elective (regular) three-monthly antibiotics to reduce the frequency of exacerbations and therefore slow the deterioration of lung function. Alternatively, intravenous antibiotics are only prescribed when symptoms indicate. Elective therapy may encourage multi-resistance to antibiotics. This review aimed to identify randomised and quasi-randomised controlled trials that evaluated the results of the two different approaches. No clear conclusions were identified. This review will no longer be regularly updated. Searches will still be undertaken on a two-yearly basis by the Cochrane Cystic Fibrosis &amp; Genetic Disorders Group. If, in future, relevant trials are identified, the review will be updated again.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2012-07-11 13:25:36 +0100" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND>
+<P>
+<I>Pseudomonas aeruginosa</I> is the commonest micro-organism associated with respiratory infections in cystic fibrosis. Retrospective studies have suggested that using an aggressive policy of intravenous anti-pseudomonal antibiotics at regular intervals, irrespective of symptoms, increases survival.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine whether there is evidence that an elective (regular) versus symptomatic intravenous antibiotic regimen is associated with an improvement in clinical status and survival rates in people with cystic fibrosis. To identify any adverse effects associated with the use of elective intravenous antibiotics, including an increase in the development of resistant organisms.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2012-03-23 15:29:06 +0000" MODIFIED_BY="[Empty name]">
+<P>We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register which comprises references identified from comprehensive electronic database searches, handsearches of relevant journals and abstract books of conference proceedings.</P>
+<P>Date of the most recent search of the Group's Cystic Fibrosis Trials Register: 15 March 2012.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>All randomised or quasi-randomised controlled trials describing the use of elective compared with symptomatic intravenous antibiotic policies for any duration or dose regimen. Elective versus symptomatic intravenous antibiotic regimens against any organisms were considered. People with cystic fibrosis of any age or disease severity were included.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Both authors independently assessed trial eligibility and quality; both extracted the data. </P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Searches identified four studies. Two studies reporting results from a total of 79 participants were included in the review. Differences in study design and objectives meant that data could not be pooled for meta-analysis. Neither study demonstrated significant differences in outcome measures between intervention and comparison groups.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2012-07-11 13:25:36 +0100" MODIFIED_BY="[Empty name]">
+<P>Studies are insufficient to identify conclusive evidence favouring a policy of elective intravenous antibiotic administration, despite its widespread use, neither are the potential risks adequately evaluated. The results should be viewed with caution, as participant numbers are small. Clearly there is a need for a well-designed, adequately-powered, multicentred randomised controlled trial to evaluate these issues.</P>
+<P>This review will no longer be regularly updated. Searches will still be undertaken on a two-yearly basis by the Cochrane Cystic Fibrosis &amp; Genetic Disorders Group. If, in future, relevant trials are identified, the review will be updated again.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2012-07-11 13:26:12 +0100" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2008-07-17 15:52:25 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Cystic fibrosis (CF) is an inherited disease that is commonest in Caucasian populations. It is inherited by the autosomal recessive mode. Although prognosis continues to improve, it remains an important life-limiting disorder. The commonest cause of death is respiratory failure resulting from recurrent and chronic respiratory infection and inflammation.</P>
+<P>
+<I>Pseudomonas aeruginosa </I>(<I>P. aeruginosa</I>) is the commonest micro-organism associated with respiratory infections in CF. The colonisation rate with <I>P. aeruginosa </I>varies considerably between clinics, depending on their infection prevention routine and early treatment policies. The onset of chronic <I>P. aeruginosa </I>infection may be substantially delayed by cohort isolation and early intensive treatment with inhaled colistin and oral ciprofloxacin from initial isolation of <I>P. aeruginosa</I> (<LINK REF="REF-Valerius-1991" TYPE="REFERENCE">Valerius 1991</LINK>). The progression of lung damage in people with CF with recurrent or chronic <I>P. aeruginosa</I> infection is highly variable, but average life expectancy is reduced compared with those who remain uninfected (<LINK REF="REF-Fitzsimmons-1993" TYPE="REFERENCE">Fitzsimmons 1993</LINK>).</P>
+<P>The aim of treatment of chronic <I>P. aeruginosa</I> infection is to maintain good lung function, improve quality of life and to reduce mortality. There is no international consensus on the management of chronic <I>P. aeruginosa</I> infection in people with CF. Two main strategies are widely practised. The elective regimen is to administer regular courses of intravenous (IV) antibiotics - usually three-monthly, irrespective of clinical state (<LINK REF="REF-Pedersen-1987" TYPE="REFERENCE">Pedersen 1987</LINK>; <LINK REF="REF-Szaff-1983" TYPE="REFERENCE">Szaff 1983</LINK>). The alternative regimen is prompt treatment of acute exacerbations (<LINK REF="REF-Bauernfeind-1996" TYPE="REFERENCE">Bauernfeind 1996</LINK>), as determined by clinical or radiological findings or deterioration in lung function parameters (symptomatic regimen). Intravenous antibiotics are usually given for about 14 days, but the duration may be modified depending on clinical response. Choice of antibiotics is generally determined by sputum sensitivies and centre policies. The use of single versus combination IV antibiotic therapy remains controversial and is the subject of another Cochrane Review (<LINK REF="REF-Elphick-2005" TYPE="REFERENCE">Elphick 2005</LINK>). Many centres also use long-term nebulised antibiotics in people with CF who are chronically infected with <I>P. aeruginosa</I>, which may influence the outcome.</P>
+<P>The median survival rate of people with CF doubled between 1969 and 1990, from 14 to 28 years (<LINK REF="REF-FitzSimmons-1996" TYPE="REFERENCE">FitzSimmons 1996</LINK>) and is still improving (<LINK REF="REF-Dodge-1997" TYPE="REFERENCE">Dodge 1997</LINK>). Contributory factors to this encouraging development may be cohort isolation and segregation policies, vigorous attention to nutritional status and new therapeutic agents. Recent reports suggest that the most marked increase in survival probability coincided with introducing a policy of elective IV antibiotics every three months (<LINK REF="REF-Friederiksen-1996" TYPE="REFERENCE">Friederiksen 1996</LINK>). However, the multiple use of potent antibiotics may increase the chances of adverse effects and lead to an increased emergence of resistant organisms (<LINK REF="REF-Levy-1998" TYPE="REFERENCE">Levy 1998</LINK>). </P>
+<CONDITION MODIFIED="2008-07-17 15:50:47 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Cystic fibrosis (CF) is an inherited disease that is commonest in Caucasian populations. It is inherited by the autosomal recessive mode. Although prognosis continues to improve, it remains an important life-limiting disorder. The commonest cause of death is respiratory failure resulting from recurrent and chronic respiratory infection and inflammation.</P>
+<P>
+<I>Pseudomonas aeruginosa </I>(<I>P. aeruginosa</I>) is the commonest micro-organism associated with respiratory infections in CF. The colonisation rate with <I>P. aeruginosa </I>varies considerably between clinics, depending on their infection prevention routine and early treatment policies. The onset of chronic <I>P. aeruginosa </I>infection may be substantially delayed by cohort isolation and early intensive treatment with inhaled colistin and oral ciprofloxacin from initial isolation of <I>P. aeruginosa</I> (<LINK REF="REF-Valerius-1991" TYPE="REFERENCE">Valerius 1991</LINK>). The progression of lung damage in people with CF with recurrent or chronic <I>P. aeruginosa</I> infection is highly variable, but average life expectancy is reduced compared with those who remain uninfected (<LINK REF="REF-Fitzsimmons-1993" TYPE="REFERENCE">Fitzsimmons 1993</LINK>).</P>
+</CONDITION>
+<INTERVENTION MODIFIED="2008-07-17 15:52:25 +0100" MODIFIED_BY="Tracey Remmington">
+<P>The aim of treatment of chronic <I>P. aeruginosa</I> infection is to maintain good lung function, improve quality of life and to reduce mortality. There is no international consensus on the management of chronic <I>P. aeruginosa</I> infection in people with CF. Two main strategies are widely practised. The elective regimen is to administer regular courses of intravenous (IV) antibiotics - usually three-monthly, irrespective of clinical state (<LINK REF="REF-Pedersen-1987" TYPE="REFERENCE">Pedersen 1987</LINK>; <LINK REF="REF-Szaff-1983" TYPE="REFERENCE">Szaff 1983</LINK>). The alternative regimen is prompt treatment of acute exacerbations (<LINK REF="REF-Bauernfeind-1996" TYPE="REFERENCE">Bauernfeind 1996</LINK>), as determined by clinical or radiological findings or deterioration in lung function parameters (symptomatic regimen). Intravenous antibiotics are usually given for about 14 days, but the duration may be modified depending on clinical response. Choice of antibiotics is generally determined by sputum sensitivies and centre policies. The use of single versus combination IV antibiotic therapy remains controversial and is the subject of another Cochrane Review (<LINK REF="REF-Elphick-2005" TYPE="REFERENCE">Elphick 2005</LINK>). Many centres also use long-term nebulised antibiotics in people with CF who are chronically infected with <I>P. aeruginosa</I>, which may influence the outcome.</P>
+</INTERVENTION>
+<IMPORTANCE MODIFIED="2008-07-17 15:51:44 +0100" MODIFIED_BY="Tracey Remmington">
+<P>The median survival rate of people with CF doubled between 1969 and 1990, from 14 to 28 years (<LINK REF="REF-FitzSimmons-1996" TYPE="REFERENCE">FitzSimmons 1996</LINK>) and is still improving (<LINK REF="REF-Dodge-1997" TYPE="REFERENCE">Dodge 1997</LINK>). Contributory factors to this encouraging development may be cohort isolation and segregation policies, vigorous attention to nutritional status and new therapeutic agents. Recent reports suggest that the most marked increase in survival probability coincided with introducing a policy of elective IV antibiotics every three months (<LINK REF="REF-Friederiksen-1996" TYPE="REFERENCE">Friederiksen 1996</LINK>). However, the multiple use of potent antibiotics may increase the chances of adverse effects and lead to an increased emergence of resistant organisms (<LINK REF="REF-Levy-1998" TYPE="REFERENCE">Levy 1998</LINK>).</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2008-07-17 15:52:38 +0100" MODIFIED_BY="Tracey Remmington">
+<OL>
+<LI>To determine whether the use of elective (regular) IV antibiotics compared with symptomatic IV antibiotics is associated with an improvement in clinical status and survival rates in people with CF.</LI>
+<LI>To identify any adverse effects associated with the use of elective IV antibiotics.</LI>
+<LI>To identify whether the use of elective IV antibiotics leads to an increase in the development of resistant organisms.</LI>
+</OL>
+</OBJECTIVES>
+<METHODS MODIFIED="2012-05-31 12:53:23 +0100" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2012-05-31 12:46:15 +0100" MODIFIED_BY="Tracey Remmington">
+<CRIT_STUDIES>
+<P>Randomised (RCTs) or quasi-randomised controlled trials, published or unpublished.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Children and adults with CF, diagnosed clinically and by sweat or genetic testing. People with CF with all stages of lung disease have been included.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Elective IV antibiotic course compared with symptomatic IV course.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2012-05-31 12:46:15 +0100" MODIFIED_BY="Tracey Remmington">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-07-17 14:06:09 +0100" MODIFIED_BY="Tracey Remmington">
+<OL>
+<LI>Changes in lung function (forced expiratory volume at one second (FEV<SUB>1</SUB>) and forced vital capacity (FVC)) from baseline</LI>
+<LI>Number of acute exacerbations</LI>
+<LI>Changes in Shwachman or Chrispin-Norman scores</LI>
+<LI>Number of deaths</LI>
+<LI>Number of adverse effects e.g. renal or auditory impairment or sensitivity reactions</LI>
+<LI>Development of resistant organisms and changes in bacteriological status</LI>
+</OL>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2012-05-31 12:46:15 +0100" MODIFIED_BY="Tracey Remmington">
+<OL>
+<LI>Changes from baseline in quality of life</LI>
+<LI>Changes in nutritional status</LI>
+<LI>Drop out rate and reason</LI>
+<LI>Cost (including indirect cost) of therapy</LI>
+</OL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2012-05-31 12:47:53 +0100" MODIFIED_BY="[Empty name]">
+<ELECTRONIC_SEARCHES MODIFIED="2012-05-31 12:47:53 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Relevant studies were identified from the Group's Cystic Fibrosis Trials Register using the terms: (antibiotics OR macrolide) AND (intravenous or not stated) AND (continuous OR intermittent OR regular OR prophylaxis OR elective OR symptomatic [freetext]).</P>
+<P>The Cystic Fibrosis Trials Register is compiled from electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) (updated each new issue of <I>The Cochrane Library</I>), quarterly searches of MEDLINE, a search of EMBASE to 1995 and the prospective handsearching of two journals - <I>Pediatric Pulmonology </I>and the <I>Journal of Cystic Fibrosis</I>. Unpublished work is identified by searching the abstract books of three major cystic fibrosis conferences: the International Cystic Fibrosis Conference; the European Cystic Fibrosis Conference and the North American Cystic Fibrosis Conference. For full details of all searching activities for the Cystic Fibrosis Trials Register, please see the relevant sections of the <A HREF="http://www.mrw.interscience.wiley.com/cochrane/clabout/articles/CF/frame.html">Cystic Fibrosis and Genetic Disorders Group Module</A>.</P>
+<P>Date of the most recent search of the Group's Cystic Fibrosis Trials Register: 15 March 2012.</P>
+</ELECTRONIC_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2012-05-31 12:53:23 +0100" MODIFIED_BY="Tracey Remmington">
+<STUDY_SELECTION MODIFIED="2012-05-31 12:51:42 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Both authors assessed study eligibility. They applied inclusion criteria to all potential studies. Authors resolved any disagreements as to which studies to include by negotiation.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2012-05-31 12:52:05 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Each author independently extracted data using standard data acquisition forms. They aimed to group outcome data into those measured at 12 months and annually thereafter. If outcome data were recorded at other time periods, the authors considered examining these as well.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2012-05-31 12:52:14 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Each author assessed the methodological quality of each study using the method as described by Schulz (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>). In particular, they examined the generation of allocation sequence, the concealment of treatment allocation schedule, whether the study was blinded, whether intention-to-treat analysis was used or was possible from the available data and if the number of participants lost to follow-up or subsequently excluded from the study was recorded.</P>
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES MODIFIED="2012-05-31 12:52:51 +0100" MODIFIED_BY="Tracey Remmington">
+<P>For binary outcome measures, in order to allow an intention-to-treat analysis, the authors collected data on the number of participants with each outcome event, by allocated treatment group, irrespective of compliance and whether or not the participant was later thought to be ineligible or otherwise excluded from treatment or follow-up. They planned to calculate a pooled estimate of the treatment effect for each outcome across studies, (using the pooled relative risk as a treatment effect estimate), however, to date, only data from one trial are available for analysis. For continuous outcomes, the authors recorded either mean change from baseline in each group or mean post-treatment or intervention values and standard deviation or standard error for each group. They planned to calculate a pooled estimate of treatment effect by calculating the weighted mean difference, however, to date, only data from one trial are available for analysis.</P>
+</EFFECT_MEASURES>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2012-05-31 12:53:23 +0100" MODIFIED_BY="Tracey Remmington">
+<P>If the authors include data from further studies in future updates of this review, they propose to measure the degree of heterogeneity between studies using the I<SUP>2 </SUP>statistic (<LINK REF="REF-Higgins-2003" TYPE="REFERENCE">Higgins 2003</LINK>).</P>
+</HETEROGENEITY_ASSESSMENT>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2012-05-31 12:55:15 +0100" MODIFIED_BY="Tracey Remmington">
+<STUDY_DESCRIPTION MODIFIED="2008-07-17 16:00:06 +0100" MODIFIED_BY="Tracey Remmington">
+<SEARCH_RESULTS MODIFIED="2008-07-17 15:55:45 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Four studies were identified from the searches (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-De-Boeck-1999" TYPE="STUDY">De Boeck 1999</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>; <LINK REF="STD-Nikolaizik-2005" TYPE="STUDY">Nikolaizik 2005</LINK>).</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-07-17 15:56:28 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Two studies met the inclusion criteria including a total of 79 participants (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Both studies were randomised using the minimisation method (<LINK REF="REF-Pocock-1975" TYPE="REFERENCE">Pocock 1975</LINK>), and full papers of both were published. Minimisation is a method of allocation used to provide comparison groups that are closely similar for several variables. This method is commonly used in smaller studies, or those where small numbers of participants are recruited from several centres.</P>
+<P>The two included studies had different objectives. One was a direct comparison of elective versus symptomatic IV antibiotics (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>), while the other was designed to look at the value of serum IgG titres against <I>P. aeruginosa</I> and involved randomising participants to elective four-monthly antibiotics, or observing participants and treating symptomatically (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). Despite differences in methodology, both authors agreed that the two studies should be included.</P>
+<P>The Brett study included 19 participants over a one-year period (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). Seven of these participants were randomised to receive elective (four-monthly) antibiotics and the remaining 12 participants to receive symptomatic antibiotics. The Elborn study recruited 60 participants (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Thirty-two of these were randomised to receive elective (three-monthly) antibiotics and 28 to receive symptomatic antibiotics. The duration of the study was three years, with further data published in abstract form five years after randomisation. There were no interval data reported before the end of either study.</P>
+<P>Elborn enrolled participants aged eight years or older, with a mean age of 18 years in both treatment groups, 42% of his cohort were under the age of 16 years (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). The participants in the Brett study were aged between 6 and 29 years, with a mean of 14 years in one treatment group and 13 years in the other group (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>).</P>
+<P>Severity of lung disease varied between the studies. The participants in the Brett study had early signs of chronic respiratory infection (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). They had a moderate increase in serum IgG titres against <I>P. aeruginosa </I>plus isolation of the organism from respiratory cultures. Participants were excluded if they had extremely high IgG titres and if they were already on corticosteroids or nebulised anti-pseudomonal antibiotics. Previous studies would suggest that these criteria exclude those with chronic and irreversible infection (<LINK REF="REF-Brett-1986" TYPE="REFERENCE">Brett 1986</LINK>; <LINK REF="REF-Brett-1987" TYPE="REFERENCE">Brett 1987</LINK>; <LINK REF="REF-Brett-1988" TYPE="REFERENCE">Brett 1988</LINK>). The mean baseline FEV<SUB>1</SUB> in the participants in the Brett study was 75% in the symptomatic group and 67% in the elective group. The participants in the Elborn study had lower baseline FEV<SUB>1</SUB> measurements with a mean of 63% in the symptomatic group and 59% in the elective group. Elborn selected people with CF who were chronically infected with <I>P. aeruginosa</I> (i.e. 3 or more isolations in 12 months) (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). He excluded those with a history of hypersensitivity to anti-pseudomonal agents, those who were already on a regular treatment regimen of intermittent IV antibiotics, and those who had had less than two or more than four exacerbations during the previous year requiring IV antibiotics (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Exclusion of those who had very frequent and also infrequent IV antibiotics meant that the difference in the number of courses between the two groups was very small. Participants on nebulised antibiotics were not excluded, but on entry both groups were receiving similar concomitant treatments such as nebulised antibiotics, oral anti-staphylococcal antibiotics and regular inhaled bronchodilators (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>).</P>
+<P>The frequency of use of elective antibiotic administration varied. Elborn used an elective three-monthly regimen of intravenous therapy for 10 to 14 days. This resulted in four courses per annum versus three courses per year in the symptomatic group (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Brett electively treated participants on a four-monthly regimen (each course being of 14 days duration) until serum IgG levels had dropped back down into the normal range. This resulted in an average of 2.8 courses per year in the elective group versus 1.09 in the symptomatic group (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). In both studies the elective groups received rescue intravenous antibiotic therapy if symptoms indicated (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>).</P>
+<P>Drug dosages were not reported. Data were not provided on the proportion of antibiotic courses administered in hospital. This would have a bearing on clinical improvement because of other inpatient services, such as physiotherapy and dietetic input. In both studies, the choice of anti-pseudomonal antibiotic was based on sputum cultures and sensitivities.</P>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2008-07-17 15:56:10 +0100" MODIFIED_BY="Tracey Remmington">
+<P>The remaining two studies were excluded as one was a comparison of an IV preparation with an inhaled antibiotic and the an elective regimen was not compared with a symptomatic regimen (<LINK REF="STD-Nikolaizik-2005" TYPE="STUDY">Nikolaizik 2005</LINK>); the second trial was randomised on antibiotic regimen, with the elective and symptomatic regimens analysed as a subgroup only (<LINK REF="STD-De-Boeck-1999" TYPE="STUDY">De Boeck 1999</LINK>).</P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>Methodological quality was assessed based on a method described by Schulz (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>). Allocation concealment and generation of the randomisation sequence were categorized as adequate, unclear or inadequate. Intention-to-treat analysis was categorized as adequate, unclear or inadequate. RCTs were categorized according to whether double blinding had been reported or not.</P>
+<P>Both of the included studies were RCTs, concealment of allocation and generation of the randomisation sequence was unclear in both studies (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Intention-to-treat analysis was unclear in the Brett study (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>), but in the study by Elborn it was stated that the analysis was conducted according to the principle of intention-to-treat and was therefore classed as adequate (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Double blinding was not applicable due to the nature of the included studies. </P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2012-05-31 12:55:15 +0100" MODIFIED_BY="Tracey Remmington">
+<SUBSECTION>
+<HEADING LEVEL="3">Primary outcomes</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">1<I>.</I> Changes in lung function from baseline</HEADING>
+<P>Lung function was reported at one year in the Brett study (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>) and at three years in the Elborn study (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). In the Brett study, FEV<SUB>1</SUB> remained constant in the symptomatic group and improved by 11% in the elective group, these differences were not statistically significant. FVC was not reported in the Brett study (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). There was no significant change in FEV<SUB>1</SUB>, mean difference (MD) 2.40 (95% confidence interval (CI) -6.23 to 11.03) or FVC, MD 1.10 (95% CI -8.22 to 10.42) from baseline (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>) (<LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK>; <LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Number of acute exacerbations</HEADING>
+<P>In the Elborn study, 40% of IV antibiotic courses in the elective group were for symptomatic exacerbations (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). The number of acute exacerbations in the elective group was not reported in the Brett study (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3<I>.</I> Shwachman / Chrispin-Norman scores</HEADING>
+<P>There was no significant difference in the change in Shwachman score between the two groups in the Elborn study, MD 1.80 (95% CI -4.12 to 7.72) (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>) (<LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK>). Neither was there a significant difference in the Chrispin-Norman score between the two groups, MD 0.20 (95% CI -2.13 to 2.53) (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>) (<LINK REF="CMP-001.04" TYPE="ANALYSIS">Analysis 1.4</LINK>). Brett only commented on these parameters on entry to the study (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">4. Number of deaths</HEADING>
+<P>In the Elborn study there were 4 deaths out of 32 participants in the elective group compared to none out of 28 participants in the symptomatic group at three years (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Thus, there was no significant difference between the two groups, RR 7.91 (95%CI 0.44 to 140.73) (<LINK REF="CMP-001.05" TYPE="ANALYSIS">Analysis 1.5</LINK>). Participants recruited to the study were followed up for five years and it was reported that four further deaths occurred in the elective group and one in the symptomatic group, P &lt; 0.04 (Fisher's exact test) (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). All the deaths were due to cardiopulmonary failure secondary to overwhelming lung infection (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Brett did not report any deaths in either group (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">5. Adverse effects</HEADING>
+<P>None were reported in either study (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">6. Development of resistant organisms &amp; changes in bacteriological status</HEADING>
+<P>In the Brett study, proportions of sputum isolates containing mucoid <I>P. aeruginosa</I> increased from 14% to 39% in the symptomatic group (P &lt; 0.1) but remained essentially unchanged in the elective group. Resistance in particular was not commented upon (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). Elborn did not find any significant difference in the incidence of new cases of resistant bacteria between the groups during the study period, or new antimicrobial species such as <I>Burkolderia cepacia</I> and <I>Stenotrophomonas maltophilia</I> (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). Neither study commented on the occurrence of fungal infection (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>).</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Secondary outcomes</HEADING>
+<SUBSECTION>
+<HEADING LEVEL="4">1<I>.</I> Changes from baseline in quality of life</HEADING>
+<P>Formal quality of life analysis was not performed in either study, but certain issues were addressed by both (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). For the Brett study, due to the nature of the study design, regular venepuncture caused distress among some participants (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). Both Elborn and Brett commented on the disruption to family life due to regular courses of intravenous antibiotics (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>; <LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>) .</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">2. Changes in nutritional status</HEADING>
+<P>Brett did not comment on this outcome (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). Elborn recorded data on height z scores, MD -0.16 (95% CI -0.46 to 0.14) (<LINK REF="CMP-001.06" TYPE="ANALYSIS">Analysis 1.6</LINK>), or weight z scores, MD -0.09 (95% CI -0.36 to 0.18) (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>) (<LINK REF="CMP-001.07" TYPE="ANALYSIS">Analysis 1.7</LINK>). There was no significant difference in these parameters between the two groups. Neither was there a significant difference in the change in weight or height (% predicted) from baseline, MD 0.80 (95% CI -3.59 to 5.19) (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>) (<LINK REF="CMP-001.08" TYPE="ANALYSIS">Analysis 1.8</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">3<I>.</I> Dropout rate and reason</HEADING>
+<P>Brett did not have any dropouts during the one-year study period (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). At three years, Elborn did not find any significant difference in dropout rate, RR 4.38 (95%CI 0.54 to 35.24) (<LINK REF="CMP-001.09" TYPE="ANALYSIS">Analysis 1.9</LINK>). There were 5 out of 32 participant withdrawals in the elective group and only 1 out of 28 in the symptomatic group (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). In the elective group, three of the withdrawals were due to inconvenience of regular antibiotic treatments; one was due to the participant undergoing heart-lung transplantation; and one following pregnancy. The reason for the withdrawal in the symptomatic group was not stated, but was at the participant's own request.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">4. Cost</HEADING>
+<P>Brett did not report on this outcome (<LINK REF="STD-Brett-1992" TYPE="STUDY">Brett 1992</LINK>). Elborn highlighted the significant cost implication of a policy of elective antibiotic therapy, but no actual economic analysis was undertaken (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>).</P>
+</SUBSECTION>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>The life expectancy of people with CF has improved enormously over the last 30 years. This systematic review aimed to establish whether there is evidence that the use of an elective (regular) regimen of IV antibiotics compared with symptomatic IV antibiotics is associated with decreased morbidity and improved survival in people with CF. It is therefore disappointing that only two studies met the inclusion criteria for this review, and that the total number of participants involved was small. Due to this, any results reported should be interpreted with caution. As a result of the difference in design of the two studies, it was not possible to perform a meta-analysis of the data. The studies used different outcome measures and were of different durations. The selection criteria for the two studies meant that the participants in the Brett study would not have been selected for the Elborn study and vice versa. The disease severity of the cohorts was different resulting in data that were incompatible for pooling. </P>
+<P>Morbidity due to <I>P. aeruginosa</I> is important in CF and leads to progressive deterioration in lung function. People with CF who are chronically colonised often require repeated courses of antibiotics for the management of pulmonary exacerbations. In the Elborn study, there was little difference in the total number of IV courses between the elective and symptomatic groups, therefore any real difference attributable to the elective group would need to be quite large before it would be noticeable (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). This aspect should be considered in the design of any future studies. Whilst there is anecdotal evidence of improvement in lung function with an elective three-monthly regimen of antibiotics as opposed to symptomatic IVs, we have found no substantial evidence to support this from RCTs. </P>
+<P>Adverse events have not been evaluated in any great detail. Neither study reported in their methods which adverse effects were sought. These factors need to be addressed in order to make informed decisions about policy changes. In the Elborn study, there were a significantly higher proportion of deaths in the electively treated group at five years. However, this did not appear to be caused by the emergence of virulent strains of bacteria due to induced antibiotic resistance (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). It is disturbing that there is no obvious explanation for this apparent excess of deaths and if this is a feature of further studies explanations need to be sought. </P>
+<P>With the advent of nebulised and oral anti-pseudomonal agents, it is even more unclear what place elective IV antibiotics have in management protocols. Studies with clear outcome measures are needed to properly evaluate this widely used treatment policy for chronic colonisation with <I>P. aeruginosa</I> in CF. The main question would be whether regular IV antibiotics keep the lungs of people with CF healthier for longer than symptomatic IV antibiotics, and if so, at what cost.</P>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2012-07-11 13:26:12 +0100" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2012-07-11 13:26:12 +0100" MODIFIED_BY="[Empty name]">
+<P>We have found no conclusive evidence to show that an elective regimen of intravenous antibiotics is more effective than a symptomatic regimen in reducing deterioration in respiratory function in CF. Neither is there statistically significant evidence to suggest that an elective regimen encourages the formation of antibiotic resistant micro-organisms and hence increased mortality. These results need to be interpreted with caution, as the total number of participants in these studies was small. This review will no longer be regularly updated. Searches will still be undertaken on a two-yearly basis by the Cochrane Cystic Fibrosis &amp; Genetic Disorders Group. If, in future, relevant trials are identified, the review will be updated again.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>There have been insufficient RCTs of elective versus symptomatic administration of intravenous antibiotics in people with CF to answer important questions about long-term outcomes. Studies should be carried out to evaluate the effectiveness of routine elective intravenous antibiotics on long-term lung function, adverse effects and mortality in people with CF. The most widely used elective regimen is that of three-monthly administration and this should be compared with standard symptomatic intravenous treatment in a multicentre, adequately-powered and well-designed RCT to address these important issues.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2010-05-14 14:53:21 +0100" MODIFIED_BY="[Empty name]">
+<P>The authors thank Dr R. Prescott and Dr S. Elborn for kindly providing additional data (<LINK REF="STD-Elborn-2000" TYPE="STUDY">Elborn 2000</LINK>). We also thank Professor De Boeck for providing information on a trial now listed in 'Excluded studies' (<LINK REF="STD-De-Boeck-1999" TYPE="STUDY">De Boeck 1999</LINK>).</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Dr Breen conceived the review and drafted the protocol.<BR/>Dr Breen and Dr Aswani independently assessed trial eligibility and extracted data.<BR/>Both authors drafted the original review.<BR/>Both authors completed the updates of the review.<BR/>Dr Breen acts as guarantor of the review. <BR/>
+</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES MODIFIED="2008-07-17 15:46:51 +0100" MODIFIED_BY="Tracey Remmington">
+<P>
+<BR/>
+</P>
+<P>
+<BR/>
+</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2017-06-29 10:27:41 +0100" MODIFIED_BY="Nikki Jahnke">
+<STUDIES MODIFIED="2012-05-18 12:21:18 +0100" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2012-05-18 12:20:52 +0100" MODIFIED_BY="Tracey Remmington">
+<STUDY DATA_SOURCE="PUB" ID="STD-Brett-1992" MODIFIED="2012-05-18 12:20:30 +0100" MODIFIED_BY="Tracey Remmington" NAME="Brett 1992" YEAR="1992">
+<REFERENCE MODIFIED="2012-05-18 12:20:30 +0100" MODIFIED_BY="Tracey Remmington" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Brett MM, Simmonds EJ, Ghoneim ATM, Littlewood JM</AU>
+<TI>The value of serum IgG titres against <I>Pseudomonas aeruginosa </I>in the management of early pseudomonal infection in cystic fibrosis</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1992</YR>
+<VL>67</VL>
+<NO>9</NO>
+<PG>1086-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961075"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2961074"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Elborn-2000" MODIFIED="2012-05-18 12:20:52 +0100" MODIFIED_BY="Tracey Remmington" NAME="Elborn 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Elborn JS, Prescott R, Stack B, Shale DJ, Pantin C, Ali N, et al</AU>
+<TI>A comparison of the clinical outcome of symptomatic and elective regular intravenous antibiotics in the treatment of cystic fibrosis [abstract]</TI>
+<SO>Thorax</SO>
+<YR>1997</YR>
+<VL>52</VL>
+<NO>Suppl 6</NO>
+<PG>A4</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961077"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Elborn JS, Prescott RJ, Stack BH, Goodchild MC, Bates J, Pantin C, et al</AU>
+<TI>Elective versus symptomatic antibiotic treatment in cystic fibrosis patients with chronic Pseudomonas infection of the lungs [abstract]</TI>
+<SO>Pediatric Pulmonology</SO>
+<YR>2000</YR>
+<VL>30</VL>
+<NO>5</NO>
+<PG>434</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961078"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Elborn JS, Prescott RJ, Stack BHR, Goodchild MC, Bates J, Pantin C, et al</AU>
+<TI>Elective versus symptomatic antibiotic treatment in cystic fibrosis patients with chronic Pseudomonas infection of the lungs</TI>
+<SO>Thorax</SO>
+<YR>2000</YR>
+<VL>55</VL>
+<NO>5</NO>
+<PG>355-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961079"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2012-05-18 12:20:52 +0100" MODIFIED_BY="Tracey Remmington" PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Elborn JS, Prescott RJ, Stack BHR</AU>
+<TI>The British Thoracic Society study of elective versus symptomatic treatment of <I>Pseudomonas aeruginosa</I> infection in patients with cystic fibrosis: 5 year results [abstract]</TI>
+<SO>Proceedings of the 13th International Cystic Fibrosis Congress 2000 June 4-8; Stockholm</SO>
+<YR>2000</YR>
+<PG>172</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961080"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2961076"/></IDENTIFIERS>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2012-05-18 12:21:18 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="MIX" ID="STD-De-Boeck-1999" MODIFIED="2008-07-17 15:35:23 +0100" MODIFIED_BY="Tracey Remmington" NAME="De Boeck 1999" YEAR="1999">
+<REFERENCE MODIFIED="2008-07-17 15:35:23 +0100" MODIFIED_BY="Tracey Remmington" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>De Boeck K, Sauer K, Vandeputte S</AU>
+<TI>Meropenem versus ceftazidime plus tobramycin for pulmonary disease in CF patients [abstract]</TI>
+<SO>Netherlands Journal of Medicine</SO>
+<YR>1999</YR>
+<VL>54</VL>
+<NO>Suppl</NO>
+<PG>S39</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961082"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2961081"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nikolaizik-2005" MODIFIED="2012-05-18 12:21:18 +0100" MODIFIED_BY="[Empty name]" NAME="Nikolaizik 2005" YEAR="2005">
+<REFERENCE MODIFIED="2010-05-14 14:09:56 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="OTHER">
+<AU>Nikolaizik WH, Vietzke D, Ratjen F</AU>
+<TI>A pilot study to compare tobramycin 80 mg injectable preparation with 300 mg solution for inhalation in cystic fibrosis patients</TI>
+<SO>Canadian Respiratory Journal</SO>
+<YR>2008</YR>
+<VL>15</VL>
+<NO>5</NO>
+<PG>259-62</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961084"/><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nikolaizik WH, Vietzke D, Ratjen F</AU>
+<TI>Comparison of tobramycin 80 mg (IV-Preparation) and 300 mg solution for inhalation in cystic fibrosis patients [abstract]</TI>
+<SO>European Respiratory Journal</SO>
+<YR>2005</YR>
+<VL>26</VL>
+<NO>Suppl 49</NO>
+<PG>620s</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2961085"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE MODIFIED="2012-05-18 12:21:18 +0100" MODIFIED_BY="Tracey Remmington" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nikolaizik WH, Vietzke D, Ratjen F</AU>
+<TI>Comparison of tobramycin 80mg (IV-preparation) and 300mg solution inhaled twice daily for chronic <I>P. aeruginosa </I>infection [abstract]</TI>
+<SO>Journal of Cystic Fibrosis</SO>
+<YR>2005</YR>
+<VL>4 Suppl</VL>
+<PG>S53</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="6203225"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2961083"/></IDENTIFIERS>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2008-07-17 15:35:23 +0100" MODIFIED_BY="Tracey Remmington"/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2012-05-18 12:19:48 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2012-05-18 12:19:48 +0100" MODIFIED_BY="Tracey Remmington">
+<REFERENCE ID="REF-Bauernfeind-1996" NAME="Bauernfeind 1996" TYPE="BOOK">
+<AU>Bauernfeind A, Marks MI, Strandvik B</AU>
+<SO>Cystic Fibrosis Pulmonary Infections; Lessons from around the World</SO>
+<YR>1996</YR>
+<PB>Verlag</PB>
+<CY>Basel</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brett-1986" MODIFIED="2012-05-18 12:16:15 +0100" MODIFIED_BY="Tracey Remmington" NAME="Brett 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Brett MM, Ghonheim ATM, Littlewood JM</AU>
+<TI>Serum antibodies to <I>Pseudomonas aeruginosa</I> in cystic fibrosis</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1986</YR>
+<VL>61</VL>
+<NO>11</NO>
+<PG>1114-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brett-1987" MODIFIED="2012-05-18 12:16:23 +0100" MODIFIED_BY="Tracey Remmington" NAME="Brett 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Brett MM, Ghonheim ATM, Littlewood JM</AU>
+<TI>Serum IgG antibodies in patients with cystic fibrosis with early <I>Pseudomonas aeruginosa</I> infection</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1987</YR>
+<VL>62</VL>
+<NO>4</NO>
+<PG>357-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Brett-1988" MODIFIED="2012-05-18 12:16:06 +0100" MODIFIED_BY="Tracey Remmington" NAME="Brett 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Brett MM, Ghonheim ATM, Littlewood JM</AU>
+<TI>Prediction and diagnosis of early <I>Pseudomonas aeruginosa </I>infection in cystic fibrosis in a follow-up study</TI>
+<SO>Journal of Clinical Microbiology</SO>
+<YR>1988</YR>
+<VL>26</VL>
+<NO>8</NO>
+<PG>1565-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dodge-1997" NAME="Dodge 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Dodge JA, Morison S, Lewis PA, Coles EC, Geddes D, Russell, et al</AU>
+<TI>Incidence, population, and survival of cystic fibrosis in the UK, 1968-95</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1997</YR>
+<VL>77</VL>
+<NO>6</NO>
+<PG>493-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Elphick-2005" MODIFIED="2012-05-18 12:17:27 +0100" MODIFIED_BY="Tracey Remmington" NAME="Elphick 2005" TYPE="COCHRANE_REVIEW">
+<AU>Elphick HE, Tan A</AU>
+<TI>Single versus combination intravenous antibiotic therapy for people with cystic fibrosis (Cochrane Review)</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2005</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2012-05-18 12:17:27 +0100" MODIFIED_BY="Tracey Remmington"><IDENTIFIER MODIFIED="2012-05-18 12:17:27 +0100" MODIFIED_BY="Tracey Remmington" TYPE="DOI" VALUE="10.1002/14651858.CD002007.pub2"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Fitzsimmons-1993" NAME="Fitzsimmons 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Fitzsimmons SC</AU>
+<TI>The changing epidemiology of cystic fibrosis</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>1993</YR>
+<VL>122</VL>
+<NO>1</NO>
+<PG>1-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-FitzSimmons-1996" NAME="FitzSimmons 1996" TYPE="JOURNAL_ARTICLE">
+<AU>FitzSimmons SC</AU>
+<TI>The Cystic Fibrosis Foundation Patient Registry Report 1996</TI>
+<SO>Pedriatric Pulmonology</SO>
+<YR>1996</YR>
+<VL>21</VL>
+<PG>267-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Friederiksen-1996" MODIFIED="2012-03-23 15:32:41 +0000" MODIFIED_BY="Tracey Remmington" NAME="Friederiksen 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Frederiksen B, Lanng S, Koch C, Høiby N</AU>
+<TI>Improved survival in the Danish Center-treated cystic fibrosis patients: Results of aggressive treatment</TI>
+<SO>Pediatric Pulmonology</SO>
+<YR>1996</YR>
+<VL>21</VL>
+<NO>3</NO>
+<PG>153-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Higgins-2003" NAME="Higgins 2003" TYPE="JOURNAL_ARTICLE">
+<AU>Higgins JPT, Thompson SG, Deeks JJ, Altman DG</AU>
+<TI>Measuring inconsistency in meta-analyses</TI>
+<SO>BMJ</SO>
+<YR>2003</YR>
+<VL>327</VL>
+<NO>7414</NO>
+<PG>557-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Levy-1998" NAME="Levy 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Levy SB</AU>
+<TI>Antimicrobial resistance: bacteria on the defence</TI>
+<SO>BMJ</SO>
+<YR>1998</YR>
+<VL>317</VL>
+<NO>7159</NO>
+<PG>612-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pedersen-1987" MODIFIED="2012-05-18 12:19:48 +0100" MODIFIED_BY="Tracey Remmington" NAME="Pedersen 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Pedersen SS, Jensen T, Hoiby N, Koch N</AU>
+<TI>Management of <I>Pseudomonas aeruginosa</I> lung infection in Danish cystic fibrosis patients</TI>
+<SO>Acta Paediatrica Scandinavica</SO>
+<YR>1987</YR>
+<VL>76</VL>
+<NO>6</NO>
+<PG>955-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pocock-1975" NAME="Pocock 1975" TYPE="JOURNAL_ARTICLE">
+<AU>Pocock SJ, Simon R</AU>
+<TI>Sequential treatment assignment with balancing for prognostic factors in the controlled clinical trial</TI>
+<SO>Biometric</SO>
+<YR>1975</YR>
+<VL>31</VL>
+<NO>1</NO>
+<PG>103-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1995" NAME="Schulz 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Chalmers I, Hayes RJ, Altman DG</AU>
+<TI>Empirical evidence of bias. Dimensions of methodological quality associated with estimates of treatment in controlled trials</TI>
+<SO>JAMA</SO>
+<YR>1995</YR>
+<VL>273</VL>
+<NO>5</NO>
+<PG>408-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Szaff-1983" NAME="Szaff 1983" TYPE="BOOK_SECTION">
+<AU>Szaff N, Flensberg EW</AU>
+<TI>Pulmonary Pathology</TI>
+<SO>Cystic Fibrosis</SO>
+<YR>1983</YR>
+<PG>31-51</PG>
+<ED>Hodson ME, Norman AP</ED>
+<PB>Balliere-Tindall</PB>
+<CY>London</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Valerius-1991" MODIFIED="2012-05-18 12:15:41 +0100" MODIFIED_BY="Tracey Remmington" NAME="Valerius 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Valerius NH, Koch C, Høiby N</AU>
+<TI>Prevention of chronic <I>Pseudomonas aeruginosa </I>colonisation in cystic fibrosis by early treatment</TI>
+<SO>Lancet</SO>
+<YR>1991</YR>
+<VL>338</VL>
+<NO>8769</NO>
+<PG>725-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2012-05-18 12:19:19 +0100" MODIFIED_BY="Tracey Remmington">
+<REFERENCE ID="REF-Breen-2007" MODIFIED="2012-05-18 12:19:19 +0100" MODIFIED_BY="Tracey Remmington" NAME="Breen 2007" TYPE="COCHRANE_REVIEW">
+<AU>Breen L, Aswani N</AU>
+<TI>Elective versus symptomatic intravenous antibiotic therapy for cystic fibrosis</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2001</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2012-05-18 12:19:19 +0100" MODIFIED_BY="Tracey Remmington"><IDENTIFIER MODIFIED="2012-05-18 12:19:19 +0100" MODIFIED_BY="Tracey Remmington" TYPE="DOI" VALUE="10.1002/14651858.CD002767"/></IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES MODIFIED="2010-05-14 14:09:39 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Conway-1997" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Conway 1997" TYPE="OTHER">
+<AU>Conway SP//Pond MN//Watson A//Etherington C//Robey HL//Goldman MH</AU>
+<TI>Intravenous colistin sulphomethate in acute respiratory exacerbations in adult patients with cystic fibrosis</TI>
+<SO>Thorax</SO>
+<YR>1997</YR>
+<NO>11</NO>
+<PG>987-93</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE="98148328"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Hubert-2009" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Hubert 2009" TYPE="OTHER">
+<AU>Hubert D//Le Roux E//Lavrut T//Wallaert B//Scheid P//Manach D//Grenet D//Sermet-Gaudelus I//Ramel S//Cracowski C//Sardet A//Wizla N//Deneuville E//Garraffo R</AU>
+<TI>Continuous versus intermittent infusions of ceftazidime for treating exacerbation of cystic fibrosis</TI>
+<SO>Antimicrobial Agents and Chemotherapy</SO>
+<YR>2009</YR>
+<NO>9</NO>
+<PG>3650-6</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Kuti-2003" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Kuti 2003" TYPE="OTHER">
+<AU>Kuti J//Nightingale C//Knauft R//Nicolau D</AU>
+<TI>Pharmacokinetics (PK) of continuously infused meropenem (MEM) in adults with cystic fibrosis (CF) [abstract]</TI>
+<SO>American Journal of Respiratory and Critical Care Medicine</SO>
+<YR>2003</YR>
+<PG>Poster: B2</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Kuti-2004" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Kuti 2004" TYPE="OTHER">
+<AU>Kuti JL//Nightingale CH//Knauft RF//Nicolau DP</AU>
+<TI>Pharmacokinetic properties and stability of continuous-infusion meropenem in adults with cystic fibrosis</TI>
+<SO>Clinical Therapeutics</SO>
+<YR>2004</YR>
+<NO>4</NO>
+<PG>493-501</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Kuzemko-1989" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Kuzemko 1989" TYPE="OTHER">
+<AU>Kuzemko J//Crawford C</AU>
+<TI>Continuous infusion of ceftazidime in cystic fibrosis [letter]</TI>
+<SO>Lancet</SO>
+<YR>1989</YR>
+<NO>8659</NO>
+<PG>385</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE="89343367"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Permin-1983" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Permin 1983" TYPE="OTHER">
+<AU>Permin H//Koch C//Hoiby N//Christensen HO//Moller AF//Moller S</AU>
+<TI>Ceftazidime treatment of chronic Pseudomonas aeruginosa respiratory tract infection in cystic fibrosis</TI>
+<SO>Journal of Antimicrobial Chemotherapy</SO>
+<YR>1983</YR>
+<NO>Suppl A</NO>
+<PG>313-23</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Powell-1983" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Powell 1983" TYPE="OTHER">
+<AU>Powell SH//Thompson WL//Luthe MA//Stern RC//Grossniklaus DA//Bloxham DD//Groden DL//Jacobs MR//DiScenna AO//Cash HA//Klinger JD</AU>
+<TI>Once-daily vs. continuous aminoglycoside dosing: efficacy and toxicity in animal and clinical studies of gentamicin, netilmicin, and tobramycin</TI>
+<SO>Journal of Infectious Diseases</SO>
+<YR>1983</YR>
+<NO>5</NO>
+<PG>918-32</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE="83187728"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Rappaz-1997" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Rappaz 1997" TYPE="OTHER">
+<AU>Rappaz I//Roulet M//Pilet M</AU>
+<TI>Efficacy of continuous versus thrice-daily infusion of ceftazidime (CTZ) in cystic fibrosis (CF) children [abstract]</TI>
+<SO>21st European Cystic Fibrosis Conference; 1997 June 1-6; Davos, Switzerland</SO>
+<YR>1997</YR>
+<PG>174</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Riethmueller-2001" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="Riethmueller 2001" TYPE="OTHER">
+<AU>Riethmueller J//Franke P//Schroeter TW//Claass A//Busch A//Ziebach R//von Butler R//App A//Doering G//Stern M</AU>
+<TI>Optimised intravenous antibiotic treatment with ceftazidime (thrice daily vs continuous) and tobramycin (thrice vs once daily) in CF patients [abstract]</TI>
+<SO>24th European Cystic Fibrosis Conference; 2001 June 6-9; Vienna, Austria</SO>
+<YR>2001</YR>
+<PG>P192</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-von-der-Schulenburg-1997" MODIFIED="2010-05-14 14:09:28 +0100" MODIFIED_BY="[Empty name]" NAME="von der Schulenburg 1997" TYPE="OTHER">
+<AU>von der Schulenburg JM//Greiner W//Klettke U//Wahn U</AU>
+<TI>Economic aspects in treatment of cystic fibrosis with chronic pulmonary pseudomonas infection. Ambulatory intravenous therapy in comparison with inpatient treatment</TI>
+<TO>Okonomische Aspekte der Behandlung zystischer Fibrose mit chronischer pulmonaler Pseudomonasinfektion. Ambulante intravenose Therapie im Vergleich zur stationaren Behandlung.</TO>
+<SO>Medizinische Klinik</SO>
+<YR>1997</YR>
+<NO>10</NO>
+<PG>626-9</PG>
+<IDENTIFIERS MODIFIED="2010-05-14 14:09:27 +0100" MODIFIED_BY="[Empty name]"><IDENTIFIER TYPE="MEDLINE" VALUE=""/></IDENTIFIERS>
+</REFERENCE>
+</PENDING_REFERENCES>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2012-05-18 12:13:55 +0100" MODIFIED_BY="Tracey Remmington">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2012-05-18 12:13:55 +0100" MODIFIED_BY="Tracey Remmington" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2012-05-18 12:13:42 +0100" MODIFIED_BY="Tracey Remmington" STUDY_ID="STD-Brett-1992">
+<CHAR_METHODS>
+<P>1-year trial, parallel design with 2 treatment arms. <BR/>Allocation of participants by minimisation after stratification for age, sex, Shwachman and Chrispin-Norman scores. <BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2012-05-18 12:10:53 +0100" MODIFIED_BY="Tracey Remmington">
+<P>19 participants with a modest increase in serum IgG titres against <I>P. aeruginosa</I> plus <I>P. aeruginosa</I> isolated from respiratory cultures. Participants were excluded if they had very high titres, corticosteroid treatment or nebulised anti-pseudomonal antibiotics.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>On entry to trial, combination 2-week course of IV antibiotic therapy repeated every 4 months until <BR/>IgG titres returned to control range, versus standard treatment.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2012-05-18 12:13:42 +0100" MODIFIED_BY="Tracey Remmington">
+<P>On entry to trial and after 1 year, parameters measured were:<BR/>Serum IgG titre; FEV<SUB>1</SUB> (% predicted); white cell count; % neutrophils; serum IgG; % of cultures positive for mucoid and non-mucoid P. aeruginosa; and number of courses of anti-pseudomonal treatment per participant.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No dropouts recorded.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2012-05-18 12:13:47 +0100" MODIFIED_BY="Tracey Remmington" STUDY_ID="STD-Elborn-2000">
+<CHAR_METHODS>
+<P>Multicentred 3-year trial, parallel design with two treatment arms. <BR/>Allocation of treatment by the method of minimisation using age, severity based on chest radiographic score and treatment centre.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>60 participants with CF, aged 8 years or over and with P. aeruginosa isolated on 3 or more occasions in the last year. Participants excluded if there was a positive past history of hypersensitivity reactions to anti-pseudomonal agents, if they were on a regular treatment regimen of IV antibiotics, or if they had less than 2 or more than 4 exacerbations during the previous year requiring IV antibiotics.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Elective IV antibiotics every 3 months versus IV antibiotics only when symptoms indicated.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2012-05-18 12:13:47 +0100" MODIFIED_BY="Tracey Remmington">
+<P>On entry to trial and after 3 years, parameters measured were: FEV<SUB>1</SUB> (% predicted); FVC (% predicted); Shwachman score; Chrispin-Norman score; height and weight SD scores; weight/height (% predicted); and number of deaths.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>5 dropouts recorded.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>CF: cystic fibrosis<BR/>FEV<SUB>1</SUB>: forced expiratory volume at one second<BR/>FVC: forced vital capacity<BR/>IV: intravenous<BR/>
+<I>P. aeruginosa</I>: <I>Pseudomonas aeruginosa</I>
+<BR/>SD: standard deviation</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-07-17 15:36:55 +0100" MODIFIED_BY="Tracey Remmington" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2008-07-17 15:36:55 +0100" MODIFIED_BY="Tracey Remmington" STUDY_ID="STD-De-Boeck-1999">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-07-17 15:36:55 +0100" MODIFIED_BY="Tracey Remmington">
+<P>Randomised on antibiotic regimen, elective and symptomatic regimens were analysed as a subgroup only.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nikolaizik-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison of IV preparation with inhaled antibiotic, regimen not elective versus symptomatic.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2012-03-23 15:31:50 +0000" MODIFIED_BY="Tracey Remmington" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-07-17 16:12:11 +0100" MODIFIED_BY="Tracey Remmington">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2008-07-17 16:12:11 +0100" MODIFIED_BY="Tracey Remmington" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-17 16:05:11 +0100" MODIFIED_BY="Tracey Remmington" RESULT="YES" STUDY_ID="STD-Brett-1992">
+<DESCRIPTION>
+<P>Allocation was done by minimisation after stratification for age (0-10 years, 11-20 years, &gt;20 years), sex (male, female), Shwachman score (&lt;70, 70-85, 86-100) and Chrispin-Norman score (0-10,<BR/>11-20, &gt;20).</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-17 16:12:11 +0100" MODIFIED_BY="Tracey Remmington" RESULT="UNKNOWN" STUDY_ID="STD-Elborn-2000">
+<DESCRIPTION>
+<P>Allocation of treatment was by the method of<BR/>minimisation using age, severity based on chest<BR/>radiographic score, and treatment centre.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-07-17 16:07:04 +0100" MODIFIED_BY="Tracey Remmington" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-17 16:05:45 +0100" MODIFIED_BY="Tracey Remmington" RESULT="UNKNOWN" STUDY_ID="STD-Brett-1992">
+<DESCRIPTION>
+<P>Not discussed.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-07-17 16:07:04 +0100" MODIFIED_BY="Tracey Remmington" RESULT="UNKNOWN" STUDY_ID="STD-Elborn-2000">
+<DESCRIPTION>
+<P>Not discussed.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2008-07-17 16:06:49 +0100" MODIFIED_BY="Tracey Remmington" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-07-17 16:06:40 +0100" MODIFIED_BY="Tracey Remmington" RESULT="NO" STUDY_ID="STD-Brett-1992">
+<DESCRIPTION>
+<P>Not possible given the intervention.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2008-07-17 16:06:49 +0100" MODIFIED_BY="Tracey Remmington" RESULT="NO" STUDY_ID="STD-Elborn-2000">
+<DESCRIPTION>
+<P>Not possible given the intervention.</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2012-05-18 12:30:37 +0100" MODIFIED_BY="Tracey Remmington">
+<COMPARISON ID="CMP-001" MODIFIED="2012-05-18 12:30:37 +0100" MODIFIED_BY="Tracey Remmington" NO="1">
+<NAME>Elective versus symptomatic intravenous antibiotics</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.01" MODIFIED="2012-05-18 12:14:40 +0100" MODIFIED_BY="Tracey Remmington" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="27" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in FEV<SUB>1</SUB> (% predicted for age) from baseline</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours symptomatic</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours elective</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-001.01.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<CONT_DATA CI_END="11.025668314144198" CI_START="-6.225668314144198" EFFECT_SIZE="2.3999999999999995" ESTIMABLE="YES" MEAN_1="-5.7" MEAN_2="-8.1" ORDER="1" SD_1="13.76" SD_2="17.34" SE="4.400932048844963" STUDY_ID="STD-Elborn-2000" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="27" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in FVC (% predicted) from baseline</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours symptomatic</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours elective</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-001.02.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<CONT_DATA CI_END="10.424393625928662" CI_START="-8.224393625928663" EFFECT_SIZE="1.0999999999999996" ESTIMABLE="YES" MEAN_1="-5.2" MEAN_2="-6.3" ORDER="2" SD_1="12.17" SD_2="20.91" SE="4.757431105611271" STUDY_ID="STD-Elborn-2000" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.03" MODIFIED="2012-05-18 12:28:46 +0100" MODIFIED_BY="Tracey Remmington" NO="3" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="27" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in Shwachman score from baseline</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours symptomatic</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours elective</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-001.03.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<CONT_DATA CI_END="7.724109879186796" CI_START="-4.124109879186796" EFFECT_SIZE="1.7999999999999998" ESTIMABLE="YES" MEAN_1="-4.3" MEAN_2="-6.1" ORDER="3" SD_1="10.78" SD_2="10.5" SE="3.022560580661389" STUDY_ID="STD-Elborn-2000" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.04" MODIFIED="2012-05-18 12:28:46 +0100" MODIFIED_BY="Tracey Remmington" NO="4" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="27" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in Chrispin-Norman score</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours symptomatic</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours elective</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-001.04.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<CONT_DATA CI_END="2.5346621078579448" CI_START="-2.1346621078579453" EFFECT_SIZE="0.19999999999999996" ESTIMABLE="YES" MEAN_1="-0.8" MEAN_2="-1.0" ORDER="4" SD_1="4.23" SD_2="4.16" SE="1.1911760248012013" STUDY_ID="STD-Elborn-2000" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="4" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" MODIFIED="2012-05-18 12:28:46 +0100" MODIFIED_BY="Tracey Remmington" NO="5" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="32" TOTAL_2="28" WEIGHT="0.0" Z="0.0">
+<NAME>Number of deaths</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours elective</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours symptomatic</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="4" EVENTS_2="0" I2="0.0" ID="CMP-001.05.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="32" TOTAL_2="28" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<DICH_DATA CI_END="140.73095895204887" CI_START="0.4444915281901711" EFFECT_SIZE="7.909090909090909" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="0" LOG_CI_END="2.148389646994358" LOG_CI_START="-0.35213651207357116" LOG_EFFECT_SIZE="0.8981265674603935" ORDER="5" O_E="0.0" SE="1.4688214436406157" STUDY_ID="STD-Elborn-2000" TOTAL_1="32" TOTAL_2="28" VAR="2.1574364332985025" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.06" MODIFIED="2012-05-18 12:30:37 +0100" MODIFIED_BY="Tracey Remmington" NO="6" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="27" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in height z score from baseline</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours symptomatic</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours elective</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-001.06.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<CONT_DATA CI_END="0.14005813941046766" CI_START="-0.4600581394104677" EFFECT_SIZE="-0.16" ESTIMABLE="YES" MEAN_1="-0.11" MEAN_2="0.05" ORDER="6" SD_1="0.68" SD_2="0.3" SE="0.15309370058699442" STUDY_ID="STD-Elborn-2000" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.07" MODIFIED="2012-05-18 12:30:37 +0100" MODIFIED_BY="Tracey Remmington" NO="7" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="0.5" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="27" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in weight z score from baseline</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours symptomatic</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours elective</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-001.07.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<CONT_DATA CI_END="0.18434986639234466" CI_START="-0.3643498663923447" EFFECT_SIZE="-0.09" ESTIMABLE="YES" MEAN_1="-0.06" MEAN_2="0.03" ORDER="7" SD_1="0.52" SD_2="0.46" SE="0.13997699373885508" STUDY_ID="STD-Elborn-2000" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" I2_Q="0.0" ID="CMP-001.08" MODIFIED="2012-05-18 12:30:37 +0100" MODIFIED_BY="Tracey Remmington" NO="8" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="23" TOTAL_2="27" UNITS="" WEIGHT="0.0" Z="0.0">
+<NAME>Change in weight/height (% predicted) from baseline</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours symptomatic</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours elective</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" I2="0.0" ID="CMP-001.08.01" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<CONT_DATA CI_END="5.186471866779097" CI_START="-3.586471866779098" EFFECT_SIZE="0.8" ESTIMABLE="YES" MEAN_1="0.0" MEAN_2="-0.8" ORDER="8" SD_1="7.79" SD_2="8.0" SE="2.238036974852103" STUDY_ID="STD-Elborn-2000" TOTAL_1="23" TOTAL_2="27" WEIGHT="0.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="5" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-001.09" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" MODIFIED="2012-05-18 12:30:37 +0100" MODIFIED_BY="Tracey Remmington" NO="9" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="32" TOTAL_2="28" WEIGHT="0.0" Z="0.0">
+<NAME>Dropout rate</NAME>
+<GROUP_LABEL_1>Elective</GROUP_LABEL_1>
+<GROUP_LABEL_2>Symptomatic</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours elective</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours symptomatic</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="5" EVENTS_2="1" I2="0.0" ID="CMP-001.09.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="32" TOTAL_2="28" WEIGHT="0.0" Z="0.0">
+<NAME>At three years</NAME>
+<DICH_DATA CI_END="35.23970853717697" CI_START="0.5431550314840754" EFFECT_SIZE="4.375" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="1" LOG_CI_END="1.5470323077644375" LOG_CI_START="-0.2650761930477734" LOG_EFFECT_SIZE="0.640978057358332" ORDER="9" O_E="0.0" SE="1.0644415034588393" STUDY_ID="STD-Elborn-2000" TOTAL_1="32" TOTAL_2="28" VAR="1.1330357142857141" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

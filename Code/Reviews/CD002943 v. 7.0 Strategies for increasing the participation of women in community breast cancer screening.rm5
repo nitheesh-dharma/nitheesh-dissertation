@@ -1,0 +1,1943 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002943" GROUP_ID="BREASTCA" ID="972999121411560629" MERGED_FROM="" MODIFIED="2016-09-28 01:39:04 +0100" MODIFIED_BY="Melina Willson" REVIEW_NO="01a" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2016-09-28 10:35:00 +1000" MODIFIED_BY="Melina L Willson">
+<TITLE>Strategies for increasing the participation of women in community breast cancer screening</TITLE>
+<CONTACT>
+<PERSON ID="D3B1F77E82E26AA200831C1940F4DA2E" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Xavier</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Bonfill Cosp</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director</POSITION>
+<EMAIL_1>xbonfill@santpau.cat</EMAIL_1>
+<EMAIL_2>director@cochrane.es, XBonfill@hsp.santpau.es</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Iberoamerican Cochrane Centre - Biomedical Research Institute Sant Pau (IIB Sant Pau)</DEPARTMENT>
+<ORGANISATION>CIBER Epidemiología y Salud Pública (CIBERESP)</ORGANISATION>
+<ADDRESS_1>Sant Antoni Maria Claret, 167</ADDRESS_1>
+<ADDRESS_2>Pavilion 18 (D-13)</ADDRESS_2>
+<CITY>Barcelona</CITY>
+<ZIP>08025</ZIP>
+<REGION>Catalunya</REGION>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<PHONE_1>+34 93 553 78 10</PHONE_1>
+<PHONE_2>+34 93 553 78 14</PHONE_2>
+<FAX_1>+34 93 553 78 0</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2016-09-28 10:33:36 +1000" MODIFIED_BY="Melina Willson">
+<PERSON ID="D3B1F77E82E26AA200831C1940F4DA2E" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Xavier</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Bonfill Cosp</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director</POSITION>
+<EMAIL_1>xbonfill@santpau.cat</EMAIL_1>
+<EMAIL_2>director@cochrane.es, XBonfill@hsp.santpau.es</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Iberoamerican Cochrane Centre - Biomedical Research Institute Sant Pau (IIB Sant Pau)</DEPARTMENT>
+<ORGANISATION>CIBER Epidemiología y Salud Pública (CIBERESP)</ORGANISATION>
+<ADDRESS_1>Sant Antoni Maria Claret, 167</ADDRESS_1>
+<ADDRESS_2>Pavilion 18 (D-13)</ADDRESS_2>
+<CITY>Barcelona</CITY>
+<ZIP>08025</ZIP>
+<REGION>Catalunya</REGION>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<PHONE_1>+34 93 553 78 10</PHONE_1>
+<PHONE_2>+34 93 553 78 14</PHONE_2>
+<FAX_1>+34 93 553 78 0</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12775" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Mercè</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Marzo Castillejo</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>mmarzoc@gencat.net</EMAIL_1>
+<EMAIL_2>mmarzo@ics.scs.es</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Catalan Institut of Health</ORGANISATION>
+<ADDRESS_1>Gran Vía de les Corts Catalanes, 587</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Barcelona</CITY>
+<ZIP>08041</ZIP>
+<REGION>Catalonia</REGION>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<PHONE_1>+34 93 482 4106</PHONE_1>
+<PHONE_2>+34 63 097 0210</PHONE_2>
+<FAX_1>+34 93 291 9525</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="6090" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Manel</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Pladevall Vila</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>mpladev1@hfhs.org</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Center for Health Services Research</DEPARTMENT>
+<ORGANISATION/>
+<ADDRESS_1>1 Ford Place</ADDRESS_1>
+<ADDRESS_2>Suite 3A</ADDRESS_2>
+<CITY>Detroit</CITY>
+<ZIP>MI 48202-3450</ZIP>
+<REGION/>
+<COUNTRY CODE="US">USA</COUNTRY>
+<PHONE_1>313-874-4983</PHONE_1>
+<PHONE_2/>
+<FAX_1>313-874-7137</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="1185191682E26AA201DC7B3E3C871ECD" ROLE="AUTHOR">
+<PREFIX>Ms</PREFIX>
+<FIRST_NAME>Joan</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Marti</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>Cochrane@cochrane.es</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Iberoamerican Cochrane Centre</ORGANISATION>
+<ADDRESS_1>Hospital de la Santa Creu i Sant Pau</ADDRESS_1>
+<ADDRESS_2>Casa de Convalescencia, Sant Antoni M. Claret 171</ADDRESS_2>
+<CITY>Barcelona</CITY>
+<ZIP>08041</ZIP>
+<REGION/>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<PHONE_1>+34 93 291 95 27</PHONE_1>
+<PHONE_2/>
+<FAX_1>+34 93 291 95 25</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="7AC7D23E82E26AA201AA8B42C34D83EE" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>José</FIRST_NAME>
+<MIDDLE_INITIALS>I</MIDDLE_INITIALS>
+<LAST_NAME>Emparanza</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director</POSITION>
+<EMAIL_1>joseignacio.emparanza@osakidetza.net</EMAIL_1>
+<EMAIL_2>JOSEIGNACIO.EMPARANZA@osakidetza.net</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Unidad de Epidemiología Clínica. CASPe. CIBERESP</DEPARTMENT>
+<ORGANISATION>Hospital Universitario Donostia</ORGANISATION>
+<ADDRESS_1>Paseo del Doctor Begiristain, 107-115</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>San Sebastián</CITY>
+<ZIP>20014</ZIP>
+<REGION/>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<PHONE_1>+34 943 007147</PHONE_1>
+<PHONE_2/>
+<FAX_1>+34 943-007489</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2008-10-16 17:09:43 +1100" MODIFIED_BY="Sharon  M Parker">
+<UP_TO_DATE>
+<DATE DAY="18" MONTH="10" YEAR="2000"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="18" MONTH="10" YEAR="2000"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="31" MONTH="5" YEAR="2002"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="1998"/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="2001"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2001"/>
+</DATES>
+<WHATS_NEW MODIFIED="2016-09-28 10:35:00 +1000" MODIFIED_BY="Melina L Willson">
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2016-09-28 10:35:00 +1000" MODIFIED_BY="Melina L Willson">
+<DATE DAY="28" MONTH="9" YEAR="2016"/>
+<DESCRIPTION>
+<P>This Cochrane review is out of date and it is unlikely that it will be updated. The breast cancer screening environment has changed such that the research question has moved on from increasing participation to women being more informed about screening and, improving the quality of decision making. Therefore a new review question that addresses the complexities surrounding breast cancer screening is viewed as more appropriate</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2016-09-28 10:33:51 +1000" MODIFIED_BY="Melina L Willson">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2016-09-28 10:33:51 +1000" MODIFIED_BY="Melina L Willson">
+<DATE DAY="16" MONTH="10" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="18" MONTH="10" YEAR="2000"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Hospital de la Santa Creu i Sant Pau. Barcelona</NAME>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Iberoamerican Cochrane Centre</NAME>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Institut Català de la Salut. Barcelona</NAME>
+<COUNTRY CODE="ES">Spain</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2016-09-28 10:35:20 +1000" MODIFIED_BY="Melina L Willson">
+<SUMMARY MODIFIED="2008-10-16 17:09:17 +1100" MODIFIED_BY="Sharon  M Parker">
+<TITLE MODIFIED="2008-10-16 17:09:17 +1100" MODIFIED_BY="Sharon  M Parker">Strategies for increasing the participation of women in community breast cancer screening</TITLE>
+<SUMMARY_BODY>
+<P>Screening aims to identify people who might have a disease, by testing a group of people for signs of disease. Breast cancer screening with mammography has focused on women aged 50 to 69 years. The review of trials found that a letter of invitation, mailed educational material, a phone call and some combined actions (such as a letter of invitation plus a phone call and training activities plus reminders) all seem to increase numbers of women participating. However it is not known which of these work better. Other interventions (such as a home visit) have not been proven to work.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Strategies for reducing breast cancer mortality in western countries have focused on screening, at least for women aged 50 to 69 years. One of the requirements of any community screening program is to achieve a high participation rate, which is related to methods of invitation. Therefore, it was decided to systematically review the scientific evidence on the different strategies aimed at improving women's participation in breast cancer screening programs and activities.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the effectiveness of different strategies for increasing the participation rate of women invited to community (population-based) breast cancer screening activities or mammography programs.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>MEDLINE (1966-2000), CENTRAL (2000), and EMBASE (1998-1999) searches for 1966 to 1999 were supplemented by reports and letters to the European Screening Breast Cancer Programs (Euref Network).</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Both published and unpublished trials were eligible for inclusion, provided the women had been invited to a community breast screening activity or program and had been randomised to an intervention group or a control group with no active intervention.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>We identified 151 articles, which were reviewed independently by two people. The discrepancies were resolved by a third reviewer in order to reach consensus. Thirty-four studies were excluded because they lacked a control group; 58 of the other 117 articles were considered as opportunistic and not community-based; 59 articles, which reported 70 community-based randomised controlled trials or clinical controlled trials, were accepted. In 24 of these, the control group had not been exposed to any active intervention, but 8 of the 24 had to be excluded because the denominator for estimating attendance was unknown. At the end, 16 studies constituted the material for this review, although two studies were further excluded because their groups were not comparable at baseline. Data from all but one study were based on or converted to an intention-to-treat analysis. Attendance in response to the mammogram invitation was the main outcome measure.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>The evidence favoured five active strategies for inviting women into community breast cancer screening services: letter of invitation (OR 1.66, 95% CI 1.43 to 1.92), mailed educational material (Odds Ratio(OR) 2.81, 95% Confidence Interval (CI) 1.96 to 4.02), letter of invitation plus phone call (OR 2.53, 95% CI 2.02 to 3.18), phone call (OR 1.94, 95% CI 1.70 to 2.23), and training activities plus direct reminders for the women (OR 2.46, 95% CI 1.72 to 3.50). Home visits did not prove to be effective (OR 1.06, 95 % CI 0.80 to 1.40) and letters of invitation to multiple examinations plus educational material favoured the control group (OR 0.62, 95 % CI 0.32 to 1.20).</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Most active recruitment strategies for breast cancer screening programs examined in this review were more effective than no intervention. Combinations of effective interventions can have an important effect. Some costly strategies, as a home visit and a letter of invitation to multiple screening examinations plus educational material, were not effective. Further reviews comparing the effective interventions and studies that include cost-effectiveness, women's satisfaction and equity issues are needed.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY>
+<BACKGROUND>
+<P>Breast cancer is responsible for significant morbidity, and its incidence and mortality are increasing in many countries (<LINK REF="REF-Parkin-1997" TYPE="REFERENCE">Parkin 1997</LINK>). Efforts in reducing breast cancer mortality cancer have focused on early diagnosis of the disease to allow more effective and less aggressive treatments. Early treatment is beneficial, as long-term survival is quite low when the disease is diagnosed in advanced or metastatic stages (<LINK REF="REF-Battista-1999" TYPE="REFERENCE">Battista 1999</LINK>). On the other hand, risk factors are either difficult to change (such as those associated with reproduction) or not well understood. In addition, there has been widespread consensus on the benefits of screening mammography for women aged 50 years and over, driven from well-known and respected clinical trials, although this evidence has been recently and fully challenged (<LINK REF="REF-Gotzsche-2000" TYPE="REFERENCE">Gotzsche 2000</LINK>).</P>
+<P>So far, many programs and health plans in many countries and regions have assumed that breast cancer screening at a community level must be a priority, at least for women aged 50 to 69 years. Despite the consensus that breast cancer screening must be promoted to be successful, first some structural and functional requirements need to be met. A participation rate of at least 70% is one of the established goals. Lower levels of participation are undesirable for a population-based screening program because the cost-effectiveness of the program would be too low. Less representative participation associated with better education and higher social class raises questions of equity. </P>
+<P>Participation in a breast cancer screening program can be influenced by factors either to those related to the women's eligibility (age, socioeconomic group, awareness of prevention programs, etc.) or aspects of the screening services (such as the methods of invitation). The type of invitation used in each community breast cancer screening program is influenced by the methods available and used to identify eligible women (electoral roll, general practice list, etc.) and the data that each contains (address, phone number, etc.). The strategy of invitation may play an important role in achieving a high level of participation, but currently information is lacking about which invitation strategy is most effective. </P>
+<P>Therefore, we systematically reviewed the scientific evidence on the different strategies aimed at improving community participation in breast cancer screening programs and activities.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>The primary objective of this review was to assess the effectiveness of different strategies for increasing the participation rate of women invited to community breast cancer screening activities or mammography programs. The review assesses whether using different methods of contact, appointment, reminders or other activities will modify participation rates. The group was compared with a control group having no intervention. The usefulness of combinations of the strategies was also analysed. </P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Randomised or controlled clinical trials assessing the effect of different strategies of recruitment into any community breast cancer screening activity or program, compared with no active intervention. Opportunistic interventions, that is, those arising from recruitment when women seek help for an non-specific problem in any health care setting, have not been included.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Participants were all women who had been invited to any community breast cancer screening activity or program, initially or at successive screening rounds. Women who had not been identified through a population database were excluded.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Interventions comprised any planned strategy or any combination of strategies implemented by health managers or professionals responsible for community breast cancer screening activities or programs aiming to recruit from a target population: ways of establishing contact or attempting to increase participants (letters, phone calls, home visits, initiatives of general practitioners, information brochures, and so on). Inviting women into a breast cancer screening program could be either independent or combined with invitations to other preventive examinations.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>The main outcome measure was the attendance achieved in the groups exposed to recruitment strategies. Participants were those who attended an appointment for a mammogram (independently of their previous exposure to mammograms, physical examination or any other examination or investigation).</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>See: Breast Cancer Collaborative Review Group search strategy </P>
+<P>Studies were identified by electronic searches in CENTRAL (issue 1, 2000), MEDLINE (1966-2000), EMBASE (1988-99).</P>
+<P>The search strategy was defined for MEDLINE and was adapted further to any other database used. OVID was used to search in all electronic databases:</P>
+<P>#1 controlled trial in pt<BR/>#2 clinical trial in pt<BR/>#3 meta-analysis in pt<BR/>#4 explode "Clinical-Trials"/ all subheadings<BR/>#5 "Research-Design"/ all subheadings<BR/>#6 "Double-Blind-Method"<BR/>#7 "Meta-Analysis"<BR/>#8 "Random-Allocation"<BR/>#9 "Single-Blind-Method"<BR/>#10 (clinic* near trial*) in ti,ab<BR/>#11 ((singl* or doubl* or trebl* or tripl*) near (blind* or mask*)) in ti,ab<BR/>#12 "Placebos"/ all subheadings<BR/>#13 placebo* in ti,ab<BR/>#14 random* in ti, ab<BR/>#15 #1 or #2 or #3 or #4 or #5 or #6 or #7 or #8 or #9 or #10 or #11 or #12 or #13 or 14<BR/>#16 tg=comparative-study<BR/>#17 "Evaluation-Studies"<BR/>#18 explode "Program-Evaluation"/ all subheadings<BR/>#19 "Reproducibility-of-Results"<BR/>#20 "Follow-Up-Studies"<BR/>#21 "Prospective-Studies"<BR/>#22 (control* or prospectiv* or volunteer*) in ti,ab<BR/>#23 #16 or #17 or #18 or #19 or #20 or #21 or #22<BR/>#24 #23 or #15<BR/>#25 (tg=human) not (tg=animal)<BR/>#26 #25 and #24<BR/>#27 "breast neoplasms"/all subheadings<BR/>#28 (breast near (neoplasm* or tumour* or tumor* or cancer* or carcinom* or onco*)) in ti,ab<BR/>#29 #27 or #28<BR/>#30 "Mass-screening"/all subheadings<BR/>#31 "neoplasms"/prevention-and-control<BR/>#32 explode "mammography"/all subheadings<BR/>#33 mammograph* in ti,ab<BR/>#34 screen* in ab,ti<BR/>#35 #30 or #31 or #32 or #33 or #34<BR/>#36 #29 and #35<BR/>#37 "Patient-Compliance"/ all subheadings<BR/>#38 "Patient-Participation"/ all subheadings<BR/>#39 "Patient-Acceptance-of-Health-Care"/ all subheadings<BR/>#40 (patient near (compliance or participat*)) in ti,ab<BR/>#41 ((letter or mail* or phone* or telephone*) near (invit* or send or sent)) in ti,ab<BR/>#42 attendan* in ti,ab<BR/>#43 explode "Appointments-and-Schedules"/ all subheadings<BR/>#44 (appointment* or recruitment* or invit*) in ti,ab<BR/>#45 #37 or #38 or #39 or #40 or #41 or #42 or #43 or #44<BR/>#46 #45 and #26 and #36</P>
+<P>CENTRAL was searched using the following strategy:</P>
+<P>BREAST-NEOPLASMS*:ME<BR/>MASS-SCREENING*:ME<BR/>PREVENTIVE-HEALTH-SERVICES*:ME<BR/>HEALTH-PROMOTION*:ME<BR/>MAMMOGRAPHY*:ME<BR/>(#1 or #2) or #3) or #4) or #5) <BR/>PATIENT-ACCEPTANCE-OF-HEALTH-CARE*:ME<BR/>REMINDER-SYSTEMS*:ME<BR/>APPOINTMENTS-AND-SCHEDULES*:ME<BR/>CORRESPONDENCE*:ME<BR/>MOBILE-HEALTH-UNITS*:ME<BR/>(#7 or #8) or #9) or #10 or #11)<BR/>LETTER*<BR/>MAIL*<BR/>PHONE*<BR/>TELEPHONE*<BR/>INVIT*<BR/>SEND*<BR/>SENT*<BR/>ATTENDAN*<BR/>APPOINTMEN*<BR/>RECRUITM*<BR/>(#13 or #14) or #15) or #16 )or #17)or #18) or #19 )or #20)or#21)or #22)<BR/>(#6 and #11)and #23)</P>
+<P>The combination of these searches yielded 547 articles. We also reviewed the reference list of studies that were initially selected for inclusion and of 4 existing meta-analyses related to the topic of this review (<LINK REF="REF-Snell-1996" TYPE="REFERENCE">Snell 1996</LINK>; <LINK REF="REF-Wagner-1998" TYPE="REFERENCE">Wagner 1998</LINK>; <LINK REF="REF-Mandelblatt-1999" TYPE="REFERENCE">Mandelblatt 1999</LINK>; <LINK REF="REF-Yabroff-1999" TYPE="REFERENCE">Yabroff 1999</LINK>). Reports and letters to the European Screening Breast Cancer Programs' coordinators identified through the Euref Network Database and contacts with other authors identified 2 additional studies (<LINK REF="STD-Saigi-1995" TYPE="STUDY">Saigi 1995</LINK>; <LINK REF="STD-Giorgi-1999" TYPE="STUDY">Giorgi 1999</LINK>). No hand searching identification of other studies was conducted.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>The protocol previously published was adapted during development of this review. Specifically, we focused our analyses on the effectiveness of different strategies for inviting women to the breast cancer mammography services compared with no intervention. During the initial stages of our work, we had not planned to discriminate between actions addressed to a defined target population and opportunistic interventions, but we then felt it necessary to distinguish them. Besides that, we found more studies than we expected, and to split the review into this and other reviews could allow us to later compare the specific interventions.</P>
+<P>In addition, although we had planned to include all studies on any breast cancer screening activity in our protocol, we later decided to focus on mammography studies exclusively to increase consistency.</P>
+<P>The 547 articles identified through the explicit search strategies were registered in a ProCite® database. According to the abstract content, two reviewers (MM and JM) selected articles specifically focused on the topic of this review. This strategy identified 151 articles. These articles were reviewed, and 34 were excluded because they lacked a control group. In case of doubt, the methods section of the original article was reviewed. The source, institution, authors and results of the studies were not taken into account in accepting the review. In case of disagreement about the inclusion of a study, it was discussed jointly.</P>
+<P>The remaining 117 articles were randomly distributed among four reviewers (MM, JM, XB, JE), so that each article was reviewed independently by two different people. Discrepancies were solved between the corresponding reviewers. If there was a major disagreement between different assessments, it was resolved by a third reviewer (XB). In the case of exclusion of a study, the reasons were registered. All of the reviewers were trained and familiar with the methodology of systematic reviews and the Cochrane Collaboration. Two of them (XB and MM) have run some breast cancer screening programs directly.</P>
+<P>The data collection forms used in this review had been tested previously and adapted accordingly.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>Fifty-eight of 117 reviewed articles whose reported trials were considered as opportunistic were excluded. They focused on women who visited a clinical setting rather than being recruited specifically for screening, or their main aim was to modify professional practice.</P>
+<P>The remaining 59 articles, which reported 70 randomised clinical trials with a community perspective (that is, they included women registered in a breast cancer screening program, a Family Health Centre, Health Maintenance Organisation, electoral roll, etc.) were initially accepted if the randomisation was individual (every single woman was the randomisation unit) or by cluster (by medical practice, community, etc.). However, the control group was considered as confounded (had been exposed to an intervention) in 46 out 70 studies and independent (had not been exposed to any kind of intervention) in only 24 studies. Eight of the 24 studies (<LINK REF="STD-Becker-1989" TYPE="STUDY">Becker 1989</LINK>; <LINK REF="STD-Burack-1996-_x0028_1_x0029_" TYPE="STUDY">Burack 1996 (1)</LINK>; <LINK REF="STD-Champion-1994" TYPE="STUDY">Champion 1994</LINK>; <LINK REF="STD-Champion-1995-_x0028_1_x0029_" TYPE="STUDY">Champion 1995 (1)</LINK>; <LINK REF="STD-King-1995" TYPE="STUDY">King 1995</LINK>; <LINK REF="STD-Mayer-1994" TYPE="STUDY">Mayer 1994</LINK>; <LINK REF="STD-Rakowski-1998" TYPE="STUDY">Rakowski 1998</LINK>; <LINK REF="STD-Turnbull-1992" TYPE="STUDY">Turnbull 1992</LINK>) were additionally excluded because the denominator for estimating attendance rates was unknown, and efforts to obtain data from authors were not fruitful. Therefore, the remaining 16 trials were critically appraised.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>No scale for assessing the quality of included studies was used. The reviewers checked whether the studies were truly randomised trials or controlled clinical or community trials by assessing the methods of comparing the groups at baseline. Because the details of randomisation were not described in most studies, these studies were classified as level B for quality (The Reviewers' Handbook)</P>
+<P>The interventions were grouped according to the different invitation strategies, whether implemented individually (i.e. invitation letter) or combined (i.e. invitation letter plus phone call).</P>
+<P>The characteristics of the women in the intervention and the control groups were comparable in 12 of the 16 critically appraised studies. In two studies (<LINK REF="STD-Bodiya-1999" TYPE="STUDY">Bodiya 1999</LINK>; <LINK REF="STD-Irwig-1990" TYPE="STUDY">Irwig 1990</LINK>) group characteristics were not described, but we decided to maintain their data in the comparison analysis, while later performing a sensitivity analysis. Two other trials (<LINK REF="STD-Crane-1998" TYPE="STUDY">Crane 1998</LINK>; <LINK REF="STD-Ornstein-1991" TYPE="STUDY">Ornstein 1991</LINK>) were definitively excluded because their groups were not comparable. </P>
+<P>In the end, therefore, 14 studies provide the data analysed in this review. The studies varied, particularly in their time intervals and the women's previous participation in breast cancer screening. For analysis, the temporal attendance data were classified in two levels: within 12 months of the invitation (most studies) and within 24 months, because the most usual mammogram screening intervals are between 12 and 24 months. In some cases, the reviewers had to extrapolate from the data described to calculate the results corresponding to an intention-to-treat analysis. We planned to avoid merging individual randomised studies with cluster randomised studies, but we did not have to perform a sensitivity analysis because the only cluster randomised study (<LINK REF="STD-Atri-1997" TYPE="STUDY">Atri 1997</LINK>) was the only study within its comparison group. Information about the women's satisfaction was not found in any included study.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>In 5 out of 7 comparisons, the evidence favoured the active strategies, whose aim was a higher rate of recruitment of women into breast cancer screening, compared with what was observed for the respective control groups. At 12 months after the invitation, the proportion of women who underwent a mammogram in the groups exposed to an active intervention was statistically significantly higher than in the control groups (the values of the odds ratios varied, depending on the interventions, between 1.66 and 2.81).</P>
+<P>The comparison that assessed the effectiveness of an invitation letter plus educational material, based on one study (<LINK REF="STD-Clementz-1990" TYPE="STUDY">Clementz 1990</LINK>), found a higher attendance in the control group, although the result lacked statistical significance. The comparisons that assessed the effectiveness of home visits, based on two studies (<LINK REF="STD-Hoare-1994" TYPE="STUDY">Hoare 1994</LINK>; <LINK REF="STD-Sung-1992" TYPE="STUDY">Sung 1992</LINK>), slightly favoured the intervention but with no statistical significance.</P>
+<P>Letters of invitation compared with control</P>
+<P>Overall, the five studies comparing different types of invitation letter (signed by different people) with no intervention (<LINK REF="STD-Bodiya-1999" TYPE="STUDY">Bodiya 1999</LINK>; <LINK REF="STD-Mohler-1995" TYPE="STUDY">Mohler 1995</LINK>; <LINK REF="STD-Somkin-1997" TYPE="STUDY">Somkin 1997</LINK>; <LINK REF="STD-Sutton-1994" TYPE="STUDY">Sutton 1994</LINK>; <LINK REF="STD-Turnbull-1991" TYPE="STUDY">Turnbull 1991</LINK>) had 2451 women in the intervention group and 1715 in the control group. The odds ratio in relation to the outcome, 'attendance in response to the mammogram invitation during the 12 months after the invitation', was 1.66 (95% CI 1.43 to 1.92). Heterogeneity was not statistically significant. A sensitivity analysis excluding Bodiya's study increased the odds ratio slightly to 1.71 (95% CI 1.43 to 1.99) and increased the homogeneity.</P>
+<P>Only one study used a 24-month interval (<LINK REF="STD-Irwig-1990" TYPE="STUDY">Irwig 1990</LINK>), with 228 and 152 women in the intervention and control groups, respectively. The odds ratio was 4.10 (95% CI 2.57 to 6.54). </P>
+<P>Letters of invitation to multiple examinations plus educational material compared with control</P>
+<P>The one study that compared sending a letter of invitation plus educational material with no intervention (<LINK REF="STD-Clementz-1990" TYPE="STUDY">Clementz 1990</LINK>) had 116 women in the intervention group and 104 in the control group. The breast cancer screening invitation was part of a combined pack of screening interventions (fecal occult testing, Papanicolau smears, etc.), and the outcome assessment was performed by auditing the medical charts instead of registering the attendance directly. The odds ratio for the outcome, 'attendance in response to the mammogram invitation during the 12 months after the invitation', was 0.62 (95% CI 0.32 to 1.20), with no statistical significance.</P>
+<P>Mailed educational material compared with control</P>
+<P>The one study comparing the benefits of sending educational material with no intervention (<LINK REF="STD-Lerman-1992" TYPE="STUDY">Lerman 1992</LINK>) had 305 women in the intervention group and 240 in the control group. The odds ratio for the outcome, 'attendance in response to the mammogram invitation during the 12 months after the invitation', was 2.81 (95% CI 1.96 to 4.02), which was statistically significant.</P>
+<P>Invitation letter plus phone call compared with control</P>
+<P>The three studies comparing an invitation letter plus a phone call to the target women (<LINK REF="STD-Bodiya-1999" TYPE="STUDY">Bodiya 1999</LINK>; <LINK REF="STD-Janz-1997" TYPE="STUDY">Janz 1997</LINK>; <LINK REF="STD-Lantz-1995" TYPE="STUDY">Lantz 1995</LINK>) had 739 women in the intervention group and 751 in the control group. The odds ratio for the outcome, 'attendance in response to the mammogram invitation during the 12 months after the invitation', was 2.53 (95% CI 2.02 to 3.18), which was statistically significant. Heterogeneity was not statistically significant. A sensitivity analysis excluding Bodiya's study increased the odds ratio to 2.53 (95% CI 1.98 to 1.99), and homogeneity was greater. </P>
+<P>Phone calls of invitation compared with control</P>
+<P>The two studies comparing telephone calls with no intervention (<LINK REF="STD-Davis-1997-_x0028_1_x0029_" TYPE="STUDY">Davis 1997 (1)</LINK>; <LINK REF="STD-Mohler-1995" TYPE="STUDY">Mohler 1995</LINK>) had 2812 women in the intervention group and 1223 in the control group. The odds ratio for the outcome, 'attendance in response to the mammogram invitation during the 12 months after the invitation,' was 1.94 (95% CI 1.70 to 2.23), which was statistically significant. Heterogeneity was not statistically significant. </P>
+<P>Training activities plus women reminders compared with control</P>
+<P>The one study comparing a training program plus a reminder with no intervention (<LINK REF="STD-Atri-1997" TYPE="STUDY">Atri 1997</LINK>) had 995 women in the intervention group and 1069 in the control group. The odds ratio for the outcome, 'attendance in response to the mammogram invitation during the 12 months after the invitation', was 2.46 (95% CI 1.72 to 3.50), which was statistically significant. However, the study (<LINK REF="STD-Atri-1997" TYPE="STUDY">Atri 1997</LINK>) was a cluster-randomised study.</P>
+<P>Home visits compared with control</P>
+<P>The two studies comparing the effectiveness of home visits to targeted women with no intervention included 427 women in the intervention group and 421 in the control group. The odds ratio for the outcome, 'attendance in response to the mammogram invitation in the 12 months after the invitation,' was 1.06 (95% CI 0.80 to 1.40), with no statistical significance. Heterogeneity was not statistically significant. </P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>Since the 1960s, several trials that, in principle, showed the potential effectiveness of population breast cancer screening among women aged over 50 years have been published. During recent decades, many community programs and activities have been organised worldwide to offer that kind of preventive service. Concern about attracting the greatest number of targeted women into breast screening services has been constant. The goal of benefiting as many women as possible and achieving reasonable cost-effectiveness has stimulated diverse initiatives, and fortunately, related research too. A substantial part of this research has aimed to assess the diverse invitation strategies for increasing women's participation in breast cancer screening.</P>
+<P>Some initiatives have been integrated into an ongoing breast cancer screening program, designed to cover a population defined by age, geographical residence, insurance coverage, etc. These interventions have aimed to directly increase women's participation or, alternatively, to act on intermediate agents, particularly doctors. In contrast, other contexts have been quite different: the screening services have been implemented in an opportunistic way. This means that only women attending the health services for any other unspecified reason have been offered screening, usually by doctors. This strategy, the only one possible in some cases, departs clearly from the community perspective mentioned before.</P>
+<P>Because of the community strategy and the opportunistic strategy are so divergent, this review focuses on the former exclusively. As has been explained, studies that lacked a population base have been excluded. However, we did consider any study whose aim was to study the effectiveness of different community interventions, whether they were integrated into an accredited breast cancer screening program or implemented in a less stable setting, and whether they constituted a first invitation or a reminder.</P>
+<P>We accepted only randomised or controlled clinical trials, whether the randomisation unit was the individual woman or a cluster group. At the end of the selection process only one cluster-randomised study (<LINK REF="STD-Atri-1997" TYPE="STUDY">Atri 1997</LINK>) was included because it was the only study within its group and, therefore, it did not create any conflict with any other individual randomised study. Detail about the process of randomisation was lacking in most studies, perhaps because the opportunity for manipulating or altering the results are considered much lower than in conventional clinical studies. An alternative explanation could be that many authors underestimate the importance of providing all the necessary details about randomisation, as requested in the CONSORT statement (<LINK REF="REF-Begg-1996" TYPE="REFERENCE">Begg 1996</LINK>). Whatever the reason, it is a methodological limitation that must be explicitly mentioned.</P>
+<P>The process of searching, obtaining, and classifying the articles was time-consuming, but the reward was identifying more studies than some related meta-analyses (<LINK REF="REF-Mandelblatt-1999" TYPE="REFERENCE">Mandelblatt 1999</LINK>; <LINK REF="REF-Yabroff-1999" TYPE="REFERENCE">Yabroff 1999</LINK>; <LINK REF="REF-Wagner-1998" TYPE="REFERENCE">Wagner 1998</LINK>; <LINK REF="REF-Snell-1996" TYPE="REFERENCE">Snell 1996</LINK>). The number of studies finally fulfilling the inclusion criteria that we were able to identify convinced us about the convenience of splitting one potential review into several. Therefore, this current review compares the effectiveness of any community intervention with the effects observed in a pure control group, that is, a group with no intervention. The possible comparisons among the strategies proven to be effective will be undertaken in future reviews, and we envisage that a final overview of all the reviews conducted could be useful at a later stage.</P>
+<P>The diversity of the proposed interventions (some were only letters, written by different people; others combined two or three interventions; some were addressed to women, others to health professionals) did not create insurmountable difficulties when data were pooled and the results analysed, because the most common outcome was an effective response to the invitation (attendance for mammogram). Any other information complementary to that outcome was absent in the great majority of studies, and no one reported on the satisfaction of the invited women. Participation probably depends in some way on the women's perceived satisfaction, but this review had no data for addressing this outcome specifically.</P>
+<P>The required analyses of comparability between groups of included studies verify the correctness of the randomisation process in all of them, except in two (<LINK REF="STD-Bodiya-1999" TYPE="STUDY">Bodiya 1999</LINK>; <LINK REF="STD-Irwig-1990" TYPE="STUDY">Irwig 1990</LINK>), in which the pertinent information was not provided. In relation to these two studies, we adopted a conservative approach and planned a sensitivity analysis: in one case (Bodiya 1999) its elimination would reinforce the effectiveness of the intervention, and the other one (<LINK REF="STD-Irwig-1990" TYPE="STUDY">Irwig 1990</LINK>) was the only study within its class.</P>
+<P>The lack of baseline comparability or the absence of pertinent data are sufficient arguments for many reviewers for definitively excluding the affected articles, as we did in two cases (<LINK REF="STD-Crane-1998" TYPE="STUDY">Crane 1998</LINK>; <LINK REF="STD-Ornstein-1991" TYPE="STUDY">Ornstein 1991</LINK>). The elimination of these two studies under suspicion clearly favoured the effectiveness of the active interventions being studied, since their results went in the opposite direction. </P>
+<P>Only in 9 out 14 studies did the data analysis respect the intention-to-treat requirements. In four studies reanalysis of the data was possible and in one (<LINK REF="STD-Sutton-1994" TYPE="STUDY">Sutton 1994</LINK>) it was not. The potential exclusion of the Sutton study would favour still more the effect of the intervention (letter of invitation).</P>
+<P>For this review any study's control group was considered to meet the criteria for controls when no specific or explicit action was undertaken to encourage the participation of women in breast cancer screening services. Obviously, there are other generic actions, such as the general dissemination of news through the mass media or the spontaneous contacts made by health care professionals, relatives or friends, which cannot be accounted for. It is possible to assume that the potential effect of that diffuse information is equally distributed across the different groups thanks to randomisation. All the mentioned factors can partially explain the extremely variable (between 4% and 64%) participation of the women in control groups, besides their different local, social and cultural characteristics, summarised in the table of included studies. Moreover, the stability and potential prestige of community breast cancer screening programs are also elements that may contribute to disseminating information and stimulating participation, in contrast to discontinuous services that may develop a particular study or screening activity eventually.</P>
+<P>Five interventions for increasing attendance in breast cancer screening services were effective. The values of odds ratios were between 1.66 and 2.81, and heterogeneity was not significant. Single letters of invitation were highly effective at 12 and 24 months of follow-up. The mailed educational material, the letter of invitation plus a phone call, the individual phone call and the training activities plus reminders for the women were equally effective. The effect of interventions shown to be effective was quite homogeneous across studies, independently of country (USA, UK, Australia) or age group.</P>
+<P>Two of the analysed interventions were shown not to be effective. In one comparison, of two studies (<LINK REF="STD-Hoare-1994" TYPE="STUDY">Hoare 1994</LINK>; <LINK REF="STD-Sung-1992" TYPE="STUDY">Sung 1992</LINK>), there were no statistical differences between the intervention (home visit) and control. In the other comparison (<LINK REF="STD-Clementz-1990" TYPE="STUDY">Clementz 1990</LINK>), the control group had a higher rate of attendance in response to the mammogram invitation than the group in which the intervention (letter of invitation to multiple examinations plus educational material) was implemented. </P>
+<P>Conversely, home visits were not effective, and the addition of educational material to the invitation letter worsened the results. Although the only available study (<LINK REF="STD-Clementz-1990" TYPE="STUDY">Clementz 1990</LINK>) to address this latter combination had limitations already mentioned, the fact that the invitation to mammogram screening was included among five other invitations to different preventive examinations could have contaminated the effect of the specific invitation. Considering that this study is the only one with such multiple invitations, it seems reasonable to recommend that breast cancer screening invitations not be merged with other screening activities.</P>
+<P>In the studies referred to, combined actions have been mostly addressed to poorer women or those living in a multiethnic context for exploring alternatives to the conventional channels of communication (letter, phone). It appears that the combination of a letter and phone call achieves a better response than those interventions separately, although no direct comparisons among interventions have been considered in this review. The combined initiatives may be more costly than the individual letter or phone call, and therefore, considerations about respective cost-effectiveness should always be borne in mind. The simplest and cheapest actions reach a very acceptable response rate, and therefore, any costly intervention to be added should be based on sound effectiveness data. Unfortunately, no data about costs from the included studies are available to permit that kind of assessment here. </P>
+<P>The participation rates for breast cancer screening programs across the different intervention groups varied between 9% and 77%. This great variability in response is a logical consequence of the diverse perceptions and attitudes of targeted women. A myriad of factors can determine the final decision about participation: the existence or not of an established screening program, previous exposure to mammographic screening, the cost of the mammogram, health professionals' involvement, the availability of sufficient resources and logistic support, the diffusion of information campaigns, the efforts of social entities and associations, and the influence of age, social and educational status, among other unspecific elements. </P>
+<P>It is reasonable to assume that all the recruitment strategies proven to be effective can be implemented worldwide, taking into account that the required technology is quite simple and universally available. However, people who are in process of running or designing any breast cancer screening program or initiative should perform cost-effectiveness analysis, considering participation, the desired results, and their local circumstances regarding logistics and costs before launching any recruitment action. Interventions that failed to prove their effectiveness, such as home visits or the combination of educational material and letters of invitation to multiple examinations, should be avoided.</P>
+<P>The results of these studies do not specify whether they refer to the first or successive calls. There is no information about the long-term effects of the implemented interventions either, although this is relevant because breast cancer screening requires periodical examination. Information about targeted women exposed to repeated invitations could be interesting. No subgroup analysis (for example, by age group) has been done in this review, partly because the required data were not reported in the articles. In future, the availability of information technologies to citizens for accessing the health services and making personal choices will probably open new perspectives on how screening is disseminated and perceived.</P>
+<P>This review has not taken into account the current controversy that questions the effectiveness or low cost-effectiveness of breast cancer screening (<LINK REF="REF-Gotzsche-2000" TYPE="REFERENCE">Gotzsche 2000</LINK>; <LINK REF="REF-Miller-2000" TYPE="REFERENCE">Miller 2000</LINK>). However, the exploration of more effective recruitment strategies into breast cancer screening services implicitly assumes the benefits of periodical mammography and, thus, can be affected by the policies formulated about breast cancer screening in the future.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>Breast cancer screening services are offered to specific groups of women, depending on the evidence that different people accept as convincingly sound, coupled with local health priorities and the available resources in each country or region. When the launch of such a program is being decided, a population perspective is recommended for maximising equity and efficiency. In this context, therefore, the goal of achieving a high participation rate is absolutely necessary, and people in charge of breast cancer screening should design and implement active initiatives for ensuring a wide coverage.</P>
+<P>In general, most active recruitment strategies for breast cancer screening programs examined in this review were found to be more effective than no intervention. Sending letters, making phone calls, mailing educational materials and organising training activities with reminders for the women are actions that can increase the attendance rate of women invited to a community breast cancer screening service. Some combinations of effective actions (such as a letter and phone calls) have important effects and have been tested mostly among the lower socioeconomic groups of women. Home visits have not proven to be effective, and combining educational materials with invitation letters to multiple preventive examinations decreases the expected participation. Direct comparisons should be made in order to select the most effective interventions, but they have not been addressed in this review. </P>
+<P>It is reasonable to assume that all the recruitment strategies proven to be effective can be implemented worldwide, taking into account that the required technology is quite simple and universally available. However, people who are in process of running or designing any breast cancer screening program or initiative should perform a cost-effectiveness analysis. It appears that the attendance rate in the breast cancer screening services is higher if recruitment is individually addressed and not merged with other examinations. The simplest and cheapest interventions, such as letters and phone calls, either separately or combined, are very good alternatives to consider at the first instance.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>There is a need for future reviews to compare the different interventions that have proven to be effective for increasing the recruitment into breast cancer screening programs. Fortunately, many randomised clinical trials have already addressed this issue and others can be designed in the future to fill the existing gaps. More information about the diverse cost-effectiveness ratios and women's satisfaction is required, but the corresponding data are usually lacking in the trials. Monitoring the effect of periodically repeated interventions could also be useful.</P>
+<P>Future studies should continue exploring the effect of more specific actions addressed to the diverse population social subgroups, particularly those that are less prone to attend the screening invitations. The new communication technologies could provide alternative or complementary ways for improving the relationship between people and the referent health care organisations, including the cancer screening services, but these possible approaches should be based on previous well-designed trials. Evidence from recruitment activities into breast cancer screening could be extrapolated to other cancer preventive services, but this ought to be investigated further.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We are grateful to Miren Fernández, the Iberoamerican Cochrane Centre's documentalist, for the help provided.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None known</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Mercè Marzo (MM), Joan Martí (JM), Xavier Bonfill (XB), and JI Emparanza (JIE) conducted the reading, data extraction, and consensus activities related to included and excluded articles. XB and MM took the responsibility of writing the text of the review and were helped by Manel Pladevall, specially when working in the analyses section.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES MODIFIED="2016-09-28 10:35:20 +1000" MODIFIED_BY="Melina L Willson">
+<P>This Cochrane review is out of date and it is unlikely that it will be updated. The breast cancer screening environment has changed such that the research question has moved on from increasing participation to women being more informed about screening and, improving the quality of decision making. Therefore a new review question that addresses the complexities surrounding breast cancer screening is viewed as more appropriate.</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2016-09-28 01:39:04 +0100" MODIFIED_BY="Melina Willson">
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Atri-1997" NAME="Atri 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Atri J, Falshaw M, Gregg R, Robson J, Omar RZ, Dixon S</AU>
+<TI>Improving uptake of breast screening in multiethnic populations: a randomised controlled trial using practice reception staff to contact non-attenders</TI>
+<SO>BMJ</SO>
+<YR>1997</YR>
+<VL>315</VL>
+<NO>7119</NO>
+<PG>1356-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899299"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899298"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bodiya-1999" NAME="Bodiya 1999" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bodiya A, Vorias D, Dickson HA.</AU>
+<TI>Does telephone contact with a physician's office staff improve mammogram screening rates?</TI>
+<SO>Family Medicine</SO>
+<YR>1999</YR>
+<VL>31</VL>
+<PG>324-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899301"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899300"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Clementz-1990" NAME="Clementz 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Clementz GL, Aldag JC, Gladfelter TT, Barclay AM, Brooks HF</AU>
+<TI>A randomized study of cancer screening in a family practice setting using a recall model</TI>
+<SO>J Fam Pract</SO>
+<YR>1990</YR>
+<VL>30</VL>
+<NO>5</NO>
+<PG>537-41</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899303"/><IDENTIFIER TYPE="OTHER" VALUE="102"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899302"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Davis-1997-_x0028_1_x0029_" NAME="Davis 1997 (1)" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Davis NA, Lewis MJ, Rimer BK, Harvey CM, Koplan JP</AU>
+<TI>Evaluation of a Phone Intervention To Promote Mammography in a Managed Care Plan</TI>
+<SO>Am J Health Promot</SO>
+<YR>1997</YR>
+<VL>114</VL>
+<PG>247-249</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899305"/><IDENTIFIER TYPE="OTHER" VALUE="56"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899304"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hoare-1994" NAME="Hoare 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hoare T, Thomas C, Biggs A, Booth M, Bradley S, Friedman E</AU>
+<TI>Can the uptake of breast screening by Asian women be increased? A randomized controlled trial of a linkworker intervention</TI>
+<SO>J Public Health Med</SO>
+<YR>1994</YR>
+<VL>16</VL>
+<PG>179-85</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899307"/><IDENTIFIER TYPE="OTHER" VALUE="108J-Public-Health-Med"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899306"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Irwig-1990" NAME="Irwig 1990" YEAR="1990">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Irwig L, Turnbull D, McMurchie M</AU>
+<TI>A randomised trial of general practitioner-written invitations to encourage attendance at screening mammography</TI>
+<SO>CommunityHealth Stud</SO>
+<YR>1990</YR>
+<VL>14</VL>
+<PG>357-64</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899309"/><IDENTIFIER TYPE="OTHER" VALUE="33"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899308"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Janz-1997" NAME="Janz 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Janz NK, Schottenfeld D, Doerr KM, Selig SM, Dunn RL, Strawderman M, Levine PA</AU>
+<TI>A two-step intervention of increase mammography among women aged 65 and older</TI>
+<SO>Am J Public Health</SO>
+<YR>1997</YR>
+<VL>87</VL>
+<PG>1683-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899311"/><IDENTIFIER TYPE="OTHER" VALUE="57"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899310"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lantz-1995" NAME="Lantz 1995" YEAR="1995">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Lantz PM, Stencil D, Lippert MT, Beversdorf S, Jaros L, Remington PL</AU>
+<TI>Breast and cervical cancer screening in a low-income managed care sample: The efficacy of physician letters and phone calls</TI>
+<SO>Am J Public Health</SO>
+<YR>1995</YR>
+<VL>85</VL>
+<PG>834-836</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899313"/><IDENTIFIER TYPE="OTHER" VALUE="18"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899312"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lerman-1992" NAME="Lerman 1992" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lerman C, Ross E, Boyce A, Gorchov PM, McLaughlin R, Rimer B, Engstrom P</AU>
+<TI>The impact of mailing psychoeducational materials to women with abnormal mammograms</TI>
+<SO>Am J Public Health</SO>
+<YR>1992</YR>
+<VL>82</VL>
+<NO>5</NO>
+<PG>729-30</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899315"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899314"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mohler-1995" NAME="Mohler 1995" YEAR="1995">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Mohler PJ</AU>
+<TI>Enhancing compliance with screening mammography recommendations: a clinical trial in a primary care office</TI>
+<SO>Fam Med</SO>
+<YR>1995</YR>
+<VL>27</VL>
+<PG>117-21</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899317"/><IDENTIFIER TYPE="OTHER" VALUE="34"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899316"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Somkin-1997" NAME="Somkin 1997" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Somkin CP, Hiatt RA, Hurley LB, Gruskin E, Ackerson L, Larson P</AU>
+<TI>The effect of patient and provider reminders on mammography and Papanicolaou smear screening in a large health maintenance organization</TI>
+<SO>Arch Intern Med</SO>
+<YR>1997</YR>
+<VL>157</VL>
+<PG>1658-64</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899319"/><IDENTIFIER TYPE="OTHER" VALUE="61"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899318"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sung-1992" NAME="Sung 1992" YEAR="1992">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Sung JFC, Coates RJ, Williams JE, Liff JM, Greenberg RS, McGrady GA, Avery BY, Blumenthal DS</AU>
+<TI>Cancer screening intervention among black women in inner-city Atlanta - Design of a study</TI>
+<SO>Public Health Rep</SO>
+<YR>1992</YR>
+<VL>107</VL>
+<PG>381-388</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899321"/><IDENTIFIER TYPE="OTHER" VALUE="26"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899320"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sutton-1994" NAME="Sutton 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Sutton S, Bickler G, Sancho Aldridge J, Saidi G</AU>
+<TI>Prospective study of predictors of attendance for breast screening in inner London</TI>
+<SO>J Epidemiol Community Health</SO>
+<YR>1994</YR>
+<VL>48</VL>
+<NO>1</NO>
+<PG>65-73</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899323"/><IDENTIFIER TYPE="OTHER" VALUE="27"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899322"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Turnbull-1991" NAME="Turnbull 1991" YEAR="1991">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Turnbull D, Irwig L, Adelson P</AU>
+<TI>A randomised trial of invitations to attend for screening mammograph</TI>
+<SO>Aust J Public Health</SO>
+<YR>1991</YR>
+<VL>15</VL>
+<PG>33-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899325"/><IDENTIFIER TYPE="OTHER" VALUE="32"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899324"/></IDENTIFIERS>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Banks-1995" NAME="Banks 1995" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Banks SM, Salovey P, Greener S , Rothman AJ, Moyer A , Beauvais J, Epel E</AU>
+<TI>The effects of message framing on mammography utilization</TI>
+<SO>Health Psychol</SO>
+<YR>1995</YR>
+<VL>14</VL>
+<PG>178-84</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899327"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899326"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Banks-1998" NAME="Banks 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="OTHER">
+<AU>Banks E, Richardson A, Beral V, Crossley B, Simmonds M, Hilton E, English R, Davis J, Austoker J</AU>
+<TI>Effect on attendance at breast cancer screening of adding a self administered questionnaire to the usual invitation to breast screening in southern England</TI>
+<SO>J Epidemiol Community Health</SO>
+<YR>1998</YR>
+<VL>52</VL>
+<PG>116-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899329"/><IDENTIFIER TYPE="OTHER" VALUE="3a"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899328"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Bastani-1994" NAME="Bastani 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Bastani R, Marcus AC, Maxwell AE, Das IP, Yan KX</AU>
+<TI>Evaluation of an intervention to increase mammography screening in Los Angeles</TI>
+<SO>Prev Med</SO>
+<YR>1994</YR>
+<VL>23</VL>
+<PG>83-90</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899331"/><IDENTIFIER TYPE="OTHER" VALUE="4"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899330"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Becker-1989" NAME="Becker 1989" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Becker DM, Gomez EB, Kaiser DL, Yoshihasi A, Hodge RH</AU>
+<TI>Improving preventive care at a medical clinic: how can the patient help?</TI>
+<SO>American Journal of Preventive Medicine</SO>
+<YR>1989</YR>
+<VL>5</VL>
+<NO>6</NO>
+<PG>353-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899333"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899332"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Burack-1994" NAME="Burack 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Burack RC, Gimotty PA, George J, Stengle W, Warbasse L, Moncrease A</AU>
+<TI>Promoting screening mammography in inner-city settings: a randomized controlled trial of computerized reminders as a component of a program to facilitate mammography</TI>
+<SO>Med Care</SO>
+<YR>1994</YR>
+<VL>32</VL>
+<NO>6</NO>
+<PG>609-24</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899335"/><IDENTIFIER TYPE="OTHER" VALUE="7"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899334"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Burack-1996-_x0028_1_x0029_" NAME="Burack 1996 (1)" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Burack RC, Gimotty PA, George J, Simon MS, Dews P, Moncrease A</AU>
+<TI>The effect of patient and physician reminders on use of screening mammography in a health maintenance organization. Results of a randomized controlled trial</TI>
+<SO>Cancer</SO>
+<YR>1996</YR>
+<VL>78</VL>
+<PG>1708-21</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899337"/><IDENTIFIER TYPE="OTHER" VALUE="6"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899336"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Calle-1994" NAME="Calle 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Calle EE, Miracle McMahill HL, Moss RE, Heath CW</AU>
+<TI>Personal contact from friends to increase mammography usage</TI>
+<SO>Am J Prev Med</SO>
+<YR>1994</YR>
+<VL>10</VL>
+<PG>361-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899339"/><IDENTIFIER TYPE="OTHER" VALUE="54"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899338"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Champion-1994" NAME="Champion 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Champion VL</AU>
+<TI>Strategies to increase mammography utilization</TI>
+<SO>Med Care</SO>
+<YR>1994</YR>
+<VL>32</VL>
+<PG>118-29</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899341"/><IDENTIFIER TYPE="OTHER" VALUE="10"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899340"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Champion-1995-_x0028_1_x0029_" NAME="Champion 1995 (1)" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Champion V, Huster G</AU>
+<TI>Effect of interventions on stage of mammography adoption</TI>
+<SO>J Behav Med</SO>
+<YR>1995</YR>
+<VL>18</VL>
+<PG>169-87</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899343"/><IDENTIFIER TYPE="OTHER" VALUE="9"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899342"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Clover-1992" NAME="Clover 1992" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Clover K, Redman S, Boyle K, Forbes J, Sanson-Fisher R</AU>
+<TI>Community-based promotion of a mobile mammography screening service</TI>
+<SO>Br J Cancer</SO>
+<YR>1990</YR>
+<VL>62</VL>
+<NO>Suppl XII</NO>
+<PG>40</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899345"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899344"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Clover-1996-_x0028_A_x0029_" NAME="Clover 1996 (A)" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Clover K, Redman S, Forbes J, Sanson-Fisher R, Callaghan T</AU>
+<TI>Two sequential randomized trials of community participation to recruit women for mammographic screening</TI>
+<SO>Prev Med</SO>
+<YR>1996</YR>
+<VL>25</VL>
+<PG>126-34</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899347"/><IDENTIFIER TYPE="OTHER" VALUE="11a"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899346"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Clover-1996-_x0028_B_x0029_" NAME="Clover 1996 (B)" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Clover K, Redman S, Forbes J, Sanson-Fisher R, Callaghan T</AU>
+<TI>Two sequential randomized trials of community participation to recruit women for mammographic screening</TI>
+<SO>Prev Med</SO>
+<YR>1996</YR>
+<VL>25</VL>
+<PG>126-34</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899349"/><IDENTIFIER TYPE="OTHER" VALUE="11b"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899348"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Crane-1998" NAME="Crane 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Crane LA, Leakey TA, Rimer BK, Wolfe P, Woodworth MA, Warnecke RB</AU>
+<TI>Effectiveness of a telephone outcall intervention to promote screening mammography among low-income women</TI>
+<SO>Prev Med</SO>
+<YR>1998</YR>
+<VL>27</VL>
+<PG>S39-49</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899351"/><IDENTIFIER TYPE="OTHER" VALUE="12"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899350"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Curry-1993" NAME="Curry 1993" YEAR="1993">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Curry SJ, Taplin SH, Anderman C, Barlow WE, McBride C</AU>
+<TI>A randomized trial of the impact of risk assessment and feedback on participation in mammography screening</TI>
+<SO>Prev Med</SO>
+<YR>1993</YR>
+<VL>22</VL>
+<PG>350-60</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899353"/><IDENTIFIER TYPE="OTHER" VALUE="13"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899352"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dalessandri-1988" NAME="Dalessandri 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dalessandri KM, Cooper M, Rucker T</AU>
+<TI>Effect of mammography outreach in women veterans</TI>
+<SO>West J Med</SO>
+<YR>1998</YR>
+<VL>169</VL>
+<PG>150-2</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899355"/><IDENTIFIER TYPE="OTHER" VALUE="79"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899354"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Davis-1997-_x0028_2_x0029_" NAME="Davis 1997 (2)" YEAR="1997">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Davis NA, Nash E, Bailey C, Lewis MJ, Rimer BK, Koplan JP</AU>
+<TI>Evaluation of three methods for improving mammography rates in a managed care plan</TI>
+<SO>Am J Prev Med</SO>
+<YR>1997</YR>
+<VL>13</VL>
+<PG>298-302</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899357"/><IDENTIFIER TYPE="OTHER" VALUE="52"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899356"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dolan-1999" NAME="Dolan 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dolan NC, McDermott MM, Morrow M, Venta L, Martin GJ</AU>
+<TI>Impact of same-day screening mammography availability: results of a controlled clinical trial</TI>
+<SO>Arch Intern Med</SO>
+<YR>1999</YR>
+<VL>159</VL>
+<NO>4</NO>
+<PG>393-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899359"/><IDENTIFIER TYPE="OTHER" VALUE="64"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899358"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Giorgi-1999" NAME="Giorgi 1999" YEAR="1999">
+<REFERENCE NOTES="&lt;p&gt;67a&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Giorgi D, Livia G, Senore C, Merlino G, Negri R, Cancian M, Lerda M, Segan N, Rosselli M</AU>
+<TI>General practitioners and mammographic screening uptake: influence of different modalities of general practitioner participation</TI>
+<SO>Tumori (submitted)</SO>
+<YR>2000</YR>
+<VL>86</VL>
+<NO>2</NO>
+<PG>124-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899361"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899360"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kiefe-1994" NAME="Kiefe 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kiefe CI, McKay SV, Halevy A, Brody BA</AU>
+<TI>Is cost a barrier to screening mammography for low-income women receiving Medicare benefits? A randomized trial</TI>
+<SO>Arch Intern Med</SO>
+<YR>1994</YR>
+<VL>154</VL>
+<PG>1217-24</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899363"/><IDENTIFIER TYPE="OTHER" VALUE="63"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899362"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-King-1994" NAME="King 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>King ES, Rimer BK, Seay J, Balshem A, Engstrom PF</AU>
+<TI>Promoting mammography use through progressive interventions: is it effective?</TI>
+<SO>Am J Public Health</SO>
+<YR>1994</YR>
+<VL>84</VL>
+<PG>104-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899365"/><IDENTIFIER TYPE="OTHER" VALUE="17a"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899364"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-King-1995" NAME="King 1995" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>King ES, Ross E, Seay J, Balshem A, Rimer B</AU>
+<TI>Mammography interventions for 65- to 74-year-old HMO women: Program effectiveness and predictors of use</TI>
+<SO>Journal of Aging &amp; Health</SO>
+<YR>1995</YR>
+<VL>7</VL>
+<PG>529-51</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899367"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899366"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-King-1998" NAME="King 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>King E, Rimer BK, Benincasa T, Harrop C, Amfoh K, Bonney G, Kornguth P, Demark-Wahnefried W, Strigo T, Engstrom P</AU>
+<TI>Strategies to encourage mammography use among women in senior citizens' housing facilities</TI>
+<SO>J Cancer Educ</SO>
+<YR>1998</YR>
+<VL>13</VL>
+<PG>108-15</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899369"/><IDENTIFIER TYPE="OTHER" VALUE="35"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899368"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lancaster-1992" NAME="Lancaster 1992" YEAR="1992">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Lancaster G, Elton P</AU>
+<TI>Does the offer of cervical screening with breast screening encourage older women to have a cervical smear test?</TI>
+<SO>J Epidemiol Commun Health</SO>
+<YR>1992</YR>
+<VL>46</VL>
+<PG>523-527</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899371"/><IDENTIFIER TYPE="OTHER" VALUE="71"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899370"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Landis-1992" NAME="Landis 1992" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Landis SE, Hulkower SD, Pierson S</AU>
+<TI>Enhancing adherence with mammography through patient letters and physician prompts. A pilot study</TI>
+<SO>North Carolina Medical Journal</SO>
+<YR>1992</YR>
+<VL>53</VL>
+<PG>575-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899373"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899372"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Manfredi-1998" NAME="Manfredi 1998" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Manfredi C, Czaja R, Freels S, Trubitt M, Warnecke R, Lacey L</AU>
+<TI>Prescribe for health. Improving cancer screening in physician practices serving low-income and minority populations</TI>
+<SO>Archives of Family Medicine</SO>
+<YR>1998</YR>
+<VL>7</VL>
+<NO>4</NO>
+<PG>329-37</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899375"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899374"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mayer-1994" NAME="Mayer 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Mayer JA, Clapp EJ, Bartholomew S, Elder,J</AU>
+<TI>Facility-based inreach strategies to promote annual mammograms</TI>
+<SO>Am J Prev Med</SO>
+<YR>1994</YR>
+<VL>10</VL>
+<PG>353-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899377"/><IDENTIFIER TYPE="OTHER" VALUE="53a"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899376"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Meldrum-1994" NAME="Meldrum 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Meldrum P, Turnbull D, Dobson HM, Colquhoun C, Gilmour WH, McIlwaine GM</AU>
+<TI>Tailored written invitations for second round breast cancer screening: a randomised controlled trial</TI>
+<SO>J Med Screen</SO>
+<YR>1994</YR>
+<VL>1</VL>
+<PG>245-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899379"/><IDENTIFIER TYPE="OTHER" VALUE="42"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899378"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-O_x0027_Connor-1998" NAME="O'Connor 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>O'Connor AM, Griffiths CJ, Underwood MR, Eldridge S</AU>
+<TI>Can postal prompts from general practitioners improve the uptake of breast screening? A randomised controlled trial in one east London general practice</TI>
+<SO>J Med Screen</SO>
+<YR>1998</YR>
+<VL>5</VL>
+<PG>49-52</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899381"/><IDENTIFIER TYPE="OTHER" VALUE="41"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899380"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ore-1997" NAME="Ore 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ore L, Hagoel L, Shifroni G, Rennert G</AU>
+<TI>Compliance with mammography screening in Israeli women: the impact of a pre-scheduled appointment and of the letter-style</TI>
+<SO>Isr J Med Sci</SO>
+<YR>1997</YR>
+<VL>33</VL>
+<PG>103-11</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899383"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899382"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ornstein-1991" NAME="Ornstein 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ornstein SM, Garr DR, Jenkins RG, Rust PF, Arnon A</AU>
+<TI>Computer-generated physician and patient reminders. Tools to improve population adherence to selected preventive services</TI>
+<SO>J Fam Pract</SO>
+<YR>1991</YR>
+<VL>32</VL>
+<NO>1</NO>
+<PG>82-90</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899385"/><IDENTIFIER TYPE="OTHER" VALUE="22"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899384"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Peeters-1994" NAME="Peeters 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Peeters PH, Beckers CG, Hogervorst JM, Collette HJ</AU>
+<TI>Effect on breast cancer screening response in The Netherlands of inviting women for an additional scientific investigation</TI>
+<SO>J Epidemiol Community Health</SO>
+<YR>1994</YR>
+<VL>48</VL>
+<NO>2</NO>
+<PG>175-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899387"/><IDENTIFIER TYPE="OTHER" VALUE="21"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899386"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rakowski-1998" NAME="Rakowski 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rakowski W, Ehrich B, Goldstein MG, Rimer BK, Pearlman DN, Clark MA, Velicer WF, Woolverton H</AU>
+<TI>Increasing mammography among women aged 40-74 by use of a stage-matched, tailored intervention</TI>
+<SO>Prev Med</SO>
+<YR>1998</YR>
+<VL>27</VL>
+<NO>5</NO>
+<PG>748-56</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899389"/><IDENTIFIER TYPE="OTHER" VALUE="59"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899388"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Richardson-1994" NAME="Richardson 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Richardson A, Williams S, Elwood M, Bahr M, Medlicott T</AU>
+<TI>Participation in breast cancer screening: randomised controlled trials of doctors' letters and of telephone reminders</TI>
+<SO>Aust J Public Health</SO>
+<YR>1994</YR>
+<VL>18</VL>
+<PG>290-2</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899391"/><IDENTIFIER TYPE="OTHER" VALUE="23a"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899390"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rimer-1992" NAME="Rimer 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rimer BK, Resch N, King E, Ross E, Lerman C, Boyce A, Kessler H, Engstrom PF</AU>
+<TI>Multistrategy health education program to increase mammography use among women ages 65 and older</TI>
+<SO>Public Health Rep</SO>
+<YR>1992</YR>
+<VL>107</VL>
+<PG>369-80</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899393"/><IDENTIFIER TYPE="OTHER" VALUE="58"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899392"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="UNPUB" ID="STD-Saigi-1995" NAME="Saigi 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="UNPUBLISHED">
+<AU>Saigi E, Bonfill X, Florensa R, Nogué M, Seguí MA, et al</AU>
+<TI>Randomised clinical trial for comparing different invitation methods in breast cancer screening</TI>
+<TO>Ensayo clínico aleatorio para comparar diferentes métodos de convocatoria en el cribaje del cáncer de mama</TO>
+<SO>Personal communication</SO>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899395"/><IDENTIFIER TYPE="OTHER" VALUE="66"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899394"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schapira-1992" NAME="Schapira 1992" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schapira DV, Kumar NB, Clark RA, Yag C</AU>
+<TI>Mammography screening credit card and compliance</TI>
+<SO>Cancer</SO>
+<YR>1992</YR>
+<VL>70</VL>
+<NO>2</NO>
+<PG>509-12</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899397"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899396"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Segnan-1998" NAME="Segnan 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Segnan N, Senore C, Giordano L, Ponti A, Ronco G</AU>
+<TI>Promoting participation in a population screening program for breast and cervical cancer: A randomized trial of different invitation strategies</TI>
+<SO>Tumori</SO>
+<YR>1998</YR>
+<VL>84</VL>
+<PG>348-353</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899399"/><IDENTIFIER TYPE="OTHER" VALUE="36"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899398"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sharp-1996" NAME="Sharp 1996" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Sharp DJ, Peters TJ, Bartholomew J, Shaw A</AU>
+<TI>Breast screening: a randomised controlled trial in UK general practice of three interventions designed to increase uptake</TI>
+<SO>J Epidemiol Community Health</SO>
+<YR>1996</YR>
+<VL>50</VL>
+<PG>72-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899401"/><IDENTIFIER TYPE="OTHER" VALUE="25"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899400"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Skinner-1994" NAME="Skinner 1994" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Skinner CS, Strecher VJ, Hospers H</AU>
+<TI>Physicians' recommendations for mammography: do tailored messages make a difference?</TI>
+<SO>Am J Public Health</SO>
+<YR>1994</YR>
+<VL>84</VL>
+<PG>43-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899403"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899402"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stead-1998" NAME="Stead 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stead MJ, Wallis MG, Wheaton ME</AU>
+<TI>Improving uptake in non-attenders of breast screening: selective use of second appointment</TI>
+<SO>J Med Screen</SO>
+<YR>1998</YR>
+<VL>5</VL>
+<PG>69-72</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899405"/><IDENTIFIER TYPE="OTHER" VALUE="95"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899404"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stoner-1998" NAME="Stoner 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stoner TJ, Dowd B, Carr WP, Maldonado G, Church TR, Mandel J</AU>
+<TI>Do vouchers improve breast cancer screening rates? Results from a randomized trial</TI>
+<SO>Health Serv Res</SO>
+<YR>1998</YR>
+<VL>33</VL>
+<PG>11-28</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899407"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899406"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Taplin-1994" NAME="Taplin 1994" YEAR="">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Taplin SH; Anderman C; Grothaus L; Curry S; Montano D</AU>
+<TI>Using physician correspondence and postcard reminders to promote mammography use</TI>
+<SO>American Journal of Public Health</SO>
+<YR>1994</YR>
+<VL>84</VL>
+<NO>4</NO>
+<PG>571-4</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899409"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899408"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Turnbull-1992" NAME="Turnbull 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Turnbull D, Irwig L</AU>
+<TI>Ineffective recruitment strategies for screening mammography: Letterbox drops and invitations for friends</TI>
+<SO>Aust J Public Health</SO>
+<YR>1992</YR>
+<VL>16</VL>
+<PG>79-81</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899411"/><IDENTIFIER TYPE="OTHER" VALUE="101"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899410"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Turner-1994" NAME="Turner 1994" YEAR="1994">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Turner KM, Wilson BJ, Gilbert FJ</AU>
+<TI>Improving breast screening uptake: persuading initial non-attenders to attend</TI>
+<SO>J Med Screen</SO>
+<YR>1994</YR>
+<VL>1</VL>
+<PG>199-202</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899413"/><IDENTIFIER TYPE="OTHER" VALUE="29"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899412"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Weber-1997" NAME="Weber 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Weber BE, Reilly BM</AU>
+<TI>Enhancing mammography use in the inner city. A randomized trial of intensive case management</TI>
+<SO>Arch Intern Med</SO>
+<YR>1997</YR>
+<VL>157</VL>
+<PG>2345-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899415"/><IDENTIFIER TYPE="OTHER" VALUE="85"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899414"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Williams-1989" NAME="Williams 1989" YEAR="1989">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Williams EM, Vessey MP</AU>
+<TI>Randomised trial of two strategies offering women mobile screening for breast cancer</TI>
+<SO>BMJ</SO>
+<YR>1989</YR>
+<VL>299</VL>
+<PG>158-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2899417"/><IDENTIFIER TYPE="OTHER" VALUE="30"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2899416"/></IDENTIFIERS>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Battista-1999" NAME="Battista 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Battista RN, Lawrence RS, eds.</AU>
+<TI>Implementing preventive services</TI>
+<SO>Am J Pre Med</SO>
+<YR>1998</YR>
+<VL>4</VL>
+<PG>1-194.</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Begg-1996" NAME="Begg 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Begg C, Cho M, Eastwood S, et al.</AU>
+<TI>Improving the quality of reporting randomized clinical trials: the CONSORT Statement</TI>
+<SO>JAMA</SO>
+<YR>1996</YR>
+<VL>276</VL>
+<PG>637-639</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Gotzsche-2000" NAME="Gotzsche 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Gotzsche P, Olsen O</AU>
+<TI>Is screening for breast cancer with mammography justifiable?</TI>
+<SO>Lancet</SO>
+<YR>2000</YR>
+<VL>355</VL>
+<PG>129-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mandelblatt-1999" NAME="Mandelblatt 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Mandelblatt JS, Yabroff KR</AU>
+<TI>Effectiveness of interventions designed to increase mammography use: a meta-analysis of provider-targeted strategies</TI>
+<SO>Cancer Epidemiol Biomarkers Prev</SO>
+<YR>1999</YR>
+<VL>8</VL>
+<NO>9</NO>
+<PG>759-67</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Miller-2000" NAME="Miller 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Miller AB, To T, Baines CJ, Wall C</AU>
+<TI>Canadian National Breast Screening Study-2: 13-Year Results of a Randomized Trial in Women Aged 50-68 Years</TI>
+<SO>Journal of the National Cancer Insititute</SO>
+<YR>2000</YR>
+<VL>92</VL>
+<NO>18</NO>
+<PG>1490-1499</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Parkin-1997" NAME="Parkin 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Parkin DM, Whelan SL, Ferlay J, Raymond L, Young J.</AU>
+<TI>Cancer incidence in five continents Vol. VII. Registry data and estimates of national incidence for 1990.</TI>
+<SO>ARC Scientific Publication no. 143. Lyon: IARC,</SO>
+<YR>1997</YR>
+<VL>143</VL>
+<NO>i-xxxiv</NO>
+<PG>1-1240</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Snell-1996" NAME="Snell 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Snell JL, Buck EL</AU>
+<TI>Increasing cancer screening: a meta-analysis.</TI>
+<SO>Prev Med</SO>
+<YR>1996</YR>
+<VL>25</VL>
+<NO>6</NO>
+<PG>702-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wagner-1998" NAME="Wagner 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Wagner TH</AU>
+<TI>The effectiveness of mailed patient reminders on mammography screening: a meta-analysis</TI>
+<SO>Am J Prev Med</SO>
+<YR>1998</YR>
+<VL>14</VL>
+<NO>1</NO>
+<PG>64-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Yabroff-1999" NAME="Yabroff 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Yabroff KR, Mandelblatt JS</AU>
+<TI>Interventions targeted toward patients to increase mammography use</TI>
+<SO>Cancer Epidemiol Biomarkers Prev</SO>
+<YR>1999</YR>
+<VL>8</VL>
+<NO>9</NO>
+<PG>749-57</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES>
+<REFERENCE ID="REF-Golberg-1993" NAME="Golberg 1993" TYPE="CONFERENCE_PROC">
+<AU>Goldberg NJ, Hogan TF, Ocker BM, Madler DM, Billings K J, Hoehn JL</AU>
+<TO>Women participating in state sponsored rural breast cancer screening mammography (WISC-BCSP) can be targeted by nurses to increase interest in the breast cancer prevention trial (BCPT)</TO>
+<SO>Breast Cancer Research &amp; Treatment</SO>
+<YR>1993</YR>
+<VL>27</VL>
+<PG>171</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</PENDING_REFERENCES>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Atri-1997">
+<CHAR_METHODS>
+<P>RCT by GP. Stratification and practices matched. <BR/>No further details.<BR/>Duration: 12 months. <BR/>Losses 78 of 995 (8%) in the intervention group. No description of losses in the control group. Analysis by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: London, UK<BR/>Subjects: general multiethnic population. <BR/>Eligibility criteria: women registered in a breast screening centre who failed to attend.<BR/>Aged: 50-64<BR/>N = 2064<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Training programme for GP reception staff (contact all women by telephone or by sending a GP letters) (995)<BR/>2. Control (1069)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Overall attendance rate and by ethnic group.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Bodiya-1999">
+<CHAR_METHODS>
+<P>RCT by women. No further details.<BR/>Duration: 3 months. No description of losses. Analysis by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Michigan, USA.<BR/>Subjects: mixed urban and suburban population with a variety of ethnic and socieconomic backgrounds who are registered in a Family Medicine Center. <BR/>Eligibility criteria: women who had a normal mammogram the previous year. <BR/>Aged: &gt;50<BR/>N = 298</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Reminder letter from the Radiology department's (102)<BR/>2. Reminder letter plus a reminder phone call from the Radiology department's (86)<BR/>3. Control (110)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Attendance rates</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No description of the characteristics of the groups</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Clementz-1990">
+<CHAR_METHODS>
+<P>RCT by women. Random number computer-generated. Duration: 4 months. Losses: 14 of 116 in the intervention group (12 %). 28 of 104 in the control group (26,9 %). Reanalysis data by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Illinois Kansas (USA). Subjects: women registered in a Family Medicine Center.<BR/>Eligibility criteria: no personal history of breast cancer.<BR/>Aged: 50-69<BR/>N = 220</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Personalized letter signed in a blinded fashion by the patient's personal physician plus a second recall letter with patient educational material (116)<BR/>2. Control (104)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The percentage of patients having screening cancer test</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Other intervention: fecal occult testing, Papanicolau smears. Intervention and control group were comparable. Chart audit evaluation</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Davis-1997-_x0028_1_x0029_">
+<CHAR_METHODS>
+<P>RCT by women. No further details<BR/>Duration: 5 months<BR/>Losses: 2502 of 3992 (63,7%). We reanalysed data by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Houston, Texas, USA<BR/>Subject: women registered in a HMO. <BR/>Eligibility criteria: hadn't received a mammogram and no history of breast cancer.<BR/>Aged: 50-64<BR/>N = 3922</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Telephone reminder counseling plus and scheduling component (2737)<BR/>2. Control (1185)</P>
+<P>
+<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Attendance rates.<BR/>Administrative cost</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Hoare-1994">
+<CHAR_METHODS>
+<P>RCT by women. Balanced block details. No further details.<BR/>Duration: Unknown<BR/>Losses: 17 of 264 in the intervention group (6,4%). 12 of 263 in the control group (4,5%). Reanalysis date by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Manchester, UK<BR/>Subject: Asian women. Eligibility criteria: women registered in a breast screening centre who failed to attend.<BR/>Aged: 50-64 years. N = 527</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Follow-up by two linkworkers (1 or 2 visits) (264)<BR/>2. Control (263)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Attendance rates.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Irwig-1990">
+<CHAR_METHODS>
+<P>RCT by women. Stratification by the range of previous involvement with the Breast X-Ray Programme. No further details <BR/>Duration: 2 years<BR/>Losses: 22 the 440 (5%). Analysis by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Sydney, Australia<BR/>Subjects: general population.<BR/>Eligibility criteria: women registered in a breast screening centre who failed to attend.<BR/>Aged: 45-70<BR/>N = 440</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Letter from the GP with appointment (162)<BR/>2. Letter fron the GP without appointment. (126)<BR/>3. Control (152)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Attendance rates</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No description of the characteristics of the groups</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Janz-1997">
+<CHAR_METHODS>
+<P>RCT by women. No further details<BR/>Duration: 12 months<BR/>Losses: 350 of 635 (55,1%).<BR/>We reanalysed data by intention to treat</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Michigan, USA<BR/>Subjects: high percentage of low socioeconomic, minority population.<BR/>Eligibility criteria: not breast screened and without history of cancer<BR/>Aged: 65-85<BR/>N = 635<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Physician letter plus phone call to non-responders (316)<BR/>2. Control (319)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Attendance rate</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control groups were comparable. Coupon incentive</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lantz-1995">
+<CHAR_METHODS>
+<P>RCT by women. No further details<BR/>Duration: 6 months<BR/>Losses: 33 of 337 in the intervention group (9 %). No description of losses in the control group. Analysis by intention to treat</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Wisconsin, USA<BR/>Subjects: women enrolled in a low income managed care program<BR/>Eligibility criteria: not breast screened in the previous 18 months.<BR/>Aged: 40-79<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Reminders letters from GP plus follow up phone call from a health educator ( 337)<BR/>2. Control (322)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Attendance rates</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Other intervention: Pap smear<BR/>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lerman-1992">
+<CHAR_METHODS>
+<P>RCT by women with abnormal mammography. The randomization was stratified by prior mammogram result<BR/>Duration: 12 months<BR/>Losses: 11 % Analysis by intention to treat</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Pennsylvania and New Jersey, USA<BR/>Subjects: women members of a HMO. Women who had received an abnormal mammogram during the previous year and were eligible to receive an annual screening mammogram during the study period.<BR/>Aged: 50-74<BR/>N = 446</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Control no survey (150)<BR/>2. Control survey (90) <BR/>3. Experimental survey, psychoeducational booklet / positive framing (95)<BR/>4. Experimental psychoeducational booklet / negative framing (110)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Adherence to mammogram</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control groups were comparable. Free mammogram</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Mohler-1995">
+<CHAR_METHODS>
+<P>RCT by women. Random number computer- generated<BR/>Duration: 2 months. <BR/>Losses: 0<BR/>Analysis by intention to treat</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Colorado, USA <BR/>Subjects: women registered in a private practice GP in a community hospital<BR/>Eligibility criteria: No mammogram in the preceding 2 years, seen in the office the preceding 5 years, no current address and phone number, no personal history of breast cancer, active patient of the practice<BR/>Aged: 50-59 years<BR/>N = 151</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Physician telephone call (38)<BR/>2. Medical assistant telephone call (37)<BR/>3. Physician letter (38)<BR/>4. Control (38)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The proportion of mammograms obtained.<BR/>Cost and cost-effectivenes</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Women without health insurance had to pay up to 80$ for their mamography (15-20 %)<BR/>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Somkin-1997">
+<CHAR_METHODS>
+<P>RCT by women. Stratification by age. No further details<BR/>Duration: 6 months<BR/>No description of losses. Reanalysis data by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: California, USA<BR/>Subjects: Women registered in a HMO<BR/>Eligibility criteria: women who hadn't received a mammogram in the previous 2 years.<BR/>Aged: 50-74<BR/>N = 3513</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Letter inviting women to make an appointment (1171)<BR/>2. Control (1171)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>The proportion of mammograms obtained<BR/>The effectiveness of the intervention in the 3 different centers</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Sung-1992">
+<CHAR_METHODS>
+<P>RCT by women. Stratification by the source of recruitment and age. No further details.<BR/>Duration: 6 months<BR/>Losses: 36 of 321 (11,2%). Analysis by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: Atlanta, USA<BR/>Subjects: low income, inner city black people<BR/>Eligibility criteria: women not screened and without history of cancer<BR/>Aged: &gt; 35<BR/>N = 321</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Visit home plus educational material (163)<BR/>2. Control (158)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Changes in cancer screening compliance, knowledge, attitudes and practice.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Other intervention: Pap smear<BR/>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Sutton-1994">
+<CHAR_METHODS>
+<P>RCT by women. No further details.<BR/>Duration: 4 months<BR/>No description of losses. Impossible to know if analysis by intention to treat.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: London, UK<BR/>Subjects: general population of the inner city.<BR/>Eligibility criteria: women registered in a breast screening centre who gave an interview or returned a questione.<BR/>Aged: 50-64<BR/>N = 1293</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1. Letter informing that they would be calling on the next few weeks (977).<BR/>2. Control (316)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Assessment of women attitudes, beliefs and intentions regarding to breast cancer and breast screening.<BR/>Predictor factors associated with attendance.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control group were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Turnbull-1991">
+<CHAR_METHODS>
+<P>RCT by women. No further details.<BR/>Duration: 2.5 months.<BR/>No description of losses. Analyis by intention to treat</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>Geographic region: New South Wales, Australia<BR/>Subjects: general population<BR/>Eligibility criteria: women registered in a breast screening centre who failed to attend.<BR/>Aged: 45-69<BR/>N = 243</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1- Letter signed by the Programme Director with appointment and with Greek and Italian translations (163)<BR/>2. Control (80)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Attendance rate<BR/>Whether age and language spoken at home are related to attendance</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Intervention and control groups were comparable</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Banks-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Banks-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Bastani-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Becker-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without intervention, but also a reminder with physician endorsement</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Burack-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Burack-1996-_x0028_1_x0029_">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without intervention, but the denominator for estimating attendance rates is unknown</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Calle-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with intervention, but participants are volunteers. Therefore the study is not community-based</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Champion-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without intervention, but the denominator for estimating attendance rates is unknown</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Champion-1995-_x0028_1_x0029_">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without intervention, but the denominator for estimating attendance rates is unknown</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Clover-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Clover-1996-_x0028_A_x0029_">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Clover-1996-_x0028_B_x0029_">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Crane-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without an intervention, but their groups were not comparable. Authors provided additional information on request, but this did not modify the final classification of the study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Curry-1993">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dalessandri-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Davis-1997-_x0028_2_x0029_">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dolan-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Giorgi-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kiefe-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-King-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-King-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without intervention, but the denominator for estimating attendance rates is unknown. There is imbalance between groups</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-King-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lancaster-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Landis-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Manfredi-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mayer-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Meldrum-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-O_x0027_Connor-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ore-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ornstein-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without intervention, but their groups were not comparable</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Peeters-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rakowski-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group without intervention, but the denominator for estimating attendance rates is unknown</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Richardson-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Rimer-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Saigi-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schapira-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Segnan-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sharp-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Skinner-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Stead-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Stoner-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Taplin-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Turnbull-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The denominator for estimating attendance rates is unknown</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Turner-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Weber-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Williams-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>The comparison includes a control group with an active intervention</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Atri-1997">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Bodiya-1999">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Clementz-1990">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Davis-1997-_x0028_1_x0029_">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Hoare-1994">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Irwig-1990">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Janz-1997">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lantz-1995">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lerman-1992">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Mohler-1995">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Somkin-1997">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Sung-1992">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Sutton-1994">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Turnbull-1991">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Letters of invitation compared with control</NAME>
+<DICH_OUTCOME CHI2="13.472974490856641" CI_END="1.9164147208538473" CI_START="1.4317271207796454" CI_STUDY="95" CI_TOTAL="95" DF="4" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.6564368175417397" ESTIMABLE="YES" EVENTS_1="982" EVENTS_2="402" I2="70.31093614320595" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.28248949821253244" LOG_CI_START="0.15586025174797077" LOG_EFFECT_SIZE="0.2191748749802516" METHOD="PETO" NO="1" P_CHI2="0.009181744751307397" P_Q="1.0" P_Z="1.1627534704779905E-11" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="5" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="2451" TOTAL_2="1715" WEIGHT="100.00000000000001" Z="6.7847653408817035">
+<NAME>Attendance to the mammogram invitation during the following 12 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.6588833512214207" CI_START="0.9932573799844767" EFFECT_SIZE="1.2836269439109078" ESTIMABLE="YES" EVENTS_1="576" EVENTS_2="167" LOG_CI_END="0.21981584853071437" LOG_CI_START="-0.0029381994166944635" LOG_EFFECT_SIZE="0.10843882455700996" ORDER="1" O_E="14.583913379737055" SE="0.13084683041462855" STUDY_ID="STD-Sutton-1994" TOTAL_1="977" TOTAL_2="316" VAR="58.40816821142285" WEIGHT="32.31594313386704"/>
+<DICH_DATA CI_END="2.2843863847640398" CI_START="1.5372149484785065" EFFECT_SIZE="1.8739244645289348" ESTIMABLE="YES" EVENTS_1="310" EVENTS_2="187" LOG_CI_END="0.3587695630496118" LOG_CI_START="0.18673459906199794" LOG_EFFECT_SIZE="0.27275208105580484" ORDER="1" O_E="61.5" SE="0.10105418943313033" STUDY_ID="STD-Somkin-1997" TOTAL_1="1171" TOTAL_2="1171" VAR="97.92449807774456" WEIGHT="54.17945140546252"/>
+<DICH_DATA CI_END="6.632597429761785" CI_START="1.9224910701888933" EFFECT_SIZE="3.570869548285801" ESTIMABLE="YES" EVENTS_1="53" EVENTS_2="7" LOG_CI_END="0.8216836382845416" LOG_CI_START="0.28386433121641014" LOG_EFFECT_SIZE="0.5527739847504759" ORDER="2" O_E="12.753086419753089" SE="0.3159177232203266" STUDY_ID="STD-Turnbull-1991" TOTAL_1="163" TOTAL_2="80" VAR="10.019637703887613" WEIGHT="5.543643161153922"/>
+<DICH_DATA CI_END="6.67879672666213" CI_START="0.5271887781145269" EFFECT_SIZE="1.8764292381020689" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" LOG_CI_END="0.8246982256428482" LOG_CI_START="-0.2780338428275662" LOG_EFFECT_SIZE="0.27333219140764103" ORDER="3" O_E="1.5" SE="0.6477502756312957" STUDY_ID="STD-Mohler-1995" TOTAL_1="38" TOTAL_2="38" VAR="2.3833333333333333" WEIGHT="1.3186454365467857"/>
+<DICH_DATA CI_END="1.8941045034829624" CI_START="0.6110445388810178" EFFECT_SIZE="1.0758169978779877" ESTIMABLE="YES" EVENTS_1="36" EVENTS_2="37" LOG_CI_END="0.27740393667039365" LOG_CI_START="-0.21392713298938318" LOG_EFFECT_SIZE="0.03173840184050527" ORDER="24110" O_E="0.8773584905660385" SE="0.2886103024461726" STUDY_ID="STD-Bodiya-1999" TOTAL_1="102" TOTAL_2="110" VAR="12.00539185994915" WEIGHT="6.642316862969738"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="6.541253746056192" CI_START="2.5720237997757502" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="4.101738694167244" ESTIMABLE="YES" EVENTS_1="91" EVENTS_2="10" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.8156609964602869" LOG_CI_START="0.41027498293937614" LOG_EFFECT_SIZE="0.6129679896998315" METHOD="PETO" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="3.082065858735098E-9" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="288" TOTAL_2="152" WEIGHT="100.0" Z="5.927166421224437">
+<NAME>Attendance to the mammogram invitation during the following 24 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="6.541253746056192" CI_START="2.5720237997757502" EFFECT_SIZE="4.101738694167244" ESTIMABLE="YES" EVENTS_1="91" EVENTS_2="10" LOG_CI_END="0.8156609964602869" LOG_CI_START="0.41027498293937614" LOG_EFFECT_SIZE="0.6129679896998315" ORDER="24115" O_E="24.89090909090909" SE="0.2381257510353134" STUDY_ID="STD-Irwig-1990" TOTAL_1="288" TOTAL_2="152" VAR="17.635479583576494" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Letters of invitation to multiple examinations plus educational materials compared with control</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.2016098299815532" CI_START="0.32087479088570536" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.620939854512125" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="25" I2="0.0" I2_Q="0.0" ID="CMP-002.01" LOG_CI_END="0.0797634724973798" LOG_CI_START="-0.49366440135038364" LOG_EFFECT_SIZE="-0.2069504644265019" METHOD="PETO" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.1571551952833312" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="116" TOTAL_2="104" WEIGHT="100.0" Z="1.4147043607701089">
+<NAME>Attendance to the mammogram invitation during the following 12 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.2016098299815532" CI_START="0.32087479088570536" EFFECT_SIZE="0.620939854512125" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="25" LOG_CI_END="0.0797634724973798" LOG_CI_START="-0.49366440135038364" LOG_EFFECT_SIZE="-0.2069504644265019" ORDER="24116" O_E="-4.199999999999999" SE="0.33683437161193075" STUDY_ID="STD-Clementz-1990" TOTAL_1="116" TOTAL_2="104" VAR="8.813881278538812" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>Mailed educational material compared with control</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="4.022330186178576" CI_START="1.9607879843871914" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="2.80836904595832" ESTIMABLE="YES" EVENTS_1="235" EVENTS_2="130" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="0.6044777182123755" LOG_CI_START="0.29243063691684473" LOG_EFFECT_SIZE="0.4484541775646101" METHOD="PETO" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="1.7661858880514552E-8" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="305" TOTAL_2="240" WEIGHT="100.0" Z="5.633470648685441">
+<NAME>Attendance to the mammogram invitation during the following 12 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.022330186178576" CI_START="1.9607879843871914" EFFECT_SIZE="2.80836904595832" ESTIMABLE="YES" EVENTS_1="235" EVENTS_2="130" LOG_CI_END="0.6044777182123755" LOG_CI_START="0.29243063691684473" LOG_EFFECT_SIZE="0.4484541775646101" ORDER="24117" O_E="30.733944954128447" SE="0.1832980002109591" STUDY_ID="STD-Lerman-1992" TOTAL_1="305" TOTAL_2="240" VAR="29.763537432479932" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-004" NO="4">
+<NAME>Letters of invitation plus phone call compared with control</NAME>
+<DICH_OUTCOME CHI2="2.837352629397463" CI_END="3.1751825317476534" CI_START="2.0219853440645466" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="2.533805940462591" ESTIMABLE="YES" EVENTS_1="315" EVENTS_2="184" I2="29.51175757012911" I2_Q="0.0" ID="CMP-004.01" LOG_CI_END="0.5017686966365501" LOG_CI_START="0.3057780033741899" LOG_EFFECT_SIZE="0.4037733500053699" METHOD="PETO" NO="1" P_CHI2="0.242034503777952" P_Q="1.0" P_Z="6.708950400043007E-16" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="739" TOTAL_2="751" WEIGHT="100.0" Z="8.0757020729371">
+<NAME>Attendance to the mammogram invitation during the following 12 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="4.526968778038733" CI_START="1.4563439182605962" EFFECT_SIZE="2.5676494013109172" ESTIMABLE="YES" EVENTS_1="49" EVENTS_2="37" LOG_CI_END="0.6558074992285742" LOG_CI_START="0.16326394651917758" LOG_EFFECT_SIZE="0.4095357228738759" ORDER="24118" O_E="11.265306122448976" SE="0.2893225209914072" STUDY_ID="STD-Bodiya-1999" TOTAL_1="86" TOTAL_2="110" VAR="11.94635782099339" WEIGHT="15.833671155547616"/>
+<DICH_DATA CI_END="2.928550350078442" CI_START="1.570604048772217" EFFECT_SIZE="2.14466618308456" ESTIMABLE="YES" EVENTS_1="178" EVENTS_2="119" LOG_CI_END="0.466652695180866" LOG_CI_START="0.19606671266116946" LOG_EFFECT_SIZE="0.3313597039210177" ORDER="24119" O_E="30.20157480314961" SE="0.15894354555428514" STUDY_ID="STD-Janz-1997" TOTAL_1="316" TOTAL_2="319" VAR="39.58350133280708" WEIGHT="52.46386829192858"/>
+<DICH_DATA CI_END="4.951940797123082" CI_START="2.2217107393905167" EFFECT_SIZE="3.3168931321033526" ESTIMABLE="YES" EVENTS_1="88" EVENTS_2="28" LOG_CI_END="0.6947754438399181" LOG_CI_START="0.34668751434195794" LOG_EFFECT_SIZE="0.5207314790909381" ORDER="24120" O_E="28.679817905918057" SE="0.204468572850142" STUDY_ID="STD-Lantz-1995" TOTAL_1="337" TOTAL_2="322" VAR="23.919212028960363" WEIGHT="31.702460552523814"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-005" NO="5">
+<NAME>Phone calls of invitation compared with control</NAME>
+<DICH_OUTCOME CHI2="1.8900778762681458" CI_END="2.229807496261928" CI_START="1.695817334982664" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.9445683854869362" ESTIMABLE="YES" EVENTS_1="1277" EVENTS_2="359" I2="47.092127125764534" I2_Q="0.0" ID="CMP-005.01" LOG_CI_END="0.3482673711558257" LOG_CI_START="0.2293790703962545" LOG_EFFECT_SIZE="0.2888232207760401" METHOD="PETO" NO="1" P_CHI2="0.1691933583471945" P_Q="1.0" P_Z="1.6834665679624547E-21" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="2812" TOTAL_2="1223" WEIGHT="99.99999999999999" Z="9.522940558544843">
+<NAME>Attendance to the mammogram invitation during the following 12 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="8.491678520637455" CI_START="1.4880386734005202" EFFECT_SIZE="3.554707588648193" ESTIMABLE="YES" EVENTS_1="27" EVENTS_2="4" LOG_CI_END="0.9289935442132286" LOG_CI_START="0.17261421845864025" LOG_EFFECT_SIZE="0.5508038813359344" ORDER="1" O_E="6.424778761061948" SE="0.4443009600862923" STUDY_ID="STD-Mohler-1995" TOTAL_1="75" TOTAL_2="38" VAR="5.065770336641197" WEIGHT="2.4705801076599743"/>
+<DICH_DATA CI_END="2.199779607655379" CI_START="1.6672259850461746" EFFECT_SIZE="1.915079560555573" ESTIMABLE="YES" EVENTS_1="1250" EVENTS_2="355" LOG_CI_END="0.342379171743235" LOG_CI_START="0.22199447049792195" LOG_EFFECT_SIZE="0.2821868211205785" ORDER="24121" O_E="129.93753187149423" SE="0.07071456942537883" STUDY_ID="STD-Davis-1997-_x0028_1_x0029_" TOTAL_1="2737" TOTAL_2="1185" VAR="199.97798926196066" WEIGHT="97.52941989234002"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-006" NO="6">
+<NAME>Training activities plus women reminders compared with control</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="3.5025520488631097" CI_START="1.7209430242623516" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="2.455135946461372" ESTIMABLE="YES" EVENTS_1="90" EVENTS_2="40" I2="0.0" I2_Q="0.0" ID="CMP-006.01" LOG_CI_END="0.5443845977382783" LOG_CI_START="0.23576649225779506" LOG_EFFECT_SIZE="0.39007554499803665" METHOD="PETO" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="7.24927942317528E-7" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="995" TOTAL_2="1069" WEIGHT="100.0" Z="4.9545636232565995">
+<NAME>Attendance to the mammogram invitation during the following 12 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.5025520488631097" CI_START="1.7209430242623516" EFFECT_SIZE="2.455135946461372" ESTIMABLE="YES" EVENTS_1="90" EVENTS_2="40" LOG_CI_END="0.5443845977382783" LOG_CI_START="0.23576649225779506" LOG_EFFECT_SIZE="0.39007554499803665" ORDER="1" O_E="27.33042635658915" SE="0.18128380284349616" STUDY_ID="STD-Atri-1997" TOTAL_1="995" TOTAL_2="1069" VAR="30.42860160533674" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-007" NO="7">
+<NAME>Home visits compared with control</NAME>
+<DICH_OUTCOME CHI2="0.008220401761317872" CI_END="1.4017190114886113" CI_START="0.8046693408020018" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="1.0620359282831133" ESTIMABLE="YES" EVENTS_1="173" EVENTS_2="165" I2="0.0" I2_Q="0.0" ID="CMP-007.01" LOG_CI_END="0.14666096370881615" LOG_CI_START="-0.0943825456771098" LOG_EFFECT_SIZE="0.02613920901585312" METHOD="PETO" NO="1" P_CHI2="0.927757645074352" P_Q="1.0" P_Z="0.6707752083886975" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="USER" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="427" TOTAL_2="421" WEIGHT="100.0" Z="0.4250843209672271">
+<NAME>Attendance to the mammogram invitation during the following 12 months</NAME>
+<GROUP_LABEL_1>Intervention</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours intervention</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.6745102289894114" CI_START="0.6501258128457367" EFFECT_SIZE="1.043380239289705" ESTIMABLE="YES" EVENTS_1="51" EVENTS_2="48" LOG_CI_END="0.22388780483503065" LOG_CI_START="-0.18700259022276824" LOG_EFFECT_SIZE="0.018442607306131238" ORDER="1" O_E="0.728971962616825" SE="0.24135905199720956" STUDY_ID="STD-Sung-1992" TOTAL_1="163" TOTAL_2="158" VAR="17.16614660669054" WEIGHT="34.41429717689634"/>
+<DICH_DATA CI_END="1.5100719406462622" CI_START="0.7609531885497258" EFFECT_SIZE="1.0719580487007154" ESTIMABLE="YES" EVENTS_1="122" EVENTS_2="117" LOG_CI_END="0.17899763781069097" LOG_CI_START="-0.11864205884026635" LOG_EFFECT_SIZE="0.030177789485212284" ORDER="24124" O_E="2.2732447817836743" SE="0.17483503115303248" STUDY_ID="STD-Hoare-1994" TOTAL_1="264" TOTAL_2="263" VAR="32.714711103269735" WEIGHT="65.58570282310366"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

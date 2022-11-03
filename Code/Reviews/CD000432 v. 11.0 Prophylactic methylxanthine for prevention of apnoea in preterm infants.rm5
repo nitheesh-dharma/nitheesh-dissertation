@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD000432.pub2" GROUP_ID="NEONATAL" ID="409499091720455183" MERGED_FROM="" MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.2.7&lt;br&gt;Short title (no longer in use): Prophylactic methylxanthine in preterm infants&lt;/p&gt;&lt;p&gt;&lt;br&gt;CL 2/02 (do not remove)&lt;/p&gt;&lt;p&gt;sent for update Oct/03&lt;/p&gt;&lt;p&gt;sent for update Jan 9-06&lt;/p&gt;&lt;p&gt;CL 2/06 (minor update)&lt;/p&gt;" NOTES_MODIFIED="2012-04-18 14:27:16 -0400" NOTES_MODIFIED_BY="Diane Haughton" REVIEW_NO="002" REVMAN_SUB_VERSION="5.1.6" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="11.0">
+<COVER_SHEET MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton">
+<TITLE MODIFIED="2010-10-08 21:09:24 -0400" MODIFIED_BY="[Empty name]">Prophylactic methylxanthine for prevention of apnoea in preterm infants</TITLE>
+<CONTACT MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton"><PERSON ID="5306" ROLE="AUTHOR"><PREFIX>Mrs</PREFIX><FIRST_NAME>Diane</FIRST_NAME><LAST_NAME>Haughton</LAST_NAME><POSITION>Managing Editor, Cochrane Neonatal Group</POSITION><EMAIL_1>haughton@mcmaster.ca</EMAIL_1><URL>http://cochrane.mcmaster.ca/neonatal/</URL><ADDRESS><DEPARTMENT>Department of Pediatrics and Clinical Epidemiology and Biostatistics</DEPARTMENT><ORGANISATION>McMaster University</ORGANISATION><ADDRESS_1>1280 Main Street West</ADDRESS_1><ADDRESS_2>CRL, Room B102</ADDRESS_2><CITY>Hamilton</CITY><ZIP>L8S 4K1</ZIP><REGION>Ontario</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 905 525 9140 ext: 22897</PHONE_1><FAX_1>+1 905 521 5007</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton"><PERSON ID="4691" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>David</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Henderson-Smart</LAST_NAME><ADDRESS><DEPARTMENT>(Deceased) Central Clinical School</DEPARTMENT><ORGANISATION>Faculty of Medicine, University of Sydney</ORGANISATION><CITY>Sydney</CITY><COUNTRY CODE="AU">Australia</COUNTRY></ADDRESS></PERSON><PERSON ID="6C6D419F82E26AA201AA8B42EEDD0B93" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Antonio</FIRST_NAME><MIDDLE_INITIALS>G</MIDDLE_INITIALS><LAST_NAME>De Paoli</LAST_NAME><SUFFIX>FRACP</SUFFIX><POSITION>Neonatologist</POSITION><EMAIL_1>antonio.depaoli@dhhs.tas.gov.au</EMAIL_1><ADDRESS><DEPARTMENT>Department of Paediatrics</DEPARTMENT><ORGANISATION>Royal Hobart Hospital</ORGANISATION><ADDRESS_1>Department of Paediatrics, Royal Hobart Hospital</ADDRESS_1><ADDRESS_2>GPO Box 1061</ADDRESS_2><CITY>Hobart</CITY><ZIP>7001</ZIP><REGION>Tasmania</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 3 62227946</PHONE_1><PHONE_2>+61 419 117016</PHONE_2><FAX_1>+61 3 62264864</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2010-12-07 12:22:09 -0500" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Minor update: 17/01/06&lt;/p&gt;&lt;p&gt;New studies found and included or excluded: 17/01/06&lt;/p&gt;&lt;p&gt;Reformatted: 17/09/99&lt;/p&gt;" NOTES_MODIFIED="2010-12-07 12:22:09 -0500" NOTES_MODIFIED_BY="Diane Haughton">
+<UP_TO_DATE>
+<DATE DAY="29" MONTH="9" YEAR="2010"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="3" MONTH="8" YEAR="2010"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="29" MONTH="9" YEAR="2012"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="1996"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="1999"/>
+<LAST_CITATION_ISSUE ISSUE="12" YEAR="2010"/>
+</DATES>
+<WHATS_NEW MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton"><WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton"><DATE DAY="25" MONTH="2" YEAR="2013"/><DESCRIPTION><P>Contact details updated.</P></DESCRIPTION></WHATS_NEW_ENTRY>
+
+</WHATS_NEW>
+<HISTORY MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton"><WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2013-02-25 20:01:23 +0000" MODIFIED_BY="Diane Haughton">
+<DATE DAY="18" MONTH="4" YEAR="2012"/>
+<DESCRIPTION>
+<P>Contact person changed.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2012-04-18 14:27:05 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="7" MONTH="12" YEAR="2010"/>
+<DESCRIPTION>
+<P>Contact details updated.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2010-12-07 12:22:09 -0500" MODIFIED_BY="Diane Haughton">
+<DATE DAY="3" MONTH="8" YEAR="2010"/>
+<DESCRIPTION>
+<P>This update includes the addition of outcomes from a subgroup of the CAP Trial 2006 (<LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK>).</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2010-12-07 12:22:09 -0500" MODIFIED_BY="Diane Haughton">
+<DATE DAY="3" MONTH="8" YEAR="2010"/>
+<DESCRIPTION>
+<P>This updates the review "Prophylactic methylxanthine for prevention of apnea in preterm infants" published in the Cochrane Database of Systematic Reviews.</P>
+<P>New co-author Antonio De Paoli.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2010-11-07 15:24:27 -0500" MODIFIED_BY="[Empty name]">
+<DATE DAY="12" MONTH="8" YEAR="2009"/>
+<DESCRIPTION>
+<P>Corrections made to citations in 'Studies awaiting classification'.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2009-08-13 09:52:13 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="24" MONTH="6" YEAR="2008"/>
+<DESCRIPTION>
+<P>This review updates the existing review of 'Prophylactic methylxanthine for prevention of apnea in preterm infants' published in The Cochrane Database of Systematic Reviews, Disk Issue 2, 2006 (Henderson-Smart 2006). </P>
+<P>Outcomes have been updated. A new trial (CAP TRIAL 2006; 'Studies awaiting classification') has been added.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2010-09-28 20:32:05 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="17" MONTH="1" YEAR="2006"/>
+<DESCRIPTION>
+<P>This review updates the existing review of 'Prophylactic methylxanthine for prevention of apnea in preterm infants' which was published in The Cochrane Library, Disk Issue 2, 2002.<BR/>
+<BR/>The search strategy has been updated to include the databases, EMBASE and CINAHL. One new trial was identified as a result of the most recent search and was excluded.<BR/>
+<BR/>Therefore, there is no change in the conclusion that there is no evidence from randomized trials to support the use of prophylactic methylxanthine in preterm infants at risk of apnea, bradycardia or hypoxemic episodes.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="4" MONTH="2" YEAR="1999"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT MODIFIED="2010-11-09 11:18:19 -0500" MODIFIED_BY="[Empty name]">
+<INTERNAL_SOURCES MODIFIED="2010-08-06 07:03:13 -0400" MODIFIED_BY="[Empty name]">
+<SOURCE>
+<NAME>NSW Centre for Perinatal Health Services Research, University of Sydney</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Royal Prince Alfred Hospital, Sydney</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE MODIFIED="2010-08-06 07:03:13 -0400" MODIFIED_BY="[Empty name]">
+<NAME>Department of Paediatrics, Royal Hobart Hospital, Hobart</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES MODIFIED="2010-11-09 11:18:19 -0500" MODIFIED_BY="[Empty name]">
+<SOURCE MODIFIED="2010-11-09 11:17:43 -0500" MODIFIED_BY="[Empty name]">
+<NAME>CAP Trial members, Barbara Schmit and Peter Davis</NAME>
+<COUNTRY CODE="CA">Canada</COUNTRY>
+<DESCRIPTION>
+<P>Information about the CAP trial methodology and subgroup outcomes</P>
+</DESCRIPTION>
+</SOURCE>
+<SOURCE MODIFIED="2010-11-09 11:17:55 -0500" MODIFIED_BY="[Empty name]">
+<NAME>Bucher provided additional trial information</NAME>
+<COUNTRY CODE="CH">Switzerland</COUNTRY>
+<DESCRIPTION>
+<P>Additional evidence about types of apnoea and bradycardia.</P>
+</DESCRIPTION>
+</SOURCE>
+<SOURCE MODIFIED="2010-11-09 11:18:19 -0500" MODIFIED_BY="[Empty name]">
+<NAME>Peter Steer</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION>
+<P>Played an important role in earlier versions of this review</P>
+</DESCRIPTION>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2010-11-09 11:06:58 -0500" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2010-11-09 11:05:05 -0500" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2010-10-08 21:10:39 -0400" MODIFIED_BY="[Empty name]">Prophylactic methylxanthine for prevention of apnoea in preterm infants</TITLE>
+<SUMMARY_BODY MODIFIED="2010-11-09 11:05:05 -0500" MODIFIED_BY="[Empty name]">
+<P>Apnea is a pause in breathing of greater than 20 seconds. It may occur repeatedly in preterm babies (born before 34 weeks). Methylyxanthines (such as theophylline and caffeine) are drugs that are believed to stimulate breathing efforts and have been used to reduce apnoea. It has been suggested that preterm babies with apnoea should receive prophylactic caffeine as a preventative measure.</P>
+<P>Two small studies and one large study were identified. The two small studies enrolled infants given caffeine as a preventative measure. Neither study demonstrated any decrease in apnoea or other short term complications.</P>
+<P>The one large study included a heterogeneous group of infants who received therapy for a variety of indications (prevention, treatment and avoidance of post-extubation apnoea of prematurity). In this overall population there was an improvement in clinical outcome at hospital discharge and developmental outcome at 18 to 21 months; however, these benefits could not be proven in the subpopulation who received prophylactic caffeine. A decrease in PDA was noted in this subpopulation.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2010-11-07 15:29:02 -0500" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND MODIFIED="2010-10-11 17:28:06 -0400" MODIFIED_BY="[Empty name]">
+<P>Recurrent apnoea is common in preterm infants. These episodes can lead to hypoxaemia and bradycardia, which may be severe enough to require the use of positive pressure ventilation. In infants with apnoea, methylxanthine treatment has been used successfully to prevent further episodes. It is possible that prophylactic therapy given to all very preterm infants soon after birth might prevent apnoea and the need for additional ventilator support.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2010-10-08 21:09:49 -0400" MODIFIED_BY="[Empty name]">
+<P>To determine the effect of prophylactic treatment with methylxanthine on apnoea, bradycardia, episodes of hypoxaemia, use of mechanical ventilation, and morbidity in preterm infants at risk for apnoea of prematurity</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2010-10-08 21:30:38 -0400" MODIFIED_BY="[Empty name]">
+<P>The standard search strategy of the Neonatal Review Group was updated in August 2010. This included searches of the Cochrane Central Register of Controlled Trials, Oxford Database of Perinatal Trials, MEDLINE, CINAHL and EMBASE.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2010-10-08 21:51:04 -0400" MODIFIED_BY="[Empty name]">
+<P>All trials using random or quasi-random patient allocation in which prophylactic methylxanthine (caffeine or theophylline) was compared with placebo or no treatment in preterm infants were eligible.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION MODIFIED="2010-10-08 21:30:56 -0400" MODIFIED_BY="[Empty name]">
+<P>The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2010-11-07 15:29:02 -0500" MODIFIED_BY="[Empty name]">
+<P>Three studies were eligible for inclusion in the review. Two small studies (randomising a total of 104 infants) evaluated the effect of prophylactic caffeine on short term outcomes. There were no meaningful differences between the caffeine and placebo groups in the number of infants with apnoea, bradycardia, hypoxaemic episodes, use of IPPV or side effects in either of the studies. Only two outcomes (use of IPPV and tachycardia) were common to the two studies and meta-analysis showed no substantive differences between the groups. One large trial of caffeine therapy (CAP 2006) in a heterogeneous group of infants at risk for and having apnoea of prematurity demonstrated an improved rate of survival without developmental disability at 18 to 21 months corrected age. The reports of the subgroup of infants treated with prophylactic caffeine did not demonstrate any significant differences in clinical outcomes except for a decrease in the risk of PDA ligation.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS MODIFIED="2010-10-08 22:08:24 -0400" MODIFIED_BY="[Empty name]">
+<P>The results of this review do not support the use of prophylactic caffeine for preterm infants at risk of apnoea.</P>
+<P>Any future studies need to examine the effects of prophylactic methylxanthines in preterm infants at higher risk of apnoea. This should include examination of important clinical outcomes such as need for IPPV, neonatal morbidity, length of hospital stay and long term development. </P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2010-11-09 11:06:27 -0500" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2010-11-09 11:05:21 -0500" MODIFIED_BY="[Empty name]">
+<CONDITION MODIFIED="2010-10-08 21:11:19 -0400" MODIFIED_BY="[Empty name]">
+<P>Recurrent episodes of apnoea are common in preterm infants and the incidence as well as the severity increases at lower gestational ages (<LINK REF="REF-Henderson_x002d_Smart-1995" TYPE="REFERENCE">Henderson-Smart 1995</LINK>). Although apnoea can occur spontaneously and be attributed to prematurity alone, it can also be provoked or made more severe if there is an additional insult such as infection, hypoxaemia or intracranial pathology. The American Academy of Pediatrics defines infant apnoea as a pause in breathing of greater than 20 seconds, or one of less than 20 seconds if with bradycardia and/or cyanosis (<LINK REF="REF-AAP-2003" TYPE="REFERENCE">AAP 2003</LINK>). The definition, diagnosis, and treatment (drugs and assisted ventilation therapy) of apnoea of prematurity have been reviewed (<LINK REF="REF-Finer-2006" TYPE="REFERENCE">Finer 2006</LINK>).</P>
+</CONDITION>
+<INTERVENTION MODIFIED="2010-10-08 22:09:25 -0400" MODIFIED_BY="[Empty name]">
+<P>Methylxanthines are thought to stimulate breathing efforts and have been used in clinical practice to reduce apnoea since the 1970's. Theophylline and caffeine are two forms of methylxanthine that have been used and they are effective for the treatment of infants with recurrent apnoea (<LINK REF="REF-Henderson_x002d_Smart-2009" TYPE="REFERENCE">Henderson-Smart 2009</LINK>). Their mechanism of action is not certain. Possibilities include increased chemoreceptor responsiveness (based on increased breathing responsiveness to CO<SUB>2</SUB>), enhanced respiratory muscle performance and generalised central nervous system excitation.</P>
+</INTERVENTION>
+<THEORY MODIFIED="2010-11-09 11:05:21 -0500" MODIFIED_BY="[Empty name]">
+<P>In the treatment of apnoea, caffeine has similar effects to theophylline (<LINK REF="REF-Henderson_x002d_Smart-2010" TYPE="REFERENCE">Henderson-Smart 2010</LINK>), but has potential therapeutic advantages due to the larger gap between therapeutic blood levels and those levels associated with toxic effects, more reliable enteral absorption and the longer half life which allows once daily administration (<LINK REF="REF-Blanchard-1992" TYPE="REFERENCE">Blanchard 1992</LINK>).</P>
+</THEORY>
+<IMPORTANCE MODIFIED="2010-10-11 17:29:10 -0400" MODIFIED_BY="[Empty name]">
+<P>If prolonged, apnoea can lead to hypoxaemia and reflex bradycardia which may require active resuscitative efforts to reverse. There are clinical concerns that these episodes might be harmful to the developing brain or cause dysfunction of the gut or other organs (<LINK REF="REF-Henderson_x002d_Smart-1995" TYPE="REFERENCE">Henderson-Smart 1995</LINK>). Frequent episodes may be accompanied by respiratory failure of sufficient severity as to lead to intubation and the use of intermittent positive pressure ventilation (IPPV).</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2010-10-08 21:11:46 -0400" MODIFIED_BY="[Empty name]">
+<P>To determine the effect of prophylactic treatment with methylxanthine on apnoea, bradycardia, episodes of hypoxaemia, use of mechanical ventilation, and morbidity in preterm infants at risk for apnoea of prematurity.</P>
+<P>To evaluate a difference in response depending on quality of the study, type (caffeine or theophylline) or dose of methylxanthine, gestational age at birth, postnatal age at study entry, or duration of treatment.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2010-11-09 11:05:35 -0500" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2010-11-07 15:33:37 -0500" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES MODIFIED="2010-10-11 17:29:23 -0400" MODIFIED_BY="[Empty name]">
+<P>All trials utilising random or quasi-random patient allocation in which treatment was compared with placebo or no treatment were eligible.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS MODIFIED="2010-10-11 17:29:26 -0400" MODIFIED_BY="[Empty name]">
+<P>Preterm infants, particularly those born at less than 34 weeks gestation who are at risk of developing recurrent apnoea, bradycardia and hypoxic episodes.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2010-10-11 17:29:33 -0400" MODIFIED_BY="[Empty name]">
+<P>Prophylactic methylxanthine (caffeine, theophylline or aminophylline) versus placebo or no treatment.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2010-11-07 15:33:37 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<B>Primary</B>
+</P>
+<OL>
+<LI>Occurrence of recurrent apnoea, bradycardia and hypoxaemia.</LI>
+<LI>Use of CPAP and/or IPPV.</LI>
+<LI>Death before hospital discharge.</LI>
+</OL>
+<P>
+<B>Secondary</B>
+</P>
+<OL>
+<LI>Acute drug side effects (tachycardia or feed intolerance leading to omission of treatment).</LI>
+<LI>Neonatal morbidity such as - patent ductus arteriosus requiring treatment, intracranial haemorrhage, necrotizing enterocolitis.</LI>
+<LI>Duration of IPPV.</LI>
+<LI>Duration of oxygen therapy.</LI>
+<LI>Chronic lung disease indicated by respiratory support (oxygen &amp;/or positive airway pressure) still given at 36 weeks postmenstrual age.</LI>
+<LI>Longer term outcomes such as growth and neurodevelopmental outcome.</LI>
+</OL>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2010-11-09 11:05:35 -0500" MODIFIED_BY="[Empty name]">
+<P>The standard search strategy of the Neonatal Review Group was used. This included searches of the Cochrane Central Register of Controlled Trials (CENTRAL, <I>The Cochrane Library</I>, Issue 2, 2010), MEDLINE (1966 to August 2010), CINAHL (1982 to August 2010) and EMBASE (1988 to August 2010) using MeSH term preterm infant, and text terms methylxanthines (caffeine, theophylline, aminophylline), apnoea (or apnea), as well as a search of previous reviews including cross references, and conference proceedings including abstracts from the Society for Pediatric Research meeting 2001 to 2010.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2010-11-07 15:34:19 -0500" MODIFIED_BY="[Empty name]">
+<P>The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used. The methodological quality of each trial was reviewed by the second review author blinded to trial authors and institution(s). Additional information was supplied by <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK> to clarify methodology. The manuscript reporting the unpublished results of a trial was supplied by <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK>.</P>
+<P>Each review author extracted data separately, then results were compared and differences resolved. An outcome was analysed if there was more than 80% ascertainment.</P>
+<P>The standard method of the Cochrane Neonatal Review Group was used to analyse the data, utilizing risk ratio (RR) and risk difference (RD) as well as differences in means.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2010-11-09 11:06:27 -0500" MODIFIED_BY="[Empty name]">
+<STUDY_DESCRIPTION MODIFIED="2010-11-09 11:05:55 -0500" MODIFIED_BY="[Empty name]">
+<SEARCH_RESULTS MODIFIED="2010-11-07 15:34:58 -0500" MODIFIED_BY="[Empty name]">
+<P>Details of the three included studies (<LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK>; <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>; <LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK>) are in the table 'Characteristics of Included Studies' and discussed briefly below. One study, <LINK REF="STD-Larsen-1995" TYPE="STUDY">Larsen 1995</LINK>, was excluded due to not having a control group.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2010-11-09 11:05:55 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK> studied preterm infants of less than 33 weeks gestation (mean approximately 30 weeks). <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> entered infants of less than 31 weeks gestation (mean approximately 29 weeks).</P>
+<P>Both studies used a loading dose of 20 mg/kg of caffeine citrate but <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> used 5 mg/kg/day as maintenance, half that used in <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>. While in <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> treatment was continued until the infants reached 32 weeks postmenstrual age, only 96 hours of treatment was given in <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>.</P>
+<P>
+<LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK> did not report apnoea; instead, he recorded episodes of bradycardia and hypoxaemia, which often occur during apnoea. These were obtained from a computerised record of heart rate (bradycardia was defined as a 20% or more fall in heart rate from the baseline within 20 seconds) and transcutaneous oxygen tension (hypoxaemia was defined as a 20% or more fall in oxygen level from the baseline within 20 seconds). <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> used a combination of clinical and polygraphic studies to record apnoea (77% of the tape recordings were acceptable for analysis). <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> defined apnoea as cessation of breathing for 20 seconds or more with associated bradycardia (less than 100/min) or cyanosis.</P>
+<P>The CAP Trial (<LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK>) examined the primary outcome of death or disability at 18 to 21 months corrected age in preterm infants randomised to either caffeine or placebo. Preterm infants were eligible for inclusion in the study if they were deemed to be at risk of apnoea of prematurity, if they were experiencing apnoea of prematurity or if prophylactic methylxanthine was deemed indicated prior to extubation. A report of hospital outcomes of enrolled infants was first published in 2006 (<LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK>). A report of the long term effects of caffeine was published in 2007 and results of a <I>post-hoc</I> subgroup analyses were published in 2010 (<LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK>). The <I>post-hoc</I> subgroup analyses included an analysis of outcomes according to the indication for treatment, which included the subgroup receiving caffeine or placebo for apnoea prophylaxis, and hence is eligible for this review. As randomisation was not stratified according to the indication for inclusion in the CAP Trial, the trial authors note that &#8220;caution should be exercised in the interpretation of these subanalyses&#8221;.</P>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2010-10-11 17:31:04 -0400" MODIFIED_BY="[Empty name]">
+<P>One study, <LINK REF="STD-Larsen-1995" TYPE="STUDY">Larsen 1995</LINK>, was excluded due to not having a control group.</P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2010-10-08 21:16:56 -0400" MODIFIED_BY="[Empty name]">
+<P>Three studies are generally of high quality except that follow-up was incomplete in <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> and <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>. <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK> and <LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK> did not report apnoea.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2010-11-09 11:06:27 -0500" MODIFIED_BY="[Empty name]">
+<P>Two trials (<LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>; <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK>) randomised a total of 104 infants; studied the short term effects of caffeine prophylaxis on apnoea and related symptoms. There were no differences between the caffeine and placebo groups in either of the studies in the number of infants with apnoea (<LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK>), bradycardia, hypoxaemic episodes (<LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>), use of IPPV or side effects (<LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>; <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK>).</P>
+<P>Two trials (<LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK>; <LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK>) reported longer term clinical outcomes. <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> reported on the long term follow-up of 30 (56%) of 54 infants. This was not only incomplete, but was reported by apnoea incidence rather than by trial treatment group. <LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK> did not report apnoea as an outcome, but in the <I>post-hoc</I> analysis of the subgroup enrolled for prevention of apnoea, caffeine was found to reduce the rate of PDA ligation (total of 453 infants, RR 0.4 (95%CI 0.20 to 0.84) and lower the postmenstrual age (PMA) at last positive pressure ventilation (total of 432 infants, mean difference -1.00, 95%CI -1.32 to -0.38). In other outcomes for this subgroup, including the PMA at last oxygen therapy, PMA at last endotracheal tube, bronchopulmonary dyplasia at term, cognitive delay, cerebral palsy, death or major disability, there were no differences.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2010-11-07 15:39:16 -0500" MODIFIED_BY="[Empty name]">
+<SUMMARY_OF_RESULTS MODIFIED="2010-11-07 15:38:17 -0500" MODIFIED_BY="[Empty name]">
+<P>The total number of infants (104) studied in the two trials of <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK> and <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> is small. As a result, the power of these studies is limited to detect only large differences in outcome (e.g. 50% relative risk reduction) even for outcomes which are common, such as bradycardia (&gt; 24 /day) and hypoxaemic episodes (&gt; 12 /day) where, in the study of <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK>, there is more than 60% incidence in the control group and similar outcomes in the treatment group. <LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK> did not report apnoea, but reported that caffeine reduced use of PDA ligation and lower PMA at last positive pressure ventilation in the subgroup of infants randomised for apnoea prophylaxis. Other long term outcomes were not different.</P>
+</SUMMARY_OF_RESULTS>
+<APPLICABILITY_OF_FINDINGS MODIFIED="2010-11-07 15:39:16 -0500" MODIFIED_BY="[Empty name]">
+<P>It is possible that failure to observe an effect of prophylactic caffeine in the <LINK REF="STD-Bucher-1988" TYPE="STUDY">Bucher 1988</LINK> trial was due to measurement of hypoxaemia and mild bradycardia as primary outcomes - events associated with apnoea, rather than apnoea itself. It could be argued that such events might be increased in the treatment group if caffeine increased arousal, movements and metabolic rate. This would minimise any differences due to a reduction in apnoea, if that occurred. In the <LINK REF="STD-Levitt-1988" TYPE="STUDY">Levitt 1988</LINK> trial, however, the clinical events of apnoea and bradycardia were recorded and no differences were found between infants who received prophylactic caffeine and those on placebo.</P>
+<P>The CAP Trial (<LINK REF="STD-CAP-2006" TYPE="STUDY">CAP 2006</LINK>) has originally published outcomes at discharge and growth and development at 18 to 21 months (2006 and 2007). These results include a large number of very low birthweight infants (Caffeine group 1006, placebo group 1000) with any one of the three indications for trial entry (prophylactic prevention of apnoea in 22%, treatment of apnoea in 40% or prophylaxis for endotracheal extubation in 38%). In this trial outcomes in the prophylactic group do not include apnoea frequency or severity, but did provide short and long term follow up outcomes in a large number of infants. It is important to note that randomisation in the CAP Trial was not stratified by indication for enrolment.</P>
+</APPLICABILITY_OF_FINDINGS>
+<QUALITY_OF_EVIDENCE MODIFIED="2010-08-10 22:15:45 -0400" MODIFIED_BY="[Empty name]">
+<P>The trials in this review did not allow subgroup analyses to determine whether the results varied by the type (caffeine or theophylline) or dose of methylxanthine, gestational or postnatal age at study entry, or duration of treatment.</P>
+</QUALITY_OF_EVIDENCE>
+<POTENTIAL_BIASES MODIFIED="2010-10-08 21:14:09 -0400" MODIFIED_BY="[Empty name]">
+<P>There is not enough data in trials on the apnoea outcome.</P>
+</POTENTIAL_BIASES>
+<AGREEMENT MODIFIED="2010-10-11 17:44:57 -0400" MODIFIED_BY="[Empty name]">
+<P>Although no good effect of caffeine used as prophylaxis for apnoea was found in this review, methylxanthines, including caffeine, are known to be effective in reducing existing apnoea and the use of IPPV when used to treat infants with apnoea (<LINK REF="REF-Henderson_x002d_Smart-2009" TYPE="REFERENCE">Henderson-Smart 2009</LINK>). In addition, another review has suggested that methylxanthines prior to extubation might be of benefit in reducing the rate of respiratory failure, which is due in part to hypoventilation and apnoea (<LINK REF="REF-Henderson_x002d_Smart-2008a" TYPE="REFERENCE">Henderson-Smart 2008a</LINK>).</P>
+</AGREEMENT>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2010-10-08 21:14:36 -0400" MODIFIED_BY="[Empty name]">
+<IMPLICATIONS_PRACTICE MODIFIED="2010-10-08 21:14:36 -0400" MODIFIED_BY="[Empty name]">
+<P>The results of this review suggest that the use of prophylactic methylxanthine for preterm infants at risk of apnoea reduces the duration of need for positive pressure ventilation and the rate of PDA ligation. There is no direct data from randomised trials to indicate that the incidence or severity of apnoea itself, or its associated symptoms, is prevented or reduced by the use of methylxanthines for the clinical indication of apnoea prophylaxis in preterm infants.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2010-10-08 21:14:33 -0400" MODIFIED_BY="[Empty name]">
+<P>Any future studies should address the effects of prophylactic methylxanthines in preterm infants at higher risk of apnoea, bradycardia or hypoxaemic episodes, and possibly address the question of whether a higher dose of caffeine might be more effective. These should include examination of important clinical outcomes such as need for IPPV, length of hospital stay and long term development.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2010-11-09 11:06:58 -0500" MODIFIED_BY="[Empty name]">
+<P>Thanks to Dr Levitt for a copy of her unpublished paper and to Prof. Bucher for additional information about his study.</P>
+<P>The Cochrane Neonatal Review Group has been funded in part with Federal funds from the Eunice Kennedy Shriver National Institute of Child Health and Human Development National Institutes of Health, Department of Health and Human Services, USA, under Contract No. HHSN267200603418C.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST MODIFIED="2008-06-26 06:27:03 -0400" MODIFIED_BY="[Empty name]">
+<P>None<BR/>
+</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2010-08-11 06:36:36 -0400" MODIFIED_BY="[Empty name]">
+<P>The initial protocol and review were developed by Henderson-Smart and Steer. This update was done by Henderson-Smart and approved by Antonio De Paoli.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF MODIFIED="2008-07-22 16:24:58 -0400" MODIFIED_BY="[Empty name]">
+<P>This review update has increased the range of outcomes.</P>
+</PRO_REV_DIFF>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2010-11-09 11:24:34 -0500" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2010-11-09 11:17:06 -0500" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES MODIFIED="2010-11-09 11:14:15 -0500" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="MIX" ID="STD-Bucher-1988" NAME="Bucher 1988" YEAR="1988">
+<REFERENCE NOTES="&lt;p&gt;Bucher HU, Duc G. Does caffeine prevent hypoxaemic episodes in premature infants? A randomized controlled trial. Eur J Pediatr 1988;147:288-291.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bucher HU, Duc G</AU>
+<TI>Does caffeine prevent hypoxaemic episodes in premature infants? A randomized controlled trial</TI>
+<SO>European Journal of Pediatrics</SO>
+<YR>1988</YR>
+<VL>147</VL>
+<PG>288-91</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-CAP-2006" MODIFIED="2010-11-09 11:14:15 -0500" MODIFIED_BY="[Empty name]" NAME="CAP 2006" YEAR="2010">
+<REFERENCE MODIFIED="2010-11-09 11:11:49 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Davis PG, Schmidt B, Roberts RS, Doyle LW, Asztalos E, Haslam R, Sinha S, Tin W; Caffeine for Apnea of Prematurity Trial Group</AU>
+<TI>Caffeine for Apnea of Prematurity Trial: benefits may vary in subgroups</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>2010</YR>
+<VL>156</VL>
+<PG>382-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2010-11-09 11:13:10 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schmidt B, Roberts RS, Davis P, Doyle LW, Barrington KJ, Ohlsson A, Solimano A, Tin W; Caffeine for Apnea of Prematurity Trial Group</AU>
+<TI>Caffeine therapy for apnea of prematurity</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2006</YR>
+<VL>354</VL>
+<PG>2112-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE MODIFIED="2010-11-09 11:14:15 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schmidt B, Roberts RS, Davis P, Doyle LW, Barrington KJ, Ohlsson A, Solimano A, Tin W; Caffeine for Apnea of Prematurity Trial Group</AU>
+<TI>Long-term effects of caffeine therapy for apnea of prematurity</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>2007</YR>
+<VL>357</VL>
+<PG>1893-902</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="MIX" ID="STD-Levitt-1988" MODIFIED="2010-10-08 21:21:12 -0400" MODIFIED_BY="[Empty name]" NAME="Levitt 1988" YEAR="1988">
+<REFERENCE MODIFIED="2010-10-08 21:21:12 -0400" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="UNPUBLISHED">
+<AU>Levitt GA, Harvey DR</AU>
+<TI>The use of prophylactic caffeine in the prevention of neonatal apnoeic attacks</TI>
+<SO>Unpublished manuscript</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE NOTES="&lt;p&gt;Levitt GA, Mushin A, Bellman S, Harvey DR. Outcome of preterm infants who suffered neonatal apnoeic attacks. Early Hum Dev 1988;16:235-243.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Levitt GA, Mushin A, Bellman S, Harvey DR</AU>
+<TI>Outcome of preterm infants who suffered neonatal apnoeic attacks</TI>
+<SO>Early Human Development</SO>
+<YR>1988</YR>
+<VL>16</VL>
+<PG>235-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2010-11-09 11:17:06 -0500" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Larsen-1995" NAME="Larsen 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Larsen PB, Brendstrup L, Skov L, Flachs H</AU>
+<TI>Aminophylline versus caffeine citrate for apnea and bradycardia prophylaxis in premature neonates</TI>
+<SO>Acta Paediatrica</SO>
+<YR>1995</YR>
+<VL>84</VL>
+<PG>360-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Welborn-1989" MODIFIED="2010-11-09 11:17:06 -0500" MODIFIED_BY="[Empty name]" NAME="Welborn 1989" YEAR="1989">
+<REFERENCE MODIFIED="2010-11-09 11:16:54 -0500" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Welborn LG, Hannallah RS, Fink R, Ruttimann UE, Hicks JM</AU>
+<TI>High-dose caffeine suppresses postoperative apnea in former preterm infants</TI>
+<SO>Anesthesiology</SO>
+<YR>1989</YR>
+<VL>71</VL>
+<PG>347-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2010-07-09 06:41:31 -0400" MODIFIED_BY="[Empty name]"/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2010-11-09 11:24:34 -0500" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2010-08-10 22:04:24 -0400" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-AAP-2003" MODIFIED="2008-08-11 14:15:56 -0400" MODIFIED_BY="[Empty name]" NAME="AAP 2003" NOTES="&lt;p&gt;Nelson NM. Members of the task force on prolonged apnea of the Americal Academy of Pediatrics. Pediatrics 1978;61:651-652.&lt;/p&gt;" NOTES_MODIFIED="2008-08-11 14:15:56 -0400" NOTES_MODIFIED_BY="[Empty name]" TYPE="JOURNAL_ARTICLE">
+<AU>American Academy of Pediatrics. Policy statement</AU>
+<TI>Apnea, sudden infant death syndrome, and home monitoring</TI>
+<SO>Pediatrics</SO>
+<YR>2003</YR>
+<VL>111</VL>
+<PG>914-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Blanchard-1992" NAME="Blanchard 1992" NOTES="&lt;p&gt;Blanchard PW, Aranda JV. Pharmacotherapy of respiratory control disorders. In: Beckerman RC, Brouillette RT, Hunt CE (eds), Respiratory Control Disorders in Infants and Children. Baltimore: Williams &amp;amp; Wilkins 1992 pp 352-370.&lt;/p&gt;" TYPE="BOOK_SECTION">
+<AU>Blanchard PW, Aranda JV</AU>
+<TI>Pharmacotherapy of respiratory control disorders</TI>
+<SO>Respiratory Control Disorders in Infants and Children</SO>
+<YR>1992</YR>
+<PG>352-70</PG>
+<ED>Beckerman RC, Brouillette RT, Hunt CE</ED>
+<PB>Williams &amp; Wilkins</PB>
+<CY>Baltimore</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Finer-2006" MODIFIED="2008-08-11 14:16:10 -0400" MODIFIED_BY="[Empty name]" NAME="Finer 2006" TYPE="JOURNAL_ARTICLE">
+<AU>Finer NN, Higgins R, Kattwinkel J, Martin RJ</AU>
+<TI>Summary proceedings from the apnea-of-prematurity group</TI>
+<SO>Pediatrics</SO>
+<YR>2006</YR>
+<VL>117 Pt 2</VL>
+<PG>S47-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Henderson_x002d_Smart-1995" MODIFIED="2008-08-11 14:16:22 -0400" MODIFIED_BY="[Empty name]" NAME="Henderson-Smart 1995" NOTES="&lt;p&gt;Henderson-Smart DJ. Recurrent apnea. In: Bailliere's Clinical Paediatrics. Vol 3 No. 1 Pulmonary Problems in the Perinatal Period and their Sequelae. Ed Yu VYH, Bailliere Tindall, London, 1995 pp 203-222.&lt;/p&gt;" NOTES_MODIFIED="2008-08-11 14:16:22 -0400" NOTES_MODIFIED_BY="[Empty name]" TYPE="BOOK_SECTION">
+<AU>Henderson-Smart DJ</AU>
+<TI>Recurrent apnea</TI>
+<SO>Bailliere's Clinical Paediatrics</SO>
+<YR>1995</YR>
+<VL>3, No. 1 Pulmonary Problems in the Perinatal Period and their Sequelae</VL>
+<PG>203-22</PG>
+<ED>Yu VYH</ED>
+<PB>Bailliere Tindall</PB>
+<CY>London</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Henderson_x002d_Smart-2008a" MODIFIED="2008-08-11 14:18:08 -0400" MODIFIED_BY="[Empty name]" NAME="Henderson-Smart 2008a" NOTES="&lt;p&gt;Henderson-Smart DJ, Davis PG. Prophylactic methylxanthine for extubation in preterm infants &lt;br&gt;(Cochrane Review). In: The Cochrane Library; Issue 4, 1997. Oxford: Update Software. &lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2008-08-11 14:18:08 -0400" NOTES_MODIFIED_BY="[Empty name]" TYPE="COCHRANE_REVIEW">
+<AU>Henderson-Smart DJ, Davis PG</AU>
+<TI>Prophylactic methylxanthine for extubation in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2008</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2008-08-11 14:18:08 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-11 14:18:08 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000139"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Henderson_x002d_Smart-2009" MODIFIED="2010-08-10 22:04:24 -0400" MODIFIED_BY="[Empty name]" NAME="Henderson-Smart 2009" NOTES="&lt;p&gt;Henderson-Smart DJ, Steer P. Methylxanthine treatment for apnea in preterm infants. (Cochrane Review) In: The Cochrane Library; Issue 2, 1999; Oxford: Update Software.&lt;/p&gt;" NOTES_MODIFIED="2010-08-10 22:04:24 -0400" NOTES_MODIFIED_BY="[Empty name]" TYPE="COCHRANE_REVIEW">
+<AU>Henderson-Smart DJ, Peter Steer</AU>
+<TI>Methylxanthine treatment for apnea in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2009</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2008-08-11 14:18:35 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-11 14:18:35 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000140"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Henderson_x002d_Smart-2010" MODIFIED="2010-08-10 21:53:42 -0400" MODIFIED_BY="[Empty name]" NAME="Henderson-Smart 2010" NOTES="&lt;p&gt;Steer P, Henderson-Smart DJ. Caffeine vs theophylline treatment for apnea in preterm infants. (Cochrane Review). In: The Cochrane Library; Issue 3, 1998; Oxford: Update Software.&lt;/p&gt;" NOTES_MODIFIED="2010-08-10 21:53:42 -0400" NOTES_MODIFIED_BY="[Empty name]" TYPE="COCHRANE_REVIEW">
+<AU>Henderson-Smart DJ, Steer P</AU>
+<TI>Caffeine vs theophylline treatment for apnea in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2010</YR>
+<NO>1</NO>
+<IDENTIFIERS MODIFIED="2008-08-11 14:19:20 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-11 14:19:20 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000273"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Samuels-1992" NAME="Samuels 1992" NOTES="&lt;p&gt;Samuels MP, Southall DP. Recurrent Apnea. In: Sinclair JC, Bracken MB (eds), Effective Care of the Newborn Infant. Oxford: Oxford University Press 1992 pp 385-397.&lt;/p&gt;" TYPE="BOOK_SECTION">
+<AU>Samuels MP, Southall DP</AU>
+<TI>Recurrent Apnea</TI>
+<SO>Effective Care of the Newborn Infant</SO>
+<YR>1992</YR>
+<PG>385-97</PG>
+<ED>Sinclair JC, Bracken MB</ED>
+<PB>Oxford University Press</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2010-11-09 11:24:34 -0500" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Henderson_x002d_Smar-2009" MODIFIED="2010-11-09 11:24:34 -0500" MODIFIED_BY="[Empty name]" NAME="Henderson-Smar 2009" TYPE="COCHRANE_REVIEW">
+<AU>Henderson-Smart DJ, Steer PA</AU>
+<TI>Prophylactic methylxanthine for prevention of apnea in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2009</YR>
+<NO>4</NO>
+<IDENTIFIERS MODIFIED="2010-11-09 11:24:34 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2010-11-09 11:24:34 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="DOI: 10.1002/14651858.CD000432"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Henderson_x002d_Smart-1999" MODIFIED="2008-08-11 14:23:30 -0400" MODIFIED_BY="[Empty name]" NAME="Henderson-Smart 1999" TYPE="COCHRANE_REVIEW">
+<AU>Henderson-Smart DJ, Steer PA</AU>
+<TI>Prophylactic methylxanthine for prevention of apnea in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>1999</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2008-08-11 14:23:30 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-11 14:23:30 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000432"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Henderson_x002d_Smart-2002" MODIFIED="2008-08-11 14:23:41 -0400" MODIFIED_BY="[Empty name]" NAME="Henderson-Smart 2002" TYPE="COCHRANE_REVIEW">
+<AU>Henderson-Smart DJ, Steer PA</AU>
+<TI>Prophylactic methylxanthine for prevention of apnea in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2002</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2008-08-11 14:23:41 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-11 14:23:41 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000432"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Henderson_x002d_Smart-2006" MODIFIED="2010-11-09 11:22:21 -0500" MODIFIED_BY="[Empty name]" NAME="Henderson-Smart 2006" TYPE="COCHRANE_REVIEW">
+<AU>Henderson-Smart DJ, Steer PA</AU>
+<TI>Prophylactic methylxanthine for prevention of apnea in preterm infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2006</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2008-08-11 14:23:55 -0400" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2008-08-11 14:23:55 -0400" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD000432"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2010-11-09 11:08:47 -0500" MODIFIED_BY="[Empty name]">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2010-11-09 11:08:47 -0500" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2010-11-09 11:07:35 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Bucher-1988">
+<CHAR_METHODS MODIFIED="2010-10-08 21:14:56 -0400" MODIFIED_BY="[Empty name]">
+<P>Concealment of randomisation - yes; blinding of intervention - yes; follow up complete; blinding of outcome assessment - yes.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2010-11-09 11:07:19 -0500" MODIFIED_BY="[Empty name]">
+<P>50 preterm infants &lt;33 weeks gestation (stratified into those born at 26-29, 30-32 weeks), 48 hrs old, spontaneous breathing for 24 hrs, in a single centre.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-11-09 11:07:35 -0500" MODIFIED_BY="[Empty name]">
+<P>Caffeine citrate 20 mg/kg load at 48 hrs and 10 mg/kg at 72 and 96 hrs of age. Total duration of study period 96 hrs.<BR/>Saline placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2010-11-09 11:07:22 -0500" MODIFIED_BY="[Empty name]">
+<P>Polygraph recording of bradycardia (&gt;20% fall in heart rate from baseline within 20 sec); hypoxaemic episodes (&gt;20% decrease from baseline within 20 sec); use of IPPV; tachycardia</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-11-09 11:08:27 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-CAP-2006">
+<CHAR_METHODS MODIFIED="2010-11-09 09:31:20 -0500" MODIFIED_BY="[Empty name]">
+<P>Concealment of randomisation - yes (off site in pharmacy); blinding of intervention - yes in 90.5%; follow up 96% for perinatal outcomes, also follow-up to 18-21months; blinding of outcome assessment - yes.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2010-11-09 10:20:47 -0500" MODIFIED_BY="[Empty name]">
+<P>The overall reporting of the CAP trial contained 2006 infants with birth weights of 500 to 1250 g during the<BR/>first 10 days of life who entered the trial because they were to be given prophylactic therapy to prevent apnoea, treatment of recurrent apnoea or to facilitate extubation. Davis 2010 reports a <I>post-hoc</I> subgroup analysis including an analysis of outcomes according to the indication for treatment, which included the subgroup receiving caffeine or placebo for apnoea prophylaxis, and hence is eligible for this review (Davis PG et al 2010).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-10-08 21:15:27 -0400" MODIFIED_BY="[Empty name]">
+<P>Caffeine citrate 20 mg/kg loading dose and 5 mg/kg daily (1006 infants) vs placebo of normal saline (1000 infants) commenced at an average of 3 days. The maintenance study drug could be doubled if there was concern about increased apnoea or reduced if there was concern about toxicity. Infants were eligible if they had apnoea, or if prevention of apnoea or assistance prior to endotracheal extubation was considered necessary in the first ten days of life by the treating clinician. In this review only the results of the post-hoc subgroup analysis of the infants treated to prevent apnoea are included.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2010-11-09 11:08:27 -0500" MODIFIED_BY="[Empty name]">
+<P>The total number of infants evaluated for in each outcome are given in brackets. The outcomes in the perinatal period up to term corrected age, included age at last oxygen therapy (431), age at last positive pressure ventilation (432) and endotracheal intubation (432). Patent ductus arteriosus ligation (453) and bronchopulmonary dysplasia at 36 weeks postmenstrual age (437). The longer term outcomes of this study included death or major disability (423), cognitive delay (396), cerebral palsy (415), at a corrected age of 18 to 21 months.</P>
+<P>Apnea outcomes were not reported.</P>
+<P>Only the outcomes for infants enrolled for prophylactic prevention of apnoea in the CAP Trial 2010 were used in this review.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2010-10-08 21:15:39 -0400" MODIFIED_BY="[Empty name]">
+<P>In the whole CAP Trial the birth characteristics of mothers and infants in the caffeine and placebo groups were similar across the multiple centres in various countries. Antenatal corticosteroids 88% vs 87%, chorioamnionitis 14% vs 13%, caesarean section 62% vs 63%.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2010-11-09 11:08:47 -0500" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Levitt-1988">
+<CHAR_METHODS MODIFIED="2010-10-08 21:15:56 -0400" MODIFIED_BY="[Empty name]">
+<P>Concealment of randomisation - yes (off site in pharmacy); blinding of intervention - yes ; follow up 96% for apnoea; blinding of outcome assessment - yes.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2010-11-09 11:08:41 -0500" MODIFIED_BY="[Empty name]">
+<P>54 preterm infants born at &lt;31 weeks, randomised within 24 hrs of birth or on endotracheal extubation in the first week of age.<BR/>Exclusions - major congenital abnormality, intraventricular haemorrhage, congestive heart failure, metabolic disorder, septicaemia.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2010-11-09 11:08:47 -0500" MODIFIED_BY="[Empty name]">
+<P>Caffeine citrate 20 mg/kg load and 5 mg/kg/day until 32 weeks post menstrual age.<BR/>Saline placebo.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2010-10-08 21:16:04 -0400" MODIFIED_BY="[Empty name]">
+<P>Apnea &gt;20 sec with bradycardia (&lt;100 bpm) or cyanosis, use of IPPV, withdrawal for definitive caffeine treatment (open label), tachycardia, hyponatraemia.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>30 of 54 (56%) followed up to 16-36 months for neurodevelopmental assessment. Not reported by treatment group.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2010-10-08 21:16:26 -0400" MODIFIED_BY="[Empty name]" SORT_BY="STUDY">
+<EXCLUDED_CHAR MODIFIED="2010-10-08 21:16:23 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Larsen-1995">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2010-10-08 21:16:23 -0400" MODIFIED_BY="[Empty name]">
+<P>This trial compared aminophylline with caffeine citrate without a placebo or no treatment control group</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2010-10-08 21:16:26 -0400" MODIFIED_BY="[Empty name]" STUDY_ID="STD-Welborn-1989">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2010-10-08 21:16:26 -0400" MODIFIED_BY="[Empty name]">
+<P>Caffeine was compared with placebo in infants born at 37 weeks or less who have at term equivalent age an operation for inguinal hernia repair. The aim being to prevent postoperative apnoea.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2010-07-09 06:41:31 -0400" MODIFIED_BY="[Empty name]" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2010-11-07 15:44:18 -0500" MODIFIED_BY="[Empty name]">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" MODIFIED="2010-07-13 06:09:17 -0400" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Bucher-1988">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-CAP-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Levitt-1988">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2010-10-08 21:27:34 -0400" MODIFIED_BY="[Empty name]" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-10-08 21:26:56 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bucher-1988">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-10-08 21:15:41 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-CAP-2006">
+<DESCRIPTION>
+<P>Blinded randomisation</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-10-08 21:27:34 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Levitt-1988">
+<DESCRIPTION>
+<P>Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" MODIFIED="2010-11-07 15:44:18 -0500" MODIFIED_BY="[Empty name]" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-03.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-07-20 06:33:35 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bucher-1988">
+<DESCRIPTION>
+<P>Intervention and outcome assessment</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-07-20 06:36:06 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-CAP-2006">
+<DESCRIPTION>
+<P>Application to infants and assessment of outcomes</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-03.01" MODIFIED="2010-11-07 15:44:18 -0500" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Levitt-1988">
+<DESCRIPTION>
+<P>Treatment and outcome assessment</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" MODIFIED="2010-10-08 21:27:01 -0400" MODIFIED_BY="[Empty name]" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA_ENTRY_GROUP ID="QIG-04.01" NO="1">
+<NAME>All outcomes</NAME>
+</QUALITY_ITEM_DATA_ENTRY_GROUP>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-10-08 21:27:01 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Bucher-1988">
+<DESCRIPTION>
+<P>Apnoea not measured</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-08-10 22:32:32 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-CAP-2006">
+<DESCRIPTION>
+<P>Apnea not reported</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY GROUP_ID="QIG-04.01" MODIFIED="2010-10-08 21:16:16 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Levitt-1988">
+<DESCRIPTION>
+<P>0nly 4% missed follow up for apnoea</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" MODIFIED="2010-07-20 06:41:05 -0400" MODIFIED_BY="[Empty name]" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Bucher-1988">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-07-20 06:38:07 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-CAP-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2010-07-20 06:41:05 -0400" MODIFIED_BY="[Empty name]" RESULT="YES" STUDY_ID="STD-Levitt-1988">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" MODIFIED="2010-07-13 06:09:17 -0400" MODIFIED_BY="[Empty name]" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Bucher-1988">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-CAP-2006">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Levitt-1988">
+<DESCRIPTION/>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES" MODIFIED="2010-10-08 21:20:23 -0400" MODIFIED_BY="[Empty name]">
+<COMPARISON ID="CMP-001" MODIFIED="2010-10-08 21:20:23 -0400" MODIFIED_BY="[Empty name]" NO="1">
+<NAME>All infants</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.453042767964657" CI_START="0.5169229204197662" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.8666666666666667" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="15" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.16227839724207097" LOG_CI_START="-0.2865742107397599" LOG_EFFECT_SIZE="-0.062147906748844454" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.5873010789831332" Q="0.0" RANDOM="NO" SCALE="2.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="27" TOTAL_2="27" WEIGHT="100.0" Z="0.5427512585477484">
+<NAME>Apnea (more than 4/day)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.453042767964657" CI_START="0.5169229204197662" EFFECT_SIZE="0.8666666666666667" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="15" LOG_CI_END="0.16227839724207097" LOG_CI_START="-0.2865742107397599" LOG_EFFECT_SIZE="-0.062147906748844454" ORDER="12" O_E="0.0" SE="0.2636582437847706" STUDY_ID="STD-Levitt-1988" TOTAL_1="27" TOTAL_2="27" VAR="0.06951566951566951" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.495691912076688" CI_START="0.4912066927813611" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.8571428571428571" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="14" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="0.17484214522330907" LOG_CI_START="-0.30873572448453557" LOG_EFFECT_SIZE="-0.06694678963061322" METHOD="MH" MODIFIED="2008-08-13 13:54:55 -0400" MODIFIED_BY="[Empty name]" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.5873522073081638" Q="0.0" RANDOM="NO" SCALE="2.0723936906069773" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="27" TOTAL_2="27" WEIGHT="100.0" Z="0.5426770114019257">
+<NAME>Apnea (more than 10/day)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.495691912076688" CI_START="0.4912066927813611" EFFECT_SIZE="0.8571428571428571" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="14" LOG_CI_END="0.17484214522330907" LOG_CI_START="-0.30873572448453557" LOG_EFFECT_SIZE="-0.06694678963061322" ORDER="13" O_E="0.0" SE="0.2840560344154489" STUDY_ID="STD-Levitt-1988" TOTAL_1="27" TOTAL_2="27" VAR="0.0806878306878307" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.1511844186376445" CI_START="0.7947760781125575" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9565217391304348" ESTIMABLE="YES" EVENTS_1="22" EVENTS_2="23" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.06114490276186485" LOG_CI_START="-0.09975521315263809" LOG_EFFECT_SIZE="-0.01930515519538663" METHOD="MH" MODIFIED="2010-08-11 20:01:28 -0400" MODIFIED_BY="[Empty name]" NO="3" P_CHI2="1.0" P_Q="1.0" P_Z="0.6381251899573298" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="25" TOTAL_2="25" WEIGHT="100.0" Z="0.470321710880801">
+<NAME>Bradycardia (more than 12/day)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.1511844186376445" CI_START="0.7947760781125575" EFFECT_SIZE="0.9565217391304348" ESTIMABLE="YES" EVENTS_1="22" EVENTS_2="23" LOG_CI_END="0.06114490276186485" LOG_CI_START="-0.09975521315263809" LOG_EFFECT_SIZE="-0.01930515519538663" MODIFIED="2010-08-11 20:01:28 -0400" MODIFIED_BY="[Empty name]" ORDER="14" O_E="0.0" SE="0.09451352455659809" STUDY_ID="STD-Bucher-1988" TOTAL_1="25" TOTAL_2="25" VAR="0.00893280632411067" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.647291244045848" CI_START="0.6906961849583598" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0666666666666667" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="15" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="0.21677039000150436" LOG_CI_START="-0.1607129428010173" LOG_EFFECT_SIZE="0.028028723600243534" METHOD="MH" MODIFIED="2010-08-11 20:02:32 -0400" MODIFIED_BY="[Empty name]" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.7710048671457662" Q="0.0" RANDOM="NO" SCALE="2.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="25" TOTAL_2="25" WEIGHT="100.0" Z="0.2910607383973919">
+<NAME>Bradycardia (more than 24/day)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.6472912440458478" CI_START="0.6906961849583599" EFFECT_SIZE="1.0666666666666667" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="15" LOG_CI_END="0.21677039000150428" LOG_CI_START="-0.16071294280101722" LOG_EFFECT_SIZE="0.028028723600243534" MODIFIED="2010-08-11 20:02:32 -0400" MODIFIED_BY="[Empty name]" ORDER="15" O_E="0.0" SE="0.22173557826083445" STUDY_ID="STD-Bucher-1988" TOTAL_1="25" TOTAL_2="25" VAR="0.04916666666666664" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.5155389939971577" CI_START="0.6598312573684102" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="16" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="0.1805671150091036" LOG_CI_START="-0.18056711500910358" LOG_EFFECT_SIZE="0.0" METHOD="MH" MODIFIED="2010-08-11 07:29:14 -0400" MODIFIED_BY="[Empty name]" NO="5" P_CHI2="1.0" P_Q="1.0" P_Z="1.0" Q="0.0" RANDOM="NO" SCALE="2.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="25" TOTAL_2="25" WEIGHT="100.0" Z="0.0">
+<NAME>Hypoxemic episodes (more than 12/day)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.5155389939971577" CI_START="0.6598312573684102" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="16" LOG_CI_END="0.1805671150091036" LOG_CI_START="-0.18056711500910358" LOG_EFFECT_SIZE="0.0" MODIFIED="2010-08-11 07:29:14 -0400" MODIFIED_BY="[Empty name]" ORDER="16" O_E="0.0" SE="0.21213203435596423" STUDY_ID="STD-Bucher-1988" TOTAL_1="25" TOTAL_2="25" VAR="0.04499999999999999" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.9565396395938761" CI_START="0.4038371831577771" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.8888888888888888" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="9" I2="0.0" I2_Q="100.00000000000001" ID="CMP-001.06" LOG_CI_END="0.2914886511544056" LOG_CI_START="-0.39379369604916825" LOG_EFFECT_SIZE="-0.05115252244738131" METHOD="MH" MODIFIED="2008-08-13 13:55:17 -0400" MODIFIED_BY="[Empty name]" NO="6" P_CHI2="1.0" P_Q="0.0" P_Z="0.7698272575080373" Q="1.1885739085361228E-33" RANDOM="NO" SCALE="2.5081294769081444" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="27" TOTAL_2="27" WEIGHT="100.0" Z="0.29260085897254584">
+<NAME>Withdrawal for definitive caffeine treatment</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.9565396395938761" CI_START="0.4038371831577771" EFFECT_SIZE="0.8888888888888888" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="9" LOG_CI_END="0.2914886511544056" LOG_CI_START="-0.39379369604916825" LOG_EFFECT_SIZE="-0.05115252244738131" ORDER="17" O_E="0.0" SE="0.40253824294970664" STUDY_ID="STD-Levitt-1988" TOTAL_1="27" TOTAL_2="27" VAR="0.16203703703703703" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.18508640543153654" CI_END="2.3608906438864166" CI_START="0.15248482640745292" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RR" EFFECT_SIZE="0.6" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="5" I2="0.0" I2_Q="0.0" ID="CMP-001.07" LOG_CI_END="0.3730758710869424" LOG_CI_START="-0.8167733703196551" LOG_EFFECT_SIZE="-0.22184874961635637" METHOD="MH" MODIFIED="2008-08-13 13:55:25 -0400" MODIFIED_BY="[Empty name]" NO="7" P_CHI2="0.6670380246764058" P_Q="1.0" P_Z="0.4648554852310367" Q="0.0" RANDOM="NO" SCALE="15.43314119213444" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="52" TOTAL_2="52" WEIGHT="100.0" Z="0.7308750455633846">
+<NAME>Use of IPPV</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="15.116785694102392" CI_START="0.06615162907218672" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="1" LOG_CI_END="1.1794594562633327" LOG_CI_START="-1.1794594562633327" LOG_EFFECT_SIZE="0.0" ORDER="18" O_E="0.0" SE="1.3856406460551018" STUDY_ID="STD-Bucher-1988" TOTAL_1="25" TOTAL_2="25" VAR="1.92" WEIGHT="20.0"/>
+<DICH_DATA CI_END="2.5048569099340554" CI_START="0.0998061003039817" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="4" LOG_CI_END="0.3987829218196364" LOG_CI_START="-1.0008429131475989" LOG_EFFECT_SIZE="-0.3010299956639812" ORDER="19" O_E="0.0" SE="0.8221471437193746" STUDY_ID="STD-Levitt-1988" TOTAL_1="27" TOTAL_2="27" VAR="0.675925925925926" WEIGHT="80.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="33.50456254076817" CI_START="0.4775469006805055" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="4.0" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-001.08" LOG_CI_END="1.5251039518534666" LOG_CI_START="-0.32098396919754185" LOG_EFFECT_SIZE="0.6020599913279624" METHOD="MH" MODIFIED="2008-08-13 13:55:33 -0400" MODIFIED_BY="[Empty name]" NO="8" P_CHI2="1.0" P_Q="1.0" P_Z="0.20110978592140805" Q="0.0" RANDOM="NO" SCALE="34.36335416666263" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="52" TOTAL_2="52" WEIGHT="100.0" Z="1.2783962086307363">
+<NAME>Tachycardia</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="20" O_E="0.0" SE="0.0" STUDY_ID="STD-Bucher-1988" TOTAL_1="25" TOTAL_2="25" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="33.50456254076817" CI_START="0.47754690068050526" EFFECT_SIZE="4.0" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="1" LOG_CI_END="1.5251039518534666" LOG_CI_START="-0.3209839691975421" LOG_EFFECT_SIZE="0.6020599913279624" ORDER="21" O_E="0.0" SE="1.084401183107952" STUDY_ID="STD-Levitt-1988" TOTAL_1="27" TOTAL_2="27" VAR="1.175925925925926" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="3.681880652108193" CI_START="0.7981723982610299" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.7142857142857142" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="7" I2="0.0" I2_Q="0.0" ID="CMP-001.09" LOG_CI_END="0.566069706772315" LOG_CI_START="-0.09790329470557912" LOG_EFFECT_SIZE="0.23408320603336794" METHOD="MH" MODIFIED="2008-08-13 13:55:40 -0400" MODIFIED_BY="[Empty name]" NO="9" P_CHI2="1.0" P_Q="1.0" P_Z="0.16698158903681912" Q="0.0" RANDOM="NO" SCALE="3.7583277579081162" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="27" TOTAL_2="27" WEIGHT="100.0" Z="1.3819677974552258">
+<NAME>Hyponatremia</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours caffeine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.681880652108193" CI_START="0.7981723982610299" EFFECT_SIZE="1.7142857142857142" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="7" LOG_CI_END="0.566069706772315" LOG_CI_START="-0.09790329470557912" LOG_EFFECT_SIZE="0.23408320603336794" ORDER="22" O_E="0.0" SE="0.3900210277874798" STUDY_ID="STD-Levitt-1988" TOTAL_1="27" TOTAL_2="27" VAR="0.1521164021164021" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.8427022924147466" CI_START="0.19998787797206552" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.4105243515581265" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="23" I2="0.0" I2_Q="0.0" ID="CMP-001.10" LOG_CI_END="-0.07432582465984346" LOG_CI_START="-0.6989963277829678" LOG_EFFECT_SIZE="-0.38666107622140566" METHOD="MH" MODIFIED="2010-08-06 06:57:25 -0400" MODIFIED_BY="[Empty name]" NO="10" P_CHI2="1.0" P_Q="1.0" P_Z="0.015250592051557287" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="233" TOTAL_2="220" WEIGHT="100.0" Z="2.426372879233195">
+<NAME>PDA ligation</NAME>
+<GROUP_LABEL_1>Experimental</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.8427022924147466" CI_START="0.19998787797206552" EFFECT_SIZE="0.4105243515581265" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="23" LOG_CI_END="-0.07432582465984346" LOG_CI_START="-0.6989963277829678" LOG_EFFECT_SIZE="-0.38666107622140566" MODIFIED="2010-08-06 06:39:43 -0400" MODIFIED_BY="[Empty name]" ORDER="15" O_E="0.0" SE="0.3669345457033835" STUDY_ID="STD-CAP-2006" TOTAL_1="233" TOTAL_2="220" VAR="0.13464096083054844" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.368009804744432" CI_START="-1.5680098047444349" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.6000000000000014" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.11" MODIFIED="2010-08-10 06:56:40 -0400" MODIFIED_BY="[Empty name]" NO="11" P_CHI2="1.0" P_Q="1.0" P_Z="0.2244266082527927" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="223" TOTAL_2="208" UNITS="" WEIGHT="100.0" Z="1.214841404457167">
+<NAME>PMA at last oxygen therapy</NAME>
+<GROUP_LABEL_1>Methylxanthine</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.368009804744432" CI_START="-1.5680098047444349" EFFECT_SIZE="-0.6000000000000014" ESTIMABLE="YES" MEAN_1="34.4" MEAN_2="35.0" MODIFIED="2010-07-15 07:10:18 -0400" MODIFIED_BY="[Empty name]" ORDER="63" SD_1="5.8" SD_2="4.4" SE="0.4938916288156166" STUDY_ID="STD-CAP-2006" TOTAL_1="223" TOTAL_2="208" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.03265559176985444" CI_START="-1.2326555917698574" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.6000000000000014" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.12" MODIFIED="2010-08-06 06:57:39 -0400" MODIFIED_BY="[Empty name]" NO="12" P_CHI2="1.0" P_Q="1.0" P_Z="0.06305590112599953" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="224" TOTAL_2="208" UNITS="" WEIGHT="100.0" Z="1.8587971180879512">
+<NAME>PMA at last endotracheal tube</NAME>
+<GROUP_LABEL_1>Methylxanthine</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.03265559176985444" CI_START="-1.2326555917698574" EFFECT_SIZE="-0.6000000000000014" ESTIMABLE="YES" MEAN_1="30.0" MEAN_2="30.6" MODIFIED="2010-07-15 07:17:54 -0400" MODIFIED_BY="[Empty name]" ORDER="65" SD_1="3.3" SD_2="3.4" SE="0.32278939651961075" STUDY_ID="STD-CAP-2006" TOTAL_1="224" TOTAL_2="208" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="-0.37621637768392846" CI_START="-1.6237836223160715" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-1.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.13" MODIFIED="2010-08-06 06:57:45 -0400" MODIFIED_BY="[Empty name]" NO="13" P_CHI2="1.0" P_Q="1.0" P_Z="0.0016776510821754698" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="224" TOTAL_2="208" UNITS="" WEIGHT="100.0" Z="3.142057460987553">
+<NAME>PMA at last positive pressure ventilation</NAME>
+<GROUP_LABEL_1>Experimental</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="-0.37621637768392846" CI_START="-1.6237836223160715" EFFECT_SIZE="-1.0" ESTIMABLE="YES" MEAN_1="31.5" MEAN_2="32.5" MODIFIED="2010-08-06 06:49:46 -0400" MODIFIED_BY="[Empty name]" ORDER="16" SD_1="3.2" SD_2="3.4" SE="0.31826279831486554" STUDY_ID="STD-CAP-2006" TOTAL_1="224" TOTAL_2="208" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="1.4395230812526563E-30" CI_END="1.0466023542663512" CI_START="0.6650728051824344" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.834306157032574" ESTIMABLE="YES" EVENTS_1="84" EVENTS_2="94" I2="100.0" I2_Q="0.0" ID="CMP-001.14" LOG_CI_END="0.019781707322942526" LOG_CI_START="-0.17713081009799284" LOG_EFFECT_SIZE="-0.07867455138752517" METHOD="MH" MODIFIED="2010-10-08 21:20:23 -0400" MODIFIED_BY="[Empty name]" NO="14" P_CHI2="0.0" P_Q="1.0" P_Z="0.11730870862589343" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="226" TOTAL_2="211" WEIGHT="100.0" Z="1.5661704927550828">
+<NAME>Bronchopulmonary dysplasia at term</NAME>
+<GROUP_LABEL_1>Experimental</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.046602354266351" CI_START="0.6650728051824343" EFFECT_SIZE="0.8343061570325739" ESTIMABLE="YES" EVENTS_1="84" EVENTS_2="94" LOG_CI_END="0.019781707322942432" LOG_CI_START="-0.17713081009799292" LOG_EFFECT_SIZE="-0.07867455138752523" MODIFIED="2010-08-06 06:52:25 -0400" MODIFIED_BY="[Empty name]" ORDER="17" O_E="0.0" SE="0.11566738746573897" STUDY_ID="STD-CAP-2006" TOTAL_1="226" TOTAL_2="211" VAR="0.013378944523149389" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.402059030243518" CI_START="0.8304585348403741" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0790513833992095" ESTIMABLE="YES" EVENTS_1="78" EVENTS_2="66" I2="0.0" I2_Q="0.0" ID="CMP-001.15" LOG_CI_END="0.14676629891547344" LOG_CI_START="-0.08068204718559718" LOG_EFFECT_SIZE="0.03304212586493811" METHOD="MH" MODIFIED="2010-08-06 06:57:52 -0400" MODIFIED_BY="[Empty name]" NO="15" P_CHI2="1.0" P_Q="1.0" P_Z="0.5690439572406422" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="207" TOTAL_2="189" WEIGHT="100.0" Z="0.5694600798648168">
+<NAME>Cognitive delay</NAME>
+<GROUP_LABEL_1>Methylxanthine</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.402059030243518" CI_START="0.8304585348403741" EFFECT_SIZE="1.0790513833992095" ESTIMABLE="YES" EVENTS_1="78" EVENTS_2="66" LOG_CI_END="0.14676629891547344" LOG_CI_START="-0.08068204718559718" LOG_EFFECT_SIZE="0.03304212586493811" MODIFIED="2010-07-15 06:54:59 -0400" MODIFIED_BY="[Empty name]" ORDER="61" O_E="0.0" SE="0.13360428438724017" STUDY_ID="STD-CAP-2006" TOTAL_1="207" TOTAL_2="189" VAR="0.017850104806626545" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="2.491178200786119" CI_START="0.4288379958545876" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0335917312661498" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="9" I2="0.0" I2_Q="0.0" ID="CMP-001.16" LOG_CI_END="0.3964047949190835" LOG_CI_START="-0.36770674230098166" LOG_EFFECT_SIZE="0.01434902630905095" METHOD="MH" MODIFIED="2010-08-06 06:54:56 -0400" MODIFIED_BY="[Empty name]" NO="16" P_CHI2="1.0" P_Q="1.0" P_Z="0.9413197773690083" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="215" TOTAL_2="200" WEIGHT="100.0" Z="0.073611176926538">
+<NAME>Cerebral palsy</NAME>
+<GROUP_LABEL_1>Experimental</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="2.491178200786119" CI_START="0.4288379958545876" EFFECT_SIZE="1.0335917312661498" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="9" LOG_CI_END="0.3964047949190835" LOG_CI_START="-0.36770674230098166" LOG_EFFECT_SIZE="0.01434902630905095" MODIFIED="2010-08-06 06:54:56 -0400" MODIFIED_BY="[Empty name]" ORDER="18" O_E="0.0" SE="0.4488428993761775" STUDY_ID="STD-CAP-2006" TOTAL_1="215" TOTAL_2="200" VAR="0.20145994832041342" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="9.834198432512971E-31" CI_END="1.239158612817865" CI_START="0.7989793745599654" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.9950186799501867" ESTIMABLE="YES" EVENTS_1="94" EVENTS_2="88" I2="100.0" I2_Q="0.0" ID="CMP-001.17" LOG_CI_END="0.09312689980845774" LOG_CI_START="-0.09746443173783689" LOG_EFFECT_SIZE="-0.002168765964689606" METHOD="MH" MODIFIED="2010-08-06 06:56:50 -0400" MODIFIED_BY="[Empty name]" NO="17" P_CHI2="0.0" P_Q="1.0" P_Z="0.9644218225438415" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="219" TOTAL_2="204" WEIGHT="100.0" Z="0.04460541984990959">
+<NAME>Death or major disability</NAME>
+<GROUP_LABEL_1>Experimental</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours experimental</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.239158612817865" CI_START="0.7989793745599655" EFFECT_SIZE="0.9950186799501868" ESTIMABLE="YES" EVENTS_1="94" EVENTS_2="88" LOG_CI_END="0.09312689980845774" LOG_CI_START="-0.09746443173783682" LOG_EFFECT_SIZE="-0.0021687659646895574" MODIFIED="2010-08-06 06:56:50 -0400" MODIFIED_BY="[Empty name]" ORDER="19" O_E="0.0" SE="0.11195429159260024" STUDY_ID="STD-CAP-2006" TOTAL_1="219" TOTAL_2="204" VAR="0.012533763406000962" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

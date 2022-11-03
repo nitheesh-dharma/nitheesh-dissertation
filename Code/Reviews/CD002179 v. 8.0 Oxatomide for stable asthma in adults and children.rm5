@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD002179" GROUP_ID="AIRWAYS" ID="915100012122234633" MERGED_FROM="" MODIFIED="2014-06-05 17:01:13 +0100" MODIFIED_BY="Emma Welsh" NOTES="&lt;p&gt;Liz Arnold read and approved the Search Strategy - 131004&lt;br&gt;_______________________________________________________________________________________________&lt;br&gt;Exported from Review Manager 4.2.1&lt;br&gt;Technical Editing by CJC - I suggest removing the first 3 words of the title so that the treatment stands out! &lt;/p&gt;&lt;p&gt;Authors and contributions: contributions need to be added under the Cover sheet, reviewers section. &lt;br&gt;References: fine&lt;/p&gt;&lt;p&gt;Table of included studies: Good (were all but the first study parallel?)&lt;/p&gt;&lt;p&gt;Metaview Labels: Seem to be OK. We do not in general use negative signs for lung function any more but put in the raw values (perhaps including some units in the titles of each outcome). I do not think that it is a problem to put this data in Metaview, but the totals must be switched off to avoid double counting patients (this is correct in the current version).&lt;/p&gt;&lt;p&gt;SYNOPSIS&lt;/p&gt;&lt;p&gt;ABSTRACT&lt;/p&gt;&lt;p&gt;METHODS What data was used from the crossover trial?&lt;/p&gt;&lt;p&gt;RESULTS : NNT is 5 for any adverse event and 6 for drowsiness using the Odds Ratio and CER given in the text. &lt;/p&gt;&lt;p&gt;DISCUSSION&lt;br&gt;New version imported 10/9/02&lt;/p&gt;&lt;p&gt;CJC second technical edit.&lt;br&gt;Thanks for changing the title. The Chiu SD results are very small in ~1#11-13 and may be SE? Surely these are not change scores but absolute % predicted post Rx results (in which case please change the outcome labels)? The same discrepancy arises in ~3#1 as well, the SD is very small in comparison to the mean and may be an SE. Otherwise the Metaview labels etc. look fine, and the cross-over has been separately analysed.&lt;br&gt;I have pruned out extraneous text from the synopsis section about authors.&lt;/p&gt;&lt;p&gt;TEXT of the review:&lt;br&gt;I think the synopsis and abstract overstate the results. Two studies may show change in Lung Function tests so it is not correct to say that there is no objective data showing improvement. (However the Chiu data needs checking as above). I THINK THIS NEEDS TO BE TONED DOWN A BIT. There were objective differences but these may be due to reporting bias etc. This needs a more balanced description.&lt;/p&gt;&lt;p&gt;WAS HOME PEAK FLOW THE PRIMARY OUTCOME IN THE PROTOCOL (please verify)? IS THIS THE MAIN OUTCOME THAT WOULD BE EXPECTED TO SHOW BENEFIT (ESPECIALLY AS SMALL CHILDREN CANNOT PERFORM THIS TEST)?&lt;/p&gt;&lt;p&gt;I HAVE TO CONFESS THAT I DO NOT UNDERSTAND THE CLINICAL RELEVANCE OF FEV1/FVC - IS THIS AN IMPORTANT MEASUREMENT OR NOT?&lt;/p&gt;&lt;p&gt;&amp;quot;In the study of Chiu et al (Chiu 1997), the FEV1, FVC and FEV25-75, all expressed as % of predicted value, showed a significantly greater improvement following oxatomide treatment compared to placebo. It was not possible to combine any of these measures for meta-analysis. &amp;quot; THIS MAY NEED ADJUSTING WHEN THE CHIU SE/SD HAS BEEN CHECKED.&lt;/p&gt;&lt;p&gt;BROMPTON STUDY HAD HIGH ADVERSE EVENTS IN THE PLACEBO GROUP TOO - ANY IDEA WHY?&lt;/p&gt;&lt;p&gt;Could you address the above issues and particularly recheck Chiu data.&lt;/p&gt;&lt;p&gt;Thanks,&lt;br&gt;Chris Cates&lt;/p&gt;&lt;p&gt;Attach a revised version of this review, which incorporates the few &lt;br&gt;modifications to text you requested. You will have already received &lt;br&gt;a message from Motokazu regarding the SD/SE issues, confirming the &lt;br&gt;values do indeed appear to be SD's. The PEF was not originally the &lt;br&gt;primary outcome, so this could be removed, but I am mindful of your &lt;br&gt;guidelines! The FVE1/FVC is not a particularly important measurement &lt;br&gt;by itself, not least because it is affected by the inherent &lt;br&gt;inaccuracies of both its constituents. No idea why the Brompton &lt;br&gt;study had such a high incidence of ADE's in the placebo group, maybe &lt;br&gt;they were more rigorous in collecting data.&lt;/p&gt;&lt;p&gt;Please let me know if there are any other issues and I will try and &lt;br&gt;get on to them before Christmas.&lt;/p&gt;&lt;p&gt;RWB&lt;/p&gt;&lt;p&gt;10_12_2002&lt;br&gt;Toby,&lt;br&gt;I am happy for this revised version to go on to Paul. Can you inform Richard that this is what has happened please.&lt;br&gt;Chris.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" NOTES_MODIFIED="2014-06-05 17:01:13 +0100" NOTES_MODIFIED_BY="Emma Welsh" REVIEW_NO="OXA-AST" REVMAN_SUB_VERSION="5.2.7 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="8.0">
+<COVER_SHEET MODIFIED="2014-06-05 17:01:13 +0100" MODIFIED_BY="Emma Welsh">
+<TITLE>Oxatomide for stable asthma in adults and children</TITLE>
+<CONTACT>
+<PERSON ID="12426" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Keiji</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Hayashi</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director</POSITION>
+<EMAIL_1>m4737115@msic.med.osaka-cu.ac.jp</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Hayashi Shyonika</ORGANISATION>
+<ADDRESS_1>4-6-11 Nagata</ADDRESS_1>
+<ADDRESS_2>Jotou</ADDRESS_2>
+<CITY>Osaka</CITY>
+<ZIP>536-0022</ZIP>
+<REGION>Osaka</REGION>
+<COUNTRY CODE="JP">Japan</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1>+81 6-6965-7120</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CONTACT>
+<CREATORS MODIFIED="2014-06-05 16:53:59 +0100" MODIFIED_BY="Emma Welsh">
+<PERSON ID="12426" ROLE="AUTHOR">
+<PREFIX/>
+<FIRST_NAME>Keiji</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Hayashi</LAST_NAME>
+<SUFFIX/>
+<POSITION>Director</POSITION>
+<EMAIL_1>m4737115@msic.med.osaka-cu.ac.jp</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT/>
+<ORGANISATION>Hayashi Shyonika</ORGANISATION>
+<ADDRESS_1>4-6-11 Nagata</ADDRESS_1>
+<ADDRESS_2>Jotou</ADDRESS_2>
+<CITY>Osaka</CITY>
+<ZIP>536-0022</ZIP>
+<REGION>Osaka</REGION>
+<COUNTRY CODE="JP">Japan</COUNTRY>
+<PHONE_1/>
+<PHONE_2/>
+<FAX_1>+81 6-6965-7120</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="5109" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Motokazu</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Yanagi</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1>myanagi@tezukayama-u.ac.jp</EMAIL_1>
+<EMAIL_2>motok_yan@yahoo.co.jp</EMAIL_2>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Dept of Food and Nutrition, Faculty of Contemporary Human Life Science</DEPARTMENT>
+<ORGANISATION>Tezukayama University</ORGANISATION>
+<ADDRESS_1>3-1-3 GakuenMinami</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Nara 631-8585</CITY>
+<ZIP/>
+<REGION/>
+<COUNTRY CODE="JP">Japan</COUNTRY>
+<PHONE_1>+81 742 41 4850</PHONE_1>
+<PHONE_2/>
+<FAX_1>+81 742 41 4905</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12536" ROLE="AUTHOR">
+<PREFIX>Prof</PREFIX>
+<FIRST_NAME>Richard</FIRST_NAME>
+<MIDDLE_INITIALS/>
+<LAST_NAME>Wood-Baker</LAST_NAME>
+<SUFFIX/>
+<POSITION>Clinical Professor</POSITION>
+<EMAIL_1>Richard.WoodBaker@utas.edu.au</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE>0407641077</MOBILE_PHONE>
+<ADDRESS>
+<DEPARTMENT>School of Medicine</DEPARTMENT>
+<ORGANISATION>University of Tasmania</ORGANISATION>
+<ADDRESS_1/>
+<ADDRESS_2/>
+<CITY>Hobart</CITY>
+<ZIP>7001</ZIP>
+<REGION>Tasmania</REGION>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<PHONE_1>61 3 6226 4805</PHONE_1>
+<PHONE_2>0407 641 077</PHONE_2>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12510" ROLE="AUTHOR">
+<PREFIX>Dr</PREFIX>
+<FIRST_NAME>Isamu</FIRST_NAME>
+<MIDDLE_INITIALS>IT</MIDDLE_INITIALS>
+<LAST_NAME>Takamatsu</LAST_NAME>
+<SUFFIX>MD</SUFFIX>
+<POSITION>Chief, Division of Respiratory Disease &amp; Allergy</POSITION>
+<EMAIL_1>isamu-t@hbk.pref.osaka.jp</EMAIL_1>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Department of Pediatrics</DEPARTMENT>
+<ORGANISATION>Osaka Prefecture Habikino Hospital</ORGANISATION>
+<ADDRESS_1>3-7-1</ADDRESS_1>
+<ADDRESS_2/>
+<CITY>Habikino-shi</CITY>
+<ZIP>583-0872</ZIP>
+<REGION>Osaka</REGION>
+<COUNTRY CODE="JP">Japan</COUNTRY>
+<PHONE_1>81 729572121</PHONE_1>
+<PHONE_2/>
+<FAX_1>81 729 57 8002</FAX_1>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+<PERSON ID="12375" ROLE="AUTHOR">
+<PREFIX>Mrs</PREFIX>
+<FIRST_NAME>Keiko</FIRST_NAME>
+<MIDDLE_INITIALS>KA</MIDDLE_INITIALS>
+<LAST_NAME>Anami</LAST_NAME>
+<SUFFIX/>
+<POSITION/>
+<EMAIL_1/>
+<EMAIL_2/>
+<URL/>
+<MOBILE_PHONE/>
+<ADDRESS>
+<DEPARTMENT>Pharmacy</DEPARTMENT>
+<ORGANISATION>Takatsuki Red Cross Hospital</ORGANISATION>
+<ADDRESS_1>1-1-1</ADDRESS_1>
+<ADDRESS_2>Abuno</ADDRESS_2>
+<CITY>Takatsuki</CITY>
+<ZIP/>
+<REGION>Osaka</REGION>
+<COUNTRY CODE="JP">Japan</COUNTRY>
+<PHONE_1>0726-96-0571</PHONE_1>
+<PHONE_2/>
+<FAX_1/>
+<FAX_2/>
+</ADDRESS>
+<FOOTNOTE/>
+</PERSON>
+</CREATORS>
+<DATES MODIFIED="2014-06-05 16:54:20 +0100" MODIFIED_BY="Emma J Welsh">
+<UP_TO_DATE>
+<DATE DAY="3" MONTH="9" YEAR="2010"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="3" MONTH="9" YEAR="2010"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="" MONTH="" YEAR=""/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="2000"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2003"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2003"/>
+</DATES>
+<WHATS_NEW MODIFIED="2014-06-05 17:01:13 +0100" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2014-06-05 17:01:13 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="5" MONTH="6" YEAR="2014"/>
+<DESCRIPTION>
+<P>PLS amended</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2014-06-05 16:54:14 +0100" MODIFIED_BY="Emma J Welsh">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2014-06-05 16:54:14 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="20" MONTH="9" YEAR="2010"/>
+<DESCRIPTION>
+<P>New search run; no new studies found.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2010-09-20 17:55:48 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="26" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Literature search re-run; no new studies found </P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2010-09-20 17:55:51 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="15" MONTH="8" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="29" MONTH="8" YEAR="2002"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2014-06-05 17:00:49 +0100" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2014-06-05 17:00:49 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2014-06-05 17:00:34 +0100" MODIFIED_BY="Toby J Lasserson">Oxatomide (antihistamine) for asthma in adults and children</TITLE>
+<SUMMARY_BODY MODIFIED="2014-06-05 17:00:49 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Oxatomide, an antihistamine, cannot be recommended for the treatment of chronic asthma as there is no consistent data to support a beneficial effect on asthma control. Six randomised controlled studies of the effect of oxatomide were identified. All studies compared oxatomide with placebo. Two studies showed significant improvement with oxatomide as judged subjectively by the doctor. There was significant difference shown between oxatomide and placebo on objective outcomes (outcomes that are not influenced by people's opinions such as lung function or the amount of regular asthma medication taken by participants during the course of the study). Adverse effects were the only outcome able to be combined in a meta-analysis, and these were significantly more likely with oxatomide than with placebo treatment.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2010-09-23 09:48:39 +0100" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND>
+<P>Oxatomide is a histamine H1-receptor antagonist. As an oral agent, oxatomide may be useful in managing asthma. Some guidelines recommend oxatomide for long-term prophylaxis of asthma in children. There is no clear evidence whether children or adults with asthma benefit from oxatomide.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To determine whether oxatomide alone, or in combination with other interventions, results in better disease control in people with asthma.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2010-09-23 09:48:39 +0100" MODIFIED_BY="[Empty name]">
+<P>Trials were identified using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED and PsycINFO, and handsearching of respiratory journals and meeting abstracts (please see the <A HREF="http://www.mrw.interscience.wiley.com/cochrane/clabout/articles/AIRWAYS/frame.html">Airways Group Module</A> for further details). All records in the Specialised Register coded as 'asthma' were searched using the following terms:</P>
+<P>Oxatomide* or Tincet or celtect or pincet or kw4354</P>
+<P>Reference lists of all relevant trials or review articles were checked. Enquiries were made of authors of included studies and relevant pharmaceutical companies. A search of 'Igaku Chuo Zasshi' and 'J-Medicine' were made using the following terms: oxatomide (also in Japanese) or Celtect (also in Japanese) or KW-4354. Searches are current as of September 2010.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA MODIFIED="2010-09-20 17:56:16 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Studies were randomised, placebo-controlled trials and the interventions were oxatomide or matched placebo given alone or in combination with other asthma-medication for at least four weeks.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Four independent reviewers performed assessments of methodological quality and extracted relevant data.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2010-09-20 17:56:39 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Six studies are included in this review. Three studies were mainly conducted in adults, two were conducted in older children (5 to16 years) and one in infants (18 to 25 months). Trial duration was 4 to 52 weeks. Doses of oxatomide varied between studies, ranging from 1 mg/kg/day for infants to 180 mg/day for adults. Only data on adverse events was suitable for meta-analysis. Although PEF did not change significantly in any of the studies, the FVC and FEV1 improved significantly in two. There was no uniform change in symptom scores. There was no significant difference between oxatomide and placebo treatment in use of inhaled corticosteroid or bronchodilator. Two studies showed significant improvement with oxatomide as judged subjectively by physicians. Adverse events, analysed using data from four parallel and one cross over study, showed oxatomide to be associated with a significantly higher risk of any adverse event (OR: 2.97, 95%CI: 1.69 to 5.22) and drowsiness (OR: 5.22,95%CI: 2.53 to 10.74).</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>There is no evidence to show that oxatomide has a significant effect on the control of stable asthma. Some studies reported significant benefits in subjective parameters. There was improvement in some lung function outcomes reported, but this were not consistent across measures or studies and may represent reporting bias. Adverse events, including drowsiness, were significantly greater with oxatomide than placebo.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2014-06-05 17:00:49 +0100" MODIFIED_BY="[Empty name]">
+<BACKGROUND>
+<P>Oxatomide is a histamine H1-receptor antagonist. It prevents breakdown of the mast cell membrane and release of allergic mediators (<LINK REF="REF-Manabe-1988" TYPE="REFERENCE">Manabe 1988</LINK>), as well as inhibiting inflammatory cell recruitment and activation (<LINK REF="REF-Akamatsu-1993" TYPE="REFERENCE">Akamatsu 1993</LINK>). These effects may protect against airway inflammation in chronic asthma, and thus be useful in asthma management. Some guidelines, particularly those of the Japanese Society of Allergology, recommend oxatomide for long-term prophylaxis of asthma in children. Oxatomide has been prescribed for asthma, particularly in Japan, where 'oral anti-allergic drugs' have the largest share of the anti-asthmatic drug market (<LINK REF="REF-Hayashi-1996" TYPE="REFERENCE">Hayashi 1996</LINK>). There is, however, no clear evidence that children or adults with asthma benefit from oxatomide.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To determine whether oxatomide alone, or in combination with other interventions, results in better disease control in people with asthma.</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2010-09-23 09:49:34 +0100" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2008-08-15 11:43:21 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_STUDIES>
+<P>To be considered for inclusion, studies had to be randomised, double-blind, placebo-controlled trials.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>All ages of patients with chronic asthma, or children with recurrent (greater or equal to 2) episodes of wheezing. Other chronic pulmonary diseases, such as bronchopulmonary dysplasia or cystic fibrosis were excluded. Asthma was defined by a physicians' diagnosis or specific criteria such as those of the international consensus report on diagnosis and management of asthma (<LINK REF="REF-Allergy-1992" TYPE="REFERENCE">Allergy 1992</LINK>)</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Oxatomide given orally, either alone or in combination with other asthma-medication for at least 4 weeks, was compared to matched placebo.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-08-15 11:43:21 +0100" MODIFIED_BY="Toby J Lasserson">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-08-15 11:43:09 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Home Peak Expiratory Flow measurement</P>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2008-08-15 11:43:18 +0100" MODIFIED_BY="Toby J Lasserson">
+<OL>
+<LI>The use of beta2-agonist rescue medication</LI>
+<LI>Asthma severity (symptom scores, clinical assessment)</LI>
+<LI>Airways hyper-reactivity (methacholine or histamine responsiveness)</LI>
+<LI>Pulmonary function</LI>
+<LI>Quality of life</LI>
+<LI>Need for other maintenance therapy</LI>
+<LI>Withdrawal due to poor asthma control</LI>
+<LI>Asthma exacerbations</LI>
+<LI>Hospital admissions</LI>
+<LI>Need for oral corticosteroids for disease exacerbations</LI>
+<LI>Control of other atopic diseases, such as eczema or rhinitis</LI>
+<LI>Adverse drug effects</LI>
+<LI>Days off work or school</LI>
+<LI>Unscheduled doctor visits</LI>
+<LI>Physician's judgement of global efficacy</LI>
+<LI>Zenpanteki Kaizen Do (ZKD) : 'global improvement rating' determined subjectively by the physician without structured criteria</LI>
+<LI>Zenpanteki Anzen Do (ZAD): 'overall safety rating' determined subjectively by the physician without structured criteria</LI>
+<LI>Zenpanteki Yuyo Do (ZYD): 'usefulness rating' determined subjectively by the physician without structured criteria</LI>
+</OL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2010-09-23 09:49:34 +0100" MODIFIED_BY="[Empty name]">
+<ELECTRONIC_SEARCHES MODIFIED="2010-09-23 09:49:11 +0100" MODIFIED_BY="[Empty name]">
+<P>Trials were identified using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED, and PsycINFO, and handsearching of respiratory journals and meeting abstracts. All records in the Specialised Register coded as 'asthma' were searched using the following terms:</P>
+<P>oxatomide* OR Celtect OR Pinset OR Tincet OR KW 4354.</P>
+<P>These searches are current as of September 2010.</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2010-09-23 09:49:31 +0100" MODIFIED_BY="[Empty name]">
+<P>The reference lists of all relevant trials or review articles were checked to identify additional potentially relevant citations. Enquiries were made regarding other published or unpublished studies known to authors of the primary studies. Further studies were sought through personal contact with colleagues, collaborators, pharmaceutical companies and other investigators working in the field of asthma. A search of 'Igaku Chuo Zasshi' and 'J-Medicine' which are the databases of Japanese medical journals, was made using the terms oxatomide (also in Japanese) or Celtect (also in Japanese) or KW-4354.</P>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-08-15 11:44:22 +0100" MODIFIED_BY="Toby J Lasserson">
+<STUDY_SELECTION MODIFIED="2008-08-15 11:43:49 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>All citations that appeared potentially or clearly relevant and potentially or clearly RCTs were selected for full text retrieval by one reviewer (KH). Only those which were clearly not RCTs or clearly not relevant based on the title and/or abstract were excluded. Based on full text review, four reviewers (KH, MY, IT, KA) independently selected trials for inclusion in this review. Disagreement was resolved by consensus.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-08-15 11:44:07 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Data from the trials was extracted by one of the reviewers (KH), and was cross-checked by others (MY, RW). Any data for inclusion in the meta-analysis was determined by consensus. Data from measurements of graphs had larger discrepancies, and the values measured by one reviewer (KH) were given the highest priority.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-08-15 11:43:59 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Quality assessment of selected studies was done by four reviewers (KH, MY, IT, KA) using two different methods. Firstly, using the Cochrane approach to assessment of allocation concealment, all trials were scored and entered using the following principles; Grade A: Adequate concealment, Grade B: Uncertain concealment, Grade C: Clearly inadequate concealment.</P>
+<P>In addition, each study was assessed using the 0 to 5 scale described by Jadad (<LINK REF="REF-Jadad-1996" TYPE="REFERENCE">Jadad 1996</LINK>) and summarized as follows:<BR/>1) Was the study described as randomised? (1 = yes; 0 = no)<BR/>2) Was the study described as double blind? (1 = yes; 0 = no)<BR/>3) Was there a description of withdrawals and dropouts? (1 = yes; 0 = no)<BR/>4) Was the method of randomisation well described and appropriate?<BR/>(1 = yes; 0 = no)<BR/>5) Was the method of double blinding well described and appropriate?<BR/>(1 = yes; 0 = no)<BR/>6) Deduct 1 point if methods for randomisation or blinding were inappropriate.</P>
+</QUALITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2008-08-15 11:44:22 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>For dichotomous outcomes, the Peto fixed-effect model was used to estimate the individual and pooled odds ratio (OR) and confidence interval (CI). For continuous outcomes (e.g. pulmonary function), the standardised mean difference (SMD) method was used to estimate the individual and pooled effect size. The heterogeneity statistic of SMD was given by a similar formula as for the Mantel-Haenszel method, using the inverse variance form of the weights. P &lt; 0.05 was used as the cut-off level for significance.</P>
+<P>One study (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) included in the review is a crossover trial and outcome measured from this study have been analysed separately from the other parallel studies.</P>
+</DATA_SYNTHESIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2014-06-05 17:00:49 +0100" MODIFIED_BY="Emma J Welsh">
+<STUDY_DESCRIPTION MODIFIED="2010-09-20 17:58:06 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Six studies are included in this review. The studies were published between 1978 and 1998. Two were reported from centres in the United Kingdom, one from Taiwan, one from Italy, one from Japan and one from Czechoslovakia. One study (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) was a cross-over design while the remaining five were parallel group design. Update searches conducted in September 2008 and 2010 did not identify any new studies.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Population</HEADING>
+<P>Three studies were conducted in adults and children (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>, 13-48 years old; <LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>, 16 years or greater; <LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>, 15-60 years inclusive), two studies were conducted in older children (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>, 5-16 years; <LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>, 9-16 years) and one study was conducted in infants (<LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>, 18-25 months). Three studies described the duration of asthma (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>, over 3 years; <LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>, 86% patients 5 years or longer; <LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>, mean oxatomide group 4.88 months, placebo group 4.75 months). The other three studies did not describe the asthma duration.</P>
+<P>In two studies (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>, <LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>), the study population was defined as subjects with "mild to moderate" asthma. Chiu et al, defined subjects according to the criteria of the international consensus report on diagnosis and management of asthma 1992, and Kawakami et al, according to the Japanese Society of Allergology criteria. The remaining four studies did not define the severity of asthma.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Interventions</HEADING>
+<P>The dose of oxatomide varied between the studies. For adults, the doses were; <LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>, 60 mg/day and <LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>, 180 mg/day. Doses for children were; <LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>, 1 mg/day and <LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>, 2-4 mg/kg/day. The duration of treatment varied from 4 to 52 weeks.</P>
+</SUBSECTION>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-08-15 11:47:26 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Five studies were double-blind placebo-controlled parallel group studies, one of which (<LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) had three treatment arms. The remaining study (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) was a double-blind placebo-controlled crossover study.</P>
+<P>Overall, the methodological quality was low. Allocation concealment of five trials was grade B, and of one (<LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) grade C. Using Jadad's method, 4 studies (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>, <LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>, <LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>, <LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>) scored 2 points, and 2 studies (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>, <LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) scored 3 points.</P>
+<P>No study provided an intention to treat analysis. Five studies performed multiple comparisons, but the outcomes varied markedly between studies.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2014-06-05 17:00:49 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Most studies did not provide data able to be included in a meta-analysis and thus the analysis performed is limited. In three studies (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>, <LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>, <LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>) some data had to be extrapolated from graphs. Contact was established with the authors of 5 studies, but most have been unable to provide further details. We also contacted the pharmaceutical companies, Kyowa Hakko Kogyo Co., Ltd. and Janssen Pharmaceutica (through Kyowa Hakko Kogyo), but no additional information has been obtained as a result.</P>
+<P>Six double-blind randomised controlled studies with a total of 494 patients, comparing oxatomide with placebo, are included in this review.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Pulmonary Function Tests</HEADING>
+<P>All studies, with the exception of <LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>, measured lung function at multiple time points. As our aim was to define the long term efficacy of oxatomide, we utilised the last time point data from each study for analysis, but the time points were so variable between studies that it was impossible to pool results.</P>
+<P>Three studies measured PEF; Brompton (<LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>) measured PEF in the morning, early evening and late evening, Kawakami (<LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) in the morning and evening and Banham (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) did not describe the time points. None of the studies found a significant difference between oxatomide and placebo for PEF. Meta-analysis could not be performed as Banham (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) reported only the 1st week's data, not the final week, and Brompton (<LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>) did not report standard deviations.</P>
+<P>For other lung function measurements, the findings varied. Samanek (<LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>) found the increase from baseline FEV1 and FEV1/FVC were significantly greater following oxatomide treatment when compared to placebo, but changes in FVC, Vmax25%, Vmax50% and Gaw/ TGV were not significantly different. In the study of Chiu et al (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>), the FEV1, FVC and FEV25-75, all expressed as % of predicted value, showed a significantly greater improvement following oxatomide treatment compared to placebo. It was not possible to combine any of these measures for meta-analysis.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Symptoms and signs</HEADING>
+<P>Brompton et al (<LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>), reported the number of days with symptoms (night-time asthma, morning tightness, daytime asthma and acute attacks). They found that the improvement in night-time asthma was significantly greater for oxatomide treatment compared to placebo (9.4 vs 13.8, P = 0.05). Giorgi et al (<LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>) compared cough, wheezing, sleep disorder, dyspnoea and rales on auscultation (thoracic objectivity) between treatment groups. Only rales on auscultation improved significantly by the 60th day following oxatomide treatment compared to placebo.</P>
+<P>A variety of symptom scores were reported and these were different in each study reporting this outcome. The visual analogue score used by Banham (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) did not show any significant difference between treatments. The asthma symptom score used by Chiu (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>), based on breathlessness, wheeze, chest tightness and the use of the inhaled bronchodilator, showed a significantly greater improvement following oxatomide treatment compared to placebo. Kawakami (<LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) reported an asthma score using criteria of Japanese Society of Allergology which included 'asthma score', 'attack score', 'treatment score', 'day life score' and 'night sleeping score'. There was a significantly greater fall in the scores when change from baseline to final treatment period for oxatomide were compared with placebo. However, when the absolute scores for oxatomide and placebo during the final treatment period were compared, there was no significant difference.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Concomitant Treatment</HEADING>
+<P>In the only study reporting this outcome (<LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>) there was no significant difference between oxatomide and placebo for inhaled therapy with corticosteroids or bronchodilator (corticosteroid puffs 8.3 vs 3.3, bronchodilator puffs 5.8 vs 5.8).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Physicians' judgment of global efficacy</HEADING>
+<P>Giorgi et al (<LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>) reported physician evaluation on global efficacy of treatment and acceptability. This found a significantly greater improvement for oxatomide treatment when compared to placebo (excellent 6 vs 0, good or fairly good 2 vs 0, poor 0 vs 8). Kawakami (<LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) reported on Zenpanteki Kaizen Do (ZKD), Zenpanteki Anzen Do (ZAD) and Zenpanteki Yuyo Do (ZYD). Zenpanteki Kaizen Do (ZKD) is the physician's impression of patient improvement, considering pulmonary function tests, symptoms and patient impression. Zenpanteki Anzen Do (ZAD) is the physician's impression of the safety of continuing therapy, considering symptoms, signs, laboratory data and adverse effects. Zenpanteki Yuyo Do (ZYD) is the physician's impression of utility, considering a patient's ZKD and ZAD scores. There are no reports on the validity and reproducibility of these scales, which were compared using Mann-Whitney's non-parametric U-test. The ZKD grading was significantly better following oxatomide treatment than placebo (excellent 11 vs 5, good 15 vs 9, slightly better 22 vs 23, no change 23 vs 28, slightly worse 6 vs 8, poor 3 vs 2, bad 0 vs 3; P = 0.037). The ZYD grading was also better following oxatomide treatment than placebo (excellent 10 vs 4, useful 21 vs 10, slightly useful 18 vs 22, not useful 25 vs 38, slightly unfavourable 4 vs 2, unfavourable 2 vs 1, undesirable 0 vs 1; P = 0.021).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Adverse events</HEADING>
+<P>One study (<LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>) did not report adverse events. Data from the remaining four parallel-group trials were combined in a meta-analysis which showed that oxatomide treatment was associated with a significantly higher risk of any adverse event (OR: 2.97, 95%CI: 1.69 to 5.22) or drowsiness (OR: 5.22, 95%CI: 2.53 to 10.74) when compared to placebo; relative risks were 2.02 and 3.33, respectively. This equates to a number needed to harm (NNH) of 7 for any adverse event and 8 for drowsiness. One cross-over trial (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) did not find significant differences between treatments for adverse events, neither was Zenpanteki Anzen Do (<LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) significantly different (no problem 82 vs 88, continued with some problems 6 vs 6, dose reduced or suspended 1 vs 0, discontinued 6 vs 1, need some treatments 0 vs 0).</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>This review assessed the treatment benefit of oral oxatomide in the treatment of chronic asthma in adults and children. Few outcomes could be pooled and the majority of outcomes reported showed no significant difference between oxatomide and placebo treatment. Although there were significant differences reported for some outcomes in some studies, these were not consistent across outcomes or studies. For example, although both Samanek (<LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>) and Chiu (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>) found a significant effect on the FEV1, this was not replicated in the Banham study (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>) nor was there any significant difference found in another measure of airflow, the PEF. One explanation for these discrepancies might be differences in the variables at baseline. In the study of Samanek et al (<LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>) the baseline FEV1/FVC, Vmax25% and Vmax50% were significantly different between oxatomide and placebo groups. </P>
+<P>Adverse events were the only outcome that could be pooled for analysis and then results from only four trials could be included. Significantly more patients had any adverse event or drowsiness with oxatomide treatment than with placebo. One study (<LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>), had a particularly high incidence of adverse events (drowsiness 24/43, weight gain 11/43) with oxatomide treatment, which may reflect the dose of oxatomide (60 mg three times daily) used. Moreover, in spite of the high dose, this study failed to demonstrate any significant benefit for oxatomide treatment. Even after excluding this study from the meta-analysis, total adverse events (oxatomide 21/135 vs. placebo 9/133) and drowsiness (oxatomide 11/135 vs. placebo 0/133) remained significantly higher for oxatomide treatment. </P>
+<P>There was a wide range of conclusions from the studies, so we have to consider potential sources of bias. As the methods of randomisation were rarely described, one possibility is that some studies were not truly randomised, which might lead to favouring an active treatment effect (<LINK REF="REF-Schulz-1995" TYPE="REFERENCE">Schulz 1995</LINK>). The reporting of data was also variable. For example, some studies (<LINK REF="STD-Banham-1980" TYPE="STUDY">Banham 1980</LINK>, <LINK REF="STD-Brompton-1981" TYPE="STUDY">Brompton 1981</LINK>, <LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) reported PEF, but not FVC and FEV1 despite measuring these variables, while others (<LINK REF="STD-Chiu-1997" TYPE="STUDY">Chiu 1997</LINK>, <LINK REF="STD-Samanek-1978" TYPE="STUDY">Samanek 1978</LINK>) reported FVC and FEV1 but not PEF. As a whole, while there were a large number of variables measured many were not reported (Banham assessed PEF, FEV1 and FVC, but only reported PEF; Brompton assessed PEF, FEV1 and FVC, but only reported PEF; Chiu assessed FEV1, FVC and FEF25-75%, but reported FEV1%, FVC and FEF25-75% of predicted value), suggesting the unreported data were negative results. This raises the possibility that the reported positive outcomes were a statistical quirk of performing multiple comparisons. </P>
+<P>Of particular concern with regard to efficacy was what appeared to be a dichotomy between objective and subjective outcomes. For example, while Kawakami (<LINK REF="STD-Kawakami-1984" TYPE="STUDY">Kawakami 1984</LINK>) found a significant difference in the subjective outcome Zenpanteki Kaizen Do (ZKD) this was not reflected in the PEF results. Similarly, Giorgi (<LINK REF="STD-Giorgi-1998" TYPE="STUDY">Giorgi 1998</LINK>) found a significant treatment effect using a physician's impression of efficacy, but failed to include any objective evaluation. These data indicate that subjective outcomes gave a more favourable evaluation than objective outcomes for the benefit of oxatomide. One explanation for this finding is the high rate of drowsiness with oxatomide treatment (8-20%) which would have potential to affect blinding and introduce bias.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>There is no evidence that oxatomide has a significant effect on the control of stable asthma. While some positive changes in subjective parameters have been reported, these were not consistently supported by objective outcomes. While some studies reported significant improvement in some measures of lung function, these were not consistent and may represent reporting bias. At the present time the use of oxatomide in stable asthma cannot be recommended on the strength of current evidence.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>As a result of differences between trials and inadequate reporting, with the exception of adverse events, data were not suitable for meta-analysis. Better-designed studies with standardized therapeutic outcome are required to clearly determine the efficacy of the oxatomide for stable asthma. However, as a meta-analysis of eight studies of antihistamines in adult asthma over 20 years (<LINK REF="REF-Van-Ganse-1997" TYPE="REFERENCE">Van Ganse 1997</LINK>) has failed to demonstrate any efficacy, it seems unlikely this will prove an effective treatment and is worth pursuing.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>We wish to thank Dr Chih-Ping Chiu and Dott. Nicola Oggiano for provide additional data whenever possible. We thank the Cochrane Airways Review Group, namely Stephen Milan, Toby Lasserson and Karen Blackhall for the literature search and ongoing support. We are indebted to Dr Giavanni Ferrara for translating Italian articles.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None.</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>HK1: (1) developing a protocol, (2) formulating the problem, (3) locating and selecting studies, (4) assessment of study quality, (5) collecting data, (6) analysing and presenting results and (7) interpreting results.<BR/>MY: (1), (2), (3), (4), (5), (6), (7)<BR/>RWB: (1), (2), (6), (7)<BR/>IT: (1), (2), (3), (4), (7)<BR/>KA: (1), (2), (3), (4), (7)<BR/>
+</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2010-09-23 09:59:41 +0100" MODIFIED_BY="[Empty name]">
+<STUDIES MODIFIED="2010-09-23 09:59:41 +0100" MODIFIED_BY="[Empty name]">
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Banham-1980" NAME="Banham 1980" YEAR="1980">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Banham SW, Moran F</AU>
+<TI>A clinical trial of oxatomide in asthma</TI>
+<SO>British Journal of Clinical Practice</SO>
+<YR>1980</YR>
+<VL>34</VL>
+<NO>11-12</NO>
+<PG>323-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Brompton-1981" NAME="Brompton 1981" YEAR="1981">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Brompton Hospital/Medical reserch council collaborative trial</AU>
+<TI>A controlled trial of oxatomide in the treatment of asthma with or without perennial rhinitis</TI>
+<SO>Clinical Allergy</SO>
+<YR>1981</YR>
+<VL>11</VL>
+<PG>483-90</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Chiu-1997" NAME="Chiu 1997" YEAR="1997">
+<REFERENCE NOTES="&lt;p&gt;all asthma symptom scores&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Chiu C-P, Huang J-L, Lin T-Y, Shieh W-B, Hsieh K-H</AU>
+<TI>Double-blind placebo-controlled study of oxatomide in the treatment of childhood asthma</TI>
+<SO>Acta Paediatrica Sinica</SO>
+<YR>1997</YR>
+<VL>38</VL>
+<NO>1</NO>
+<PG>14-20</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Giorgi-1998" NAME="Giorgi 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Giorgi PL, Oggiano N, Kantar A, Coppa GV, Nicora M</AU>
+<TI>Protective effect of oxatomide in infantile bronchial asthma. Double-blind study vs placebo</TI>
+<TO>Effetto protettivo dell'oxatomide sull'asma bronchiale infantaile</TO>
+<SO>Minerva Pediatrica</SO>
+<YR>1998</YR>
+<VL>50</VL>
+<NO>7-8</NO>
+<PG>339-46</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kawakami-1984" NAME="Kawakami 1984" YEAR="1984">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kawakami Y, Takahashi S, et al</AU>
+<TI>Clinical evaluation of an oral anti-allergic agent KW-4354 (oxatomide) in adult bronchial asthma</TI>
+<TO>Keikou Kou Arerugii Zai KW-4354 (Oxatomide) no Kikansizensoku ni Taisuru Rinsyou Hyouka</TO>
+<SO>Yakuri to Tiryou</SO>
+<YR>1984</YR>
+<VL>12</VL>
+<NO>6</NO>
+<PG>2503-41</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Samanek-1978" NAME="Samanek 1978" YEAR="1978">
+<REFERENCE PRIMARY="YES" TYPE="OTHER">
+<AU>Samanek M</AU>
+<TI>Spirometric evaluation of oxatomide in asthma children. A double-blind placebo-controlled study</TI>
+<SO>Janssen research products information service, Clinical Research Report</SO>
+<YR>1978</YR>
+<VL>Serial Number: R3544/13, N15422</VL>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES MODIFIED="2010-09-23 09:59:41 +0100" MODIFIED_BY="[Empty name]">
+<STUDY DATA_SOURCE="PUB" ID="STD-Bianchi-1985" NAME="Bianchi 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bianchi G</AU>
+<TI>Treatment of asthma syndromes in pediatric patients using a combination of a beta2-stimulant and a histamine antagonist</TI>
+<SO>International Journal of Clinical Pharmacology, Therapy, &amp; Toxicology</SO>
+<YR>1985</YR>
+<VL>23</VL>
+<NO>1</NO>
+<PG>56-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ciprandi-1995" NAME="Ciprandi 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ciprandi G et al</AU>
+<TI>Oxatomide reduces inflammatory events induced by allergen-specific conjunctival challenge</TI>
+<SO>Annals of Allergy, Asthma, &amp; Immunology</SO>
+<YR>1995</YR>
+<VL>75</VL>
+<NO>5</NO>
+<PG>446-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-De-Beule-1977" NAME="De Beule 1977" YEAR="77197">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>De Beule R, Vannieuwenhuyse E, Callier J, Verstraete W, Degreef F, Gregoire M, Robience Y, Stevens W,Libert P</AU>
+<TI>Placebo-controlled clinical evaluation of oxatomide (R 35443). A novel potent anti-allergic drug in the treatment of hay fever</TI>
+<SO>Acta Allergologica</SO>
+<YR>1977</YR>
+<VL>32</VL>
+<PG>278-89</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-De-Cree-1980" NAME="De Cree 1980" YEAR="">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>De Cree J, Verhaegen H, Geulens H</AU>
+<TI>Exercise-induced asthma. The comparative acute effects of oxatomide, placebo and sodium cromoglycate</TI>
+<SO>Clinical Trials Journal</SO>
+<YR>1980</YR>
+<VL>17</VL>
+<NO>3</NO>
+<PG>84-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-De-Forenza-1997" MODIFIED="2010-09-23 09:59:41 +0100" MODIFIED_BY="[Empty name]" NAME="De Forenza 1997" YEAR="1997">
+<REFERENCE MODIFIED="2010-09-23 09:59:41 +0100" MODIFIED_BY="[Empty name]" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>De Benedictis FM, Forenza N, Armenio L, Boner AL, Giorgi PL, Del Giudice MM, et al</AU>
+<TI>Efficacy and safety of cetirizine and oxatomide in young children with perennial allergic rhinitis: A 10 day, multicenter, double-blinded, randomized, parallel-group study</TI>
+<SO>Pediatric Asthma, Allergy and Immunology</SO>
+<YR>1997</YR>
+<VL>11</VL>
+<NO>2</NO>
+<PG>119-28</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Evans-1999" NAME="Evans 1999" YEAR="1999">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Evans Y</AU>
+<TI>Allergies: New treatment options and studies</TI>
+<SO>Drug Topics</SO>
+<YR>1999</YR>
+<VL>143</VL>
+<NO>11 Suppl</NO>
+<PG>10s-15s</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fujimori-1998" NAME="Fujimori 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fujimori K, Suzuki E, Arakawa M</AU>
+<TI>Effects of oxatomide, H1-antagonist, on post infectious chronic cough; a comparison of oxatomide combined with dextromethorphan versus dextromethorphan alone</TI>
+<TO>Kaze Shyoukougun go Mansei Gaisou ni Taisuru Histamin (H1) Juyoutai Kikkouyaku, Okisatomido no Kouka</TO>
+<SO>Arerugii</SO>
+<YR>1998</YR>
+<VL>47</VL>
+<NO>1</NO>
+<PG>48-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Gasbarrini-1998" NAME="Gasbarrini 1998" YEAR="1998">
+<REFERENCE NOTES="&lt;p&gt;not asthma, foot allergy&lt;/p&gt;" PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Gasbarrini G, Addolorato G, Castelli E, et al</AU>
+<TI>Oxatomide in food allergies. Comparative study versus disodium chromoglycate</TI>
+<SO>International Journal of Immunopathology &amp; Pharmacology</SO>
+<YR>1998</YR>
+<VL>11</VL>
+<NO>3</NO>
+<PG>149-54</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kishida-1992" NAME="Kishida 1992" YEAR="1992">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Kishida M, Sasamoto A, Saito S, Iikura Y</AU>
+<TI>Oxatomide modifies methacholine- and exercise-induced bronchoconstriction in asthmatic children</TI>
+<SO>Annals of Allergy</SO>
+<YR>1992</YR>
+<VL>69</VL>
+<NO>5</NO>
+<PG>455-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nakamura-1985" NAME="Nakamura 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nakamura T et al</AU>
+<TI>Clinical evaluation of oxatomide dry syrop for brondhial asthma</TI>
+<TO>Kikanshi Zensoku ni Taisuru Shin Keikou Kou Arerugii Zai Okisatomido Dorai Shiroppu no Rinshou Hyouka</TO>
+<SO>Shyounika Rinsyou</SO>
+<YR>1984</YR>
+<VL>37</VL>
+<NO>2</NO>
+<PG>423-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Noma-1998" NAME="Noma 1998" YEAR="1998">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Noma T, Yoshizawa L, Kawano Y, Nakajima T</AU>
+<TI>Effect of oxatomide on T-cell activation and the production of interferon-gamma in mite sensitive asthma</TI>
+<SO>European Journal of Pharmacology</SO>
+<YR>1998</YR>
+<VL>343</VL>
+<NO>2-3</NO>
+<PG>239-47</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pattela-1996" NAME="Pattela 1996" YEAR="1996">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Petella V, De Crescenzo G, Marino O, Spadaro G, Genovese A, Marone G</AU>
+<TI>Oxatomide inhibits the release of proinflammatory mediators from human basophils and mast cells</TI>
+<SO>International Archives of Allergy &amp; Immunology</SO>
+<YR>1996</YR>
+<VL>111</VL>
+<NO>1</NO>
+<PG>23-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Scremin-1986" NAME="Scremin 1986" YEAR="1986">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Scremin S, Caprioglio L</AU>
+<TI>Treatment of asthma with an extempore combination of a bronchodilator, salbutamol, and a new antihistamine drug, oxatomide</TI>
+<SO>International Journal of Clinical Pharmacology Research</SO>
+<YR>1986</YR>
+<VL>6</VL>
+<NO>2</NO>
+<PG>105-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shindo-1998" NAME="Shindo 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shindo KI, Fukumura M</AU>
+<TI>Oxatomide inhibits synthesis and release of platelet-activationg factor in human neurotrophils</TI>
+<SO>Prostaglandins Leukotrienes &amp; Essential Fatty Acids</SO>
+<YR>1998</YR>
+<VL>58</VL>
+<NO>2</NO>
+<PG>99-104</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Silverman-1981" NAME="Silverman 1981" YEAR="1981">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Silverman M, Toolery M</AU>
+<TI>Oxatomide and exercise-induced asthma in children: the value of serial exercise tests</TI>
+<SO>Clinical Allergy</SO>
+<YR>1981</YR>
+<VL>11</VL>
+<NO>5</NO>
+<PG>421-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Simons-1999" MODIFIED="2008-10-01 16:23:52 +0100" MODIFIED_BY="[Empty name]" NAME="Simons 1999" YEAR="1999">
+<REFERENCE MODIFIED="2008-10-01 16:23:52 +0100" MODIFIED_BY="[Empty name]" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Simons FE</AU>
+<TI>Is antihistamine (H1-receptor antagonist) therapy useful in clinical asthma?</TI>
+<SO>Clinical &amp; Expreimental Allergy</SO>
+<YR>1999</YR>
+<VL>Suppl 29</VL>
+<NO>3</NO>
+<PG>98-104</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tomaselli-1997" NAME="Tomaselli 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tomaselli V, Paolino G, Pistorio MP, Vancheri C, Crimi N</AU>
+<TI>Protective effect of oxatomide in immediate and delayed response after specific bronchilal provocation test. Double blind cross-over study vs placebo</TI>
+<TO>Valutazinone della protezione esplicata dall'oxatomide sulla rispostaimmediata e tardiva dopo test di provocazione bronchiale specifica. Studio in doppio cieco cross-over versus placebo</TO>
+<SO>Archivio di Medicina Interna</SO>
+<YR>1997</YR>
+<VL>49</VL>
+<NO>1-2</NO>
+<PG>37-47</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2008-10-01 16:24:38 +0100" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2008-10-01 16:24:38 +0100" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Akamatsu-1993" MODIFIED="2008-10-01 16:24:38 +0100" MODIFIED_BY="[Empty name]" NAME="Akamatsu 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Akamatsu H, Miyachi Y, Asada Y, Niwa Y</AU>
+<TI>The effect of oxatomide on neutrophil oxgen radical generation</TI>
+<SO>Biological &amp; Pharmaceutical Bulletin</SO>
+<YR>1993</YR>
+<VL>16</VL>
+<NO>6</NO>
+<PG>568-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Allergy-1992" MODIFIED="2008-08-15 11:43:40 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Allergy 1992" TYPE="JOURNAL_ARTICLE">
+<AU>International asthma management project</AU>
+<TI>International consensus report on diagnosis and management of asthma</TI>
+<SO>Allergy</SO>
+<YR>1992</YR>
+<VL>47</VL>
+<NO>13 Suppl</NO>
+<PG>1-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hayashi-1996" MODIFIED="2008-08-15 11:43:40 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Hayashi 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Hayashi K, Hama R</AU>
+<TI>Evaluation of oral anti-allergic drugs in Japan</TI>
+<SO>Lancet</SO>
+<YR>1996</YR>
+<VL>347</VL>
+<NO>8999</NO>
+<PG>477</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jadad-1996" MODIFIED="2008-08-15 11:43:59 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Jadad 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Jadad AR, Moore RA, Carroll D, Jenkinson C, Raynolds JM, Gavaghan DJ, et al</AU>
+<TI>Assessing the quality of reports on randomized clinical trials: Is blinding necessary?</TI>
+<SO>Controlled Clinical Trials</SO>
+<YR>1996</YR>
+<VL>134</VL>
+<NO>17</NO>
+<PG>1-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Manabe-1988" MODIFIED="2008-08-15 11:43:40 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Manabe 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Manabe H, Ohmori K, Tomioka H, Yoshida S</AU>
+<TI>Oxatomide inhibits the release of chemical mediators from human lung tissues and from granulocytes</TI>
+<SO>International Archives of Allergy &amp; Applied Immunology</SO>
+<YR>1988</YR>
+<VL>87</VL>
+<NO>1</NO>
+<PG>91-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Schulz-1995" MODIFIED="2008-08-15 11:43:40 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Schulz 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Schulz KF, Chalmers I, Hayes RJ, Altman DG</AU>
+<TI>Empirical evidence of bias</TI>
+<SO>JAMA</SO>
+<YR>1995</YR>
+<VL>273</VL>
+<NO>5</NO>
+<PG>408-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Van-Ganse-1997" MODIFIED="2008-08-15 11:43:40 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Van Ganse 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Van Ganse E, Kaufman L, Derde MP, Yernault JC, Delaunois L,Vincken W</AU>
+<TI>Effects of antihistamines in adult asthma: a meta-analysis of clinical trials</TI>
+<SO>European Respiratory Journal</SO>
+<YR>1997</YR>
+<VL>10</VL>
+<PG>2216-24</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2014-06-05 17:01:04 +0100" MODIFIED_BY="Emma J Welsh">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2014-06-05 17:00:55 +0100" MODIFIED_BY="Emma J Welsh" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Banham-1980">
+<CHAR_METHODS>
+<P>double blind randomised cross over, placebo controlled trial, method of allocation unknown, <BR/>method of blinding unknown</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>15 asthmatic (not defined) patients (9 male, 6 female), <BR/>age 13-48 years, <BR/>non-smokers, excluded as far as possible those with bronchitis, 11 patients inhaled steroids or sodium cromoglycate, <BR/>excluded 2 women who required a short course predonisolone,<BR/>duration of asthma &gt;3 years</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>oxatomide (dose unknown) <BR/>for 4 weeks, <BR/>no description of dosage schedule</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1, subjective symptom assessment (visual analogue score)<BR/>2, frequency of bronchodilator therapy and any additional medication received<BR/>3, PEF<BR/>4, adverse events<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Scale =2<BR/>description of randomisation = 1, description of blinding = 1, description of withdrawals and drop outs = 0, method of randomisation = 0, method of blinding = 0</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Brompton-1981">
+<CHAR_METHODS>
+<P>randomised placebo controlled trial, <BR/>method of allocation unknown, <BR/>method of blinding unknown, stratified allocation (result of prick test, using inhaled corticosteroid, presence of rhinitis)</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>allocated oxatomide 43, placebo 44 at baseline period; oxatomide 30, placebo 32 at 28 weeks; oxatomide 25, placebo 27 at 52 weeks.<BR/>16 years old or more, <BR/>history of intermittent wheeze and breathlessness, bronchial reversibility of at least 20%, <BR/>prescribed inhaled steroid 56, SGC 19, inhaled bronchodilator 56,<BR/>duration of asthma; less than 5 years 11 patients, 5-9 years 7, 10 or more years 44</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>oxatomide 60 mg tablet, three times daily, if drowsiness occur, reduce the dose to half a tablet 3 times daily,<BR/>for 28-52 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1, daily card symptom scores (using 4- point scoring system) for asthma and rhinitis, all medication taken<BR/>2, PEF using mini-Wright peak flow meter <BR/>3, FEV1, FVC<BR/>4, daily dosage of inhaled therapy<BR/>5, adverse events</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Scale = 2<BR/>description of randomisation = 1, description of blinding = 0, description of withdrawals and drop out = 1, method of randomisation = 0, method of blinding = 0.<BR/>High drop out rate may due to long follow up period.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Chiu-1997">
+<CHAR_METHODS>
+<P>randomised placebo controlled trial,<BR/>method of allocation unknown, <BR/>method of blinding unknown</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>age 5-16 years old, male 37 / female 25, oxatomide 32 (20 male, 12 female), placebo 30 (17 male, 13 female), <BR/>weight &gt; 15 kg, mild to moderate asthma (meeting the criteria of the international consensus report on the diagnosis and management of asthma 1992).<BR/>inclusion criteria: patients' parent or guardian gave consent to participation, <BR/>exclusion criteria: renal or hepatic disease, untreated infection of respiratory tract, sinusitis or gastroesophageal reflux, taking histamine antogonist or sodium cromoglycate, taking Chinese medicines</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>1-2 mg/kg body weight twice daily. <BR/>patient below 30 kg 15 mg, over 30 kg 30 mg<BR/>for 16 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1, pulmonary function testing: FEV1% of predicted value, FVC% of predicted value, FEF(25-75%), <BR/>2, IgG4, IgE production, eosinophil cationic protein, <BR/>3, physicians' impression, symptoms of breathlessness, wheezing, chest tightness, <BR/>4, use of the inhaled bronchodilators or medications (no data was described)<BR/>5, adverse events</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Scale = 3<BR/>description of randomisation = 1, description of blinding = 1, description of withdrawals and drop out = 1, method of randomisation = 0, method of blinding = 0</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-05 17:00:54 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Giorgi-1998">
+<CHAR_METHODS>
+<P>randomised placebo controlled trial, <BR/>method of allocation unknown, <BR/>method of blinding unknown</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>16 patients age 17 to 26 months old (oxatomide 18-25 months, placebo 17-26 months)<BR/>normal cardiorespiratory function, no liver or kidney alteration, patients with aymptomatic allergic bronchial seasonal asthma, able to collaborate and to follow the assigned protocol.<BR/>Eight patients (7 males and 1 female) treated with oxatomide, eight (3 males and 5 females) treated with placebo.<BR/>disease duration: oxatomide 4.88+/-2.88 months, placebo 4.75+/-2.96 months.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>oxatomide 1mg/kg/day<BR/>for 2 months</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2014-06-05 17:00:54 +0100" MODIFIED_BY="Emma J Welsh">
+<P>1, cough, wheezing, sleep disorder, dyspnoea<BR/>2, rales on auscultation (thoracic objectivity)<BR/>3, physicians judgement of global efficacy ,<BR/>4, adverse events</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Scale= 2<BR/>description of randomisation = 1, description of blinding = 1, description of withdrawals and drop out = 0, method of randomisation = 0, method of blinding = 0</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2014-06-05 17:00:55 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Kawakami-1984">
+<CHAR_METHODS MODIFIED="2014-06-05 17:00:55 +0100" MODIFIED_BY="Emma J Welsh">
+<P>randomised placebo controlled trial having three treatment arms,<BR/>method of allocation: participants were administered pre-numbered identical containers, there was no description that they were administered serially, the participated centres were as many as 55 (mean 5.1 patients/center) and they had received the pre-packed containers with a block size of 6, no description that this block size was concealed,<BR/>method of blinding ; the oxatomide and the placebo were identical in appearance</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>283 adults (male 113, female 123, oxatomide 95, DSCG 93, placebo 95 ),<BR/>15-30 years 79, 31-40 years 61, 41-50 years 51, 51-60 years 45,<BR/>Inclusion criteria : age 15-60 years, out patients only, mild to moderate asthma with attack at admission to the trial, lung function ( FEV1.0, FVC etc ) &gt; 50% of predicted value, having reversibility of the airflow obstruction (no description to what in respond and of the degree) <BR/>Exclusion criteria : COPD, pregnancy, predonisolone &gt; 5 mg/day, continuous use of corticosteroids, liver, kidney or heart disease, DM, desensitisation &lt;/= 3 months after starting the desensitisation, driving a car</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>oxatomide 30 mg 2 times / day, DSCG capsule 20 mg 4 items / day, <BR/>for 6 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1, Global Improvement Rating (GIR, Zenpanteki Kaizen Do)<BR/>2, safety rating (Zenpanteki Anzen Do)<BR/>3, useful rating (Zenpanteki Yuyo Do)<BR/>4, attack, treatment and other symptoms scores<BR/>5, PEF (morning and evening) <BR/>6, adverse events</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Scale = 3<BR/>description of randomisation = 1, description of blinding = 1, description of withdrawals and drop outs = 1, method of randomisation = -1 ( inappropriate), method of blinding = 1<BR/>
+</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Samanek-1978">
+<CHAR_METHODS>
+<P>randomised placebo controlled trial, <BR/>method of allocation unknown, <BR/>method of blinding unknown</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>31 asthmatic children aged between 9 and 16 years and weighing 24.7 to 72kg<BR/>oxatomide 19 (male 14, female 5), placebo 12 (male 10, female 2)<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>oxatomide 1.5mg/kg b.i.d. orally (30mg tablet) <BR/>for 4 months</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>1, FVC<BR/>2, FEV1<BR/>3, FEV1/FVC ratio<BR/>4, Vmax25%, Vmax50%<BR/>5, Gaw/TGV</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Jadad Scale = 2<BR/>description of randomisation = 1, description of blinding = 1, description of withdrawals and drop outs = 0, method of radomisation = 0, method of blinding = 0</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2014-06-05 17:01:04 +0100" MODIFIED_BY="Emma J Welsh" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Bianchi-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>short intervention periods (10-21 days) &lt; 4 weeks<BR/>no description of blinding<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ciprandi-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>not asthma, conjunctival challenge</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-De-Beule-1977">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Type of participants; mainly hay fever including small number of asthmatics (37 asthma patients / 215 hay fever)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-De-Cree-1980">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>single blind, short treatment period</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-De-Forenza-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>not asthma, perennial allergic rhinitis</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Evans-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>not a clinical trial but commentary</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fujimori-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>not asthma, postinfectious chronic cough</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Gasbarrini-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>not asthma, food allergy</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2014-06-05 17:00:58 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Kishida-1992">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2014-06-05 17:00:58 +0100" MODIFIED_BY="Emma J Welsh">
+<P>intervention 2 hours before methacholine provocation and exercise provocation (shorter than 4 weeks)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Nakamura-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>not placebo controlled (tranilast controlled)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Noma-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>no clinical outcome (T-cell activation and the production of interferon-gamma in mite sensitive asthma)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Pattela-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>no clinical outcome (release of proinflammatory mediators from human basophils and mast cells)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Scremin-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>comparison between salbutamol + oxatomide and oxatomide</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shindo-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>no clinical outcome (synthesis and release of platelet-activating factor in human neutrophils)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2014-06-05 17:01:04 +0100" MODIFIED_BY="Emma J Welsh" STUDY_ID="STD-Silverman-1981">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2014-06-05 17:01:04 +0100" MODIFIED_BY="Emma J Welsh">
+<P>not randomised trial, excercise-induced asthma</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Simons-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>not a clinical trial but commentary</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Tomaselli-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>intervention for 7 days (shorter period than 4 weeks)</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-08-15 11:47:07 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-08-15 11:47:07 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 11:45:31 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Banham-1980">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 11:45:37 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Brompton-1981">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 11:45:40 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Chiu-1997">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 11:45:43 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Giorgi-1998">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 11:47:07 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="NO" STUDY_ID="STD-Kawakami-1984">
+<DESCRIPTION>
+<P>Investigators aware as to order of treatment group assignment</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-08-15 11:46:10 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Samanek-1978">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>oxatomide vs placebo</NAME>
+<CONT_OUTCOME CHI2="52.64279468521077" CI_END="0.6008121569535568" CI_START="0.2902030816104305" CI_STUDY="95" CI_TOTAL="95" DF="12" EFFECT_MEASURE="SMD" EFFECT_SIZE="0.44550761928199367" ESTIMABLE="YES" I2="77.20485762247871" I2_Q="77.20485762247873" ID="CMP-001.01" NO="1" P_CHI2="4.767955140705382E-7" P_Q="4.767955139595159E-7" P_Z="1.8836011065588833E-8" Q="52.642794685210774" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="380" TOTAL_2="315" UNITS="" WEIGHT="1300.0" Z="5.6223655903569405">
+<NAME>Pulmonary Function Tests</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours control</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours treatment</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.47569228286208415" CI_START="-0.21007710803864627" DF="0" EFFECT_SIZE="0.13280758741171894" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.01" NO="1" P_CHI2="1.0" P_Z="0.44776777208141494" STUDIES="1" TAU2="0.0" TOTAL_1="66" TOTAL_2="65" WEIGHT="100.0" Z="0.7591417513071944">
+<NAME>PEF (morning)</NAME>
+<CONT_DATA CI_END="0.47569228286208415" CI_START="-0.21007710803864627" EFFECT_SIZE="0.13280758741171894" ESTIMABLE="YES" MEAN_1="331.27" MEAN_2="318.2" ORDER="270" SD_1="97.81" SD_2="97.87" SE="0.17494438579228797" STUDY_ID="STD-Kawakami-1984" TOTAL_1="66" TOTAL_2="65" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.5709325886901053" CI_START="-0.11900851091330963" DF="0" EFFECT_SIZE="0.22596203888839786" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.02" NO="2" P_CHI2="1.0" P_Z="0.19920761534835843" STUDIES="1" TAU2="0.0" TOTAL_1="66" TOTAL_2="64" WEIGHT="100.0" Z="1.2838123670239947">
+<NAME>PEF (evening)</NAME>
+<CONT_DATA CI_END="0.5709325886901053" CI_START="-0.11900851091330963" EFFECT_SIZE="0.22596203888839786" ESTIMABLE="YES" MEAN_1="350.57" MEAN_2="328.02" ORDER="271" SD_1="97.08" SD_2="101.36" SE="0.17600861675152765" STUDY_ID="STD-Kawakami-1984" TOTAL_1="66" TOTAL_2="64" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="8.281505774857967E-32" CI_END="1.590793291254684" CI_START="0.07850823045626953" DF="0" EFFECT_SIZE="0.8346507608554768" ESTIMABLE="YES" I2="100.0" ID="CMP-001.01.03" NO="3" P_CHI2="0.0" P_Z="0.030505683739534016" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="2.163461735292179">
+<NAME>FEV1 change after treatment</NAME>
+<CONT_DATA CI_END="1.590793291254684" CI_START="0.07850823045626942" EFFECT_SIZE="0.8346507608554767" ESTIMABLE="YES" MEAN_1="0.3" MEAN_2="0.02" ORDER="272" SD_1="0.4" SD_2="0.14" SE="0.38579409436273476" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.7707221271254028" CI_START="0.23014369856101358" DF="0" EFFECT_SIZE="1.0004329128432081" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.04" NO="4" P_CHI2="1.0" P_Z="0.01091046140760137" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="2.5455535943709133">
+<NAME>FEV1/FVC change after treatment</NAME>
+<CONT_DATA CI_END="1.7707221271254028" CI_START="0.23014369856101358" EFFECT_SIZE="1.0004329128432081" ESTIMABLE="YES" MEAN_1="6.47" MEAN_2="-3.25" ORDER="273" SD_1="9.7" SD_2="9.06" SE="0.393011922850694" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.1748954989724107" CI_START="-0.2896321238739583" DF="0" EFFECT_SIZE="0.4426316875492262" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.05" NO="5" P_CHI2="1.0" P_Z="0.23612031652124865" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="1.184739915422785">
+<NAME>FVC change after treatment</NAME>
+<CONT_DATA CI_END="1.1748954989724107" CI_START="-0.2896321238739583" EFFECT_SIZE="0.4426316875492262" ESTIMABLE="YES" MEAN_1="0.16" MEAN_2="0.01" ORDER="274" SD_1="0.41" SD_2="0.11" SE="0.37361085060704585" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.961978223577566" CI_START="-0.4889176668897945" DF="0" EFFECT_SIZE="0.2365302783438858" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.06" NO="6" P_CHI2="1.0" P_Z="0.5227964015805295" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="0.6390407883199934">
+<NAME>Vmax25% change after treatment</NAME>
+<CONT_DATA CI_END="0.961978223577566" CI_START="-0.4889176668897945" EFFECT_SIZE="0.2365302783438858" ESTIMABLE="YES" MEAN_1="0.14" MEAN_2="0.04" ORDER="275" SD_1="0.43" SD_2="0.38" SE="0.370133303956563" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.581778704998243" CI_START="-0.8656095017857763" DF="0" EFFECT_SIZE="-0.14191539839376666" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.07" NO="7" P_CHI2="1.0" P_Z="0.7007218799633208" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="0.3843461877051784">
+<NAME>Vmax50% change after treatment</NAME>
+<CONT_DATA CI_END="0.581778704998243" CI_START="-0.8656095017857763" EFFECT_SIZE="-0.14191539839376666" ESTIMABLE="YES" MEAN_1="-0.05" MEAN_2="0.02" ORDER="276" SD_1="0.38" SD_2="0.61" SE="0.36923847024762513" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.33524729579918555" CI_START="-1.1254142084951972" DF="0" EFFECT_SIZE="-0.3950834563480058" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.08" NO="8" P_CHI2="1.0" P_Z="0.28902082830333475" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="1.0602721343077597">
+<NAME>Gaw/TGV change after treatment</NAME>
+<CONT_DATA CI_END="0.33524729579918555" CI_START="-1.1254142084951972" EFFECT_SIZE="-0.3950834563480058" ESTIMABLE="YES" MEAN_1="0.0" MEAN_2="0.03" ORDER="277" SD_1="0.07" SD_2="0.08" SE="0.37262457775140106" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.4714635717502881" CI_START="-0.9802911105964188" DF="0" EFFECT_SIZE="-0.2544137694230654" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.09" NO="9" P_CHI2="1.0" P_Z="0.4921139069465732" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="0.6869505313862672">
+<NAME>FEV1 after treatment</NAME>
+<CONT_DATA CI_END="0.4714635717502881" CI_START="-0.9802911105964188" EFFECT_SIZE="-0.2544137694230654" ESTIMABLE="YES" MEAN_1="2.34" MEAN_2="2.49" ORDER="278" SD_1="0.53" SD_2="0.64" SE="0.37035238754333305" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.9009036695290554" CI_START="-0.5475699998322402" DF="0" EFFECT_SIZE="0.17666683484840764" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.10" NO="10" P_CHI2="1.0" P_Z="0.6325760827458183" STUDIES="1" TAU2="0.0" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0" Z="0.4781041463021532">
+<NAME>FEV1/FVC after treatment</NAME>
+<CONT_DATA CI_END="0.9009036695290554" CI_START="-0.5475699998322402" EFFECT_SIZE="0.17666683484840764" ESTIMABLE="YES" MEAN_1="78.51" MEAN_2="77.05" ORDER="279" SD_1="7.04" SD_2="9.47" SE="0.36951537905458237" STUDY_ID="STD-Samanek-1978" TOTAL_1="19" TOTAL_2="12" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.4150459988015145" CI_START="0.3674364315395686" DF="0" EFFECT_SIZE="0.8912412151705416" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.11" NO="11" P_CHI2="1.0" P_Z="8.535110587452085E-4" STUDIES="1" TAU2="0.0" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0" Z="3.3348314827583123">
+<NAME>FEV1% of predicted value after treatment</NAME>
+<CONT_DATA CI_END="1.4150459988015145" CI_START="0.3674364315395686" EFFECT_SIZE="0.8912412151705416" ESTIMABLE="YES" MEAN_1="91.81" MEAN_2="85.9" ORDER="280" SD_1="7.72" SD_2="5.0" SE="0.26725224941002906" STUDY_ID="STD-Chiu-1997" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.5632759492330037" CI_START="0.49882788178141324" DF="0" EFFECT_SIZE="1.0310519155072084" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.12" NO="12" P_CHI2="1.0" P_Z="1.464911220106119E-4" STUDIES="1" TAU2="0.0" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0" Z="3.7969435661116795">
+<NAME>FVC% of predicted value after treatment</NAME>
+<CONT_DATA CI_END="1.5632759492330037" CI_START="0.49882788178141324" EFFECT_SIZE="1.0310519155072084" ESTIMABLE="YES" MEAN_1="86.7" MEAN_2="79.75" ORDER="281" SD_1="8.04" SD_2="4.75" SE="0.27154786410562154" STUDY_ID="STD-Chiu-1997" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="2.665584348894968" CI_START="1.4225016032800184" DF="0" EFFECT_SIZE="2.044042976087493" ESTIMABLE="YES" I2="0.0" ID="CMP-001.01.13" NO="13" P_CHI2="1.0" P_Z="1.1509079607407509E-10" STUDIES="1" TAU2="0.0" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0" Z="6.4456700571476">
+<NAME>FEF25%-75% of predicted value</NAME>
+<CONT_DATA CI_END="2.665584348894968" CI_START="1.4225016032800184" EFFECT_SIZE="2.044042976087493" ESTIMABLE="YES" MEAN_1="113.18" MEAN_2="99.54" ORDER="282" SD_1="7.5" SD_2="5.45" SE="0.3171187724417968" STUDY_ID="STD-Chiu-1997" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="1.9635627530364381" CI_END="0.5049197182837691" CI_START="0.02938795214093374" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="0.1218136138366199" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="9" I2="0.0" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.2967776687685298" LOG_CI_START="-1.5318306760872673" LOG_EFFECT_SIZE="-0.9143041724278985" METHOD="PETO" NO="2" P_CHI2="0.374643217854288" P_Q="0.3746432178542882" P_Z="0.0037090099909150706" Q="1.9635627530364372" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="32" TOTAL_2="32" WEIGHT="300.0" Z="2.9019050004400464">
+<NAME>Symptoms and signs</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.3534419523550721" CI_START="0.007013180410955218" DF="0" EFFECT_SIZE="0.049787068367863944" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="6" I2="0.0" ID="CMP-001.02.01" LOG_CI_END="-0.45168190249489953" LOG_CI_START="-2.154084988924611" LOG_EFFECT_SIZE="-1.3028834457097556" NO="1" P_CHI2="1.0" P_Z="0.002699796063251122" STUDIES="1" TAU2="0.0" TOTAL_1="8" TOTAL_2="8" WEIGHT="100.0" Z="3.0">
+<NAME>Rales on auscultation</NAME>
+<DICH_DATA CI_END="0.3534419523550721" CI_START="0.007013180410955218" EFFECT_SIZE="0.049787068367863944" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="6" LOG_CI_END="-0.45168190249489953" LOG_CI_START="-2.154084988924611" LOG_EFFECT_SIZE="-1.3028834457097556" ORDER="283" O_E="-3.0" SE="1.0" STUDY_ID="STD-Giorgi-1998" TOTAL_1="8" TOTAL_2="8" VAR="1.0" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="6.820467167072353" CI_START="0.0026853936013588454" DF="0" EFFECT_SIZE="0.1353352832366127" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" I2="0.0" ID="CMP-001.02.02" LOG_CI_END="0.8338141226232082" LOG_CI_START="-2.570992050236215" LOG_EFFECT_SIZE="-0.8685889638065036" NO="2" P_CHI2="1.0" P_Z="0.31731052126128756" STUDIES="1" TAU2="0.0" TOTAL_1="8" TOTAL_2="8" WEIGHT="100.0" Z="1.0">
+<NAME>Cough</NAME>
+<DICH_DATA CI_END="6.820467167072353" CI_START="0.0026853936013588454" EFFECT_SIZE="0.1353352832366127" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="1" LOG_CI_END="0.8338141226232082" LOG_CI_START="-2.570992050236215" LOG_EFFECT_SIZE="-0.8685889638065036" ORDER="284" O_E="-0.5" SE="2.0" STUDY_ID="STD-Giorgi-1998" TOTAL_1="8" TOTAL_2="8" VAR="0.25" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="5.268814354325622" CI_START="0.04075132618127311" DF="0" EFFECT_SIZE="0.46336936923117533" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" I2="0.0" ID="CMP-001.02.03" LOG_CI_END="0.7217128965586762" LOG_CI_START="-1.3898582533329098" LOG_EFFECT_SIZE="-0.33407267838711674" NO="3" P_CHI2="1.0" P_Z="0.5351434558789836" STUDIES="1" TAU2="0.0" TOTAL_1="8" TOTAL_2="8" WEIGHT="100.0" Z="0.6201736729460423">
+<NAME>Wheezing</NAME>
+<DICH_DATA CI_END="5.268814354325622" CI_START="0.04075132618127311" EFFECT_SIZE="0.46336936923117533" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="2" LOG_CI_END="0.7217128965586762" LOG_CI_START="-1.3898582533329098" LOG_EFFECT_SIZE="-0.33407267838711674" ORDER="285" O_E="-0.5" SE="1.2403473458920844" STUDY_ID="STD-Giorgi-1998" TOTAL_1="8" TOTAL_2="8" VAR="0.65" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.0" CI_START="0.0" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-001.02.04" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" NO="4" P_CHI2="0.0" P_Z="0.0" STUDIES="1" TAU2="0.0" TOTAL_1="8" TOTAL_2="8" WEIGHT="0.0" Z="0.0">
+<NAME>Dyspnea</NAME>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="286" O_E="0.0" SE="0.0" STUDY_ID="STD-Giorgi-1998" TOTAL_1="8" TOTAL_2="8" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="20.60847333077076" CI_END="-0.13287793365303938" CI_START="-0.40230197734790907" CI_STUDY="95" CI_TOTAL="95" DF="5" EFFECT_MEASURE="SMD" EFFECT_SIZE="-0.2675899555004742" ESTIMABLE="YES" I2="75.7381348936001" I2_Q="75.7381348936001" ID="CMP-001.03" NO="3" P_CHI2="9.602701364971322E-4" P_Q="9.602701364971322E-4" P_Z="9.891286400917354E-5" Q="20.60847333077076" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="441" TOTAL_2="425" UNITS="" WEIGHT="600.0" Z="3.893243291972698">
+<NAME>Symptom scores</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="-0.9344273458066776" CI_START="-2.0707077801842235" DF="0" EFFECT_SIZE="-1.5025675629954505" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.01" NO="1" P_CHI2="1.0" P_Z="2.177119337939121E-7" STUDIES="1" TAU2="0.0" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0" Z="5.1835413489671875">
+<NAME>Asthma symptom score (symptoms and medication)</NAME>
+<CONT_DATA CI_END="-0.9344273458066776" CI_START="-2.0707077801842235" EFFECT_SIZE="-1.5025675629954505" ESTIMABLE="YES" MEAN_1="0.84" MEAN_2="2.57" ORDER="287" SD_1="0.63" SD_2="1.5" SE="0.28987278422980745" STUDY_ID="STD-Chiu-1997" TOTAL_1="32" TOTAL_2="30" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.25338094982650783" CI_START="-0.370461489907709" DF="0" EFFECT_SIZE="-0.058540270040600605" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.02" NO="2" P_CHI2="1.0" P_Z="0.7129932127270938" STUDIES="1" TAU2="0.0" TOTAL_1="79" TOTAL_2="79" WEIGHT="99.99999999999999" Z="0.367839100442442">
+<NAME>Day life score</NAME>
+<CONT_DATA CI_END="0.25338094982650783" CI_START="-0.370461489907709" EFFECT_SIZE="-0.058540270040600605" ESTIMABLE="YES" MEAN_1="4.81" MEAN_2="5.12" ORDER="288" SD_1="5.27" SD_2="5.27" SE="0.1591464038765524" STUDY_ID="STD-Kawakami-1984" TOTAL_1="79" TOTAL_2="79" WEIGHT="99.99999999999999"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.17113841453068093" CI_START="-0.45341279874890583" DF="0" EFFECT_SIZE="-0.14113719210911244" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.03" NO="3" P_CHI2="1.0" P_Z="0.37570792066181324" STUDIES="1" TAU2="0.0" TOTAL_1="80" TOTAL_2="78" WEIGHT="100.0" Z="0.8858322825453792">
+<NAME>Sleep score</NAME>
+<CONT_DATA CI_END="0.17113841453068093" CI_START="-0.45341279874890583" EFFECT_SIZE="-0.14113719210911244" ESTIMABLE="YES" MEAN_1="3.81" MEAN_2="4.5" ORDER="289" SD_1="4.47" SD_2="5.24" SE="0.15932721677693237" STUDY_ID="STD-Kawakami-1984" TOTAL_1="80" TOTAL_2="78" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.017629387360835636" CI_START="-0.6018726070783514" DF="0" EFFECT_SIZE="-0.2921216098587579" ESTIMABLE="YES" I2="0.0" ID="CMP-001.03.04" NO="4" P_CHI2="1.0" P_Z="0.06454258945597606" STUDIES="1" TAU2="0.0" TOTAL_1="83" TOTAL_2="79" WEIGHT="100.00000000000001" Z="1.8484132079262583">
+<NAME>Asthma attack score (based on the criteria of Japanese Society of Allergology)</NAME>
+<CONT_DATA CI_END="0.017629387360835636" CI_START="-0.6018726070783514" EFFECT_SIZE="-0.2921216098587579" ESTIMABLE="YES" MEAN_1="19.37" MEAN_2="25.62" ORDER="290" SD_1="17.08" SD_2="24.97" SE="0.15803912707726767" STUDY_ID="STD-Kawakami-1984" TOTAL_1="83" TOTAL_2="79" WEIGHT="100.00000000000001"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="3.0944306332337925E-32" CI_END="0.06480788494250758" CI_START="-0.553689616171988" DF="0" EFFECT_SIZE="-0.24444086561474018" ESTIMABLE="YES" I2="100.0" ID="CMP-001.03.05" NO="5" P_CHI2="0.0" P_Z="0.12132810998266862" STUDIES="1" TAU2="0.0" TOTAL_1="83" TOTAL_2="79" WEIGHT="100.0" Z="1.5492230513183483">
+<NAME>Asthma score (based on the criteria of Japanese Society of Allergology)</NAME>
+<CONT_DATA CI_END="0.06480788494250761" CI_START="-0.553689616171988" EFFECT_SIZE="-0.24444086561474015" ESTIMABLE="YES" MEAN_1="51.25" MEAN_2="62.5" ORDER="291" SD_1="39.85" SD_2="51.33" SE="0.15778287407144337" STUDY_ID="STD-Kawakami-1984" TOTAL_1="83" TOTAL_2="79" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="3.135346898213938E-32" CI_END="0.07685047223295374" CI_START="-0.5375980808051338" DF="0" EFFECT_SIZE="-0.23037380428609003" ESTIMABLE="YES" I2="100.0" ID="CMP-001.03.06" NO="6" P_CHI2="0.0" P_Z="0.1416458095487258" STUDIES="1" TAU2="0.0" TOTAL_1="84" TOTAL_2="80" WEIGHT="99.99999999999999" Z="1.4696897149474684">
+<NAME>Asthma treatment score (based on the criteria of Japanese Society of Allergology)</NAME>
+<CONT_DATA CI_END="0.07685047223295371" CI_START="-0.5375980808051338" EFFECT_SIZE="-0.23037380428609006" ESTIMABLE="YES" MEAN_1="31.56" MEAN_2="36.87" ORDER="292" SD_1="25.76" SD_2="19.55" SE="0.1567499601739571" STUDY_ID="STD-Kawakami-1984" TOTAL_1="84" TOTAL_2="80" WEIGHT="99.99999999999999"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="5.482723058691059" CI_END="5.121640396176575" CI_START="2.269657558539637" CI_STUDY="95" CI_TOTAL="95" DF="9" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="3.409453011452732" ESTIMABLE="YES" EVENTS_1="96" EVENTS_2="40" I2="0.0" I2_Q="6.447583033837126" ID="CMP-001.04" LOG_CI_END="0.7094090822466732" LOG_CI_START="0.35596033664009646" LOG_EFFECT_SIZE="0.5326847094433849" METHOD="PETO" NO="4" P_CHI2="0.7903635316314803" P_Q="0.3433795524951486" P_Z="3.46818548069599E-9" Q="2.137838940840388" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="534" TOTAL_2="531" WEIGHT="300.0" Z="5.907746787062246">
+<NAME>Adverse events (parallel)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="2.5225417524325433" CI_END="5.219164438229674" CI_START="1.6935190986061812" DF="3" EFFECT_SIZE="2.9730043146467438" ESTIMABLE="YES" EVENTS_1="51" EVENTS_2="25" I2="0.0" ID="CMP-001.04.01" LOG_CI_END="0.7176009802221461" LOG_CI_START="0.2287900987500653" LOG_EFFECT_SIZE="0.47319553948610577" NO="1" P_CHI2="0.4712313604274878" P_Z="1.4781991661890238E-4" STUDIES="4" TAU2="0.0" TOTAL_1="178" TOTAL_2="177" WEIGHT="100.0" Z="3.794703637712455">
+<NAME>any adverse events</NAME>
+<DICH_DATA CI_END="8.690984159918056" CI_START="1.629146160695008" EFFECT_SIZE="3.7628291851732563" ESTIMABLE="YES" EVENTS_1="30" EVENTS_2="16" LOG_CI_END="0.939068958384309" LOG_CI_START="0.21196004927829584" LOG_EFFECT_SIZE="0.5755145038313024" ORDER="293" O_E="7.264367816091955" SE="0.42710737245602015" STUDY_ID="STD-Brompton-1981" TOTAL_1="43" TOTAL_2="44" VAR="5.481833795745805" WEIGHT="45.19420991431279"/>
+<DICH_DATA CI_END="74.11269415409464" CI_START="0.7413882056932009" EFFECT_SIZE="7.4125756210640565" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" LOG_CI_END="1.8698926010820334" LOG_CI_START="-0.1299543271857424" LOG_EFFECT_SIZE="0.8699691369481455" ORDER="294" O_E="1.4516129032258065" SE="1.1747199850664418" STUDY_ID="STD-Chiu-1997" TOTAL_1="32" TOTAL_2="30" VAR="0.7246549871206563" WEIGHT="5.974316410103583"/>
+<DICH_DATA CI_END="150.1974311154424" CI_START="0.48372614409978126" EFFECT_SIZE="8.5237564610426" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="2.176662504825748" LOG_CI_START="-0.3154004395260977" LOG_EFFECT_SIZE="0.9306310326498254" ORDER="295" O_E="1.0" SE="1.4638501094227998" STUDY_ID="STD-Giorgi-1998" TOTAL_1="8" TOTAL_2="8" VAR="0.4666666666666667" WEIGHT="3.8473678843954415"/>
+<DICH_DATA CI_END="4.395240553506616" CI_START="0.820687256406921" EFFECT_SIZE="1.8992414041152803" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="9" LOG_CI_END="0.6429826491939998" LOG_CI_START="-0.0858223102286644" LOG_EFFECT_SIZE="0.2785801694826677" ORDER="296" O_E="3.5" SE="0.4281036408076055" STUDY_ID="STD-Kawakami-1984" TOTAL_1="95" TOTAL_2="95" VAR="5.456349206349206" WEIGHT="44.98410579118819"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.49445604940873056" CI_END="10.740107103790733" CI_START="2.5324409177179352" DF="3" EFFECT_SIZE="5.215236014823559" ESTIMABLE="YES" EVENTS_1="33" EVENTS_2="9" I2="0.0" ID="CMP-001.04.02" LOG_CI_END="1.0310086123089164" LOG_CI_START="0.40353932198556886" LOG_EFFECT_SIZE="0.7172739671472426" NO="2" P_CHI2="0.920107743376024" P_Z="7.430942915805373E-6" STUDIES="4" TAU2="0.0" TOTAL_1="178" TOTAL_2="177" WEIGHT="100.0" Z="4.480956006412071">
+<NAME>drowsiness</NAME>
+<DICH_DATA CI_END="10.441781531483008" CI_START="1.8653013469922275" EFFECT_SIZE="4.413283262569243" ESTIMABLE="YES" EVENTS_1="24" EVENTS_2="9" LOG_CI_END="1.0187746024291926" LOG_CI_START="0.27074900384644063" LOG_EFFECT_SIZE="0.6447618031378166" ORDER="297" O_E="7.689655172413794" SE="0.4393939393939394" STUDY_ID="STD-Brompton-1981" TOTAL_1="43" TOTAL_2="44" VAR="5.179548156956005" WEIGHT="70.36424467254821"/>
+<DICH_DATA CI_END="117.45526228046293" CI_START="0.4375894306326707" EFFECT_SIZE="7.169182753014374" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="2.069872478995032" LOG_CI_START="-0.3589331763303456" LOG_EFFECT_SIZE="0.8554696513323429" ORDER="298" O_E="0.967741935483871" SE="1.4266924647200212" STUDY_ID="STD-Chiu-1997" TOTAL_1="32" TOTAL_2="30" VAR="0.49129151669197046" WEIGHT="6.674203123227135"/>
+<DICH_DATA CI_END="150.1974311154424" CI_START="0.48372614409978126" EFFECT_SIZE="8.5237564610426" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="2.176662504825748" LOG_CI_START="-0.3154004395260977" LOG_EFFECT_SIZE="0.9306310326498254" ORDER="299" O_E="1.0" SE="1.4638501094227998" STUDY_ID="STD-Giorgi-1998" TOTAL_1="8" TOTAL_2="8" VAR="0.4666666666666667" WEIGHT="6.339674141219641"/>
+<DICH_DATA CI_END="45.38305572571506" CI_START="1.3117310445882202" EFFECT_SIZE="7.715592206285764" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="0" LOG_CI_END="1.6568937343902066" LOG_CI_START="0.11784479706308207" LOG_EFFECT_SIZE="0.8873692657266443" ORDER="300" O_E="2.5" SE="0.9040449642010608" STUDY_ID="STD-Kawakami-1984" TOTAL_1="95" TOTAL_2="95" VAR="1.2235449735449735" WEIGHT="16.62187806300501"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.3278863160093957" CI_END="6.351468216913683" CI_START="0.8295869360244418" DF="1" EFFECT_SIZE="2.2954509485776526" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="6" I2="0.0" ID="CMP-001.04.03" LOG_CI_END="0.8028741291973825" LOG_CI_START="-0.08113809564646147" LOG_EFFECT_SIZE="0.3608680167754605" NO="3" P_CHI2="0.5669065054643071" P_Z="0.10955917190317256" STUDIES="4" TAU2="0.0" TOTAL_1="178" TOTAL_2="177" WEIGHT="100.0" Z="1.6001776812017219">
+<NAME>weight gain</NAME>
+<DICH_DATA CI_END="6.079304846646387" CI_START="0.7387263592647587" EFFECT_SIZE="2.1191844507318582" ESTIMABLE="YES" EVENTS_1="11" EVENTS_2="6" LOG_CI_END="0.7838539216204782" LOG_CI_START="-0.13151640418871827" LOG_EFFECT_SIZE="0.3261687587158799" ORDER="301" O_E="2.597701149425287" SE="0.5376930605365123" STUDY_ID="STD-Brompton-1981" TOTAL_1="43" TOTAL_2="44" VAR="3.4588452899986786" WEIGHT="93.265899403682"/>
+<DICH_DATA CI_END="350.53798236350906" CI_START="0.13745357340801148" EFFECT_SIZE="6.9413758211970364" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="2.544735082608432" LOG_CI_START="-0.8618439652333311" LOG_EFFECT_SIZE="0.8414455586875504" ORDER="302" O_E="0.4838709677419355" SE="2.001041395540499" STUDY_ID="STD-Chiu-1997" TOTAL_1="32" TOTAL_2="30" VAR="0.2497398543184183" WEIGHT="6.734100596317997"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="303" O_E="0.0" SE="0.0" STUDY_ID="STD-Giorgi-1998" TOTAL_1="8" TOTAL_2="8" VAR="0.0" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.0" CI_START="0.0" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="304" O_E="0.0" SE="0.0" STUDY_ID="STD-Kawakami-1984" TOTAL_1="95" TOTAL_2="95" VAR="0.0" WEIGHT="0.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0021115479831065598" CI_END="35.09832038833029" CI_START="2.0111917499710703" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="PETO_OR" EFFECT_SIZE="8.401752936313427" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-001.05" LOG_CI_END="1.5452863340289795" LOG_CI_START="0.3034534788435788" LOG_EFFECT_SIZE="0.9243699064362791" METHOD="PETO" NO="5" P_CHI2="0.9989447833377039" P_Q="0.9989447833377033" P_Z="0.003524707336368048" Q="0.002111547983107593" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="45" TOTAL_2="45" WEIGHT="300.0" Z="2.9178350652307112">
+<NAME>Adverse events (cross-over)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="89.44675192406797" CI_START="0.8209055642972487" DF="0" EFFECT_SIZE="8.568975222439555" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" I2="0.0" ID="CMP-001.05.01" LOG_CI_END="1.951564574673479" LOG_CI_START="-0.08570680057061958" LOG_EFFECT_SIZE="0.9329288870514297" NO="1" P_CHI2="1.0" P_Z="0.07264494769052672" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="100.0" Z="1.795054935711501">
+<NAME>any adverse events</NAME>
+<DICH_DATA CI_END="89.44675192406797" CI_START="0.8209055642972487" EFFECT_SIZE="8.568975222439555" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" LOG_CI_END="1.951564574673479" LOG_CI_START="-0.08570680057061958" LOG_EFFECT_SIZE="0.9329288870514297" ORDER="305" O_E="1.5" SE="1.1967032904743342" STUDY_ID="STD-Banham-1980" TOTAL_1="15" TOTAL_2="15" VAR="0.6982758620689655" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="89.44675192406797" CI_START="0.8209055642972487" DF="0" EFFECT_SIZE="8.568975222439555" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" I2="0.0" ID="CMP-001.05.02" LOG_CI_END="1.951564574673479" LOG_CI_START="-0.08570680057061958" LOG_EFFECT_SIZE="0.9329288870514297" NO="2" P_CHI2="1.0" P_Z="0.07264494769052672" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="100.0" Z="1.795054935711501">
+<NAME>lethargy</NAME>
+<DICH_DATA CI_END="89.44675192406797" CI_START="0.8209055642972487" EFFECT_SIZE="8.568975222439555" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" LOG_CI_END="1.951564574673479" LOG_CI_START="-0.08570680057061958" LOG_EFFECT_SIZE="0.9329288870514297" ORDER="306" O_E="1.5" SE="1.1967032904743342" STUDY_ID="STD-Banham-1980" TOTAL_1="15" TOTAL_2="15" VAR="0.6982758620689655" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="133.25952883863062" CI_START="0.47263047688345405" DF="0" EFFECT_SIZE="7.936152384138449" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" I2="0.0" ID="CMP-001.05.03" LOG_CI_END="2.1246982734139985" LOG_CI_START="-0.32547827695766934" LOG_EFFECT_SIZE="0.8996099982281646" NO="3" P_CHI2="1.0" P_Z="0.1500808834687166" STUDIES="1" TAU2="0.0" TOTAL_1="15" TOTAL_2="15" WEIGHT="100.0" Z="1.4392458342578487">
+<NAME>weight gain</NAME>
+<DICH_DATA CI_END="133.25952883863062" CI_START="0.4726304768834543" EFFECT_SIZE="7.936152384138449" ESTIMABLE="YES" EVENTS_1="2" EVENTS_2="0" LOG_CI_END="2.1246982734139985" LOG_CI_START="-0.3254782769576691" LOG_EFFECT_SIZE="0.8996099982281646" ORDER="307" O_E="1.0" SE="1.439245834257849" STUDY_ID="STD-Banham-1980" TOTAL_1="15" TOTAL_2="15" VAR="0.48275862068965514" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

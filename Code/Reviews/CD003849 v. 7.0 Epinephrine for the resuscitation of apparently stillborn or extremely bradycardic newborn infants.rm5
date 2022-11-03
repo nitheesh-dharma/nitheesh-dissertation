@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD003849" GROUP_ID="NEONATAL" ID="408302040214501048" MERGED_FROM="" MODIFIED="2011-01-18 04:30:32 +0100" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Do not remove&lt;/p&gt;&lt;p&gt;CL 4/02 (protocol)&lt;/p&gt;&lt;p&gt;CL 2/03 (review)&lt;/p&gt;&lt;p&gt;Synopsis added for CL 3/03&lt;/p&gt;&lt;p&gt;sent 10/05&lt;/p&gt;&lt;p&gt;sent to Loni Mar 13/07&lt;/p&gt;&lt;p&gt;&lt;br&gt;CL 1/08 (minor update)&lt;/p&gt;" NOTES_MODIFIED="2011-01-17 22:27:49 -0500" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="" REVMAN_SUB_VERSION="5.0.25" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2011-01-18 04:30:32 +0100" MODIFIED_BY="Diane Haughton">
+<TITLE>Epinephrine for the resuscitation of apparently stillborn or extremely bradycardic newborn infants</TITLE>
+<CONTACT MODIFIED="2011-01-18 04:30:32 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="15354" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Adrian Joseph Anthony</FIRST_NAME><LAST_NAME>Ziino</LAST_NAME><POSITION>Staff Neonatologist</POSITION><EMAIL_1>adrianziino@rogers.com</EMAIL_1><ADDRESS><DEPARTMENT>Neonatal Intensive Care Unit</DEPARTMENT><ORGANISATION>Sunnybrook Health Sciences Centre</ORGANISATION><ADDRESS_1>Rm M4-232</ADDRESS_1><ADDRESS_2>2075 Bayview Av</ADDRESS_2><CITY>Toronto</CITY><ZIP>M4N 3M5</ZIP><REGION>Ontario</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 416 323 6400 ext. 4956</PHONE_1><PHONE_2>1 416 323 6283</PHONE_2><FAX_1>1 416 323 6274</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2011-01-18 04:30:32 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="15354" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Adrian Joseph Anthony</FIRST_NAME><LAST_NAME>Ziino</LAST_NAME><POSITION>Staff Neonatologist</POSITION><EMAIL_1>adrianziino@rogers.com</EMAIL_1><ADDRESS><DEPARTMENT>Neonatal Intensive Care Unit</DEPARTMENT><ORGANISATION>Sunnybrook Health Sciences Centre</ORGANISATION><ADDRESS_1>Rm M4-232</ADDRESS_1><ADDRESS_2>2075 Bayview Av</ADDRESS_2><CITY>Toronto</CITY><ZIP>M4N 3M5</ZIP><REGION>Ontario</REGION><COUNTRY CODE="CA">Canada</COUNTRY><PHONE_1>+1 416 323 6400 ext. 4956</PHONE_1><PHONE_2>1 416 323 6283</PHONE_2><FAX_1>1 416 323 6274</FAX_1></ADDRESS></PERSON><PERSON ID="3CD66AA082E26AA20112E9E66ECCE9CB" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Mark W</FIRST_NAME><LAST_NAME>Davies</LAST_NAME><SUFFIX>MB BS FRACP DCH</SUFFIX><POSITION>Staff Consultant Neonatologist</POSITION><EMAIL_1>Mark_Davies@health.qld.gov.au</EMAIL_1><ADDRESS><DEPARTMENT>Grantley Stable Neonatal Unit, Royal Brisbane and Women's Hospital</DEPARTMENT><ORGANISATION>Department of Paediatrics &amp; Child Health, The University of Queensland</ORGANISATION><ADDRESS_1>Butterfield St</ADDRESS_1><ADDRESS_2>Herston</ADDRESS_2><CITY>Brisbane</CITY><ZIP>4029</ZIP><REGION>Queensland</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 7 3636 2245</PHONE_1><PHONE_2>+61 (0)408 159 138</PHONE_2><FAX_1>+61 7 3636 5259</FAX_1></ADDRESS></PERSON><PERSON ID="17716" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Peter</FIRST_NAME><MIDDLE_INITIALS>G</MIDDLE_INITIALS><LAST_NAME>Davis</LAST_NAME><POSITION>Consultant Neonatologist</POSITION><EMAIL_1>pgd@unimelb.edu.au</EMAIL_1><ADDRESS><DEPARTMENT>Department of Newborn Research</DEPARTMENT><ORGANISATION>The Royal Women's Hospital</ORGANISATION><ADDRESS_1>20 Flemington Rd</ADDRESS_1><CITY>Parkville</CITY><ZIP>3052</ZIP><REGION>Victoria</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>+61 3 83453763</PHONE_1><FAX_1>+61 3 83453789</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2010-12-07 14:18:33 -0500" MODIFIED_BY="[Empty name]" NOTES="&lt;p&gt;Minor update: 31/08/07&lt;/p&gt;&lt;p&gt;New studies sought but none found: 30/08/07&lt;/p&gt;" NOTES_MODIFIED="2010-12-07 14:18:33 -0500" NOTES_MODIFIED_BY="[Empty name]">
+<UP_TO_DATE>
+<DATE DAY="7" MONTH="12" YEAR="2010"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="28" MONTH="10" YEAR="2010"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="7" MONTH="12" YEAR="2012"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="4" YEAR="2002"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2003"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2003"/>
+</DATES>
+<WHATS_NEW MODIFIED="2011-01-17 22:22:55 -0500" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2011-01-17 22:22:55 -0500" MODIFIED_BY="[Empty name]">
+<DATE DAY="7" MONTH="12" YEAR="2010"/>
+<DESCRIPTION>
+<P>This review updates the existing review "Epinephrine for the resuscitation of apparently stillborn or extremely bradycardic newborn infants" published in the Cochrane Database of Systematic Reviews (<LINK REF="REF-Ziino-2007" TYPE="REFERENCE">Ziino 2007</LINK>).</P>
+<P>Updated search found no new trials.</P>
+<P>No changes to conclusions.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2010-12-07 14:18:36 -0500" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2010-12-07 14:18:36 -0500" MODIFIED_BY="[Empty name]">
+<DATE DAY="13" MONTH="2" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-05-19 11:26:34 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="11" MONTH="9" YEAR="2007"/>
+<DESCRIPTION>
+<P>This updates the review "Epinephrine for the resuscitation of apparently stillborn or extremely bradycardic newborn infants" published in The Cochrane Library, Issue 2, 2003 (Ziino 2003).<BR/>
+<BR/>An updated search was done in August 2007. No new trials were identified.<BR/>
+<BR/>No changes have been made to the conclusions.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="2" MONTH="4" YEAR="2002"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Royal Women's Hospital, Melbourne</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Murdoch Children's Research Institute, Melbourne</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Dept of Paediatrics and Child Health, University of Queensland, Brisbane</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Grantley Stable Neonatal Unit, Royal Women's Hospital, Brisbane</NAME>
+<COUNTRY CODE="AU">Australia</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2011-01-17 22:27:49 -0500" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-02-13 11:18:24 -0500" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-02-13 11:18:24 -0500" MODIFIED_BY="[Empty name]">Epinephrine for the resuscitation of apparently stillborn or extremely bradycardic newborn infants</TITLE>
+<SUMMARY_BODY MODIFIED="2008-02-13 11:18:15 -0500" MODIFIED_BY="[Empty name]">
+<P>There are no trials investigating the effects of epinephrine to try to revive babies who appear to be stillborn or close to death at birth. Some babies are born with a very slow heart beat (extreme bradycardia) or their hearts have stopped beating shortly before birth (apparent stillbirth). Although they may appear to be close to death, it may be possible to revive these babies. Epinephrine is a drug that stimulates the heart and has been used to treat cardiac arrest and bradycardia in people of all ages. However, the review found no trials of the use of epinephrine for reviving newborn babies with extreme bradycardia or whose hearts appear to have just stopped beating. Research is needed into the effects of epinephrine on newborns.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2011-01-07 11:41:53 -0500" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND>
+<P>Epinephrine is a cardiac stimulant with complex effects on the heart and blood vessels. It has been used for decades in all age groups to treat cardiac arrest and bradycardia. Despite formal guidelines for the use of epinephrine in neonatal resuscitation, the evidence for these recommendations has not yet been rigorously scrutinised. While it is understood that this evidence is in large part derived from animal models and the adult human population, the contribution from work in the neonatal population remains unclear. In particular, it remains to be determined if any randomised studies in neonates have helped to establish if the administration of epinephrine in the context of apparent stillbirth or extreme bradycardia might influence mortality and morbidity.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES MODIFIED="2011-01-07 11:41:29 -0500" MODIFIED_BY="[Empty name]">
+<P>To determine the effect of administration of epinephrine to apparently stillborn and extremely bradycardic newborns on mortality and morbidity.</P>
+<P>Secondary objectives included analysis of the effect of intravenous versus endotracheal administration epinephrine and high dose versus standard dose epinephrine on mortality and morbidity.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY MODIFIED="2011-01-07 11:41:53 -0500" MODIFIED_BY="[Empty name]">
+<P>Searches were made of Medline from 1966 to August 2007, CINAHL (from 1982), Current Contents (from 1988), EMBASE, and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2007). Bibliographies of conference proceedings were reviewed and unpublished studies were sought by hand searching the conference proceedings of the Society for Pediatric Research and the European Society for Pediatric Research from 1993 to 2007. This search was updated in November 2010.</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised and quasi-randomised controlled trials of newborns, both pre-term and term, receiving epinephrine for unexpected apparent stillbirth or extreme bradycardia.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>No studies were found meeting the criteria for inclusion in this review</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>No studies were found meeting the criteria for inclusion in this review.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>No randomised, controlled trials evaluating the administration of epinephrine to the apparently stillborn or extremely bradycardic newborn infant were found. Similarly, no randomised, controlled trials that addressed the issues of optimum dosage and route of administration of epinephrine were found. Current recommendations for the use of epinephrine in newborn infants are based only on evidence derived from animal models and the human adult literature. Randomised trials in neonates are urgently required to determine the role of epinephrine in this population.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2011-01-17 22:27:49 -0500" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2011-01-17 20:32:55 -0500" MODIFIED_BY="[Empty name]">
+<INTERVENTION MODIFIED="2011-01-17 20:32:55 -0500" MODIFIED_BY="[Empty name]">
+<P>It is widely accepted that epinephrine should have a place in the resuscitation of the apparently stillborn or extremely bradycardic infant. Formal guidelines sanctioning its use are in existence and include the position statement formulated at the International Guidelines 2000 Conference on Cardiopulmonary Resuscitation and Emergency Cardiac Care (<LINK REF="REF-AAP-2000" TYPE="REFERENCE">AAP 2000</LINK>). This position statement, based on a consensus of experts, specifically advises that epinephrine be used when the heart rate remains less than sixty after at least thirty seconds of adequate ventilation and chest compressions. Furthermore, it considers this to be a Class 1 recommendation, where class 1 indicates a practice that is "always acceptable, proven safe and definitely useful". However, a recent review concluded that there is in fact very little scientific evidence in support of these recommendations, and that the existing evidence is largely derived from animal research and the human adult literature (<LINK REF="REF-Wyckoff-2001" TYPE="REFERENCE">Wyckoff 2001</LINK>). The use of epinephrine is also endorsed in the resuscitation texts and courses of the American Academy of Pediatrics (<LINK REF="REF-AAP-Kattwinkel-2000" TYPE="REFERENCE">AAP Kattwinkel 2000</LINK>) and the European Resuscitation Council (<LINK REF="REF-ALSG-2000" TYPE="REFERENCE">ALSG 2000</LINK>) but again without reference to any supporting scientific data. It is also acknowledged that significant hazards may be associated with the use of epinephrine. These include the possibility that the caregiver may be distracted from giving priority to ventilatory support, and a possible predisposition to major organ injury such as renal failure, necrotising enterocolitis and intraventricular haemorrhage/infarction (<LINK REF="REF-ECNI-1992" TYPE="REFERENCE">ECNI 1992</LINK>). Despite a paucity of evidence, the use of intravenous epinephrine is still recommended in the most recent international recommendations for neonatal resuscitation where profound bradycardia is still present despite efforts to support ventilation (<LINK REF="REF-ILCOR-2010" TYPE="REFERENCE">ILCOR 2010</LINK>).</P>
+</INTERVENTION>
+<THEORY MODIFIED="2010-12-15 19:44:34 -0500" MODIFIED_BY="[Empty name]">
+<P>In animal models, epinephrine has been shown to exert its benefits through the combination of beta-1 effects which stimulate the heart and, more importantly, the alpha effect of increasing non-cerebral peripheral resistance. As a function of the latter, cerebral and myocardial blood flow are increased (<LINK REF="REF-Berkowitz-1991" TYPE="REFERENCE">Berkowitz 1991</LINK>). Beta-1 effects, however, may also impede post resuscitation recovery by increasing myocardial oxygen demand (<LINK REF="REF-Vincent-1997" TYPE="REFERENCE">Vincent 1997</LINK>).</P>
+<P>In humans, there are no data on the ontogeny of adrenergic receptors or on the time course of myocardial sympathetic innervation (<LINK REF="REF-Zaritsky-1984" TYPE="REFERENCE">Zaritsky 1984</LINK>). Studies that examined age-related effects of catecholamines in piglets and lambs have, however, demonstrated that responses in cardiac contractility and vascular reflexes are diminished in the newborn animal (<LINK REF="REF-Buckley-1979" TYPE="REFERENCE">Buckley 1979</LINK>; <LINK REF="REF-Manders-1979" TYPE="REFERENCE">Manders 1979</LINK>).</P>
+</THEORY>
+<IMPORTANCE MODIFIED="2010-12-15 19:44:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Many questions also remain unanswered with regard to both the dosage and route of administration of epinephrine. The current recommendation regarding dose is to use 0.1 - 0.3 ml/kg of a 1:10 000 solution, by the intravenous or endotracheal route, repeated every three to five minutes as indicated. Higher doses have been used in children (<LINK REF="REF-Goetting-1991" TYPE="REFERENCE">Goetting 1991</LINK>) and adults (<LINK REF="REF-Paradis-1991" TYPE="REFERENCE">Paradis 1991</LINK>) but there are no data addressing this issue in the neonatal population. Meta-analysis of studies comparing high versus low dose epinephrine in adults did not show any benefit with the higher dose (<LINK REF="REF-Vandyke-2000" TYPE="REFERENCE">Vandyke 2000</LINK>). A randomised, blinded trial of high versus standard dose epinephrine in a swine model showed that the higher dose did not improve survival rate or neurological outcome. Furthermore, the higher dose was associated with severe tachycardia and hypertension, and a higher mortality rate immediately after resuscitation (<LINK REF="REF-Berg-1996" TYPE="REFERENCE">Berg 1996</LINK>). Lucas showed that after endotracheal administration, comparable plasma levels of epinephrine can be achieved despite the low pulmonary blood flow seen in a newborn lamb model of cardiopulmonary resuscitation (<LINK REF="REF-Lucas-1994" TYPE="REFERENCE">Lucas 1994</LINK>). However, on the basis of data derived from a dog model (<LINK REF="REF-Orlowski-1990" TYPE="REFERENCE">Orlowski 1990</LINK>) and from a human adult study (<LINK REF="REF-Quinton-1987" TYPE="REFERENCE">Quinton 1987</LINK>), other authors have suggested that the endotracheal route is unreliable. Dosage considerations are also clouded by the finding in newborn lambs that the extent of metabolic acidosis can significantly attenuate the haemodynamic response to epinephrine (<LINK REF="REF-Preziosi-1993" TYPE="REFERENCE">Preziosi 1993</LINK>).</P>
+<P>Whether the use of epinephrine in infants with extreme prematurity poses specific risks remains unclear. The hypothesis that the preterm infant may be vulnerable to haemodynamic fluctuations of the type induced by epinephrine has been investigated in a beagle puppy model (<LINK REF="REF-Pasternak-1983" TYPE="REFERENCE">Pasternak 1983</LINK>). This study showed that acute onset cerebral hypertension, as may be seen in response to catecholamines, is a likely significant risk factor for intraventricular haemorrhage. Antenatal factors predisposing to premature birth pose independent risks for cerebral injury, as may post-natal ischaemia/hypoxia (<LINK REF="REF-Graziani-1996" TYPE="REFERENCE">Graziani 1996</LINK>). Given these considerations, it would be valuable to undertake a subgroup analysis of available data on the use of epinephrine by gestational age.</P>
+<P>Finally, perhaps one of the most compelling reasons to closely examine the evidence for the use of epinephrine is that when administered to very preterm infants, there may be a very high rate of death and disability (<LINK REF="STD-Sims-1994" TYPE="STUDY">Sims 1994</LINK>; <LINK REF="STD-O_x0027_Donnell-1998" TYPE="STUDY">O'Donnell 1998</LINK>).</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2010-12-15 19:45:39 -0500" MODIFIED_BY="[Empty name]">
+<P>
+<B>Primary objective:</B>
+<BR/>
+</P>
+<UL>
+<LI>To determine the effect of administration of epinephrine to apparently stillborn and extremely bradycardic newborns on mortality and morbidity</LI>
+</UL>
+<P>
+<B>Secondary objectives:</B>
+<BR/>
+</P>
+<UL>
+<LI>To determine the effect of intravenous vs. endotracheal administration on mortality and morbidity</LI>
+<LI>To determine the effect of high dose vs. standard dose epinephrine on mortality and morbidity (where high dose is defined as any dose greater than the current recommended standard dose of 0.1 to 0.3ml/kg of a 1:10,000 solution of epinephrine)</LI>
+<LI>To determine whether the effect of epinephrine on mortality and morbidity varies with gestational age [i.e. term (greater than or equal to 37 weeks) versus pre-term (less than 37 weeks)]</LI>
+</UL>
+</OBJECTIVES>
+<METHODS MODIFIED="2011-01-17 22:27:49 -0500" MODIFIED_BY="[Empty name]">
+<SELECTION_CRITERIA MODIFIED="2011-01-17 22:27:49 -0500" MODIFIED_BY="[Empty name]">
+<CRIT_STUDIES>
+<P>Randomised and quasi-randomised controlled trials.<BR/>The unit of randomisation may be the individual or a cluster (e.g. allocation by time period or hospital).</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Newborns, both preterm and term, receiving resuscitation for unexpected apparent stillbirth* or extreme bradycardia (heart rate less than 60 beats per minute after a minimum of 30 seconds of ventilation and chest compressions).<BR/>*apparent stillbirth being defined as the baby identified as asystolic immediately after birth, a heart rate having been recognised intra-partum.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>a) epinephrine administration vs. placebo or no epinephrine administration.<BR/>b) high dose (as defined above) vs. standard dose epinephrine.<BR/>c) Intravenous vs. endotracheal administration.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2011-01-17 22:27:49 -0500" MODIFIED_BY="[Empty name]">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2011-01-17 22:27:26 -0500" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>Mortality - before 28 days, at discharge and at 12 and 24 months, and 5 years.</LI>
+<LI>Severe disability at follow-up at 12, 24 months and 5 years on, defined as any of blindness, deafness, cerebral palsy or cognitive delay (score more than 2 standard deviations below the mean for a recognised psychometric test, e.g. Bayley Scales).</LI>
+<LI>Death or severe disability at 12 and 24 months, and 5 years.</LI>
+</UL>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2011-01-17 22:27:49 -0500" MODIFIED_BY="[Empty name]">
+<UL>
+<LI>Any intraventricular haemorrhage.</LI>
+<LI>Severe intraventricular haemorrhage (IVH) (Papile grades three and four).</LI>
+<LI>Periventricular leukomalacia (PVL).</LI>
+<LI>Cognitive delay (as above).</LI>
+<LI>Cerebral palsy at 12 and 24 months, and 5 years.</LI>
+<LI>Blindness.</LI>
+<LI>Deafness.</LI>
+<LI>Any supplemental oxygen requirement at 28 days.</LI>
+<LI>Any supplemental oxygen requirement at 36 weeks postmenstrual age</LI>
+<LI>Any supplemental oxygen requirement at discharge home..</LI>
+<LI>Days of mechanical ventilation (via endotracheal tube or nasal continuous positive airway pressure).</LI>
+<LI>Days of supplemental oxygen therapy.</LI>
+<LI>Necrotising enterocolitis.</LI>
+<LI>Elevated serum creatinine.</LI>
+<LI>Days of intensive care.</LI>
+<LI>Days in hospital.</LI>
+</UL>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2011-01-07 11:43:05 -0500" MODIFIED_BY="[Empty name]">
+<P>RCTs were to be identified from MEDLINE (from 1966 to the present) using the MeSH heading 'epinephrine' OR the textwords 'adrenaline' OR 'adrenalin', AND the MeSH heading 'infant, newborn', AND the MeSH headings 'resuscitation' OR 'asphyxia neonatorum' OR the textwords 'stillborn' OR 'stillbirth' or 'asystole' OR 'asystolic'.</P>
+<P>Other databases, including CINAHL (from 1982), Current Contents back to 1998, EMBASE, and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2007) were searched using a similar strategy. Bibliographies of published trials and conference proceedings were to be reviewed. No language restrictions were applied. Unpublished studies were sought by hand searching the conference proceedings of the Society for Pediatric Research and the European Society for Pediatric Research from 1993 to 2007.</P>
+<P>In October 2010 we updated the search as follows: MEDLINE (search via PubMed), CINAHL, EMBASE and CENTRAL (<I>The Cochrane Library</I>) were searched from 2007 to 2010. Search terms: (epinephrine OR adrenaline OR adrenalin) AND (resuscitation OR asphyxia neonatorum OR stillborn OR stillbirth or asystole OR asystolic) . Limits: human, newborn infant and clinical trial. No language restrictions were applied.</P>
+<P>In October 2010 clinicaltrials.gov and controlled-trials.com were also searched for relevant studies.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2011-01-07 11:45:11 -0500" MODIFIED_BY="[Empty name]">
+<STUDY_SELECTION MODIFIED="2010-12-15 19:57:19 -0500" MODIFIED_BY="[Empty name]">
+<P>Two of the three reviewers worked independently to search for and assess trials for inclusion and methodological quality. </P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2010-12-15 19:59:42 -0500" MODIFIED_BY="[Empty name]">
+<P>If studies were identified, the review authors planned to independently extract data.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2011-01-07 11:45:11 -0500" MODIFIED_BY="[Empty name]">
+<P>We planned to assess the methodological quality of included studies were using the following key criteria: allocation concealment (blinding of randomisation), blinding of intervention, completeness of follow-up, and blinding of outcome measurement/assessment. For each criterion, assessment was yes, no, can't tell. We planned on having two review authors separately assess each study. If available, this information was added to the Characteristics of Included Studies table.</P>
+<P>In addition, for the update in 2010, we planned to evaluate the following issues and, if available, enter the information into the Risk of Bias table: </P>
+<P>(1) Sequence generation (checking for possible selection bias). Was the allocation sequence adequately generated? For each included study, we planned to categorize the method used to generate the allocation sequence as: </P>
+<P>- adequate (any truly random process e.g. random number table; computer random number generator); </P>
+<P>- inadequate (any non random process e.g. odd or even date of birth; hospital or clinic record number); </P>
+<P>- unclear.  </P>
+<P>(2) Allocation concealment (checking for possible selection bias). Was allocation adequately concealed? For each included study, we planned to categorize the method used to conceal the allocation sequence as: </P>
+<P>- adequate (e.g. telephone or central randomisation; consecutively numbered sealed opaque envelopes); </P>
+<P>- inadequate (open random allocation; unsealed or non-opaque envelopes, alternation; date of birth); </P>
+<P>- unclear. </P>
+<P>(3) Blinding (checking for possible performance bias). Was knowledge of the allocated intervention adequately prevented during the study? At study entry? At the time of outcome assessment? For each included study, we planned to categorize the methods used to blind study participants and personnel from knowledge of which intervention a participant received. Blinding was assessed separately for different outcomes or classes of outcomes. We planned to categorize the methods as: </P>
+<P>- adequate, inadequate or unclear for participants; </P>
+<P>- adequate, inadequate or unclear for personnel; </P>
+<P>- adequate, inadequate or unclear for outcome assessors. </P>
+<P>(4) Incomplete outcome data (checking for possible attrition bias through withdrawals, dropouts, protocol deviations). Were incomplete outcome data adequately addressed? For each included study and for each outcome, we planned to describe the completeness of data including attrition and exclusions from the analysis. We planned to note whether attrition and exclusions were reported, the numbers included in the analysis at each stage (compared with the total randomised participants), reasons for attrition or exclusion where reported, and whether missing data were balanced across groups or were related to outcomes. Where sufficient information was reported or supplied by the trial authors, we planned to re-include missing data in the analyses. We planned to categorize the methods as: </P>
+<P>- adequate (&lt; 20% missing data); </P>
+<P>- inadequate (&#8805; 20% missing data): </P>
+<P>- unclear. </P>
+<P>(5) Selective reporting bias. Are reports of the study free of suggestion of selective outcome reporting? For each included study, we planned to describe how we investigated the possibility of selective outcome reporting bias and what we found. We planned to assess the methods as: </P>
+<P>- adequate (where it is clear that all of the study&#8217;s pre-specified outcomes and all expected outcomes of interest to the review have been reported); </P>
+<P>- inadequate (where not all the study&#8217;s pre-specified outcomes have been reported; one or more reported primary outcomes were not pre-specified; outcomes of interest are reported incompletely and so cannot be used; study fails to include results of a key outcome that would have been expected to have been reported);</P>
+<P>- unclear. </P>
+<P>(6) Other sources of bias. Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+<P>For each included study, we planned to describe any important concerns we had about other possible sources of bias (for example, whether there was a potential source of bias related to the specific study design or whether the trial was stopped early due to some data-dependent process). We planned to assess whether each study was free of other problems that could put it at risk of bias as:</P>
+<P>- yes; no; or unclear.  </P>
+<P>If needed, we planned to explore the impact of the level of bias through undertaking sensitivity analyses.</P>
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES MODIFIED="2010-12-15 20:05:29 -0500" MODIFIED_BY="[Empty name]">
+<P>Weighted mean differences (WMD) were to be reported for continuous variables such as duration of oxygen therapy. For categorical outcomes such as mortality, the relative risks (RR) and 95% confidence intervals were to be reported. For significant findings, the risk difference (RD) and number needed to treat (NNT) were also to be reported.</P>
+</EFFECT_MEASURES>
+<HETEROGENEITY_ASSESSMENT MODIFIED="2010-12-15 20:05:31 -0500" MODIFIED_BY="[Empty name]">
+<P>Each comparison was to be tested for heterogeneity to determine suitability for pooling of results in a meta-analysis. The fixed effects model was to be used for meta-analysis.</P>
+</HETEROGENEITY_ASSESSMENT>
+<DATA_SYNTHESIS MODIFIED="2010-12-15 19:56:28 -0500" MODIFIED_BY="[Empty name]">
+<P>Pooled results: For continuous variables, weighted mean differences (WMD) and 95% confidence intervals were to be reported. For categorical outcomes, the relative risks (RR) and 95% confidence intervals were to be reported. For significant findings, the risk difference (RD) and number needed to treat (NNT) were also to be reported. Each treatment effect was to be tested for heterogeneity to help determine suitability for pooling of results in a meta-analysis. The fixed effects model was to be used for meta-analysis.</P>
+</DATA_SYNTHESIS>
+<SUBGROUP_ANALYSIS MODIFIED="2010-12-15 19:48:16 -0500" MODIFIED_BY="[Empty name]">
+<P>The following subgroup analyses were planned:<BR/>1. Epinephrine vs. no epinephrine/placebo: Four subgroups on the basis of dose and route of administration (i.e., standard dose/i.v., high dose/i.v., standard dose/ETT, high dose/ETT).<BR/>2. Intravenous vs. endotracheal route of administration: Three subgroups on the basis of dose (i.e., standard dose equal in both groups, high dose equal in both groups, and differing doses).<BR/>3. Standard dose vs. high dose: Identified trials were to be placed in two sub-groups on the basis of route of administration (i.e., intravenous and endotracheal).</P>
+<P>A sensitivity analysis was planned, including only trials of highest methodological quality (i.e. truly randomised).</P>
+</SUBGROUP_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION>
+<P>No studies were found meeting the inclusion criteria for this review.</P>
+<P>Three case series were identified by the search strategy. Sims et al (<LINK REF="STD-Sims-1994" TYPE="STUDY">Sims 1994</LINK>) retrospectively examined data for 105 infants who received epinephrine and/or atropine for resuscitation in the delivery room and/or nursery settings. Of the 25 survivors, nine were severely handicapped at follow up. The factors associated with a worse outcome were: gestation less than 28 weeks, need for early repeated resuscitation, asystole, and collapse without a clear precipitant. O'Donnell et al (<LINK REF="STD-O_x0027_Donnell-1998" TYPE="STUDY">O'Donnell 1998</LINK>) attempted to evaluate mortality and morbidity for 78 infants requiring epinephrine as part of resuscitation at birth, with follow up after at least one year. 40 infants survived, with significantly more term survivors (67%) compared to preterm (42%). Of the babies below 29 weeks gestation, 78% either died or showed evidence of neurodevelopmental disability. These findings are very different to those of Jankov et al (<LINK REF="STD-Jankov-2000" TYPE="STUDY">Jankov 2000</LINK>) who retrospectively examined outcomes for babies of birthweight less than 750 grams. In this study, of 16 babies who received CPR, 12 also received epinephrine. Nine of the 16 babies survived and eight of these showed no disability at a median follow up age of two years. In addition, the use of epinephrine was not statistically associated with an adverse outcome in this study.</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>No studies were found meeting the inclusion criteria for this review.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS>
+<P>No studies were found meeting the inclusion criteria for this review.</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>Given that no randomised controlled trials which address the use of epinephrine in neonatal resuscitation were found, this systematic review does not establish if the administration of epinephrine to the apparently stillborn or extremely bradycardic newborn reduces mortality and morbidity. This confirms that the current recommendations for the use of epinephrine in this context are based only on evidence derived from animal models and the human adult literature.</P>
+<P>The search strategy used for this review did identify three case series, but no clinical trial data. These retrospective studies, while highlighting the possible long term dangers and benefits associated with the use of epinephrine, cannot be used to reaffirm or modify current guidelines. Given that epinephrine may be hazardous to the resuscitated newborn, it would be valuable for future trials to compare epinephrine not only with placebo/no drug, but also with other drugs. The neonatal literature does not currently recognise an immediately eligible alternative drug, but other vasopressor agents, such as norepinephrine, are theoretically plausible in providing powerful alpha effects without potentially harmful beta effects.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>No randomised, controlled trials were found to support or refute that the administration of epinephrine to the apparently stillborn or extremely bradycardic newborn infant reduces mortality and morbidity. Similarly, we found no randomised, controlled trials which addressed the issues of optimum dosage and route of administration of epinephrine.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>There is an urgent need for randomised, controlled trials to establish if the administration of epinephrine to the apparently stillborn or extremely bradycardic newborn affects mortality and morbidity.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2011-01-07 11:39:45 -0500" MODIFIED_BY="[Empty name]">
+<P>Editorial support of the Cochrane Neonatal Review Group has been funded with Federal funds from the Eunice Kennedy Shriver National Institute of Child Health and Human Development National Institutes of Health, Department of Health and Human Services, USA, under Contract No. HHSN267200603418C.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2010-12-07 14:20:57 -0500" MODIFIED_BY="[Empty name]">
+<P>AJAZ - searched for studies, wrote review<BR/>MWD - searched for studies, revised review<BR/>PGD - revised review</P>
+<P>The December 2010 update was conducted centrally by the Cochrane Neonatal Review Group staff (Yolanda Montagne, Diane Haughton, and Roger Soll).  This update was reviewed and approved by AJAZ.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2011-01-17 08:56:24 -0500" MODIFIED_BY="[Empty name]">
+<STUDIES>
+<INCLUDED_STUDIES/>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jankov-2000" NAME="Jankov 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jankov RP, Asztalos EV, Skidmore MB</AU>
+<TI>Favourable neurological outcomes following delivery room cardiopulmonary resuscitation of infants &lt;=750g at birth</TI>
+<SO>Journal of Paediatrics Child Health</SO>
+<YR>2000</YR>
+<VL>36</VL>
+<PG>19-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-O_x0027_Donnell-1998" NAME="O'Donnell 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>O'Donnell AI, Gray PH, Rogers YM</AU>
+<TI>Mortality and neurodevelopmental outcome for infants receiving adrenaline in neonatal resuscitation</TI>
+<SO>Journal of Paediatrics and Child Health</SO>
+<YR>1998</YR>
+<VL>34</VL>
+<PG>551-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sims-1994" NAME="Sims 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sims DG, Heal CA, Bartle SM</AU>
+<TI>Use of adrenaline and atropine in neonatal resuscitation</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1994</YR>
+<VL>70</VL>
+<PG>F3-F10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2011-01-17 08:56:24 -0500" MODIFIED_BY="[Empty name]">
+<ADDITIONAL_REFERENCES MODIFIED="2011-01-17 08:56:24 -0500" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-AAP-2000" NAME="AAP 2000" TYPE="JOURNAL_ARTICLE">
+<AU>American Academy of Pediatrics, International Liaison Committee on Resuscitation, American Heart Association</AU>
+<TI>Guidelines 2000 for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care: International Consensus on Science</TI>
+<SO>Circulation</SO>
+<YR>2000</YR>
+<VL>102</VL>
+<NO>Suppl I</NO>
+<PG>343-57</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-AAP-Kattwinkel-2000" MODIFIED="2010-12-07 14:24:21 -0500" MODIFIED_BY="[Empty name]" NAME="AAP Kattwinkel 2000" TYPE="BOOK">
+<SO>Textbook of Neonatal Resuscitation</SO>
+<YR>2000</YR>
+<EN>4th</EN>
+<ED>Kattwinkel et al</ED>
+<PB>American Academy of Pediatrics and American Heart Association</PB>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ALSG-2000" NAME="ALSG 2000" TYPE="BOOK">
+<AU>Advanced Life Support Group (European Council for Paediatric Life Support)</AU>
+<SO>Advanced Paediatric Life Support</SO>
+<YR>2000</YR>
+<EN>3rd</EN>
+<PB>BMJ Publishing Group</PB>
+<CY>Manchester, UK</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Berg-1996" NAME="Berg 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Berg RA, Otto CW, Kern KB, Hilwig RW et al</AU>
+<TI>A randomized, blinded trial of high-dose epinephrine versus standard-dose epinephrine in a swine model of pediatric asphyxial cardiac arrest</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1996</YR>
+<VL>24</VL>
+<PG>1695-1700</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Berkowitz-1991" NAME="Berkowitz 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Berkowitz ID, Gervais H, Schleien CL, Koehler RC, Dean JM, Traystman RJ</AU>
+<TI>Epinephrine dosage effects on cerebral and myocardial blood flow in an infant swine model of cardiopulmonary resuscitation</TI>
+<SO>Anesthesiology</SO>
+<YR>1991</YR>
+<VL>75</VL>
+<PG>1041-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Buckley-1979" NAME="Buckley 1979" TYPE="JOURNAL_ARTICLE">
+<AU>Buckley NM, Gootman PM, Yellin EL, Brazeau P</AU>
+<TI>Age-related cardiovascular effects of catecholamines in anaesthetised piglets</TI>
+<SO>Circulation Research</SO>
+<YR>1979</YR>
+<VL>45</VL>
+<PG>282-92</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ECNI-1992" NAME="ECNI 1992" TYPE="BOOK_SECTION">
+<AU>Tyson JE</AU>
+<TI>Immediate care of the newborn infant</TI>
+<SO>Effective Care of the Newborn Infant</SO>
+<YR>1992</YR>
+<PG>Chapt 3, pp21-39</PG>
+<ED>Sinclair JC, Bracken MB</ED>
+<PB>Oxford University Press</PB>
+<CY>UK</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Goetting-1991" NAME="Goetting 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Goetting MG, Paradis NA</AU>
+<TI>High-dose epinephrine improves outcome from pediatric cardiac arrest</TI>
+<SO>Annals of Emergency Medicine</SO>
+<YR>1991</YR>
+<VL>20</VL>
+<PG>22-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Graziani-1996" NAME="Graziani 1996" TYPE="BOOK_SECTION">
+<AU>Graziani LJ</AU>
+<TI>Intracranial hemorrhage and leukomalacia in preterm infants.</TI>
+<SO>Intensive Care of the Fetus and Neonate, Ed. Spitzer AR</SO>
+<YR>1996</YR>
+<PG>696-705</PG>
+<EN>1</EN>
+<PB>Mosby</PB>
+<CY>St. Louis, MO</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-ILCOR-2010" MODIFIED="2011-01-17 08:56:24 -0500" MODIFIED_BY="[Empty name]" NAME="ILCOR 2010" TYPE="JOURNAL_ARTICLE">
+<AU>Perlman JM, Wyllie J, Kattwinkel J, Atkins DL, Chameides L, Goldsmith JP, Guinsburg R, Hazinski MF, Morley C, Richmond S, Simon WM, Singhal N, Szyld E, Tamura M, Velaphi S; Neonatal Resuscitation Chapter Collaborators.</AU>
+<TI>Neonatal resuscitation: 2010 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science with Treatment Recommendations</TI>
+<SO>Pediatrics</SO>
+<YR>2010</YR>
+<VL>126</VL>
+<PG>e1319-44. Epub 2010 Oct 18</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lucas-1994" NAME="Lucas 1994" TYPE="JOURNAL_ARTICLE">
+<AU>Lucas VW, Preziosi MP, Burchfield DJ</AU>
+<TI>Epinephrine absorption following endotracheal administration: Effects of hypoxia-induced low pulmonary blood flow</TI>
+<SO>Resuscitation</SO>
+<YR>1994</YR>
+<VL>27</VL>
+<PG>31-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Manders-1979" NAME="Manders 1979" TYPE="JOURNAL_ARTICLE">
+<AU>Manders WT, Pagani M, Vatner SF</AU>
+<TI>Depressed responsiveness to vasoconstrictor and dilator agents and baroreflex sensitivity in conscious newborn lambs</TI>
+<SO>Circulation</SO>
+<YR>1979</YR>
+<VL>60</VL>
+<PG>945-55</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Orlowski-1990" NAME="Orlowski 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Orlowski JP, Gallagher JM, Porembka DT</AU>
+<TI>Endotracheal epinephrine is unreliable</TI>
+<SO>Resuscitation</SO>
+<YR>1990</YR>
+<VL>19</VL>
+<PG>103-13</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Paradis-1991" NAME="Paradis 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Paradis NA, Martin GB, Rosenberg J, Rivers EP, Goetting MG et al</AU>
+<TI>The effect of standard and high-dose epinephrine on coronary perfusion pressure during prolonged cardiopulmonary resuscitation</TI>
+<SO>JAMA</SO>
+<YR>1991</YR>
+<VL>265</VL>
+<PG>1139-44</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pasternak-1983" NAME="Pasternak 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Pasternak JF, Groothuis DR, Fischer JM, Fischer DP</AU>
+<TI>Regional cerebral blood flow in the beagle puppy model of neonatal intraventricular haemorrhage: Studies during systemic hypertension</TI>
+<SO>Neurology</SO>
+<YR>1983</YR>
+<VL>33</VL>
+<PG>559-66</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Preziosi-1993" NAME="Preziosi 1993" TYPE="JOURNAL_ARTICLE">
+<AU>Preziosi MP, Roig JC, Hargrove N, Burchfield DJ</AU>
+<TI>Metabolic acidemia with hypoxia attenuates the hemodynamic responses to epinephrine during resuscitation in lambs</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1993</YR>
+<VL>21</VL>
+<PG>1901-07</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Quinton-1987" NAME="Quinton 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Quinton DN, O'Byrne G, Aitkenhead AR</AU>
+<TI>Comparison of endotracheal and peripheral intravenous adrenaline in cardiac arrest: Is the endotracheal route reliable?</TI>
+<SO>Lancet</SO>
+<YR>1987</YR>
+<VL>1</VL>
+<PG>828-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Vandyke-2000" NAME="Vandyke 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Vandyke C, Martens P</AU>
+<TI>High dose versus standard dose epinephrine in cardiac arrest - a meta-analysis</TI>
+<SO>Resuscitation</SO>
+<YR>2000</YR>
+<VL>45</VL>
+<PG>161-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Vincent-1997" MODIFIED="2011-01-07 11:36:24 -0500" MODIFIED_BY="[Empty name]" NAME="Vincent 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Vincent R</AU>
+<TI>Drugs in modern resuscitation</TI>
+<SO>British Journal of Anaesthesia</SO>
+<YR>1997</YR>
+<VL>79</VL>
+<PG>188-97</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wyckoff-2001" NAME="Wyckoff 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Wyckoff MH, Perlman J, Niermeyer S</AU>
+<TI>Medications during resuscitation - what is the evidence?</TI>
+<SO>Seminars in Neonatology</SO>
+<YR>2001</YR>
+<VL>6</VL>
+<PG>251-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Zaritsky-1984" NAME="Zaritsky 1984" TYPE="JOURNAL_ARTICLE">
+<AU>Zaritsky A, Chernow B</AU>
+<TI>Use of catecholamines in pediatrics</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>1984</YR>
+<VL>105</VL>
+<PG>341-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES MODIFIED="2010-12-07 14:23:47 -0500" MODIFIED_BY="[Empty name]">
+<REFERENCE ID="REF-Ziino-2003" MODIFIED="2010-12-07 14:23:47 -0500" MODIFIED_BY="[Empty name]" NAME="Ziino 2003" TYPE="COCHRANE_REVIEW">
+<AU>Ziino AJA, Davies MW, Davis PG</AU>
+<TI>Epinephrine for the resuscitation of apparently stillborn or extremely bradycardic newborn infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2003</YR>
+<NO>2</NO>
+<IDENTIFIERS MODIFIED="2010-12-07 14:23:47 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2010-12-07 14:23:47 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003849"/>
+</IDENTIFIERS>
+</REFERENCE>
+<REFERENCE ID="REF-Ziino-2007" MODIFIED="2010-12-07 14:22:41 -0500" MODIFIED_BY="[Empty name]" NAME="Ziino 2007" TYPE="COCHRANE_REVIEW">
+<AU>Ziino AJA, Davies MW, Davis PG</AU>
+<TI>Epinephrine for the resuscitation of apparently stillborn or extremely bradycardic newborn infants</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2007</YR>
+<NO>3</NO>
+<IDENTIFIERS MODIFIED="2010-12-07 14:22:41 -0500" MODIFIED_BY="[Empty name]">
+<IDENTIFIER MODIFIED="2010-12-07 14:22:41 -0500" MODIFIED_BY="[Empty name]" TYPE="DOI" VALUE="10.1002/14651858.CD003849"/>
+</IDENTIFIERS>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Jankov-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective study; not a randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-O_x0027_Donnell-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective study; not a randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sims-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective study; not a randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES"/>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

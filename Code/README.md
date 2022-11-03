@@ -1,0 +1,1 @@
+To create the data set, run the extraction.py file. To create the test set, run the extraction.py file after all occurences of the word 'train' to test. Then run the build_and_test_model.py to get the results. 

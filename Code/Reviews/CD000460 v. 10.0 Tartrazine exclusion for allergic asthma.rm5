@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD000460" GROUP_ID="AIRWAYS" ID="576899100408475311" MERGED_FROM="" MODIFIED="2017-09-04 16:53:12 +0100" MODIFIED_BY="Emma Dennett" NOTES="&lt;p&gt;Exported from Review Manager 4.2.1&lt;br&gt;29/5/2001&lt;br&gt;Dear Felix,&lt;br&gt;Could you re-enter the data without the negative signs as I assume that the scores shown are post Rx absolute values. The labels will also need to be altered accordingly. Happily there is not too much data to change in this review! I cannot tell whether the PC20 should have a negative sign in the results in the text (what does the negative sign in metaview refer to here?) The other results look fine in the text.&lt;br&gt;In the study types considered you specify placebo control, but this does not seem to apply to the dietary exclusion comparison?&lt;br&gt;Can you support your conclusion that in individuals who are allergic to tartrazine an avoidance diet helps (FROM THE RESULTS OF THE REVIEW)?&lt;/p&gt;&lt;p&gt;31/5/2001&lt;br&gt;Reviewer reply (Felix):&lt;br&gt;Chris thank you for your comments.&lt;br&gt;All data re-entered without the negative signs and the graphs labels altered accordingly. &lt;br&gt;PC20 was positively reported in text, therefore the negative sign has been removed from here as well.&lt;br&gt;Under &amp;quot;Types of Interventions&amp;quot; we specified the comparisons we were looking at (i.e. placebo and also dietary avoidance). However, we have added a line under &amp;quot;Types of studies&amp;quot; to make this clearer.&lt;br&gt;Conclusion revised due to limited evidence. &lt;br&gt; 31/5&lt;br&gt;Dear Felix,&lt;br&gt;This looks great. Could you just check the data for PC20 as the Tartrazine mean is slightly different from the previous version (this could easily be RevMan) and slightly alters the estimate and confidence interval for the results. Which is correct? Also I suggest the following replacement sentence for Types of Studies.&lt;/p&gt;&lt;p&gt;All challenge studies were randomised-controlled trials with placebo groups, whilst dietary avoidance was compared with a normal diet. &lt;/p&gt;&lt;p&gt;Then the review can go to Paul for Peer Review etc.&lt;/p&gt;&lt;p&gt;31/05/2001&lt;br&gt;Reviewer reply (Felix):&lt;br&gt;Thanks Chris for the record turn-around time. &lt;br&gt;I have re-checked the data for PC20 its correct as it stands. &lt;br&gt;Suggested replacement sentence added after being changed as follows: All trials were randomised controlled studies. Tartrazine challenge trials used placebo groups as controls and dietary avoidance trials compared with normal diet as controls.&lt;/p&gt;&lt;p&gt;5/6/2001&lt;br&gt;Ready to go - subtotals switched off for symptoms scores.&lt;/p&gt;" NOTES_MODIFIED="2017-09-04 16:45:27 +0100" NOTES_MODIFIED_BY="Emma J Dennett" REVIEW_NO="TAR-AST" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="10.0">
+<COVER_SHEET MODIFIED="2017-09-04 16:53:12 +0100" MODIFIED_BY="Emma Dennett">
+<TITLE>Tartrazine exclusion for allergic asthma</TITLE>
+<CONTACT MODIFIED="2017-09-04 16:53:12 +0100" MODIFIED_BY="Emma Dennett"><PERSON ID="7ECA82B782E26AA200C3FEB69DEF51FC" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Emma</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Dennett</LAST_NAME><POSITION>Managing Editor, Cochrane Airways</POSITION><EMAIL_1>edennett@sgul.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Population Health Research Institute</DEPARTMENT><ORGANISATION>St George's, University of London</ORGANISATION><ADDRESS_1>Cranmer Terrace</ADDRESS_1><CITY>London</CITY><ZIP>SW17 0RE</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 (0)20 8725 2792</PHONE_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2017-09-04 16:53:12 +0100" MODIFIED_BY="Emma Dennett"><PERSON ID="7130" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Kate</FIRST_NAME><LAST_NAME>Ardern</LAST_NAME><POSITION>Acting Consultant in Public Health Medicine</POSITION><EMAIL_1>Kate.ardern@northwest.nhs.uk</EMAIL_1><ADDRESS><DEPARTMENT>Department of Public Health</DEPARTMENT><ORGANISATION>Liverpool Health Authority</ORGANISATION><ADDRESS_1>Hamilton House</ADDRESS_1><ADDRESS_2>Pall Mall</ADDRESS_2><CITY>Liverpool</CITY><ZIP>L3 6AL</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 151 236 4747</PHONE_1><FAX_1>+44 151 231 6058</FAX_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2012-06-22 16:10:17 +0100" MODIFIED_BY="Emma J Welsh">
+<UP_TO_DATE>
+<DATE DAY="1" MONTH="2" YEAR="2006"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="22" MONTH="6" YEAR="2012"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="22" MONTH="2" YEAR="2017"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="1996"/>
+<REVIEW_PUBLISHED ISSUE="3" YEAR="2001"/>
+<LAST_CITATION_ISSUE ISSUE="4" YEAR="2001"/>
+</DATES>
+<WHATS_NEW MODIFIED="2017-09-04 16:45:27 +0100" MODIFIED_BY="Emma J Dennett">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2017-09-04 16:45:27 +0100" MODIFIED_BY="Emma J Dennett">
+<DATE DAY="4" MONTH="9" YEAR="2017"/>
+<DESCRIPTION>
+<P>New literature search run to assess the need to update this review. No new studies identifed with search (5 July 2017). Two studies listed under <LINK TAG="CHARACTERISTICS_OF_AWAITING_STUDIES" TYPE="SECTION">Characteristics of studies awaiting classification</LINK> from an earlier update search.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2017-09-04 16:43:36 +0100" MODIFIED_BY="Emma J Dennett">
+<WHATS_NEW_ENTRY EVENT="STABLE" MODIFIED="2017-09-04 16:43:34 +0100" MODIFIED_BY="Emma J Dennett">
+<DATE DAY="11" MONTH="7" YEAR="2012"/>
+<DESCRIPTION>
+<P>There are two eligible trials awaiting classification. The author team is no longer active. Expressions of interest in updating this review should be made to the managing editor of the Cochrane Airways Group.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2017-09-04 16:43:36 +0100" MODIFIED_BY="Emma J Dennett">
+<DATE DAY="22" MONTH="6" YEAR="2012"/>
+<DESCRIPTION>
+<P>Literature seacrh run.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2011-07-07 13:25:23 +0100" MODIFIED_BY="Emma J Welsh">
+<DATE DAY="1" MONTH="9" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="31" MONTH="5" YEAR="2001"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>Nuffield Provincial Hospitals Trust</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Felix Ram received funding from the Netherlands Astma Fonds</NAME>
+<COUNTRY CODE="NL">Netherlands</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+<SOURCE>
+<NAME>Garfield Weston Foundation</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2012-06-22 15:55:23 +0100" MODIFIED_BY="Emma J Welsh">
+<SUMMARY MODIFIED="2008-09-01 15:54:50 +0100" MODIFIED_BY="Toby J Lasserson">
+<TITLE MODIFIED="2008-09-01 15:54:50 +0100" MODIFIED_BY="Toby J Lasserson">Tartrazine exclusion for allergic asthma</TITLE>
+<SUMMARY_BODY>
+<P>Tartrazine is the best known and one of the most commonly used food additives. Food colorants are also used in many medications as well as foods. There is no evidence that tartrazine makes asthma worse or avoiding it makes asthma patients any better.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2011-07-07 13:41:05 +0100" MODIFIED_BY="Emma J Welsh">
+<ABS_BACKGROUND>
+<P>Tartrazine is the best known and one of the most commonly used food additives. Food colorants are also used in many medications as well as foods. There has been conflicting evidence as to whether tartrazine causes exacerbations of asthma with some studies finding a positive association especially in individuals with cross-sensitivity to aspirin. </P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the overall effect of tartrazine (exclusion or challenge) in the management of asthma.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>A search was carried out on the Cochrane Airways Group Specialised Register. Bibliographies of each RCT was searched for additional papers. Authors of identified RCTs were contacted for further information. Searches are updated annually and are current as of February 2006. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>RCTs of oral administration of tartrazine (as a challenge) versus placebo or dietary avoidance of tartrazine versus normal diet were considered. Studies which focused upon allergic asthma, were also included. Studies of tartrazine exclusion for other allergic conditions such as hay fever, allergic rhinitis and eczema were only considered if the results for subjects with asthma were separately identified. Trials could be in either adults or children with asthma or allergic asthma (e.g. sensitivity to aspirin or food items known to contain tartrazine).</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Study quality was assessed and data abstracted by two reviewers independently. Outcomes were analysed using RevMan 4.1.1.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2011-07-07 13:41:05 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Ninety four abstracts were found, of which 20 were potentially relevant. Six? met the inclusion criteria, but only three presented results in a format that permitted analysis and none could be combined in a meta-analysis. In none of the studies did tartrazine challenge or avoidance in diet significantly alter asthma outcomes.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Due to the paucity of available evidence, it is not possible to provide firm conclusions as to the effects of tartrazine on asthma control. However, the six RCTs that could be included in this review all arrived at the same conclusion. Routine tartrazine exclusion may not benefit most patients, except those very few individuals with proven sensitivity.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2012-06-22 15:55:23 +0100" MODIFIED_BY="Emma J Welsh">
+<BACKGROUND>
+<P>In recent years, adverse reactions to food additives have been a subject of public debate and concern. There is considerable disagreement regarding its importance in the pathogenesis of asthma but ingested food additives can trigger episodes of wheezing. Clearly, it is important to determine the frequency and relevance of such hypersensitivity in individuals with asthma so that advice on dietary manipulation can be targeted more effectively.</P>
+<P>Food additives are extensively used by the food industry to prevent spoilage, prolong shelf life, and enhance appearance or taste and in the processing of certain foodstuffs. Food colorants are used in the mass production of many foods, which are no longer obtained from their traditional sources or made with the original ingredients, to give them the appearance of the traditional product. Azo dyes, which possess a nitrogen-nitrogen double bond, are commonly used because of their colourfastness. Tartrazine (FD&amp;C yellow # 5) is the best known and one of the most commonly used azo dyes (<LINK REF="REF-Simon-1986" TYPE="REFERENCE">Simon 1986</LINK>). Food colorants are also used in many medications (<LINK REF="REF-Lockey-1977" TYPE="REFERENCE">Lockey 1977</LINK>, <LINK REF="REF-MacCara-1982" TYPE="REFERENCE">MacCara 1982</LINK>, <LINK REF="REF-Smith-1976" TYPE="REFERENCE">Smith 1976</LINK>) as well as foods (<LINK REF="STD-Freedman-1977" TYPE="STUDY">Freedman 1977</LINK>). In a 1989 survey of colourings and preservatives in drugs in the UK, it was showed that in 2,204 drug formulations there were 419 different additives (<LINK REF="REF-Pollock-1989" TYPE="REFERENCE">Pollock 1989</LINK>). Of these, 52 were dyes or preservatives, which had been implicated, in adverse reactions. Tartrazine was the fourth most commonly occurring colorant occurring in 124 drug formulations.</P>
+<P>The observed association between food colorants and asthma is not a new one. Reports on children whose asthma appeared to be exacerbated by food colours date from 1958. There has been conflicting evidence as to whether tartrazine causes exacerbations of asthma with some studies (including double blind challenges) finding a positive association especially in individuals with cross-sensitivity to aspirin (<LINK REF="REF-Genton-1985" TYPE="REFERENCE">Genton 1985</LINK>). Other researchers have not been able to demonstrate any link between tartrazine and asthma (again including double blind studies). However, it has been shown that withholding bronchodilator therapy on the day of the challenge led to false positives being recorded. </P>
+<P>There is a need to resolve whether exclusion of a common food additive such as tartrazine from the diet of an individual with asthma confers any significant benefit in terms of improvement of symptoms and reduction in the need for medication. Advice to exclude such substances may involve considerable impact on the individual's lifestyle in terms of change of diet, cost of food and avoidance of certain drugs. It could also have implications for the food and pharmaceutical industries.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To estimate the overall efficacy of tartrazine (exclusion or challenge) upon asthma symptoms, medication requirements, lung function, non-specific bronchial hyper-reactivity and allergen bronchial hyper-reactivity (BHR).</P>
+</OBJECTIVES>
+<METHODS MODIFIED="2011-07-07 13:44:08 +0100" MODIFIED_BY="Emma J Welsh">
+<SELECTION_CRITERIA MODIFIED="2011-07-07 13:44:08 +0100" MODIFIED_BY="Emma J Welsh">
+<CRIT_STUDIES>
+<P>All trials were randomised controlled studies. Tartrazine challenge trials used placebo groups as controls and the dietary avoidance trials compared the intervention group with a group who had a normal diet. Double-blinded trials were preferred, but single blind and open studies were also reviewed for possible inclusion. Studies, which focused upon allergic asthma, were also included but if there were a sufficient number of studies, we would have separated the two types of studies. Studies of tartrazine exclusion for other allergic conditions such as hay fever, allergic rhinitis and eczema were only considered if the results for subjects with asthma were separately identified.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Adults and children with asthma or allergic asthma (e.g. sensitivity to aspirin or food items known to contain tartrazine).</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Trial of oral administration of tartrazine (as a challenge) versus placebo or dietary avoidance of tartrazine versus normal diet.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2011-07-07 13:44:08 +0100" MODIFIED_BY="Emma J Welsh">
+<SUBSECTION>
+<HEADING LEVEL="5">Primary outcome measures:</HEADING>
+<P>I. Lung function (e.g. FEV1, peak expiratory flow).<BR/>ii. Medication requirements.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="5">Secondary outcome measures:</HEADING>
+<P>I. Symptoms (including symptom scores).<BR/>ii. Non-specific bronchial hyper-reactivity (to histamine or methacholine).<BR/>iii. Allergen specific bronchial hyper-reactivity.</P>
+</SUBSECTION>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS>
+<P>Trials were identified using the Cochrane Airways Group Specialised Register of trials, which is derived from systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and CINAHL, and handsearching of respiratory journals and meeting abstracts. All records in the Specialised Register coded as 'asthma' were searched using the following terms: </P>
+<P>"azo dye*" or "azo compound*" or tartrazine* or "sunset yellow" or azorubin or amarant or benzenesulfonate* or pyrazole* or sulfite* or (food* and (color* or colour*))</P>
+<P>This search is updated annually. The most recent search was carried out in February 2006. </P>
+<P>The reference list of each RCT was searched for additional papers. Authors of identified RCTs were contacted for further information for their trials and details of other published or unpublished studies.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>All trials that appeared potentially relevant were assessed by two reviewers independently who selected trials for inclusion. Agreement between the two reviewers was recorded. Disagreements were resolved by consensus. </P>
+<P>All trials were graded using the Cochrane allocation concealment grades: </P>
+<P>Grade A - Adequate allocation concealment<BR/>Grade B - Unclear allocation concealment<BR/>Grade C - Inadequate allocation concealment<BR/>Grade D - Allocation concealment not used </P>
+<P>Outcome data were extracted independently by two reviewers. All disagreements were resolved through discussion. </P>
+<P>The planned comparisons for statistical consideration were as follows:</P>
+<P>1. Tartrazine challenge vs placebo<BR/>2. Tartrazine exclusion or avoidance vs control (untreated controls or normal diet)</P>
+<P>Categorical outcomes were analysed as odds ratios (OR) and 95% confidence intervals (95%CI) calculated for each outcome measure. Continuous outcomes were analysed as either weighted mean difference (WMD) or standardised mean difference (SMD) with effect sizes calculated using fixed or random effect model.</P>
+<P>Tests for heterogeneity were performed for each outcome. If significant heterogeneity were demonstrated for individual comparisons, sensitivity analysis would have been undertaken to identify the source. A priori defined sub-groups for this purpose were: dose of tartrazine, tartrazine and drug reactions, duration of intervention, adults vs children.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2012-06-22 15:55:23 +0100" MODIFIED_BY="Emma J Welsh">
+<STUDY_DESCRIPTION MODIFIED="2012-06-22 15:55:23 +0100" MODIFIED_BY="Emma J Welsh">
+<SEARCH_RESULTS MODIFIED="2012-06-22 15:55:23 +0100" MODIFIED_BY="Emma J Welsh">
+<P>Searches identified 90 titles and abstracts, that were screened to identify 18 potentially relevant studies involving tartrazine in patients with asthma. Full text versions of these 18 papers were obtained and assessed independently by two reviewers. They agreed to include six trials in the review. Twelve trials that were excluded have their reasons for exclusion noted in the table, "Characteristics of excluded studies". Details of the six included studies can be found in the table, "Characteristics of included studies". An attempt was made to contact all authors for verification of methodological quality, classification of the intervention(s) and outcomes of data. No replies have been received to date.</P>
+<P>Update searches conducted in February 2005 and 2006 did not identify any relevant new studies. An updated search from 2011 identified four studies, two of which were potentially relevant and added to studies awaiting classification,</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-09-01 15:56:01 +0100" MODIFIED_BY="Toby J Lasserson">
+<SUBSECTION>
+<HEADING LEVEL="6">Sample sizes:</HEADING>
+<P>Most of the trials had small sample sizes with the exception of one (<LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>) that had 277 subjects. The number of patients in each trial ranged between 10 and 277 with a mean value of 95.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">Patient Characteristics:</HEADING>
+<P>All studies included patients with known well-established asthma. Patients were recruited in trials if they had asthma (<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>, <LINK REF="STD-Vedanthan-1977" TYPE="STUDY">Vedanthan 1977</LINK>), perennial asthma (<LINK REF="STD-Weber-1979" TYPE="STUDY">Weber 1979</LINK>), aspirin sensitive asthma (<LINK REF="STD-Virchow-1988" TYPE="STUDY">Virchow 1988</LINK>), sensitivity to food items containing tartrazine (<LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK>) and positive bronchial challenge with either histamine and or methacholine (<LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>). Patient age ranged from 7-72 years.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">Intervention Characteristics:</HEADING>
+<P>The type of intervention varied between studies.<BR/>
+<LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK> (challenge study): a two day study to test bronchial sensitivity to histamine before and after tartrazine administration, however this study also presented data after tartrazine administration but before histamine challenge.<BR/>
+<LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK> (challenge study): patients were challenged with varying strengths of tartrazine ranging from 1 mg to 50 mg.<BR/>
+<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK> (avoidance study): this study employed dietary avoidance of tartrazine and benzoate and also excluded non-steroidal anti-inflammatory agents for one month of the study. Study measurements were made before and after patients were challenged with either tartrazine or lactose<BR/>
+<LINK REF="STD-Vedanthan-1977" TYPE="STUDY">Vedanthan 1977</LINK> (challenge study): patients were challenge with 600 mg tartrazine or 25 mg aspirin on separate days and challenges were done on days when patients were not taking their corticosteroids medication<BR/>
+<LINK REF="STD-Virchow-1988" TYPE="STUDY">Virchow 1988</LINK> (challenge study): this was a multicentre study and patients were challenged with tartrazine dissolved in water in increasing doses from 1 to 25 mg<BR/>
+<LINK REF="STD-Weber-1979" TYPE="STUDY">Weber 1979</LINK> (challenge study): patients underwent open challenges with tartrazine dose ranging from 2.5 to 20 mg. Trials that employed tartrazine challenges were separately entered from those that employed dietary avoidance of tartrazine.</P>
+<P>None of the tartrazine challenge studies were preceded by a period of tartrazine avoidance.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="6">Presentation of results:</HEADING>
+<P>Three of the studies (<LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK>, <LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>, <LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) reported their results as means with a distribution statistic, but the remaining three (<LINK REF="STD-Vedanthan-1977" TYPE="STUDY">Vedanthan 1977</LINK>, <LINK REF="STD-Virchow-1988" TYPE="STUDY">Virchow 1988</LINK>, <LINK REF="STD-Weber-1979" TYPE="STUDY">Weber 1979</LINK>) did not present their data in a usable format. All authors have been contacted to provide further information for their studies.</P>
+</SUBSECTION>
+</INCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY>
+<P>All studies were randomised and all had control arms (placebo or normal diet). Five were double blinded and one (<LINK REF="STD-Weber-1979" TYPE="STUDY">Weber 1979</LINK>) was open. <LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK> was the only trial that clearly and adequately described the method used for treatment allocation concealment. For all other studies, the method of allocation concealment was unclear. Using the Cochrane allocation concealment grading <LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK> was graded "A", <LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK>, <LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>, <LINK REF="STD-Vedanthan-1977" TYPE="STUDY">Vedanthan 1977</LINK>, <LINK REF="STD-Virchow-1988" TYPE="STUDY">Virchow 1988</LINK> &amp; <LINK REF="STD-Weber-1979" TYPE="STUDY">Weber 1979</LINK> trials were graded "B". Description of dropouts and withdrawals was adequate in all studies.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-09-01 15:56:29 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The six studies examined the effects of tartrazine challenge or tartrazine avoidance versus placebo on the following outcomes: non-specific bronchial hyper-reactivity, lung function, asthma symptom scores, adverse events and asthma medication requirements. Only three of the trials (<LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK>, <LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>, <LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) contributed any data fin a usable format, but none could be combined in a meta analysis.</P>
+<P>None of the reported outcomes in this trials included in this review was statistically significant when compared to placebo or control.</P>
+<SUBSECTION>
+<HEADING LEVEL="4">Tartrazine challenge vs placebo:</HEADING>
+<P>Histamine PC20 (mg/ml)<BR/>One trial (<LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK>) provided this data with 18 patients (WMD -0.87, 95%CI -6.30, 4.56, p=0.8).</P>
+<P>PEFR (Litres/min)<BR/>One trial (<LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK>) provided this data with 18 patients (WMD -7.0, 95%CI -103.4, 89.4, p=0.9).</P>
+<P>FEV1 (Litres)<BR/>One trial (<LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>) provided this data in this figure. The legend of this figure does not make it clear, but it appears to contain only data from the 11 patients (of 277 tested) who had a greater than 20% fall in FEV1 from baseline.</P>
+<P>Adverse events (dichotomous data)<BR/>One trial (<LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>) provided this data with 277 patients (RR 1.00, 95%CI 0.33, 3.06, p=1.0).</P>
+<P>Tartrazine avoidance diet vs normal diet:</P>
+<P>PEFR (Litres/min)<BR/>One trial (<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) provided this data with 24 patients (WMD -3.0, 95%CI -66.9, 60.9, p=0.9).</P>
+<P>Asthma symptom scores (higher score worse)<BR/>Day-time score:<BR/>One trial (<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) provided this data with 24 patients (WMD 0.00, 95%CI -0.74,0.74, p=1.0).</P>
+<P>Night-time score:<BR/>One trial (<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) provided this data with 24 patients (WMD 0.00, 95%CI -0.40,0.40, p=1.0).</P>
+<P>Asthma medication requirements (puffs per day)<BR/>Inhaler beta-2 agonists<BR/>One trial (<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) provided this data with 24 patients (WMD -0.20, 95%CI -2.07,1.67, p=0.8).</P>
+<P>Inhaled corticosteroids<BR/>One trial (<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) provided this data with 24 patients (WMD -0.70, 95%CI -2.62,1.22, p=0.5).</P>
+<P>None of the included trials provided data on allergen specific bronchial hyper-reactivity.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION>
+<P>As data from the six included studies were limited, no firm conclusions can be drawn from this review regarding the effects of tartrazine exclusion in asthma. However, the six trials individually provided conclusions that were very similar. The five challenge trials (<LINK REF="STD-Hariparsad-1984" TYPE="STUDY">Hariparsad 1984</LINK>; <LINK REF="STD-Spector-1979" TYPE="STUDY">Spector 1979</LINK>; <LINK REF="STD-Vedanthan-1977" TYPE="STUDY">Vedanthan 1977</LINK>; <LINK REF="STD-Virchow-1988" TYPE="STUDY">Virchow 1988</LINK>; <LINK REF="STD-Weber-1979" TYPE="STUDY">Weber 1979</LINK>) concluded that tartrazine did not change any clinical outcome, although it should be noted that none of these studies was preceded by a period of tartrazine avoidance. The one dietary avoidance trial (<LINK REF="STD-Tarlo-1982" TYPE="STUDY">Tarlo 1982</LINK>) also failed to show any benefit in the management of asthma. </P>
+<P>There may be a need for further randomised controlled trials in order to confirm the absence of any effect of tartrazine on asthma control.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>There is no clear evidence that tartrazine challenge makes asthma worse or that tartrazine avoidance makes it better. </P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>To facilitate a greater understanding of the possible role of tartrazine and other food additives in exacerbating symptoms of asthma, it is recommended that a further larger scale RCT is conducted which considers the following methodological issues: blinded method to generate random sequence, state method used to conceal treatment allocation to intervention and control groups, blind assessors and state how they were blinded, include a larger sample size, include relevant outcome measures (e.g. lung function, asthma symptom scores, medication requirements) and report all relevant data completely.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS MODIFIED="2008-09-01 15:57:28 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Kate Ardern wishes to acknowledge the support of the Nuffield Provincial Hospitals Trust through the award of a short-term fellowship. The contribution of Felix Ram to previous versions of this review is acknowledged. Members of the Cochrane Airways Group (Steve Milan, Karen Blackhall, Bettina Reuben, Anna Bara) and Paul Jones the co-ordinating editor of the Cochrane Airways Group are also acknowledged.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>There are no known conflicts of interest</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS MODIFIED="2008-09-01 15:57:47 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>KA and Felix Ram (previous author no longer involved in this review) conducted all of the work for this review with help from various people as listed in the acknowledgement section.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2017-09-04 16:53:12 +0100" MODIFIED_BY="Emma Dennett">
+<STUDIES MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh">
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hariparsad-1984" NAME="Hariparsad 1984" YEAR="1984">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hariparsad D, Wilson N, Dixon C, Silverman M</AU>
+<TI>Oral tartrazine challenge in childhood asthma: effect on bronchial reactivity</TI>
+<SO>Clinical Allergy</SO>
+<YR>1984</YR>
+<VL>4</VL>
+<PG>81-5</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873932"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873931"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Spector-1979" NAME="Spector 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Spector SL, Wangaard C, Farr RS</AU>
+<TI>Aspirin and concomitant idiosyncrasies in adult asthmatic patients</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1979</YR>
+<VL>64</VL>
+<NO>6</NO>
+<PG>500-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873934"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873933"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Tarlo-1982" NAME="Tarlo 1982" YEAR="1982">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Tarlo SM, Broder I</AU>
+<TI>Tartrazine and benzoate challenge and dietary avoidance in chronic asthma</TI>
+<SO>Clinical Allergy</SO>
+<YR>1982</YR>
+<VL>12</VL>
+<PG>303-12</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873936"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873935"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vedanthan-1977" NAME="Vedanthan 1977" YEAR="1977">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vedanthan PK, Menon MM, Bell TD, Bergin D</AU>
+<TI>Aspirin and tartrazine oral challenge: incidence of adverse response in chronic childhood asthma</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1977</YR>
+<VL>60</VL>
+<NO>1</NO>
+<PG>8-13</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873938"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873937"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Virchow-1988" NAME="Virchow 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Virchow C, Szczeklik A, Bianco S, Schmitz-Schumann M, Juhl E, Robuschi M, et al</AU>
+<TI>Intolerance to tartrazine in aspirin-induced asthma: results of a multicenter study</TI>
+<SO>Respiration</SO>
+<YR>1988</YR>
+<VL>53</VL>
+<NO>1</NO>
+<PG>20-3</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873940"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873939"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Weber-1979" NAME="Weber 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Weber RW, Hoffman M, Raine DA, Nelson HS</AU>
+<TI>Incidence of bronchoconstriction due to aspirin, azo dyes, non-azo dyes, and preservatives in a population of perennial asthmatics</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1979</YR>
+<VL>64</VL>
+<NO>1</NO>
+<PG>32-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873942"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873941"/></IDENTIFIERS>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Adler-1991" NAME="Adler 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Adler BR, Assadullahi T, Warner JA, Warner JO</AU>
+<TI>Evaluation of a multiple food specific IgE antibody test compared to parental perception, allergy skin tests and RAST</TI>
+<SO>Clinical and Experimental Allergy</SO>
+<YR>1991</YR>
+<VL>21</VL>
+<PG>683-8</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873944"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873943"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Collins_x002d_W-1985" NAME="Collins-W 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Collins-Williams C</AU>
+<TI>Clinical spectrum of adverse reactions to tartrazine</TI>
+<SO>Journal of Asthma</SO>
+<YR>1985</YR>
+<VL>22</VL>
+<NO>3</NO>
+<PG>139-43</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873946"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873945"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Delaney-1976" NAME="Delaney 1976" YEAR="1976">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Delaney JC</AU>
+<TI>Response of patients with asthma and aspirin idosyncrasy to tartrazine (a drug commonly used in the food and drug industries)</TI>
+<SO>The Practitioner</SO>
+<YR>1976</YR>
+<VL>217</VL>
+<PG>285-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873948"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873947"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Freedman-1977" NAME="Freedman 1977" YEAR="1977">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Freedman BJ</AU>
+<TI>Asthma induced by sulphur dioxide, benzoate and tartrazine contained in orange drinks</TI>
+<SO>Clinical Allergy</SO>
+<YR>1977</YR>
+<VL>7</VL>
+<PG>407-15</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873950"/><IDENTIFIER TYPE="OTHER" VALUE="PMID: 412611"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873949"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fuglsang-1994" NAME="Fuglsang 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fulgsang GM, Halken C, Jorgensen M, Ostergaard PA, Osterballe O</AU>
+<TI>Adverse reactions to food additives in children with atopic symptoms</TI>
+<SO>Allergy</SO>
+<YR>1994</YR>
+<VL>49</VL>
+<PG>31-7</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873952"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873951"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Grzelewska_x002d_R-1986" NAME="Grzelewska-R 1986" YEAR="1986">
+<REFERENCE PRIMARY="YES" TYPE="JOURNAL_ARTICLE">
+<AU>Grzelewska-Rzymowska I, Szmidt M, Kowalski ML, Rozniecki J</AU>
+<TI>Sensitivity and tolerance to tartrazine in aspirin-sensitive asthmatics</TI>
+<SO>Allergologia et Immunopathologia</SO>
+<YR>1986</YR>
+<VL>14</VL>
+<NO>1</NO>
+<PG>31-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873954"/><IDENTIFIER TYPE="OTHER" VALUE="PMID: 3962814"/></IDENTIFIERS>
+</REFERENCE>
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Grzelewska-Rzymowska I, Szmidt M, Kowalski ML, Rozniecki J</AU>
+<TI>Tartrazine hypersensitivity in patients with asthma and aspirin hypersensitivity</TI>
+<TO>Nadwrazliwosc na tartrazine u chorych na astme z nadwrazliwoscia na aspiryne</TO>
+<SO>Polskie Archiwum Medycyny Wewnetrznej</SO>
+<YR>1984</YR>
+<VL>72</VL>
+<NO>5</NO>
+<PG>237-42</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873955"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873953"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Morales-1985" NAME="Morales 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Morales MC, Basomba A, Pelaez A, Garcia Villalmanzo I, Campos A</AU>
+<TI>Challenge tests with tartrazine in patients with asthma associated intolerance to analgesics (ASA-Triad). A comparative study with placebo</TI>
+<SO>Clinical Allergy</SO>
+<YR>1985</YR>
+<VL>15</VL>
+<NO>1</NO>
+<PG>55-9</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873957"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873956"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schneider-1996" NAME="Schneider 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schneider LC, Lester MR</AU>
+<TI>Atopic disease, rhinitis and conjunctivitis and upper respiratory infections</TI>
+<SO>Current Opinion in Pediatrics</SO>
+<YR>1996</YR>
+<VL>8</VL>
+<PG>531-40</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873959"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873958"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Settipane-1975" NAME="Settipane 1975" YEAR="1975">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Settipane GA, Pudupakkam RK</AU>
+<TI>Aspirin intolerance. iii. Subtypes, familial occurrence and cross-reactivity with tartrazine</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1975</YR>
+<VL>56</VL>
+<NO>3</NO>
+<PG>215-21</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873961"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873960"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Stenius-1976" NAME="Stenius 1976" YEAR="1976">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Stenius BSM, Lemola M</AU>
+<TI>Hypersensitivity to acetylsalicylic acid (ASA) and tartrazine in patients with asthma</TI>
+<SO>Clinical Allergy</SO>
+<YR>1976</YR>
+<VL>6</VL>
+<PG>119-29</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873963"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873962"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Timberlake-1992" NAME="Timberlake 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Timberlake CM, Toun AK, Hudson BJ</AU>
+<TI>Precipitation of asthma attacks in Melanesian adults by sodium metabisulphite</TI>
+<SO>Papua New Guinea Medical Journal</SO>
+<YR>1992</YR>
+<VL>35</VL>
+<PG>186-90</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873965"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873964"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilson-1989" NAME="Wilson 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilson N, Scott A</AU>
+<TI>A double-blind assessment of additive intolerance in children using a 12 day challenge period at home</TI>
+<SO>Clinical and Experimental Allergy</SO>
+<YR>1989</YR>
+<VL>19</VL>
+<PG>267-72</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873967"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873966"/></IDENTIFIERS>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh">
+<STUDY DATA_SOURCE="PUB" ID="STD-Park-2008" MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh" NAME="Park 2008" YEAR="2008">
+<REFERENCE MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Park HW, Park CH, Park SH, Park JY, Park HS, Yang HJ, et al</AU>
+<TI>Dermatologic adverse reactions to 7 common food additives in patients with allergic diseases: A double-blind, placebo-controlled study</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>2008</YR>
+<VL>121</VL>
+<NO>4</NO>
+<PG>1059-61</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873969"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873968"/></IDENTIFIERS>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Pestana-2010" MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh" NAME="Pestana 2010" YEAR="2010">
+<REFERENCE MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Pestana S, Moreira M, Olej B</AU>
+<TI>Safety of ingestion of yellow tartrazine by double-blind placebo controlled challenge in 26 atopic adults</TI>
+<SO>Allergologia Et Immunopathologia</SO>
+<YR>2010</YR>
+<VL>38</VL>
+<NO>3</NO>
+<PG>142-6</PG>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSREF" TYPE="OTHER" VALUE="2873971"/></IDENTIFIERS>
+</REFERENCE>
+<IDENTIFIERS><IDENTIFIER OTHERTYPE="CRSSTD" TYPE="OTHER" VALUE="2873970"/></IDENTIFIERS>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES MODIFIED="2011-07-07 13:47:00 +0100" MODIFIED_BY="Emma J Welsh">
+<ADDITIONAL_REFERENCES MODIFIED="2008-09-01 15:55:50 +0100" MODIFIED_BY="Toby J Lasserson">
+<REFERENCE ID="REF-Genton-1985" MODIFIED="2008-09-01 15:55:50 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Genton 1985" TYPE="JOURNAL_ARTICLE">
+<AU>Genton C, Frei PC, Pecoud A</AU>
+<TI>Value of oral provocation tests to aspirin and food additives in the routine investigation of asthma and chronic urticaria</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1985</YR>
+<VL>76</VL>
+<NO>1</NO>
+<PG>40-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Lockey-1977" MODIFIED="2008-09-01 15:55:50 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Lockey 1977" TYPE="JOURNAL_ARTICLE">
+<AU>Lockey SD Sr</AU>
+<TI>Hypersensitivity to tartrazine (FD&amp;C Yellow No. 5) and other dyes and additives present in foods and pharmaceutical products</TI>
+<SO>Annals of Allergy</SO>
+<YR>1977</YR>
+<VL>38</VL>
+<NO>3</NO>
+<PG>206-10</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-MacCara-1982" MODIFIED="2008-09-01 15:55:50 +0100" MODIFIED_BY="Toby J Lasserson" NAME="MacCara 1982" TYPE="JOURNAL_ARTICLE">
+<AU>MacCara ME</AU>
+<TI>Tartrazine: a potentially hazardous dye in Canadian drugs</TI>
+<SO>Canadian Medical Association Journal</SO>
+<YR>1982</YR>
+<VL>126</VL>
+<NO>8</NO>
+<PG>910-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Pollock-1989" MODIFIED="2008-09-01 15:55:50 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Pollock 1989" TYPE="JOURNAL_ARTICLE">
+<AU>Pollock I, Young E, Stoneham M, Slater N, Wilkinson JD, Warner JO</AU>
+<TI>Survey of colourings and preservatives in drugs</TI>
+<SO>BMJ</SO>
+<YR>1989</YR>
+<VL>299</VL>
+<NO>6700</NO>
+<PG>649-51</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Simon-1986" MODIFIED="2008-09-01 15:55:50 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Simon 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Simon RA</AU>
+<TI>Adverse reactions to food additives</TI>
+<SO>New England &amp; Regional Allergy Proceedings</SO>
+<YR>1986</YR>
+<VL>7</VL>
+<NO>6</NO>
+<PG>533-42</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Smith-1976" MODIFIED="2008-09-01 15:55:50 +0100" MODIFIED_BY="Toby J Lasserson" NAME="Smith 1976" TYPE="JOURNAL_ARTICLE">
+<AU>Smith LJ, Slavin RG</AU>
+<TI>Drugs containing tartrazine dye</TI>
+<SO>Journal of Allergy &amp; Clinical Immunology</SO>
+<YR>1976</YR>
+<VL>58</VL>
+<NO>4</NO>
+<PG>456-70</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES MODIFIED="2011-07-07 13:47:00 +0100" MODIFIED_BY="Emma J Welsh">
+<REFERENCE ID="REF-_x0032__x002f_08-_x002f__x002f_GAS_x002d_AST_x002f__x002f_MSG_x002d_AST_x002f__x002f_-_x002f__x002f_COW_x002d_AST_x002f__x002f_-_x002f__x002f_DIET_x002d_AST_x002f__x002f_-_x002f__x002f_MSG_x002d_AST_x002f__x002f_-_x002f__x002f_GAS_x002d_AST_x005f_Oct-2010-update_x002f__x002f_-_x002f__x002f_TAR_x002d_AST_x005f_June-2011_x002f__x002f_" MODIFIED="2011-07-07 13:47:00 +0100" MODIFIED_BY="Emma J Welsh" NAME="2/08 //GAS-AST//MSG-AST// //COW-AST// //DIET-AST// //MSG-AST// //GAS-AST_Oct 2010 update// //TAR-AST_June 2011//" TYPE="JOURNAL_ARTICLE">
+<AU>Park H-W, Park C-H, Park S-H, Park JY, Park HS, Yang HJ, et al</AU>
+<TI>Dermatologic adverse reactions to 7 common food additives in patients with allergic diseases: A double-blind, placebo-controlled study</TI>
+<SO>Journal of Allergy and Clinical Immunology</SO>
+<YR>2008</YR>
+<VL>121</VL>
+<NO>4</NO>
+<PG>1059-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-_x0033__x002f_10-_x002f__x002f_GOLD_x002d_AST_x002f__x002f_-_x002f__x002f_TAR_x002d_AST_x005f_June-2011_x002f__x002f_" MODIFIED="2011-07-07 13:47:00 +0100" MODIFIED_BY="Emma J Welsh" NAME="3/10 //GOLD-AST// //TAR-AST_June 2011//" TYPE="JOURNAL_ARTICLE">
+<AU>Pestana S, Moreira M, Olej B</AU>
+<TI>Safety of ingestion of yellow tartrazine by double-blind placebo controlled challenge in 26 atopic adults</TI>
+<SO>Allergologia Et Immunopathologia</SO>
+<YR>2010</YR>
+<VL>38</VL>
+<NO>3</NO>
+<PG>142-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</PENDING_REFERENCES>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-09-01 15:58:49 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR MODIFIED="2008-09-01 15:57:55 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Hariparsad-1984">
+<CHAR_METHODS>
+<P>Double blind randomised controlled crossover trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>10 asthmatic children (6 boys, 4 girls) attending paediatric outpatient clinic with a history of cough or wheeze after orange drinks. Mean age 11.5 years (range 7-16). Asthma medication was discontinued (aminophylline and cromoglycate 24 hours before and beta 2 agonists 8 hours before)before commencing each study. period. None of the children were taking anti-histamine preparations.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>A two day study to find out bronchial sensitivity to histamine before and after tartrazine administration. Baseline PEFR and histamine PC20 calculated (20% fall in PEF). Subjects were given either 1mg tartrazine capsule or placebo than challenged again with histamine (histamine challenge was repeated in those subjects that did not show a decrease in PEFR of at least 50%). 4 children who failed to respond to 1mg tartrazine after 2 days were given a single blind dose of 10mg followed by a histamine challenge.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES MODIFIED="2008-09-01 15:57:55 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Non-specific bronchial hyperreactivity (PC20), PEFR. 20% fall in PEFR defined a positive test result.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES/>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-09-01 15:57:58 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Spector-1979">
+<CHAR_METHODS>
+<P>Double blind randomised controlled crossover trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>304 patients (aged 14-72 years) recruited of whom, underwent tartrazine (n = 277), aspirin, sodium salicylate and acetaminophen challenges. Selection criteria were that they had reversible obstructive airways disease (ATS criteria) and a positive bronchial challenge response to histamine and/or methacholine. Many were on oral corticosteroids.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-09-01 15:57:58 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>After taking a detailed history about previous history of intolerance to foods containing tartrazine, subjects with no history of intolerance were given 50 mg tartrazine. Those with a positive history were given different doses ( 1, 5, 15, 25, 50 mg) in a double-blind manner randomised with placebo (200mg lactose) on separate days. Challenges were monitored with half-hourly lung function tests. All bronchodilators and anti-histamines (but not corticosteroids) were withheld for 6 to 12 hours prior to the challenge.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1 (litres). 20% fall in FEV1 defined a positive test result.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>This study was primarily investigating aspirin intolerance and 74 patients were exclude from aspirin challenge tests because of recorded severe reactions to the drug.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-09-01 15:58:13 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Tarlo-1982">
+<CHAR_METHODS>
+<P>Double blind randomised controlled crossover trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-09-01 15:58:13 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>28 asthmatic patients (14 male 14 female) from several practices and an asthma clinic. Mean ages men 52 (sd +/- 14), women 53 (=/- 12). Selection criteria were that patients understood the requirements of the study, were able to attend the clinic and had severe enough asthma to motivate them to complete the protocol. All required daily asthma medication (82% took oral and /or inhaled corticosteroids). All were middle-class and all were Caucasian except 1(Chinese male).</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Dietary avoidance study: Double blind ingestion challenges were performed on separate days (following 24 hours on tartrazine and benzoate-free diet) with lactose, tartrazine, benzoate and acetylsalicylic acid. 24 subjects then completed 1 month period of observation on firstly, normal diet and then on tartrazine and benzoate avoidance diets and eliminating non-steriodal analgesics (e.g. aspirin).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Lung function (FEV1), asthma symptom scores (day and night), asthma medication requirements (inhaled- puffs per day, oral - tablets per day). 20% fall in FEV1 defined a positive test result.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Used coded envelopes to conceal treatment allocation.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-09-01 15:58:38 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Vedanthan-1977">
+<CHAR_METHODS>
+<P>Double blind randomised controlled crossover trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-09-01 15:58:36 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>54 chronic asthmatic children 10 to 17 years of age who resided at the asthma centre. Only patients with airways obstruction demonstrated by spirometric and or plethysmographic pulmonary function testing were included, all required around-the-clock therapy with theophylline to prevent relapse of asthma. Approximately 60% required alternate-day corticosteroid therapy and half of the patients were receiving cromolyn sodium.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>All challenges were performed on days when corticosteroids were not administered. Bronchodilators were not administered for 6 hours but cromolyn sodium therapy was not suspended. All patients underwent double blind challenges to placebo, 600mg acetylsalicylic acid and 25mg tartrazine. on separate days. The study was discontinued ten months later when 32 of the original patients had completed the study.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FEV1, FEF25-75, blood pressure. 15% fall in FEV1 defined a positive test result.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-09-01 15:58:38 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>No data was presented for the tartrazine arm as the authors did not find and significant differences and therefore did not report results. No reply to correspondence received from author to date.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-09-01 15:58:43 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Virchow-1988">
+<CHAR_METHODS>
+<P>Double blind randomised controlled crossover trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>156 patients with aspirin-induced asthma were studies. Oral or inhalation tests with aspirin were performed at least 10 days before the study and were positive in all patients. In the majority of patients oral or inhaled beta-2 agonists were stopped at least 8 hours previously. In some patients medication was allowed 1-2 hours before tartrazine challenge as these patients could not do with bronchodilators for longer periods. Age range 16-63.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>A multicenter study. Tartrazine was dissolved in water and administered orally at increasing doses of 1, 5, 10 and 25 mg. Placebo was white gelatine capsules. If FEV1 did not fall by &gt;15% 1 hour post tartrazine challenge the next larger dose was given.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FVC, FEV1, PEFR, specific airway resistance. 20% fall in FEV1 defined a positive test result.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-09-01 15:58:43 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>No data provided on placebo arm. Only positive tests to tartrazine provided. No reply to correspondence received from author to date.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-09-01 15:58:49 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Weber-1979">
+<CHAR_METHODS>
+<P>Open randomised controlled crossover trial.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>45 patients with severe perennial asthma. Patients were selected from asthmatics treated by the Allergy-Immunology Service army medical centre. Age range was 15 to 62 years. All patients were taking a mixture of asthma medications including: prednisone, inhaled beclomethasone, methylxanthines and adrenergic bronchodilators.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS MODIFIED="2008-09-01 15:58:48 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>The patients underwent open challenge over several days and in variable/random order with the following drugs and additives: acetylsalicylic acid, tartrazine, azo dye mix, non-azo dye mix, sodium benzoate and butylated hydroxyanisole/hydroxytoluene. Placebo was clear gelatine capsules and could not be visually differentiated. Tartrazine challenge doses were 2.5, 5, 10, 15 and 20mg. A decrease in FEV1 of &gt;25% was considered a positive challenge. Pulmonary function testing was repeated at 20-min intervals following ingestion of the test does. If no significant change in FEV1 occurred by 1 hours the next higher dose was given.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>FVC, FEV1, PEFR. 25% fall in FEV1 defined a positive test result.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-09-01 15:58:49 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>No data provided on placebo arm. Only positive tests to tartrazine provided. No reply to correspondence received from author to date.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES MODIFIED="2008-09-01 15:58:56 +0100" MODIFIED_BY="Toby J Lasserson" SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Adler-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No specific results on tartrazine and only uses skin tests and immunology to evaluate atopic response.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Collins_x002d_W-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomised controlled trial but a review of the literature.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Delaney-1976">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a randomised trial. Results were only given for the 2 patients found to be sensitive . Not able to calculate mean and standard deviations for group nor were these included in text. No replies to correspondence from author.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Freedman-1977">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a double blind randomised controlled trial - no placebo used.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR MODIFIED="2008-09-01 15:58:56 +0100" MODIFIED_BY="Toby J Lasserson" STUDY_ID="STD-Fuglsang-1994">
+<CHAR_REASON_FOR_EXCLUSION MODIFIED="2008-09-01 15:58:56 +0100" MODIFIED_BY="Toby J Lasserson">
+<P>Data for subjects with asthma not provided separately. No response to correspondence from author.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Grzelewska_x002d_R-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>No placebo arm in study, all patients were challenge with tartrazine in order to develop tartrazine sensitivity.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Morales-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Treatment not provided in a randomised manner but given sequentially.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schneider-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Review article not randomised controlled trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Settipane-1975">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This study was primarily designed to investigate cross-reactivity in aspirin -intolerant patients. Not all the patients in the study were asthmatics and results for asthmatics were not given separately from those who were aspirin intolerant but not asthmatic.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Stenius-1976">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not a double blind randomised controlled trial. Test where conducted whenever practicable and patients from one ward were included in the study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Timberlake-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study also investigating precipitation of asthma by sodium metabisulphite, aspirin and betel nut. Only gave results for patients who were positive to any one of the substances and none were tartrazine sensitive. No details of placebo were provided.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilson-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study included respiratory, dermatological, behavioural and abdominal intolerance to food-additives. Data on patients with asthma not provided separately. No response to correspondence from author.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES MODIFIED="2011-07-07 13:56:02 +0100" MODIFIED_BY="Emma J Welsh" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Park-2008">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<AWAITING_CHAR STUDY_ID="STD-Pestana-2010">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS MODIFIED="2008-09-01 15:58:51 +0100" MODIFIED_BY="Toby J Lasserson">
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" MODIFIED="2008-09-01 15:58:51 +0100" MODIFIED_BY="Toby J Lasserson" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-01 15:58:02 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Hariparsad-1984">
+<DESCRIPTION>
+<P>Information not available </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-01 15:58:10 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Spector-1979">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-01 15:58:32 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="YES" STUDY_ID="STD-Tarlo-1982">
+<DESCRIPTION>
+<P>Study investigators unaware as to order of treatment group assignment. </P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-01 15:58:40 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Vedanthan-1977">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-01 15:58:45 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Virchow-1988">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY MODIFIED="2008-09-01 15:58:51 +0100" MODIFIED_BY="Toby J Lasserson" RESULT="UNKNOWN" STUDY_ID="STD-Weber-1979">
+<DESCRIPTION>
+<P>Information not available</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Tartrazine challenge versus Placebo</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="4.556343952365933" CI_START="-6.296343952365933" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.8700000000000001" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.7533395568219055" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="9" TOTAL_2="9" UNITS="" WEIGHT="100.0" Z="0.3142389574856159">
+<NAME>PC20 - Histamine (mg/ml)</NAME>
+<GROUP_LABEL_1>Tartrazine Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Tartrazine</GRAPH_LABEL_2>
+<CONT_DATA CI_END="4.556343952365933" CI_START="-6.296343952365933" EFFECT_SIZE="-0.8700000000000001" ESTIMABLE="YES" MEAN_1="4.62" MEAN_2="5.49" ORDER="94" SD_1="6.06" SD_2="5.68" SE="2.768593706398812" STUDY_ID="STD-Hariparsad-1984" TOTAL_1="9" TOTAL_2="9" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="89.37320048085301" CI_START="-103.37320048085301" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-7.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.88679517181638" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="9" TOTAL_2="9" UNITS="" WEIGHT="100.0" Z="0.14236061294349311">
+<NAME>PEFR (litres/min)</NAME>
+<GROUP_LABEL_1>Tartrazine Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Tartrazine</GRAPH_LABEL_2>
+<CONT_DATA CI_END="89.37320048085301" CI_START="-103.37320048085301" EFFECT_SIZE="-7.0" ESTIMABLE="YES" MEAN_1="293.0" MEAN_2="300.0" ORDER="95" SD_1="112.0" SD_2="96.0" SE="49.17090377222873" STUDY_ID="STD-Hariparsad-1984" TOTAL_1="9" TOTAL_2="9" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="3.0625968475813776" CI_START="0.3265202864653013" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RR" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="6" I2="0.0" I2_Q="0.0" ID="CMP-001.04" LOG_CI_END="0.486089831153859" LOG_CI_START="-0.48608983115385895" LOG_EFFECT_SIZE="0.0" METHOD="MH" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="1.0" Q="0.0" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="277" TOTAL_2="277" WEIGHT="100.0" Z="0.0">
+<NAME>Adverse Events</NAME>
+<GROUP_LABEL_1>Tartrazine Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>Placebo Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Tartrazine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Placebo</GRAPH_LABEL_2>
+<DICH_DATA CI_END="3.0625968475813776" CI_START="0.3265202864653013" EFFECT_SIZE="1.0" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="6" LOG_CI_END="0.486089831153859" LOG_CI_START="-0.48608983115385895" LOG_EFFECT_SIZE="0.0" ORDER="96" O_E="0.0" SE="0.5710631460064948" STUDY_ID="STD-Spector-1979" TOTAL_1="277" TOTAL_2="277" VAR="0.32611311672683513" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>Tartrazine avoidance diet versus Normal diet</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="60.937097434551504" CI_START="-66.9370974345515" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="-3.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.9267268817073605" Q="0.0" RANDOM="NO" SCALE="1000.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="24" TOTAL_2="24" UNITS="" WEIGHT="100.0" Z="0.0919636985341577">
+<NAME>PEFR (litres/min)</NAME>
+<GROUP_LABEL_1>Tartrazine Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>Normal diet Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Normal diet</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Tartrazine</GRAPH_LABEL_2>
+<CONT_DATA CI_END="60.937097434551504" CI_START="-66.9370974345515" EFFECT_SIZE="-3.0" ESTIMABLE="YES" MEAN_1="278.0" MEAN_2="281.0" ORDER="97" SD_1="112.0" SD_2="114.0" SE="32.621567507810944" STUDY_ID="STD-Tarlo-1982" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.3487149875784012" CI_START="-0.3487149875784012" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="1.0" Q="0.0" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="48" TOTAL_2="48" UNITS="" WEIGHT="200.0" Z="0.0">
+<NAME>Asthma symptom score (higher score worse)</NAME>
+<GROUP_LABEL_1>Tartrazine Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>Normal diet Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Tartrazine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Normal diet</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.7355307271495117" CI_START="-0.7355307271495117" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.01" NO="1" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0" Z="0.0">
+<NAME>Day-time score</NAME>
+<CONT_DATA CI_END="0.7355307271495117" CI_START="-0.7355307271495117" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="1.8" MEAN_2="1.8" ORDER="98" SD_1="1.3" SD_2="1.3" SE="0.37527767497325676" STUDY_ID="STD-Tarlo-1982" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="0.3960550069266601" CI_START="-0.3960550069266601" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="YES" I2="0.0" ID="CMP-002.02.02" NO="2" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0" Z="0.0">
+<NAME>Night-time score</NAME>
+<CONT_DATA CI_END="0.3960550069266601" CI_START="-0.3960550069266601" EFFECT_SIZE="0.0" ESTIMABLE="YES" MEAN_1="1.2" MEAN_2="1.2" ORDER="99" SD_1="0.7" SD_2="0.7" SE="0.202072594216369" STUDY_ID="STD-Tarlo-1982" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+<CONT_OUTCOME CHI2="0.13351134846461948" CI_END="0.8978588313260152" CI_START="-1.7829500640807996" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.44254561637739226" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.03" NO="3" P_CHI2="0.7148188693950696" P_Q="0.7148188693950696" P_Z="0.5175683148376298" Q="0.13351134846461948" RANDOM="NO" SCALE="10.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="SUB" TOTAL_1="48" TOTAL_2="48" UNITS="" WEIGHT="200.0" Z="0.6470983225263758">
+<NAME>Inhaled asthma medication requirements</NAME>
+<GROUP_LABEL_1>Tartrazine Group</GROUP_LABEL_1>
+<GROUP_LABEL_2>Normal diet Group</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Tartrazine</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Normal diet</GRAPH_LABEL_2>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.6679735264354876" CI_START="-2.067973526435488" DF="0" EFFECT_SIZE="-0.20000000000000018" ESTIMABLE="YES" I2="0.0" ID="CMP-002.03.01" NO="1" P_CHI2="1.0" P_Z="0.8337853524444868" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0" Z="0.20984922503480086">
+<NAME>Beta-2 agonists (puffs per day)</NAME>
+<CONT_DATA CI_END="1.6679735264354876" CI_START="-2.067973526435488" EFFECT_SIZE="-0.20000000000000018" ESTIMABLE="YES" MEAN_1="3.4" MEAN_2="3.6" ORDER="100" SD_1="3.4" SD_2="3.2" SE="0.9530652303663866" STUDY_ID="STD-Tarlo-1982" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+<CONT_SUBGROUP CHI2="0.0" CI_END="1.22452761639991" CI_START="-2.6245276163999103" DF="0" EFFECT_SIZE="-0.7000000000000002" ESTIMABLE="YES" I2="0.0" ID="CMP-002.03.02" NO="2" P_CHI2="1.0" P_Z="0.4759143805217395" STUDIES="1" TAU2="0.0" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0" Z="0.712889114963444">
+<NAME>Corticosteroids (puffs per day)</NAME>
+<CONT_DATA CI_END="1.22452761639991" CI_START="-2.6245276163999103" EFFECT_SIZE="-0.7000000000000002" ESTIMABLE="YES" MEAN_1="5.0" MEAN_2="5.7" ORDER="101" SD_1="3.5" SD_2="3.3" SE="0.9819198881103623" STUDY_ID="STD-Tarlo-1982" TOTAL_1="24" TOTAL_2="24" WEIGHT="100.0"/>
+</CONT_SUBGROUP>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

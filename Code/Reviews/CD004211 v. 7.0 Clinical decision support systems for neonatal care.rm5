@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD004211.pub2" GROUP_ID="NEONATAL" ID="788604091523464907" MERGED_FROM="" MODIFIED="2009-02-13 19:33:03 +0100" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Exported from Review Manager 4.2.10&lt;br&gt;Exported from Review Manager 4.2.8&lt;br&gt;Exported from Review Manager 4.3 Beta&lt;br&gt;Exported from Review Manager 4.2.7&lt;/p&gt;&lt;p&gt;CL 2/05 review&lt;/p&gt;&lt;p&gt;synopsis added feb/07&lt;/p&gt;&lt;p&gt;sent to Loni March 27/07&lt;/p&gt;&lt;p&gt;CL 4/07 minor update&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2009-02-13 13:18:08 -0500" NOTES_MODIFIED_BY="[Empty name]" REVIEW_NO="1" REVMAN_SUB_VERSION="5.0.17" REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="7.0">
+<COVER_SHEET MODIFIED="2009-02-13 19:33:03 +0100" MODIFIED_BY="Diane Haughton">
+<TITLE>Clinical decision support systems for neonatal care</TITLE>
+<CONTACT MODIFIED="2009-02-13 19:33:03 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="15333" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Kenneth</FIRST_NAME><LAST_NAME>Tan</LAST_NAME><POSITION>Staff Specialist and Senior Lecturer</POSITION><EMAIL_1>kenneth.tan@southernhealth.org.au</EMAIL_1><ADDRESS><DEPARTMENT>Monash Newborn</DEPARTMENT><ORGANISATION>Monash Medical Centre/Monash University</ORGANISATION><ADDRESS_1>246 Clayton Road</ADDRESS_1><CITY>Clayton</CITY><ZIP>3168</ZIP><REGION>Victoria</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>61 3 94956666 x 45170</PHONE_1><FAX_1>61 3 95946115</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2009-02-13 19:33:03 +0100" MODIFIED_BY="Diane Haughton"><PERSON ID="15333" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Kenneth</FIRST_NAME><LAST_NAME>Tan</LAST_NAME><POSITION>Staff Specialist and Senior Lecturer</POSITION><EMAIL_1>kenneth.tan@southernhealth.org.au</EMAIL_1><ADDRESS><DEPARTMENT>Monash Newborn</DEPARTMENT><ORGANISATION>Monash Medical Centre/Monash University</ORGANISATION><ADDRESS_1>246 Clayton Road</ADDRESS_1><CITY>Clayton</CITY><ZIP>3168</ZIP><REGION>Victoria</REGION><COUNTRY CODE="AU">Australia</COUNTRY><PHONE_1>61 3 94956666 x 45170</PHONE_1><FAX_1>61 3 95946115</FAX_1></ADDRESS></PERSON><PERSON ID="15203" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Peter</FIRST_NAME><MIDDLE_INITIALS>RF</MIDDLE_INITIALS><LAST_NAME>Dear</LAST_NAME><POSITION>Consultant Neonatologist</POSITION><EMAIL_1>prfd@doctors.org.uk</EMAIL_1><ADDRESS><DEPARTMENT>Department of Paediatrics</DEPARTMENT><ORGANISATION>St. James's University Hospital</ORGANISATION><CITY>Leeds</CITY><ZIP>LS9 7TF</ZIP><COUNTRY CODE="GB">UK</COUNTRY></ADDRESS></PERSON><PERSON ID="19714" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Simon</FIRST_NAME><MIDDLE_INITIALS>J</MIDDLE_INITIALS><LAST_NAME>Newell</LAST_NAME><POSITION>Consultant Neonatologist and Paediatric Gastroenterologist</POSITION><EMAIL_1>simon.newell@leedsth.nhs.uk</EMAIL_1><ADDRESS><DEPARTMENT>Department of Paediatrics</DEPARTMENT><ORGANISATION>St. James's University Hospital</ORGANISATION><ADDRESS_1>Beckett Street</ADDRESS_1><CITY>Leeds</CITY><ZIP>LS9 7TF</ZIP><REGION>West Yorkshire</REGION><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>01132066959</PHONE_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-08-13 16:32:13 -0400" MODIFIED_BY="Diane Haughton" NOTES="&lt;p&gt;Minor update: 09/07/07&lt;/p&gt;&lt;p&gt;New studies sought but none found: 09/07/07&lt;/p&gt;" NOTES_MODIFIED="2008-08-13 16:32:13 -0400" NOTES_MODIFIED_BY="Diane Haughton">
+<UP_TO_DATE>
+<DATE DAY="9" MONTH="7" YEAR="2007"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="9" MONTH="7" YEAR="2007"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="13" MONTH="7" YEAR="2009"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="2" YEAR="2003"/>
+<REVIEW_PUBLISHED ISSUE="2" YEAR="2005"/>
+<LAST_CITATION_ISSUE ISSUE="2" YEAR="2005"/>
+</DATES>
+<WHATS_NEW MODIFIED="2009-02-13 13:18:08 -0500" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-02-13 13:18:08 -0500" MODIFIED_BY="[Empty name]">
+<DATE DAY="13" MONTH="2" YEAR="2009"/>
+<DESCRIPTION>
+<P>Updated contact details</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2009-02-13 13:17:24 -0500" MODIFIED_BY="[Empty name]">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2009-02-13 13:17:24 -0500" MODIFIED_BY="[Empty name]">
+<DATE DAY="21" MONTH="5" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-05-21 09:02:29 -0400" MODIFIED_BY="[Empty name]">
+<DATE DAY="9" MONTH="7" YEAR="2007"/>
+<DESCRIPTION>
+<P>This updates the review "Clinical decision support systems for neonatal care" published in The Cochrane Library, Issue 2, 2005 (<LINK REF="REF-Tan-2005" TYPE="REFERENCE">Tan 2005</LINK>).<BR/>
+<BR/>The search was updated on July 2007. No new studies were identified for inclusion in this review update review. The conclusion of the review remains the same.<BR/>
+<BR/>Four additional studies were added to the excluded studies list.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS">
+<DATE DAY="24" MONTH="1" YEAR="2005"/>
+<DESCRIPTION>
+<P>Substantive amendment</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES/>
+<EXTERNAL_SOURCES>
+<SOURCE>
+<NAME>SPorts Aiding Research for KidS (SPARKS)</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</EXTERNAL_SOURCES>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2008-05-21 09:02:29 -0400" MODIFIED_BY="[Empty name]">
+<SUMMARY MODIFIED="2008-05-21 09:01:41 -0400" MODIFIED_BY="[Empty name]">
+<TITLE MODIFIED="2008-05-21 09:01:40 -0400" MODIFIED_BY="[Empty name]">Clinical decision support systems for neonatal care</TITLE>
+<SUMMARY_BODY MODIFIED="2008-05-21 09:01:41 -0400" MODIFIED_BY="[Empty name]">
+<P>Clinical decision support systems (CDSS) are computer systems that bring together medical and patient information to help doctors make decisions about health care. Support systems may be helpful for managing illness and the survival of newborns in the first 28 days of life. They may also influence the performance of doctors treating these newborn infants. The review authors searched the medical literature and contacted experts to find studies on CDSS used with newborns. They identified three randomised controlled studies that met the criteria for the review. Two of these three studies were on computer-aided drug prescribing and one was on computerized physiological monitoring of newborns. One of the studies on computer-aided prescribing showed that the CDSS used resulted in fewer drug dosage errors. The studies found no other benefits. The studies did not consider long-term outcomes in the newborns, just short-term effects. Also, with rapid changes in computer technology, current CDSS are more advanced than those used in the three studies. The Cochrane review authors conclude that there is not enough data to determine whether or not CDSS are beneficial for newborn care.</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT MODIFIED="2008-05-21 08:34:47 -0400" MODIFIED_BY="[Empty name]">
+<ABS_BACKGROUND>
+<P>Clinical decision support systems (CDSS) are computer-based information systems used to integrate clinical and patient information to provide support for decision-making in patient care. They may be useful in aiding the diagnostic process, the generation of alerts and reminders, therapy critiquing/planning, information retrieval, and image recognition and interpretation. CDSS for use in adult patients have been evaluated using randomised control trials and their results analysed in systematic reviews. There is as yet no systematic review on CDSS use in neonatal medicine.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To examine whether the use of clinical decision support systems has an effect on <BR/>1. the mortality and morbidity of newborn infants and <BR/>2. the performance of physicians treating them</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>The standard search method of the Cochrane Neonatal Review Group was used. Searches were made of the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2007), MEDLINE (from 1966 to July 2007), EMBASE (1980 - July 2007), CINAHL (1982 to July 2007) and AMED (1985 to July 2007).</P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Randomised or quasi-randomised controlled trials which compared the effects of CDSS versus no CDSS in the care of newborn infants. Trials which compared CDSS against other CDSS were also considered. The eligible interventions were CDSS for computerised physician order entry, computerised physiological monitoring, diagnostic systems and prognostic systems.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>Studies were assessed for eligibility using a standard pro forma. Methodological quality was assessed independently by the different investigators.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS MODIFIED="2008-05-21 08:34:47 -0400" MODIFIED_BY="[Empty name]">
+<P>Two studies fitting the selection criteria were found for computer aided prescribing and one study for computer aided physiological monitoring.</P>
+<P>Computer-aided prescribing: one study (Cade 1997) examined the effects of computerised prescribing of parenteral nutrition ordering. No significant effects on short-term outcomes were found and longer term outcomes were not studied. The second study (Balaguer 2001) investigated the effects of a database program in aiding the calculation of neonatal drug dosages. It was found that the time taken for calculation was significantly reduced and there was a significant reduction in the number of calculation errors.</P>
+<P>Computer-aided physiological monitoring: one eligible study (Cunningham 1998) was found which examined the effects of computerised cot side physiological trend monitoring and display. There were no significant effects on mortality, volume of colloid infused, frequency of blood gases sampling (samples per day) or severe intraventricular haemorrhage (Papile Grade IV). Published data did not permit us to analyse effects on long-term neurodevelopmental outcome.</P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>There are very limited data from randomised trials on which to assess the effects of clinical decision support systems in neonatal care. Further evaluation of CDSS using randomised controlled trials is warranted.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-05-21 09:02:29 -0400" MODIFIED_BY="[Empty name]">
+<BACKGROUND MODIFIED="2008-05-21 09:02:29 -0400" MODIFIED_BY="[Empty name]">
+<P>The body of new medical information is growing at a seemingly exponential rate. As computers can process immense quantities of data with great speed, they are indispensable tools for helping to manage information (<LINK REF="REF-Johnson-1995" TYPE="REFERENCE">Johnson 1995</LINK>). Clinical decision support systems (CDSS) are computer-based information systems used to integrate clinical and patient information to provide support for decision-making in patient care (<LINK REF="REF-NLM-2001" TYPE="REFERENCE">NLM 2001</LINK>). The medical tasks in which CDSS have been successfully used included diagnostic assistance, the generation of alerts and reminders, therapy critiquing/planning, information retrieval, and image recognition and interpretation (<LINK REF="REF-Coiera-1997" TYPE="REFERENCE">Coiera 1997</LINK>).</P>
+<P>The first computerised systems for medical decision support included a system for the diagnosis of congenital heart diseases that used Bayes theorem (<LINK REF="REF-Warner-1961" TYPE="REFERENCE">Warner 1961</LINK>) and MYCIN, a system for providing advice on antibiotic use in patients with hospital acquired sepsis (<LINK REF="REF-Wraith-1976" TYPE="REFERENCE">Wraith 1976</LINK>). Three types of CDSS have been developed so far: rule based systems, probabilistic systems, and cognitive models (<LINK REF="REF-Delaney-1999" TYPE="REFERENCE">Delaney 1999</LINK>). Computerised physician order entry (CPOE) systems have been promoted heavily to aid in drug prescribing, as these systems have been shown to lower the incidence of adverse drug events (<LINK REF="REF-Evans-1998" TYPE="REFERENCE">Evans 1998</LINK>). In adult patients on warfarin, computerised dosing has led to better oral anticoagulation (<LINK REF="REF-Fitzmaurice-1998" TYPE="REFERENCE">Fitzmaurice 1998</LINK>). Other major areas for CDSS include aiding the diagnostic process; for example, in patients with possible surgical acute abdomens (<LINK REF="REF-Adams-1986" TYPE="REFERENCE">Adams 1986</LINK>) and in the intensive care environment for intelligent monitoring and the operation of infusion devices (<LINK REF="REF-Hanson-2001" TYPE="REFERENCE">Hanson 2001</LINK>).</P>
+<P>Computerised systems have been developed to assist the care of newborn infants since <LINK REF="REF-Perlstein-1976" TYPE="REFERENCE">Perlstein 1976</LINK> first described their system for incubator temperature control. Indeed, CDSS have been created for many areas of neonatal care including management of the ventilated neonate (<LINK REF="STD-Carlo-1986" TYPE="STUDY">Carlo 1986</LINK>; <LINK REF="STD-Snowden-1997" TYPE="STUDY">Snowden 1997</LINK>) and in prescriptions, for example of parenteral nutrition solutions (<LINK REF="REF-Ball-1985" TYPE="REFERENCE">Ball 1985</LINK>). Systems have also been used for the prediction of length of inpatient stay (<LINK REF="STD-Zernikow-1999" TYPE="STUDY">Zernikow 1999</LINK>) as well as prognosis of respiratory distress syndrome (<LINK REF="REF-Hermansen-1987" TYPE="REFERENCE">Hermansen 1987</LINK>). These systems were generally reported to have beneficial effects on neonatal care.</P>
+<P>Any information system, including CDSS, ought to be systematically evaluated before being introduced for patient care (<LINK REF="REF-Wyatt-2000" TYPE="REFERENCE">Wyatt 2000</LINK>). The use of randomised controlled trials for evaluation of CDSS has been questioned. It was thought that, in a fast changing environment, other approaches to evaluation might also be required (<LINK REF="REF-Mowatt-1997" TYPE="REFERENCE">Mowatt 1997</LINK>). Other pertinent issues are that CDSS may influence the behaviour of a physician, which then carries over when treating control patients (contamination of the control group) and it is sometimes impossible to blind patients and staff to the presence of a CDSS (<LINK REF="REF-Randolph-1999" TYPE="REFERENCE">Randolph 1999</LINK>). The de Dombal system for aiding diagnosis of abdominal pain in adult patients was evaluated in a large multi-centre study in over 16,000 patients using a "before-after" study design (<LINK REF="REF-Adams-1986" TYPE="REFERENCE">Adams 1986</LINK>). It showed increase in accuracy of diagnosis, reduction in complications and mortality as well as significant cost savings.</P>
+<P>A number of CDSS, have been successfully evaluated using the randomised controlled trial design (<LINK REF="REF-Wyatt-1990" TYPE="REFERENCE">Wyatt 1990</LINK>). A systematic review of these rigorously conducted studies showed that CDSS were effective in improving physician performance and patient outcome, but this review did not investigate systems developed for use in newborn infants (<LINK REF="REF-Hunt-1998" TYPE="REFERENCE">Hunt 1998</LINK>). Although there are general reviews on the use of CDSS in pediatrics, like the effect of CPOE on prescribing (<LINK REF="REF-Kaushal-2001" TYPE="REFERENCE">Kaushal 2001</LINK>), there are no systematic reviews on the effects of CDSSs on care of newborn infants.</P>
+<P>The aim of this systematic review is to review the evidence from controlled clinical trials on the effects of CDSS on neonatal care.</P>
+</BACKGROUND>
+<OBJECTIVES>
+<P>To examine whether the use of clinical decision support systems (or different types of CDSS) has an effect on: <BR/>1. the mortality and morbidity of infants within the first 28 days of life within the neonatal unit, hospital wards and community and <BR/>2. the performance of physicians treating them</P>
+</OBJECTIVES>
+<METHODS>
+<SELECTION_CRITERIA>
+<CRIT_STUDIES>
+<P>Studies that have a randomised or quasi-randomised controlled trial design were included. Included studies could have used either patient, staff (medical and nursing) or hospital/unit as the unit of randomisation.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Studies of CDSS design for use in newborn infants, or for conditions arising in the first 28 days of life were included. Eligible studies could include CDSS for the care of neonates admitted to intensive care/special care units, not admitted to a neonatal unit, or managed in the community.</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS>
+<P>Studies comparing the use of computerised systems versus no CDSS for clinical decision support in neonatal care or studies comparing different types of CDSS. </P>
+<P>Studies describing CDSS for the following indications were specifically included:<BR/>1. computerised physician order entry (CPOE)<BR/>2. computerised physiological monitoring <BR/>3. diagnostic systems<BR/>4. prognostic systems.</P>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES>
+<P>Primary outcome measures: <BR/>i. mortality within the first 28 days of life<BR/>ii. mortality within the first year of life<BR/>iii. effects (e.g. improvement, or otherwise, in diagnostic accuracy, time-saving, more efficient use of resources) on physician or nursing staff performance</P>
+<P>Secondary outcome measures: <BR/>i. staff's satisfaction or compliance <BR/>ii. costs (cost of introducing the system, cost reduction in patient care)</P>
+<P>Outcome measures specific to the type of CDSS:<BR/>1. CPOE systems - incidence of adverse drug events<BR/>2. computerised physiological monitoring - short-term physiological parameters (e.g. arterial blood gases, blood pressure) within the follow-up period<BR/>3. diagnostic systems - accuracy (level of agreement with physicians) and reliability<BR/>4. prognostic systems - accuracy (level of agreement with physicians) and reliability</P>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-05-21 09:02:28 -0400" MODIFIED_BY="[Empty name]">
+<P>1. Published manuscripts:<BR/>MEDLINE (from 1966 to July 2007), EMBASE (1980 to 2007), CINAHL (1982 to July 2007) and AMED (1985 to July 2007) were searched. A search strategy utilising the following Medical Subject Heading (MESH) terms was used: "computer assisted decision making", "artificial intelligence", "hospital information systems", "computer-aided diagnosis", "computer-aided therapy" and "algorithms". A search filter for randomised controlled trials was used. Age restriction used was "infants (0 - 23 months)" .</P>
+<P>The details of the search strategy used for searching the databases are given below:</P>
+<P>Search Strategy<BR/>1. randomised controlled trial.pt.<BR/>2. controlled clinical trial.pt.<BR/>3. randomised controlled trials.sh.<BR/>4. random allocation.sh.<BR/>5. double blind method.sh.<BR/>6. single blind method.sh.<BR/>7. or/1-6<BR/>8. animal.mp. not human.sh. [mp=title, abstract, registry number word, mesh subject heading]<BR/>9. 7 not 8<BR/>10. clinical trial.pt.<BR/>11. exp clinical trials/<BR/>12. (clin$ adj25 trial$).ti,ab.<BR/>13. ((singl$ or doubl$ or trebl$ or tripl$) adj25 blind$).mp. or mask$.ti,ab. [mp=title, abstract, registry number word, mesh subject heading]<BR/>14. placebos.sh.<BR/>15. placebo$.ti,ab.<BR/>16. random$.ti,ab.<BR/>17. research design.sh.<BR/>18. or/10-17<BR/>19. 18 not 8<BR/>20. 19 not 9<BR/>21. comparative study.sh.<BR/>22. exp evaluation studies/<BR/>23. follow up studies.sh.<BR/>24. prospective studies.sh.<BR/>25. (control$ or prospectiv$).mp. or volunteer.ti,ab. [mp=title, abstract, registry number word, mesh subject heading]<BR/>26. or/21-25<BR/>27. 26 not 8<BR/>28. 27 not (9 or 20)<BR/>29. 9 or 20 or 28<BR/>30. exp Decision Making, Computer-Assisted/<BR/>31. computer assisted decision making.mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>32. (computer$ adj3 decision$).mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>33. (clinic$ adj3 decision$ adj3 computer$).mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>34. 30 or 31 or 32 or 33<BR/>35. exp Artificial Intelligence/<BR/>36. artificial intelligence.mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>37. (artificial adj2 intelligence).mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>38. 35 or 36 or 37<BR/>39. exp Diagnosis, Computer-Assisted/<BR/>40. computer assisted diagnosis.mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>41. (computer$ adj3 diagnos$).mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>42. exp Therapy, Computer-Assisted/<BR/>43. computer assisted therapy.mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>44. (computer$ adj3 therap$).mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>45. computer assisted treatment.mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>46. (computer$ adj3 treat$).mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>47. 39 or 40 or 41<BR/>48. 42 or 43 or 44 or 45 or 46<BR/>49. exp Hospital Information Systems/<BR/>50. hospital information system$.mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>51. (hospital$ adj3 informat$ adj3 system$).mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>52. 49 or 50 or 51<BR/>53. exp ALGORITHMS/<BR/>54. algorithm$.mp. [mp=title, abstract, registry number word, mesh subject heading]<BR/>55. 53 or 54<BR/>56. 34 or 38 or 47 or 48 or 52 or 55<BR/>57. 29 and 56<BR/>58. limit 57 to (human and all infant )</P>
+<P>The reference list of selected articles was reviewed. The authors were approached and asked about ongoing trials and unpublished studies. Hand searching of the relevant journals was also undertaken.</P>
+<P>2. Published abstracts.<BR/>The proceedings of international meetings were comprehensively searched to identify relevant published abstracts from Proceedings of the Annual American Medical Informatics Symposium, MEDINFO and IEEE in Biomedical Engineering.</P>
+<P>3. Database of the Cochrane Central Register of Controlled Trials (CENTRAL)<BR/>The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library) Disk Issue 2, 2007 was searched with the above strategy.</P>
+<P>4. Databases of the Neonatal Cochrane Review Group (CRG) of the Cochrane Collaboration.<BR/>The Neonatal CRG database was searched with the strategy as described above.</P>
+<P>5. Databases of the Effective Practice and Organisation of Care (EPOC) Review Group of the Cochrane Collaboration. The EPOC database was searched with the strategy as described above.</P>
+<P>6. Internet based resources<BR/>Internet based resources were looked at by consulting the web site (www.neonatology.org) and a search for the relevant web pages was done using search engines.</P>
+<P>7. Selection process<BR/>The level of evidence was assessed after the Oxford Centre for Evidence-Base Medicine Criteria (<LINK REF="REF-Sackett-1986" TYPE="REFERENCE">Sackett 1986</LINK>)<BR/>Clinical decision support systems were sorted into three categories:<BR/>i. CDSS not evaluated in the clinical environment, or prototypes<BR/>ii. CDSS evaluated in a non-clinical environment<BR/>iii. CDSS evaluated in the neonatal intensive care unit, including being evaluated using the randomised controlled trial design. Each investigator sorted the papers independently and any disagreement was resolved by discussion.</P>
+</SEARCH_METHODS>
+<DATA_COLLECTION>
+<P>The standard method for the Cochrane Collaboration as described in the Cochrane Collaboration handbook were used.</P>
+<P>1. Eligible studies were independently selected by the investigators by applying inclusion and exclusion criteria. Any disagreement was resolved by discussion. </P>
+<P>2. Data extraction and entry: <BR/>Data was extracted, assessed and coded separately for each study using a form that was designed specifically for this review. For continuous data, any standard error of the mean was replaced by the corresponding standard deviation. </P>
+<P>3. Planned subgroup analyses:<BR/>Subgroup analyses according to the setting of newborn care were planned: neonatal intensive care unit, other in-hospital setting, or community setting.</P>
+<P>4. Criteria for assessing the methodological quality of the studies:<BR/>Each trial was assessed for:<BR/>a) blinding of randomisation<BR/>b) blinding of intervention<BR/>c) whether there was complete follow-up<BR/>d) blinding of outcome measurement<BR/>and categorised them into "yes", "no" and "can't tell".</P>
+<P>5. Statistical analyses:<BR/>Abstracted data were entered into RevMan 4.1 software and the studies were assessed for statistical heterogeneity. Meta-analyses was performed, if appropriate, using the fixed-effect model. The standard methods of the Neonatal Review Group were used to synthesise data using relative risk (RR), risk difference (RD) and number needed to treat (NNT) if there was a statistically significant reduction in RD and number needed to harm (NNH) if there was a statistically significant increase in the RD.</P>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS>
+<STUDY_DESCRIPTION MODIFIED="2008-05-21 09:02:29 -0400" MODIFIED_BY="[Empty name]">
+<P>The number of possible eligible studies identified from the search was 29. From these, 26 were excluded after closer reading of the abstracts and text of the paper. The reasons for exclusion are listed in Table of Excluded Studies.</P>
+<P>For computer aided prescribing, two studies, (<LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK>; <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK>) fulfilled the selection criteria.</P>
+<P>
+<BR/>
+<LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK>
+<BR/>
+</P>
+<UL>
+<LI>
+<I>Population</I>: This was a randomised control trial of computer aided parenteral nutrition (PN) prescription in 52 consecutive infants who receiving PN. These infants were randomly assigned to either receiving computer aided PN or standard bag PN. The eligibility criterion was any infant admitted to the regional neonatal unit where the study was conducted who required PN.</LI>
+</UL>
+<P>
+<BR/>
+</P>
+<UL>
+<LI>
+<I>Intervention</I>: The intervention was a software package for computer-aided prescribing of PN.</LI>
+</UL>
+<P>
+<BR/>
+</P>
+<UL>
+<LI>
+<I>Primary outcomes</I>: Daily weights, plasma electrolytes and actual volume of PN received by the infants.</LI>
+</UL>
+<P>
+<BR/>
+<LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK>
+<BR/>This paper was published in the Spanish language.<BR/>
+</P>
+<UL>
+<LI>
+<I>Population</I>: This was a randomised crossover trial involving 27 health professionals (nine nurses, ten residents and eight pediatricians) from three different neonatal units.</LI>
+</UL>
+<P>
+<BR/>
+</P>
+<UL>
+<LI>
+<I>Intervention</I>: A spreadsheet program (Neodosis) to aid calculation of drug dosages. Medical staff were asked to calculate drug dosages as in actual prescription, on simulated neonatal patients. There were 54 simulated cases altogether. In each of the simulated cases, the calculation was performed with the aid of Neodosis and without aid (manual calculation), sequentially. The order in which the methods of calculation were performed was randomly assigned. The gestational age and the weight of the simulated patient were also randomly assigned (out of two possible values). The nursing staff were asked to calculate the dilutions needed to administer the drugs for the 54 simulated cases, using the same methods.</LI>
+</UL>
+<P>
+<BR/>
+</P>
+<UL>
+<LI>
+<I>Primary outcomes</I>: Time taken for calculation, calculation errors and serious errors. A single evaluator inspected the calculation for errors.</LI>
+</UL>
+<P>
+<BR/>For physiological monitoring systems, only one study, <LINK REF="STD-Cunningham-1998" TYPE="STUDY">Cunningham 1998</LINK>, fulfilled the selection criteria set out above.</P>
+<P>
+<LINK REF="STD-Cunningham-1998" TYPE="STUDY">Cunningham 1998</LINK> was a randomised control study involving 600 infants receiving intensive care in one neonatal intensive care unit of whom two groups comprising 445 infants were eligible for inclusion in this review. The eligibility criterion of this study was any infant receiving intensive care.</P>
+<UL>
+<LI>
+<I>Population</I>: All infants less than 32 weeks gestation. Infants above 32 weeks gestation were also eligible if they were receiving mechanical ventilation or suffering from birth asphyxia.</LI>
+</UL>
+<P>
+<BR/>
+</P>
+<UL>
+<LI>
+<I>Intervention</I>: The treatment group received computerized physiological monitoring during the first seven days of life, real-time and continuously updated, with the trend data continuously displayed at the cot side of each infant (n = 230). The control group received similar monitoring, but without data display at the cot side (n = 215). Two additional groups were randomised in this study, but these groups were not eligible for inclusion in this review. These groups received cot side display of monitoring data on odd days only (n = 76), or even days only (n = 79). Outcome data from these latter two groups were not used for analyses in this review.</LI>
+</UL>
+<P>
+<BR/>
+</P>
+<UL>
+<LI>
+<I>Primary outcomes</I>: The short-term outcome measures were i) number of blood gases taken ii) volume of colloid support administered and iii) cranial ultrasound findings. Medium-term measures were i) death ii) time to death iii) time to discharge iv) cranial ultrasound at discharge v) days ventilated and vi) days given supplemental oxygen. Long-term outcomes were neurodevelopment, assessed using the Denver II scale [if assessed by the research team or a UK standard (unspecified)].</LI>
+</UL>
+<P>
+<BR/>There were no direct assessments of the effects of computerised monitoring on staff performance; however, this study incorporated a questionnaire-based study of staff and parental attitudes towards computerised monitoring</P>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-05-21 09:02:29 -0400" MODIFIED_BY="[Empty name]">
+<P>In <LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK>, the method of randomisation was by computer generated random numbers. The method of concealment was by sealed envelopes. There was no blinding of the intervention. Blinding of outcome measurements is uncertain. All the patients were accounted for in the follow-up.</P>
+<P>In <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK>, the method of randomisation was by computer generated random numbers, but concealment was uncertain. There was no blinding of the intervention. All staff participants were accounted for in the follow-up.</P>
+<P>There was insufficient information about the method of randomisation in <LINK REF="STD-Cunningham-1998" TYPE="STUDY">Cunningham 1998</LINK>. However, there was concealment of randomisation using sealed envelopes. Concealment of intervention was not possible because of the nature of the intervention. It was unclear if there was blinding of the infants' intervention group when measurements of short and medium term outcomes were made. All the patients were accounted for in the short and medium term measurements of outcomes.</P>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-05-21 09:02:27 -0400" MODIFIED_BY="[Empty name]">
+<P>The search produced no eligible study that described the development and use of CDSS for diagnostic or prognostic purposes.</P>
+<P>
+<I>
+<B>COMPUTER AIDED PRESCRIBING</B>
+</I>
+<BR/>There were two studies (<LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK>; <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK>) that fitted the selection criteria.</P>
+<UL>
+<LI>
+<I>Mortality</I>
+</LI>
+</UL>
+<P>Data on mortality, whether at 28 days or one year, was not described in the <LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK> study. This was not a outcome measure in <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK>.</P>
+<UL>
+<LI>
+<I>Adverse drug events</I>
+</LI>
+</UL>
+<P>There were no data on adverse drug events from <LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK>. <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK> showed significant reduction in errors in calculation of drug doses among resident pediatric staff, pediatricians and, to a lesser extent, in nurses. Errors classed as "serious" was eliminated with the use of the system. Adverse drug events were not applicable to <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK> as the study used entirely simulated cases.</P>
+<UL>
+<LI>
+<I>Performance of neonatal staff</I>
+</LI>
+</UL>
+<P>There were no data on neonatal staff performance from <LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK>. However, <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK> studied the length of time taken to calculate drug dosages, and this was significantly reduced by the use of the Neodosis spreadsheet program.</P>
+<UL>
+<LI>
+<I>Cost </I>
+</LI>
+</UL>
+<P>In <LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK> there were data regarding the actual volume of PN delivered to the infants and wastage of PN; and there was no significant difference in either of the outcomes between the intervention and control groups. <LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK> did not have cost as an outcome measure.</P>
+<P>
+<I>
+<B>COMPUTER AIDED PHYSIOLOGICAL MONITORING (Comparison 01):</B>
+</I>
+</P>
+<P>One study (<LINK REF="STD-Cunningham-1998" TYPE="STUDY">Cunningham 1998</LINK>) fitted the selection criteria.</P>
+<UL>
+<LI>
+<I>
+<B>Mortality (Outcome 01.01):</B>
+</I>
+</LI>
+</UL>
+<P>There was no significant difference in the mortality of infants in the control or intervention groups. The relative risk for death was 0.74 (0.42 to 1.31) and the risk difference was -0.03 (-0.08, 0.03).</P>
+<UL>
+<LI>
+<I>
+<B>Short-term physiological stability (Outcome 01.02):</B>
+</I>
+</LI>
+</UL>
+<P>Volume of colloid administered can be a proxy measure of blood pressure and perfusion stability. There was no significant difference between the two groups in the amount of intravenous colloid administered; the mean difference of the volume of colloid administered (in ml/kg/day) was 0.10 with a 95% confidence -2.45 to 2.65.</P>
+<UL>
+<LI>
+<I>
+<B>Grade IV intraventricular hemorrhage (Outcome 01.03):</B>
+</I>
+</LI>
+</UL>
+<P>With regard to severe (Papile Grade 4) intraventricular haemorrhage, there was no significant difference between the groups; relative risk was 0.73 (0.28 to 1.92) and the risk difference was -0.01 (-0.05, 0.02).</P>
+<P>Two outcomes described in the study (that were not included in our analyses) were the length of ventilation and days on supplemental oxygen. The results were reported as median and ranges by <LINK REF="STD-Cunningham-1998" TYPE="STUDY">Cunningham 1998</LINK>. The investigators reported that there was no significant difference in the mean number of days on assisted ventilation or on supplemental oxygen.</P>
+<UL>
+<LI>
+<I>Long-term neurodevelopmental outcome</I>
+</LI>
+</UL>
+<P>It was not possible for us to analyse the outcomes from the published data as they were expressed in percentages of patients. However, the report stated that of the surviving infants, 71% that had computerised monitoring were normal while 67% of the control group were normal (95% confidence interval of the difference was -6% to 11%).</P>
+<UL>
+<LI>
+<I>
+<B>Test ordering by staff (Outcome 01.04)</B>:</I>
+</LI>
+</UL>
+<P>Test ordering behaviour as indicated by number of blood gas samples taken per baby per day was not significantly affected by computerised monitoring, MD -0.10 (-0.60 to 0.40).</P>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-05-21 09:02:28 -0400" MODIFIED_BY="[Empty name]">
+<P>Computer decision support systems (CDSS) comprise a heterogeneous group of interventions. The definition of CDSS in MeSH states that CDSS incorporate information systems that use patient specific data and other clinical data to assist decision-making for an individual patient (<LINK REF="REF-NLM-2001" TYPE="REFERENCE">NLM 2001</LINK>). In our search, we found that even though most of the studies identified fall within this definition, there are some systems that are borderline - they have features both of CDSS and of computerised medical equipment where human decisions are not involved. That said, it was useful to begin the process of categorising computer systems for decision support as they will undoubtedly become ubiquitous in the future.</P>
+<P>Besides being a heterogeneous group in terms of their underlying software or logic engine, it was also clear that the functions for which the CDSS had been designed are also heterogeneous. Again, it was useful to have a priori definitions on the areas of neonatal medicine where CDSS could be important.</P>
+<P>The search strategy was comprehensive. One criticism may be the choice of databases that were searched. The search involved predominantly clinical databases, less so computer science and engineering databases. However, the question to be answered in the protocol was the effectiveness of CDSS vis-a-vis clinical care of newborn infants; hence the choice of databases searched was appropriate.</P>
+<P>It is pertinent to consider the issue of outcome measures. While there is ongoing debate regarding the outcomes that should be measured, it is clear that the bottom line is improvement to either patient outcomes or physician performance. Indeed, improvement in these outcomes is precisely the raison d'etre for CDSS. Although we did not assess outcomes such as performance of the CDSS within the organisation, ultimately it is the clinical outcomes such as survival and staff performance that are most important.</P>
+<P>
+<I>
+<B>Computer-aided prescribing</B>
+</I>
+<BR/>
+<LINK REF="STD-Cade-1997" TYPE="STUDY">Cade 1997</LINK> was a short-term study investigating the effects on computer-aided PN ordering on short-term measures. It did not address longer-term outcome like survival, growth, and morbidity. There was also no measurement of the effect of CDSS on the performance of the doctors when using the software. In particular, there were no attempts to study the effect on error rates. Although useful for measuring short-term outcomes, this study suffered from small sample size and did not address long-term outcome issues.</P>
+<P>
+<LINK REF="STD-Balaguer-2001" TYPE="STUDY">Balaguer 2001</LINK> was a study that used simulated clinical cases rather than actual patients. The aim of this study was to investigate the performance of both medical and nursing staff in the neonatal setting in calculating drug dosages and drug dilutions, respectively. It did study the important issue of drug errors, particularly in dosaging errors. Although the cases were simulated, they did mirror actual clinical practice on any neonatal unit. Furthermore, in the original protocol for this review, the use of simulated or hypothetical cases was not a criterion for exclusion.</P>
+<P>
+<I>
+<B>Computer-aided monitoring</B>
+</I>
+<BR/>Overall, <LINK REF="STD-Cunningham-1998" TYPE="STUDY">Cunningham 1998</LINK> was a well-conducted large, single-centre randomised controlled trial. However, there were some methodological issues in this study. Approximately one quarter (23.6%) of the infants were randomised into two groups where computerised trend monitoring was used on alternate days (i.e. on odd and even days, respectively). Although the aim of this design was to test if just monitoring itself had any short-term effects (and it did not), the net result was that there were fewer infants available for analysis for the short and medium-term outcomes. It was not possible to include data on a few outcomes such as days ventilated, days on oxygen supplementation in the meta-analysis as they were not published in a suitable format. There were problems with the outcome measures at one and two years even though follow-up was available in 93% of the cases. Twenty-two percent of the infants were assessed by pediatricians who were not involved in the study, and who used different measures of neurodevelopment from the research group who had used the Denver II scale. These important data was not included in the meta-analysis.</P>
+<P>It was not possible to analyse the effect on staff performance of the computerised monitoring as the study only set out to assess staff (and the infants' parents) attitudes and acceptance of the system through structured questionnaires. The frequency of blood gas samples was used as a proxy measure of impact on staff behaviour, i.e. in the ordering of blood gas analysis. A study (<LINK REF="REF-Griffith-1997" TYPE="REFERENCE">Griffith 1997</LINK>) had shown that less experienced medical staff ordered more blood gas analysis.</P>
+<P>The search strategy also revealed some reports of computerised monitoring of newborn infants in intensive care, but none of them was a randomised controlled study. These reports were mainly of systems in the prototype stage of development (<LINK REF="REF-Wolf-1996" TYPE="REFERENCE">Wolf 1996</LINK>) or clinical experience with computerised monitoring (<LINK REF="REF-Dugdale-1983" TYPE="REFERENCE">Dugdale 1983</LINK>). It is often difficult to conduct a randomised control trial with enough power (by implication, usually requiring large numbers of subjects) with computerised systems because software and hardware upgrades and modifications occur constantly.</P>
+<P>Finally, the conclusions from this review are probably limited in applicability. For example, <LINK REF="STD-Cunningham-1998" TYPE="STUDY">Cunningham 1998</LINK> used technology that was developed some years ago. Information technology is constantly evolving. In the future, there will be more advanced and sophisticated systems (using genetic algorithms, fuzzy logic and neural networks) that would have greater capability. These systems would be expected to have different impact on the clinical care of the child. However, they should still be evaluated in randomised control studies.</P>
+</DISCUSSION>
+<CONCLUSIONS>
+<IMPLICATIONS_PRACTICE>
+<P>There are insufficient data from randomised trials to determine the benefits or harms of CDSS in neonatal care.</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH>
+<P>Before CDSS are introduced the effects of the technology should be systematically studied using the randomised controlled study design (with either cluster randomisation or randomisation at the individual patient level).</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>The authors are grateful to Pat Spoor, Faculty Team Librarian for Healthcare Studies from the University of Leeds for her advice on literature search strategy.</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>None</P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>KT developed the protocol and search strategy, performed the searches, analysed the search results and wrote the manuscript. <BR/>SN was involved in the protocol development, searches and search result analysis. <BR/>PD edited the manuscript. <BR/>The decisions about the inclusion and exclusion of studies involved all three investigators.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES/>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES>
+<STUDIES>
+<INCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Balaguer-2001" NAME="Balaguer 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Balaguer Santamaria JA, Fernandez Ballart JD, Escribano Subias J</AU>
+<TI>Usefulness of a software package to reduce medication errors in neonatal care</TI>
+<TO>Utilidad de una aplicacion informatica para disminuir errores de tratamiento en neonatologia</TO>
+<SO>Anales Espanoles de Pediatria</SO>
+<YR>2001</YR>
+<VL>55</VL>
+<PG>541-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cade-1997" NAME="Cade 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cade A, Thorp H, Puntis JWL</AU>
+<TI>Does the computer improve the nutritional support of the newborn?</TI>
+<SO>Clinical Nutrition</SO>
+<YR>1997</YR>
+<VL>16</VL>
+<PG>19-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Cunningham-1998" NAME="Cunningham 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Cunningham S, Deere S, Symon A, Elton RA, McIntosh N</AU>
+<TI>A randomized, controlled trial of computerized physiologic trend monitoring in an intensive care unit</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1998</YR>
+<VL>26</VL>
+<PG>2053-60</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ambalavanan-2001" NAME="Ambalavanan 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ambalavanan N, Carlo WA</AU>
+<TI>Comparison of the prediction of extremely low birth weight neonatal mortality by regression analysis and by neural networks</TI>
+<SO>Early Human Development</SO>
+<YR>2001</YR>
+<VL>65</VL>
+<PG>123-37</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ambalavanan-2005" NAME="Ambalavanan 2005" YEAR="2005">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ambalavanan N, Carlo WA, Bobashev G, Mathias E, Liu B, Poole K et al</AU>
+<TI>Prediction of death for extremely low birth weight neonates</TI>
+<SO>Pediatrics</SO>
+<YR>2005</YR>
+<VL>116</VL>
+<PG>1367-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ambalavanan-2006" NAME="Ambalavanan 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ambalavanan N, Carlo WA, Shankaran S, Bann CM, Emrich SL, Higgins RD et al</AU>
+<TI>Predicting outcomes of neonates diagnosed with hypoxemic-ischemic encephalopathy</TI>
+<SO>Pediatrics</SO>
+<YR>2006</YR>
+<VL>118</VL>
+<PG>2084-93</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Arroe-1991" NAME="Arroe 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Arroe M</AU>
+<TI>A computerized aid in ventilating neonates</TI>
+<SO>Computers in Biology and Medicine</SO>
+<YR>1991</YR>
+<VL>21</VL>
+<PG>15-21</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Baumgartner-2004" NAME="Baumgartner 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Baumgartner C, Bohm C, Baumgartner D, Marini G, Weinberger K, Olgemoller B et al</AU>
+<TI>Supervised machine learning techniques for the classification of metabolic disorders in newborns</TI>
+<SO>Bioinformatics</SO>
+<YR>2004</YR>
+<VL>20</VL>
+<PG>2985-96</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Carlo-1986" NAME="Carlo 1986" YEAR="1986">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Carlo WA, Pacifico L, Chatburn RL, Fanaroff AA</AU>
+<TI>Efficacy of computer-assisted management of respiratory failure in neonates</TI>
+<SO>Pediatrics</SO>
+<YR>1986</YR>
+<VL>78</VL>
+<PG>139-43</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Claure-2001" NAME="Claure 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Claure N, Gerhardt T, Everett R, Musante G, Herrera C, Bancalari E</AU>
+<TI>Closed-loop controlled inspired oxygen concentration for mechanically ventilated very low birth weight infants with frequent episodes of hypoxemia</TI>
+<SO>Pediatrics</SO>
+<YR>2001</YR>
+<VL>107</VL>
+<PG>1120-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-de-Haan-1999" NAME="de Haan 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>de Haan AF, van der Velde J, Geven WB, Festen C, Verbeek AL</AU>
+<TI>A multistate Kalman filter for neonatal clotting time prediction and early detection of coagulation disturbances</TI>
+<SO>Methods of Information in Medicine</SO>
+<YR>1999</YR>
+<VL>38</VL>
+<PG>113-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Desch-1991" NAME="Desch 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Desch LW, Esquivel MT, Anderson SK</AU>
+<TI>Comparison of a computer tutorial with other methods for teaching well-newborn care</TI>
+<SO>American Journal of Diseases of Children</SO>
+<YR>1991</YR>
+<VL>145</VL>
+<PG>1255-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Dugdale-1988" NAME="Dugdale 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Dugdale RE, Cameron RG, Lealman GT</AU>
+<TI>Closed-loop control of the partial pressure of arterial oxygen in neonates</TI>
+<SO>Clinical Physics and Physiological Measurement</SO>
+<YR>1988</YR>
+<VL>9</VL>
+<PG>291-305</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Garibaldi-1999" NAME="Garibaldi 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Garibaldi JM, Westgate JA, Ifeachor EC</AU>
+<TI>The evaluation of an expert system for the analysis of umbilical cord blood</TI>
+<SO>Artificial Intelligence in Medicine</SO>
+<YR>1999</YR>
+<VL>17</VL>
+<PG>109-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hatzakis-2002" NAME="Hatzakis 2002" YEAR="2002">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Hatzakis GE, Davis GM</AU>
+<TI>Fuzzy logic controller for weaning neonates from mechanical ventilation</TI>
+<SO>Proceedings / AMIA Annual Symposium</SO>
+<YR>2002</YR>
+<PG>315-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Heerman-1997" NAME="Heerman 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="CONFERENCE_PROC">
+<AU>Heermann LK, Thompson CB</AU>
+<TI>Prototype expert system to assist with the stabilization of neonates prior to transport</TI>
+<SO>Proceedings/AMIA Annual Fall Symposium</SO>
+<YR>1997</YR>
+<PG>213-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jirapaet-2001" NAME="Jirapaet 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jirapaet V</AU>
+<TI>A computer expert system prototype for mechanically ventilated neonates development and impact on clinical judgment and information access capability of nurses</TI>
+<SO>Computers in Nursing</SO>
+<YR>2001</YR>
+<VL>19</VL>
+<PG>194-203</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lehmann-2004" NAME="Lehmann 2004" YEAR="2004">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lehmann CU, Conner KG, Cox JM</AU>
+<TI>Preventing provider errors: online total parenteral nutrition calculator</TI>
+<SO>Pediatrics</SO>
+<YR>2004</YR>
+<VL>113</VL>
+<PG>748-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mahieu-2000" NAME="Mahieu 2000" YEAR="2000">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mahieu LM, De Muynck AO, De Dooy JJ, Laroche SM, Van Acker KJ</AU>
+<TI>Prediction of nosocomial sepsis in neonates by means of a computer-weighted bedside scoring system (NOSEP score)</TI>
+<SO>Critical Care Medicine</SO>
+<YR>2000</YR>
+<VL>28</VL>
+<PG>2026-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mani-1997" NAME="Mani 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mani S, McDermott S, Valtorta M</AU>
+<TI>MENTOR: a Bayesian Model for prediction of mental retardation in newborns</TI>
+<SO>Research in Developmental Disabilities</SO>
+<YR>1997</YR>
+<VL>18</VL>
+<PG>303-18</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Michnikowski-1997" NAME="Michnikowski 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Michnikowski M, Rudowski R, Siugocki P, Grabowski J, Rondio Z, Lindstrom DP</AU>
+<TI>Evaluation of the expert system for respiratory therapy of newborns on archival data</TI>
+<SO>International Journal of Artificial Organs</SO>
+<YR>1997</YR>
+<VL>20</VL>
+<PG>678-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Miksch-1996" NAME="Miksch 1996" YEAR="1996">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Miksch S, Horn W, Popow C, Paky F</AU>
+<TI>Utilizing temporal data abstraction for data validation and therapy planning for artificially ventilated newborn infants</TI>
+<SO>Artificial Intelligence in Medicine</SO>
+<YR>1996</YR>
+<VL>8</VL>
+<PG>543-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Moorman-2006" NAME="Moorman 2006" YEAR="2006">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Moorman JR, Lake DE, Griffin MP</AU>
+<TI>Heart rate characteristics monitoring for neonatal sepsis</TI>
+<SO>IEEE Transactions on Biomedical Engineering</SO>
+<YR>2006</YR>
+<VL>53</VL>
+<PG>126-32</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Morozoff-1992" NAME="Morozoff 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Morozoff PE, Evans RW</AU>
+<TI>Closed-loop control of SaO2 in the neonate</TI>
+<SO>Biomedical Instrumentation &amp; Technology</SO>
+<YR>1992</YR>
+<VL>26</VL>
+<PG>117-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Onofrey-2001" NAME="Onofrey 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Onofrey CB, Feuer WJ, Flynn JT</AU>
+<TI>The outcome of retinopathy of prematurity: screening for retinopathy of prematurity using an outcome predictive program</TI>
+<SO>Ophthalmology</SO>
+<YR>2001</YR>
+<VL>108</VL>
+<PG>27-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Puangco-1997" NAME="Puangco 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Puangco MA, Nguyen HL, Sheridan MJ</AU>
+<TI>Computerized PN ordering optimizes timely nutrition therapy in a neonatal intensive care unit</TI>
+<SO>Journal of the American Dietetic Association</SO>
+<YR>1997</YR>
+<VL>97</VL>
+<PG>258-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shimomura-1994" NAME="Shimomura 1994" YEAR="1994">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shimomura K, Shono H, Kohara M, Uchiyama A, Ito Y, Sugimori H</AU>
+<TI>Neonatal assessment using the Apgar fuzzy expert system</TI>
+<SO>Computers in Biology and Medicine</SO>
+<YR>1994</YR>
+<VL>24</VL>
+<PG>171-178</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Snowden-1997" NAME="Snowden 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Snowden S, Brownlee KG, Dear PR</AU>
+<TI>An expert system to assist neonatal intensive care</TI>
+<SO>Journal of Medical Engineering and Technology</SO>
+<YR>1997</YR>
+<VL>21</VL>
+<PG>67-73</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Sun-1997" NAME="Sun 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Sun Y, Kohane IS, Stark AR</AU>
+<TI>Computer-assisted adjustment of inspired oxygen concentration improves control of oxygen saturation in newborn infants requiring mechanical ventilation</TI>
+<SO>Journal of Pediatrics</SO>
+<YR>1997</YR>
+<VL>131</VL>
+<PG>754-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wallace-2003" NAME="Wallace 2003" YEAR="2003">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wallace DK, Jomier J, Aylward SR, Landers MB 3rd</AU>
+<TI>Computer-automated quantification of plus disease in retinopathy of prematurity</TI>
+<SO>Journal of AAPOS: American Association for Pediatric Ophthalmology and Strabismus</SO>
+<YR>2003</YR>
+<VL>7</VL>
+<PG>126-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zernikow-1998" NAME="Zernikow 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zernikow B, Holtmannspoetter K, Michel E, Pielemeier W, Hornschuh F, Westermann A, Hennecke KH</AU>
+<TI>Artificial neural network for risk assessment in preterm neonates</TI>
+<SO>Archives of Disease in Childhood Fetal &amp; Neonatal Edition</SO>
+<YR>1998</YR>
+<VL>79</VL>
+<PG>F129-34</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zernikow-1998b" NAME="Zernikow 1998b" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zernikow B, Holtmannspoetter K, Michel E, Theilhaber M, Pielemeier W, Hennecke KH</AU>
+<TI>Artificial neural network for predicting intracranial haemorrhage in preterm neonates</TI>
+<SO>Acta Paediatrica</SO>
+<YR>1998</YR>
+<VL>87</VL>
+<PG>969-75</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Zernikow-1999" NAME="Zernikow 1999" YEAR="1999">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Zernikow B, Holtmannspotter K, Michel E, Hornschuh F, Groote K, Hennecke KH</AU>
+<TI>Predicting length-of-stay in preterm neonates</TI>
+<SO>European Journal of Pediatrics</SO>
+<YR>1999</YR>
+<VL>158</VL>
+<PG>59-62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES/>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Adams-1986" NAME="Adams 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Adams ID, Chan M, Clifford PC, Cooke WM, Dallos V, de Dombal FT, Edwards MH, Hancock DM, Hewett DJ, McIntyre N, et al</AU>
+<TI>Computer aided diagnosis of acute abdominal pain: a multicentre study</TI>
+<SO>British Medical Journal (Clinical research ed.)</SO>
+<YR>1986</YR>
+<VL>293</VL>
+<PG>800-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Ball-1985" NAME="Ball 1985" TYPE="JOURNAL_ARTICLE">
+<AU>Ball PA, Candy DC, Puntis JW, McNeish AS</AU>
+<TI>Portable bedside microcomputer system for management of parenteral nutrition in all age groups</TI>
+<SO>Archives of Disease in Childhood</SO>
+<YR>1985</YR>
+<VL>60</VL>
+<PG>435-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Coiera-1997" NAME="Coiera 1997" TYPE="BOOK_SECTION">
+<AU>Coiera E</AU>
+<TI>Artificial Intelligence, Chap 19 in: Guide to Medical Informatics, The Internet and Telemedicine</TI>
+<SO>Guide to Medical Informatics, The Internet and Telemedicine</SO>
+<YR>1997</YR>
+<PG>200-219</PG>
+<PB>Chapman &amp; Hall Medical</PB>
+<CY>London</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Delaney-1999" NAME="Delaney 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Delaney BC, Fitzmaurice DA, Riaz A, Hobbs FDR</AU>
+<TI>Can computerised decision support systems deliver improved quality in primary care?</TI>
+<SO>British Medical Journal</SO>
+<YR>1999</YR>
+<VL>319</VL>
+<PG>1281</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Dugdale-1983" NAME="Dugdale 1983" TYPE="JOURNAL_ARTICLE">
+<AU>Dugdale RE. Lealman GT</AU>
+<TI>A cotside microcomputer monitoring system for use in the neonatal intensive care unit</TI>
+<SO>Clinical Physics &amp; Physiological Measurement</SO>
+<YR>1983</YR>
+<VL>4</VL>
+<PG>373-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Evans-1998" NAME="Evans 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Evans RS, Pestotnik SL, Classen DC, Clemmer TP, Weaver LK, Orme JF, Lloyd JF, Burke JP</AU>
+<TI>A computer-assisted management program for antibiotics and other antiinfective agents</TI>
+<SO>New England Journal of Medicine</SO>
+<YR>1998</YR>
+<VL>338</VL>
+<PG>232-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Fitzmaurice-1998" NAME="Fitzmaurice 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Fitzmaurice DA, Hobbs FD, Delaney BC, Wilson S, McManus R</AU>
+<TI>Review of computerised decision support systems for oral anticoagulation management</TI>
+<SO>British Journal of Haematology</SO>
+<YR>1998</YR>
+<VL>102</VL>
+<PG>907-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Griffith-1997" NAME="Griffith 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Griffith CH3rd, Wilson JF, Desai NS, Rich EC</AU>
+<TI>Does pediatric housestaff experience influence tests ordered for infants in the neonatal intensive care unit?</TI>
+<SO>Critical Care Medicine</SO>
+<YR>1997</YR>
+<VL>25</VL>
+<PG>704-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hanson-2001" NAME="Hanson 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Hanson CW3rd, Marshall BE</AU>
+<TI>Artificial intelligence applications in the intensive care unit</TI>
+<SO>Critical Care Medicine</SO>
+<YR>2001</YR>
+<VL>29</VL>
+<PG>427-35</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hermansen-1987" NAME="Hermansen 1987" TYPE="JOURNAL_ARTICLE">
+<AU>Hermansen MC, Hasan S</AU>
+<TI>An evaluation of a computer program to predict the outcome of hyaline membrane disease</TI>
+<SO>American Journal of Perinatology</SO>
+<YR>1987</YR>
+<VL>4</VL>
+<PG>249-52</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hunt-1998" NAME="Hunt 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Hunt D L, Haynes RB, Hanna SE, Smith K</AU>
+<TI>Effects of computer-based clinical decision support systems on physician performance and patient outcomes: a systematic review</TI>
+<SO>Journal of the American Medical Association</SO>
+<YR>1998</YR>
+<VL>280</VL>
+<PG>1339-46</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Johnson-1995" NAME="Johnson 1995" TYPE="JOURNAL_ARTICLE">
+<AU>Johnson KB, Feldman MJ</AU>
+<TI>Medical informatics and pediatrics. Decision-support systems</TI>
+<SO>Archives of Pediatric and Adolescent Medicine</SO>
+<YR>1995</YR>
+<VL>149</VL>
+<PG>1371-80</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kaushal-2001" NAME="Kaushal 2001" TYPE="JOURNAL_ARTICLE">
+<AU>Kaushal R, Barker KN, Bates W</AU>
+<TI>How can information technology improve patient safety and reduce medication errors in children's health care?</TI>
+<SO>Archives of Pediatric and Adolescent Medicine</SO>
+<YR>2001</YR>
+<VL>155</VL>
+<PG>1002-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Mowatt-1997" NAME="Mowatt 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Mowatt G, Bower DJ, Brebner JA, Cairns JA, Grant ASM, McKee L</AU>
+<TI>When and how to assess fast changing technologies: a comparative study of medical applications of four generic technologies</TI>
+<SO>Health Technology Assessment</SO>
+<YR>1997</YR>
+<VL>1</VL>
+<PG>1-149</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-NLM-2001" NAME="NLM 2001" TYPE="OTHER">
+<AU>National Library of Medicine</AU>
+<SO>MeSH, 2001 Supplement to Index Medicus®</SO>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Perlstein-1976" NAME="Perlstein 1976" TYPE="JOURNAL_ARTICLE">
+<AU>Perlstein PH, Edwards NK, Atherton HD, Sutherland JM</AU>
+<TI>Computer-assisted newborn intensive care</TI>
+<SO>Pediatrics</SO>
+<YR>1976</YR>
+<VL>57</VL>
+<PG>494-501</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Randolph-1999" NAME="Randolph 1999" TYPE="JOURNAL_ARTICLE">
+<AU>Randolph AG, Haynes RB, Wyatt JC, Cook DJ, Guyatt, GH</AU>
+<TI>Users' Guides to the Medical Literature: XVIII. How to use an article evaluating the clinical impact of a computer-based clinical decision support system</TI>
+<SO>Journal of the American Medical Association</SO>
+<YR>1999</YR>
+<VL>282</VL>
+<PG>67-74</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Sackett-1986" NAME="Sackett 1986" TYPE="JOURNAL_ARTICLE">
+<AU>Sackett DL</AU>
+<TI>Rules of evidence and clinical recommendations on use of antithrombotic agents</TI>
+<SO>Chest</SO>
+<YR>1986</YR>
+<VL>89</VL>
+<PG>2S-3S</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Warner-1961" NAME="Warner 1961" TYPE="JOURNAL_ARTICLE">
+<AU>Warner HR, Toronto AF, Veasey LG, Stephenson R</AU>
+<TI>A mathematical approach to medical diagnosis: application to congenital heart disease</TI>
+<SO>Journal of the American Medical Association</SO>
+<YR>1961</YR>
+<VL>177</VL>
+<PG>75-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wolf-1996" NAME="Wolf 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Wolf M, Keel M, von Siebenthal K, Bucher H, Geering K, Lehareinger Y, Niederer P</AU>
+<TI>Improved monitoring of preterm infants by Fuzzy Logic</TI>
+<SO>Technology and Health Care</SO>
+<YR>1996</YR>
+<VL>4</VL>
+<PG>193-201</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wraith-1976" NAME="Wraith 1976" TYPE="JOURNAL_ARTICLE">
+<AU>Wraith SM, Aikins JS, Buchanan BG, Clancey WJ, Davis R, Fagan LM et al</AU>
+<TI>Computerized consultation system for selection of antimicrobial therapy</TI>
+<SO>American Journal of Hospital Pharmacy</SO>
+<YR>1976</YR>
+<VL>33</VL>
+<PG>1304-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wyatt-1990" NAME="Wyatt 1990" TYPE="JOURNAL_ARTICLE">
+<AU>Wyatt J, Spiegelhalter D</AU>
+<TI>Evaluating medical expert systems: what to test and how?</TI>
+<SO>Medical Informatics</SO>
+<YR>1990</YR>
+<VL>15</VL>
+<PG>205-17</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Wyatt-2000" NAME="Wyatt 2000" TYPE="JOURNAL_ARTICLE">
+<AU>Wyatt JC</AU>
+<TI>Decision support systems</TI>
+<SO>Journal of the Royal Society of Medicine</SO>
+<YR>2000</YR>
+<VL>93</VL>
+<PG>629-33</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES>
+<REFERENCE ID="REF-Tan-2005" NAME="Tan 2005" TYPE="COCHRANE_REVIEW">
+<AU>Tan K, Dear PRF, Hewell SJ</AU>
+<TI>Clinical decision support systems for neonatal care</TI>
+<SO>Cochrane Database of Systematic Reviews</SO>
+<YR>2005</YR>
+<NO>2</NO>
+<IDENTIFIERS/>
+</REFERENCE>
+</OTHER_VERSIONS_REFERENCES>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES>
+<CHARACTERISTICS_OF_INCLUDED_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Balaguer-2001">
+<CHAR_METHODS>
+<P>Blinding of randomisation: Can't tell.<BR/>Blinding of intervention: No<BR/>Completeness of followup: Yes. Masking of outcome measurement: Can't tell<BR/>
+</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>27 health staff (9 nurses, 10 paediatric residents, 8 paediatricians) involved in the care of infants in 3 different NICU</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Neodosis, which was a database created within Excel versus manual calculation as control intervention (54 simulated cases, randomised crossover).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Time taken for calculation, errors in calculation and major errors</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>54 simulated cases were presented to the test participants. The medical staff were tested on drug dosage calculation, whereas the nursing staff were tested on drug dilution calculations.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Cade-1997">
+<CHAR_METHODS>
+<P>Blinding of randomisation: Yes (Sealed envelopes).<BR/>Blinding of intervention: No<BR/>Completeness of followup: Yes. Masking of outcome measurement: Can't tell</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>52 infants receiving parenteral nutrition on a regional neonatal unit</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Computer aided prescription of parenteral nutrition (27 infants randomised) versus control intervention of "standard bag" regimen where there was a fixed ratio of the volumes of amino acids and dextrose (25 infants randomised)</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Daily weights, Plasma electrolytes values, Actual volume of PN received, Wastage of PN</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Only short term outcome measure. No long-term outcomes.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Cunningham-1998">
+<CHAR_METHODS>
+<P>Blinding of randomisation: Yes (sealed envelopes).<BR/>Blinding of intervention: No<BR/>Completeness of followup: Yes. Masking of outcome measurement: Can't tell</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>445 newborn infants that require intensive care in one regional neonatal unit. Inclusion criteria: all infants &lt;=32 weeks gestation or if =&gt;32 weeks - infants receiving ventilation or suffering from birth asphyxia.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Computerised physiological trend monitoring displayed at the cot side. Computerised trend monitoring with continuous cot side display (n=230). Control group received monitoring but no display (n=215).</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Short-term: number of blood gases taken, volume of colloid support, daily cranial ultrasound.<BR/>Medium-term: death, time to death, time to other discharge, cranial ultrasound at discharge, days ventilated and days given supplemental oxygen.<BR/>Long-term: 1-year and 2-year follow-up - neurodevelopmental assessment, Denver II</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>This study randomised 600 infants into 4 groups: continuous display of trend data (n=230), no display of trend data (n=215), display on odd days only (n=76), display on even days only (n=79). Only the first 2 groups, comprising 445 infants in total, were eligible for inclusion in this review.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Ambalavanan-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Part of the database from 810 ELBW infants (23 variables) was used to develop a regression model and a neural network model of ELBW mortality. The other part of the database was then used to validate the model. This was a study describing development of a system, not testing it in clinical setting.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ambalavanan-2005">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This was a paper detailing the development of a statistical model for predicting outcomes in ELBW infants. This was developed from a (retrospective) data set from a group of NICUs. This was not a clinical trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Ambalavanan-2006">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This was a secondary analysis of data from a RCT on hypothermia for infants with HIE. This study aimed to identify variables that predict outcomes of HIE. The paper did not describe a system tested in a clinical trial for guiding decision-making.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Arroe-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A computer program for providing advice on infants ventilated on a volume controlled ventilator. The ventilator treatment of 30 premature infants were retrospectively studied - a retrospective study. This was not a randomised control trial.<BR/>
+</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Baumgartner-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This study was on the development of a computerised technique (data-mining) from dataset of a regional newborn screening program. This was based on data from records and was not a randomised control trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Carlo-1986">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study of a computerised algorithm for managing ventilated infants according to arterial blood gas values. Infants in the study were divided into 3 groups: 1) treated before the introduction of this system 2) managed by pediatric residents with aid of the system 3) treated after the introduction of the system, but without the system's output taken into consideration for management. Study design essentially of before-after type.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Claure-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A study of a computerised algorithm for closed-loop control of the inspired oxygen concentration of mechanically ventilated neonates. The system was tested on 14 newborn infants. The intervention of computer control closed loop oxygen delivery was compared to manual control of oxygen concentration (by altering ventilator setting). Each infant was tested on one intervention for 2 hours and then switched to the other intervention for 2 hours also. The starting intervention was randomly assigned. Essentially a randomised control trial where each infants was its own control. However, the system described was really medical equipment and not a CDSS (which integrates clinical and patient information).</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-de-Haan-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A system developed for proposing dosage of heparin and for the detection of clotting disturbances in infants on ECMO. The system was tested on historical data from 44 neonates receiving ECMO. Not a randomised control trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Desch-1991">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A computer-assisted instructional program was developed for teaching medical students about care of the newborn infant. The students were randomly divided into 3 groups of 26 each; the first being the control (no additional task) group, second having specific educational material and the third group assigned to the computer aided instruction. The outcome measures were marks from pre-test and post-test multiple choice questions, and acceptability to user. This randomised control study investigated an educational intervention.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Dugdale-1988">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Closed-loop control system for controlling the inspired oxygen concentration of newborn infants with RDS in head box oxygen. Seven (n=7) preterm infants were studied. Study design was of an observational nature. The system is not strictly a CDSS and hence did not meet selection criteria.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Garibaldi-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Expert system for interpreting umbilical cord blood gases to predict neonatal outcome. Not a randomised control study</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Hatzakis-2002">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Report of a system that used fuzzy logic to propose changes to SIMV levels in weaning infants. Post-operative weaning data from 10 newborn infants were collected and then the proposed SIMV changes from the system were compared to actual changes. This is a validation study using archival data; not a randomised control trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Heerman-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>"The STABLE Assistant" is a rule-based CDSS for stabilising newborn infants being transported from community hospitals to acute care facilities. This study evaluated this system using retrospective data from 19 charts from infants requiring transport; not a control trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Jirapaet-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A computer expert system, ES-MVN, was developed to support nursing decision-making in the management of ventilated newborn infants. This study did not meet selection criteria as it used case simulations in measuring the effect of ES-MVN on the self-perceived performance of neonatal nurses (n=16). Furthermore, it used a pretest-posttest (before-after) design, not a randomised control study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Lehmann-2004">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Evaluation study of an online parenteral nutrition order system where utilization rate, error rate and user satisfaction were studied over 3 time periods; 1) immediately before, 2) immediately after and 3) 2 years after the introduction of the system; not a randomised control study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mahieu-2000">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This paper describes NOSEP, a computerised cot side scoring system, for predicting nosocomial infection from clinical and laboratory variables. Prospective data from 80 neonates were used to develop the system. The system was then validated on retrospective data from 39 other infants.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Mani-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Description of MENTOR, a system that uses Bayesian probability techniques to predict mental retardation in newborn infants. The system was validated using generated cases and data from a national database. It was not tested in a randomised control study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Michnikowski-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A study which evaluated the performance of an expert system, AVES-N, against the historical performance of actual physicians. Data from 320 ventilated newborns were used. This was not a randomised control study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Miksch-1996">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Descriptive study of VIE-VENT, as an open-loop system for monitoring and managing ventilated newborn infants; not a randomised control study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Moorman-2006">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This study was on a predictive algorithm for detection of neonatal sepsis, based on heart rate variability. This was not a randomised control trial</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Morozoff-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A descriptive study of a closed-loop control system for the delivery of inspired oxygen to neonates targeting a set oxygen saturation. Not a randomised control trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Onofrey-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This paper describes a program, RM-ROP, that calculated the risk of progression to threshold retinopathy of prematurity and risk of poor retina structural outcomes in preterm infants. The study was essentially an observational study ("non-interventional case-series") that used the actual retinal outcomes from preterm infants screened for ROP to validate the computer model.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Puangco-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Before-after study of automation in parenteral nutrition ordering and delivery. Total of 81 infants were studied. Not a randomised control trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shimomura-1994">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A study of AFES (Apgar expert system) a program using fuzzy logic, to assign Apgar scores for newborn infants. Three versions of AFES was devised, from the knowledge of inexperienced obstetrician, experienced obstetrician and experienced neonatologist. This study described 267 infants who were assessed by an obstetrician 1 minute after birth, and given their Apgar scores. The performance of the AFES in giving the Apgar scores was compared to that of the obstetrician. The performance of the AFES derived from the knowledge of neonatologists performed significantly better than the other AFES. This was not a randomised control study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Snowden-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A study of ESNIC, a rule-based expert system for neonatal intermittent positive pressure ventilation. An observational study that involved 63 ventilated newborns investigating how the advice given by the system was followed.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Sun-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>This paper described a fuzzy logic system for an open loop control system for the delivery of inspired oxygen concentration in mechanically ventilated infants. The system recommended changes to be made to FiO2 in order for the SpO2 to stay within a target range. Nursing staff would enact the changes. 16 infants were studied with a 2-hour period of no computer assistance, then 2-hour period where the system was on followed by a final 2-hour period of unassisted FiO2 control. The main outcome measure was time spent by the infants within the target SpO2. This was not a randomised control trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wallace-2003">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>A computer program was developed that could analyse digital images from a video-indirect ophthalmoscope to determined if plus disease in retinopathy of prematurity was present. Digital retinal images from 20 preterm infants were obtained from a database and the performance of the program was compared against that of 2 human examiners. This was not a randomised control trial.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Zernikow-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective data from 890 preterm infants were used to generate both a logistic regression model and an artificial neural network to predict the risk of neonatal mortality. The infants were born over a 6 year period. Just under half these infants born around the first three years of this time period were assigned into the training group while the other half born in the latter 3 years formed the validation set. This study was a description of development and validation of a system that was not tested in a randomised control study.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Zernikow-1998b">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective data from 890 preterm infants were used to generate both a multiple logistic regression model and an artificial neural network to predict the occurrence of severe intraventricular haemorrhage. Half of these infants were randomly assigned into a training group where their data were used to generate the models and the other half were assigned into a validation where their data were used to validate the models. This was not a randomised control study investigating the performance of this system.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Zernikow-1999">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective data from 2144 preterm neonates were used to generate a multiple regression model and an artificial neural network to predict the length of stay. About 75% of these infants data were randomly assigned to provide data to generate the models; the remaining 25% of these infants fell into the validation group.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Adequate sequence generation?</NAME>
+<DESCRIPTION>
+<P>Was the allocation sequence adequately generated?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment?</NAME>
+<DESCRIPTION>
+<P>Was allocation adequately concealed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Balaguer-2001">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Cade-1997">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Cunningham-1998">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding?</NAME>
+<DESCRIPTION>
+<P>Was knowledge of the allocated interventions adequately prevented during the study?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data addressed?</NAME>
+<DESCRIPTION>
+<P>Were incomplete outcome data adequately addressed?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Free of selective reporting?</NAME>
+<DESCRIPTION>
+<P>Are reports of the study free of suggestion of selective outcome reporting?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Free of other bias?</NAME>
+<DESCRIPTION>
+<P>Was the study apparently free of other problems that could put it at a high risk of bias?</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>Computer aided physiological monitoring versus control</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.3117625153657575" CI_START="0.41749449163704266" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.740036231884058" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="24" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="0.1178552164406898" LOG_CI_START="-0.379349250162219" LOG_EFFECT_SIZE="-0.1307470168607646" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="0.0" P_Z="0.3026341384195307" Q="0.0" RANDOM="NO" SCALE="5.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="230" TOTAL_2="215" WEIGHT="100.0" Z="1.0308010540774601">
+<NAME>Mortality</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.3117625153657575" CI_START="0.41749449163704266" EFFECT_SIZE="0.740036231884058" ESTIMABLE="YES" EVENTS_1="19" EVENTS_2="24" LOG_CI_END="0.1178552164406898" LOG_CI_START="-0.379349250162219" LOG_EFFECT_SIZE="-0.1307470168607646" ORDER="85" O_E="0.0" SE="0.29206036488435205" STUDY_ID="STD-Cunningham-1998" TOTAL_1="230" TOTAL_2="215" VAR="0.08529925673638088" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="2.6472144848538885" CI_START="-2.4472144848538875" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="0.10000000000000053" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.02" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.9386669927733682" Q="0.0" RANDOM="NO" SCALE="4.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="230" TOTAL_2="215" UNITS="" WEIGHT="100.0" Z="0.07694538470137866">
+<NAME>Volume of intravenous colloid used (mls/kg/day)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="2.6472144848538885" CI_START="-2.4472144848538875" EFFECT_SIZE="0.10000000000000053" ESTIMABLE="YES" MEAN_1="7.2" MEAN_2="7.1" ORDER="86" SD_1="13.7" SD_2="13.7" SE="1.2996231078458538" STUDY_ID="STD-Cunningham-1998" TOTAL_1="230" TOTAL_2="215" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="1.9180635610811558" CI_START="0.2755937181906491" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="RR" EFFECT_SIZE="0.7270531400966184" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="9" I2="0.0" I2_Q="0.0" ID="CMP-001.03" LOG_CI_END="0.28286299478950827" LOG_CI_START="-0.5597306858436195" LOG_EFFECT_SIZE="-0.13843384552705557" METHOD="MH" NO="3" P_CHI2="1.0" P_Q="0.0" P_Z="0.5195597592990882" Q="0.0" RANDOM="NO" SCALE="5.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="230" TOTAL_2="215" WEIGHT="100.0" Z="0.6440241784641334">
+<NAME>Grade 4 IVH (Papile)</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<DICH_DATA CI_END="1.9180635610811558" CI_START="0.2755937181906491" EFFECT_SIZE="0.7270531400966184" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="9" LOG_CI_END="0.28286299478950827" LOG_CI_START="-0.5597306858436195" LOG_EFFECT_SIZE="-0.13843384552705557" ORDER="87" O_E="0.0" SE="0.4949436989098859" STUDY_ID="STD-Cunningham-1998" TOTAL_1="230" TOTAL_2="215" VAR="0.24496926509059974" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<CONT_OUTCOME CHI2="0.0" CI_END="0.40297587210176555" CI_START="-0.6029758721017657" CI_STUDY="95" CI_TOTAL="95" DF="0.0" EFFECT_MEASURE="MD" EFFECT_SIZE="-0.10000000000000009" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-001.04" NO="4" P_CHI2="1.0" P_Q="1.0" P_Z="0.6967779513258355" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="230" TOTAL_2="215" UNITS="" WEIGHT="100.0" Z="0.3896735595586387">
+<NAME>Number of blood gas samples taken /baby/day</NAME>
+<GROUP_LABEL_1>Treatment</GROUP_LABEL_1>
+<GROUP_LABEL_2>Control</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours treatment</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours control</GRAPH_LABEL_2>
+<CONT_DATA CI_END="0.40297587210176555" CI_START="-0.6029758721017657" EFFECT_SIZE="-0.10000000000000009" ESTIMABLE="YES" MEAN_1="3.5" MEAN_2="3.6" ORDER="88" SD_1="2.6" SD_2="2.8" SE="0.25662505845473443" STUDY_ID="STD-Cunningham-1998" TOTAL_1="230" TOTAL_2="215" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES/>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>

@@ -1,0 +1,2312 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><COCHRANE_REVIEW DESCRIPTION="For publication" DOI="10.1002/14651858.CD001433.pub2" GROUP_ID="SKIN" ID="583799081117595121" MERGED_FROM="" MODIFIED="2016-01-20 13:47:28 +0000" MODIFIED_BY="Helen Scott" NOTES="&lt;p&gt;Converted to RM5 by CB 18/10/2008&lt;/p&gt;&lt;p&gt;Exported from Review Manager 4.2.8&lt;br&gt;edited by TL on 1feb02&lt;/p&gt;&lt;p&gt;suggested compare with model protocol and skeleton review&lt;/p&gt;&lt;p&gt;rec'd from Sacha as finished review, 15feb03 - update rec'd 21feb03&lt;/p&gt;&lt;p&gt;7apr03 has been seen by HW - ready for peer review&lt;/p&gt;&lt;p&gt;received from Kay with refs edited 27apr03&lt;/p&gt;&lt;p&gt;to Fin for peer rev 1may03.&lt;/p&gt;&lt;p&gt;My amendments to the search strategy in the structured abstract and in the main section are in red. Questions to Robert Chalmers are in red italics. Finola1/5/03&lt;/p&gt;&lt;p&gt;30may03 - back to Robert and Sacha for revision&lt;/p&gt;&lt;p&gt;Feb/Mar 2005 Reviewed with Sally Hollis; amendments to background.&lt;/p&gt;&lt;p&gt;9March2005 searches run on Spec Reg, CLIB 1,2005 and EMBASE. Search strategy for EMBASE pasted into text. Refs found sent to Sacha. Finola&lt;/p&gt;&lt;p&gt;CHecked and sent to CSG Base 210405&lt;/p&gt;&lt;p&gt;Version for publication revised at a joint meeting with RJGC, AMM &amp;amp; JLB on 06/10/05.&lt;br&gt;6oct05 - TL sent to Wiley&lt;/p&gt;&lt;p&gt;JLB changed random effect to fixed effect in analysis section. And changed red text to black. 07/10/2005&lt;/p&gt;&lt;p&gt;11oct05 - TL added Sacha to reviewers and corrected sally's address - added ackowledgemants, date next stage expected&lt;/p&gt;&lt;p&gt;JLB addressed internal peer review comments, all text now black. Sent to TL for publication. Not yet received email nor comments from Wiley re: copy edits. 03/11/2005.&lt;/p&gt;&lt;p&gt;14nov05 - few tiny edits from TL - sent to Jo for copyedits&lt;/p&gt;&lt;p&gt;JL-B done copyedits. Still getting error for O'Doherty 1985 reference, however this reference is in the review in the background section, and needs to stay. Couldn't get it to stop the error message. JL-Bs RevMan ID should be JL-B, not JL-B1. 15/11/2005&lt;/p&gt;&lt;p&gt;JLB sent to TL 15/11/2005&lt;br&gt;17nov05 - TL did final edits, spell check - ready for CLIB&lt;/p&gt;&lt;p&gt;**discovered that this review has a different unique ID to the protocol - Hazim to sort it out.**&lt;br&gt;&lt;/p&gt;" NOTES_MODIFIED="2016-01-20 13:44:53 +0000" NOTES_MODIFIED_BY="Helen Scott" REVIEW_NO="#06" REVMAN_SUB_VERSION="5.3.5 " REVMAN_VERSION="5" SPLIT_FROM="" STAGE="R" STATUS="A" TYPE="INTERVENTION" VERSION_NO="6.0">
+<COVER_SHEET MODIFIED="2016-01-20 13:47:28 +0000" MODIFIED_BY="Helen Scott">
+<TITLE>Interventions for chronic palmoplantar pustulosis</TITLE>
+<CONTACT MODIFIED="2016-01-20 13:47:28 +0000" MODIFIED_BY="Helen Scott"><PERSON ID="7275" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Robert</FIRST_NAME><LAST_NAME>Chalmers</LAST_NAME><EMAIL_1>robert.j.chalmers@manchester.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>The Dermatology Centre</DEPARTMENT><ORGANISATION>The University of Manchester, Salford Royal NHS Foundation Trust</ORGANISATION><ADDRESS_1>Stott Lane</ADDRESS_1><ADDRESS_2>Salford</ADDRESS_2><CITY>Manchester</CITY><ZIP>M6 8HD</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>44 161 206 1016</PHONE_1><FAX_1>+44 161 206 1018</FAX_1></ADDRESS></PERSON></CONTACT>
+<CREATORS MODIFIED="2016-01-20 13:47:28 +0000" MODIFIED_BY="Helen Scott"><PERSON ID="7275" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Robert</FIRST_NAME><LAST_NAME>Chalmers</LAST_NAME><EMAIL_1>robert.j.chalmers@manchester.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>The Dermatology Centre</DEPARTMENT><ORGANISATION>The University of Manchester, Salford Royal NHS Foundation Trust</ORGANISATION><ADDRESS_1>Stott Lane</ADDRESS_1><ADDRESS_2>Salford</ADDRESS_2><CITY>Manchester</CITY><ZIP>M6 8HD</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>44 161 206 1016</PHONE_1><FAX_1>+44 161 206 1018</FAX_1></ADDRESS></PERSON><PERSON ID="18413" ROLE="AUTHOR"><FIRST_NAME>Sally</FIRST_NAME><LAST_NAME>Hollis</LAST_NAME><POSITION>Honorary Professor</POSITION><EMAIL_1>sallyhollisuk@gmail.com</EMAIL_1><ADDRESS><DEPARTMENT>Centre for Biostatistics, Institute of Population Health</DEPARTMENT><ORGANISATION>University of Manchester</ORGANISATION><ADDRESS_1>Manchester Academic Health Science Centre</ADDRESS_1><ADDRESS_2>Oxford Road</ADDRESS_2><CITY>Manchester</CITY><ZIP>M13 9PL</ZIP><COUNTRY CODE="GB">UK</COUNTRY></ADDRESS></PERSON><PERSON ID="16501" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Jo</FIRST_NAME><LAST_NAME>Leonardi-Bee</LAST_NAME><SUFFIX>MSc PhD</SUFFIX><POSITION>Associate Professor in Medical Statistics</POSITION><EMAIL_1>jo.leonardi-bee@nottingham.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>Division of Epidemiology and Public Health</DEPARTMENT><ORGANISATION>The University of Nottingham</ORGANISATION><ADDRESS_1>Clinical Sciences Building</ADDRESS_1><ADDRESS_2>Nottingham City Hospital NHS Trust Campus, Hucknall Road</ADDRESS_2><CITY>Nottingham</CITY><ZIP>NG5 1PB</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 (0) 115 82 31388</PHONE_1><FAX_1>+44 (0) 115 83 31337</FAX_1></ADDRESS></PERSON><PERSON ID="7555" ROLE="AUTHOR"><PREFIX>Prof</PREFIX><FIRST_NAME>Christopher</FIRST_NAME><MIDDLE_INITIALS>EM</MIDDLE_INITIALS><LAST_NAME>Griffiths</LAST_NAME><POSITION>Professor of Dermatology</POSITION><EMAIL_1>christopher.griffiths@manchester.ac.uk</EMAIL_1><ADDRESS><DEPARTMENT>The Dermatology Centre</DEPARTMENT><ORGANISATION>The University of Manchester, Salford Royal NHS Foundation Trust</ORGANISATION><ADDRESS_1>Stott Lane</ADDRESS_1><ADDRESS_2>Salford</ADDRESS_2><CITY>Manchester</CITY><ZIP>M6 8HD</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 161 206 4392</PHONE_1><FAX_1>+44 161 206 1095</FAX_1></ADDRESS></PERSON><PERSON ID="ECF3B69182E26AA20080535F35E355F3" ROLE="AUTHOR"><PREFIX>Dr</PREFIX><FIRST_NAME>Alexander</FIRST_NAME><LAST_NAME>Marsland Bsc MRCP</LAST_NAME><EMAIL_1>sacha.marsland@virgin.net</EMAIL_1><ADDRESS><DEPARTMENT>Dermatology Centre</DEPARTMENT><ORGANISATION>Specialist Registrar</ORGANISATION><ADDRESS_1>Stott Lane</ADDRESS_1><ADDRESS_2>ECCLES</ADDRESS_2><CITY>Manchester</CITY><ZIP>M6 8HD</ZIP><COUNTRY CODE="GB">UK</COUNTRY><PHONE_1>+44 161 787 1016</PHONE_1></ADDRESS></PERSON></CREATORS>
+<DATES MODIFIED="2008-10-18 12:13:10 +0100" MODIFIED_BY="Cathy Bennett">
+<UP_TO_DATE>
+<DATE DAY="6" MONTH="10" YEAR="2005"/>
+</UP_TO_DATE>
+<LAST_SEARCH>
+<DATE DAY="6" MONTH="10" YEAR="2005"/>
+</LAST_SEARCH>
+<NEXT_STAGE>
+<DATE DAY="1" MONTH="7" YEAR="2008"/>
+</NEXT_STAGE>
+<PROTOCOL_PUBLISHED ISSUE="1" YEAR="1999"/>
+<REVIEW_PUBLISHED ISSUE="1" YEAR="2006"/>
+<LAST_CITATION_ISSUE ISSUE="1" YEAR="2006"/>
+</DATES>
+<WHATS_NEW MODIFIED="2016-01-20 13:44:53 +0000" MODIFIED_BY="Helen Scott">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2016-01-20 13:44:53 +0000" MODIFIED_BY="Helen Scott">
+<DATE DAY="20" MONTH="1" YEAR="2016"/>
+<DESCRIPTION>
+<P>Contact author information (email) updated.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</WHATS_NEW>
+<HISTORY MODIFIED="2016-01-20 13:44:09 +0000" MODIFIED_BY="Helen Scott">
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2016-01-20 13:44:09 +0000" MODIFIED_BY="Helen Scott">
+<DATE DAY="16" MONTH="4" YEAR="2015"/>
+<DESCRIPTION>
+<P>Edited the published note about the updating of the review.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2015-04-16 15:04:45 +0100" MODIFIED_BY="Laura E Prescott">
+<DATE DAY="16" MONTH="10" YEAR="2013"/>
+<DESCRIPTION>
+<P>This review is going to be updated. We have written a published note to say that because the updating team is completely new and the original review is very old, a new protocol and then a new review will be written.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="AMENDMENT" MODIFIED="2013-10-16 15:35:42 +0100" MODIFIED_BY="[Empty name]">
+<DATE DAY="17" MONTH="10" YEAR="2008"/>
+<DESCRIPTION>
+<P>Converted to new review format.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="NEW_CITATION_NEW_CONCLUSIONS" MODIFIED="2008-10-18 12:13:57 +0100" MODIFIED_BY="Cathy Bennett">
+<DATE DAY="6" MONTH="10" YEAR="2005"/>
+<DESCRIPTION>
+<P>Substantive amendment.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+<WHATS_NEW_ENTRY EVENT="UPDATE" MODIFIED="2008-10-18 12:13:59 +0100" MODIFIED_BY="Cathy Bennett">
+<DATE DAY="11" MONTH="3" YEAR="2005"/>
+<DESCRIPTION>
+<P>Minor update.</P>
+</DESCRIPTION>
+</WHATS_NEW_ENTRY>
+</HISTORY>
+<SOURCES_OF_SUPPORT>
+<INTERNAL_SOURCES>
+<SOURCE>
+<NAME>Salford Royal Hospitals NHS Trust</NAME>
+<COUNTRY CODE="GB">UK</COUNTRY>
+<DESCRIPTION/>
+</SOURCE>
+</INTERNAL_SOURCES>
+<EXTERNAL_SOURCES/>
+</SOURCES_OF_SUPPORT>
+<MESH_TERMS VERIFIED="NO"/>
+<KEYWORDS/>
+</COVER_SHEET>
+<MAIN_TEXT MODIFIED="2015-04-16 14:53:08 +0100" MODIFIED_BY="Laura E Prescott">
+<SUMMARY MODIFIED="2008-10-18 12:14:30 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Edited title&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 12:14:30 +0100" NOTES_MODIFIED_BY="Cathy Bennett">
+<TITLE MODIFIED="2008-10-18 12:14:18 +0100" MODIFIED_BY="Cathy Bennett">Treatments for chronic palmoplantar pustulosis (a skin disease where repeated crops of painful yellow pus spots form on the palms and soles)</TITLE>
+<SUMMARY_BODY MODIFIED="2008-10-18 12:14:30 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Chronic palmoplantar pustulosis is a skin disease where repeated crops of painful yellow pus spots form on the palms and soles, often over many years. Many different treatments have been used including topical creams and ointments, drugs by mouth and ultraviolet radiation. The review of trials found that several treatments improve the symptoms of chronic palmoplantar pustulosis, although no treatment was shown to suppress the condition completely. Oral retinoid therapy (acitretin) appears to be helpful at relieving symptoms, particularly if combined with PUVA. Ciclosporin and tetracycline antibiotics can also provide some relief. Topical treatments were generally less helpful. As yet there is no ideal treatment for chronic palmoplantar pustulosis, though oral retinoids, particularly when combined with psoralens and ultraviolet radiation (PUVA), may help</P>
+</SUMMARY_BODY>
+</SUMMARY>
+<ABSTRACT>
+<ABS_BACKGROUND>
+<P>Chronic palmoplantar pustulosis (PPP) is a chronic inflammatory skin condition characterised by crops of sterile pustules (yellow pus spots) on the palms and soles which erupt repeatedly over months or years. The affected areas tend to become red and scaly; cracks may form and these are often painful. Many different treatments have been used for palmoplantar pustulosis but none is generally accepted as being reliably effective.</P>
+</ABS_BACKGROUND>
+<ABS_OBJECTIVES>
+<P>To assess the effects of treatments for palmoplantar pustulosis, both in reducing disease severity and in maintaining remission once achieved.</P>
+</ABS_OBJECTIVES>
+<ABS_SEARCH_STRATEGY>
+<P>We searched the Cochrane Skin Group Specialised Register (January 2003), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 1, 2003), MEDLINE (1966 to February 2003), EMBASE (1988 to February 2003). We also cross-checked with the Salford Database of Psoriasis Trials and reference lists of articles. We also contacted authors included trials, members of the Cochrane Skin Group and dermatologists interested in psoriasis. </P>
+</ABS_SEARCH_STRATEGY>
+<ABS_SELECTION_CRITERIA>
+<P>Any randomised controlled trial in which patients with chronic palmoplantar pustulosis were randomised to receive one or more interventions.</P>
+</ABS_SELECTION_CRITERIA>
+<ABS_DATA_COLLECTION>
+<P>At least two reviewers independently assessed trial eligibility and quality. Study authors were contacted for additional information. Adverse effects information was collected from the trials.</P>
+</ABS_DATA_COLLECTION>
+<ABS_RESULTS>
+<P>Twenty-three trials involving 724 people were included. There is evidence supporting the use of systemic retinoids (improvement rate difference 44%, 95 CI 28 to 59%), oral PUVA (improvement rate difference 44%, 95 CI 26 to 62%). However, a combination of PUVA and retinoids is better than the individual treatments. The use of topical steroid under hydrocolloid occlusion is beneficial. It would also appear that low dose ciclosporin, tetracycline antibiotics and Grenz Ray Therapy may be useful in treating PPP. Colchicine has a lot of side effects and it is unclear if it is effective and neither was topical PUVA (rate difference of 0.00, 95% CI -0.04 to +0.04). There is no evidence to suggest that short-term treatment with hydroxycarbamide (hydroxyurea) is effective. </P>
+</ABS_RESULTS>
+<ABS_CONCLUSIONS>
+<P>Many different interventions were reported to produce "improvement" in PPP. There is, however, no standardised method for assessing response to treatment, and reductions in pustule counts or other empirical semi-quantitative scoring systems may be of little relevance to the patient. This review has shown that the ideal treatment for PPP remains elusive and that the standards of study design and reporting need to be improved to inform patients and those treating them of the relative merits of the many treatments available to them.</P>
+</ABS_CONCLUSIONS>
+</ABSTRACT>
+<BODY MODIFIED="2008-10-18 13:01:59 +0100" MODIFIED_BY="Cathy Bennett">
+<BACKGROUND MODIFIED="2008-10-18 12:16:21 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Not all optional subheadings activated.&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 12:16:21 +0100" NOTES_MODIFIED_BY="Cathy Bennett">
+<CONDITION MODIFIED="2008-10-18 12:15:54 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="3">Definition/biology </HEADING>
+<P>Chronic palmoplantar pustulosis (PPP) is a chronic inflammatory skin condition characterised by crops of sterile pustules (yellow pus spots) on the palms and soles which erupt repeatedly over months or years (<LINK REF="STD-Reitamo-1993" TYPE="STUDY">Reitamo 1993</LINK>). The affected areas tend to become red and scaly; cracks may form and these are often painful. As it has been thought to be a variant of psoriasis it has historically been known as chronic palmoplantar pustular psoriasis and is still widely known by this name.<BR/>The relationship of PPP to psoriasis vulgaris is, however, not clear cut. Most people with the condition have no evidence of psoriasis elsewhere; the proportion that do varies in different series from 2% to 24% (<LINK REF="REF-Enfors-1971" TYPE="REFERENCE">Enfors 1971</LINK>). Furthermore, recent genetic studies have failed to find any link between PPP and the major genetic susceptibility locus for psoriasis vulgaris, PSORS1 (<LINK REF="REF-Asumalahti-2002" TYPE="REFERENCE">Asumalahti 2002</LINK>). Nevertheless, histologically it closely resembles psoriasis and it does occur in the presence of typical psoriasis elsewhere, or if this is a personal or family history of psoriasis. Many dermatologists are thus happy to regard it as a localised pustular variant of psoriasis. It must be differentiated from acute palmoplantar pustulosis (pustular bacterid) and from other pustular forms of psoriasis affecting the hands and feet (for example, acrodermatitis continua of Hallopeau or acropustulosis).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Causes</HEADING>
+<P>A strong association with smoking has been identified (<LINK REF="REF-Eriksson-1998" TYPE="REFERENCE">Eriksson 1998</LINK>; <LINK REF="REF-Kubeyinje-1997" TYPE="REFERENCE">Kubeyinje 1997</LINK>; <LINK REF="REF-Nymann-1996" TYPE="REFERENCE">Nymann 1996</LINK>; O'Doherty 1985; <LINK REF="REF-Rosen-1988" TYPE="REFERENCE">Rosen 1988</LINK>) but there is no evidence that, once the condition has developed, stopping smoking improves this form of psoriasis. PPP may also be associated with an arthritis of the anterior thorax (sternocostoclavicular, manubriosternal or sternocostal joints) (<LINK REF="REF-Edlund-1988" TYPE="REFERENCE">Edlund 1988</LINK>; <LINK REF="REF-Jurik-1988" TYPE="REFERENCE">Jurik 1988</LINK>; <LINK REF="REF-Le-Loet-1991" TYPE="REFERENCE">Le Loet 1991</LINK>) or with abnormalities of thyroid function (<LINK REF="REF-Rosen-1988" TYPE="REFERENCE">Rosen 1988</LINK>). A recent study from Sweden suggested that PPP is an autoimmune disease: circulating antibodies against nicotinic acetylcholine receptors of normal palmoplantar skin were detected in the sera of 42% of patients with PPP, whereas none were seen in patients with chronic hand eczema (<LINK REF="REF-Hagforsen-2002" TYPE="REFERENCE">Hagforsen 2002</LINK>). There has been little investigation into the role of stress in PPP but in one small study (Saez-Rodriguez 2002) anxiety scores were found to be higher in patients with PPP than in controls. The authors suggested that stress and exacerbations of PPP may be related.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Natural history</HEADING>
+<P>PPP tends to run a prolonged course with intermittent exacerbations followed by partial but rarely complete remissions. It may cause minimal symptoms but often represents a debilitating illness which interferes not only with work but also with everyday activities involving the hands and with mobility. It may also be socially stigmatising. A burning discomfort is common. Intolerable itch may occur. The affected areas have a tendency to crack and fissure and this may increase discomfort. Once PPP has developed it may persist for decades.</P>
+</SUBSECTION>
+</CONDITION>
+<INTERVENTION MODIFIED="2008-10-18 12:16:18 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Therapy is unsatisfactory (<LINK REF="REF-Camp-1998" TYPE="REFERENCE">Camp 1998</LINK>). Topical treatments tend to be ineffective though some patients with mild disease may obtain relief from emollient creams or ointments alone. Many different systemic therapies (treatments administered remote from their site of action,usually by mouth or by injection) have been tried. None can reliably suppress the condition and none is curative. Interventions which have been advocated for palmoplantar pustulosis include coal tar, topical corticosteroids with or without polythene occlusion, photochemotherapy, oral tetracyclines, methotrexate, systemic retinoids and ciclosporin. Of these, dermatologists appear in general to have found topical psoralen photochemotherapy and systemic retinoids of most value (<LINK REF="REF-Camp-1998" TYPE="REFERENCE">Camp 1998</LINK>).</P>
+</INTERVENTION>
+<IMPORTANCE MODIFIED="2008-10-18 12:16:21 +0100" MODIFIED_BY="Cathy Bennett">
+<P>PPP is a disabling condition for sufferers and a frustrating condition for dermatologists to manage. Many treatments are used and some are potentially toxic. There are significant cost differences between different treatment methods but there is little information regarding their relative efficacy. The current review is intended to address these questions and, where appropriate, point to areas requiring further research.</P>
+</IMPORTANCE>
+</BACKGROUND>
+<OBJECTIVES MODIFIED="2008-10-18 12:17:06 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="2">Primary</HEADING>
+<UL>
+<LI>To assess the effects of interventions for PPP in reducing disease severity and maintaining remissions</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="2">Secondary</HEADING>
+<UL>
+<LI>To examine the implications for dermatological practice of any recommendations made.</LI>
+</UL>
+<UL>
+<LI>To identify what further studies would be required to enable dermatologists to make rational choices between existing treatments.</LI>
+</UL>
+<P>The protocol also included an objective regarding healthcare costs but we were unable to find any data.</P>
+</SUBSECTION>
+</OBJECTIVES>
+<METHODS MODIFIED="2008-10-18 12:34:53 +0100" MODIFIED_BY="Cathy Bennett">
+<SELECTION_CRITERIA MODIFIED="2008-10-18 12:19:19 +0100" MODIFIED_BY="Cathy Bennett">
+<CRIT_STUDIES>
+<P>Any randomised controlled trial in which patients with chronic PPP were randomised to receive one or more interventions.</P>
+</CRIT_STUDIES>
+<CRIT_PARTICIPANTS>
+<P>Patients of any age who have been given a diagnosis of chronic PPP or chronic palmoplantar pustular psoriasis*. The clinical diagnosis was accepted if it was made by a dermatologist or a physician with an interest in skin disease. </P>
+<P>* excludes acute PPP, acute pustular bacterid, acropustulosis, acrodermatitis continua of Hallopeau, pustular acrodermatitis, acrodermatitis perstans, all of which may be regarded as pustular forms of psoriasis affecting the hands and feet</P>
+</CRIT_PARTICIPANTS>
+<CRIT_INTERVENTIONS MODIFIED="2008-10-18 12:18:08 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="4">Reducing disease severity</HEADING>
+<OL>
+<LI>Any topical therapy (including topical photochemotherapy) versus placebo or no treatment</LI>
+<LI>Any systemic therapy (including systemic photochemotherapy) versus placebo or no treatment</LI>
+<LI>Comparison of two or more topical therapies</LI>
+<LI>Comparison of two or more systemic therapies</LI>
+<LI>Comparison of systemic therapies with topical therapies</LI>
+</OL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Maintaining reduction achieved</HEADING>
+<OL>
+<LI>Any topical therapy (including topical photochemotherapy) versus placebo or no treatment</LI>
+<LI>Any systemic therapy (including systemic photochemotherapy) versus placebo or no treatment</LI>
+<LI>Comparison of two or more topical therapies</LI>
+<LI>Comparison of two or more systemic therapies</LI>
+<LI>Comparison of systemic therapies with topical therapies</LI>
+</OL>
+</SUBSECTION>
+</CRIT_INTERVENTIONS>
+<CRIT_OUTCOMES MODIFIED="2008-10-18 12:19:19 +0100" MODIFIED_BY="Cathy Bennett">
+<CRIT_OUTCOMES_PRIMARY MODIFIED="2008-10-18 12:19:19 +0100" MODIFIED_BY="Cathy Bennett">
+<P>(a) Improvement in disease severity as assessed by objective severity assessment, preferably as measured by reduction in objective measure of disease severity (for example, predefined semi-quantitative disease severity score).</P>
+<P>(b) Clearance of disease as assessed by objective severity assessment, preferably as measured as an objective measure of disease severity (for example, predefined semi-quantitative disease severity score).</P>
+<P>(c) Patient satisfaction and quality of life scores: Improvement in patient satisfaction measures and quality of life assessment measures over the time course of the intervention.</P>
+</CRIT_OUTCOMES_PRIMARY>
+<CRIT_OUTCOMES_SECONDARY MODIFIED="2008-10-18 12:19:04 +0100" MODIFIED_BY="Cathy Bennett">
+<P>(a) Maintenance of reduction of disease severity from baseline as assessed by objective measure of disease severity (for example, predefined semi-quantitative disease severity score).</P>
+<P>(b) Maintenance of patients' satisfaction and quality of life scores.</P>
+<P>(c) Relapse rates as measured by proportion of patients relapsing to baseline scores during continued treatment or following discontinuation of treatment.</P>
+<SUBSECTION>
+<HEADING LEVEL="5">Tertiary outcome measures</HEADING>
+<P>(a) Adverse events and side effects</P>
+</SUBSECTION>
+</CRIT_OUTCOMES_SECONDARY>
+</CRIT_OUTCOMES>
+</SELECTION_CRITERIA>
+<SEARCH_METHODS MODIFIED="2008-10-18 12:28:18 +0100" MODIFIED_BY="Cathy Bennett">
+<ELECTRONIC_SEARCHES MODIFIED="2008-10-18 12:27:54 +0100" MODIFIED_BY="Cathy Bennett">
+<P>We searched:</P>
+<P>(a) The Cochrane Skin Group Specialised Register (March 2005) using the terms in <LINK REF="APP-01" TYPE="APPENDIX">Appendix 1</LINK>.<BR/>
+</P>
+<P>(b)The Cochrane Central Register of Controlled Trials (CENTRAL) The Cochrane Library Issue 1,2005 using the terms in <LINK REF="APP-02" TYPE="APPENDIX">Appendix 2</LINK>.<BR/>
+</P>
+<P>(c) MEDLINE (OVID) (1966 to March 2005) using the search strategy in <LINK REF="APP-03" TYPE="APPENDIX">Appendix 3</LINK>.<BR/>
+</P>
+<P>(d) EMBASE (<I>2003</I> to March 2005) using the search strategy in <LINK REF="APP-04" TYPE="APPENDIX">Appendix 4</LINK>.<I>
+<BR/>
+</I>
+</P>
+<P>(e) Salford Database of Psoriasis Trials please see <LINK REF="APP-05" TYPE="APPENDIX">Appendix 5</LINK>
+<BR/>
+</P>
+</ELECTRONIC_SEARCHES>
+<OTHER_SEARCHES MODIFIED="2008-10-18 12:28:18 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="4">References from published studies </HEADING>
+<P>We scrutinised references in retrieved articles for evidence of additional studies.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Unpublished literature </HEADING>
+<P>We approached the authors of relevant trials, members of the Cochrane Skin Group and dermatologists interested in psoriasis and asked whether they were aware of any other relevant data.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Adverse events </HEADING>
+<P>We did not undertake a separate search for adverse events. We described adverse events reported in the included RCTs but did not analyse the data.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">Language</HEADING>
+<P>We did not impose any language restrictions.</P>
+</SUBSECTION>
+</OTHER_SEARCHES>
+</SEARCH_METHODS>
+<DATA_COLLECTION MODIFIED="2008-10-18 12:34:53 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Text re -organised to fit optional subheadings, author please check and amend if required.  Not all optional subheadings activated.&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 12:34:53 +0100" NOTES_MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="3">Translation</HEADING>
+<P>We did not retrieve any non-English language articles in this review.</P>
+</SUBSECTION>
+<STUDY_SELECTION MODIFIED="2008-10-18 12:31:45 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Need correct ref to Cochrane Handbook (not longer called Reviewers' handbook)&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 12:31:45 +0100" NOTES_MODIFIED_BY="Cathy Bennett">
+<P>At least two authors (AMM, RJGC) examined all identified citations. If it was felt that the citation referred to a clinical trial of PPP, we obtained reprints and scrutinised these to determine whether the diagnostic criteria, randomisation methods and outcome measurements enabled a satisfactory comparison of interventions. If these details were unclear, we wrote to authors requesting further clarification. Non-randomised clinical studies were excluded. All relevant studies were evaluated using Cochrane Collaboration guidelines as set out in the Cochrane Reviewers' Handbook and two members of the Review Group independently assessed these before being included in the review. Excluded studies and reasons for exclusion are listed in the '<LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>' table.</P>
+</STUDY_SELECTION>
+<DATA_EXTRACTION MODIFIED="2008-10-18 12:30:05 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Two authors (AMM, RJGC) extracted data and this was then checked by a third (SH). If the details were unclear or were missing we attempted to contact the authors but did not receive any replies. Since a variety of scoring methods were used across the eligible trials, we elected to analyse dichotomous outcome data where possible. We examined each RCT to see whether this outcome data was reported or whether the outcomes could be transformed into dichotomous data (e.g. "improved/not improved" or "cleared/not cleared").</P>
+<P>No attempt was made to extract or analyse continuous data, such as pustule counts, unless no other information was reported. If it was felt that the trials were sufficiently homogeneous in design, methodology and outcome, these data were pooled.</P>
+</DATA_EXTRACTION>
+<QUALITY_ASSESSMENT MODIFIED="2008-10-18 12:33:46 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Risk of bias and methodological quality are not directly interchangeable terms.  Author please check.&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 12:33:46 +0100" NOTES_MODIFIED_BY="Cathy Bennett">
+<P>We based a subjective assessment of methodological quality on the following four criteria, where each component was categorised as adequate, unclear, or inadequate:<BR/>(a) concealment of allocation (we deemed adequate in any sequence where the treatment assignment cannot be foreseen);<BR/>(b) method of generation of randomisation sequences;<BR/>(c) blinding of outcome assessor, participant and care-giver (we deemed adequate when outcome assessor, participant and/or care-giver are unaware of the treatment assignment);<BR/>(d) comparability of treatment groups at baseline.</P>
+<P>We have also reported the handling of losses and attrition bias, and the period of the trials included in the review. A description of the methodological quality of each study is given based on these components</P>
+</QUALITY_ASSESSMENT>
+<EFFECT_MEASURES MODIFIED="2008-10-18 12:33:58 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Rate differences with 95% confidence intervals (CI) were used as the main measure of effect to allow for comprehensibility of the results. We have also, however, reported rate ratios. We elected to use the term rate rather than risk, because we were interested in positive outcome measures. Newcombe's method was used to calculate confidence intervals for paired proportions from within-patient designs (<LINK REF="REF-Newcombe-1998" TYPE="REFERENCE">Newcombe 1998</LINK>), since insufficient data could be extracted from the publications to allow for conditional effect measures to be calculated. However, the data were included in graphs when the confidence intervals obtained were very similar to those obtained with the correct paired analysis. We analysed separately and did not pool parallel group and within-patient comparisons. We reported continuous data from within a single trial as mean differences with 95% CI.<BR/>
+</P>
+</EFFECT_MEASURES>
+<MISSING_DATA MODIFIED="2008-10-18 12:34:38 +0100" MODIFIED_BY="Cathy Bennett">
+<P>We examined the studies to ensure that intention-to-treat (ITT) analysis was used in all studies; the texts were scrutinised for drop-outs and results were adjusted if necessary to count these as treatment failures. Whilst by convention it is assumed that participants who drop out of trials have not responded, it may be that participants drop out because their condition has cleared and they decide not to return to their physician. The numbers of drop-outs involved were small and we did not undertake a sensitivity analysis. Within the treatment groups themselves, study designs were broadly similar (thus all phototherapy trials were within-patient whereas retinoid comparisons were parallel group) and it was felt that it was reasonable to pool data and subject them to meta-analyses. We used a random effects model for all comparisons of pooled data. </P>
+</MISSING_DATA>
+<SUBGROUP_ANALYSIS MODIFIED="2008-10-18 12:34:39 +0100" MODIFIED_BY="Cathy Bennett">
+<P>When there was statistical heterogeneity present, we did not pool data. Although different tetracycline antibiotics were used in the two studies included in the review, it was felt that the compounds were sufficiently similar to justify pooling the data. We did not perform any subgroup analyses as there was insufficient data.</P>
+</SUBGROUP_ANALYSIS>
+</DATA_COLLECTION>
+</METHODS>
+<RESULTS MODIFIED="2008-10-18 13:01:59 +0100" MODIFIED_BY="Cathy Bennett">
+<STUDY_DESCRIPTION MODIFIED="2008-10-18 12:36:18 +0100" MODIFIED_BY="Cathy Bennett">
+<SEARCH_RESULTS MODIFIED="2008-10-18 12:35:41 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Twenty of the 23 reports included in the review were identified from the Cochrane Central Register of Controlled Trials. Our search of MEDLINE and EMBASE yielded 215 and 119 possible trials respectively and identified a further three reports. No further reports were identified by our validation checks.</P>
+</SEARCH_RESULTS>
+<INCLUDED_STUDIES_DESCR MODIFIED="2008-10-18 12:35:58 +0100" MODIFIED_BY="Cathy Bennett">
+<P>The 23 trials which were included in the review, involving 724 people, contained 27 randomised comparisons which fell into nine broad categories (<I>see</I> <LINK TAG="RESULTS" TYPE="SECTION">Results</LINK> section). Some reports contained more than one comparison. The majority of included RCTs were of retinoid therapy, photochemotherapy or combinations of both. We also found studies examining Grenz ray therapy, ciclosporin, tetracycline antibiotics, hydroxycarbamide (hydroxyurea), colchicine and topical corticosteroids. Within these therapeutic categories, it was possible to make comparisons and pool data as the populations, disease parameters and treatment methods appeared to be broadly similar. Outcome measures were very variable. Most studies used some semi-quantitative method of scoring based on degrees of erythema, scaling, fissuring and pustulation as assessed objectively. Only one trial (<LINK REF="STD-Bhushan-2001" TYPE="STUDY">Bhushan 2001</LINK>) gave useful information from the patients' own assessments of treatment efficacy.</P>
+</INCLUDED_STUDIES_DESCR>
+<EXCLUDED_STUDIES_DESCR MODIFIED="2008-10-18 12:36:18 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Please see <LINK TAG="CHARACTERISTICS_OF_EXCLUDED_STUDIES" TYPE="SECTION">Characteristics of excluded studies</LINK>.</P>
+</EXCLUDED_STUDIES_DESCR>
+</STUDY_DESCRIPTION>
+<STUDY_QUALITY MODIFIED="2008-10-18 12:38:31 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Section re-organised to fit new headings.&lt;/p&gt;&lt;p&gt;Author please check methodological quality/risk of bias.&lt;/p&gt;&lt;p&gt;Not all optional subheadings activated.&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 12:38:31 +0100" NOTES_MODIFIED_BY="Cathy Bennett">
+<P>In general, we felt the methodological quality of trials was poor. Only two trials, both of non-standard interventions, liarozole (<LINK REF="STD-Bhushan-2001" TYPE="STUDY">Bhushan 2001</LINK>) and Grenz ray therapy ( <LINK REF="STD-Lindeloef-1990" TYPE="STUDY">Lindeloef 1990</LINK>) satisfied all four pre-specified criteria and a further one trial (<LINK REF="STD-Ward-1976" TYPE="STUDY">Ward 1976</LINK>) satisfied three of the criteria. No trial examining standard interventions was considered by these criteria to be of high quality. Ten of the trials (<LINK REF="STD-Erkko-1998" TYPE="STUDY">Erkko 1998</LINK>; <LINK REF="STD-Jansen-1978" TYPE="STUDY">Jansen 1978</LINK>; <LINK REF="STD-Lassus-1983" TYPE="STUDY">Lassus 1983</LINK>; <LINK REF="STD-Lassus-1988" TYPE="STUDY">Lassus 1988</LINK>; <LINK REF="STD-Lawrence-1984" TYPE="STUDY">Lawrence 1984</LINK>; <LINK REF="STD-Layton-1991" TYPE="STUDY">Layton 1991</LINK>; <LINK REF="STD-Reitamo-1993" TYPE="STUDY">Reitamo 1993</LINK>; <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK>; <LINK REF="STD-White-1985" TYPE="STUDY">White 1985</LINK>; <LINK REF="STD-White-1986" TYPE="STUDY">White 1986</LINK>) satisfied two of the four criteria and could be said to be of intermediate quality.</P>
+<ALLOCATION MODIFIED="2008-10-18 12:38:01 +0100" MODIFIED_BY="Cathy Bennett">
+<P>In order to minimise bias, randomisation and concealment of allocation are essential components of a RCT. However, only five of the trials clearly demonstrated that concealment of allocation was adequate (<LINK REF="STD-Bhushan-2001" TYPE="STUDY">Bhushan 2001</LINK>; <LINK REF="STD-Erkko-1998" TYPE="STUDY">Erkko 1998</LINK>; <LINK REF="STD-Jansen-1978" TYPE="STUDY">Jansen 1978</LINK>; <LINK REF="STD-Lassus-1983" TYPE="STUDY">Lassus 1983</LINK>; <LINK REF="STD-Ward-1976" TYPE="STUDY">Ward 1976</LINK>); and only four trials reported using a satisfactory randomisation method (<LINK REF="STD-Bhushan-2001" TYPE="STUDY">Bhushan 2001</LINK>; <LINK REF="STD-Lindeloef-1990" TYPE="STUDY">Lindeloef 1990</LINK>; <LINK REF="STD-Ward-1976" TYPE="STUDY">Ward 1976</LINK>; <LINK REF="STD-White-1985" TYPE="STUDY">White 1985</LINK>). One study used a quasi-randomised method according to date of birth (<LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK>) which was an unsatisfactory method. The other studies did not clearly state which randomisation method was used.</P>
+</ALLOCATION>
+<BLINDING MODIFIED="2008-10-18 12:38:12 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="4">Blinding of outcome assessment and detection bias</HEADING>
+<P>Double-blinding was felt to be satisfactory in 17 of the 26 trials where either the outcome assessor, participant and/or care-giver were unaware of the treatment assignment; although it should be noted that with some treatments (notably retinoids) the effects of treatment would be difficult to disguise.</P>
+</SUBSECTION>
+</BLINDING>
+<EXCLUSIONS MODIFIED="2008-10-18 12:38:19 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="4">Handling of losses and attrition bias </HEADING>
+<P>We decided to analyse all of the data based on the ITT principle. All studies presented data in such a way that an ITT analysis could be performed, but it was disappointing that many summarised the data on the basis of numbers finishing a trial.</P>
+</SUBSECTION>
+</EXCLUSIONS>
+<OTHER_BIAS_SOURCES MODIFIED="2008-10-18 12:38:26 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="4">Trial periods </HEADING>
+<P>Chronic palmoplantar pustulosis can persist for decades once established but during this time there may be periods of remission. It would appear sensible therefore to assess any intervention after a reasonable time period. Most of the trials used study periods of 8-12 weeks (<LINK REF="STD-Bhushan-2001" TYPE="STUDY">Bhushan 2001</LINK>; <LINK REF="STD-Foged-1983" TYPE="STUDY">Foged 1983</LINK>; <LINK REF="STD-Lassus-1985" TYPE="STUDY">Lassus 1985</LINK>; <LINK REF="STD-Lassus-1988" TYPE="STUDY">Lassus 1988</LINK>; <LINK REF="STD-Layton-1991" TYPE="STUDY">Layton 1991</LINK>; <LINK REF="STD-Matsunami-1990" TYPE="STUDY">Matsunami 1990</LINK>; <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK>; <LINK REF="STD-Ward-1976" TYPE="STUDY">Ward 1976</LINK>; <LINK REF="STD-White-1985" TYPE="STUDY">White 1985</LINK>; <LINK REF="STD-White-1986" TYPE="STUDY">White 1986</LINK>) which can be considered barely adequate. The five studies which lasted 4 months or more were <LINK REF="STD-Erkko-1998" TYPE="STUDY">Erkko 1998</LINK> (12 months), <LINK REF="STD-Jansen-1978" TYPE="STUDY">Jansen 1978</LINK> (4 months), <LINK REF="STD-Lassus-1983" TYPE="STUDY">Lassus 1983</LINK> (6 months), <LINK REF="STD-Lawrence-1984" TYPE="STUDY">Lawrence 1984</LINK> (24 weeks) and <LINK REF="STD-Nielsen-1995" TYPE="STUDY">Nielsen 1995</LINK> (12 months). Therefore we grouped data into initial response(&lt;=16 weeks) and maintenance of remission. We analysed remission at three months and at six months.</P>
+</SUBSECTION>
+</OTHER_BIAS_SOURCES>
+</STUDY_QUALITY>
+<INTERVENTION_EFFECTS MODIFIED="2008-10-18 13:01:59 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="3">(1) Retinoids</HEADING>
+<P>Of the eight trials examining the use of systemic retinoids, six compared etretinate with placebo, one (<LINK REF="STD-Lassus-1988" TYPE="STUDY">Lassus 1988</LINK>) compared acitretin with etretinate and one (<LINK REF="STD-Bhushan-2001" TYPE="STUDY">Bhushan 2001</LINK>) compared liarozole with placebo (Analyses 1 to 3).</P>
+<SUBSECTION>
+<HEADING LEVEL="4">(a) Induction of remission</HEADING>
+<P>The pooled data from four trials compared the induction of remission by etretinate with placebo (<LINK REF="CMP-001.01" TYPE="ANALYSIS">Analysis 1.1</LINK> and <LINK REF="CMP-001.02" TYPE="ANALYSIS">Analysis 1.2</LINK>). Forty-eight of 67 (72%) patients who received retinoids as compared with 17 of the 60 (28%) patients who received placebo showed some improvement (rate difference 0.44, 95% CI 0.28 to 0.59; rate ratio 2.54, 95% CI 1.65 to 3.91). When using good or excellent response as an outcome measure, 26 of 67 (39%) patients who received retinoids as compared with 10 of 60 (17%) who received placebo achieved a good or excellent response (rate difference 0.22, 95% CI 0.07 to 0.36; rate ratio 2.31, 95% CI 1.20 to 4.46). The treatment period for these trials varied from 8 to 16 weeks and assessment of outcome was at the end of treatment period.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(b) Maintenance of remission</HEADING>
+<P>Two trials comparing etretinate with placebo to maintain remission were included (<LINK REF="CMP-001.03" TYPE="ANALYSIS">Analysis 1.3</LINK> and <LINK REF="CMP-001.04" TYPE="ANALYSIS">Analysis 1.4</LINK>). Thirteen of 21 (62%) who received retinoids maintained clinical remission at three months as compared with 5 of 24 (21%) who received placebo (rate difference 0.42, 95% CI 0.16 to 0.68; rate ratio 3.06, 95% CI 1.29 to 7.27). <LINK REF="STD-Lassus-1983" TYPE="STUDY">Lassus 1983</LINK> noted that side effects were seen frequently in patients receiving etretinate and that this led to discontinuation of treatment in 20% of them. Treatment periods were 6 months (<LINK REF="STD-Lassus-1983" TYPE="STUDY">Lassus 1983</LINK>) and 12 weeks (<LINK REF="STD-White-1986" TYPE="STUDY">White 1986</LINK>) following a 4 to 16 week period of high dose retinoids during which remission was induced.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(c) Retinoids compared</HEADING>
+<P>
+<LINK REF="STD-Lassus-1988" TYPE="STUDY">Lassus 1988</LINK> found no difference in efficacy between etretinate and acitretin, as measured by reduction in the number of pustules (mean difference 3.24 95% CI -29.13 to 35.61; <LINK REF="CMP-002.01" TYPE="ANALYSIS">Analysis 2.1</LINK>).</P>
+<P>
+<I>Note</I>: Retinoids are teratogenic (may induce birth defects) and must therefore be strictly avoided in early pregnancy. As there is concern that etretinate, the first systemic retinoid to be released, is retained in fat stores for prolonged periods after discontinuation of therapy, a safer alternative was sought. The active moiety of etretinate was thought to be its hydrolysis product, acitretin, which is much more rapidly eliminated from the body than the parent compound. As a result of comparative clinical studies both in psoriasis vulgaris and in PPP showing little difference in efficacy and because of the presumed greater safety of acitretin, etretinate was withdrawn from the market. It was subsequently shown, however, that esterification of acitretin to etretinate may occur in vivo, particularly in the presence of alcohol. The disadvantages of systemic retinoid therapy for women of child-bearing potential therefore remain. It seems reasonable to conclude that the effects of the two drugs in PPP are broadly similar and that the conclusions from trials of etretinate may be extrapolated to acitretin.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(d) Induction of remission using liarozole</HEADING>
+<P>
+<LINK REF="STD-Bhushan-2001" TYPE="STUDY">Bhushan 2001</LINK> conducted a small study showing marked improvement in four out of seven patients receiving liarozole compared with one out of eight patients receiving placebo (rate difference 0.45, 95% CI 0.01 to 0.88; rate ratio 4.57, 95% CI 0.66 to 3.89; <LINK REF="CMP-003.01" TYPE="ANALYSIS">Analysis 3.1</LINK>). The study incorporated analysable data for individual patients' own assessments of efficacy: five out of seven patients receiving liarozole and three out of eight receiving placebo indicated some possible improvement of symptoms at the end of the intervention period (change in visual analogue score, rate difference 0.34, 95% CI -0.13 to 0.81; rate ratio 1.90, 95% CI 0.69 to 5.23), although this did not reach statistical significance.</P>
+<P>
+<I>Note</I>: Liarozole is an imidazole-like compound which inhibits the cytochrome P450-mediated breakdown of all-trans retinoic acid (RA). This inhibition causes elevation of plasma and cutaneous levels of RA and thus liarozole acts in a similar way to retinoid drugs. It is sometimes termed a "retinoid mimetic" for this reason. A commercial decision was taken not to market liarozole.</P>
+<P>
+<I>Conclusion</I>: Established but modest efficacy of retinoids when compared to placebo.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(2) PUVA (psoralen plus ultraviolet A radiation)</HEADING>
+<P>Four studies compared PUVA with placebo, one compared topical PUVA with systemic PUVA, two compared PUVA with etretinate and one compared short term PUVA with no intervention after induction of remission with steroid under occlusion (Analyses 4 to 8).</P>
+<SUBSECTION>
+<HEADING LEVEL="4">(a) Oral PUVA</HEADING>
+<P>Two within-patient studies of oral PUVA compared treated versus untreated hands and/or feet. <LINK REF="STD-Murray-1980" TYPE="STUDY">Murray 1980</LINK> showed that 22 of 22 (100%) sides improved with oral PUVA compared to 13 of 22 (59%) sides receiving placebo. <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> showed improvement in 9 of 14 (64%) and 2 of 14 (14%) sides with oral PUVA and placebo respectively (<LINK REF="CMP-004.01" TYPE="ANALYSIS">Analysis 4.1</LINK>). Pooling these data gives an overall estimate of rate difference for improvement of 0.44 (95% CI 0.26 to 0.62; <LINK REF="CMP-004.01" TYPE="ANALYSIS">Analysis 4.1</LINK>) and a rate ratio for improvement of 2.07 (95% CI 1.41 to 3.02).</P>
+<P>When using clearance as the outcome measure, <LINK REF="STD-Murray-1980" TYPE="STUDY">Murray 1980</LINK> found 12 of 22 (55%) sides cleared with oral PUVA compared with 0 of 22 (0%) sides receiving placebo; <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> found that 3 of 14 (21%) sides responded to PUVA compared with 0 of 14 (0%) sides receiving placebo (pooled rate difference for the two studies 0.42, 95% CI 0.25 to 0.58, <LINK REF="CMP-004.02" TYPE="ANALYSIS">Analysis 4.2</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(b) Topical PUVA</HEADING>
+<P>One within-patient study (<LINK REF="STD-Layton-1991" TYPE="STUDY">Layton 1991</LINK>) of topical PUVA compared treated versus untreated areas of the hands and/or feet in 27 patients with 44 matched areas. <LINK REF="STD-Layton-1991" TYPE="STUDY">Layton 1991</LINK> showed 30 of the 44 areas (68%) receiving topical PUVA improved as compared with 29 of the 44 areas (66%) receiving placebo (rate difference 0.02, 95% CI -0.17 to 0.22; rate ratio 1.03, 95% CI 0.77 to 1.39, <LINK REF="CMP-004.01" TYPE="ANALYSIS">Analysis 4.1</LINK>).</P>
+<P>When using clearance as the outcome measure, <LINK REF="STD-Layton-1991" TYPE="STUDY">Layton 1991</LINK> found none of the 44 areas receiving topical PUVA and none of the 44 areas receiving placebo cleared (rate difference 0.00, 95% CI -0.04 to +0.04). In the within-patient study carried out by <LINK REF="STD-Matsunami-1990" TYPE="STUDY">Matsunami 1990</LINK>, 1 of 10 (10%) sides receiving topical PUVA cleared compared to 0 of 10 sides receiving placebo (rate difference 0.1, 95% CI -0.19 to +0.40). Pooling these gives an overall estimate of rate difference of 0.00 (95% CI -0.04 to +0.04, <LINK REF="CMP-004.02" TYPE="ANALYSIS">Analysis 4.2</LINK>).</P>
+<P>
+<I>Note</I>: These confidence intervals have been correctly calculated using the paired data but are very similar to those calculated by RevMan and shown in the graphs, which are not based on paired analysis.</P>
+<P>Topical and oral PUVA data from the four trials were not pooled in the final analysis as the results are very different.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(c) Topical PUVA versus systemic PUVA</HEADING>
+<P>
+<LINK REF="STD-Lassus-1985" TYPE="STUDY">Lassus 1985</LINK> compared topical PUVA with systemic PUVA . The study in general showed lower response rates for all PUVA modalities than other studies. Four of 33 cleared completely with topical 8-MOP cream and UV-A, 0 of 18 cleared completely with trioxalen soak PUVA (<LINK REF="CMP-006.01" TYPE="ANALYSIS">Analysis 6.1</LINK>), and 0 of 13 cleared completely with systemic PUVA (<LINK REF="CMP-005.01" TYPE="ANALYSIS">Analysis 5.1</LINK>). It was not possible to calculate the proportions of patients in each group showing improvement. Overall, 4 of 51 (8%) cleared with topical PUVA compared with 0 of 13 (0%) who received systemic PUVA (rate difference 0.08, 95% CI -0.05 to 0.21; rate ratio 2.42, 95% CI 0.14 to 42.38, <LINK REF="CMP-005.01" TYPE="ANALYSIS">Analysis 5.1</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(d) PUVA for maintenance following induction of remission by topical corticosteroids</HEADING>
+<P>
+<LINK REF="STD-Nielsen-1995" TYPE="STUDY">Nielsen 1995</LINK> found that, following induction of remission with topical corticosteroid under occlusion, three out of nine patients receiving short term PUVA did not relapse within one year compared with 6 out of 13 patients who did not receive further intervention (rate difference 0.13, 95% CI -0.54 to 0.28; rate ratio 0.72, 95% CI 0.24 to 2.16,<LINK REF="CMP-007.01" TYPE="ANALYSIS">Analysis 7.1</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(e) PUVA versus retinoids</HEADING>
+<P>Two studies compared PUVA with etretinate (<LINK REF="STD-Lassus-1985" TYPE="STUDY">Lassus 1985</LINK>; <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK>). Lassus used topical and systemic PUVA and Rosen used oral PUVA. The study by Rosen showed no benefit of retinoids over PUVA but the data from Lassus, who had generally disappointing results with PUVA, appears to demonstrate an advantage with retinoids (<LINK REF="CMP-008.01" TYPE="ANALYSIS">Analysis 8.1</LINK> and <LINK REF="CMP-008.02" TYPE="ANALYSIS">Analysis 8.2</LINK>). As the results are so different, the data were not pooled.</P>
+<P>Discrepancies in the conclusions reached by these studies do not obviously appear to be due to differences in the populations studied. The failure of the studies by <LINK REF="STD-Layton-1991" TYPE="STUDY">Layton 1991</LINK> and <LINK REF="STD-Matsunami-1990" TYPE="STUDY">Matsunami 1990</LINK> to show any benefit of topical PUVA over placebo is consistent with the findings in the study of <LINK REF="STD-Lassus-1985" TYPE="STUDY">Lassus 1985</LINK> where the apparently best treatment, topical 8-MOP phototherapy, produced only a 12% clearance rate with confidence intervals crossing the line of no difference and where topical PUVA overall (8-MOP or trioxsalen bath PUVA) cleared only 4 of 51 people treated. What did appear to be different in Lassus' study, however, was the failure of any patient to improve with systemic PUVA, in contrast to the clearance rates achieved in the studies of <LINK REF="STD-Murray-1980" TYPE="STUDY">Murray 1980</LINK> and <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> where 39% patients cleared with systemic PUVA.</P>
+<P>
+<I>Conclusions</I>: Established but modest efficacy of oral PUVA when compared to placebo. No proven benefit of topical PUVA. No definite benefit of retinoids over PUVA or vice versa. No proven advantage of using short-term PUVA after induction of remission with topical steroid under occlusion.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(3) Retinoids and PUVA combined</HEADING>
+<P>Three studies examined the use of retinoids combined with PUVA (Re-PUVA). The design of two of these was complex in that patients were randomised into two parallel groups (oral retinoid or placebo) and then every patient received PUVA to one hand, foot or side (hand and foot) only (<LINK REF="STD-Matsunami-1990" TYPE="STUDY">Matsunami 1990</LINK>; <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> - <LINK REF="CMP-009.01" TYPE="ANALYSIS">Analysis 9.1</LINK> and <LINK REF="CMP-010.02" TYPE="ANALYSIS">Analysis 10.2</LINK>). In the third study (<LINK REF="STD-Lawrence-1984" TYPE="STUDY">Lawrence 1984</LINK>) all patients received PUVA but were similarly randomised into retinoid and placebo groups (<LINK REF="CMP-009.01" TYPE="ANALYSIS">Analysis 9.1</LINK>).</P>
+<SUBSECTION>
+<HEADING LEVEL="4">(a) Re-PUVA versus PUVA</HEADING>
+<P>
+<LINK REF="STD-Matsunami-1990" TYPE="STUDY">Matsunami 1990</LINK> reported that six of 10 (60%) sides cleared with topical PUVA-etretinate compared with 1 of 10 (10%) sides with topical PUVA alone (rate difference 0.50, 95% CI 0.14 to 0.86; rate ratio 6.00, 95% CI 0.87 to 41.22, <LINK REF="CMP-009.01" TYPE="ANALYSIS">Analysis 9.1</LINK>). <LINK REF="STD-Lawrence-1984" TYPE="STUDY">Lawrence 1984</LINK> found that all eight patients treated with PUVA-etretinate cleared compared with five out of nine patients treated with PUVA alone and <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> found that the PUVA-treated sites cleared in 14 of 23 patients randomised to etretinate compared with 3 of 14 patients randomised to placebo. If these data are combined then 22 of 31(71%) cleared with oral PUVA-etretinate compared with 8 of 23 (35%) with oral PUVA alone (rate difference 0.41, 95% CI 0.18 to 0.64 (<LINK REF="CMP-009.01" TYPE="ANALYSIS">Analysis 9.1</LINK>); rate ratio 2.26, 95% CI 1.24 to 4.11, <LINK REF="CMP-009.01" TYPE="ANALYSIS">Analysis 9.1</LINK>). If the topical and oral PUVA data is added then it can be shown that 28 of 41 (68%) cleared with PUVA-etretinate compared with 9 of 33 (27%) receiving PUVA alone (rate difference 0.44,95% CI 0.24 to 0.63; rate ratio 2.66, 95% CI 1.49 to 4.75; <LINK REF="CMP-009.01" TYPE="ANALYSIS">Analysis 9.1</LINK>).</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="4">(b) Re-PUVA versus retinoid</HEADING>
+<P>
+<LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> showed that 17 of 23 (74%) sites were much improved or cleared with PUVA-etretinate compared with 10 of 23 (43%) sites with etretinate alone (rate difference 0.30, insufficient detail available to calculate 95% CI; worst case p=0.17, <LINK REF="CMP-010.01" TYPE="ANALYSIS">Analysis 10.1</LINK>). It was not possible to analyse lesser responses than clearance in the small study by <LINK REF="STD-Matsunami-1990" TYPE="STUDY">Matsunami 1990</LINK>, where 6 of 10 (60%) sites cleared with Re-PUVA as against 2 of 10 (20%) sites with retinoid alone (rate difference 0.40, rate ratio 3.00). Clearance was achieved in 14 of Rosen's 23 Re-PUVA-treated sites (61%) compared with 3 of 23 (13%) sites which received no PUVA (rate difference 0.48, rate ratio 4.67).</P>
+<P>
+<I>Note</I>: The within patient data from <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> and <LINK REF="STD-Matsunami-1990" TYPE="STUDY">Matsunami 1990</LINK> could not be appropriately analysed in RevMan but more suitable methods gave very similar results in this case. Insufficient details were available to calculate correct confidence intervals; the worst case p values were 0.01 and 0.29 respectively. Since the estimates from the two studies were similar, this gives reasonable evidence of benefit of re-PUVA over retinoid from the two studies combined (rate difference 0.45, rate ratio 4.00,<LINK REF="CMP-010.02" TYPE="ANALYSIS">Analysis 10.2</LINK>).</P>
+<P>
+<I>Conclusions</I>: Established increased efficacy of combination of retinoids and PUVA over either treatment modality when used alone.</P>
+</SUBSECTION>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(4) Ciclosporin</HEADING>
+<P>Two studies (<LINK REF="STD-Erkko-1998" TYPE="STUDY">Erkko 1998</LINK> and <LINK REF="STD-Reitamo-1993" TYPE="STUDY">Reitamo 1993</LINK>) examined the use of ciclosporin in low doses (<LINK REF="CMP-011.01" TYPE="ANALYSIS">Analysis 11.1</LINK>). Due to heterogeneity of the results (p=0.03), data were not pooled. <LINK REF="STD-Erkko-1998" TYPE="STUDY">Erkko 1998</LINK> found that 13 of 27 receiving 1mg/kg/day ciclosporin improved compared with 6 of 31 receiving placebo (rate difference 0.29, 95% CI 0.05 to 0.52; rate ratio 2.49, 95% CI 1.10 to 5.64). <LINK REF="STD-Reitamo-1993" TYPE="STUDY">Reitamo 1993</LINK> used a higher dose (2.5mg/kg/day) and found that 17 of 20 receiving ciclosporin improved compared with 4 of 20 receiving placebo (rate difference 0.65, 95% CI 0.42 to 0.88; rate ratio 4.25, 95% CI 1.74 to 10.41). Erkko found that 7 of 27 receiving ciclosporin still had improvement 12 months into treatment compared with 2 of 31 receiving placebo (rate difference 0.19, 95% CI 0.01 to 0.38; rate ratio 4.02, 95% CI 0.91 to 17.73, <LINK REF="CMP-011.02" TYPE="ANALYSIS">Analysis 11.2</LINK>).</P>
+<P>
+<I>Conclusions</I>: Good evidence of improvement but not of clearance with low dose ciclosporin. Little evidence to support the use of long-term low dose ciclosporin.<BR/>
+</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(5) Tetracycline antibiotics</HEADING>
+<P>Two studies (<LINK REF="STD-Thomsen-1973" TYPE="STUDY">Thomsen 1973</LINK> and <LINK REF="STD-Ward-1976" TYPE="STUDY">Ward 1976</LINK>) examined the use of a tetracycline (tetracycline for one month and clomocycline for three months respectively). Pooled data showed improvement in 30 of 80 (38%) tetracycline treatment courses compared with 10 of 80 (13%) placebo courses (rate difference 0.25, 95% CI 0.13 to 0.37; <LINK REF="CMP-012.01" TYPE="ANALYSIS">Analysis 12.1</LINK>).</P>
+<P>
+<I>Note</I>: These were both crossover studies and so could not be analysed appropriately within RevMan. For <LINK REF="STD-Thomsen-1973" TYPE="STUDY">Thomsen 1973</LINK> the first period data were extracted whereas both periods are included for <LINK REF="STD-Ward-1976" TYPE="STUDY">Ward 1976</LINK> and so this is not a paired analysis. However, the confidence interval for a correct paired analysis is very similar to that shown in RevMan. The difference between placebo and tetracycline antibiotic is less obvious in the three month study with clomocycline than the one lasting one month with tetracycline, but an advantage is still apparent. <LINK REF="STD-Thomsen-1973" TYPE="STUDY">Thomsen 1973</LINK> stated that in some cases of improvement the lesions disappeared completely, but in most cases no more than an 'improvement' was recorded. Unfortunately the figures for this were not disclosed.</P>
+<P>
+<I>Conclusion</I>: Some evidence of modest improvement with tetracycline antibiotics.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(6) Hydroxycarbamide</HEADING>
+<P>One study (<LINK REF="STD-Hattel-1974" TYPE="STUDY">Hattel 1974</LINK>) compared hydroxycarbamide with placebo in 13 patients in a short cross-over trial. Unfortunately numbers of responders in each arm of the study were not disclosed. The investigators found no significant difference in scores for disease severity between placebo and intervention periods.</P>
+<P>
+<I>Conclusion</I>: There is a lack of evidence to suggest that short-term treatment with hydroxycarbamide is effective.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(7) Colchicine</HEADING>
+<P>Two cross-over studies (<LINK REF="STD-Thestrup_x002d_Pedersen-84" TYPE="STUDY">Thestrup-Pedersen 84</LINK> and <LINK REF="STD-Mann-1982" TYPE="STUDY">Mann 1982</LINK>) examined the use of colchicine. Both studies reported high rates of side effects related to the use of colchicine, including diarrhoea, headaches and nausea (<LINK REF="STD-Mann-1982" TYPE="STUDY">Mann 1982</LINK>). None of the patients 'responded' in the trial reported by <LINK REF="STD-Mann-1982" TYPE="STUDY">Mann 1982</LINK>. There were 13 documented 'improvements' in that reported by <LINK REF="STD-Thestrup_x002d_Pedersen-84" TYPE="STUDY">Thestrup-Pedersen 84</LINK>: 10 of 27 patients improved when receiving colchicine compared with 3 of 27 when receiving placebo (rate difference 0.26, insufficient details to calculate 95% CI, worst case 0.004 to 0.44). There were no clearances in this trial (rate difference 0, 95% CI -0.12 to +0.12). Confidence intervals reported here are calculated by the method described by <LINK REF="REF-Newcombe-1998" TYPE="REFERENCE">Newcombe 1998</LINK>. The data for the two studies were not pooled due to clinical heterogeneity.</P>
+<P>
+<I>Conclusion</I>: Some evidence to suggest a possible modest benefit from colchicine at the expense of a high rate of side effects.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(8) Grentz ray therapy</HEADING>
+<P>
+<LINK REF="STD-Lindeloef-1990" TYPE="STUDY">Lindeloef 1990</LINK> found that 13 of 17 sides receiving Grenz ray (low voltage X-ray therapy) showed greater improvement than the contralateral side; by comparison only 1 of 17 sides receiving placebo showed greater improvement than the Grenz ray-treated side (p=0.002, <LINK REF="CMP-013.01" TYPE="ANALYSIS">Analysis 13.1</LINK>). The authors reported that none of the patients achieved clearance (<LINK REF="CMP-013.02" TYPE="ANALYSIS">Analysis 13.2</LINK>).</P>
+<P>
+<I>Conclusion</I>: Some evidence of improvement, but not of clearance, from Grenz Ray therapy.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">(9) Topical corticosteroids</HEADING>
+<P>
+<LINK REF="STD-Kragballe-1991" TYPE="STUDY">Kragballe 1991</LINK> found that 12 of 19 (63%) sides receiving medium strength corticosteroid under hydrocolloid occlusion cleared completely compared with 3 of 19 (16%) sides receiving highly potent corticosteroid twice daily (p=0.001, <LINK REF="CMP-014.01" TYPE="ANALYSIS">Analysis 14.1</LINK>, rate difference 0.47, 95% CI 0.20 to 0.75). These are within patient data but are not fully reported to allow correct analysis: the lower limit of this confidence interval could potentially be 0.09.</P>
+<P>
+<I>Conclusion</I>: Evidence for successful induction of remission with topical corticosteroid under hydrocolloid occlusion.</P>
+</SUBSECTION>
+</INTERVENTION_EFFECTS>
+</RESULTS>
+<DISCUSSION MODIFIED="2008-10-18 12:59:13 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Not all optional subheadings activated.&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 12:59:13 +0100" NOTES_MODIFIED_BY="Cathy Bennett">
+<SUMMARY_OF_RESULTS MODIFIED="2008-10-18 12:59:13 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Few high quality studies were identified in the review. The majority were short-term studies in a chronic disease subject to relapses and remissions. Many studies used non-standardised semi-quantitative scores as outcome measures and few reported patient satisfaction measures. Documented superiority over placebo does not necessarily equate to worthwhile benefit for the patient. It is also of course possible that failure to report negative trials has resulted in an overestimate of benefit for some of the interventions examined in this review. The heterogeneity of outcome measurement and methodology makes pooling of statistical data difficult. Within these trials other distinguishing variables were identifiable:</P>
+<SUBSECTION>
+<HEADING LEVEL="3">Patient factors </HEADING>
+<P>Most trials demonstrated that groups were matched for age, sex, length and history of previous treatment and site of lesions. The proportion of patients with evidence of concomitant psoriasis elsewhere varied considerably and it is not known whether this may influence responses to therapy. As PPP is a chronic relapsing-remitting condition, many patients had received previous treatments for their disease. It is not known whether the response of patients to treatment for an initial episode differs from the response seen in those who have received multiple previous treatments.</P>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Treatment factors</HEADING>
+<UL>
+<LI>Oral Treatments: different drugs, doses and formulations of tetracyclines and retinoids</LI>
+<LI>Topical PUVA: different concentrations, formulations and methods of application of psoralen; different irradiation doses and regimens.</LI>
+<LI>Systemic PUVA: different regimens of irradiation</LI>
+<LI>Trial period: different periods of treatment and different 'washout' period prior to trial</LI>
+</UL>
+</SUBSECTION>
+<SUBSECTION>
+<HEADING LEVEL="3">Site of involvement</HEADING>
+<P>Whether or not there is a difference between hands and feet in the probability of response to treatment is a question which was not discussed by most researchers. In an uncontrolled trial which could not be included in this review (<LINK REF="STD-Agren_x002d_Jonsson-1985" TYPE="STUDY">Agren-Jonsson 1985</LINK>), palmar disease appeared to respond much more readily than plantar disease to treatment with systemic PUVA.</P>
+<P>The Review Manager software is not designed to handle both phases from cross-over trials. The rate differences and 95% confidence intervals for such trials (<LINK REF="STD-Hattel-1974" TYPE="STUDY">Hattel 1974</LINK>; <LINK REF="STD-Mann-1982" TYPE="STUDY">Mann 1982</LINK>; <LINK REF="STD-Thestrup_x002d_Pedersen-84" TYPE="STUDY">Thestrup-Pedersen 84</LINK> and <LINK REF="STD-Ward-1976" TYPE="STUDY">Ward 1976</LINK>) which appear in the text were calculated according to the method of Newcombe (<LINK REF="REF-Newcombe-1998" TYPE="REFERENCE">Newcombe 1998</LINK>); however, those which appear in the figures in this review differ only slightly from these.</P>
+</SUBSECTION>
+</SUMMARY_OF_RESULTS>
+<POTENTIAL_BIASES MODIFIED="2008-10-18 12:58:40 +0100" MODIFIED_BY="Cathy Bennett">
+<SUBSECTION>
+<HEADING LEVEL="3">Trial size</HEADING>
+<P>Most studies involved few participants. In a disease with poorly defined treatment outcome measures, many of the studies were underpowered.</P>
+</SUBSECTION>
+</POTENTIAL_BIASES>
+</DISCUSSION>
+<CONCLUSIONS MODIFIED="2008-10-18 12:59:51 +0100" MODIFIED_BY="Cathy Bennett">
+<IMPLICATIONS_PRACTICE>
+<P>With the exception of corticosteroids under occlusion, there is little evidence for efficacy of topical therapy in PPP. The efficacy of topical corticosteroids is increased by occlusion with hydrocolloid gel dressings: such therapy may be expected to affect clearance within 12 days in about two thirds of people with PPP. This remission may, however, be short-lived. There is some evidence to suggest that additional short-term PUVA does not prevent relapse. We found no eligible studies examining other topical therapies such as tar, anthralin, calcipotriol or tazarotene. Grenz Ray therapy has been shown to produce moderate improvement in about two-thirds of patients with PPP. There are no studies examining the use of this as an adjunct to other interventions. There is little evidence from RCTs to support the use of topical PUVA. </P>
+<P>Systemic photochemotherapy and systemic retinoids are both of value for PPP. Systemic PUVA can induce clearance in up to two fifths of people with PPP though larger studies are needed to confirm this figure. Systemic retinoids (etretinate and acitretin) at a dose of 0.5 mg/kg bw/day produce objective improvement in about two thirds of people with PPP. A good or excellent response is seen in about two fifths. Many patients who do improve will not, however, achieve satisfactory control of disease either because of an insufficient response or because of intolerance of retinoid side effects. Continuation of retinoid therapy after induction of remission reduces the incidence of relapse. Limited data suggest that liarozole might be similarly efficacious in producing objective improvement in PPP. Comparison between retinoids and PUVA suggests that retinoids are more likely to induce clearance but there is little difference in the proportions of people who will show improvement. A combination of systemic retinoids and PUVA produces clearance in about two-thirds of people with PPP, and compares favourably with PUVA or retinoid therapy alone.</P>
+<P>There is evidence that ciclosporin and tetracycline antibiotics may be of some benefit for PPP. Ciclosporin at low dose (1 to 2.5 mg/kg bw/day) produces moderate objective improvement in about two-thirds of patients over one month. The evidence which suggests that about one-fourth of patients may be expected to maintain the improvement gained for one year needs confirmation by further studies. The response rates reported in uncontrolled studies and case series using higher doses of ciclosporin suggest that the doses used in published studies may be suboptimal; further studies using higher doses are required to establish whether this is so. Tetracycline antibiotics produce objective improvement in about half of patients with PPP. Clearance is rarely seen.</P>
+<P>There is a paucity of evidence supporting the use of colchicine in PPP. There is no evidence to suggest that short term treatment with hydroxycarbamide is effective in PPP. There are no randomised controlled trials to date that support the use of methotrexate, although one uncontrolled prospective study claimed benefit in only a third of treated patients, mainly those people with evidence of psoriasis at other sites (<LINK REF="STD-Thomsen-1971" TYPE="STUDY">Thomsen 1971</LINK>).</P>
+</IMPLICATIONS_PRACTICE>
+<IMPLICATIONS_RESEARCH MODIFIED="2008-10-18 12:59:51 +0100" MODIFIED_BY="Cathy Bennett">
+<P>The clinical outcomes of trials for PPP are not standardised and this makes it difficult to compare studies. Although many investigators use changes in pustule counts or clinical scores of erythema and scaling, these on their own are insufficient. It should always be possible to dichotomise the results into categories such as improved/not improved or clear/not clear. Of equal importance are the assessments of patients receiving the treatment both in terms of efficacy and acceptability.</P>
+<P>We suggest that future trials should report specifically:</P>
+<UL>
+<LI>numbers of patients randomised into each treatment arm as well as the numbers completing each arm according to protocol</LI>
+<LI>numbers of randomised patients who achieve clearance</LI>
+<LI>numbers of randomised patients who show objective improvement</LI>
+<LI>numbers of randomised patients who report significant benefit</LI>
+<LI>numbers of randomised patients who regard the intervention as acceptable or "worth-while"</LI>
+</UL>
+<P>We also suggest that:</P>
+<UL>
+<LI>the presence or absence of evidence of psoriasis at other body sites should be recorded</LI>
+<LI>trial design should incorporate separate stratification for this</LI>
+<LI>data should be presented in such a way that differential response rates of hand and feet can be identified</LI>
+</UL>
+<P>Further studies of systemic PUVA against placebo may help to determine more precisely the proportion of people who may be expected to clear with PUVA and to clarify the differences in response rates to systemic PUVA reported by <LINK REF="STD-Murray-1980" TYPE="STUDY">Murray 1980</LINK> and <LINK REF="STD-Rosen-1987" TYPE="STUDY">Rosen 1987</LINK> on the one hand and <LINK REF="STD-Lassus-1988" TYPE="STUDY">Lassus 1988</LINK> on the other. There is much uncertainty as to the efficacy of topical PUVA in PPP and, ideally, a treatment arm using topical PUVA should be included in order to determine whether this modality has any place in its management. A study of ciclosporin at a dose of 3.0 to 5.0 mg/kg bw/day would help to establish the value of this drug for PPP.</P>
+<P>A comparison of liarozole with acitretin would help to establish whether the former can achieve response rates to compare with acitretin and, if so, whether it offers benefits in terms of reduced side effects.</P>
+<P>A comparison of methotrexate with acitretin would establish whether there is a place for the former in the management of PPP.</P>
+<P>In view of the encouraging reports regarding the use of oral pimecrolimus in the treatment of psoriasis, and of its apparent improved side-effect profile over ciclosporin, a study of this drug as a treatment for PPP would seem appropriate. Although there have been anecdotal reports that the new biological agents which have been introduced for psoriasis may be beneficial in PPP, RCTs should be performed to evaluate their efficacy.</P>
+</IMPLICATIONS_RESEARCH>
+</CONCLUSIONS>
+</BODY>
+<ACKNOWLEDGEMENTS>
+<P>To Teresa O'Sullivan and Joe Murphy for their contributions to drafting the initial protocol and performing the initial searches for this review.</P>
+<P>The editorial base would like to thank the following people who were the external referees for this review:<BR/>Conor O'Doherty and John Bourke (content experts) and Barbara Stubbs (consumer).</P>
+</ACKNOWLEDGEMENTS>
+<CONFLICT_OF_INTEREST>
+<P>Christopher Griffiths has been a paid Consultant and has received speaker's fees and research grants from Novartis, the manufacturer of ciclosporin.<BR/> </P>
+</CONFLICT_OF_INTEREST>
+<CONTRIBUTIONS>
+<P>Sacha Marsland and Robert Chalmers produced the review with helpful comments and criticisms from Chris Griffiths. Sally Hollis gave advice throughout the drafting process and provided help with statistical analysis. Jo Leonardi-Bee gave statistical advice and made revisions on the final version of the review.</P>
+</CONTRIBUTIONS>
+<PRO_REV_DIFF/>
+<PUBLIC_NOTES MODIFIED="2015-04-16 14:53:08 +0100" MODIFIED_BY="Laura E Prescott">
+<P>This review is being updated by way of a new protocol and then a review, as the scope of the review has substantially expanded. The citation for the new protocol is as follows: Obeid G, Do G, Katsahian S, Kirby L, Hughes C, Le Cleach L. Interventions for chronic palmoplantar pustulosis (Protocol). Cochrane Database of Systematic Reviews 2015, Issue 4. Art. No.: CD011628. DOI: 10.1002/14651858.CD011628.</P>
+<P>The protocol for this review was originally published under the title: Interventions for chronic palmoplantar pustular psoriasis. Since the evidence that this disease is a variant of psoriasis has become increasingly weak, the authors and editors have elected to use the alternative and increasingly widely used name, chronic palmoplantar pustulosis.</P>
+</PUBLIC_NOTES>
+</MAIN_TEXT>
+<STUDIES_AND_REFERENCES MODIFIED="2008-10-18 13:03:24 +0100" MODIFIED_BY="Cathy Bennett">
+<STUDIES MODIFIED="2008-10-18 13:03:24 +0100" MODIFIED_BY="Cathy Bennett">
+<INCLUDED_STUDIES MODIFIED="2008-10-18 13:03:24 +0100" MODIFIED_BY="Cathy Bennett">
+<STUDY DATA_SOURCE="MIX" ID="STD-Bhushan-2001" NAME="Bhushan 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Bhushan M, Burden AD, McElhone K, James R, Vanhoutte FP, Griffiths CEM</AU>
+<TI>Oral liarozole in the treatment of palmoplantar pustular psoriasis: a randomized, double-blind, placebo-controlled study</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>2001</YR>
+<VL>145</VL>
+<PG>546-53</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Erkko-1998" NAME="Erkko 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Erkko P, Granlund H, Remitz A, Rosen K, Mobacken H, Lindeloef B et al</AU>
+<TI>Double-blind placebo-controlled trial of long-term low-dose cyclosporin in the treatment of palmoplantar pustulosis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1998</YR>
+<VL>139</VL>
+<NO>6</NO>
+<PG>997-1004</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Foged-1983" NAME="Foged 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Foged E, Holm P, Larsen P, Laurberg G, Reymann F, Roesdahle K et al</AU>
+<TI>A randomized trial of etretinate (Tigason) in palmoplantar pustulosis</TI>
+<SO>Dermatologica</SO>
+<YR>1983</YR>
+<VL>166</VL>
+<PG>220-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Hattel-1974" NAME="Hattel 1974" YEAR="1974">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Hattel T, Sondergaard J.</AU>
+<TI>Pustulosis palmaris et plantaris treated with Hydroxyurea.</TI>
+<SO>Acta Dermatovenereologica</SO>
+<YR>1974</YR>
+<VL>54</VL>
+<PG>152-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jansen-1978" NAME="Jansen 1978" YEAR="1978">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jansen C, Hollmen, Pajarre R</AU>
+<TI>Peroral aromatic retinoid treatment of palmoplantar pustulosis: double-blind comparison of Ro 10-9359 and placebo</TI>
+<SO>Acta Dermatovenereologica</SO>
+<YR>1978</YR>
+<VL>59</VL>
+<PG>271-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kragballe-1991" NAME="Kragballe 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kragballe K, Larsen F G</AU>
+<TI>A hydrocolloid occlusive dressing plus triamcinolone acetonide cream is superior to clobetasol cream in palmo-plantar pustulosis</TI>
+<SO>Acta Dermatovenereologica</SO>
+<YR>1991</YR>
+<VL>71</VL>
+<PG>540-2</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lassus-1983" NAME="Lassus 1983" YEAR="1983">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lassus A, Lauharanta J, Juvakoski T, Kanerva L</AU>
+<TI>Efficacy of etretinate (tigason) in clearing and prevention of relapse of palmoplantar pustulosis</TI>
+<SO>Dermatologica</SO>
+<YR>1983</YR>
+<VL>166</VL>
+<PG>215-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lassus-1985" NAME="Lassus 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lassus A, Lauharanta J, Eskelinen A</AU>
+<TI>The effect of etretinate compared with different regimens of PUVA in the treatment of persistent palmoplantar pustulosis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1985</YR>
+<VL>112</VL>
+<PG>455-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lassus-1988" NAME="Lassus 1988" YEAR="1988">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lassus A, Geiger JM</AU>
+<TI>Acitretin and etretinate in the treatment of palmoplantar pustulosis: a double-blind comparative trial</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1988</YR>
+<VL>119</VL>
+<PG>755-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lawrence-1984" NAME="Lawrence 1984" YEAR="1984">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lawrence CM, Marks J, Parker S, Shuster S</AU>
+<TI>A comparison of PUVA-etretinate and PUVA-placebo for palmoplantar pustular psoriasis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1984</YR>
+<VL>110</VL>
+<PG>221-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Layton-1991" NAME="Layton 1991" YEAR="1991">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Layton AM, Sheehan-Dare R, Cunliffe WJ</AU>
+<TI>A double-blind, placebo-controlled trial of topical PUVA in persistent palmoplantar pustulosis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1991</YR>
+<VL>124</VL>
+<PG>581-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Lindeloef-1990" MODIFIED="2008-10-18 13:03:24 +0100" MODIFIED_BY="Cathy Bennett" NAME="Lindeloef 1990" YEAR="1990">
+<REFERENCE MODIFIED="2008-10-18 13:03:24 +0100" MODIFIED_BY="Cathy Bennett" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Lindeloef B, Beitner H</AU>
+<TI>The effect of grenz ray therapy on pustulosis palmoplantaris</TI>
+<SO>Acta Dermato-Venereologica</SO>
+<YR>1990</YR>
+<VL>70</VL>
+<PG>529-31</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mann-1982" NAME="Mann 1982" YEAR="1982">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Mann RJ</AU>
+<TI>Failure of colchicine for palmo-plantar pustulosis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1982</YR>
+<VL>106</VL>
+<PG>373</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Matsunami-1990" NAME="Matsunami 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Matsunami E, Takashima A, Mizuno N, Jinno T, Ito H</AU>
+<TI>Topical PUVA, etretinate, and combined PUVA and etretinate for palmoplantar pustulosis: comparison of therapeutic efficacy and the influences of tonsillar and dental focal infections</TI>
+<SO>Journal of Dermatology</SO>
+<YR>1990</YR>
+<VL>17</VL>
+<NO>2</NO>
+<PG>92-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Murray-1980" NAME="Murray 1980" YEAR="1980">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Murray D, Corbett MF, Warin AP</AU>
+<TI>A controlled trial of photochemotherapy for persistent palmoplantar pustulosis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1980</YR>
+<VL>102</VL>
+<PG>659-3</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Nielsen-1995" NAME="Nielsen 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Nielsen PG, Madsen SM</AU>
+<TI>Occlusive treatment of palmoplantar pustular psoriasis with clobetasol propionate ointment succeeded by short-term PUVA</TI>
+<SO>Journal of Dermatological Treatment</SO>
+<YR>1995</YR>
+<VL>6</VL>
+<PG>77-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Reitamo-1993" NAME="Reitamo 1993" YEAR="1993">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Reitamo S, Erkko P, Remitz A , Lauerma AI, Montonen O, Harjula K</AU>
+<TI>Cyclosporine in the treatment of palmoplantar pustulosis. A randomized, double-blind, placebo-controlled study</TI>
+<SO>Archives of Dermatology</SO>
+<YR>1993</YR>
+<VL>129</VL>
+<PG>1273-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Rosen-1987" NAME="Rosen 1987" YEAR="1987">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Rosen K, Mobacken H, Swanbeck G</AU>
+<TI>PUVA, etretinate, and PUVA-etretinate therapy for pustulosis palmoplantaris</TI>
+<SO>Archives of Dermatology</SO>
+<YR>1987</YR>
+<VL>123</VL>
+<PG>885-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thestrup_x002d_Pedersen-84" NAME="Thestrup-Pedersen 84" YEAR="1984">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thestrup-Pedersen K, Reymann F</AU>
+<TI>Treatment of Pustulosis palmaris et plantaris with Colchicine</TI>
+<SO>Acta Derm Venereol</SO>
+<YR>1984</YR>
+<VL>64</VL>
+<PG>76-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thomsen-1973" NAME="Thomsen 1973" YEAR="1973">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thomsen K, Osterbye P</AU>
+<TI>Pustulosis palmaris et plantaris</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1973</YR>
+<VL>89</VL>
+<PG>293-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Ward-1976" NAME="Ward 1976" YEAR="1976">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Ward JM, Corbett MF, Hanna MJ</AU>
+<TI>A double-blind trial of clomocycline in the treatment of persistent pustulosis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1976</YR>
+<VL>95</VL>
+<PG>317-22</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-White-1985" NAME="White 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>White SI, Marks JM, Shuster S</AU>
+<TI>Etretinate in pustular psoriasis of palms and soles</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1985</YR>
+<VL>113</VL>
+<NO>5</NO>
+<PG>581-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-White-1986" NAME="White 1986" YEAR="1986">
+<REFERENCE NOTES="&lt;p&gt;White SI, Puttick L, Marks JM. Low-dose etretinate in the maintenance of remission of palmoplantar pustular psoriasis. Br J Dermatol 1986; 115: 577-582.&lt;/p&gt;" PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>White SI, Puttick L, Marks JM</AU>
+<TI>Low-dose etretinate in the maintenance of remission of palmoplantar pustular psoriasis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1986</YR>
+<VL>115</VL>
+<PG>577-82</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</INCLUDED_STUDIES>
+<EXCLUDED_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Abel-1980" NAME="Abel 1980" YEAR="1980">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Abel EA, Goldberg LH, Farber EM</AU>
+<TI>Treatment of palmoplantar psoriasis with topical methoxsalen plus long-wave ultraviolet light</TI>
+<SO>Archives of Dermatology</SO>
+<YR>1980</YR>
+<VL>116</VL>
+<PG>1257-61</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Agren_x002d_Jonsson-1985" NAME="Agren-Jonsson 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Agren-Jonsson S, Tegner E</AU>
+<TI>PUVA Therapy for Palmoplantar Pustulosis</TI>
+<SO>Acta Derm Venereol</SO>
+<YR>1985</YR>
+<VL>65</VL>
+<PG>531-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Allenby-1966" NAME="Allenby 1966" YEAR="1966">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Allenby CF</AU>
+<TI>Relapsing pustular eruption of hands and feet treated with local methotrexate</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1966</YR>
+<VL>78</VL>
+<PG>154-7</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Coleman-1989" NAME="Coleman 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Coleman WR, Lowe NJ, David M, Halder RM</AU>
+<TI>Palmoplantar psoriasis: Experience with 8-methoxypsoralen soaks plus ultraviolet A with the use of a high-output metal halide device</TI>
+<SO>Journal of the American Academy of Dermatology</SO>
+<YR>1989</YR>
+<VL>20</VL>
+<PG>1078-81</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Davis-1998" NAME="Davis 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Davis MD, McEvoy MT, El-Azhary RA.</AU>
+<TI>Topical Psoralen-Ultraviolet A Therapy for Palmoplantar Dermatoses: Experience With 35 Consecutive Patients.</TI>
+<SO>Mayo Clinical Proceedings.</SO>
+<YR>1998</YR>
+<VL>73</VL>
+<PG>407-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-De-Rie-1995" NAME="De Rie 1995" YEAR="1995">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>De Rie MA, Van Eendenburg JP, Versnick AC, Stolk LM, Bos JD, Westerhof W</AU>
+<TI>A new psoralen-containing gel for topical PUVA therapy: development, and treatment results in patients with palmoplantar and plaque-type psoriasis, and hyperkeratotic eczema.</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1995</YR>
+<VL>132</VL>
+<PG>964-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Duweb-2001" NAME="Duweb 2001" YEAR="2001">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Duweb GA, Abuzariba O, Rahim M, al-Taweel M, al-Alem S, Abdulla SA</AU>
+<TI>Occlusive versus nonocclusive calcipotriol ointment treatment for palmoplantar psoriasis</TI>
+<SO>International Journal of Tissue Reactions</SO>
+<YR>2001</YR>
+<VL>23</VL>
+<NO>2</NO>
+<PG>59-62</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Fredriksson-1979" NAME="Fredriksson 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Fredriksson T, Pettersson U</AU>
+<TI>Oral treatment of pustulosis palmo-plantaris with a new retinoid, R0 10-9359</TI>
+<SO>Dermatologica</SO>
+<YR>1979</YR>
+<VL>158</VL>
+<PG>60-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Goette-1984" NAME="Goette 1984" YEAR="1984">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Goette DK, Morgan AM, Fox BJ, Horn RT</AU>
+<TI>Treatment of palmoplantar pustulosis with intralesional triamcinolone injections</TI>
+<SO>Archives of Dermatology</SO>
+<YR>1984</YR>
+<VL>120</VL>
+<PG>319-23</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Jansen-1981" NAME="Jansen 1981" YEAR="1981">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Jansen CT, Malmiharju T</AU>
+<TI>Inefficacy of topical methoxalen plus UVA for palmoplantar pustulosis</TI>
+<SO>Acta Dermatovenereologica</SO>
+<YR>1981</YR>
+<VL>61</VL>
+<PG>354-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Kumar-1997" NAME="Kumar 1997" YEAR="1997">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Kumar B, Kumar R, Kaur I</AU>
+<TI>Coal tar therapy in palmoplantar psoriasis: old wine in an old bottle?</TI>
+<SO>International Journal of Dermatology</SO>
+<YR>1997</YR>
+<VL>36</VL>
+<NO>4</NO>
+<PG>309-12</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Meinardi-1990" NAME="Meinardi 1990" YEAR="1990">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Meinardi MM, De Rie MA, Bos JD</AU>
+<TI>Oral Cyclosporin A Is Effective in Clearing Persistent Pustulosis Palmaris et Plantaris</TI>
+<SO>Acta Dermatovenereologica</SO>
+<YR>1990</YR>
+<VL>70</VL>
+<PG>77-9</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Morison-1978" NAME="Morison 1978" YEAR="1978">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Morison WL, Parrish JA, Fitzpatrick TB</AU>
+<TI>Oral methoxsalen photochemotherapy of recalcitrant dermatoses of the palms and soles</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1978</YR>
+<VL>99</VL>
+<PG>297-302</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Schr_x00f6_der-1989" NAME="Schröder 1989" YEAR="1989">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Schröder K, Zaun H, Holzmann H, Altmeyer P, El-Gammal S</AU>
+<TI>Pustulosis palmo-plantaris. Clinical and histological changes during etretin (acitretin) therapy</TI>
+<SO>Acta Dermatovenereologica</SO>
+<YR>1989</YR>
+<VL>146 Suppl</VL>
+<PG>111-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Shephard-1998" NAME="Shephard 1998" YEAR="1998">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Shephard SE, Schregenberger N, Dummer R, Panizzon RG</AU>
+<TI>Comparison of 8-MOP aqueous bath and 8-MOP ethanolic lotion (Meladinin (TM)) in local PUVA therapy</TI>
+<SO>Dermatology</SO>
+<YR>1998</YR>
+<VL>197</VL>
+<NO>1</NO>
+<PG>25-30</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thomsen-1971" NAME="Thomsen 1971" YEAR="1971">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thomsen K</AU>
+<TI>Pustulosis palmaris et plantaris treated with methotrexate</TI>
+<SO>Acta Dermatovenereol</SO>
+<YR>1971</YR>
+<VL>51</VL>
+<PG>397-400</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Thune-1982" NAME="Thune 1982" YEAR="1982">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Thune P</AU>
+<TI>Treatment of palmoplantar pustulosis with Tigason</TI>
+<SO>Dermatologica</SO>
+<YR>1982</YR>
+<VL>164</VL>
+<PG>67-72</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Vahlquist-1985" NAME="Vahlquist 1985" YEAR="1985">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Vahlquist C, Michaelsson G, Vahlquist A, Vessby B</AU>
+<TI>A sequential comparison of etretinate (Tigason) and isotretinoin (Roaccutane) with special regard to their effects on serum lipoproteins</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1985</YR>
+<VL>112</VL>
+<NO>1</NO>
+<PG>69-76</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Volden-1992" NAME="Volden 1992" YEAR="1992">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Volden G</AU>
+<TI>Successful Treatment of Chronic Skin Diseases with Clobetasol Propionate and a Hydrocolloid Occlusive Dressing</TI>
+<SO>Acta Derm Venereol</SO>
+<YR>1992</YR>
+<VL>72</VL>
+<PG>69-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+<STUDY DATA_SOURCE="PUB" ID="STD-Wilkinson-1979" NAME="Wilkinson 1979" YEAR="1979">
+<REFERENCE PRIMARY="NO" TYPE="JOURNAL_ARTICLE">
+<AU>Wilkinson JD, Ralfs IG, Harper JI, Black MM</AU>
+<TI>Topical methoxsalen photochemotherapy in the treatment of palmoplantar pustulosis and psoriasis</TI>
+<SO>Acta Dermato-Venereologica</SO>
+<YR>1979</YR>
+<VL>Vol 59 Supplementum 85</VL>
+<PG>193-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<IDENTIFIERS/>
+</STUDY>
+</EXCLUDED_STUDIES>
+<AWAITING_STUDIES>
+<STUDY DATA_SOURCE="PUB" ID="STD-Mizuno-1976" NAME="Mizuno 1976" YEAR="">
+<IDENTIFIERS/>
+</STUDY>
+</AWAITING_STUDIES>
+<ONGOING_STUDIES/>
+</STUDIES>
+<OTHER_REFERENCES>
+<ADDITIONAL_REFERENCES>
+<REFERENCE ID="REF-Asumalahti-2002" NAME="Asumalahti 2002" TYPE="JOURNAL_ARTICLE">
+<AU>Asumalahti K, Ahmeen M, Evans T, Burden D, Griffiths CEM, Barker JNWN, et al</AU>
+<TI>Analysis of PSORS1 single nucleotide polymorphisms in guttate psoriasis and palmoplantar pustular psoriasis</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>2002</YR>
+<VL>147</VL>
+<PG>1053</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Camp-1998" NAME="Camp 1998" NOTES="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" TYPE="BOOK_SECTION">
+<AU>Camp RDR</AU>
+<TI>Psoriasis</TI>
+<SO>Textbook of Dermatology</SO>
+<YR>1998</YR>
+<PG>1589-649</PG>
+<EN>6th</EN>
+<ED>Champion RH, Burton JL, Burns DA, Breathnach SM</ED>
+<PB>Blackwell Scientific</PB>
+<CY>Oxford</CY>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Edlund-1988" NAME="Edlund 1988" NOTES="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Edlund E, Johnsson U, Lidgren L, Pettersson H, Sturfelt G, Svensson B et al</AU>
+<TI>Palmoplantar pustulosis and sternocostoclavicular arthro-osteitis</TI>
+<SO>Annals of the Rheumatic Diseases</SO>
+<YR>1988</YR>
+<VL>47</VL>
+<PG>809-15</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Enfors-1971" NAME="Enfors 1971" TYPE="JOURNAL_ARTICLE">
+<AU>Enfors W, Molin L</AU>
+<TI>Pustulosis palmaris et plantaris: a follow-up study of a ten-year material</TI>
+<SO>Acta Dermatovenereol</SO>
+<YR>1971</YR>
+<VL>51</VL>
+<PG>289-94</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Eriksson-1998" NAME="Eriksson 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Eriksson MO, Hagforsen E, Lundin IP, Michaelsson G</AU>
+<TI>Palmoplantar pustulosis: a clinical and immunohistological study</TI>
+<SO>British Journal of Dermatology</SO>
+<YR>1998</YR>
+<VL>138</VL>
+<NO>3</NO>
+<PG>390-8</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Hagforsen-2002" NAME="Hagforsen 2002" NOTES="&lt;p&gt;Acta Dermato-Venereologica. 82(5):341-6, 2002.&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Hagforsen E, Awder M, Lefvert AK, Nordlind K, Michaelsson G</AU>
+<TI>Palmoplantar pustulosis: an autoimmune disease precipitated by smoking?</TI>
+<SO>Acta Dermato-Venereologica</SO>
+<YR>2002</YR>
+<VL>82</VL>
+<PG>341-6</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Jurik-1988" NAME="Jurik 1988" NOTES="&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>Jurik AG, Ternowitz T</AU>
+<TI>Frequency of skeletal disease: arthro-osteitis in patients with pustulosis palmoplantaris</TI>
+<SO>Journal of the Ameican Academy of Dermatology</SO>
+<YR>1988</YR>
+<VL>18</VL>
+<PG>666-71</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Kubeyinje-1997" NAME="Kubeyinje 1997" TYPE="JOURNAL_ARTICLE">
+<AU>Kubeyinje EP, Belagavi CS</AU>
+<TI>Risk factors for palmo-plantar pustulosis in a developing country</TI>
+<SO>East African Medical Journal</SO>
+<YR>1997</YR>
+<VL>74</VL>
+<NO>1</NO>
+<PG>54-5</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Le-Loet-1991" NAME="Le Loet 1991" TYPE="JOURNAL_ARTICLE">
+<AU>Le Loet X, Bonnet B, Thomine E, Mejjad O, Lucet L, Louvel JP et al</AU>
+<TI>Osteoarticular manifestations of palmoplantaris pustulosis. A prospective study of 15 cases</TI>
+<SO>Presse Medicale. 20(28):1307-11, 1991</SO>
+<YR>1991</YR>
+<VL>20</VL>
+<NO>28</NO>
+<PG>1307-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Newcombe-1998" NAME="Newcombe 1998" TYPE="JOURNAL_ARTICLE">
+<AU>Newcombe RG</AU>
+<TI>Improved confidence intervals for the difference between binomial proportions based on paired data</TI>
+<SO>Statistics in Medicine</SO>
+<YR>1998</YR>
+<VL>17</VL>
+<PG>2635-50</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Nymann-1996" NAME="Nymann 1996" TYPE="JOURNAL_ARTICLE">
+<AU>Nymann P, Kollerup G, Jemec GB, Grossmann E.</AU>
+<TI>Decreased bone mineral density in patients with pustulosis et plantaris</TI>
+<SO>Dermatology</SO>
+<YR>1996</YR>
+<VL>192</VL>
+<NO>4</NO>
+<PG>307-11</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-O_x2019_Doherty-1985" NAME="O&#8217;Doherty 1985" NOTES="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" TYPE="JOURNAL_ARTICLE">
+<AU>O&#8217;Doherty CJ, Macintyre C</AU>
+<TI>Palmoplantar pustulosis and smoking</TI>
+<SO>British Medical Journal</SO>
+<YR>1985</YR>
+<VL>291</VL>
+<PG>861-4</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Rosen-1988" NAME="Rosen 1988" TYPE="JOURNAL_ARTICLE">
+<AU>Rosen K, Lindstedt G, Mobacken H, Nystrom E</AU>
+<TI>Thyroid function in patients with pustulosis palmoplantaris</TI>
+<SO>Journal of the American Academy of Dermatology</SO>
+<YR>1988</YR>
+<VL>19</VL>
+<NO>6</NO>
+<PG>1009-16</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+<REFERENCE ID="REF-Saez_x002d_Rodriguez--2002" NAME="Saez-Rodriguez  2002" TYPE="JOURNAL_ARTICLE">
+<AU>Saez-Rodriguez M, Noda-Cabrera A, Alvarez-Tejera S, Guimera-Martin-Neda F, Dorta-Alom S, Escoda-Garcia M, Fagundo-Gonzalez E, Sanchez-Gonzalez R, Garcia-Montelongo R, Garcia-Bustinduy M</AU>
+<TI>The role of psychological factors in palmoplantar pustulosis</TI>
+<SO>Journal of the European Academy of Dermatology &amp; Venereology</SO>
+<YR>2002</YR>
+<VL>16</VL>
+<PG>325-327</PG>
+<IDENTIFIERS/>
+</REFERENCE>
+</ADDITIONAL_REFERENCES>
+<OTHER_VERSIONS_REFERENCES/>
+<PENDING_REFERENCES/>
+</OTHER_REFERENCES>
+</STUDIES_AND_REFERENCES>
+<CHARACTERISTICS_OF_STUDIES MODIFIED="2008-10-18 13:05:27 +0100" MODIFIED_BY="Cathy Bennett">
+<CHARACTERISTICS_OF_INCLUDED_STUDIES MODIFIED="2008-10-18 13:05:27 +0100" MODIFIED_BY="Cathy Bennett" NOTES="&lt;p&gt;Footnotes to explain abbreviations can now be added.&lt;/p&gt;" NOTES_MODIFIED="2008-10-18 13:05:27 +0100" NOTES_MODIFIED_BY="Cathy Bennett" SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<INCLUDED_CHAR STUDY_ID="STD-Bhushan-2001">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group. Allocation code not broken until study completely finished.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>15 patients with palmoplantar pustulosis.</P>
+<P>age: 42-74 yrs, median 60.4 yrs. </P>
+<P>sex: 12 female, 3 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. liarozole</P>
+<P>Group 2. placebo</P>
+<P>study period: 12 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) Modified PASI (PPPASI) score based on erythema, scaling and pustulation</P>
+<P>(2) Patient assessment of treatment efficacy with Visual Analogue Score</P>
+<P>(3) Responders defined as patients showing overall clearance or marked improvement as judged by the physician or a decrease in PPPASI of more than 70% compared to baseline</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No drop-outs.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Erkko-1998">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group. Allocation code not broken until month 12.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>58 patients with palmoplantar pustulosis with at least 20 fresh pustules at entry.</P>
+<P>age: 21-70 yrs</P>
+<P>sex: 42 female, 16 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. ciclosporin 1mg/kg bw/day </P>
+<P>Group 2. placebo </P>
+<P>study period: one month</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) Reduction in fresh pustule count by 50% or more at one month.</P>
+<P>(2) Duration of remission (up to 12 months) as defined by above criterion.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>In patients who achieved specified outcome by one month, treatment with the initial treatment and dose was continued under blinded conditions for up to 12 months or until relapse or withdrawal. No drop-outs.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Foged-1983">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>50 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 26-78, median 55 yrs</P>
+<P>sex: 8 male, 42 female</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. etretinate 1mg/kg bw/day </P>
+<P>Group 2. placebo</P>
+<P>study period: 8 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) Semiquantitative severity score based on :erythema, desquamation, fissures, pustules, pain and difficulty in walking</P>
+<P>(2) Patient assessment of treatment efficacy </P>
+<P>(3) Clinician-assessed efficacy and tolerance</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>9 patients withdrew (4 etretinate, 5 placebo)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Hattel-1974">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, cross-over</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>13 patients with palmoplantar pustulosis.</P>
+<P>age: 17-72 yrs</P>
+<P>sex: gender not stated<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. hydroxycarbamide 0.5mg three times daily</P>
+<P>Group 2. placebo</P>
+<P>study period: 3 weeks<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Semiquantitative severity score based on pustule count, erythema, thickening and scaling <BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>No drop-outs</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Jansen-1978">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group. Concealed allocation code used.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>19 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 19-72, mean 44 yrs</P>
+<P>sex: 13 female, 7 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. etretinate 25mg - 100mg daily (individually tailored according to tolerance)</P>
+<P>Group 2. placebo</P>
+<P>study period: 4 months</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Semi-quantitative scoring for <BR/>pruritus, desquamation, erythema, pustules, vesicles, burning and fissuring (score 0-4)<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>One drop-out (72 year old woman taking retinoid developed a transient ischaemic attack)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Kragballe-1991">
+<CHAR_METHODS>
+<P>Randomised controlled trial; open left-right comparison.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>19 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 18-71, mean 44 yrs</P>
+<P>sex:16 male, 3 female</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1: hydrocolloid gel dressing (Actiderm) over triamcinolone acetonide 0.1% cream applied every third day for four weeks</P>
+<P>Group 2. clobetasol 0.1% cream applied twice daily for four weeks</P>
+<P>study period: 4 weeks treatment, followed by 4 weeks treatment with emollient alone <BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Semi-quantitative scoring for erythema, thickness, scaling pustules and pruritus</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Treatments not blinded. No drop-outs.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lassus-1983">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group. Code concealed until treatment completed.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>25 (of 40) patients with palmoplantar pustular psoriasis who achieved complete remission following therapy with etretinate 0.9-1.0 mg/kg bw/day for up to 16 weeks</P>
+<P>age: mean 33 yrs</P>
+<P>sex: 26 female, 14 male in initial (40 patient) group.</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. low-dose etretinate (20-30mg/day)</P>
+<P>Group 2. placebo</P>
+<P>study period: 6 months.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Maintenance of complete remission.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>4 drop-outs (all in placebo arm of trial)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lassus-1985">
+<CHAR_METHODS>
+<P>Randomised controlled trial; open, parallel group</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>84 patients with palmoplantar pustular psoriasis.</P>
+<P>age:median age 51 yrs</P>
+<P>sex: 63 female, 21 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. systemic PUVA</P>
+<P>Group 2. topical 8-MOP + UVA</P>
+<P>Group 3. topical trioxsalen + UVA</P>
+<P>Group 4. etretinate 0.9-1.0 mg/kg bw/day for 2 weeks, then 0.6-0.7 mg/kg bw/day</P>
+<P>study period: 12 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Reductions in fresh pustule counts, erythema, infiltration and scaling.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Treatments not blinded.<BR/>Semi-quantitative scoring system for erythema, infiltration, and scaling. 3 drop-outs from etretinate group due to side effects. 4 on systemic PUVA, 5 on local methoxsalen and 9 on local trioxsalen treatment discontinued after 8 weeks due to lack of effect.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lassus-1988">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>60 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 22-76 yrs</P>
+<P>sex: 42 female, 18 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. acitretin 30 mg daily for 4 weeks then variable dose</P>
+<P>Group 2. etretinate 30 mg daily for 4 weeks then variable dose</P>
+<P>study period: 8 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Reductions in fresh<BR/>pustule counts, erythema, infiltration and scaling.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Semi-quantitative scoring system for erythema, infiltration, and scaling. 2 drop-outs: one from etretinate group (did not return after 2 weeks) and one from acitretin group (cleared after 4 weeks).</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lawrence-1984">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>17 patients with palmoplantar pustular psoriasis.</P>
+<P>age: mean 56yrs</P>
+<P>sex: 16 female, 4 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. PUVA and etretinate</P>
+<P>Group 2. PUVA and placebo</P>
+<P>
+<BR/>study period: up to 20 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) fresh pustule count</P>
+<P>(2) degree of erythema/scaling (0) none, (1) mild, (2) moderate, (3) severe.</P>
+<P>Assessment at weeks 10,20 or at clearance of the rash.</P>
+<P>Length of clinical remission (assessed by patients 24 weeks after finishing treatment) .</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Side effects of etretinate were also carefully documented. One patient (on placebo) did not complete the study due to (unrelated) diverticulitis.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Layton-1991">
+<CHAR_METHODS>
+<P>Randomised controlled trial; single-blind (? double-blind) left-right comparison.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>27 patients with 44 matched areas on hands and/or feet of palmoplantar pustular psoriasis for at least one year.</P>
+<P>age: not stated</P>
+<P>sex: not stated</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. topical photochemotherapy using 0.75% 8-methoxypsoralen emulsion applied 10 minutes prior to UVA exposure starting at 1 J/cm 2 and increasing gradually to 15 J/cm 2.</P>
+<P>Group 2. base emulsion with UVA as above</P>
+<P>
+<BR/>study period: 8 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) pustule count</P>
+<P>(2) degree of erythema, scaling and fissuring.</P>
+<P>(3) subjective symptoms as assessed by the patients.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Randomisation method not clearly stated; method of blinding of observers unclear. No drop-outs.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Lindeloef-1990">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind (patient and evaluating doctor) left-right comparison</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>17 patients with palmoplantar pustulosis; </P>
+<P>age: 26-84 yrs (median 54 yrs)</P>
+<P>sex: not stated<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Side 1. Grenz ray (10kV) 4Gy weekly to one side</P>
+<P>Side 2. "sham" treatment administered to contralateral side</P>
+<P>study period: 6 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Semiquantitative scores for erythema, scaling, pustulation, disease extent as assessed by dermatologist and for itching and overall symptoms as assessed by patient</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>2 drop-outs (one elderly patient withdrew due to illness and one patient developed generalised psoriasis)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Mann-1982">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, cross-over</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>12 patients with palmoplantar pustulosis</P>
+<P>age: 50-72 yrs</P>
+<P>sex: not stated</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. colchicine 0.5mg twice daily then matching placebo</P>
+<P>Group 2. placebo then colchicine 0.5mg twice daily</P>
+<P>study period: 2 x 6 weeks<BR/>
+</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) Number of yellow pustules</P>
+<P>(2) Number of brown lesions</P>
+<P>(3) Degree of scaling</P>
+<P>(4) Degree of erythema<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Throughout the trial participants applied fluocinolone acetonide 0.01% cream twice daily. 3 drop-outs: two on colchicine and one on placebo.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Matsunami-1990">
+<CHAR_METHODS>
+<P>Randomised between patient comparison and left/right within patient comparison. controlled trial.<BR/>See Notes.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>20 patients with palmoplantar pusular psoriasis.</P>
+<P>mean ages 52 and 58 yrs for groups 1 and 2 respectively</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. Re (+) received etretinate orally and PUVA topically to right hand &amp; foot.</P>
+<P>Group 2. Re (-) received just PUVA topically to right hand &amp; foot.</P>
+<P>All patients in each group received topical PUVA on the right hand and right foot. The left hand and left foot served as PUVA (-) controls.</P>
+<P>study period: 20 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) Severity of lesions was evaluated using a semiquantitative score for the following seven factors:</P>
+<P>(a) erythema <BR/>(b) infiltration <BR/>(c) pustule count (d) vesicle count <BR/>(e) desquamation <BR/>(f) local itching <BR/>(g) pain </P>
+<P>(2) Overall effect of treatment.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Hand/foot not randomised<BR/>No placebo/ blinding. No drop-outs.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-10-18 13:02:28 +0100" MODIFIED_BY="Cathy Bennett" STUDY_ID="STD-Murray-1980">
+<CHAR_METHODS>
+<P>Randomised controlled trial; ?blinded, left-right comparison.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS MODIFIED="2008-10-18 13:02:28 +0100" MODIFIED_BY="Cathy Bennett">
+<P>22 patients with palmoplantar pustular psoriasis.</P>
+<P>mean age 47.8 yrs (male) and 52.9 yrs (female)</P>
+<P>sex: 16 female, 6 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. sides treated with oral 8-mop PUVA</P>
+<P>Group 2. sides untreated with PUVA</P>
+<P>
+<BR/>study period: 7.5 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) worse<BR/>(2) no change <BR/>(3) improved <BR/>(4) much improved <BR/>(5) clear</P>
+<P>improved = less pustulation</P>
+<P>much improved = no pustulation with residual erythema and scaling</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Second part of study cannot be included as it is uncontrolled. No dropouts.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Nielsen-1995">
+<CHAR_METHODS>
+<P>Randomised controlled trial; single-blind, crossover. Patients could not be blinded.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>22 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 32-72, mean 52 yrs</P>
+<P>sex: 20 female, 2 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. clobetasol propionate ointment under hydrocolloid gel dressing changed every 4 days for 12 days . When PPP lesions recurred the same treatment was repeated followed by PUVA administered to the soles twice weekly for three weeks.</P>
+<P>
+<BR/>Group 2. treatments in opposite sequence</P>
+<P>study period: 1 year</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) Severity of lesions was assessed at the end of the glucocorticoid treatment and at the end of the PUVA treatment according to the following scores;<BR/>0- smooth and uniform skin on soles<BR/>1- scaling and erythema<BR/>2-scaling, erythema and 1-10 pustules on each sole<BR/>3- scaling, erythema, fissuring and &gt; 10 pustules on each sole.<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>One patient did not tolerate oral psoralen and was withdrawn.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Reitamo-1993">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>40 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 18-70, mean 41 yrs</P>
+<P>sex: 28 females, 12 male<BR/>
+</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. oral ciclosporin 2.5 mg /kg bw/day</P>
+<P>Group 2. placebo</P>
+<P>study period: 4 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Reduction in fresh pustule count by 50% or more.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Erythema, infiltration, and scaling were also assessed but were not published. 1 drop-out in ciclosporin group and one in placebo group.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Rosen-1987">
+<CHAR_METHODS>
+<P>Quasi-randomised controlled trial; Placebo-controlled 'randomised' paired comparison and between patient comparison</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>37 patients with PPPP previously treated (including with potent topical steroids) without satisfactory response</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Parallel group quasi-randomisation by year of birth into etretinate and placebo groups </P>
+<P>Left-right quasi-randomisation by date of birth into PUVA or no PUVA (left-right comparison of either feet or hands depending on which set of extremities was most severely affected)</P>
+<P>Group 1. oral etretinate 0.6mg/kg + PUVA<BR/>Group 2. oral etretinate 0.6mg/kg<BR/>Group 3. placebo + PUVA<BR/>Group 4. placebo</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Assessment by patient and investigator on a four point scale: 'cleared' meant an excellent result with no desquamation or pustulation, erythema and slight residual infiltration were allowed; 'much improved' meant a very good result, but some residual desquamation pustulation and infiltration; 'somewhat improved' meant a substantial, easily recognised improvement.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Randomisation by year of birth (even or odd). 5 drop-outs in etretinate group, 2 drop-outs in placebo group.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Thestrup_x002d_Pedersen-84">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, crossover</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>27 patients with palmoplantar pustulosis</P>
+<P>age: 19-80, median 58 yrs</P>
+<P>sex: 5 male, 22 female</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. colchicine then placebo </P>
+<P>Group 2. placebo then colchicine</P>
+<P>study period: 2 x 6 weeks</P>
+<P>Patients weighing less than 75kg received 1.5g of colchicine daily. Those weighing over 75kg received 2g of colchicine daily.</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) pustule formation</P>
+<P>(2) redness</P>
+<P>(3) scaling</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>If the patients condition actually deteriorated during the trial the were treated with potassium permanganate bath weekly and the daily application of 0.1% bethametasone valerate with 1% chinoform. One patient stopped treatment due to side effects and did not receive placebo. 3 had reduction in their dosage.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Thomsen-1973">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, crossover</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>40 patients with palmoplantar pustulosis. </P>
+<P>age: 16 - 78 yrs</P>
+<P>sex: not stated</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. tetracycline 250mg twice daily then placebo then tetracycline 250mg twice daily</P>
+<P>Group 2. placebo then tetracycline 250mg twice daily then placebo</P>
+<P>study period: 3 x 4 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>Positive response: indicating that the lesions had disappeared completely or had considerably diminished with pustules no longer present.</P>
+<P>Negative response: indicating no response.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>two patients stopped taking the drug after two courses because of side effects.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-Ward-1976">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, crossover. Manufacturer concealed allocation of supplies.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>60 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 48 female median age 52 yrs<BR/>12 male median age 46 yrs</P>
+<P>sex: 48 female, 12 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. clomocycline 170mg three times daily for 2 weeks then twice daily for 10 weeks followed by placebo</P>
+<P>Group 2. placebo then clomocycline 170mg three times daily for 2 weeks then twice daily for 10 weeks</P>
+<P>study period: 2 x 3 months</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) pustulation - more, unchanged, less, much less, none.</P>
+<P>(2) erythema, scaliness and the area involved were considered together - worse, unchanged, less or clear.</P>
+<P>At 12 weeks those who were improved were classified as responders. If no change or worse were classified as non-responders.</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>20 patients failed to complete: 6 did not attend, 14 had side effects ( 13 of which were on clomocycline)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR STUDY_ID="STD-White-1985">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind (doctor and patient), parallel group.</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>20 patients with palmoplantar pustular psoriasis.</P>
+<P>age: 16 female average age 57 yrs<BR/> 4 male average age 60 yrs</P>
+<P>
+<BR/>sex: 16 female, 4 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. etretinate 1mg/kg/day</P>
+<P>Group 2. placebo</P>
+<P>study period: 10 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) semi quantitative score based on overall objective assessment by the doctor</P>
+<P>(2) pustule count</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES>
+<P>Groups matched for age but not for disease duration. 1 drop-out (etretinate group)</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<INCLUDED_CHAR MODIFIED="2008-10-18 13:03:01 +0100" MODIFIED_BY="Cathy Bennett" STUDY_ID="STD-White-1986">
+<CHAR_METHODS>
+<P>Randomised controlled trial; double-blind, parallel group</P>
+</CHAR_METHODS>
+<CHAR_PARTICIPANTS>
+<P>20 patients with palmoplantar pustular psoriasis who had received etretinate 70 mg daily for 4 weeks</P>
+<P>age: median age group 1 55 yrs</P>
+<P> median age group 2 50 yrs</P>
+<P>sex: 18 female, 2 male</P>
+</CHAR_PARTICIPANTS>
+<CHAR_INTERVENTIONS>
+<P>Group 1. 30mg etretinate daily </P>
+<P>Group 2. placebo</P>
+<P>study period: 12 weeks</P>
+</CHAR_INTERVENTIONS>
+<CHAR_OUTCOMES>
+<P>(1) Number of fresh pustules counted</P>
+<P>(2) degree of scaling/ erythema- (0)-none, (1) mild, (2) moderate, (3) severe<BR/>
+</P>
+</CHAR_OUTCOMES>
+<CHAR_NOTES MODIFIED="2008-10-18 13:03:01 +0100" MODIFIED_BY="Cathy Bennett">
+<P>Initially all patients received the same treatment for a 4 week period. They were then randomised to receive either etretinate or placebo. 2 drop-outs in etretinate group and 2 drop-outs in placebo group.</P>
+</CHAR_NOTES>
+</INCLUDED_CHAR>
+<FOOTNOTES>
+<P>Bw: Bi-weekly<BR/>MOP: Methoxypsoralen<BR/>PASI: Psoriasis Area and Severity Index<BR/>PPPASI: Palmoplantar Pustular Psoriasis Area and Severity Index<BR/>PUVA: psoralen plus ultraviolet A radiation<BR/>UVA: ultraviolet A radiation</P>
+<P>Methods: Unless otherwise stated, no details were provided of method of allocation concealment and blinding.</P>
+</FOOTNOTES>
+</CHARACTERISTICS_OF_INCLUDED_STUDIES>
+<CHARACTERISTICS_OF_EXCLUDED_STUDIES SORT_BY="STUDY">
+<EXCLUDED_CHAR STUDY_ID="STD-Abel-1980">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled study of topical PUVA.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Agren_x002d_Jonsson-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled study of oral PUVA.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Allenby-1966">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled study of topical methotrexate applied under polythene occlusion at night.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Coleman-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Retrospective uncontrolled study of topical PUVA.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Davis-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled study of topical PUVA in a variety of palmoplantar dermatoses.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-De-Rie-1995">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled study of topical PUVA in patients with non-pustular palmoplantar psoriasis.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Duweb-2001">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Study of the effect of occlusion on calcipotriol efficacy in palmoplantar non-pustular psoriasis.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Fredriksson-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Randomised unblinded comparison of two different etretinate dose regimens.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Goette-1984">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled case series of intralesional triamcinolone injection.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Jansen-1981">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled case series of topical PUVA .</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Kumar-1997">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomised parallel group comparison of crude coal tar and salicylic acid ointments in non-pustular palmoplantar psoriasis.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Meinardi-1990">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled open study of ciclosporin.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Morison-1978">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomised and unblinded study of oral PUVA.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Schr_x00f6_der-1989">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>30 patients were randomised to acitretin or placebo for four weeks only, after which all patients received acitretin for a further 20 weeks. Data for the four week initial comparative phase of the study were not analysable.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Shephard-1998">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Non-randomised left-right comparison of 8-MOP bath PUVA versus 8-MOP lotion PUVA in patients with a variety of palmoplantar dermatoses, including some with PPP.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Thomsen-1971">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Not placebo-controlled. 25 patients with pustulosis palmaris et plantaris were treated with methotrexate 25mg weekly for 2 months.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Thune-1982">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Partly randomised study of etretinate.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Vahlquist-1985">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Comparison of acitretin with etretinate. The clinical response to treatment was not presented in such a way that patients with palmoplantar pustulosis could be assessed separately.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Volden-1992">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled study of clobetasol propionate lotion under hydrocolloid occlusive dressing.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<EXCLUDED_CHAR STUDY_ID="STD-Wilkinson-1979">
+<CHAR_REASON_FOR_EXCLUSION>
+<P>Uncontrolled observational study of topical PUVA.</P>
+</CHAR_REASON_FOR_EXCLUSION>
+</EXCLUDED_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_EXCLUDED_STUDIES>
+<CHARACTERISTICS_OF_AWAITING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<AWAITING_CHAR STUDY_ID="STD-Mizuno-1976">
+<CHAR_METHODS/>
+<CHAR_PARTICIPANTS/>
+<CHAR_INTERVENTIONS/>
+<CHAR_OUTCOMES/>
+<CHAR_NOTES/>
+</AWAITING_CHAR>
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_AWAITING_STUDIES>
+<CHARACTERISTICS_OF_ONGOING_STUDIES SORT_BY="STUDY" USER_DEF_1_ENABLED="NO" USER_DEF_2_ENABLED="NO" USER_DEF_3_ENABLED="NO">
+<FOOTNOTES/>
+</CHARACTERISTICS_OF_ONGOING_STUDIES>
+</CHARACTERISTICS_OF_STUDIES>
+<QUALITY_ITEMS>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-01" LEVEL="STUDY" NO="1">
+<NAME>Random sequence generation (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate generation of a randomised sequence</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-02" LEVEL="STUDY" NO="2">
+<NAME>Allocation concealment (selection bias)</NAME>
+<DESCRIPTION>
+<P>Selection bias (biased allocation to interventions) due to inadequate concealment of allocations prior to assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Bhushan-2001">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Erkko-1998">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Foged-1983">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Hattel-1974">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Jansen-1978">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Kragballe-1991">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Lassus-1983">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lassus-1985">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lassus-1988">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lawrence-1984">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Layton-1991">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Lindeloef-1990">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Mann-1982">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Matsunami-1990">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Murray-1980">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Nielsen-1995">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Reitamo-1993">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="NO" STUDY_ID="STD-Rosen-1987">
+<DESCRIPTION>
+<P>C - Inadequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Thestrup_x002d_Pedersen-84">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-Thomsen-1973">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="YES" STUDY_ID="STD-Ward-1976">
+<DESCRIPTION>
+<P>A - Adequate</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-White-1985">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+<QUALITY_ITEM_DATA_ENTRY RESULT="UNKNOWN" STUDY_ID="STD-White-1986">
+<DESCRIPTION>
+<P>B - Unclear</P>
+</DESCRIPTION>
+</QUALITY_ITEM_DATA_ENTRY>
+</QUALITY_ITEM_DATA>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-03" LEVEL="GROUP" NO="3">
+<NAME>Blinding (performance bias and detection bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias or detection bias due to knowledge of the allocated interventions after assignment</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-07" LEVEL="GROUP" NO="7">
+<NAME>Blinding of participants and personnel (performance bias)</NAME>
+<DESCRIPTION>
+<P>Performance bias due to knowledge of the allocated interventions by participants and personnel during the study</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="NO" ID="QIT-08" LEVEL="GROUP" NO="8">
+<NAME>Blinding of outcome assessment (detection bias)</NAME>
+<DESCRIPTION>
+<P>Detection bias due to knowledge of the allocated interventions by outcome assessors</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-04" LEVEL="GROUP" NO="4">
+<NAME>Incomplete outcome data (attrition bias)</NAME>
+<DESCRIPTION>
+<P>Attrition bias due to amount, nature or handling of incomplete outcome data</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-05" LEVEL="STUDY" NO="5">
+<NAME>Selective reporting (reporting bias)</NAME>
+<DESCRIPTION>
+<P>Reporting bias due to selective outcome reporting</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+<QUALITY_ITEM CORE_ITEM="YES" ID="QIT-06" LEVEL="STUDY" NO="6">
+<NAME>Other bias</NAME>
+<DESCRIPTION>
+<P>Bias due to problems not covered elsewhere in the table</P>
+</DESCRIPTION>
+<QUALITY_ITEM_DATA/>
+</QUALITY_ITEM>
+</QUALITY_ITEMS>
+<SOF_TABLES/>
+<ADDITIONAL_TABLES/>
+<ANALYSES_AND_DATA CALCULATED_DATA="YES">
+<COMPARISON ID="CMP-001" NO="1">
+<NAME>retinoid versus placebo</NAME>
+<DICH_OUTCOME CHI2="2.7098646619284903" CI_END="0.5933570680431971" CI_START="0.2833590600943706" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RD" EFFECT_SIZE="0.43835806406878386" ESTIMABLE="YES" EVENTS_1="48" EVENTS_2="17" I2="0.0" I2_Q="0.0" ID="CMP-001.01" LOG_CI_END="-0.22668387997139788" LOG_CI_START="-0.5476628967119668" LOG_EFFECT_SIZE="-0.3581709997213442" METHOD="MH" NO="1" P_CHI2="0.43855357009507034" P_Q="1.0" P_Z="2.9726120690942344E-8" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="60" WEIGHT="100.0" Z="5.543042186576543">
+<NAME>improvement</NAME>
+<GROUP_LABEL_1>etretinate</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours etretinate</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.7563782476828447" CI_START="0.2820832907786937" EFFECT_SIZE="0.5192307692307692" ESTIMABLE="YES" EVENTS_1="18" EVENTS_2="6" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43485" O_E="0.0" SE="0.12099583478199828" STUDY_ID="STD-Foged-1983" TOTAL_1="24" TOTAL_2="26" VAR="0.014639992034592627" WEIGHT="40.022188323394815"/>
+<DICH_DATA CI_END="0.6203654430991322" CI_START="-0.2203654430991323" EFFECT_SIZE="0.19999999999999996" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="5" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43486" O_E="0.0" SE="0.21447610589527216" STUDY_ID="STD-Jansen-1978" TOTAL_1="10" TOTAL_2="10" VAR="0.046" WEIGHT="16.034530578283178"/>
+<DICH_DATA CI_END="0.6728666523057867" CI_START="0.060052602352598405" EFFECT_SIZE="0.36645962732919257" ESTIMABLE="YES" EVENTS_1="15" EVENTS_2="4" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43487" O_E="0.0" SE="0.15633298743930688" STUDY_ID="STD-Rosen-1987" TOTAL_1="23" TOTAL_2="14" VAR="0.02444000296169848" WEIGHT="27.908750520038833"/>
+<DICH_DATA CI_END="0.9506090162306328" CI_START="0.2493909837693674" EFFECT_SIZE="0.6000000000000001" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="2" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43488" O_E="0.0" SE="0.17888543819998318" STUDY_ID="STD-White-1985" TOTAL_1="10" TOTAL_2="10" VAR="0.032" WEIGHT="16.034530578283178"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="3.175508857223158" CI_END="0.3634567663903219" CI_START="0.07015160970175957" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RD" EFFECT_SIZE="0.21680418804604074" ESTIMABLE="YES" EVENTS_1="26" EVENTS_2="10" I2="5.526952218191346" I2_Q="0.0" ID="CMP-001.02" LOG_CI_END="-0.43954724157190994" LOG_CI_START="-1.1539623591820074" LOG_EFFECT_SIZE="-0.6639323327069079" METHOD="MH" NO="2" P_CHI2="0.36534902050812756" P_Q="1.0" P_Z="0.0037612885072979543" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="4" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="67" TOTAL_2="60" WEIGHT="100.0" Z="2.8975174188218396">
+<NAME>good or excellent response</NAME>
+<GROUP_LABEL_1>etretinate</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours etretinate</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.2878237600162773" CI_START="-0.1724391446316619" EFFECT_SIZE="0.05769230769230768" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="5" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43489" O_E="0.0" SE="0.1174161638373037" STUDY_ID="STD-Foged-1983" TOTAL_1="24" TOTAL_2="26" VAR="0.013786555530268547" WEIGHT="40.022188323394815"/>
+<DICH_DATA CI_END="0.7919927969080108" CI_START="0.008007203091989101" EFFECT_SIZE="0.39999999999999997" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="2" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43490" O_E="0.0" SE="0.2" STUDY_ID="STD-Jansen-1978" TOTAL_1="10" TOTAL_2="10" VAR="0.04" WEIGHT="16.034530578283178"/>
+<DICH_DATA CI_END="0.5651348453837377" CI_START="0.018716086293280865" EFFECT_SIZE="0.2919254658385093" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="2" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43491" O_E="0.0" SE="0.13939510200201083" STUDY_ID="STD-Rosen-1987" TOTAL_1="23" TOTAL_2="14" VAR="0.019430994462151005" WEIGHT="27.90875052003883"/>
+<DICH_DATA CI_END="0.6560451391086617" CI_START="-0.056045139108661546" EFFECT_SIZE="0.30000000000000004" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="1" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43492" O_E="0.0" SE="0.1816590212458495" STUDY_ID="STD-White-1985" TOTAL_1="10" TOTAL_2="10" VAR="0.033" WEIGHT="16.034530578283178"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="13.094933578455526" CI_END="0.4759749109740289" CI_START="0.13513620013708225" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RD" EFFECT_SIZE="0.3055555555555556" ESTIMABLE="YES" EVENTS_1="20" EVENTS_2="9" I2="77.09037635031797" I2_Q="39.737101298701305" ID="CMP-001.03" LOG_CI_END="-0.3224159386927416" LOG_CI_START="-0.8692282970633938" LOG_EFFECT_SIZE="-0.5149098156090622" METHOD="MH" NO="3" P_CHI2="0.004435755248202278" P_Q="0.1976849945984709" P_Z="4.4117622543660145E-4" Q="1.6593957833934223" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="42" TOTAL_2="48" WEIGHT="200.0" Z="3.5141424088504603">
+<NAME>in remission at three months</NAME>
+<GROUP_LABEL_1>retinoid</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours retinoid</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.33165644760580326" CI_END="0.6766541229165778" CI_START="0.15847132511209605" DF="1" EFFECT_SIZE="0.4175627240143369" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="5" I2="0.0" ID="CMP-001.03.01" LOG_CI_END="-0.1696332676418288" LOG_CI_START="-0.8000493105579949" LOG_EFFECT_SIZE="-0.37927827791155977" NO="1" P_CHI2="0.5646854899954022" P_Z="0.0015844116893726486" STUDIES="2" TAU2="0.0" TOTAL_1="21" TOTAL_2="24" WEIGHT="100.0" Z="3.15876136306376">
+<NAME>in partial remission at three months</NAME>
+<DICH_DATA CI_END="0.7205277067690152" CI_START="-0.019229005470313976" EFFECT_SIZE="0.35064935064935066" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43493" O_E="0.0" SE="0.1887169147174223" STUDY_ID="STD-Lassus-1983" TOTAL_1="11" TOTAL_2="14" VAR="0.03561407390046284" WEIGHT="55.19713261648746"/>
+<DICH_DATA CI_END="0.8560451391086616" CI_START="0.1439548608913384" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="1" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43494" O_E="0.0" SE="0.1816590212458495" STUDY_ID="STD-White-1986" TOTAL_1="10" TOTAL_2="10" VAR="0.033" WEIGHT="44.80286738351254"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="5.441629423835453" CI_END="0.41500419266499955" CI_START="-0.02790741847145109" DF="1" EFFECT_SIZE="0.19354838709677422" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" I2="81.62315141086611" ID="CMP-001.03.02" LOG_CI_END="-0.3819475157166399" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-0.713210443450629" NO="2" P_CHI2="0.019662401557336007" P_Z="0.08671746344403095" STUDIES="2" TAU2="0.0" TOTAL_1="21" TOTAL_2="24" WEIGHT="100.0" Z="1.7129732363626218">
+<NAME>in complete remission at three months</NAME>
+<DICH_DATA CI_END="0.7205277067690152" CI_START="-0.019229005470313976" EFFECT_SIZE="0.35064935064935066" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43495" O_E="0.0" SE="0.1887169147174223" STUDY_ID="STD-Lassus-1983" TOTAL_1="11" TOTAL_2="14" VAR="0.03561407390046284" WEIGHT="55.19713261648746"/>
+<DICH_DATA CI_END="0.17408193796294572" CI_START="-0.17408193796294572" EFFECT_SIZE="0.0" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43496" O_E="0.0" SE="0.08881894735621768" STUDY_ID="STD-White-1986" TOTAL_1="10" TOTAL_2="10" VAR="0.007888805409466567" WEIGHT="44.80286738351254"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.7205277067690152" CI_START="-0.019229005470313976" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.35064935064935066" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" I2="0.0" I2_Q="99.99999999999999" ID="CMP-001.04" LOG_CI_END="-0.142349314412048" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-0.45512696101349454" METHOD="MH" NO="4" P_CHI2="1.0" P_Q="0.0" P_Z="0.06315898945029616" Q="8.652444310729446E-32" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="11" TOTAL_2="14" WEIGHT="100.0" Z="1.858070598358393">
+<NAME>in remission at six months</NAME>
+<GROUP_LABEL_1>retinoid</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours retinoid</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.7205277067690152" CI_START="-0.019229005470313976" EFFECT_SIZE="0.35064935064935066" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="4" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43497" O_E="0.0" SE="0.1887169147174223" STUDY_ID="STD-Lassus-1983" TOTAL_1="11" TOTAL_2="14" VAR="0.03561407390046284" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-002" NO="2">
+<NAME>retinoids compared</NAME>
+<CONT_OUTCOME CHI2="0.0" CI_END="35.60984589341966" CI_START="-29.12984589341967" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="MD" EFFECT_SIZE="3.239999999999995" ESTIMABLE="YES" I2="0.0" I2_Q="0.0" ID="CMP-002.01" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.844470080987408" Q="0.0" RANDOM="NO" SCALE="100.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" TAU2="0.0" TOTALS="YES" TOTAL_1="30" TOTAL_2="30" UNITS="" WEIGHT="100.0" Z="0.19617897875753215">
+<NAME>reduction in pustules</NAME>
+<GROUP_LABEL_1>acitretin</GROUP_LABEL_1>
+<GROUP_LABEL_2>etretinate</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours etretinate</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours acitretin</GRAPH_LABEL_2>
+<CONT_DATA CI_END="35.60984589341966" CI_START="-29.12984589341967" EFFECT_SIZE="3.239999999999995" ESTIMABLE="YES" MEAN_1="93.25" MEAN_2="90.01" ORDER="43498" SD_1="47.1" SD_2="77.23" SE="16.515530973399958" STUDY_ID="STD-Lassus-1988" TOTAL_1="30" TOTAL_2="30" WEIGHT="100.0"/>
+</CONT_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-003" NO="3">
+<NAME>liarozole versus placebo</NAME>
+<DICH_OUTCOME CHI2="0.10808074042553423" CI_END="0.7135803991347529" CI_START="0.0721338865795329" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RD" EFFECT_SIZE="0.3928571428571429" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="4" I2="0.0" I2_Q="0.0" ID="CMP-003.01" LOG_CI_END="-0.14655708781428906" LOG_CI_START="-1.1418606673583718" LOG_EFFECT_SIZE="-0.4057653461839941" METHOD="MH" NO="1" P_CHI2="0.7423398914214951" P_Q="0.743381255070249" P_Z="0.016360186925075643" Q="0.10717703349282287" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="14" TOTAL_2="16" WEIGHT="200.0" Z="2.400779600475329">
+<NAME>induction of remission</NAME>
+<GROUP_LABEL_1>liarozole</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours liarozole</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.8787652522647911" CI_START="0.014091890592351719" DF="0" EFFECT_SIZE="0.4464285714285714" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="1" I2="0.0" ID="CMP-003.01.01" LOG_CI_END="-0.056127124086542905" LOG_CI_START="-1.8510307372848893" LOG_EFFECT_SIZE="-0.35024801833416286" NO="1" P_CHI2="1.0" P_Z="0.042985747293841435" STUDIES="1" TAU2="0.0" TOTAL_1="7" TOTAL_2="8" WEIGHT="100.0" Z="2.023848450650278">
+<NAME>good or excellent response (objective)</NAME>
+<DICH_DATA CI_END="0.8787652522647911" CI_START="0.014091890592351719" EFFECT_SIZE="0.4464285714285714" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="1" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43499" O_E="0.0" SE="0.22058399248477842" STUDY_ID="STD-Bhushan-2001" TOTAL_1="7" TOTAL_2="8" VAR="0.04865729774052478" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.813140779545942" CI_START="-0.13456935097451345" DF="0" EFFECT_SIZE="0.3392857142857143" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" I2="0.0" ID="CMP-003.01.02" LOG_CI_END="-0.08983425823486321" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-0.46943442605337143" NO="2" P_CHI2="1.0" P_Z="0.16051043537347356" STUDIES="1" TAU2="0.0" TOTAL_1="7" TOTAL_2="8" WEIGHT="100.0" Z="1.4033569106278407">
+<NAME>improvement in visual-analogue scale (subjective)</NAME>
+<DICH_DATA CI_END="0.813140779545942" CI_START="-0.13456935097451345" EFFECT_SIZE="0.3392857142857143" ESTIMABLE="YES" EVENTS_1="5" EVENTS_2="3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43500" O_E="0.0" SE="0.24176723092767827" STUDY_ID="STD-Bhushan-2001" TOTAL_1="7" TOTAL_2="8" VAR="0.058451393950437316" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-004" NO="4">
+<NAME>PUVA versus placebo</NAME>
+<DICH_OUTCOME CHI2="10.245966472585867" CI_END="0.34763807544949066" CI_START="0.07736192455050936" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="RD" EFFECT_SIZE="0.2125" ESTIMABLE="YES" EVENTS_1="61" EVENTS_2="44" I2="80.48012351639834" I2_Q="89.58648312979224" ID="CMP-004.01" LOG_CI_END="-0.4588726630288456" LOG_CI_START="-1.1114727347462827" LOG_EFFECT_SIZE="-0.6726410656136697" METHOD="MH" NO="1" P_CHI2="0.005958249234062296" P_Q="0.0019427187356173548" P_Z="0.002056312038628293" Q="9.602903730447878" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="80" TOTAL_2="80" WEIGHT="200.0" Z="3.0819763070433113">
+<NAME>improvement</NAME>
+<GROUP_LABEL_1>PUVA</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours PUVA</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.23175327238634472" CI_END="0.624961934096238" CI_START="0.2639269547926508" DF="1" EFFECT_SIZE="0.4444444444444444" ESTIMABLE="YES" EVENTS_1="31" EVENTS_2="15" I2="0.0" ID="CMP-004.01.01" LOG_CI_END="-0.20414643436058338" LOG_CI_START="-0.578516253130056" LOG_EFFECT_SIZE="-0.35218251811136253" NO="1" P_CHI2="0.630226862291988" P_Z="1.396215759790086E-6" STUDIES="2" TAU2="0.0" TOTAL_1="36" TOTAL_2="36" WEIGHT="100.0" Z="4.8255440839572366">
+<NAME>improvement with oral psoralen plus UVA</NAME>
+<DICH_DATA CI_END="0.618957564240717" CI_START="0.19922425394110105" EFFECT_SIZE="0.40909090909090906" ESTIMABLE="YES" EVENTS_1="22" EVENTS_2="13" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43501" O_E="0.0" SE="0.10707679161719777" STUDY_ID="STD-Murray-1980" TOTAL_1="22" TOTAL_2="22" VAR="0.011465439303032794" WEIGHT="61.11111111111111"/>
+<DICH_DATA CI_END="0.8107996942361421" CI_START="0.18920030576385793" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="9" EVENTS_2="2" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43502" O_E="0.0" SE="0.15857418640734747" STUDY_ID="STD-Rosen-1987" TOTAL_1="14" TOTAL_2="14" VAR="0.025145772594752185" WEIGHT="38.888888888888886"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.2190868704296773" CI_START="-0.1736323249751319" DF="0" EFFECT_SIZE="0.022727272727272707" ESTIMABLE="YES" EVENTS_1="30" EVENTS_2="29" I2="0.0" ID="CMP-004.01.02" LOG_CI_END="-0.6593836483215263" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-1.6434526764861879" NO="2" P_CHI2="1.0" P_Z="0.8205385561128278" STUDIES="1" TAU2="0.0" TOTAL_1="44" TOTAL_2="44" WEIGHT="100.00000000000001" Z="0.22685234912624">
+<NAME>improvement with topical psoralen plus UVA</NAME>
+<DICH_DATA CI_END="0.2190868704296773" CI_START="-0.1736323249751319" EFFECT_SIZE="0.022727272727272707" ESTIMABLE="YES" EVENTS_1="30" EVENTS_2="29" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43503" O_E="0.0" SE="0.10018530914407818" STUDY_ID="STD-Layton-1991" TOTAL_1="44" TOTAL_2="44" VAR="0.010037096168294516" WEIGHT="100.00000000000001"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="76.76924157133541" CI_END="0.2536053901429376" CI_START="0.10195016541261798" CI_STUDY="95" CI_TOTAL="95" DF="3" EFFECT_MEASURE="RD" EFFECT_SIZE="0.17777777777777778" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="0" I2="96.09218491860136" I2_Q="94.84546597016322" ID="CMP-004.02" LOG_CI_END="-0.5958415201733595" LOG_CI_START="-0.9916120652489707" LOG_EFFECT_SIZE="-0.7501225267834001" METHOD="MH" NO="2" P_CHI2="3.3306690738754696E-16" P_Q="1.059865406982663E-5" P_Z="4.3247120548833785E-6" Q="19.400395733378556" RANDOM="NO" SCALE="1.0" SORT_BY="USER" STUDIES="4" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="90" TOTAL_2="90" WEIGHT="200.0" Z="4.595134026086057">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>PUVA</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours PUVA</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="4.326357774273016" CI_END="0.5832522077843982" CI_START="0.2500811255489351" DF="1" EFFECT_SIZE="0.4166666666666667" ESTIMABLE="YES" EVENTS_1="15" EVENTS_2="0" I2="76.88586908030194" ID="CMP-004.02.01" LOG_CI_END="-0.23414360859633293" LOG_CI_START="-0.6019190846760096" LOG_EFFECT_SIZE="-0.38021124171160603" NO="1" P_CHI2="0.03752665895834606" P_Z="9.472287994276981E-7" STUDIES="2" TAU2="0.0" TOTAL_1="36" TOTAL_2="36" WEIGHT="100.0" Z="4.902296170157213">
+<NAME>clearance with oral psoralen and UVA</NAME>
+<DICH_DATA CI_END="0.7575658276104646" CI_START="0.3333432632986262" EFFECT_SIZE="0.5454545454545454" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43504" O_E="0.0" SE="0.1082220305214922" STUDY_ID="STD-Murray-1980" TOTAL_1="22" TOTAL_2="22" VAR="0.01171200789019479" WEIGHT="61.11111111111111"/>
+<DICH_DATA CI_END="0.446804479109017" CI_START="-0.018233050537588474" EFFECT_SIZE="0.21428571428571427" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43505" O_E="0.0" SE="0.11863420280034791" STUDY_ID="STD-Rosen-1987" TOTAL_1="14" TOTAL_2="14" VAR="0.014074074074074076" WEIGHT="38.888888888888886"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="1.1554173222060584" CI_END="0.07883499856527194" CI_START="-0.04179796152823491" DF="1" EFFECT_SIZE="0.018518518518518517" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" I2="13.451185058340428" ID="CMP-004.02.02" LOG_CI_END="-1.1032809359451485" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-1.7323937598229686" NO="2" P_CHI2="0.2824180262273447" P_Z="0.5473384959885156" STUDIES="2" TAU2="0.0" TOTAL_1="54" TOTAL_2="54" WEIGHT="100.0" Z="0.6017531081919952">
+<NAME>clearance with topical psoralen and UVA</NAME>
+<DICH_DATA CI_END="0.33723369268783815" CI_START="-0.13723369268783814" EFFECT_SIZE="0.1" ESTIMABLE="YES" EVENTS_1="1" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="10" O_E="0.0" SE="0.12103982244526289" STUDY_ID="STD-Matsunami-1990" TOTAL_1="10" TOTAL_2="10" VAR="0.014650638617580767" WEIGHT="18.51851851851852"/>
+<DICH_DATA CI_END="0.04331210844817517" CI_START="-0.04331210844817517" EFFECT_SIZE="0.0" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43506" O_E="0.0" SE="0.02209842057803896" STUDY_ID="STD-Layton-1991" TOTAL_1="44" TOTAL_2="44" VAR="4.883401920438957E-4" WEIGHT="81.48148148148148"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-005" NO="5">
+<NAME>topical PUVA versus systemic PUVA</NAME>
+<DICH_OUTCOME CHI2="1.7750854112012395" CI_END="0.15358013901887502" CI_START="-0.010894852131485541" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="RD" EFFECT_SIZE="0.07134264344369474" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-005.01" LOG_CI_END="-0.8136649436287869" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-1.1466508028790683" METHOD="MH" NO="1" P_CHI2="0.41166613308611444" P_Q="0.43346438371034435" P_Z="0.08907314341867606" Q="1.6718924899741667" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="YES" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="SUB" TOTAL_1="102" TOTAL_2="39" WEIGHT="300.0" Z="1.7003072714403704">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>topical PUVA</GROUP_LABEL_1>
+<GROUP_LABEL_2>systemic PUVA</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Oral PUVA</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Topica PUVAl</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.12095543613227716" CI_START="-0.12095543613227716" DF="0" EFFECT_SIZE="0.0" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="0" I2="0.0" ID="CMP-005.01.01" LOG_CI_END="-0.9173746082512773" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-Infinity" NO="1" P_CHI2="1.0" P_Z="1.0" STUDIES="1" TAU2="0.0" TOTAL_1="18" TOTAL_2="13" WEIGHT="100.0" Z="0.0">
+<NAME>bath Trioxsalen versus Oral 8-MOP</NAME>
+<DICH_DATA CI_END="0.12095543613227716" CI_START="-0.12095543613227716" EFFECT_SIZE="0.0" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43508" O_E="0.0" SE="0.061713091202878316" STUDY_ID="STD-Lassus-1985" TOTAL_1="18" TOTAL_2="13" VAR="0.0038085056258147774" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.2709594156905225" CI_START="-0.02853517326628008" DF="0" EFFECT_SIZE="0.12121212121212122" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="0" I2="0.0" ID="CMP-005.01.02" LOG_CI_END="-0.567095752895222" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-0.9164539485499251" NO="2" P_CHI2="1.0" P_Z="0.11263000485758201" STUDIES="1" TAU2="0.0" TOTAL_1="33" TOTAL_2="13" WEIGHT="100.0" Z="1.5864820322328232">
+<NAME>topical 8-MOP versus oral 8-MOP</NAME>
+<DICH_DATA CI_END="0.2709594156905225" CI_START="-0.02853517326628008" EFFECT_SIZE="0.12121212121212122" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43509" O_E="0.0" SE="0.07640308478093927" STUDY_ID="STD-Lassus-1985" TOTAL_1="33" TOTAL_2="13" VAR="0.005837431364043393" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.20208158919411767" CI_START="-0.04521884409607847" DF="0" EFFECT_SIZE="0.0784313725490196" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="0" I2="0.0" ID="CMP-005.01.03" LOG_CI_END="-0.6944732514308558" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-1.105510184769974" NO="3" P_CHI2="1.0" P_Z="0.21379203302428207" STUDIES="1" TAU2="0.0" TOTAL_1="51" TOTAL_2="13" WEIGHT="100.0" Z="1.2432057915057118">
+<NAME>Topical PUVA overall versus Oral 8-MOP</NAME>
+<DICH_DATA CI_END="0.20208158919411767" CI_START="-0.04521884409607847" EFFECT_SIZE="0.0784313725490196" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43510" O_E="0.0" SE="0.06308800448397787" STUDY_ID="STD-Lassus-1985" TOTAL_1="51" TOTAL_2="13" VAR="0.003980096309770413" WEIGHT="100.0"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-006" NO="6">
+<NAME>topical 8-MOP cream PUVA versus trioxsalen soak PUVA</NAME>
+<DICH_OUTCOME CHI2="4.075083235906996E-32" CI_END="0.2559532222579388" CI_START="-0.0135289798336964" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.1212121212121212" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="0" I2="100.0" I2_Q="99.99999999999999" ID="CMP-006.01" LOG_CI_END="-0.5918393986394896" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-0.9164539485499251" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.07787191585014999" Q="4.075083235906997E-32" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="33" TOTAL_2="18" WEIGHT="100.0" Z="1.7631694428909033">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>topical 8-MOP</GROUP_LABEL_1>
+<GROUP_LABEL_2>bath trioxsalen</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours Trioxsalen</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours 8-MOP</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.2559532222579388" CI_START="-0.013528979833696386" EFFECT_SIZE="0.12121212121212122" ESTIMABLE="YES" EVENTS_1="4" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43511" O_E="0.0" SE="0.06874672295442069" STUDY_ID="STD-Lassus-1985" TOTAL_1="33" TOTAL_2="18" VAR="0.004726111916971873" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-007" NO="7">
+<NAME>PUVA versus no intervention after induction of remission with steroid plus occlusion</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.2820239756837603" CI_START="-0.5384342320940168" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.12820512820512825" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="6" I2="0.0" I2_Q="0.0" ID="CMP-007.01" LOG_CI_END="-0.5497139694659383" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.5401874799968447" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="9" TOTAL_2="13" WEIGHT="100.0" Z="0.6125295146866291">
+<NAME>no relapse within one year</NAME>
+<GROUP_LABEL_1>steroid + PUVA</GROUP_LABEL_1>
+<GROUP_LABEL_2>steroid - no PUVA</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Steroid - PUVA</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Steroid + PUVA</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.2820239756837603" CI_START="-0.5384342320940168" EFFECT_SIZE="-0.12820512820512825" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="6" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43512" O_E="0.0" SE="0.20930440922625282" STUDY_ID="STD-Nielsen-1995" TOTAL_1="9" TOTAL_2="13" VAR="0.04380833572155071" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-008" NO="8">
+<NAME>retinoid versus PUVA</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.11448132862450355" CI_START="-0.530630396947485" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="-0.20807453416149074" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="9" I2="0.0" I2_Q="0.0" ID="CMP-008.01" LOG_CI_END="-0.9412653389710081" LOG_CI_START="NaN" LOG_EFFECT_SIZE="NaN" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.20610991923093547" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="23" TOTAL_2="14" WEIGHT="100.0" Z="1.2643347714533588">
+<NAME>good or excellent response</NAME>
+<GROUP_LABEL_1>retinoid</GROUP_LABEL_1>
+<GROUP_LABEL_2>PUVA</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PUVA</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours retinoid</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.11448132862450355" CI_START="-0.530630396947485" EFFECT_SIZE="-0.20807453416149074" ESTIMABLE="YES" EVENTS_1="10" EVENTS_2="9" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43513" O_E="0.0" SE="0.16457234180335648" STUDY_ID="STD-Rosen-1987" TOTAL_1="23" TOTAL_2="14" VAR="0.027084055686640796" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="17" EVENTS_2="7" I2="0.0" I2_Q="0.0" ID="CMP-008.02" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="43" TOTAL_2="78" WEIGHT="0.0" Z="0.0">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>retinoid</GROUP_LABEL_1>
+<GROUP_LABEL_2>PUVA</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PUVA</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Retinoid</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.8469093555873839" CI_START="0.42809064441261596" EFFECT_SIZE="0.6375" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="4" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43514" O_E="0.0" SE="0.10684347122660327" STUDY_ID="STD-Lassus-1985" TOTAL_1="20" TOTAL_2="64" VAR="0.01141552734375" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.17137830572557006" CI_START="-0.3390801690796073" EFFECT_SIZE="-0.08385093167701863" ESTIMABLE="YES" EVENTS_1="3" EVENTS_2="3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43515" O_E="0.0" SE="0.13022139152341794" STUDY_ID="STD-Rosen-1987" TOTAL_1="23" TOTAL_2="14" VAR="0.016957610810295305" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-009" NO="9">
+<NAME>retinoid +PUVA versus PUVA alone</NAME>
+<DICH_OUTCOME CHI2="0.2039940827444465" CI_END="0.6313036935100973" CI_START="0.24000712807990535" CI_STUDY="95" CI_TOTAL="95" DF="2" EFFECT_MEASURE="RD" EFFECT_SIZE="0.4356554107950013" ESTIMABLE="YES" EVENTS_1="28" EVENTS_2="9" I2="0.0" I2_Q="0.0" ID="CMP-009.01" LOG_CI_END="-0.19976166977867862" LOG_CI_START="-0.6197758597892318" LOG_EFFECT_SIZE="-0.36085688770400454" METHOD="MH" NO="1" P_CHI2="0.9030323079071825" P_Q="0.6814285908360243" P_Z="1.275271409109089E-5" Q="0.1685224224342387" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="3" SUBGROUPS="YES" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="41" TOTAL_2="33" WEIGHT="99.99999999999999" Z="4.3643056968284935">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>retinoid + PUVA</GROUP_LABEL_1>
+<GROUP_LABEL_2>PUVA alone</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours PUVA alone</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours RePUVA</GRAPH_LABEL_2>
+<DICH_SUBGROUP CHI2="0.0" CI_END="0.8560451391086616" CI_START="0.1439548608913384" DF="0" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="1" I2="0.0" ID="CMP-009.01.01" LOG_CI_END="-0.0675033344479031" LOG_CI_START="-0.8417736658144286" LOG_EFFECT_SIZE="-0.3010299956639812" NO="1" P_CHI2="1.0" P_Z="0.005915851074044115" STUDIES="1" TAU2="0.0" TOTAL_1="10" TOTAL_2="10" WEIGHT="27.87379243109102" Z="2.752409412815901">
+<NAME>retinoid + topical PUVA versus topical PUVA alone</NAME>
+<DICH_DATA CI_END="0.8560451391086616" CI_START="0.1439548608913384" EFFECT_SIZE="0.5" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="1" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43516" O_E="0.0" SE="0.1816590212458495" STUDY_ID="STD-Matsunami-1990" TOTAL_1="10" TOTAL_2="10" VAR="0.033" WEIGHT="27.87379243109102"/>
+</DICH_SUBGROUP>
+<DICH_SUBGROUP CHI2="0.049026454951291834" CI_END="0.6445583965357111" CI_START="0.17701938670341394" DF="1" EFFECT_SIZE="0.4107888916195625" ESTIMABLE="YES" EVENTS_1="22" EVENTS_2="8" I2="0.0" ID="CMP-009.01.02" LOG_CI_END="-0.1907377297545979" LOG_CI_START="-0.7519791682299721" LOG_EFFECT_SIZE="-0.38638130892469796" NO="2" P_CHI2="0.8247660576527861" P_Z="5.729104318862358E-4" STUDIES="2" TAU2="0.0" TOTAL_1="31" TOTAL_2="23" WEIGHT="72.12620756890897" Z="3.4441251570099576">
+<NAME>retinoid + systemic PUVA versus systemic PUVA alone</NAME>
+<DICH_DATA CI_END="0.7871855156227725" CI_START="0.10170337326611634" EFFECT_SIZE="0.4444444444444444" ESTIMABLE="YES" EVENTS_1="8" EVENTS_2="5" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43517" O_E="0.0" SE="0.17487110675595363" STUDY_ID="STD-Lawrence-1984" TOTAL_1="8" TOTAL_2="9" VAR="0.030579903978052127" WEIGHT="23.61074182398298"/>
+<DICH_DATA CI_END="0.6876333872479264" CI_START="0.10118648852847112" EFFECT_SIZE="0.3944099378881988" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43518" O_E="0.0" SE="0.14960654974919785" STUDY_ID="STD-Rosen-1987" TOTAL_1="23" TOTAL_2="14" VAR="0.02238211972785921" WEIGHT="48.51546574492599"/>
+</DICH_SUBGROUP>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-010" NO="10">
+<NAME>retinoid + PUVA versus retinoid alone</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.5749930262918326" CI_START="0.033702625882080395" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.3043478260869565" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="10" I2="0.0" I2_Q="0.0" ID="CMP-010.01" LOG_CI_END="-0.2403374225474854" LOG_CI_START="-1.4723362605034358" LOG_EFFECT_SIZE="-0.5166297960033361" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="0.027522068756898294" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="23" TOTAL_2="23" WEIGHT="100.0" Z="2.204032354728409">
+<NAME>good or excellent response</NAME>
+<GROUP_LABEL_1>retinoid + PUVA</GROUP_LABEL_1>
+<GROUP_LABEL_2>retinoid alone</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours retinoid</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours RePUVA</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.5749930262918326" CI_START="0.033702625882080395" EFFECT_SIZE="0.3043478260869565" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="10" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43519" O_E="0.0" SE="0.13808682319659488" STUDY_ID="STD-Rosen-1987" TOTAL_1="23" TOTAL_2="23" VAR="0.019067970740527657" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.11117035457211424" CI_END="0.6610324148609468" CI_START="0.24805849422996232" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RD" EFFECT_SIZE="0.45454545454545453" ESTIMABLE="YES" EVENTS_1="20" EVENTS_2="5" I2="0.0" I2_Q="100.00000000000001" ID="CMP-010.02" LOG_CI_END="-0.17977724361560687" LOG_CI_START="-0.605445896892101" LOG_EFFECT_SIZE="-0.3424226808222062" METHOD="MH" NO="2" P_CHI2="0.7388156589181216" P_Q="0.0" P_Z="1.599479492987115E-5" Q="2.7763319319175306E-31" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="33" TOTAL_2="33" WEIGHT="100.0" Z="4.314522906842547">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>retinoid + PUVA</GROUP_LABEL_1>
+<GROUP_LABEL_2>retinoid alone</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours retinoid</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours RePUVA</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.7919927969080108" CI_START="0.008007203091989101" EFFECT_SIZE="0.39999999999999997" ESTIMABLE="YES" EVENTS_1="6" EVENTS_2="2" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43520" O_E="0.0" SE="0.2" STUDY_ID="STD-Matsunami-1990" TOTAL_1="10" TOTAL_2="10" VAR="0.04" WEIGHT="30.303030303030305"/>
+<DICH_DATA CI_END="0.7205940092545534" CI_START="0.23592772987588137" EFFECT_SIZE="0.4782608695652174" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43521" O_E="0.0" SE="0.12364162892830119" STUDY_ID="STD-Rosen-1987" TOTAL_1="23" TOTAL_2="23" VAR="0.015287252404043725" WEIGHT="69.6969696969697"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-011" NO="11">
+<NAME>low dose ciclosporin versus placebo</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.0" CI_START="0.0" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="NO" EVENTS_1="30" EVENTS_2="10" I2="0.0" I2_Q="0.0" ID="CMP-011.01" LOG_CI_END="-Infinity" LOG_CI_START="-Infinity" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="1" P_CHI2="0.0" P_Q="0.0" P_Z="0.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="NO" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="NO" TOTAL_1="47" TOTAL_2="51" WEIGHT="0.0" Z="0.0">
+<NAME>improvement</NAME>
+<GROUP_LABEL_1>ciclosporin</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours ciclosporin</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.5221601535541099" CI_START="0.05370603521530462" EFFECT_SIZE="0.28793309438470727" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="6" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43522" O_E="0.0" SE="0.11950579756411638" STUDY_ID="STD-Erkko-1998" TOTAL_1="27" TOTAL_2="31" VAR="0.014281635651435563" WEIGHT="0.0"/>
+<DICH_DATA CI_END="0.8849914265403698" CI_START="0.41500857345963005" EFFECT_SIZE="0.6499999999999999" ESTIMABLE="YES" EVENTS_1="17" EVENTS_2="4" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43523" O_E="0.0" SE="0.11989578808281798" STUDY_ID="STD-Reitamo-1993" TOTAL_1="20" TOTAL_2="20" VAR="0.014374999999999999" WEIGHT="0.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.3812966329528689" CI_START="0.008189627501133445" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.19474313022700118" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="2" I2="0.0" I2_Q="0.0" ID="CMP-011.02" LOG_CI_END="-0.4187370297550357" LOG_CI_START="-2.0867358513386405" LOG_EFFECT_SIZE="-0.7105378535893022" METHOD="MH" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="0.040755814331268056" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="27" TOTAL_2="31" WEIGHT="100.0" Z="2.046005654701601">
+<NAME>improvement lasting 12 months</NAME>
+<GROUP_LABEL_1>ciclosporin</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours ciclosporin</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.3812966329528689" CI_START="0.008189627501133445" EFFECT_SIZE="0.19474313022700118" ESTIMABLE="YES" EVENTS_1="7" EVENTS_2="2" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43524" O_E="0.0" SE="0.09518210752716783" STUDY_ID="STD-Erkko-1998" TOTAL_1="27" TOTAL_2="31" VAR="0.009059633593313337" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-012" NO="12">
+<NAME>tetracycline antibiotic versus placebo</NAME>
+<DICH_OUTCOME CHI2="0.7314285714285711" CI_END="0.3683440687872189" CI_START="0.13165593121278107" CI_STUDY="95" CI_TOTAL="95" DF="1" EFFECT_MEASURE="RD" EFFECT_SIZE="0.25" ESTIMABLE="YES" EVENTS_1="30" EVENTS_2="10" I2="0.0" I2_Q="0.0" ID="CMP-012.01" LOG_CI_END="-0.43374631892358245" LOG_CI_START="-0.8805595707777547" LOG_EFFECT_SIZE="-0.6020599913279624" METHOD="MH" NO="1" P_CHI2="0.39242055180102675" P_Q="1.0" P_Z="3.4671076872779146E-5" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="2" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="80" TOTAL_2="80" WEIGHT="100.0" Z="4.140393356054125">
+<NAME>improvement</NAME>
+<GROUP_LABEL_1>tetracycline</GROUP_LABEL_1>
+<GROUP_LABEL_2>placebo</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours placebo</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours tetracycline</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.6398825826135195" CI_START="0.06011741738648041" EFFECT_SIZE="0.35" ESTIMABLE="YES" EVENTS_1="14" EVENTS_2="7" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43525" O_E="0.0" SE="0.1479019945774904" STUDY_ID="STD-Thomsen-1973" TOTAL_1="20" TOTAL_2="20" VAR="0.021875" WEIGHT="25.0"/>
+<DICH_DATA CI_END="0.34141226831308413" CI_START="0.09192106502024922" EFFECT_SIZE="0.21666666666666667" ESTIMABLE="YES" EVENTS_1="16" EVENTS_2="3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43526" O_E="0.0" SE="0.06364688465216445" STUDY_ID="STD-Ward-1976" TOTAL_1="60" TOTAL_2="60" VAR="0.004050925925925926" WEIGHT="75.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-013" NO="13">
+<NAME>Grenz ray therapy versus "sham" radiotherapy</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.9364663511223592" CI_START="0.47529835475999355" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.7058823529411764" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="1" I2="0.0" I2_Q="0.0" ID="CMP-013.01" LOG_CI_END="-0.02850782297045575" LOG_CI_START="-0.323033689008193" LOG_EFFECT_SIZE="-0.15126767533064914" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="1.0" P_Z="1.9731752900630894E-9" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="17" TOTAL_2="17" WEIGHT="100.0" Z="5.999999999999999">
+<NAME>superior response</NAME>
+<GROUP_LABEL_1>Grenz ray</GROUP_LABEL_1>
+<GROUP_LABEL_2>sham treatment</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours "sham" rays</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Grenz rays</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.9364663511223592" CI_START="0.47529835475999355" EFFECT_SIZE="0.7058823529411764" ESTIMABLE="YES" EVENTS_1="13" EVENTS_2="1" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43527" O_E="0.0" SE="0.11764705882352941" STUDY_ID="STD-Lindeloef-1990" TOTAL_1="17" TOTAL_2="17" VAR="0.01384083044982699" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.10736391948648874" CI_START="-0.10736391948648874" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.0" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="0" I2="0.0" I2_Q="0.0" ID="CMP-013.02" LOG_CI_END="-0.9691416422916755" LOG_CI_START="NaN" LOG_EFFECT_SIZE="-Infinity" METHOD="MH" NO="2" P_CHI2="1.0" P_Q="1.0" P_Z="1.0" Q="0.0" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="17" TOTAL_2="17" WEIGHT="100.0" Z="0.0">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>Grenz rays</GROUP_LABEL_1>
+<GROUP_LABEL_2>sham treatment</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Favours "sham" rays</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Favours Grenz rays</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.10736391948648874" CI_START="-0.10736391948648874" EFFECT_SIZE="0.0" ESTIMABLE="YES" EVENTS_1="0" EVENTS_2="0" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43528" O_E="0.0" SE="0.05477851651018163" STUDY_ID="STD-Lindeloef-1990" TOTAL_1="17" TOTAL_2="17" VAR="0.0030006858710562414" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+<COMPARISON ID="CMP-014" NO="14">
+<NAME>steroid + occlusion versus steroid alone</NAME>
+<DICH_OUTCOME CHI2="0.0" CI_END="0.7455813604109991" CI_START="0.20178706064163238" CI_STUDY="95" CI_TOTAL="95" DF="0" EFFECT_MEASURE="RD" EFFECT_SIZE="0.47368421052631576" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="3" I2="0.0" I2_Q="100.0" ID="CMP-014.01" LOG_CI_END="-0.12750495791243863" LOG_CI_START="-0.6951066858300609" LOG_EFFECT_SIZE="-0.3245110915135041" METHOD="MH" NO="1" P_CHI2="1.0" P_Q="0.0" P_Z="6.388955413383126E-4" Q="1.601206483460855E-31" RANDOM="NO" SCALE="1.0" SORT_BY="STUDY" STUDIES="1" SUBGROUPS="NO" SUBGROUP_TEST="YES" SWAP_EVENTS="NO" TAU2="0.0" TOTALS="YES" TOTAL_1="19" TOTAL_2="19" WEIGHT="100.0" Z="3.414541097876977">
+<NAME>clearance</NAME>
+<GROUP_LABEL_1>steroid + occlusion</GROUP_LABEL_1>
+<GROUP_LABEL_2>steroid alone</GROUP_LABEL_2>
+<GRAPH_LABEL_1>Steroid alone</GRAPH_LABEL_1>
+<GRAPH_LABEL_2>Steroid + occlusion</GRAPH_LABEL_2>
+<DICH_DATA CI_END="0.7455813604109991" CI_START="0.20178706064163238" EFFECT_SIZE="0.47368421052631576" ESTIMABLE="YES" EVENTS_1="12" EVENTS_2="3" LOG_CI_END="0.0" LOG_CI_START="0.0" LOG_EFFECT_SIZE="0.0" ORDER="43529" O_E="0.0" SE="0.13872558477062508" STUDY_ID="STD-Kragballe-1991" TOTAL_1="19" TOTAL_2="19" VAR="0.019244787869951888" WEIGHT="100.0"/>
+</DICH_OUTCOME>
+</COMPARISON>
+</ANALYSES_AND_DATA>
+<FIGURES/>
+<FEEDBACK/>
+<APPENDICES MODIFIED="2008-10-18 12:27:25 +0100" MODIFIED_BY="Cathy Bennett">
+<APPENDIX ID="APP-01" MODIFIED="2008-10-18 12:21:33 +0100" MODIFIED_BY="Cathy Bennett" NO="1">
+<TITLE MODIFIED="2008-10-18 12:21:33 +0100" MODIFIED_BY="Cathy Bennett">The Cochrane Skin Group Specialised Register Search Strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2008-10-18 12:21:09 +0100" MODIFIED_BY="Cathy Bennett">
+<P>((PALMOPLANTAR or PUSTULAR)and PSORIASIS)OR PALMOPLANTAR AND (PUSTULOSIS or (PUSTULAR and BACTERID))</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-02" MODIFIED="2008-10-18 12:22:16 +0100" MODIFIED_BY="Cathy Bennett" NO="2">
+<TITLE MODIFIED="2008-10-18 12:22:16 +0100" MODIFIED_BY="Cathy Bennett">The Cochrane Central Register of Controlled Trials (CENTRAL) search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2008-10-18 12:22:08 +0100" MODIFIED_BY="Cathy Bennett">
+<P>PSORIASIS<BR/>PSORIASIS*:ME<BR/>(#1 or #2)<BR/>(((PALMOPLANTAR or PUSTULAR) OR (PALMOPLANTAR and PUSTULOSIS)) OR (PUSTULAR AND BACTERID))<BR/>(#3 and #4)</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-03" MODIFIED="2008-10-18 12:23:14 +0100" MODIFIED_BY="Cathy Bennett" NO="3">
+<TITLE MODIFIED="2008-10-18 12:23:10 +0100" MODIFIED_BY="Cathy Bennett">MEDLINE (OVID) search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2008-10-18 12:23:14 +0100" MODIFIED_BY="Cathy Bennett">
+<P>1. randomized controlled trial.pt.<BR/>2. controlled clinical trial.pt.<BR/>3. randomized controlled trials.sh.<BR/>4. random allocation.sh.<BR/>5. double blind method.sh.<BR/>6. single-blind method.sh.<BR/>7. or/1-6<BR/>8. (animal not human).sh.<BR/>9. 7 not 8<BR/>10. Clinical trial.pt.<BR/>11. exp clinical trials/<BR/>12. (clin$ adj25 trial$).ti,ab.<BR/>13. ((singl$ or doubl$ or trebl$ or tripl$) adj25 (blind$or mask$)).ti,ab.<BR/>14. Placebos.sh.<BR/>15. Placebo$.ti,ab.<BR/>16. Random$.ti,ab.<BR/>17. Research design.sh.<BR/>18. or/10-17<BR/>19. 18 not 8<BR/>20. 19 not 9<BR/>21. Comparative study.sh.<BR/>22. exp evaluation studies/<BR/>23. follow up studies.sh.<BR/>24. Prospective studies.sh.<BR/>25. (control$ or prospectiv$ or volunteer$).ti,ab.<BR/>26. or/21-25<BR/>27. 26 not 8<BR/>28. 27 not (9 or 20)<BR/>29. 9 or 20 or 28<BR/>30. (palm$ or plant$ or sole$ or bacterid).mp. and (pustul$ or psoria$).ti,ab.<BR/>31. 29 and 30</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-04" MODIFIED="2008-10-18 12:24:20 +0100" MODIFIED_BY="Cathy Bennett" NO="4">
+<TITLE MODIFIED="2008-10-18 12:24:17 +0100" MODIFIED_BY="Cathy Bennett">EMBASE search strategy</TITLE>
+<APPENDIX_BODY MODIFIED="2008-10-18 12:24:20 +0100" MODIFIED_BY="Cathy Bennett">
+<P>1. random$.mp.<BR/>2. factorial$.mp.<BR/>3. crossover$.mp.<BR/>4. placebo$.mp. or PLACEBO/<BR/>5. (doubl$ adj blind$).mp. [mp=title, abstract, subject headings, drug trade name, original title, device manufacturer, drug manufacturer name]<BR/>6. (singl$ adj blind$).mp. [mp=title, abstract, subject headings, drug trade name, original title, device manufacturer, drug manufacturer name]<BR/>7. assign$.mp.<BR/>8. volunteer$.mp. or VOLUNTEER/<BR/>9. Crossover Procedure/<BR/>10. Double Blind Procedure/<BR/>11. Randomized Controlled Trial/<BR/>12. Single Blind Procedure/<BR/>13. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12<BR/>14. psoriasis.mp. or exp PSORIASIS/<BR/>15. exp PUSTULAR PSORIASIS/ or pustular.mp.<BR/>16. exp Pustulosis Palmoplantaris/ or palmoplantar.mp.<BR/>17. (pustular and bacterid).mp. [mp=title, abstract, subject headings, drug trade name, original title, device manufacturer, drug manufacturer name]<BR/>18. (palmoplantar and pustul$).mp. [mp=title, abstract, subject headings, drug trade name, original title, device manufacturer, drug manufacturer name]<BR/>19. 16 or 17 or 18<BR/>20. 14 and 19<BR/>21. 15 or 20<BR/>22. 21 and 13<BR/>23. limit 22 to yr=2003 - 2005<BR/>24. from 23 keep 1-12</P>
+</APPENDIX_BODY>
+</APPENDIX>
+<APPENDIX ID="APP-05" MODIFIED="2008-10-18 12:27:25 +0100" MODIFIED_BY="Cathy Bennett" NO="5">
+<TITLE MODIFIED="2008-10-18 12:27:21 +0100" MODIFIED_BY="Cathy Bennett">Salford Database of Psoriasis Trials</TITLE>
+<APPENDIX_BODY MODIFIED="2008-10-18 12:27:25 +0100" MODIFIED_BY="Cathy Bennett">
+<P>We undertook a validation check by cross-checking with the Salford Database of Psoriasis Trials for trials containing the keyword term PALMOPLANTAR PUSTULAR PSORIASIS. The Salford Database is derived from searches of MEDLINE (from 1966 to 1999) and EMBASE (from 1988 to 1999) using the terms STUDY or TRIAL* or RANDOM* in the text, COMPAR* in the title or CLINICAL-TRIAL in the subject heading; the Cochrane Central Register of Controlled Trials (CENTRAL); and the European Dermato-Epidemiology Network (EDEN) Psoriasis Trials Database. We screened and retrieved all retrieved studies by disease type and by intervention including PALMOPLANTAR PUSTULAR PSORIASIS.</P>
+</APPENDIX_BODY>
+</APPENDIX>
+</APPENDICES>
+<EXTENSIONS/>
+</COCHRANE_REVIEW>
